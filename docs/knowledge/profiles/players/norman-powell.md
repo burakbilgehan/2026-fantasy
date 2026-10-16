@@ -4,57 +4,58 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 69 | 33.8 | 47.3 (17.1) | 82.5 (5.8) | 3.1 | 24.0 | 3.8 | 2.6 | 1.2 | 0.3 | 2.1 |
-| 2026-27 proj, Yahoo | 66 | - | 47.0 (14.4) | 82.0 (4.5) | 2.6 | 19.8 | 3.2 | 2.1 | 1.0 | 0.2 | 1.7 |
+| 2026-27 proj, Yahoo | 66 | - | 47.0 (15.0) | 82.1 (4.7) | 2.7 | 20.6 | 3.3 | 2.1 | 1.1 | 0.2 | 1.7 |
 | 2025-26 | 58 | 29.6 | 47.0 (15.4) | 82.7 (5.5) | 2.7 | 21.7 | 3.5 | 2.5 | 1.1 | 0.2 | 1.9 |
 | 2024-25 | 60 | 32.6 | 48.4 (15.8) | 80.4 (4.4) | 3.0 | 21.8 | 3.2 | 2.1 | 1.2 | 0.1 | 1.8 |
 | 2023-24 | 76 | 26.2 | 48.6 (10.1) | 83.1 (2.3) | 2.2 | 13.9 | 2.6 | 1.1 | 0.6 | 0.3 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 7 | 2.4 | 89 | 6 | 4.8 | 67 | 8 |
+| 2026-27 | 7 | 2.3 | 89 | 6 | 4.8 | 67 | 8 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.2% | -0.2 | +0.0 | - |
-| FT% | 82.3% | +0.6 | +0.5 | - |
-| 3PM | 2.8 | +1.5 | +1.4 | - |
-| PTS | 21.9 | +1.4 | +1.3 | - |
-| REB | 3.5 | -0.7 | -0.6 | - |
-| AST | 2.3 | -0.5 | -0.6 | - |
-| STL | 1.1 | +0.6 | +0.4 | - |
+| FG% | 47.1% | -0.2 | +0.0 | - |
+| FT% | 82.3% | +0.6 | +0.6 | - |
+| 3PM | 2.9 | +1.5 | +1.5 | - |
+| PTS | 22.3 | +1.4 | +1.4 | - |
+| REB | 3.6 | -0.7 | -0.5 | - |
+| AST | 2.4 | -0.4 | -0.5 | - |
+| STL | 1.1 | +0.6 | +0.5 | - |
 | BLK | 0.3 | -0.7 | -0.7 | - |
 | TO | 1.9 | -0.3 | -0.3 | - |
 
 </details>
 
 **Current**
-- Trade risk is high. His contract looks built for a trade and the front office signs older players hoping to trade them. A trade to a better team where he is the third option would cut his usage and collapse his value, possibly before the fantasy playoffs. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1775), [09-28](https://youtu.be/3Qm5wLjhvTw?t=940), [08-18](https://youtu.be/FxaSnyk9g90?t=883), [09-28](https://youtu.be/3Qm5wLjhvTw?t=746))
-- Experts see him as a pick around 80th overall, in round 7 or 8, with more downside than upside. A rank around 65, as on ESPN, expects too much. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1775), [09-28](https://youtu.be/3Qm5wLjhvTw?t=874), [09-17](https://youtu.be/DubdKKhMWHo?t=1761), [09-24](https://youtu.be/_vbAP5y182A?t=1524), [08-24](https://youtu.be/g31YlwRe0XQ?t=1514))
-- In auction, Josh values him at 6 to 7 USD. He went for 3 USD in a mock auction, which Josh called basically the best pick of the draft. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3391))
+- A 2026-10-12 note says the Bulls are feeding usage to rookie Caleb Wilson. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1610))
+- Powell plays for Chicago this season. He signed a two-year deal with a team option in the second year, which makes him easy to trade. (fact, 2026-10-09; [08-18](https://youtu.be/FxaSnyk9g90?t=883), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1775))
+- Trade risk is real. A trade to a better team where he is the third option would cut his usage and could collapse his value by the fantasy playoffs. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1775), [09-28](https://youtu.be/3Qm5wLjhvTw?t=940))
+- Experts value him around 70th to 90th overall, a round 7 to 8 pick, with more downside than upside. They call an ESPN-type rank near 64 or 65 too high and say to avoid him there. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1775), [09-28](https://youtu.be/3Qm5wLjhvTw?t=874), [09-24](https://youtu.be/_vbAP5y182A?t=1524), [09-17](https://youtu.be/DubdKKhMWHo?t=1761), [08-24](https://youtu.be/g31YlwRe0XQ?t=1514))
+- In an auction mock, Josh valued him at 6 to 7 USD and called him basically the best pick of the draft at 3 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3391))
 - He is 33 years old. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=800))
-- He is in Chicago's projected starting five with Josh Giddey, Matas Buzelis, Caleb Wilson and Nick Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- Nikola Vucevic and Coby White left Chicago, which frees up usage. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
-- Chicago projects as a bad team, likely bottom 10 (Hayes predicts 32 wins), and should play a fast, up-tempo style. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
-- Chicago plays 10 games in our fantasy playoffs (3-3-4) and has 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
-- Experts expect him to lead the Bulls in usage, in the high 20s, because the other scorers are low-usage players and no one is coming in to take his shots. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1501), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [07-13](https://youtu.be/Rqb5GdrSweY?t=1864), [07-02](https://youtu.be/P6TNP-g0wzY?t=1691), [08-24](https://youtu.be/g31YlwRe0XQ?t=1514), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520), [09-10](https://youtu.be/dlo7L8Ru91A?t=1682))
-- He signed a two-year deal with Chicago with a team option in the second year. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=883))
-- He is the Bulls' main off-ball shooter on a team that lacks shooting. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=943), [08-18](https://youtu.be/FxaSnyk9g90?t=570))
+- He is in the projected Bulls starting five with Josh Giddey, Matas Buzelis, Caleb Wilson and Nick Claxton. He is the team's main off-ball shooter on a roster that lacks shooting. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [08-18](https://youtu.be/FxaSnyk9g90?t=943), [08-18](https://youtu.be/FxaSnyk9g90?t=570))
+- Nikola Vucevic and Coby White left Chicago, which frees up usage. The other Bulls scorers are low-usage players. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [07-13](https://youtu.be/Rqb5GdrSweY?t=1864), [10-13](https://youtu.be/DzQXaC2rsac?t=768))
+- The Chicago front office signs older players on short deals and hopes to trade them. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- Chicago projects as a bad team, likely bottom 10. It has a new coach, Tiago Splitter, and should play an up-tempo transition style. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=1679), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629))
+- Chicago has 15 back-to-backs, one below the maximum. It plays 10 games in our fantasy playoff weeks 19 to 21 (3-3-4). The first 20 games are a tough stretch. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
+- His range of outcomes runs from about 40th in the best case to about 136th in the worst case. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1761))
+- Experts expect him to get usage in the high 20s and possibly lead the Bulls in usage all season unless he is traded. (verdict, 2026-09-10, until he is traded; [09-10](https://youtu.be/W-R1dzem32s?t=1501), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [07-02](https://youtu.be/P6TNP-g0wzY?t=1691), [08-24](https://youtu.be/g31YlwRe0XQ?t=1514), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520), [09-10](https://youtu.be/dlo7L8Ru91A?t=1682))
 
 **Durable**
-- His fantasy value depends entirely on high usage. He puts up big numbers when he has the ball to himself and fades when he shares it with a good player, even while shooting around 40% from three. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885), [07-13](https://youtu.be/Rqb5GdrSweY?t=1869), [06-23](https://youtu.be/nnWX_ObljOE?t=989))
-- He is a points and threes player. He gives little in rebounds, assists and blocks. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885), [09-17](https://youtu.be/DubdKKhMWHo?t=1737), [07-13](https://youtu.be/Rqb5GdrSweY?t=1869), [07-02](https://youtu.be/P6TNP-g0wzY?t=1691), [09-10](https://youtu.be/dlo7L8Ru91A?t=1682), stats)
-- He is good at getting to the free throw line and shoots a solid FT%. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885), stats)
-- Over the last two to three months of 2025-26 he shot 33% from three and under 80% from the line, and fell outside the top 150. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=985))
-- Because he only adds scoring, an off shooting stretch or season hurts his value badly. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=985), [09-17](https://youtu.be/DubdKKhMWHo?t=1737))
-- His efficiency is decent, but Hayes does not see his 20-plus points on about 15 shots as tremendous value. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1682), [08-18](https://youtu.be/FxaSnyk9g90?t=451))
-- He is not a point guard and does not dribble well. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=796))
+- His fantasy value depends entirely on high usage. He puts up big numbers when he has the ball to himself and fades when he shares it with a good player. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885), [07-13](https://youtu.be/Rqb5GdrSweY?t=1869), [06-23](https://youtu.be/nnWX_ObljOE?t=989))
+- He gives only points and threes. He adds little in rebounds, assists and blocks. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885), [07-13](https://youtu.be/Rqb5GdrSweY?t=1869), [07-02](https://youtu.be/P6TNP-g0wzY?t=1691), [09-10](https://youtu.be/dlo7L8Ru91A?t=1682), stats)
+- He is good at getting to the free-throw line. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=885))
+- His value rests on his shooting. In the last two to three months of last season he shot 33% from three, his free throws fell below 80%, and he dropped outside the top 150. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=985), [09-17](https://youtu.be/DubdKKhMWHo?t=1737))
+- Because he only scores, an off shooting year hurts his value badly. Hayes says 20 points on about 15 shots is not tremendous value. (verdict, 2026-09-28; [09-17](https://youtu.be/DubdKKhMWHo?t=1737), [08-18](https://youtu.be/FxaSnyk9g90?t=451), [09-28](https://youtu.be/3Qm5wLjhvTw?t=985))
+- He is not a point guard and is not a strong ball handler. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=796))
 
 **Tags**
-- Current: `new team` (joined Chicago on a two-year deal with a team option), `trade risk` (contract built for a trade; a move to a better team as third option would collapse his value), `bust candidate` (at an ESPN-style rank around 64 to 65), `sleeper` (at Yahoo's low average cost; went for 3 USD in a mock against a 6 to 7 USD value), `sites disagree on price` (ESPN rank 67 and 4.6 USD cost vs Yahoo rank 89 and 2.4 USD cost), `usage freed` (Vucevic and Coby White left Chicago), `trades likely` (Bulls sign veterans on short deals hoping to trade them), `bottom team` (projected bottom 10; Hayes predicts 32 wins), `fast pace` (Bulls expected to play up-tempo transition style), `many back-to-backs` (15 back-to-backs, one below the maximum)
-- Durable: `usage dependent` (value only comes from being the top usage option), `streaky` (late 2025-26 shooting slump dropped him outside the top 150), `age decline watch` (33 years old; experts see more downside than upside), `fits every build` (no category flagged weak; his help is in PTS and 3PM)
+- Current: `new team` (Moved to Chicago on a two-year deal with a team option), `trade risk` (Contract built for a trade; front office signs veterans to flip them), `bust candidate` (At an ESPN-type rank near 64 or 65; experts see him around 80th), `sleeper` (At low auction prices; Josh valued him at 6 to 7 USD and called him a best pick at 3 USD), `bottom team` (Chicago projected bottom 10, about 32 wins), `new coach` (Tiago Splitter replaces Billy Donovan), `fast pace` (Up-tempo transition style expected), `trades likely` (Front office signs older players hoping to trade them), `many back-to-backs` (15 back-to-backs, one below the maximum)
+- Durable: `usage dependent` (Value collapses as a third option; only scores and hits threes), `age decline watch` (33 years old; experts see more downside than upside), `fits every build` (No category flagged weak; value comes from points and threes)
 
-**Note.** Powell is a points and threes scorer (21.9 PTS and 2.8 3PM projected) whose value depends on staying Chicago's top usage option. The experts agree he is worth about 80th overall and 6 to 7 USD. That makes Yahoo's 2.4 USD average cost a bargain, while a price near ESPN's rank 67 (4.6 USD) or our 8 USD from last season is full price. He fits any build that wants scoring and threes. Early in the season, watch his usage share and three-point shooting, and follow trade rumors before the 2027-03-04 deadline, because a trade to a contender would gut his value before our playoffs.
+**Note.** Powell is a points and threes scorer. His projections show 22.3 points and 2.9 threes per game (z +1.4 and +1.5), with nothing flagged weak. He should be Chicago's top usage option unless he is traded before the 2027-03-04 deadline. Experts see him around 80th, which is near Yahoo's rank of 89 and below ESPN's 67, so target him at 3 to 7 USD (Yahoo value 7 USD, ESPN 6 USD, 8 USD in our league last year) and do not chase him at an ESPN-type price. Early in the season, check his usage share next to Caleb Wilson, his three-point and free-throw shooting, and any trade talk. A move to a contender would cut his value before our playoffs.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

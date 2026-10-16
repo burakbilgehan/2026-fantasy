@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 253 | 0 | 0.1 | 183 | not drafted |
+| 2026-27 | 0 | - | 256 | 0 | 0.1 | 183 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,23 @@
 </details>
 
 **Current**
-- He is almost certain to start. Josh's projected Dallas starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=1707), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
-- Dusty May, the new Dallas head coach, has said Christie will have a breakout year. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=1576), [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Josh is not interested in Christie outside 18 or 20 team leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1147))
-- Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league, but also a league-high 16 back-to-backs. Dallas has a two-game week in the matchup starting March 1. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
-- Experts see no real upside for him this season, especially with Kyrie Irving back. Cooper Flagg is the first priority on offense and Kyrie is second, and Kyrie's shots come mostly from players other than Flagg. (verdict, 2026-09-16; [08-24](https://youtu.be/g31YlwRe0XQ?t=2506), [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- He is projected to start for Dallas. Josh's projected starting five is Kyrie Irving, Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=1707), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- Experts see no real upside, especially with Kyrie Irving back. Josh is not interested in him outside 18 or 20 team leagues, so he is not a draft target in a 12-team league. (verdict, 2026-09-29; [08-24](https://youtu.be/g31YlwRe0XQ?t=2506), [09-29](https://youtu.be/XSPJL_mlFXo?t=1147))
+- Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league, but also a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Cooper Flagg is the first option on offense and Kyrie Irving is the second, which caps Christie's shots. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- Dallas has a two-game week in the matchup that starts March 1. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Dallas has no pick of its own, so it has no reason to tank late in the season. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644))
+- New head coach Dusty May has said Christie will have a breakout year. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1576))
 
 **Durable**
-- He shot 40% from three and about 90% on free throws. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1539))
-- He takes under two free throws a game, so his high FT% moves a team's FT% only a little. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), stats)
-- He is a pure scorer with good efficiency, but he struggles to scale up his scoring. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1539))
-- His assists, steals and blocks are poor. He rarely passes, does not generate steals and does not crash the glass. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1672))
-- He is not a big self-creator. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1672))
+- He is an efficient shooter: about 40% from three and about 90% at the line. He takes under two free throws a game, so his FT% moves a team ratio only a little. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1539), stats)
+- He gives little outside threes and free throws. He rarely passes, does not create steals or blocks and does not crash the glass. Steals are his weakest category. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1118), [07-27](https://youtu.be/0AptxcRW0RE?t=1672), stats)
+- Josh says he struggles to scale up his scoring and is not a big self-creator. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=1539), [07-27](https://youtu.be/0AptxcRW0RE?t=1672))
 
 **Tags**
-- Current: `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21, but has a league-high 16 back-to-backs)
-- Durable: `needs playmaker` (Not a big self-creator; struggles to scale up his scoring)
+- Current: `usage competition` (Cooper Flagg and Kyrie Irving are the first two options on offense), `new coach` (Dusty May, who has said Christie will break out), `good playoff schedule` (Dallas plays 4-4-4 in the playoff weeks), `many back-to-backs` (League-high 16 back-to-backs), `low shutdown risk` (Dallas has no pick, so no reason to tank)
+- Durable: `needs playmaker` (Not a big self-creator; struggles to scale up his scoring), `plays every game` (77 and 78 games in the last two seasons)
 
-**Note.** Both sites value Christie at 0 USD (Yahoo rank 252, ESPN rank 178), and Josh only wants him in 18 or 20 team leagues. Do not draft him in our 12 team auction. He is a likely starter whose value is about 2.2 threes and 88% FT on low volume, with below-average FG%, steals, assists and rebounds, so he is at most a streaming option for threes. Early in the season, check whether his shot volume holds with Kyrie Irving back. Dallas's 4-4-4 playoff schedule makes him a possible late-season streamer.
+**Note.** He is priced at 0 USD on both Yahoo and ESPN (Yahoo rank 256, ESPN 183), and he went undrafted in our league. Experts only want him in 18 or 20 team leagues, so let him go undrafted in our 144-player auction. Early in the season, check on waivers whether Dusty May's offense raises his shot volume above about 9 to 10 attempts a game, or whether a Kyrie Irving absence opens usage. If it does, his threes, FT% and Dallas's 4-4-4 playoff schedule could make him a useful streamer for builds that need threes.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

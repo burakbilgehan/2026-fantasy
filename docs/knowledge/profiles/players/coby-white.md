@@ -4,58 +4,59 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 72 | 33.5 | 44.9 (15.1) | 85.2 (4.3) | 2.8 | 20.0 | 4.1 | 4.8 | 0.7 | 0.2 | 2.5 |
-| 2026-27 proj, Yahoo | 69 | - | 45.0 (14.1) | 85.3 (4.2) | 2.6 | 18.9 | 3.8 | 5.8 | 0.7 | 0.2 | 2.4 |
+| 2026-27 proj, Yahoo | 69 | - | 44.9 (15.2) | 85.4 (4.6) | 2.8 | 20.4 | 4.0 | 6.3 | 0.8 | 0.2 | 2.6 |
 | 2025-26 | 50 | 25.0 | 44.6 (12.5) | 81.7 (4.8) | 2.3 | 17.4 | 3.4 | 4.0 | 0.5 | 0.1 | 2.6 |
 | 2024-25 | 74 | 33.1 | 45.3 (15.1) | 90.2 (4.1) | 2.9 | 20.4 | 3.7 | 4.5 | 0.9 | 0.2 | 2.4 |
 | 2023-24 | 79 | 36.5 | 44.7 (15.3) | 83.8 (3.3) | 2.6 | 19.1 | 4.5 | 5.1 | 0.7 | 0.2 | 2.1 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 9 | 2.5 | 86 | 2 | 2.7 | 106 | 15 |
+| 2026-27 | 9 | 2.8 | 87 | 2 | 2.8 | 106 | 15 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 44.9% | -0.8 | -0.6 | - |
-| FT% | 85.2% | +1.0 | +0.8 | - |
-| 3PM | 2.7 | +1.3 | +1.0 | - |
-| PTS | 19.5 | +0.9 | +0.8 | - |
-| REB | 3.9 | -0.5 | +0.1 | - |
-| AST | 5.3 | +1.1 | +0.7 | - |
-| STL | 0.7 | -0.7 | -0.9 | - |
+| FT% | 85.3% | +1.0 | +0.8 | - |
+| 3PM | 2.8 | +1.4 | +1.2 | - |
+| PTS | 20.2 | +1.1 | +0.9 | - |
+| REB | 4.1 | -0.4 | +0.2 | - |
+| AST | 5.5 | +1.2 | +0.8 | - |
+| STL | 0.7 | -0.6 | -0.9 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
-| TO | 2.4 | -1.1 | -0.8 | - |
+| TO | 2.5 | -1.2 | -1.0 | - |
 
 </details>
 
 **Current**
-- He has another calf strain and is out for the preseason. It is the same injury as last season. He will probably miss the start of the regular season. Yahoo lists him as questionable (calf). (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1580), [10-06](https://youtu.be/eTsjuVu1trk?t=830), [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), stats)
-- Because of the new calf injury, experts now push him down to the 90s. Before the injury they took him in the 55 to 75 range. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1335), [10-05](https://youtu.be/BiIZsSypx7Y?t=1580))
-- A busts video lists him as a player to avoid because he is injured again. Last season he pushed to return and got hurt again. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=830))
-- In one auction mock he went for 13 USD, and the expert called that really good value. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4108))
-- Experts project 20 or more points and 5 to 7 assists as the starter. (verdict, 2026-10-04; [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [10-04](https://youtu.be/n4KkK-OJjqA?t=1022), [10-04](https://youtu.be/n4KkK-OJjqA?t=1948), [07-20](https://youtu.be/-KS_AZjZnw4?t=242))
-- Charlotte traded away LaMelo Ball and Miles Bridges. White is the projected starting point guard, and the team has no backup point guard it trusts. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [07-21](https://youtu.be/EB1Z_6n56-o?t=996), [07-21](https://youtu.be/EB1Z_6n56-o?t=1000), [08-26](https://youtu.be/sTtFUy7IoJI?t=179), [08-26](https://youtu.be/sTtFUy7IoJI?t=1075), [06-26](https://youtu.be/CLsUc0Sevos?t=1699), [06-30](https://youtu.be/4GDfg2n2l8o?t=267))
-- When healthy, he is projected for about 30 to 32 minutes or more, up from 25 last season. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [07-20](https://youtu.be/-KS_AZjZnw4?t=234), [08-26](https://youtu.be/sTtFUy7IoJI?t=218), [07-21](https://youtu.be/EB1Z_6n56-o?t=996), [10-04](https://youtu.be/n4KkK-OJjqA?t=1948))
-- Charlotte has only 13 back-to-backs, the league minimum. With our March 28 end date, the playoff weeks have 4, 3 and 4 games. The team has a two-game week in the matchup that starts March 1. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
-- Experts see him as the starter over Dennis Schroder and do not think Schroder limits his minutes. Some in the market think they could share minutes, and that is one reason his ADP is low. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=812), [09-21](https://youtu.be/egRrai3Ax38?t=818), [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [08-26](https://youtu.be/sTtFUy7IoJI?t=179))
-- Most experts expect his usage to dip a little from last season's very high level in Charlotte. Ball handling will be shared with Kon Knueppel and Brandon Miller, and one expert sees him as only the third or fourth usage option. Another projects about 28 usage. (verdict, 2026-09-09; [08-26](https://youtu.be/sTtFUy7IoJI?t=218), [07-20](https://youtu.be/-KS_AZjZnw4?t=191), [07-07](https://youtu.be/ME-r173X5b0?t=1959), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1126), [06-30](https://youtu.be/4GDfg2n2l8o?t=267), [07-01](https://youtu.be/W3THnI7wWdA?t=953), [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
-- Charlotte plans to space the floor and take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
-- One expert expects his FT% to bounce back this season. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=203))
-- He re-signed with Charlotte for 3 years and 74 million. (fact, 2026-07-01; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1126), [07-01](https://youtu.be/W3THnI7wWdA?t=953))
+- Because of the calf, experts now push him into the 90s or later. Pick 84 is too early, and one expert no longer targets him. Healthy, they would take him about 20 spots higher, in the 60s and 70s. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1140), [10-12](https://youtu.be/w66x_I_MaQ8?t=1159), [10-12](https://youtu.be/ENizLoE6pzI?t=1369), [10-11](https://youtu.be/uI6umXsE7Vk?t=1125), [10-08](https://youtu.be/WXO8MfQfzo0?t=1335), [10-05](https://youtu.be/BiIZsSypx7Y?t=1580))
+- Charlotte has only 13 back-to-backs, the league minimum. Its playoff schedule is 4-3-4 games for a March 28 end. The two-game week is the matchup starting March 1. One expert believes the two-game week falls in the playoffs. (fact, 2026-10-13; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781), [08-16](https://youtu.be/gf_6GveiAls?t=1343), [10-13](https://youtu.be/EogBYa24Gto?t=389))
+- He has a calf strain, his fourth calf strain in 12 months. He missed the preseason and Yahoo lists him as questionable. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1125), [10-08](https://youtu.be/WXO8MfQfzo0?t=1335), [10-05](https://youtu.be/BiIZsSypx7Y?t=1580), [10-06](https://youtu.be/eTsjuVu1trk?t=830), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), stats)
+- He will probably miss the start of the season. (verdict, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1298), [10-08](https://youtu.be/6DnRWahYrFA?t=1269))
+- In one auction mock after the injury news, 13 USD was called really good value. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4108))
+- In the bigger role he could average 20 or more points and about 5 to 7 assists. (verdict, 2026-10-04; [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [10-04](https://youtu.be/n4KkK-OJjqA?t=1022), [10-04](https://youtu.be/n4KkK-OJjqA?t=1948), [07-20](https://youtu.be/-KS_AZjZnw4?t=242))
+- He re-signed with Charlotte for 3 years and 74 million and is the projected starting point guard. (fact, 2026-09-27; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1126), [07-01](https://youtu.be/W3THnI7wWdA?t=953), [06-30](https://youtu.be/4GDfg2n2l8o?t=267), [07-21](https://youtu.be/EB1Z_6n56-o?t=996), [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [06-26](https://youtu.be/CLsUc0Sevos?t=1699))
+- When healthy he should play about 30 to 32 minutes, up about 7 from last season. Dennis Schroder is not expected to cut into his minutes. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1028), [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [08-26](https://youtu.be/sTtFUy7IoJI?t=179), [08-26](https://youtu.be/sTtFUy7IoJI?t=218), [07-21](https://youtu.be/EB1Z_6n56-o?t=996), [07-20](https://youtu.be/-KS_AZjZnw4?t=234), [09-21](https://youtu.be/egRrai3Ax38?t=812))
+- Charlotte plans to space the floor and take many threes. Playmaking will be spread across several players. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=401), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306), [09-27](https://youtu.be/CRLSsoGhb2w?t=282))
+- Charlotte projects as a play-in team. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
+- Charlotte traded LaMelo Ball and Miles Bridges. The roster has no backup point guard the team trusts. (fact, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [08-26](https://youtu.be/sTtFUy7IoJI?t=179), [07-21](https://youtu.be/EB1Z_6n56-o?t=996), [07-21](https://youtu.be/EB1Z_6n56-o?t=1000), [06-30](https://youtu.be/4GDfg2n2l8o?t=178))
+- His usage should stay high, about 28 percent, but dip a little from last season's level. He shares the ball with Kon Knueppel and Brandon Miller and could be the third or fourth usage option. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1790), [08-26](https://youtu.be/sTtFUy7IoJI?t=218), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1126), [07-07](https://youtu.be/ME-r173X5b0?t=1959), [07-01](https://youtu.be/W3THnI7wWdA?t=953), [07-20](https://youtu.be/-KS_AZjZnw4?t=191), [07-21](https://youtu.be/EB1Z_6n56-o?t=1685))
+- His free throw percentage should bounce back after last season's drop. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=203))
 
 **Durable**
-- He has strained his calf four times in 12 months. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1335), [10-05](https://youtu.be/BiIZsSypx7Y?t=1580), [07-20](https://youtu.be/-KS_AZjZnw4?t=179))
-- His strengths are scoring, threes and free throws. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1097), [09-15](https://youtu.be/KPdD91Oo8-U?t=1482), stats)
-- His steals and blocks are very poor. One expert says his combined steals and blocks are among the worst for any starter. (verdict, 2026-09-27; [07-07](https://youtu.be/ME-r173X5b0?t=1959), [09-27](https://youtu.be/CRLSsoGhb2w?t=1097), [08-26](https://youtu.be/sTtFUy7IoJI?t=248), [07-01](https://youtu.be/W3THnI7wWdA?t=929), [10-04](https://youtu.be/n4KkK-OJjqA?t=1022))
-- He is a streaky, inconsistent shooter. His FG% swings up and down, even though experts count him as a good shooter, including off the dribble. (verdict, 2026-09-17; [09-10](https://youtu.be/W-R1dzem32s?t=1545), [08-26](https://youtu.be/sTtFUy7IoJI?t=248), [07-20](https://youtu.be/-KS_AZjZnw4?t=260), [09-17](https://youtu.be/ahNxsoU8Hx4?t=838), [07-01](https://youtu.be/W3THnI7wWdA?t=929), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1115), [07-21](https://youtu.be/EB1Z_6n56-o?t=1671))
-- He is not a pass-first point guard. He is a fine passer, but an offense cannot be built around his vision. (verdict, 2026-09-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1115), [07-21](https://youtu.be/EB1Z_6n56-o?t=1239), [09-17](https://youtu.be/ahNxsoU8Hx4?t=838), [08-26](https://youtu.be/sTtFUy7IoJI?t=248), [07-01](https://youtu.be/W3THnI7wWdA?t=929))
-- He attacks the paint, finishes at the rim and draws free throws. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=248))
+- Calf strains keep coming back, so more missed games are a risk. (verdict, 2026-10-11; [10-10](https://youtu.be/hviT4hzYNME?t=1298), [10-08](https://youtu.be/WXO8MfQfzo0?t=1335), [10-11](https://youtu.be/uI6umXsE7Vk?t=1125))
+- His steals and blocks are very poor. He has one of the worst combined steals and blocks numbers for a starter. (fact, 2026-10-04; [07-07](https://youtu.be/ME-r173X5b0?t=1959), [09-27](https://youtu.be/CRLSsoGhb2w?t=1097), [08-26](https://youtu.be/sTtFUy7IoJI?t=248), [10-04](https://youtu.be/n4KkK-OJjqA?t=1022), stats)
+- He helps in points, threes and free throws. (fact, 2026-09-27; [09-15](https://youtu.be/KPdD91Oo8-U?t=1482), [09-27](https://youtu.be/CRLSsoGhb2w?t=1097), [07-01](https://youtu.be/W3THnI7wWdA?t=929), stats)
+- He is a streaky, inconsistent shooter, and his FG% swings up and down. (fact, 2026-09-17; [08-26](https://youtu.be/sTtFUy7IoJI?t=248), [07-20](https://youtu.be/-KS_AZjZnw4?t=260), [09-10](https://youtu.be/W-R1dzem32s?t=1545), [09-17](https://youtu.be/ahNxsoU8Hx4?t=838), [07-01](https://youtu.be/W3THnI7wWdA?t=929), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1115))
+- He is a fine passer but not a pass-first point guard. (fact, 2026-09-17; [07-21](https://youtu.be/EB1Z_6n56-o?t=1239), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1115), [09-17](https://youtu.be/ahNxsoU8Hx4?t=838), [08-26](https://youtu.be/sTtFUy7IoJI?t=248))
+- He has a big enough sample to count as a good shooter, including off the dribble. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1671))
+- He gets into the paint, finishes at the rim and gets to the free throw line. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=248))
 
 **Tags**
-- Current: `injured now` (Calf strain. Out for the preseason and likely to miss the start of the season.), `questionable` (Yahoo Q (calf)), `injury last season` (Repeated calf strains and a bench role; 50 games at 25 minutes), `role up` (Starting point guard after the LaMelo Ball trade; about 30 to 32 minutes, up from 25), `usage competition` (Shares the ball with Kon Knueppel and Brandon Miller), `bounce-back` (After an injury-hit backup season; FT% expected to recover), `bust candidate` (Listed in a busts video because he is injured again), `few back-to-backs` (13 back-to-backs, the league minimum), `three-point heavy` (Charlotte plans to space the floor and take many threes), `shared ball handling` (Playmaking split among White, Knueppel and Miller), `usage freed` (LaMelo Ball and Miles Bridges are gone), `deep rotation` (Deep roster, likely a play-in team)
-- Durable: `injury prone` (Four calf strains in 12 months), `streaky` (Inconsistent shooter; FG% swings)
+- Current: `injured now` (Calf strain, Yahoo Q. Out for the preseason and likely to miss the start of the season.), `injury last season` (Repeated calf strains and a bench role last season), `slow start` (Likely to miss the opening games with the calf injury), `role up` (Starting point guard at about 30 to 32 minutes after LaMelo Ball left), `bounce-back` (Bigger role, plus FT% expected to recover), `usage competition` (Shares the ball with Kon Knueppel and Brandon Miller), `sites disagree on price` (Yahoo value 9 USD and rank 87, ESPN value 2 USD and rank 106), `shared ball handling` (White, Knueppel and Miller split creation), `usage freed` (LaMelo Ball and Miles Bridges gone), `three-point heavy`, `few back-to-backs` (13 back-to-backs, the league minimum)
+- Durable: `injury prone` (Four calf strains in 12 months), `streaky` (Inconsistent shooter, FG% swings)
 
-**Note.** When healthy, he gives a guard-friendly line of threes (2.7), FT% (85%), points and assists. The cost is FG%, turnovers and very poor steals and blocks, but no category is flagged as weak enough for a punt fit. Before the new calf strain, experts had him in the 55 to 75 range. They now push him to the 90s, which is close to his Yahoo rank of 86. The markets are cheap (Yahoo average cost 2.5 USD, ESPN 2.6 USD), while our league paid 15 USD last season and one auction mock had him at 13 USD. In a 12-team league where 144 players are drafted, he is a reasonable mid-to-late buy at a single-digit price. Early in the season, check when he returns from the calf strain, whether he gets about 30 minutes ahead of Schroder, and whether his assists reach 5 or more.
+**Note.** Healthy, experts saw him as a 60s to 70s player, with about 20 points, close to 3 threes and good FT%, as the starting point guard. A fourth calf strain in 12 months pushes him into the 90s. Our league paid 15 USD last season, but Yahoo values him at 9 USD and ESPN at 2 USD. That makes him a mid-range bid of about 5 to 10 USD for builds that want points, threes and FT% and can absorb weak steals, blocks and turnovers. Early in the season, check when he returns from the calf, whether he gets the 30-plus minutes, and whether his FG% holds up.
 
-<sub>42 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>47 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

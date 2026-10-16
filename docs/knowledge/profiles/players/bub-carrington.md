@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 241 | 0 | 0.1 | 218 | not drafted |
+| 2026-27 | 0 | - | 253 | 0 | 0.0 | 218 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,24 +29,22 @@
 </details>
 
 **Current**
-- Young, Davis and Dybantsa will share most of the usage, which cuts into the roles of the young players. (verdict, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- Washington added Trae Young, Anthony Davis and AJ Dybantsa. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- The fifth starter spot is unclear, with many wings competing for it. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
-- He should not be handling point guard duties. (verdict, 2026-07-23; [07-20](https://youtu.be/-KS_AZjZnw4?t=973), [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
-- He is not among the projected Washington starters: Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
-- Washington has a crowded group of wings and guards. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Washington is trying to compete for the play-in, so late-season resting and minutes cuts should not be a problem. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
-- Head coach Brian Keefe is under the most pressure to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
-- Trae Young will start at point guard over him. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
+- He is not a draft target in our 12-team auction. (verdict, 2026-10-16; stats)
+- Young, Davis and Dybantsa will take much of the usage, which cuts into the roles of the young players. (verdict, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa. (fact, 2026-09-17; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436))
+- Washington has a crowded group of guards and wings, and the fifth starter spot is open with many wings competing. (fact, 2026-09-07; [07-23](https://youtu.be/LUTYUdXBG1M?t=248), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
+- Trae Young starts at point guard ahead of him. He is not in the projected starting five of Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-20](https://youtu.be/-KS_AZjZnw4?t=973), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Washington is expected to use a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- Washington is trying to compete for the play-in, so late-season rest and minutes cuts should not be a problem. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- He should not be handling point guard duties this season. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=973))
 
 **Durable**
-- His run as point guard early in the 2025-26 season did not work out well. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
+- He has not worked well as a lead point guard. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1411))
 
 **Tags**
-- Current: `role down` (Trae Young takes the point guard job; projections cut his minutes and usage), `minutes competition` (Crowded wing and guard group; fifth starter spot open), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa), `concentrated usage` (Young, Davis and Dybantsa take most touches), `deep rotation` (10 or 11 man rotation expected), `coach hot seat` (Brian Keefe), `low shutdown risk` (Washington is pushing for the play-in)
+- Current: `role down` (Trae Young starts at point guard ahead of him, and the new stars cut into the young players' roles), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage), `minutes competition` (Crowded guard and wing group, open fifth starter spot), `concentrated usage` (Young, Davis and Dybantsa), `deep rotation` (10 or 11 man rotation expected), `low shutdown risk` (Washington is pushing for the play-in)
 - Durable: `plays every game` (82 games in each of the last two seasons)
 
-**Note.** Carrington is not a draft target for us. He ranks 241 on Yahoo and 218 on ESPN, both sites value him at 0 USD, and only 144 players get drafted. His projected line (about 9 points, 3.7 assists and 1.7 threes in 25 minutes) has no strong category, and he loses the point guard job and usage to Trae Young, Anthony Davis and AJ Dybantsa. Early in the season, check whether he wins the open fifth starter spot or gets more minutes after an injury to Young. Leave him on waivers until then.
+**Note.** Both Yahoo and ESPN value him at 0 USD (rank 253 on Yahoo, 218 on ESPN), nobody drafted him in our league last season, and he has no strong category. So he should stay on waivers through our 144-player auction. His projections fall to about 25 minutes, 9 points and 0.6 steals, because Trae Young runs the point and Washington is deep at guard and wing. Early in the season, check whether he wins the open fifth starter spot or gets steady minutes before you spend FAB on him.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

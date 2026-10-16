@@ -8,87 +8,33 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "bdf782988bf1",
- "note_count": 18,
- "built_at": "2026-10-05T20:02:30+00:00",
+ "input_sha": "588305e24cee",
+ "note_count": 21,
+ "built_at": "2026-10-16T09:15:57+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1553662,
-  "duration_ms": 40066,
+  "cost_usd_list": 0.1575302,
+  "duration_ms": 36796,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Toronto swapped Brandon Ingram for Kawhi Leonard. Kawhi is the better player and uses more possessions than Ingram did.",
+   "text": "Toronto added Kawhi Leonard in a trade that sent out Brandon Ingram. Leonard is the better player and uses more possessions.",
    "kind": "fact",
    "date": "2026-09-19",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:t0",
     "dlo7L8Ru91A:t5",
-    "uarqbNA2dFk:p31"
-   ]
-  },
-  {
-   "text": "Most experts doubt a big step forward this season, because Kawhi Leonard now takes usage that could have gone to Barnes.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
     "uarqbNA2dFk:p31",
     "2A2JbUN-kc0:p22",
-    "t4n9MAP2_14:p4",
-    "LM0cRCGoAUQ:p7",
-    "dlo7L8Ru91A:p6",
-    "dlo7L8Ru91A:t5"
+    "dlo7L8Ru91A:p6"
    ]
   },
   {
-   "text": "He should not lose many touches next to Kawhi, because his value comes from facilitation rather than usage.",
-   "kind": "verdict",
-   "date": "2026-06-30",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p12"
-   ]
-  },
-  {
-   "text": "Experts place him around 12th to 17th overall in 9-cat. They call ESPN's rank of 10 too high, and one expert passed on him at pick 10.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p31",
-    "2A2JbUN-kc0:p22",
-    "t4n9MAP2_14:p4",
-    "LM0cRCGoAUQ:p7",
-    "dlo7L8Ru91A:p6",
-    "J1Eg3uaAICU:p18",
-    "gf_6GveiAls:p31"
-   ]
-  },
-  {
-   "text": "An ADP in the 30s is too late for him.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p49"
-   ]
-  },
-  {
-   "text": "He went for 35 USD in a mock auction. The expert expected a price above 30 USD and called 35 USD about right.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p26"
-   ]
-  },
-  {
-   "text": "He is a projected starter with Quickley, Barrett, Leonard and Poeltl, and part of the expected closing five.",
+   "text": "He is a projected starter with Quickley, Barrett, Leonard and Poeltl. He is also in the expected closing five, a small and switchable group.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
@@ -98,29 +44,67 @@
    ]
   },
   {
-   "text": "Toronto is projected to win about 52 games. The roster is thin after a solid top seven.",
+   "text": "Most experts doubt he takes a big step forward next to Leonard. They see him as about a top 17 to 18 player in categories and call picks 9 to 14 too high.",
    "kind": "verdict",
-   "date": "2026-08-20",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "s28HvC2grAk:t4",
-    "s28HvC2grAk:t2"
+    "EogBYa24Gto:p3",
+    "w66x_I_MaQ8:p4",
+    "hviT4hzYNME:p3",
+    "uarqbNA2dFk:p31",
+    "2A2JbUN-kc0:p22",
+    "t4n9MAP2_14:p4",
+    "LM0cRCGoAUQ:p7",
+    "dlo7L8Ru91A:p6",
+    "gf_6GveiAls:p31",
+    "J1Eg3uaAICU:p18"
    ]
   },
   {
-   "text": "The Raptors have 15 back-to-backs, three of them in the playoff weeks.",
+   "text": "In an auction mock he went for 35 USD, which the expert called about right. An ESPN ADP of 31 is too late for him.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p26",
+    "ahNxsoU8Hx4:p49"
+   ]
+  },
+  {
+   "text": "He is a round two option next to Giannis Antetokounmpo in a punt FT% build.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p21"
+   ]
+  },
+  {
+   "text": "Toronto has 15 back-to-backs, three of them in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
    "sources": [
     "gf_6GveiAls:t5"
    ]
+  },
+  {
+   "text": "Toronto is projected to win about 52 games and could be a top four team in the East. The roster is thin after the top seven.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4",
+    "s28HvC2grAk:t2",
+    "JMSLg6yz-M0:t0"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is one of the best help rim protectors in the league and anchors the Toronto defense.",
-   "kind": "verdict",
+   "text": "He is one of the best help rim protectors in the league and anchors Toronto's defense.",
+   "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
@@ -128,40 +112,30 @@
    ]
   },
   {
-   "text": "His shooting is a question mark, and he makes few threes.",
+   "text": "His shooting is a question mark.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-08-20",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p10",
-    "stats"
+    "s28HvC2grAk:p10"
    ]
   },
   {
-   "text": "He fills many categories. He has guard-like assists for a forward or center, plus strong steals, blocks and rebounds.",
+   "text": "He is a multi-category forward. His assists, steals and blocks are well above the pool, and his assists are rare for a frontcourt player.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Turnovers are his weak category for his position.",
+   "text": "Turnovers are his weak category, high for his position.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
-   ]
-  },
-  {
-   "text": "He is a second-round option next to Giannis in a punt FT% build.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p21"
    ]
   }
  ],
@@ -187,9 +161,19 @@
    "new_meaning": ""
   },
   {
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "One of the best help rim protectors in the league",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "Giannis build fit",
    "channel": "durable",
-   "detail": "Second-round option next to Giannis",
+   "detail": "Round two option next to Giannis",
    "until": "",
    "sources": [
     "C4vlgpJ62NI:p21"
@@ -197,14 +181,35 @@
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Kawhi Leonard replaces Brandon Ingram and uses more possessions",
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Called a category-league pick; too high at 12 in points leagues",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:t5",
+    "hviT4hzYNME:p3",
+    "g31YlwRe0XQ:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Kawhi Leonard arrives and uses more possessions",
+   "until": "",
+   "sources": [
     "uarqbNA2dFk:p31",
-    "JMSLg6yz-M0:t0"
+    "dlo7L8Ru91A:t5",
+    "2A2JbUN-kc0:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Three Toronto back-to-backs in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t5"
    ],
    "new_meaning": ""
   },
@@ -214,14 +219,15 @@
    "detail": "About 52 wins projected",
    "until": "",
    "sources": [
-    "s28HvC2grAk:t4"
+    "s28HvC2grAk:t4",
+    "JMSLg6yz-M0:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "Little depth after the top seven",
+   "detail": "Not deep after a solid top seven",
    "until": "",
    "sources": [
     "s28HvC2grAk:t2"
@@ -229,17 +235,16 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "small-ball lineups",
    "channel": "current",
-   "detail": "ESPN value 55 USD and rank 10, Yahoo value 42 USD and rank 15",
+   "detail": "Small, switchable closing five",
    "until": "",
    "sources": [
-    "stats",
-    "uarqbNA2dFk:p31"
+    "s28HvC2grAk:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts see him as a 12th to 17th overall pick in 9-cat, not a top 10 player. Plan around a price between our league's 31 USD from last season and the 35 USD mock result, and not the 42 to 55 USD site values. He fits punt TO builds and Giannis punt FT% builds best, because his assists, steals and blocks are rare for an F/C. Early in the season, check whether his assists and shot volume hold up next to Kawhi Leonard.",
+ "note": "Yahoo (42 USD value, 47 average cost) and ESPN (48 value, 43 cost) price him well above the 31 USD he cost in our league last season, and the experts think ranks 13 to 15 are a bit too high with Kawhi Leonard taking possessions. A fair price for us is around 35 to 40 USD. His assists from the frontcourt, steals and blocks fit most builds, including punt TO and punt FT% next to Giannis. Early in the season, check whether his usage and assists hold up next to Leonard, and plan for three Toronto back-to-backs in the playoff weeks.",
  "rejected": []
 }

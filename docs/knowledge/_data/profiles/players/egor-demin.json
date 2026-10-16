@@ -8,62 +8,54 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6338c13065a5",
+ "input_sha": "b673f63eefb0",
  "note_count": 13,
- "built_at": "2026-10-11T09:16:31+00:00",
+ "built_at": "2026-10-16T08:54:54+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18226219999999999,
-  "duration_ms": 47030,
+  "cost_usd_list": 0.19341819999999998,
+  "duration_ms": 53366,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start in the backcourt at shooting guard next to Mikel Brown Jr. The Nets do not see him as a full-time point guard, and he will play both on and off the ball.",
+   "text": "He is the projected starter at shooting guard next to Mikel Brown Jr. in a lineup with Michael Porter Jr., Julius Randle and Day'Ron Sharpe. The Nets do not see him as a full-time point guard. He will play both on and off the ball.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p21",
     "uRsfijpBPok:p3",
+    "LUTYUdXBG1M:p37",
     "3UGI05PDvrE:t1",
-    "uRsfijpBPok:t1",
-    "LUTYUdXBG1M:p37"
+    "uRsfijpBPok:t1"
    ]
   },
   {
-   "text": "He will handle the ball less with Julius Randle in Brooklyn, because Randle will handle the ball a lot.",
-   "kind": "verdict",
-   "date": "2026-06-23",
+   "text": "Coach Jordi Fernandez wants several ball handlers and connective playmakers rather than one traditional point guard.",
+   "kind": "fact",
+   "date": "2026-08-21",
    "until": "",
    "sources": [
-    "9tb1ARBEmQU:p9",
-    "lOshTzDA4SA:t6"
+    "uRsfijpBPok:t3"
    ]
   },
   {
-   "text": "At best he is the third offensive option and competes for touches. Josh expects his usage to rise only a little, from 19.5 to about 20 or 21, with better efficiency.",
+   "text": "Randle will handle the ball a lot, so Demin will handle it less. At best he is the third offensive option, and his usage should rise only a little, from 19.5 to about 20 or 21.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
+    "9tb1ARBEmQU:p9",
+    "lOshTzDA4SA:t6",
     "3UGI05PDvrE:p23",
     "gerS7ibpaJo:p21"
    ]
   },
   {
-   "text": "The Nets see him as a key piece and expect a second-year leap as an on-ball creator and interior scorer. That could open up more pick and roll playmaking.",
-   "kind": "verdict",
-   "date": "2026-08-21",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:p5"
-   ]
-  },
-  {
-   "text": "In summer league he averaged 19 and 5 and hit 76% on six two-pointers a game. He drove more and hit mid-range shots but could not hit threes.",
+   "text": "In summer league he averaged 19 points and 5 assists. He made 76% of about six two-point attempts a game, drove more and hit mid-range shots, but he did not hit his threes.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -74,48 +66,64 @@
    ]
   },
   {
-   "text": "He dealt with a foot issue last season and finished outside the top 200 (230th in categories).",
+   "text": "The Nets see him as an integral piece and expect a leap in his second year as an on-ball creator and interior scorer. That could unlock more pick and roll playmaking. Experts expect more usage and better efficiency.",
+   "kind": "verdict",
+   "date": "2026-09-04",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p5",
+    "gerS7ibpaJo:p21"
+   ]
+  },
+  {
+   "text": "He finished outside the top 200 last season (230th in categories) while dealing with a foot issue.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p12",
-    "gerS7ibpaJo:p21",
-    "3UGI05PDvrE:p23"
+    "3UGI05PDvrE:p23",
+    "gerS7ibpaJo:p21"
    ]
   },
   {
-   "text": "Josh projects him around 120th with a wide range and upside of about 80th, which makes him a round 10 to 11 pick.",
+   "text": "Josh projects him around 120th with a wide range and upside to about 80th. That makes him a round 10 to 11 pick. He calls Demin his best upside target in all formats for year two, and others call him a solid late flyer.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p12"
-   ]
-  },
-  {
-   "text": "Josh calls him his best upside target in all formats for year two. Another expert sees him as a solid late flyer.",
-   "kind": "verdict",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
+    "ZYllcj4o6_A:p12",
     "3UGI05PDvrE:p25",
     "gerS7ibpaJo:p21"
    ]
   },
   {
-   "text": "Brooklyn does not own its pick, so it has no reason to tank. Second-half minutes are uncertain, and the team could hand more development minutes to young players including Demin.",
-   "kind": "verdict",
-   "date": "2026-09-26",
+   "text": "Brooklyn projects as one of the worst teams, at about 28 wins. Houston owns its pick, so the Nets have no reason to tank. The front office will likely keep making moves, and Porter is a trade candidate.",
+   "kind": "fact",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8",
     "3UGI05PDvrE:t0",
-    "3UGI05PDvrE:t3",
-    "Rqb5GdrSweY:t1"
+    "9tb1ARBEmQU:t2",
+    "LM0cRCGoAUQ:t7",
+    "3UGI05PDvrE:t3"
    ]
   },
   {
-   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, its playoff schedule is 3-4-3, so 10 games, with one back-to-back in the playoff weeks.",
+   "text": "The second half of the season is uncertain for Brooklyn. The team could hand more minutes to young players, Demin included, which helps him more than the veterans.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "uRsfijpBPok:t0",
+    "uI6umXsE7Vk:t1"
+   ]
+  },
+  {
+   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, its playoff schedule is 3-4-3 games with only one back-to-back.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -127,29 +135,38 @@
  ],
  "durable": [
   {
-   "text": "As a rookie he was mostly a three-point shooter. He hit 39% on about six threes a game, took only about two twos a game and made 43% of them, rarely got to the line and shot under 40% from the field.",
+   "text": "As a rookie he was mainly a three-point shooter. He hit 39% on about six threes a game, took only about two twos a game (43%), rarely got to the line and averaged about three assists.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p22",
-    "gerS7ibpaJo:p22",
+    "uRsfijpBPok:p4",
+    "gerS7ibpaJo:p22"
+   ]
+  },
+  {
+   "text": "In college at BYU he was a point guard with big passing numbers who could not shoot.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p22",
     "uRsfijpBPok:p4"
    ]
   },
   {
-   "text": "At BYU he was a point guard with big passing numbers who could not shoot.",
-   "kind": "fact",
-   "date": "2026-09-26",
+   "text": "Threes are his best category. His FG% is weak for a guard, so he fits a punt FG% build.",
+   "kind": "verdict",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p22",
-    "uRsfijpBPok:p4"
+    "stats"
    ]
   },
   {
    "text": "His defensive stats are poor and he is not a big rebounder.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
@@ -159,33 +176,44 @@
  ],
  "tags": [
   {
-   "name": "breakout",
-   "channel": "current",
-   "detail": "Second-year leap expected as a starter with more usage and better efficiency",
+   "name": "punt FG fit",
+   "channel": "durable",
+   "detail": "projected about 42.5% FG on about 11 shots; under 40% last season",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p21",
-    "uRsfijpBPok:p5",
-    "3UGI05PDvrE:p25"
+    "stats",
+    "gerS7ibpaJo:p22"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Projected starter with slightly higher usage",
+   "detail": "projected starter at shooting guard with more minutes and slightly higher usage",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:p21",
+    "3UGI05PDvrE:p21",
     "3UGI05PDvrE:p23",
-    "3UGI05PDvrE:p21"
+    "gerS7ibpaJo:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "breakout",
+   "channel": "current",
+   "detail": "second-year leap expected as creator and interior scorer",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:p5",
+    "3UGI05PDvrE:p25",
+    "gerS7ibpaJo:p21"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Josh's best upside target for year two, projected around 120th",
+   "detail": "Josh's best upside target in all formats; projected about 120th, upside about 80th",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p25",
@@ -196,19 +224,18 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo values him at 0 USD while experts like his upside",
+   "detail": "Yahoo rank 144 at 0 USD",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p23",
-    "3UGI05PDvrE:p25",
-    "stats"
+    "ZYllcj4o6_A:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late pick with upside around 80th",
+   "detail": "solid late flyer, round 10 to 11",
    "until": "",
    "sources": [
     "gerS7ibpaJo:p21",
@@ -219,34 +246,57 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Third option at best behind Randle, with Brown and Porter also on the ball",
+   "detail": "third option at best behind Randle and Porter; Randle handles the ball a lot",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p23",
+    "9tb1ARBEmQU:p9",
     "gerS7ibpaJo:p21",
-    "9tb1ARBEmQU:p9"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Foot issue, 52 games",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p12",
-    "stats"
+    "lOshTzDA4SA:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "Fernandez wants multiple ball handlers; Randle handles a lot",
+   "detail": "coach Fernandez wants several ball handlers; Demin plays on and off the ball",
    "until": "",
    "sources": [
     "uRsfijpBPok:t3",
-    "lOshTzDA4SA:t6"
+    "uRsfijpBPok:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "foot issue; 52 games",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "about 28 wins projected",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Porter is a trade candidate, which could free usage",
+   "until": "",
+   "sources": [
+    "9tb1ARBEmQU:t2",
+    "LM0cRCGoAUQ:t7",
+    "3UGI05PDvrE:t3"
    ],
    "new_meaning": ""
   },
@@ -260,30 +310,8 @@
     "gf_6GveiAls:t1"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "3-4-3, only 10 games in weeks 19 to 21",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t4",
-    "gf_6GveiAls:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "About 28 wins projected",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:t4",
-    "sDzeYdUhJDI:t8"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "The market has him on the edge of our 144-player pool (Yahoo rank 143 at 0 USD, ESPN rank 107 at 2 USD), while Josh projects him around 120th with upside near 80th. That makes him a cheap 1 to 2 USD end-of-draft flyer for teams that want threes, though his FG% is a real risk. Early on, check whether he starts, whether his summer-league two-point volume holds up and lifts his FG% above last season's 39.9%, and how many assists he gets next to Randle. Keep in mind the weak 3-4-3 playoff schedule.",
+ "note": "Yahoo ranks him 144th at 0 USD and ESPN ranks him 107th at 2 USD, while Josh projects him around 120th with upside near 80th, so he is a 1 to 2 USD end-of-auction buy with breakout upside. He fits punt FG% builds that want threes (about 3.1 per game projected) plus some assists from a guard. Early on, check that he starts, how many twos he takes and whether his FG% climbs from last season's 39.9%. Also watch how much the ball goes to Randle.",
  "rejected": []
 }

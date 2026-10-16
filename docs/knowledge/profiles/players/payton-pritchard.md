@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 12 | 3.6 | 80 | 2 | 2.8 | 98 | 16 |
+| 2026-27 | 13 | 3.9 | 75 | 2 | 3.0 | 98 | 16 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,39 +20,38 @@
 | FG% | 46.6% | -0.3 | +0.1 | - |
 | FT% | 88.0% | +0.6 | +0.3 | - |
 | 3PM | 2.8 | +1.5 | +1.2 | - |
-| PTS | 17.3 | +0.6 | +0.5 | - |
+| PTS | 17.3 | +0.6 | +0.4 | - |
 | REB | 4.0 | -0.5 | +0.1 | - |
 | AST | 4.9 | +0.9 | +0.5 | - |
 | STL | 0.8 | -0.5 | -0.8 | - |
 | BLK | 0.1 | -1.0 | -1.2 | weak for his position (punt fit) |
-| TO | 1.3 | +0.5 | +0.6 | - |
+| TO | 1.3 | +0.5 | +0.7 | - |
 
 </details>
 
 **Current**
-- Jaylen Brown is gone from Boston. Jayson Tatum and Paul George take his place. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1188), [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [10-06](https://youtu.be/eTsjuVu1trk?t=1252), [09-17](https://youtu.be/DubdKKhMWHo?t=1596), [09-17](https://youtu.be/DubdKKhMWHo?t=1644), [09-09](https://youtu.be/7BllEsdNLoM?t=2359))
-- Experts call him a bust and a fade at his ADP and rank of about 74 to 81. One expert will have him on zero teams. Another sees a worst case of 171st and would not be surprised if he finishes outside the top 110 to 120. (verdict, 2026-10-08; [10-06](https://youtu.be/eTsjuVu1trk?t=1252), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1194), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [08-19](https://youtu.be/J1Eg3uaAICU?t=1393), [08-11](https://youtu.be/OdDkXFhoKsc?t=1641), [09-17](https://youtu.be/DubdKKhMWHo?t=1596), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [10-08](https://youtu.be/WXO8MfQfzo0?t=1484), [08-24](https://youtu.be/g31YlwRe0XQ?t=1551))
-- Experts expect him to be the third usage option at best, maybe the fourth, behind Tatum, George and Derrick White. His usage path is more crowded than last season. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1252), [10-06](https://youtu.be/eTsjuVu1trk?t=2742), [09-25](https://youtu.be/Bi1cEM03k9Y?t=281), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [09-19](https://youtu.be/uarqbNA2dFk?t=1079), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [09-09](https://youtu.be/7BllEsdNLoM?t=2359), [09-17](https://youtu.be/DubdKKhMWHo?t=1644))
-- His strong numbers without Jaylen Brown came without Tatum and George on the floor, so experts say they do not matter now. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2742), [08-19](https://youtu.be/J1Eg3uaAICU?t=1393))
-- Experts reject the breakout and new Jalen Brunson talk. He had only about 21 to 22 percent usage last season with few teammates around, he turns 29 soon and has basically peaked. One projection is 17 to 18 points a game, a likely step back. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=3478), [07-30](https://youtu.be/TiiaNZCJNs8?t=937), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [09-17](https://youtu.be/DubdKKhMWHo?t=1596))
-- In an auction mock he went for 6 USD. The expert sees him as no more than a 4 USD player. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4281))
-- Experts project him as the sixth man and main backup ball handler, not a starter. He could start and play about 32 minutes if Mike Conley takes the backup point guard role. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=281), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=527), [07-30](https://youtu.be/TiiaNZCJNs8?t=472), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [09-09](https://youtu.be/7BllEsdNLoM?t=2365))
-- One expert thinks a 29-minute bench role may suit him better than a 32-minute starting role, because as a starter he would be the third usage player. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=281))
-- If Paul George plays only about 30 games, he would step back into the bigger role he had last season. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=351))
-- Boston is very deep, with at least 12 rotation-level players for a 10-man rotation. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- Boston's playoff schedule is 4-3-4 games in weeks 19 to 21, one game short of the maximum. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816))
-- At pick 95 in a 9-cat mock draft, one expert called him a good pick, not an early one. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1510))
-- One expert expects his 2P% to recover to about 59 percent, and thinks Tatum and George sharing the ball more could help his shot quality. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1513), [07-16](https://youtu.be/-y6p5PYLf00?t=1544))
+- His draft spot in mock drafts ranges from the 70s to 100. He went for 6 USD in one auction mock. (fact, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=1125), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4281), [10-12](https://youtu.be/ENizLoE6pzI?t=1444))
+- He came off the bench in a preseason game. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1444))
+- Experts project him as the sixth man and main backup ball handler, not a starter. One expert says a 29-minute bench role may suit him better than a 32-minute starting role. He could start if Mike Conley handles the backup point guard job. (verdict, 2026-10-12; [07-30](https://youtu.be/TiiaNZCJNs8?t=527), [07-30](https://youtu.be/TiiaNZCJNs8?t=472), [09-25](https://youtu.be/Bi1cEM03k9Y?t=281), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [10-12](https://youtu.be/ENizLoE6pzI?t=1444))
+- Experts see him as the third usage option at best, and maybe the fourth, behind Tatum, George and Derrick White. His usage path is more crowded than last season. (verdict, 2026-10-12; [10-06](https://youtu.be/eTsjuVu1trk?t=1252), [10-06](https://youtu.be/eTsjuVu1trk?t=2742), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [09-19](https://youtu.be/uarqbNA2dFk?t=1079), [09-25](https://youtu.be/Bi1cEM03k9Y?t=281), [09-09](https://youtu.be/7BllEsdNLoM?t=2359), [10-12](https://youtu.be/ENizLoE6pzI?t=1444))
+- Jaylen Brown is gone from Boston. Jayson Tatum and Paul George take his place, and Paul George is the clear number two option behind Tatum. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1188), [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [09-17](https://youtu.be/DubdKKhMWHo?t=1644), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [08-30](https://youtu.be/Alwse2uXzD4?t=1671))
+- Experts reject the idea of a Jalen Brunson-style breakout. He had about 21 to 22 percent usage last season even with few teammates around. He turns 29 soon. (fact, 2026-10-06; [10-05](https://youtu.be/BiIZsSypx7Y?t=3478), [10-06](https://youtu.be/eTsjuVu1trk?t=2742), [07-30](https://youtu.be/TiiaNZCJNs8?t=937))
+- His strong numbers without Jaylen Brown last season came without Tatum and George on the floor, so experts say they do not carry over. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2742), [08-19](https://youtu.be/J1Eg3uaAICU?t=1393))
+- Most experts call him a bust or a fade at his ADP of about 75 to 81. One worst case puts him at 171st, and he could finish outside the top 110 to 120. In auctions, Josh sees him as worth no more than 4 USD. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1252), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1194), [09-19](https://youtu.be/uarqbNA2dFk?t=1062), [08-19](https://youtu.be/J1Eg3uaAICU?t=1393), [08-11](https://youtu.be/OdDkXFhoKsc?t=1641), [09-17](https://youtu.be/DubdKKhMWHo?t=1596), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4281))
+- Experts expect a step back from last season, at around 17 to 18 points per game. They say he has basically peaked. (verdict, 2026-10-05; [07-30](https://youtu.be/TiiaNZCJNs8?t=937), [10-05](https://youtu.be/BiIZsSypx7Y?t=3478), [09-09](https://youtu.be/7BllEsdNLoM?t=2365), [09-17](https://youtu.be/DubdKKhMWHo?t=1596))
+- Boston has 16 back-to-backs, tied for the most in the league, with three of them in our playoff window. Its playoff schedule through March 28 is 4-3-4 games, one short of the maximum. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1816), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- If Paul George only plays about 30 games, Pritchard would step back into last season's bigger role. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=351))
+- Boston is very deep, with at least 12 rotation-level players, and is projected to win about 48 games. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=191), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133), [07-30](https://youtu.be/TiiaNZCJNs8?t=2194))
+- One expert expects his two-point percentage to recover to about 59 percent. He also thinks Tatum and George, who share the ball more than Jaylen Brown did, could help his shot quality. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1513), [07-16](https://youtu.be/-y6p5PYLf00?t=1544))
 
 **Durable**
-- Blocks are his weakest category, even for a guard, so a punt BLK team loses little with him. (fact, 2026-10-11; stats)
-- He is a streaky bucket-getter. He can score 40 on a hot night but also has cold nights. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=897))
-- He is elite on two-pointers in the paint outside the restricted area. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=897))
+- He blocks almost no shots, even for a guard. (fact, 2026-10-16; stats)
+- He is a streaky bucket-getter who can score 40 on a hot night but also has cold nights. He is elite on two-pointers in the paint outside the restricted area. (fact, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=897))
 
 **Tags**
-- Current: `bust candidate` (Experts fade him at ADP and rank of about 74 to 81), `role down` (Projected sixth man and third or fourth usage option after Tatum and George arrived), `usage competition` (Behind Jayson Tatum, Paul George and Derrick White), `minutes competition` (Starter or sixth man not settled; may start only if Mike Conley backs up point guard), `handcuff` (Bigger role if Paul George misses a lot of games), `deep rotation` (At least 12 rotation-level players in Boston), `sites disagree on price` (Yahoo value 12 USD and rank 80, ESPN value 2 USD and rank 98)
-- Durable: `streaky` (Hot and cold scoring nights), `punt BLK fit`, `plays every game` (79 to 82 games in each of the last three seasons)
+- Current: `bust candidate` (called a bust or fade at ADP 75 to 81), `role down` (projected sixth man with a step back from last season), `usage competition` (third or fourth option behind Tatum, George and Derrick White), `handcuff` (steps back into a bigger role if Paul George misses a lot of time), `sites disagree on price` (Yahoo value 13 USD and rank 75, ESPN value 2 USD and rank 98), `deep rotation` (at least 12 rotation-level players in Boston), `winning team` (about 48 wins projected), `many back-to-backs` (16, tied for most in the league)
+- Durable: `punt BLK fit` (about 0.1 blocks per game, low even for a guard), `streaky` (hot and cold scoring nights), `plays every game` (79 to 82 games in each of the last three seasons)
 
-**Note.** Our league paid 16 USD for him last season. The market has cooled a lot: Yahoo average cost is 3.6 USD, ESPN value is 2 USD, and one expert says he is worth no more than 4 USD, so do not pay more than about 5 USD. Threes are his best category (about 2.8 per game, +1.5 z), and he adds solid FT%, assists and low turnovers, so he fits punt BLK builds as a cheap bench or Util guard. Early in the season, check whether he starts or comes off the bench, whether he gets about 30 minutes, and whether Paul George stays healthy.
+**Note.** The market price looks right and our league's old price looks too high. Average costs are 3.9 USD on Yahoo and 3.0 USD on ESPN, and Josh caps him at 4 USD. Our league paid 16 USD last season, and Yahoo values him at 13 USD, so bid in the single digits and do not chase him near those numbers. He fits punt BLK guard builds: his projections show about 2.8 threes, good FT% and assists, and few turnovers. He has also played 79 to 82 games in each of the last three seasons. Early in the season, check whether he starts or comes off the bench, whether his minutes stay near 30, and how much usage he keeps next to Tatum and George. If Paul George misses time, his value goes up.
 
-<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

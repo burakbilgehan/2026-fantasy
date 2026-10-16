@@ -4,44 +4,46 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 70 | 24.2 | 50.2 (8.6) | 77.5 (2.6) | 0.8 | 11.4 | 4.1 | 2.6 | 0.9 | 0.1 | 1.3 |
-| 2026-27 proj, Yahoo | 71 | - | 50.6 (8.9) | 77.8 (2.7) | 0.8 | 11.9 | 4.1 | 2.6 | 0.9 | 0.1 | 1.4 |
+| 2026-27 proj, Yahoo | 71 | - | 50.6 (9.5) | 77.3 (2.9) | 0.8 | 12.7 | 4.3 | 2.8 | 1.0 | 0.1 | 1.4 |
 | 2025-26 | 74 | 29.5 | 51.0 (11.1) | 76.0 (4.1) | 0.8 | 15.2 | 4.7 | 3.3 | 1.1 | 0.1 | 1.6 |
 | 2024-25 | 69 | 27.8 | 50.8 (10.3) | 81.2 (2.3) | 0.9 | 13.2 | 4.8 | 3.0 | 1.0 | 0.2 | 1.6 |
 | 2023-24 | 66 | 19.1 | 46.3 (5.6) | 79.1 (1.3) | 0.9 | 7.1 | 3.6 | 1.9 | 0.7 | 0.2 | 1.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 197 | 0 | 0.0 | 208 | not drafted |
+| 2026-27 | 0 | - | 204 | 0 | 0.0 | 208 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.4% | +0.4 | +0.8 | - |
-| FT% | 77.7% | -0.2 | -0.4 | - |
-| 3PM | 0.8 | -0.8 | -1.2 | - |
-| PTS | 11.7 | -0.4 | -0.5 | - |
-| REB | 4.1 | -0.4 | -0.2 | - |
-| AST | 2.6 | -0.3 | -0.4 | - |
-| STL | 0.9 | -0.1 | -0.2 | - |
-| BLK | 0.1 | -1.1 | -1.2 | - |
-| TO | 1.3 | +0.4 | +0.5 | - |
+| FG% | 50.4% | +0.4 | +0.9 | - |
+| FT% | 77.4% | -0.2 | -0.4 | - |
+| 3PM | 0.8 | -0.8 | -1.1 | - |
+| PTS | 12.1 | -0.3 | -0.4 | - |
+| REB | 4.2 | -0.4 | -0.2 | - |
+| AST | 2.7 | -0.3 | -0.3 | - |
+| STL | 0.9 | +0.0 | -0.1 | - |
+| BLK | 0.1 | -1.1 | -1.3 | - |
+| TO | 1.4 | +0.4 | +0.4 | - |
 
 </details>
 
 **Current**
-- Dallas added three new point guards, so Josh expects the point guard role Marshall had last season to disappear. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
-- Josh projects Marshall as the sixth man and sees him as a streaming option with hot streaks, not a steady roster player. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
-- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league, but also a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
-- The Dallas roster is crowded with forwards and wings who expect minutes, and Marshall is one of them. (fact, 2026-07-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
+- Josh projects Marshall as Dallas's sixth man. His projected starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236), [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- Josh expects Marshall to lose his point guard role because Dallas now has three new point guards on the roster. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
+- Josh sees Marshall as a streaming option who will have hot streaks, not a steady hold. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1236))
+- Dusty May is the new Dallas head coach, so the rotation is not settled. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- Dallas plays 4 games in each of our playoff weeks (4-4-4), probably the best playoff schedule. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Dallas has a crowded group of wings and forwards who expect minutes, and Marshall is one of them. (fact, 2026-07-27; [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
 
 **Durable**
-- Josh calls Marshall a non-shooting forward and a terrible shooter. He does not think Marshall will ever be a reliable shooter. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1187))
+- Josh calls Marshall a non-shooting forward and a terrible shooter. He does not expect him to ever become a reliable shooter. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1187))
 
 **Tags**
-- Current: `role down` (Projected sixth man. His point guard role likely goes to three new point guards.), `minutes competition` (Crowded Dallas forward and wing group.), `waiver watch` (Streaming option with hot streaks, ranked outside the 144 drafted players.), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21.)
-- Durable: none
+- Current: `role down` (Projected sixth man. Likely loses his point guard duties to new point guards.), `minutes competition` (Crowded Dallas wing and forward group), `deep rotation` (Dallas is overloaded with wings and forwards), `waiver watch` (Streaming option, ranked outside the 144 players drafted), `new coach` (Dusty May), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21), `many back-to-backs` (League-high 16 back-to-backs)
+- Durable: `streaky` (Seen as a streaming option with hot streaks)
 
-**Note.** Marshall is ranked 190 on Yahoo and 209 on ESPN, and both sites value him at 0 USD. That puts him outside the 144 players our league drafts, so do not draft him. Both projections cut his minutes and volume from last season (24.2 projected minutes against 29.5 last season, about 9 shots against 11.1). His value leans on FG% and few turnovers, and he gives little in threes or blocks. Early in the season, check how Dusty May uses him and whether the thin Dallas guard group gives him ball-handling minutes again. If it does, he is a streaming pickup, and the Dallas 4-4-4 playoff schedule makes him more useful late in the season.
+**Note.** Yahoo ranks Marshall 204 and ESPN ranks him 208. Both sites value him at 0 USD, so he should go undrafted in our 144-player auction. Projections have his minutes and shots dropping from last season's 15.2 points on 11.1 shots, and his only real plus is a solid FG% (about 50%) with few threes and almost no blocks. Leave him on waivers. In the first weeks, check whether Dusty May gives him ball-handling duties or starter minutes, and keep him in mind as a streamer during hot stretches and in Dallas's 4-4-4 playoff weeks.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

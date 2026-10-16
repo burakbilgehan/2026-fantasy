@@ -8,29 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f8faf1dd38bf",
- "note_count": 23,
- "built_at": "2026-10-11T09:21:00+00:00",
+ "input_sha": "a69725cefe51",
+ "note_count": 24,
+ "built_at": "2026-10-16T09:07:55+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2193382,
-  "duration_ms": 64438,
+  "cost_usd_list": 0.24442219999999998,
+  "duration_ms": 76977,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yahoo lists him as questionable with a neck issue.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is in the projected Jazz starting lineup with Keyonte George, Darryn Peterson, Jaren Jackson Jr. and Jusuf Nurkic.",
+   "text": "Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic.",
    "kind": "fact",
    "date": "2026-08-05",
    "until": "",
@@ -39,128 +30,140 @@
    ]
   },
   {
-   "text": "Utah has Jaren Jackson Jr. for a full season and added rookie Darryn Peterson, so Markkanen shares usage with Jackson, Peterson and Keyonte George.",
+   "text": "He shares touches with Jaren Jackson Jr., who is there for a full season, rookie Darryn Peterson and Keyonte George. All of them are expected to lose some usage.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:t3",
-    "CI4k8ofUXXk:t1",
     "BiIZsSypx7Y:p11",
+    "J1Eg3uaAICU:p47",
+    "dlo7L8Ru91A:p15",
     "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1"
+    "-rgXhs5BHiw:t1",
+    "2A2JbUN-kc0:p34"
    ]
   },
   {
-   "text": "Experts expect him to produce less than last season on a more balanced offense with lower usage. One projection is 34 minutes and a usage rate of 25.",
+   "text": "The experts expect him to produce less than last season. One projects 34 minutes and a 25 usage rate. Utah's scoring should be balanced, and no one is expected to reach a career high in points.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p15",
     "J1Eg3uaAICU:p47",
     "CI4k8ofUXXk:p11",
-    "2A2JbUN-kc0:p34",
-    "ahNxsoU8Hx4:p6"
+    "CI4k8ofUXXk:t4"
    ]
   },
   {
-   "text": "The Jazz plan to try to win this season, not tank. One projection has them at 43 wins and a 7th or 8th seed.",
+   "text": "The Jazz are not tanking this season. They are trying to win.",
    "kind": "fact",
-   "date": "2026-10-06",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
+    "ahNxsoU8Hx4:p7",
     "ahNxsoU8Hx4:t2",
-    "sTtFUy7IoJI:t6",
-    "CI4k8ofUXXk:t2",
-    "eTsjuVu1trk:t2",
-    "xHRF06_E9HE:t4"
+    "sTtFUy7IoJI:t6"
    ]
   },
   {
-   "text": "Experts agree that fears of Utah resting or shutting him down are misplaced, and that the market is marking him down for those fears.",
+   "text": "The experts call the fear that Utah will tank or sit him misplaced. They say this fear is the main reason drafters mark him down.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "BiIZsSypx7Y:p12",
-    "dlo7L8Ru91A:p15",
-    "dlo7L8Ru91A:t2",
+    "_vbAP5y182A:p17",
     "egRrai3Ax38:p33",
     "egRrai3Ax38:t4",
-    "ahNxsoU8Hx4:p7",
-    "J1Eg3uaAICU:t3",
-    "_vbAP5y182A:p17"
+    "dlo7L8Ru91A:p15",
+    "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3"
    ]
   },
   {
-   "text": "In category leagues a rank around 32 is about right for him. Do not take him in the first round.",
+   "text": "Utah is projected around 43 wins and a 7th or 8th seed, with a top 10 offense and a defense ranked below 20th. The team probably makes the playoffs, so the late-season minutes of the tank years will not be there.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:p14",
-    "BiIZsSypx7Y:p11",
-    "OdDkXFhoKsc:p23"
+    "CI4k8ofUXXk:t2",
+    "CI4k8ofUXXk:t3",
+    "eTsjuVu1trk:t2",
+    "xHRF06_E9HE:t4",
+    "LM0cRCGoAUQ:t4"
    ]
   },
   {
-   "text": "Experts see him as underrated at an ADP in the 40s, and as a steal at his ESPN ADP of 77 to 89.",
+   "text": "Minutes and usage on the Jazz are expected to be all over the place early in the season. Coach Will Hardy will feel pressure to tinker in order to win.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2",
+    "CI4k8ofUXXk:t6"
+   ]
+  },
+  {
+   "text": "In category leagues he is worth a pick around 25 to 32. Pick 25 is early but acceptable. He should not go in the first round.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p17",
+    "eTsjuVu1trk:p14",
+    "OdDkXFhoKsc:p23",
+    "_vbAP5y182A:p17",
+    "BiIZsSypx7Y:p11"
+   ]
+  },
+  {
+   "text": "The experts call him underrated at a Yahoo ADP of 44. They call his ESPN ADP of 77 to 89 a steal.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p24",
     "ahNxsoU8Hx4:p6",
-    "ahNxsoU8Hx4:p7",
     "egRrai3Ax38:p33"
    ]
   },
   {
-   "text": "In one expert auction mock he sold for 30 USD. The expert had hoped to get him for 21 to 22 USD.",
+   "text": "In one auction mock he sold for 30 USD. The expert had hoped to get him for 21 to 22 USD.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p34"
    ]
-  },
-  {
-   "text": "He is the longest-tenured NBA player who has never played in a playoff game, which adds pressure this season.",
-   "kind": "fact",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
-    "CI4k8ofUXXk:p15"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a strong FT% asset. He shoots about 89 to 90% on 5 to 6 attempts per game, which clearly lifts a team's FT%.",
+   "text": "He is a scoring forward. His FT% is elite on real volume, and he adds many threes and points for a forward. His assists are low, and his steals and blocks are about average.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is a scoring forward who makes about 3 threes per game, far above the norm for his position. He also gives good points and rebounds.",
+   "text": "His best position is power forward. He has played out of position at small forward for the last couple of years.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-08-05",
    "until": "",
    "sources": [
-    "stats"
+    "CI4k8ofUXXk:p13"
    ]
   },
   {
-   "text": "He adds little in assists, steals and blocks, and his FG% is a little below average.",
+   "text": "For years he has played several short stints per game. He comes out early and then goes back in.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-08-05",
    "until": "",
    "sources": [
-    "stats"
+    "CI4k8ofUXXk:p12"
    ]
   },
   {
@@ -174,7 +177,7 @@
    ]
   },
   {
-   "text": "Experts disagree on his health risk. One says he cannot stay healthy whether or not Utah tanks. Others call his past injury concerns mostly exaggerated, or say the missed games were real injuries rather than rest.",
+   "text": "The experts disagree on his health. One says he cannot stay healthy. Others call his injury concerns mostly exaggerated.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
@@ -185,21 +188,13 @@
    ]
   },
   {
-   "text": "For years he has played several short stints per game, coming out early and going back in.",
-   "kind": "fact",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
-    "CI4k8ofUXXk:p12"
-   ]
-  },
-  {
-   "text": "His best position is power forward. He has played out of position at small forward for the last couple of years.",
+   "text": "He is worth more in category leagues than in points leagues. In points leagues the experts call him a fourth-round player, around pick 40 to 50.",
    "kind": "verdict",
-   "date": "2026-08-05",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p13"
+    "eTsjuVu1trk:p14",
+    "WXO8MfQfzo0:p9"
    ]
   }
  ],
@@ -207,7 +202,7 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "About 89% FT on 5 to 6 attempts per game",
+   "detail": "89% on about 5.4 FTA per game",
    "until": "",
    "sources": [
     "stats"
@@ -217,7 +212,7 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 3 threes per game as a forward",
+   "detail": "about 3 threes per game as a forward",
    "until": "",
    "sources": [
     "stats"
@@ -225,102 +220,19 @@
    "new_meaning": ""
   },
   {
-   "name": "injury prone",
+   "name": "fits every build",
    "channel": "durable",
-   "detail": "Missed many games in recent seasons. Experts split on how many were real injuries and how many were tank holdouts.",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p25",
-    "g31YlwRe0XQ:p22",
-    "CI4k8ofUXXk:p14"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Played 42 games",
+   "detail": "no category flagged weak",
    "until": "",
    "sources": [
     "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q (neck)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "Neck, Yahoo status Q",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Jaren Jackson Jr., Darryn Peterson and Keyonte George",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1",
-    "BiIZsSypx7Y:p11",
-    "2A2JbUN-kc0:p34"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role down",
-   "channel": "current",
-   "detail": "Lower projected usage than last season on a balanced offense",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p15",
-    "J1Eg3uaAICU:p47",
-    "CI4k8ofUXXk:p11",
-    "ahNxsoU8Hx4:p6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Experts call him underrated at ADP 44 and a steal at his ESPN ADP",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p24",
-    "ahNxsoU8Hx4:p6",
-    "egRrai3Ax38:p33",
-    "_vbAP5y182A:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo values him at 29 USD and ESPN at 20 USD. His ESPN ADP is 77 to 89, against 44 on Yahoo.",
-   "until": "",
-   "sources": [
-    "stats",
-    "ahNxsoU8Hx4:p6",
-    "egRrai3Ax38:p33"
    ],
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "About rank 32 in category leagues, 4th round in points leagues",
+   "detail": "rank around 32 in categories, fourth round in points",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p14",
@@ -329,31 +241,135 @@
    "new_meaning": ""
   },
   {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "many missed games across his career, some of them tank-related",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p25",
+    "CI4k8ofUXXk:p14",
+    "g31YlwRe0XQ:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "42 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats",
+    "egRrai3Ax38:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Jaren Jackson Jr., Darryn Peterson, Keyonte George",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p11",
+    "dlo7L8Ru91A:p15",
+    "lOshTzDA4SA:t2",
+    "J1Eg3uaAICU:p47"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "projected 25 usage, below last season",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p15",
+    "J1Eg3uaAICU:p47",
+    "CI4k8ofUXXk:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN ADP 77 to 89 against Yahoo ADP 44",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p6",
+    "egRrai3Ax38:p33",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "experts call him underrated at ADP 44",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p24",
+    "ahNxsoU8Hx4:p6",
+    "_vbAP5y182A:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "mainly on ESPN, where his ADP is 77 to 89",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p6",
+    "egRrai3Ax38:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected at 43 wins and a 7th or 8th seed",
+   "detail": "projected about 43 wins and a 7th or 8th seed",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:t2",
     "xHRF06_E9HE:t4",
-    "eTsjuVu1trk:t2"
+    "LM0cRCGoAUQ:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "The Jazz are not tanking this season",
+   "detail": "Jazz are not tanking this season",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t2",
     "J1Eg3uaAICU:t3",
     "dlo7L8Ru91A:t2",
-    "sTtFUy7IoJI:t6"
+    "ahNxsoU8Hx4:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "minutes and usage expected to vary early",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2",
+    "CI4k8ofUXXk:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "crowded frontcourt and a deeper roster",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t6",
+    "xHRF06_E9HE:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is a forward who brings strong FT% on volume plus threes, points and rebounds. That fits any build that wants FT% and frontcourt threes. Expect a price above the 16 USD he cost in our league last season: Yahoo values him at 29 USD (average cost 20.7) and he went for 30 USD in an expert mock, while ESPN has him at 20 USD (average cost 13.1). A bid in the low to mid 20s matches the experts' rank of about 30 to 32. Early in the season, check the neck issue (Yahoo Q), his shot share next to Jaren Jackson Jr. and Darryn Peterson, and whether he stays healthy after playing only 42 games last season.",
+ "note": "Markkanen is a scoring forward. His FT% is elite on volume, he hits about 3 threes a game and adds strong points. No category is weak enough to rule him out of any build. Yahoo values him at 29 USD against a 21.4 USD average cost, while ESPN has him at 20 USD and 13.9 USD, and he went for 16 USD in our league last year. A bid in the mid-20s fits the experts' round-3 grade, but one mock already reached 30 USD. Early in the season, check how much usage he keeps next to Jaren Jackson Jr. and Darryn Peterson, and whether he stays healthy after playing only 42 games.",
  "rejected": []
 }

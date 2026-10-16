@@ -20,31 +20,32 @@
 | FG% | 40.9% | -0.6 | -0.2 | - |
 | FT% | 81.7% | +0.1 | -0.4 | - |
 | 3PM | 1.0 | -0.6 | -1.0 | - |
-| PTS | 5.1 | -1.6 | -1.6 | league outlier, weak |
-| REB | 1.0 | -1.7 | -1.9 | league outlier, weak |
+| PTS | 5.1 | -1.5 | -1.6 | league outlier, weak |
+| REB | 1.0 | -1.7 | -2.0 | league outlier, weak |
 | AST | 1.9 | -0.7 | -1.0 | - |
 | STL | 0.4 | -1.6 | -1.7 | league outlier, weak |
-| BLK | 0.1 | -1.1 | -1.5 | - |
+| BLK | 0.1 | -1.2 | -1.5 | - |
 | TO | 0.9 | +1.1 | +1.2 | - |
 
 </details>
 
 **Current**
-- Dallas is short on true ball handlers. Kyrie Irving, rookie Sergio de Larrea and Sasser are its only real guards, and most of the roster is forwards. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=413), [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
-- Josh does not have Sasser in his projected starting five. That five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
-- Dusty May is the new Dallas head coach, so the rotation is not settled yet. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Dallas plays 4 games in each of our fantasy playoff weeks (4-4-4). It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-16; stats)
+- Dallas is short on true ball handlers. The only real guards on the roster are Kyrie Irving, rookie Sergio de Larrea and Sasser. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=413), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [09-29](https://youtu.be/XSPJL_mlFXo?t=134))
+- Josh does not have Sasser in his projected Dallas starting five: Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- Dallas has a 4-4-4 schedule in our fantasy playoff weeks, but a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 - Nick expects Sasser to get a chance at a bigger role in Dallas. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=330))
 
 **Durable**
-- In his small role he is far below the top 250 pool in points, rebounds and steals. (fact, 2026-10-04; stats)
-- Sasser is an undersized 6'1 guard who can go on hot shooting streaks. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
-- Josh thinks Sasser is not a good player. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
+- His projected points, rebounds and steals are far below the top 250 pool. (fact, 2026-10-16; stats)
+- Sasser is an undersized 6'1 guard. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
+- He can go on hot shooting streaks. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602))
+- Josh thinks he is a bad NBA player. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1602), [07-27](https://youtu.be/0AptxcRW0RE?t=422))
 
 **Tags**
-- Current: `role up` (Nick expects a chance at a bigger role because Dallas has few real guards), `minutes competition` (backup guard minutes behind Kyrie Irving, with rookie Sergio de Larrea also in the mix), `waiver watch` (not a draft pick at rank 395 Yahoo and 316 ESPN; watch whether thin guard depth gives him minutes), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21)
-- Durable: none
+- Current: `role up` (Nick expects a chance at a bigger role because Dallas has few guards), `questionable` (Yahoo Q (Hip)), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21), `many back-to-backs` (league-high 16 back-to-backs)
+- Durable: `streaky` (can go on hot shooting streaks)
 
-**Note.** Sasser is not a draft pick for us. Both sites value him at 0 USD, with ranks of 395 on Yahoo and 316 on ESPN, and he went undrafted in our league last season. In 12.1 minutes a game last season he gave only 5.2 points and 0.5 steals. Early in the season, check whether Dusty May hands him the backup guard minutes on a thin guard depth chart. If he gets them, Dallas's 4-4-4 playoff schedule could make him a late-season streamer.
+**Note.** Both Yahoo and ESPN value Sasser at 0 USD, and he ranks 395 on Yahoo and 316 on ESPN. That is far outside the 144 players our league drafts, so do not draft him. His projected 5.1 points, 1.0 rebounds and 0.4 steals give him little value in any build. Early in the season, check his hip and his minutes. Dallas has so few guards that a real role would make him a short-term waiver pickup for threes, and the 4-4-4 playoff schedule helps with that.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

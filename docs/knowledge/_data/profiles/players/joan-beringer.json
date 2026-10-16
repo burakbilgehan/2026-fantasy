@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "93b13e424054",
+ "input_sha": "502c5d6deadb",
  "note_count": 12,
- "built_at": "2026-10-11T09:18:45+00:00",
+ "built_at": "2026-10-16T09:01:55+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18680219999999997,
-  "duration_ms": 49050,
+  "cost_usd_list": 0.1938102,
+  "duration_ms": 52269,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is Minnesota's clear backup center behind Rudy Gobert. Naz Reid and Julius Randle were traded away.",
+   "text": "He is Minnesota's backup center behind Rudy Gobert.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -35,17 +35,18 @@
    ]
   },
   {
-   "text": "Minnesota has very thin big man depth. The only bigs are Gobert, Beringer, Lyles, Freeman and Rocco Zikarsky, and the team may start three guards.",
+   "text": "Minnesota's big man depth is very thin. The only bigs are Gobert, Beringer, Lyles, Freeman and Rocco Zikarsky.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t0",
-    "cFV24VgxyCY:t4"
+    "cFV24VgxyCY:t4",
+    "2mxpEpGU3H8:t2"
    ]
   },
   {
-   "text": "He is projected for about 18 minutes a night off the bench. That is 10 to 11 more minutes than last season, a figure pulled back after the Kuminga signing.",
+   "text": "He should get about 10 to 11 more minutes a night than last season, for about 18 minutes as Gobert's main backup. That projection was trimmed after the Kuminga signing.",
    "kind": "verdict",
    "date": "2026-09-04",
    "until": "",
@@ -55,34 +56,24 @@
    ]
   },
   {
-   "text": "He has no real path to starting. He is not expected to play power forward next to Gobert early in the season, but that could change as the year goes on.",
+   "text": "He is not expected to play power forward next to Gobert early in the season. One expert says that could change later in the year.",
    "kind": "verdict",
-   "date": "2026-08-26",
+   "date": "2026-08-19",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p11",
     "2mxpEpGU3H8:p19",
     "ya2VYRJ1BN0:p9"
    ]
   },
   {
-   "text": "One expert says he may not be ready for the backup center role.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:t4"
-   ]
-  },
-  {
-   "text": "His value depends on a Gobert injury. If Gobert misses games, he would start and be a must-roster player.",
+   "text": "He has no real path to starting. His fantasy value depends on a Gobert injury. He would start and be a must-roster player if Gobert misses games.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p22",
-    "gerS7ibpaJo:p24",
     "sTtFUy7IoJI:p11",
+    "gerS7ibpaJo:p24",
     "RyzcCGChYgs:p16",
     "ya2VYRJ1BN0:p9"
    ]
@@ -98,34 +89,54 @@
    ]
   },
   {
-   "text": "Taking him in round 11 of a 12-team standard league is an overdraft. Draft him only as a stash in best ball, weekly, games cap or deep bench formats.",
+   "text": "In 28 minutes he could put up 12 points and 10 rebounds with 2.4 blocks on 60% shooting.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p17"
+   ]
+  },
+  {
+   "text": "One expert says he may not be ready for the backup center role.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:t4"
+   ]
+  },
+  {
+   "text": "Drafting him in round 11 of 12-team standard leagues is too early. Draft him only as a stash in best ball, weekly, games cap or deep bench formats.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p22",
     "cFV24VgxyCY:p24",
+    "sTtFUy7IoJI:p11",
     "RyzcCGChYgs:p16"
    ]
   },
   {
-   "text": "With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoffs. That puts a two-game week in the semifinal. The team has the league minimum of 13 back-to-backs.",
+   "text": "With the season ending March 28, Minnesota plays 4, 2 and 4 games in the fantasy playoffs, so week 20 is a two-game semifinal week. The team has the league minimum of 13 back-to-backs.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
     "gf_6GveiAls:t14",
     "2mxpEpGU3H8:t4",
-    "J1Eg3uaAICU:t0",
-    "QbdrhJd7LiA:t4"
+    "EogBYa24Gto:t3",
+    "QbdrhJd7LiA:t4",
+    "J1Eg3uaAICU:t0"
    ]
   }
  ],
  "durable": [
   {
    "text": "He is a great shot blocker and a strong, instinctive offensive rebounder. His defensive rebounding technique is behind.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
    "sources": [
@@ -143,8 +154,18 @@
    ]
   },
   {
+   "text": "His category profile is thin outside FG% and blocks. He is poor in steals, assists and threes, and subpar at the line.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p23",
+    "stats"
+   ]
+  },
+  {
    "text": "Foul trouble is a concern for him.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
    "sources": [
@@ -152,17 +173,7 @@
    ]
   },
   {
-   "text": "His category profile is high FG% on low volume, few turnovers and some blocks. Threes, assists and points are weak, and he projects to poor steals.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "stats",
-    "cFV24VgxyCY:p23"
-   ]
-  },
-  {
-   "text": "Experts see him as a future NBA starter and a possible top 50 fantasy player. In 28 minutes he could put up 12 points, 10 rebounds and 2.4 blocks on 60% shooting.",
+   "text": "Experts see him as a future NBA starter. They expect at least one top 50 fantasy season in his career.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
@@ -174,44 +185,23 @@
  ],
  "tags": [
   {
-   "name": "no 3PM",
-   "channel": "durable",
-   "detail": "0.0 3PM projected, does not stretch the floor",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p18",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "foul prone",
-   "channel": "durable",
-   "detail": "foul trouble is a concern",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p18"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "handcuff",
    "channel": "current",
-   "detail": "backup center to Rudy Gobert; would start and be must-roster if Gobert misses time",
+   "detail": "Starts and becomes a must-roster player if Rudy Gobert misses games",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p22",
     "gerS7ibpaJo:p24",
+    "sTtFUy7IoJI:p11",
     "RyzcCGChYgs:p16",
-    "ya2VYRJ1BN0:p9",
-    "sTtFUy7IoJI:p11"
+    "ya2VYRJ1BN0:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "stash only in deep formats; pick up if Gobert gets hurt",
+   "detail": "Overdrafted at round 11 in 12-team leagues; pick him up if Gobert gets hurt",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p22",
@@ -223,7 +213,7 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "about 18 minutes a night as primary backup center, up from 7.9",
+   "detail": "Main backup center at about 18 minutes after Reid and Randle left",
    "until": "",
    "sources": [
     "gerS7ibpaJo:p24",
@@ -232,19 +222,9 @@
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "overdrafted at round 11 in 12-team standard leagues",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p22"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "only Gobert, Beringer, Lyles, Freeman and Zikarsky as bigs",
+   "detail": "Very thin big man depth behind Gobert",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t0",
@@ -254,33 +234,43 @@
    "new_meaning": ""
   },
   {
-   "name": "small-ball lineups",
-   "channel": "current",
-   "detail": "guard-heavy starting group; not expected to play next to Gobert early",
+   "name": "no 3PM",
+   "channel": "durable",
+   "detail": "Does not stretch the floor",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:t0",
-    "2mxpEpGU3H8:t0",
-    "2mxpEpGU3H8:p19"
+    "2mxpEpGU3H8:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "foul prone",
+   "channel": "durable",
+   "detail": "Foul trouble is a concern",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p18"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 2, 4 games; two-game semifinal week",
+   "detail": "Two-game week in week 20 (4, 2, 4)",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
     "gf_6GveiAls:t14",
-    "2mxpEpGU3H8:t4"
+    "2mxpEpGU3H8:t4",
+    "EogBYa24Gto:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "league minimum 13 back-to-backs",
+   "detail": "League minimum of 13 back-to-backs",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5"
@@ -288,6 +278,6 @@
    "new_meaning": ""
   }
  ],
- "note": "At Yahoo rank 182 and 0 USD on both Yahoo and ESPN, he falls outside our 144-player draft and should not be bought, even for 1 USD. As a backup he adds little beyond FG%, blocks and few turnovers (projected 1.0 BLK in about 18 minutes), and Minnesota has a two-game semifinal week. Leave him on waivers and watch Gobert's health early in the season: if Gobert misses time, Beringer becomes a must add for blocks, rebounds and FG%.",
+ "note": "At Yahoo rank 181 and 0 USD on both sites, he falls outside the 144 players we draft. With 6.4 points, 4.4 rebounds and 1.0 block projected, he has little value as a backup, so do not spend a roster spot on him at the auction. Watch Gobert's health early in the season and be ready to bid FAB if Gobert misses time, because the experts project 12 and 10 with 2.4 blocks on 60% shooting in starter minutes. Keep in mind Minnesota's two-game week 20.",
  "rejected": []
 }

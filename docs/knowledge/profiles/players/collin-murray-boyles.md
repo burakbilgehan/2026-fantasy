@@ -9,16 +9,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.0 | 102 | 0 | 0.8 | 171 | not drafted |
+| 2026-27 | 5 | 1.9 | 103 | 0 | 1.0 | 171 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 58.9% | +1.4 | +0.9 | - |
-| FT% | 66.2% | -1.1 | -0.6 | - |
+| FT% | 66.2% | -1.1 | -0.7 | - |
 | 3PM | 0.3 | -1.3 | -1.1 | weak for his position (punt fit) |
-| PTS | 9.8 | -0.7 | -0.7 | - |
+| PTS | 9.8 | -0.7 | -0.6 | - |
 | REB | 5.6 | +0.2 | -0.3 | - |
 | AST | 2.1 | -0.6 | -0.3 | - |
 | STL | 1.1 | +0.4 | +0.7 | - |
@@ -28,28 +28,29 @@
 </details>
 
 **Current**
-- Sandro Mamukelashvili, who played a lot of backup center in Toronto, is gone. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1564), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
-- Experts expect about 25 to 27 minutes a game, three to four more than last season, helped by Mamukelashvili's exit. (verdict, 2026-10-06; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-20](https://youtu.be/s28HvC2grAk?t=969), [10-06](https://youtu.be/sFelMKWcqyI?t=1564))
-- Experts call him a good upside flyer worth a late pick even for managers who already have Poeltl. One would consider drafting him ahead of Poeltl. (verdict, 2026-10-05; [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [10-05](https://youtu.be/BiIZsSypx7Y?t=3097), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449), [08-11](https://youtu.be/OdDkXFhoKsc?t=1942), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
-- He is a buzzy name in drafts now and went for 9 USD in an expert auction mock. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4388))
-- Experts do not expect him to start over Jakob Poeltl. They expect him to close games as the center in a small, switchable closing five with Quickley, Barrett, Leonard and Barnes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-30](https://youtu.be/BjXP9JODDSg?t=1408), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Experts see him as about a top 100 player as a baseline, with top 70 to top 80 upside if he reaches 30 minutes. One expert says he could average 12 points, 7 rebounds and 1.5 blocks. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [08-26](https://youtu.be/sTtFUy7IoJI?t=1044), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449), [09-04](https://youtu.be/gerS7ibpaJo?t=1413))
-- He has no thumb injury now and is expected to play a full season. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-20](https://youtu.be/s28HvC2grAk?t=441))
-- His usage is projected to rise from 15% to about 18%. He should have the ball more and score more. One expert predicts a top-three Sixth Man of the Year finish. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=1130))
-- Toronto's projected starters are Quickley, Barrett, Leonard, Barnes and Poeltl. Poeltl is the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=839))
-- Toronto is not deep beyond a solid top seven and is projected to win about 52 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004), [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- He comes off the bench behind starting center Jakob Poeltl and is filling a 25 to 26 minute bench role. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1161), [08-20](https://youtu.be/s28HvC2grAk?t=496))
+- Experts see him as a top 100 player as a baseline. He could be a top 70 to 80 player if he reaches 30 minutes. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1161), [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449))
+- He is a buzzy name and is being drafted earlier than before. In an expert auction mock he went for 9 USD. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1161), [10-13](https://youtu.be/OsbUAkSeVB4?t=1043), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4388))
+- Experts like him as an upside flyer pick. He has standalone value even for a team that has Poeltl, and one expert would consider him ahead of Poeltl. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1043), [10-05](https://youtu.be/BiIZsSypx7Y?t=3097), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-01](https://youtu.be/80kfLVnFQ_s?t=1449), [08-11](https://youtu.be/OdDkXFhoKsc?t=1942), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
+- Sandro Mamukelashvili, who played a lot of backup center in Toronto, is no longer on the team, which opens minutes for him. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1564), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
+- Experts expect him to close games and play about 24 to 27 minutes, at least three more minutes than last season. One preview projects close to 30 minutes as a super sub. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=378), [09-30](https://youtu.be/BjXP9JODDSg?t=1408), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2045), [09-04](https://youtu.be/gerS7ibpaJo?t=1401), [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=441), [08-20](https://youtu.be/s28HvC2grAk?t=969), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- He is healthy entering the season after last season's thumb injury. (fact, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
+- One expert sees big upside and says he could easily average 12 points, 7 rebounds and 1.5 blocks. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1413))
+- His usage is projected to rise from 15% to about 18%, with more time on the ball and more scoring. One expert predicts a top three Sixth Man of the Year finish. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=980), [08-20](https://youtu.be/s28HvC2grAk?t=1130))
+- One expert predicts 52 wins for Toronto, or 56 to 57 if Kawhi Leonard plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- Toronto has 15 back-to-backs this season, three of them in the playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**
-- His three-point shot is not reliable yet. It was fine on low volume but is a longer-term project, so he makes almost no threes and fits punt 3PM builds. (verdict, 2026-09-14; [08-20](https://youtu.be/s28HvC2grAk?t=988), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), stats)
-- He missed a lot of time in 2025-26 and played through a thumb injury that season. (fact, 2026-09-04; [08-20](https://youtu.be/s28HvC2grAk?t=441), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
+- His three-point shot is not reliable yet and is a longer-term project. He makes very few threes for a forward or center. (verdict, 2026-09-14; [08-20](https://youtu.be/s28HvC2grAk?t=988), [09-14](https://youtu.be/t4n9MAP2_14?t=1924), stats)
+- He missed a lot of time last season, including with a thumb injury. (fact, 2026-09-04; [08-20](https://youtu.be/s28HvC2grAk?t=441), [09-04](https://youtu.be/gerS7ibpaJo?t=1401))
 - He is 6'7 and plays center. Toronto's rebounding and rim protection held steady or improved with him at center. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1083))
 
 **Tags**
-- Current: `role up` (Expected 25 to 27 minutes and usage up from 15% to about 18% off the bench; closes games), `breakout` (Second-year riser; could average 12 points, 7 rebounds and 1.5 blocks), `flyer` (Upside pick around ADP 115 to 120s), `expert target` (Experts see a top 100 baseline and top 70 to 80 upside versus ADP 115 to 120s), `sites disagree on price` (Yahoo rank 102 and 5 USD value; ESPN rank 171 and 0 USD value), `injury last season` (Played 57 games in 2025-26; thumb injury), `winning team` (Projected about 52 wins), `thin rotation` (Solid top seven, little depth behind it), `small-ball lineups` (Small, switchable closing five with him at center)
-- Durable: `punt 3PM fit` (About 0.3 threes a game; three-point shot is a long-term project)
+- Current: `role up` (25 to 27 minutes projected, usage up from 15% to about 18%), `breakout` (second-year riser, could average 12 and 7 with 1.5 blocks), `flyer` (upside pick around the top 100), `injury last season` (thumb injury, 57 games), `sites disagree on price` (Yahoo rank 103 and value 5 USD, ESPN rank 171 and value 0 USD), `winning team` (52 wins predicted)
+- Durable: `punt 3PM fit`
 
-**Note.** Yahoo ranks him 102 with a 5 USD value, and ESPN ranks him 171 with a value of 0 USD. Both sites have average costs near 1 USD. In a 144-player draft he is a late flyer. Expect to pay about 2 to 5 USD, since he is getting buzz and went for 9 USD in an expert mock. His profile fits punt 3PM teams: efficient shooting (about 59% FG on low volume), solid steals and blocks, and low turnovers. His 66% FT is a small hit. Early in the season, check whether he really plays 25 or more minutes and closes games behind Poeltl. At 30 minutes the experts see top 70 to 80 value.
+**Note.** Experts rank him about top 100, but the markets are low: 5 USD Yahoo value, 1.9 USD Yahoo average cost and 0 USD on ESPN. In an expert mock auction he went for 9 USD, so plan on about 5 to 9 USD for a late frontcourt piece. He is a natural fit for punt 3PM. His projected 58.9% FG%, plus steals and blocks, help any big-man build, and his 66% FT% on low volume does little damage. Early in the season, check that he plays 25 or more minutes and closes games. At 30 minutes he would be a top 70 to 80 player.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
 
-<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

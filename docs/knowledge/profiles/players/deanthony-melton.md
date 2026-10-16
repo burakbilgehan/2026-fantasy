@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 250 | 0 | 0.0 | 181 | not drafted |
+| 2026-27 | 0 | - | 245 | 0 | 0.0 | 181 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,29 +30,30 @@
 </details>
 
 **Current**
-- Experts project him to come off the bench. He has an outside shot to start. (verdict, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=1787), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
-- If he starts and plays about 28 minutes, he is worth drafting or adding in 12-team leagues. In that case he can beat last season's rank of 179. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716), [09-30](https://youtu.be/MUbNYdjpUDM?t=1224), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
-- His recovery from the ACL injury is still a concern. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
-- Steve Kerr runs unpredictable rotations and often changes his starting lineup a few games into the season. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
-- The Warriors may treat this as a gap year with an eye on lottery odds. Experts expect them to rest veterans, and expect Warriors players to fade as the season goes on. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- The Warriors have 15 back-to-backs this season, tied for second most. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- The Warriors' playoff schedule is good for a season ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The starting guard spot next to Curry is not settled. Podziemski, Melton and Santos compete for it. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- Tier 9 in point guard tier rankings. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
-- Golden State's depth is very poor. Jimmy Butler is out for at least half the season and Moses Moody is out early, so minutes should go up across the rotation. (fact, 2026-09-03; [08-22](https://youtu.be/LXZLrL90crE?t=953), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
+- The Warriors' latest reported starting lineups use Curry, Podziemski, Green, Lendeborg and Santos. Melton is not in them. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1468), [10-12](https://youtu.be/ENizLoE6pzI?t=1282), [10-11](https://youtu.be/uI6umXsE7Vk?t=1249))
+- Jimmy Butler and Moses Moody are out early in the season. Their return could change the rotation. (fact, 2026-10-12, until Butler and Moody return; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Experts call the Warriors a bad team. The season may be a gap year, and the team may rest veterans to protect its lottery odds. (verdict, 2026-10-12; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718), [10-06](https://youtu.be/eTsjuVu1trk?t=481))
+- If he starts and plays about 28 minutes, he is worth drafting or adding in every league. In that case he can beat last season's rank of 179. He is worth considering in 12-team leagues but not in 10-team leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716), [09-30](https://youtu.be/MUbNYdjpUDM?t=1224), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
+- His knee recovery is a concern. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
+- The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs that end March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- The starting guard spot among Podziemski, Melton and Santos was called unclear. He has an outside shot to start. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1810), [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
+- Ranked in tier 9 of point guards. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2550))
+- He is projected to come off the bench. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1787), [08-22](https://youtu.be/LXZLrL90crE?t=270))
 - Josh expects him to do a bit more than last season. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1787))
+- Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- His FG% is low for a guard. (fact, 2026-10-11; stats)
-- He is a steals specialist. Steals are his clear best category. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), stats)
-- He is a career above-average three-point shooter, at 36 to 39% before his slump last season after returning from injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), [08-22](https://youtu.be/LXZLrL90crE?t=336))
-- He has had an ACL injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
+- His FG% is low for a guard, about 41% projected. (fact, 2026-10-16; stats)
+- He is a steals specialist. His projected 1.6 steals per game is a league outlier. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), stats)
+- He is a career above-average three-point shooter. He hit 36 to 39% from three before last season's slump after his injury return. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1203), [08-22](https://youtu.be/LXZLrL90crE?t=336))
+- He is coming back from an ACL injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=716))
+- Steve Kerr often names a starting lineup and changes it a few games later. His rotations are hard to predict, with a lot of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
 - He is a good defender but not a primary creator. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=336))
 
 **Tags**
-- Current: `minutes competition` (Starting guard spot open between Podziemski, Melton and Santos), `waiver watch` (Pickup everywhere if he starts and plays about 28 minutes), `flyer` (0 USD on Yahoo and ESPN; upside if he wins the starting job), `unsettled rotation` (Kerr runs unpredictable rotations and changes lineups early), `thin rotation` (Butler out at least half the season, Moody out early), `tank risk` (Possible gap year, may rest veterans), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (Good for a March 28 end)
-- Durable: `STL specialist` (About 1.6 steals per game in about 23 minutes), `punt FG fit` (Projected about 41% FG on about 11 attempts)
+- Current: `minutes competition` (Competes with Podziemski and Santos for a starting guard spot. Butler and Moody return later.), `waiver watch` (Pickup everywhere if he starts and plays about 28 minutes), `unsettled rotation` (Kerr often changes the starting lineup and mixes the wings), `thin rotation` (Warriors struggle to field a 10-man rotation), `tank risk` (Gap year, and the team may rest veterans for lottery odds), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good schedule for playoffs ending March 28)
+- Durable: `STL specialist` (About 1.6 steals per game projected), `punt FG fit` (About 41% FG on roughly 11 attempts)
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 250, ESPN 181), and our league drafts only 144 players, so he is a 1 USD flyer at most and more likely an early waiver add. His value comes from steals (about 1.6 per game, z +2.1 vs the pool), so he fits steals-chasing and punt FG% builds, since his roughly 41% FG on 11 attempts hurts. In the first weeks, check whether he wins the open starting guard spot and plays about 28 minutes, and watch how his knee holds up.
+**Note.** Both sites value him at 0 USD (Yahoo rank 245, ESPN rank 181), so he sits outside our 144 drafted players. He is not worth an auction dollar unless he is named a starter before the draft. His draw is about 1.6 steals per game. The cost is about 41% FG on roughly 11 attempts, so he fits punt FG% builds that chase steals. In the first weeks, check whether he starts and plays around 28 minutes, and watch how his knee holds up. Also check how his role changes once Butler and Moody return.
 
-<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

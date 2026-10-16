@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 286 | 0 | 0.0 | 217 | not drafted |
+| 2026-27 | 0 | - | 288 | 0 | 0.0 | 217 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | FG% | 44.5% | -0.4 | -0.4 | - |
 | FT% | 50.0% | -0.8 | -0.8 | - |
-| 3PM | 1.0 | -0.6 | -0.8 | - |
+| 3PM | 1.0 | -0.6 | -0.7 | - |
 | PTS | 6.7 | -1.3 | -1.3 | - |
 | REB | 4.4 | -0.3 | -0.3 | - |
 | AST | 1.5 | -0.9 | -0.9 | - |
@@ -29,15 +29,17 @@
 </details>
 
 **Current**
-- Ryan Dunn is not in Phoenix's projected starting lineup. That lineup has Dillon Brooks and Miles Bridges at forward. Notes expect Devin Booker, Jalen Green, Bridges and Brooks to take most of the team's minutes and usage. (fact, 2026-10-09; [08-23](https://youtu.be/hm5-fiCa5S4?t=509), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
+- Dunn has fallen off the fantasy radar. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1632))
+- Dunn is not among the projected Phoenix starters (Green, Booker, Brooks, Bridges, Ighodaro). He is also not among the bench players named in the team preview (Gillespie, Maluach, Kennard, Goodwin, Fleming). (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=508), [10-14](https://youtu.be/MRzebgip23Y?t=1175))
+- Booker, Jalen Green, Bridges and Brooks are expected to take most of the Phoenix minutes and usage, which leaves little room for other wings. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
 
 **Durable**
-- none
+- Dunn cannot shoot. He has made under 50% of his free throws in each of the last two seasons, but on very few attempts. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1632), stats)
 
 **Tags**
-- Current: none
+- Current: `usage competition` (Booker, Jalen Green, Bridges and Brooks are expected to take most of the minutes and usage in Phoenix.)
 - Durable: none
 
-**Note.** No expert has said anything about Dunn himself. Both sites value him at 0 USD, and his ranks (286 on Yahoo, 217 on ESPN) are far outside the 144 players our auction drafts, so he should not be on anyone's draft list. His projection is a bench forward's line of about 20 to 23 minutes with no strong category (best is low turnovers, 0.8 per game). Only watch him on waivers if a Phoenix forward gets hurt and his minutes clearly go up.
+**Note.** Dunn is not a draft target in our 144-player auction. Yahoo ranks him 288 and ESPN 217, both value him at 0 USD, and the only expert note says he has fallen off the fantasy radar. Both projections have him scoring about 6.7 points with no category strong enough to carry a punt build, so leave him on waivers. Watch only if injuries in the Phoenix wing rotation push his minutes well above 20 per game.
 
-<sub>0 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

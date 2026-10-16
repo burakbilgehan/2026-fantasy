@@ -4,53 +4,62 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 59 | 34.6 | 48.6 (18.8) | 91.1 (3.8) | 2.8 | 24.6 | 4.8 | 4.8 | 1.3 | 0.5 | 2.0 |
-| 2026-27 proj, Yahoo | 57 | - | 47.5 (16.5) | 90.9 (3.3) | 2.8 | 21.4 | 4.2 | 4.2 | 1.1 | 0.4 | 1.7 |
+| 2026-27 proj, Yahoo | 60 | - | 47.5 (18.2) | 91.2 (3.6) | 3.0 | 23.6 | 4.6 | 4.6 | 1.1 | 0.4 | 1.9 |
 | 2024-25 | 50 | 36.0 | 47.3 (18.9) | 91.6 (4.3) | 2.9 | 24.7 | 4.8 | 4.6 | 1.3 | 0.5 | 2.2 |
 | 2023-24 | 58 | 35.0 | 49.7 (19.5) | 90.5 (3.6) | 3.0 | 25.6 | 5.0 | 5.2 | 1.3 | 0.5 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 24 | 9.9 | 41 | 11 | 11.3 | 50 | not drafted |
+| 2026-27 | 24 | 12.7 | 41 | 11 | 11.6 | 50 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 48.1% | +0.1 | +0.7 | - |
-| FT% | 91.0% | +1.6 | +1.6 | - |
-| 3PM | 2.8 | +1.4 | +1.2 | - |
-| PTS | 23.0 | +1.5 | +1.4 | - |
-| REB | 4.5 | -0.3 | +0.5 | - |
-| AST | 4.5 | +0.7 | +0.3 | - |
-| STL | 1.2 | +0.8 | +0.4 | - |
-| BLK | 0.4 | -0.3 | +0.3 | - |
-| TO | 1.8 | -0.2 | -0.1 | - |
+| FT% | 91.1% | +1.7 | +1.7 | - |
+| 3PM | 2.9 | +1.6 | +1.3 | - |
+| PTS | 24.1 | +1.7 | +1.6 | - |
+| REB | 4.7 | -0.2 | +0.6 | - |
+| AST | 4.7 | +0.8 | +0.4 | - |
+| STL | 1.2 | +0.9 | +0.6 | - |
+| BLK | 0.5 | -0.3 | +0.4 | - |
+| TO | 1.9 | -0.4 | -0.2 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a knee issue. (fact, 2026-10-05; stats)
-- He missed all of last season with a torn ACL. He is now about 18 months past the injury, and one expert calls him fully healthy. (fact, 2026-10-04; [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [07-27](https://youtu.be/0AptxcRW0RE?t=1330), [10-04](https://youtu.be/n4KkK-OJjqA?t=287), [09-21](https://youtu.be/egRrai3Ax38?t=1236))
-- Experts disagree on his early workload. One expects minutes limits and another a slow start. Others expect few restrictions and about 33 minutes a night right away. (verdict, 2026-10-04; [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=936), [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [10-04](https://youtu.be/n4KkK-OJjqA?t=953))
-- Experts disagree on a trade. Several say Dallas could trade him. One expert heard no trade talk and thinks Dallas values his play and mentoring more than any trade return. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=287), [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=936), [09-09](https://youtu.be/7BllEsdNLoM?t=1630), [07-14](https://youtu.be/xHRF06_E9HE?t=382), [07-27](https://youtu.be/0AptxcRW0RE?t=1362))
-- Experts agree that his market price, an ADP around 50, is too low, and they want to draft him. The newest call puts him in the middle of the second round. Other recent calls range from the top 25 to around pick 44 because of injury risk. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=287), [10-04](https://youtu.be/n4KkK-OJjqA?t=953), [09-30](https://youtu.be/BjXP9JODDSg?t=761), [09-29](https://youtu.be/XSPJL_mlFXo?t=668), [09-21](https://youtu.be/egRrai3Ax38?t=1236), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1679), [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [09-16](https://youtu.be/2A2JbUN-kc0?t=2452), [09-01](https://youtu.be/80kfLVnFQ_s?t=858), [09-15](https://youtu.be/KPdD91Oo8-U?t=936))
-- He is expected to sit back-to-backs, at least early in the season. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [07-27](https://youtu.be/0AptxcRW0RE?t=1484), [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [08-16](https://youtu.be/gf_6GveiAls?t=959))
-- Dallas has a league-high 16 back-to-backs. It also has a 4-4-4 schedule in the fantasy playoffs, which one expert calls probably the best in the league. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
-- Dallas is short on guards and ball handlers. He is the team's main guard and is projected to start. (fact, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=413), [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [09-29](https://youtu.be/XSPJL_mlFXo?t=358), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
-- Experts rate him as a top 15 to top 20 player per game. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=668), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1679), [09-15](https://youtu.be/KPdD91Oo8-U?t=936), [09-16](https://youtu.be/2A2JbUN-kc0?t=2452), [09-09](https://youtu.be/7BllEsdNLoM?t=1630))
-- He is expected to be the second option on offense behind Cooper Flagg. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
-- If he keeps sitting back-to-backs, he could play only 10 games in the fantasy playoffs. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=959))
-- Dallas plays only two games in the matchup week that starts March 1. That is the week before our fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1373), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Experts now take him around picks 30 to 38, in round 3. Pick 30 is the earliest Josh would take him. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=685), [10-13](https://youtu.be/OsbUAkSeVB4?t=583), [10-13](https://youtu.be/KqTKVExQGLo?t=875), [10-11](https://youtu.be/uI6umXsE7Vk?t=444))
+- Experts think the market overrates his risk. Among Kyrie, LeBron and Michael Porter Jr., he probably carries the fewest risks. (verdict, 2026-10-13; [09-30](https://youtu.be/BjXP9JODDSg?t=761), [10-12](https://youtu.be/w66x_I_MaQ8?t=955), [10-13](https://youtu.be/OsbUAkSeVB4?t=583))
+- He made his preseason debut and looked pretty good. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=444))
+- Experts expect few restrictions on his minutes. He could play about 33 minutes a night right away. (verdict, 2026-10-04; [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [10-04](https://youtu.be/n4KkK-OJjqA?t=953))
+- A trade is possible during the season. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=287), [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [09-15](https://youtu.be/KPdD91Oo8-U?t=936), [09-09](https://youtu.be/7BllEsdNLoM?t=1630), [07-14](https://youtu.be/xHRF06_E9HE?t=382))
+- He missed all of last season with a torn ACL. He is about 18 months removed from the injury and fully healthy. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [07-27](https://youtu.be/0AptxcRW0RE?t=1330), [09-30](https://youtu.be/BjXP9JODDSg?t=781))
+- He is expected to sit back-to-backs, especially early in the season. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=599), [07-27](https://youtu.be/0AptxcRW0RE?t=1484), [09-17](https://youtu.be/DubdKKhMWHo?t=1054), [08-16](https://youtu.be/gf_6GveiAls?t=959))
+- Dallas is short on ball handlers. He is the only established guard and is a projected starter. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [09-29](https://youtu.be/XSPJL_mlFXo?t=358), [07-27](https://youtu.be/0AptxcRW0RE?t=413), [07-21](https://youtu.be/RyzcCGChYgs?t=2295))
+- Dallas has the league-high 16 back-to-backs but a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Experts project him as a top 15 to top 20 player per game. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=668), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1679), [09-15](https://youtu.be/KPdD91Oo8-U?t=936), [09-16](https://youtu.be/2A2JbUN-kc0?t=2452), [09-17](https://youtu.be/DubdKKhMWHo?t=1054))
+- He is the best fantasy target on Dallas. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=668))
+- He is the second option on offense behind Cooper Flagg. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- If he keeps sitting back-to-backs, his playoff schedule could drop to about 10 games. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=959))
+- Dallas has a two-game week in the matchup starting March 1. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1373), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- Dallas has no reason to tank, so a late-season shutdown is unlikely. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
 
 **Durable**
-- His best categories are FT%, points and threes. No category is a clear weakness. (fact, 2026-10-05; stats)
-- He is 34. He has a long history of knee injuries, including an ACL tear about 18 months ago, and other persistent injuries. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=781), [09-17](https://youtu.be/DubdKKhMWHo?t=1103), [09-29](https://youtu.be/XSPJL_mlFXo?t=647), [09-21](https://youtu.be/egRrai3Ax38?t=1064), [07-27](https://youtu.be/0AptxcRW0RE?t=1330))
-- Because of his age and injury history, he will not play a full season. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=647))
+- His category line has no weak category. His strongest categories are FT%, points and threes. (fact, 2026-10-16; stats)
+- He has a long history of knee injuries, including a torn ACL. He will not play 82 games. (fact, 2026-09-30; [09-17](https://youtu.be/DubdKKhMWHo?t=1103), [09-29](https://youtu.be/XSPJL_mlFXo?t=647), [09-30](https://youtu.be/BjXP9JODDSg?t=781), [09-21](https://youtu.be/egRrai3Ax38?t=1064))
+- He is 34, and his age adds risk to his health and minutes. (verdict, 2026-09-30; [09-29](https://youtu.be/XSPJL_mlFXo?t=647), [07-27](https://youtu.be/0AptxcRW0RE?t=1330), [09-30](https://youtu.be/BjXP9JODDSg?t=781))
 
 **Tags**
-- Current: `injury last season` (Missed all of last season with a torn ACL), `questionable` (Yahoo status Q (Knee)), `back-to-back risk` (Expected to sit back-to-backs, at least early in the season), `many back-to-backs` (Dallas has a league-high 16 back-to-backs), `good playoff schedule` (Dallas plays 4-4-4 in the fantasy playoffs, but resting on back-to-backs could cut him to 10 games), `trade risk` (Several experts say a trade is possible. One heard no trade talk), `expert target` (Experts value him from the middle of the second round to around pick 44, while his ADP is about 50), `sleeper` (His market price is low because of ACL risk), `sites disagree on price` (Yahoo value 23 USD, ESPN value 12 USD)
-- Durable: `injury prone` (Long knee injury history, including an ACL tear about 18 months ago), `age decline watch` (34 years old and coming back from an ACL tear), `elite per game` (Experts rate him top 15 to top 20 per game), `fits every build` (No weak category. Strongest in FT%, PTS and 3PM)
+- Current: `injury last season` (missed all of last season with a torn ACL), `questionable` (Yahoo status Q (Rest)), `back-to-back risk` (expected to sit back-to-backs, especially early), `many back-to-backs` (Dallas has a league-high 16 back-to-backs), `good playoff schedule` (Dallas plays 4-4-4 in the playoff weeks, but sitting back-to-backs could cut him to about 10 games), `trade risk`, `expert target` (experts take him around picks 30 to 38, above the Yahoo rank of 41 and the ESPN rank of 50), `sleeper` (market prices in his ACL risk; experts call his ADP easy value), `sites disagree on price` (Yahoo value 24 USD, ESPN value 11 USD), `new coach` (Dusty May), `low shutdown risk` (Dallas has no reason to tank)
+- Durable: `fits every build` (no category flagged weak; strongest in FT%, PTS and 3PM), `elite per game` (experts project top 15 to top 20 per game), `injury prone` (long history of knee injuries, torn ACL), `age decline watch` (34 years old)
 
-**Note.** Both sites rank him near 46 to 48, and his average auction cost is about 10 USD. Yahoo values him at 23 USD, and the experts see top 20 value per game, so bidding into the high teens is reasonable in our 12-team league. His FT%, threes and points help any build. Early in the season, check his Yahoo knee status (Q now), his minutes, and how often he sits Dallas's league-high 16 back-to-backs. If he keeps resting on back-to-backs, Dallas's 4-4-4 playoff schedule could give him only 10 games.
+**Note.** Experts now take him in round 3, around picks 30 to 38, and project top 15 to 20 per game. On Yahoo and ESPN he goes for about 12 USD, so his Yahoo value of 24 USD is a fair ceiling, and he was not drafted in our league last season. He has no weak category, so he fits any build and adds FT%, points and threes. Early in the season, check how often he sits back-to-backs (Dallas has 16, the most in the league) and how many minutes he plays, since that decides how much of the 4-4-4 playoff schedule he actually plays.
 
-<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<details><summary>Rejected by the source check: 1</summary>
+
+- [tags] back-to-back-risk (sources: none)
+
+</details>
+
+<sub>27 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

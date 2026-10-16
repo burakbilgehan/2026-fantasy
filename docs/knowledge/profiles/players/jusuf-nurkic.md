@@ -4,54 +4,54 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 64 | 23.1 | 50.1 (7.3) | 61.8 (2.7) | 0.5 | 9.4 | 9.1 | 3.4 | 1.0 | 0.7 | 2.0 |
-| 2026-27 proj, Yahoo | 55 | - | 50.2 (8.6) | 60.9 (3.1) | 0.6 | 11.1 | 10.4 | 4.0 | 1.1 | 0.8 | 2.4 |
+| 2026-27 proj, Yahoo | 50 | - | 50.1 (8.0) | 61.3 (2.8) | 0.6 | 10.3 | 9.7 | 3.7 | 1.1 | 0.7 | 2.2 |
 | 2025-26 | 41 | 26.4 | 50.3 (8.7) | 54.9 (2.8) | 0.6 | 10.9 | 10.4 | 4.8 | 1.3 | 0.5 | 2.5 |
 | 2024-25 | 51 | 20.8 | 47.7 (6.9) | 66.4 (2.5) | 0.6 | 8.9 | 7.8 | 2.3 | 0.8 | 0.7 | 1.9 |
 | 2023-24 | 76 | 27.3 | 51.0 (8.2) | 64.0 (3.4) | 0.3 | 10.9 | 11.0 | 4.0 | 1.1 | 1.1 | 2.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 2 | 1.0 | 115 | 0 | 0.1 | 170 | not drafted |
+| 2026-27 | 2 | 1.0 | 159 | 0 | 0.1 | 170 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.2% | +0.3 | -0.5 | - |
-| FT% | 61.4% | -2.0 | -1.1 | league outlier, weak, weak for his position (punt fit) |
+| FG% | 50.1% | +0.3 | -0.5 | - |
+| FT% | 61.6% | -1.9 | -1.0 | league outlier, weak, weak for his position (punt fit) |
 | 3PM | 0.5 | -1.1 | -0.4 | - |
-| PTS | 10.3 | -0.7 | -0.5 | - |
-| REB | 9.8 | +2.0 | +0.9 | - |
-| AST | 3.7 | +0.3 | +0.8 | - |
-| STL | 1.1 | +0.4 | +1.1 | - |
-| BLK | 0.7 | +0.3 | -0.6 | - |
-| TO | 2.2 | -0.7 | -1.0 | - |
+| PTS | 9.9 | -0.7 | -0.5 | - |
+| REB | 9.4 | +1.8 | +0.8 | - |
+| AST | 3.6 | +0.2 | +0.8 | - |
+| STL | 1.0 | +0.3 | +1.0 | - |
+| BLK | 0.7 | +0.2 | -0.6 | - |
+| TO | 2.1 | -0.6 | -0.9 | - |
 
 </details>
 
 **Current**
-- He is out with plantar fasciitis and a toe issue in his foot. The injury is expected to keep him out at least four weeks. (fact, 2026-10-08, until at least four weeks from 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779))
-- Because of the foot injury, experts no longer want him as a late-round pick or a starter-level flyer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779))
-- Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. playing much center. Kyle Filipowski is back in the rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
-- He re-signed with Utah for 2 years and 22 million USD. Walker Kessler is no longer on the team, which leaves the starting center job open. (fact, 2026-10-02; [07-01](https://youtu.be/W3THnI7wWdA?t=1146), [10-02](https://youtu.be/ZYllcj4o6_A?t=204), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176))
-- When healthy, experts expect him to be Utah's starting center, though not all are sure he wins the job over Ace Bailey. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [07-14](https://youtu.be/xHRF06_E9HE?t=779), [07-13](https://youtu.be/Rqb5GdrSweY?t=841))
-- If he starts, one expert expects at least top 80 numbers. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217))
-- He was about a top 70 player last season and played very well as a starter after Kessler got hurt. (fact, 2026-09-17; [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [08-05](https://youtu.be/CI4k8ofUXXk?t=473))
-- His passing should matter more in Utah because Jaren Jackson Jr. and Kyle Lowry are not good passers. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
-- Utah plans to win this season, not tank, so experts see little risk of late-season shutdowns or cut minutes. (verdict, 2026-09-17; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-21](https://youtu.be/egRrai3Ax38?t=859))
+- He is out with a plantar fascia and toe issue in his foot. He is expected to miss at least four weeks and will miss the start of the season. Yahoo lists him as out (foot). (fact, 2026-10-14, until at least 4 weeks from 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779), [10-14](https://youtu.be/D4dP5JvX1oo?t=1581), stats)
+- The experts no longer target him, even as a late-round flyer. One worries the foot injury could drag on, and another calls a pick around 103 way too early. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1581), [10-11](https://youtu.be/uI6umXsE7Vk?t=1447), [10-10](https://youtu.be/hviT4hzYNME?t=2062), [10-08](https://youtu.be/sDzeYdUhJDI?t=430), [10-08](https://youtu.be/WXO8MfQfzo0?t=1779))
+- Utah is trying to win this season and is not expected to tank or shut players down. Its frontcourt is crowded, and minutes and usage are expected to be all over the place early. (verdict, 2026-10-12; [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [10-12](https://youtu.be/w66x_I_MaQ8?t=1633), [08-05](https://youtu.be/CI4k8ofUXXk?t=1617))
+- When he returns, he may be eased back on lower minutes. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1447))
+- Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. to play much center. Kyle Filipowski is back in the rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
+- He re-signed with Utah for 2 years and 22 million USD. Walker Kessler has left Utah. (fact, 2026-10-02; [07-01](https://youtu.be/W3THnI7wWdA?t=1146), [07-02](https://youtu.be/P6TNP-g0wzY?t=963), [10-02](https://youtu.be/ZYllcj4o6_A?t=204))
+- Before the injury, experts projected him as Utah's starting center when healthy, ahead of Ace Bailey and Kyle Filipowski. One projected him at 27 minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-21](https://youtu.be/egRrai3Ax38?t=862), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [08-05](https://youtu.be/CI4k8ofUXXk?t=473), [07-14](https://youtu.be/xHRF06_E9HE?t=779), [07-13](https://youtu.be/Rqb5GdrSweY?t=841), [07-05](https://youtu.be/4kKINkZhWls?t=3919))
+- If he starts at center once healthy, Josh expects at least top 80 numbers. His passing should matter more next to Jaren Jackson Jr. and Kyle Lowry, who do not pass much. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=217), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
+- He ranked about 68th last season, and he played at a top-70 level in his starts after Kessler got hurt. (fact, 2026-09-17; [09-14](https://youtu.be/t4n9MAP2_14?t=1992), [09-15](https://youtu.be/KPdD91Oo8-U?t=1780), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1214), [08-05](https://youtu.be/CI4k8ofUXXk?t=473))
 
 **Durable**
-- His FT% is a clear weakness, even for a center, so he fits punt FT% builds. (fact, 2026-10-11; stats)
-- He is not a high-usage player. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
-- He has a long history of knee, leg and other lower-body injuries. Experts do not see him as a reliable or healthy player. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781), [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
-- He rebounds well, passes well for a center and protects the rim. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- FT% is his clear weak category. It hurts a team's FT% even on modest volume, which makes him a fit for punt FT% builds. Rebounds are his best category, and he gives good assists and steals for a center. (fact, 2026-10-16; stats, [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- He is a rebounding and passing center who can protect the rim. He is not a high-usage player. (fact, 2026-10-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=955), [10-02](https://youtu.be/ZYllcj4o6_A?t=191))
+- He has a history of knee, leg and other lower-body injuries. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-02](https://youtu.be/P6TNP-g0wzY?t=955))
+- Experts see him as hard to trust and not a reliable or healthy player. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=467), [07-14](https://youtu.be/xHRF06_E9HE?t=781))
 
 **Tags**
-- Current: `injured now` (plantar fasciitis and toe issue in his foot, Yahoo status O; until at least four weeks from 2026-10-08), `minutes competition` (Jaxson Hayes started at center in the preseason; Ace Bailey and Kyle Filipowski are also options), `low shutdown risk` (Utah is trying to win this season)
-- Durable: `injury prone` (repeated knee, leg and other lower-body injuries), `FT% liability` (about 61% projected), `punt FT fit`
+- Current: `injured now` (Plantar fascia and toe issue in his foot, out at least four weeks; Yahoo status O (foot); until at least 4 weeks from 2026-10-08), `minutes competition` (Jaxson Hayes started at center in the preseason; Filipowski is back in the rotation), `unsettled rotation` (Utah minutes and usage expected to be all over the place early), `low shutdown risk` (Utah is trying to win and is not expected to tank)
+- Durable: `injury prone` (History of knee, leg and other lower-body injuries), `FT% liability` (About 61.6% projected FT%), `punt FT fit` (FT% is his only flagged weak category)
 
-**Note.** Before his foot injury he was a popular late-round value pick. Now he is ranked 115 on Yahoo (2 USD) and 170 on ESPN (0 USD), and he went undrafted in our league last season. He is out at least four weeks, and experts have dropped him as a late-round target, so let him go undrafted in our 144-player auction. Watch two things early on waivers: when he gets back, and whether Jaxson Hayes keeps the starting center job. As a starter he can return about top 80 value for punt FT% builds that want rebounds and passing from a center.
+**Note.** Nurkić is out at least four weeks with a foot injury. He is priced at 2 USD on Yahoo (rank 159) and 0 USD on ESPN (rank 170). That puts him outside the 144 players our league drafts, and the experts have dropped him as a target, so do not draft him. Once he returns, watch him on waivers. If he wins back the starting center job from Jaxson Hayes, his rebounds, assists and steals fit a punt FT% build, and experts saw top-80 upside in that role.
 
 <sub>Tags removed by the category check: AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
 
-<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

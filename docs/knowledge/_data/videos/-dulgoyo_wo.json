@@ -1,0 +1,436 @@
+{
+ "video": {
+  "id": "-dulgoyo_wo",
+  "title": "New York Knicks Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-11",
+  "duration": "30:16",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-16T07:35:59+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.18535580000000001,
+  "duration_ms": 39201,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the 2026-27 fantasy outlook for the New York Knicks, the reigning NBA champions. He thinks repeating is hard. The East is stronger and the Knicks are weaker, so they may not be able to manage player minutes. He projects the starting five as Jalen Brunson, Mikal Bridges, Josh Hart, OG Anunoby and Karl-Anthony Towns. He calls Brunson overvalued in category leagues and Bridges one of his strongest fades. He says Towns is the best fantasy player on the team and Anunoby is good value in category leagues. Andre Drummond is the main stash because the team has almost no big-man depth. Overall he calls the Knicks a boring fantasy team with more fades than targets.",
+ "rules": [
+  {
+   "text": "Teams coming off a title often struggle the next regular season. They play two extra months, may be complacent, and may not value the regular season as much.",
+   "ts": "3:07",
+   "quote": "You have to play two months longer than most other teams. You win. There is complacency potentially.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 193
+  },
+  {
+   "text": "A strong conference can force a team to push its players harder and cut back on rest. That can raise injury risk.",
+   "ts": "4:42",
+   "quote": "And then they push harder and the push harder maybe gets to an injury.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 286
+  },
+  {
+   "text": "Do not draft a player based on his reputation or past real-life success. Judge him by what he actually produces in fantasy categories.",
+   "ts": "8:22",
+   "quote": "So, don't get wrapped up in the emotion, they said he'd never be good. Josh, you're just a hater.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 508
+  },
+  {
+   "text": "Playing next to a traditional center pushes a big man out to the perimeter. His rebounds, blocks and FG% usually drop.",
+   "ts": "9:24",
+   "quote": "play more on the perimeter. Rebounds down, blocks down, field goals down is the usual way it goes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 564
+  },
+  {
+   "text": "Scoring format matters. A player's value can be very different in category leagues and points leagues, and between Yahoo and ESPN points.",
+   "ts": "10:57",
+   "quote": "So again, format is important and understanding what can and can't go wrong or change with a player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 659
+  },
+  {
+   "text": "Do not trust 9-cat rankings that inflate value. If a player's 9-cat rank looks great, do not assume the time he might miss is already priced in.",
+   "ts": "14:37",
+   "quote": "and then the the the risk of relying on a straight nine cat and try to position that value",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 881
+  },
+  {
+   "text": "Do not bump a mediocre player up 30 or 40 spots just for good health. Using that roster spot to stream waiver players can give more value.",
+   "ts": "17:12",
+   "quote": "rather use that roster spot to get seven games of somebody off the waiver wire? Streaming it through. It's way more value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1032
+  },
+  {
+   "text": "Last year's 9-cat ranks can make a player look much better than he is. Draft on what he actually produces and what upside he really has.",
+   "ts": "18:47",
+   "quote": "Not remotely reflective of what he was as a player. But if you look at that and go,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1140
+  },
+  {
+   "text": "A backup with a clear path to starting minutes, and no competition behind him, is a good stash in deep leagues, bench leagues, roto leagues and games-cap leagues.",
+   "ts": "27:38",
+   "quote": "This is stashable stuff like in deep leagues, bench leagues, roto leagues, games cap leagues because it's like",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1666
+  },
+  {
+   "text": "Check each team's fantasy playoff schedule against your league's end date. The speaker recommends ending the season on March 28.",
+   "ts": "28:40",
+   "quote": "So if you end on my recommended date, March the 28th, their schedule's not particularly strong.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1733
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "said_as": "Jaylen Brunson",
+   "horizon": "current",
+   "text": "Overvalued in category leagues. His Yahoo ADP is 21. The speaker sees his range as 40 to 55 in categories and 20 to 30 in points leagues.",
+   "ts": "7:19",
+   "quote": "I would say his category range is 40 to 55 and points is 20 to 30.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 461
+  },
+  {
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "said_as": "Jaylen Brunson",
+   "horizon": "durable",
+   "text": "Strong in points, assists and FT%. He gets about two rebounds, almost no steals or blocks, and fewer than six free throw attempts a game.",
+   "ts": "7:50",
+   "quote": "He's 26 and seven. He's two rebounds and absolutely no steals or blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 488
+  },
+  {
+   "player": "Jalen Brunson",
+   "team": "NYK",
+   "said_as": "Jaylen Brunson",
+   "horizon": "current",
+   "text": "He had wrist surgery after the Finals but looks fine. No concern heading into the season.",
+   "ts": "28:40",
+   "quote": "after the NBA finals did have uh wrist surgery. He looks like he's okay. No concern there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1720
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "team": "NYK",
+   "said_as": "Carl Anthony Towns",
+   "horizon": "current",
+   "text": "The best fantasy player on the team. Playing next to Mitchell Robinson cut his rebounds, scoring, FG% and blocks. Some of that may come back.",
+   "ts": "8:53",
+   "quote": "The best fantasy player on this team is actually Carl Anthony Towns who was 24th last season",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 536
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "team": "NYK",
+   "said_as": "Towns",
+   "horizon": "current",
+   "text": "Unlikely to get back to 35 minutes and 24 points a game. Mike Brown played him 31 minutes. He has a history of knee and lower leg injuries.",
+   "ts": "9:55",
+   "quote": "Mike Brown played him 31 and he's had multiple knee injuries and lower leg injuries.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 595
+  },
+  {
+   "player": "Karl-Anthony Towns",
+   "team": "NYK",
+   "said_as": "Towns",
+   "horizon": "current",
+   "text": "Yahoo rank of 16 is reasonable for categories. Middle of round two is fine in Yahoo points. The speaker projects him at 28 to 29 in ESPN points.",
+   "ts": "10:26",
+   "quote": "His Yahoo points in the middle in the middle of round two is fine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 644
+  },
+  {
+   "player": "OG Anunoby",
+   "team": "NYK",
+   "said_as": "the Jedi Ojobi",
+   "horizon": "current",
+   "text": "Yahoo rank of 69 is fantastic value in category leagues and ESPN ADP of 85 is a steal. He is much worse in points leagues. He has injury risk and his minutes could drop.",
+   "ts": "13:36",
+   "quote": "Yahoo sits him at 69 gig and 69 in a category league for Anobi.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 821
+  },
+  {
+   "player": "Mikal Bridges",
+   "team": "NYK",
+   "said_as": "Muel Bridges",
+   "horizon": "current",
+   "text": "One of the speaker's strongest fades. He fell off sharply after a hot start and was benched in closing lineups. ESPN rank 29, ADP 52 and Yahoo 81 are all called ridiculous.",
+   "ts": "17:12",
+   "quote": "So like the ADP 52, like ridiculous. the Yahoo 81. Ridiculous for both formats.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1046
+  },
+  {
+   "player": "Mikal Bridges",
+   "team": "NYK",
+   "said_as": "Bridges",
+   "horizon": "durable",
+   "text": "Very durable and has never missed a game. He avoids contact and does not attack the rim, so he gets few free throws.",
+   "ts": "15:08",
+   "quote": "Bridges of course has never missed a game in his college or NBA career",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 904
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "said_as": "Josh the Atman Hart",
+   "horizon": "current",
+   "text": "An ADP around 100 is about right. Draft him late, in the hundreds. He is unlikely to be pushed back to 34 minutes, so there is little upside.",
+   "ts": "17:44",
+   "quote": "All those ADP is around that 100 mark. That's about the right area for me.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1070
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "said_as": "Josh Hart",
+   "horizon": "durable",
+   "text": "Gives good rebounds and assists for his position, average steals, and good FG% on low volume. His 9-cat value gets inflated. The speaker does not buy him as a 41% three-point shooter.",
+   "ts": "18:15",
+   "quote": "He's a random rebound assist player with average steals, average field goals, but really low volume",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1116
+  },
+  {
+   "player": "Josh Hart",
+   "team": "NYK",
+   "said_as": "Hart",
+   "horizon": "durable",
+   "text": "He has a badly damaged finger and has said surgery would end his career.",
+   "ts": "17:44",
+   "quote": "Hart's finger is completely rooted. He said it like basically if I have surgery my career is over.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1076
+  },
+  {
+   "player": "Miles McBride",
+   "team": "NYK",
+   "said_as": "Juice McBride",
+   "horizon": "current",
+   "text": "Likely sixth man. As a starter he scored but had weak defensive stats. Outside the top 200 is fine. Only look at him if someone gets hurt.",
+   "ts": "21:53",
+   "quote": "I think all of his ranks and that outside of the top 200 are are fine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1331
+  },
+  {
+   "player": "Landry Shamet",
+   "team": "NYK",
+   "said_as": "Landry Sham",
+   "horizon": "durable",
+   "text": "One of the worst fantasy contributors in the league.",
+   "ts": "22:23",
+   "quote": "But he is one of the worst fantasy contributors in the league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1357
+  },
+  {
+   "player": "Jose Alvarado",
+   "team": "NYK",
+   "said_as": "Jose Alvarado",
+   "horizon": "current",
+   "text": "Has the best fantasy upside of the bench guards, but plays about 15 minutes a night. As a starter he put up big assists and steals. It is unclear he would be the one to replace Brunson.",
+   "ts": "23:26",
+   "quote": "Alvarado probably has the best overall fantasy upside but when he was traded from the Pelicans",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1408
+  },
+  {
+   "player": "Mohamed Diawara",
+   "team": "NYK",
+   "said_as": "Muhammad Diwara",
+   "horizon": "current",
+   "text": "Probably fifth in the bench rotation after a bad summer league. Not expected to have any fantasy impact.",
+   "ts": "24:29",
+   "quote": "I'd be more confident in saying that had his summer league not been absolutely awful.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1466
+  },
+  {
+   "player": "Andre Drummond",
+   "team": "NYK",
+   "said_as": "Andre Drummond",
+   "horizon": "current",
+   "text": "The best stash on the team. He takes over the Mitchell Robinson role with about a 17-minute baseline. He would be the clear starter if Towns misses time. Worth stashing in deep leagues, and Yahoo ADP 107 is questioned.",
+   "ts": "27:38",
+   "quote": "I don't know why he's Yahoo ADP 107. This is stashable stuff like in deep leagues",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1665
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Projected starters are Brunson, Bridges, Hart, Anunoby and Towns.",
+   "ts": "5:45",
+   "quote": "It's Jaylen Brunson. It's Muel Bridges. It's Josh Hard. It's the Jedi Oganobi.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 345
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "Big-man depth is very thin, with only Towns and Drummond. Being near the second apron means they will likely sign just one of Eubanks, Wiseman or Bradley.",
+   "ts": "26:05",
+   "quote": "So I think they're signing one of Eubanks Wiseman or Tony Bradley. And I think it's probably Eubanks,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1575
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "The team is weaker than last season and the East is stronger. They may not be able to rest players as much.",
+   "ts": "4:11",
+   "quote": "The East might be that strong that they can't really afford to manage their players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 263
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "The fantasy playoff schedule is weak if your season ends March 28, and better on the Yahoo default. They play a league-minimum 13 back-to-backs.",
+   "ts": "29:10",
+   "quote": "And they play a league minimum 13 back to backs. Nothing particularly stand out in this schedule.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1752
+  },
+  {
+   "team": "NYK",
+   "horizon": "current",
+   "text": "The front office put out a statement saying it will not negotiate contract extensions. The speaker also suspects owner James Dolan does not want to go over the second apron.",
+   "ts": "1:02",
+   "quote": "And now an official statement from the team saying not doing negotiations.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 76
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Brunson ranked 57th in 9-cat and 27th in Yahoo points last season. His Yahoo ADP is 21.",
+   "ts": "6:47",
+   "quote": "He was 57th in Durant last season. 57th for category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 403
+  },
+  {
+   "text": "Towns ranked 24th last season and 28th in Yahoo points leagues.",
+   "ts": "8:53",
+   "quote": "Carl Anthony Towns who was 24th last season, 28th in points leagues, Yahoo.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 538
+  },
+  {
+   "text": "Towns' scoring fell by four points per game and his blocks fell to half a game.",
+   "ts": "9:24",
+   "quote": "We saw him lose scoring four points per game. We saw his field goals drop.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 571
+  },
+  {
+   "text": "Anunoby ranked 54th last season and 85th in points leagues. He played 67 games at 33 minutes a night.",
+   "ts": "13:04",
+   "quote": "who was 54th in Durant last season, 85th in points league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 802
+  },
+  {
+   "text": "Bridges ranked 72nd per game and 103rd in points leagues.",
+   "ts": "17:12",
+   "quote": "103 per game versus 72 in categories.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1042
+  },
+  {
+   "text": "Hart's minutes dropped from 38 to 30 and his three-point percentage rose from 33% to 41%. He ranked 83rd per game.",
+   "ts": "17:44",
+   "quote": "he went from 38 minutes a night under Tibs to 30. And he somehow improved his three-point shooting from 33 to 41.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1085
+  },
+  {
+   "text": "McBride played 27 minutes a night and ranked 220th in categories. In 15 starts he averaged 16 points and 3.5 threes.",
+   "ts": "21:22",
+   "quote": "220th in categories, 213th in points leagues. He started 15 games and played 34 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1282
+  },
+  {
+   "text": "Drummond shot 36% from three, averaged 8 rebounds in 20 minutes, and shot 47% from the field.",
+   "ts": "27:38",
+   "quote": "He hit them at 36% last season. Um half a three a game and grabbed eight rebounds in 20 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1653
+  },
+  {
+   "text": "Shamet averaged 9 points in 23 minutes.",
+   "ts": "22:23",
+   "quote": "He averaged nine points in 23 minutes with under two assists",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1361
+  }
+ ]
+}

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 251 | 0 | 0.0 | 303 | not drafted |
+| 2026-27 | 0 | - | 247 | 0 | 0.0 | 303 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | FT% | 77.6% | -0.1 | +0.6 | - |
 | 3PM | 0.6 | -1.0 | -0.2 | - |
 | PTS | 7.1 | -1.2 | -1.0 | - |
-| REB | 4.5 | -0.2 | -1.3 | - |
+| REB | 4.5 | -0.2 | -1.2 | - |
 | AST | 1.8 | -0.8 | -0.4 | - |
 | STL | 0.4 | -1.7 | -1.5 | league outlier, weak |
 | BLK | 0.5 | -0.3 | -1.1 | - |
@@ -30,21 +30,21 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-04; stats)
-- He is the third-string center in Chicago, behind Nick Claxton and Jalen Smith. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- He competes with Patrick Williams and Leonard Miller for the 10th rotation spot. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- Chicago re-signed him at a high salary. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
-- The expert thinks he was re-signed mainly as a trade piece. This fits a front office that signs veterans in the hope of trading them. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=746))
-- A toe injury kept him out of most of last season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987))
+- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-16; stats)
+- He is the third-string center behind Nick Claxton and Jalen Smith. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- The 10th rotation spot is open between him, Patrick Williams and Leonard Miller. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
+- Chicago re-signed him at a high salary on a short veteran deal. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [08-18](https://youtu.be/FxaSnyk9g90?t=1547), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- His contract likely makes him a trade piece. The front office signs older players and hopes to trade them. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), [09-28](https://youtu.be/3Qm5wLjhvTw?t=746))
 
 **Durable**
-- He gets very few steals, a clear weak spot even against the whole top 250 pool. (fact, 2026-10-04; stats)
-- He gets hurt often. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
+- Steals are his clear weak spot. He gets very few, even for a center. (fact, 2026-10-16; stats)
+- A toe injury kept him out of most of last season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1987), stats)
+- He is usually hurt a lot. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1547))
 
 **Tags**
-- Current: `injury last season` (Toe injury), `injured now` (Yahoo status Q (toe)), `questionable` (Toe), `minutes competition` (Third-string center. Competes with Patrick Williams and Leonard Miller for the 10th man spot.)
-- Durable: `injury prone` (Often hurt. A toe injury cost him most of last season.)
+- Current: `injured now` (Yahoo status Q (Toe)), `questionable` (toe), `injury last season` (toe injury, 10 games played in 2025-26), `minutes competition` (third-string center behind Claxton and Jalen Smith; 10th man battle with Patrick Williams and Leonard Miller), `trade risk` (re-signed at a high salary, likely as a trade piece), `trades likely` (Chicago signs veterans on short deals hoping to trade them)
+- Durable: `injury prone` (usually hurt a lot; toe injury cost most of 2025-26)
 
-**Note.** Do not draft him. Yahoo ranks him 240 and ESPN ranks him 304, both value him at 0 USD, and our league drafts only 144 players. He is a third-string center who may not make the rotation, he is listed questionable with a toe problem, and his small projected line (about 7 points and 4.5 rebounds) has no standout category. Ignore him on waivers unless injuries to Nick Claxton and Jalen Smith give him real minutes.
+**Note.** Both Yahoo and ESPN value him at 0 USD. His ranks (247 Yahoo, 303 ESPN) put him well outside the 144 players drafted in our league, so do not draft him. He is a third-string center with a toe problem (Yahoo Q). Projections give him only about 15 minutes and 7 points, with few steals. He only becomes a waiver option if Claxton and Jalen Smith both miss time, or if a trade sends him to a team where he gets real center minutes.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

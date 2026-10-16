@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 140 | 0 | 0.7 | 137 | not drafted |
+| 2026-27 | 0 | 3.5 | 141 | 0 | 0.7 | 137 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,21 +30,25 @@
 </details>
 
 **Current**
-- Booker, Jalen Green, Miles Bridges and Brooks are expected to take most of Phoenix's minutes and usage. Sharing the ball with those players caps his shots. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- In a points-format mock draft, one expert did not want him at all in round 12 and called that pick shocking. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
-- He is projected to start for Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308), [08-23](https://youtu.be/hm5-fiCa5S4?t=509))
-- He shot about 38% from the field over the final two months of last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
-- He is expected to play less at power forward now that Miles Bridges has arrived. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-16; stats)
+- Brooks is projected to start for Phoenix at forward, next to Jalen Green, Devin Booker, Miles Bridges and a center. (fact, 2026-10-14; [08-23](https://youtu.be/hm5-fiCa5S4?t=308), [10-14](https://youtu.be/MRzebgip23Y?t=508))
+- His 20 points per game last season came on 29% usage. Injuries to teammates and hot shooting drove it, and both faded late in the season. He shot about 38% from the field over the final two months. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=886), [08-23](https://youtu.be/hm5-fiCa5S4?t=308))
+- Usage in Phoenix is crowded. Booker, Green, Bridges and Brooks are expected to take most of the minutes and shots. (fact, 2026-10-14; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-14](https://youtu.be/D4dP5JvX1oo?t=684))
+- Expect less usage and fewer points than last season now that his teammates are healthy. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=886), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
+- The experts would not draft him in standard formats. One sees his value closer to rank 200 than 100, well below his Yahoo ADP of 114. Another took him around pick 160 but said he would take plenty of players ahead of him. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=886), [10-14](https://youtu.be/D4dP5JvX1oo?t=1616), [10-13](https://youtu.be/EogBYa24Gto?t=1708), [09-01](https://youtu.be/80kfLVnFQ_s?t=1777))
+- Phoenix has the best fantasy schedule in the league. It plays 4-4-4 games in the playoff weeks and has the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- Miles Bridges has joined Phoenix. (fact, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
+- With Bridges on the team, Brooks should play less at power forward. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1951))
 
 **Durable**
-- He has a good defensive reputation. Experts call him the only clearly above-average defender in Phoenix's projected starting group. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1987))
+- His fantasy value comes mostly from threes, points and FT%. He gives little in rebounds, assists and blocks, and his FG% is low. (verdict, 2026-10-16; stats)
+- Brooks has a good defensive reputation. He is seen as the only clearly above-average defender in the projected Phoenix starting group. (fact, 2026-10-14; [08-23](https://youtu.be/hm5-fiCa5S4?t=1987), [10-14](https://youtu.be/MRzebgip23Y?t=841))
+- His defense does not show up in fantasy stats. He averages about one steal and under two assists a game, and he blocks almost no shots. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=841), stats)
 
 **Tags**
-- Current: `usage competition` (Shares the ball with Booker, Jalen Green and Miles Bridges), `role down` (Fewer minutes at power forward after Bridges arrived. Projections expect his scoring to fall from last season.)
+- Current: `usage competition` (Shares shots with Booker, Jalen Green and Miles Bridges), `role down` (His 29% usage last season came from teammate injuries and faded as players returned), `bust candidate` (Yahoo ADP 114; expert sees him closer to rank 200), `questionable` (Yahoo status Q (Rest)), `good playoff schedule` (Phoenix plays 4-4-4 in weeks 19 to 21), `few back-to-backs` (Phoenix has the fewest back-to-backs in the league)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN price Dillon Brooks at about 1 USD and rank him near 140 (Yahoo 140, ESPN 137). That puts him at the edge of the 144 players our league drafts, so he is at most a last-dollar bench pick. His value comes from about 2.2 threes and solid FT% at a steady starter's minutes, but his 43% FG% on 13 to 16 shots a game costs you in FG%. Early in the season, check two things: whether he keeps last season's shot volume (17 shots a game) next to Booker, Green and Bridges, and whether his shooting recovers from about 38% over the last two months of last season. If neither happens, he belongs on waivers.
+**Note.** Brooks is right at the edge of our 144-player draft: Yahoo rank 141 at 3.5 USD, ESPN rank 137 at 0.7 USD. The experts see him nearer rank 160 to 200, so take him only for 1 USD at the end, as a source of threes, points and FT%. He costs you in FG% (43%) and in rebounds, assists and blocks. Early in the season, check whether he keeps last season's shot volume next to Booker, Green and Bridges. The 4-4-4 playoff schedule makes him a useful waiver pickup late in the season even if he goes undrafted.
 
-<sub>Tags removed by the category check: fits every build (weak in BLK, FG%).</sub>
-
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,87 +8,90 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "52d209ba1c21",
- "note_count": 12,
- "built_at": "2026-10-11T09:19:48+00:00",
+ "input_sha": "e09802185b9f",
+ "note_count": 16,
+ "built_at": "2026-10-16T09:05:01+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1965622,
-  "duration_ms": 51597,
+  "cost_usd_list": 0.21433419999999997,
+  "duration_ms": 54888,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a projected starter at forward next to Acuff, LaVine, Hunter and Sabonis. Nobody is pushing that group for a starting spot.",
+   "text": "Murray is a projected starter at forward. The projected starting five is Acuff, LaVine, Murray, Simmons and Sabonis.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1",
-    "W3THnI7wWdA:t8"
+    "PrrgoTEcao4:t1"
    ]
   },
   {
-   "text": "DeRozan, Westbrook and Schroder are no longer on the Kings. LaVine and Sabonis remain.",
+   "text": "He has not played in preseason and had ankle issues in camp.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "LM0cRCGoAUQ:t5",
-    "-KS_AZjZnw4:t4",
-    "DubdKKhMWHo:t1"
+    "hviT4hzYNME:p31"
    ]
   },
   {
-   "text": "Experts disagree on his usage. Josh and the power forward rankings expect more usage and big minutes now that the Kings cleared out shots. Lloyd sees him as about the third option behind LaVine and Sabonis, with no big usage jump, no 20 points a game and a heavy defensive load.",
-   "kind": "verdict",
+   "text": "Westbrook, Schroder and DeRozan have left the Kings, which frees usage for Murray.",
+   "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p2",
-    "LM0cRCGoAUQ:p46",
     "LM0cRCGoAUQ:t5",
-    "oEywzBZfAvY:p21",
-    "dlo7L8Ru91A:t6"
+    "ZYllcj4o6_A:p2"
    ]
   },
   {
-   "text": "Experts doubt his 1.6 blocks per game from last season will hold, and doubt his shooting will return.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p2",
-    "LM0cRCGoAUQ:p46",
-    "dlo7L8Ru91A:p32"
-   ]
-  },
-  {
-   "text": "If he reaches about 20 percent usage and shoots better, he can easily beat his draft spot.",
-   "kind": "verdict",
+   "text": "LaVine and Sabonis are still on the team and take many of the shots and touches, which limits his usage.",
+   "kind": "fact",
    "date": "2026-09-10",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p32"
+    "dlo7L8Ru91A:t6"
    ]
   },
   {
-   "text": "Josh is happy to take him in round 10 and expects about a top 100 season. Pick 93 is too early in a regular draft, and ESPN's rank of 83 is too high. An ADP of about 122 is too late.",
+   "text": "Experts expect more usage and big minutes, enough for about a top 100 season.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
-    "BiIZsSypx7Y:p52",
+    "ZYllcj4o6_A:p2",
+    "LM0cRCGoAUQ:p46"
+   ]
+  },
+  {
+   "text": "Experts doubt that his high block rate from last season will hold, especially with Ben Simmons in the starting lineup.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p10",
     "ZYllcj4o6_A:p2",
     "LM0cRCGoAUQ:p46",
     "dlo7L8Ru91A:p32"
    ]
   },
   {
-   "text": "He is 26 and in the first year of a 5-year, 140 million USD contract.",
+   "text": "Draft him around pick 90. His upside is about 60th.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p10",
+    "w66x_I_MaQ8:p35",
+    "BiIZsSypx7Y:p52"
+   ]
+  },
+  {
+   "text": "He is 26 and in the first year of a 5-year, 140 million USD contract. Coach Ham says this is the year he has to prove himself.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
@@ -97,63 +100,58 @@
    ]
   },
   {
-   "text": "Ham says this is the season he has to prove himself.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p22"
-   ]
-  },
-  {
-   "text": "The Kings may still trade Sabonis or LaVine, the two players who limit his usage.",
+   "text": "The Kings are one of the worst teams in the NBA. Their poor coaching, ownership and front office make the rotation hard to predict.",
    "kind": "fact",
-   "date": "2026-09-21",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t0",
-    "t4n9MAP2_14:t5",
-    "7BllEsdNLoM:t5",
-    "W-R1dzem32s:t2",
-    "dlo7L8Ru91A:t6"
+    "PrrgoTEcao4:t0",
+    "6DnRWahYrFA:t0"
    ]
   },
   {
-   "text": "The Kings are projected near the bottom of the league, with Vegas at about 21.5 to 22.5 wins. Experts disagree on whether they will sit veterans or keep trying to win to avoid the relegation zone.",
-   "kind": "verdict",
-   "date": "2026-10-08",
+   "text": "With a March 28 end, the Kings play 4, 4 and 3 games in our playoff weeks. That is 11 games. They have 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7",
-    "n4KkK-OJjqA:t5",
-    "-KS_AZjZnw4:t5"
+    "PrrgoTEcao4:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a better category league player than points league player.",
-   "kind": "verdict",
-   "date": "2026-09-01",
-   "until": "",
-   "sources": [
-    "g31YlwRe0XQ:p41",
-    "80kfLVnFQ_s:p40"
-   ]
-  },
-  {
-   "text": "A finger injury early and an ankle injury late cost him most of the 2025-26 season.",
+   "text": "He has shot poorly from three every season since his rookie year. The shooting he showed as a rookie has not come back.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p18"
+    "PrrgoTEcao4:p9",
+    "oEywzBZfAvY:p19"
    ]
   },
   {
-   "text": "He has made big strides as a defender and rebounder. In a small sample he blocked many shots and defended well.",
-   "kind": "verdict",
+   "text": "His usage rate has never reached 20.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p9"
+   ]
+  },
+  {
+   "text": "Last season he missed most of the year. A finger injury hurt him early and an ankle injury hurt him late.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p18",
+    "hviT4hzYNME:p31"
+   ]
+  },
+  {
+   "text": "In a small sample last season he blocked many shots and defended well. Coach Ham says he has made big strides as a defender and rebounder.",
+   "kind": "fact",
    "date": "2026-07-31",
    "until": "",
    "sources": [
@@ -162,12 +160,13 @@
    ]
   },
   {
-   "text": "The shooting from his rookie season has not come back.",
-   "kind": "fact",
-   "date": "2026-07-31",
+   "text": "He is worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-01",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p19"
+    "g31YlwRe0XQ:p41",
+    "80kfLVnFQ_s:p40"
    ]
   }
  ],
@@ -175,7 +174,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no category flagged weak; FG% and AST are his softest spots",
+   "detail": "No weak category flag. His weakest categories are FG% and AST.",
    "until": "",
    "sources": [
     "stats"
@@ -194,88 +193,83 @@
    "new_meaning": ""
   },
   {
-   "name": "injury last season",
+   "name": "role up",
    "channel": "current",
-   "detail": "finger and ankle injuries in 2025-26",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p18"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "regression risk",
-   "channel": "current",
-   "detail": "1.6 blocks per game in a small 2025-26 sample expected to drop",
+   "detail": "More usage expected after Westbrook, Schroder and DeRozan left",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p2",
     "LM0cRCGoAUQ:p46",
-    "dlo7L8Ru91A:p32"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "round 10 value; ADP around 120 seen as a little late",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p2",
-    "LM0cRCGoAUQ:p46",
-    "dlo7L8Ru91A:p32"
+    "LM0cRCGoAUQ:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage freed",
    "channel": "current",
-   "detail": "DeRozan, Westbrook and Schroder gone",
+   "detail": "Westbrook, Schroder and DeRozan gone",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:t5",
-    "ZYllcj4o6_A:p2",
-    "6DnRWahYrFA:t0"
+    "LM0cRCGoAUQ:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "LaVine and Sabonis; Lloyd sees him as third option",
+   "detail": "LaVine and Sabonis",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:t6",
-    "oEywzBZfAvY:p21"
+    "dlo7L8Ru91A:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Last season's 1.6 blocks expected to drop, especially with Simmons starting",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p10",
+    "ZYllcj4o6_A:p2",
+    "LM0cRCGoAUQ:p46",
+    "dlo7L8Ru91A:p32"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "Finger and ankle injuries, 23 games",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p18",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Vegas about 21.5 to 22.5 wins",
+   "detail": "",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8"
+    "PrrgoTEcao4:t0",
+    "6DnRWahYrFA:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "trades likely",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Sabonis or LaVine could be traded",
+   "detail": "Kings rotations are hard to predict",
    "until": "",
    "sources": [
-    "egRrai3Ax38:t0",
-    "t4n9MAP2_14:t5",
-    "7BllEsdNLoM:t5",
-    "W-R1dzem32s:t2"
+    "PrrgoTEcao4:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 4 USD, his average cost is only 1.0 to 1.4 USD, and he went for 1 USD in our league last season. With a Yahoo rank of 99 and an ESPN rank of 83, he is a cheap late target worth 1 to 4 USD as a round 10 forward. No category is flagged weak, so he fits any build, with threes, blocks and few turnovers making up for a soft 44 FG% and 1.6 assists. Early in the season, check whether his blocks stay near 1 per game (not the 1.6 he posted in only 23 games last season), whether his FG% gets back to 44 to 45, and whether a Sabonis or LaVine trade gives him more shots.",
+ "note": "At Yahoo rank 100 and ESPN rank 83, Murray is a late pick in our 144-player draft. The markets price him at only 1.0 USD (Yahoo) and 1.7 USD (ESPN), and he went for 1 USD in our league last season, so he is a cheap end-of-auction buy with upside to about 60th. He fits every build because no category is weak, and he does not anchor any category either. Check three things early: his ankle (he missed preseason), whether his blocks hold next to Simmons, and whether his usage really goes up now that Westbrook, Schroder and DeRozan are gone.",
  "rejected": []
 }

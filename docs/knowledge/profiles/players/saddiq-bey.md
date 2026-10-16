@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 151 | 0 | 0.3 | 133 | not drafted |
+| 2026-27 | 0 | 1.0 | 150 | 0 | 0.3 | 133 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,28 +21,34 @@
 | 3PM | 1.9 | +0.4 | +0.4 | - |
 | PTS | 15.2 | +0.2 | +0.2 | - |
 | REB | 5.2 | +0.1 | +0.1 | - |
-| AST | 2.2 | -0.6 | -0.4 | - |
+| AST | 2.2 | -0.5 | -0.4 | - |
 | STL | 0.8 | -0.3 | -0.3 | - |
-| BLK | 0.1 | -1.1 | -1.2 | weak for his position (punt fit) |
+| BLK | 0.1 | -1.1 | -1.3 | weak for his position (punt fit) |
 | TO | 0.9 | +1.1 | +1.0 | - |
 
 </details>
 
 **Current**
-- New Orleans has a crowded rotation of about eight players who could all start, including Bey. Bennedict Mathurin has also been added. There are too many players for 240 minutes, so roles are hard to project. (fact, 2026-10-09; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
-- The Pelicans have a new head coach, Jamahl Mosley, who brings a defense-first identity. (fact, 2026-10-09; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- There is talk that Bey could start for the Pelicans and close games in lineups with Zion Williamson at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001))
-- Josh thinks there is far too much hype around Bey. He went for 1 USD in an expert auction mock draft. An earlier mock called him a bad pick at 119 because he might be only the seventh or eighth man on the Pelicans. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1811))
-- The latest expert lineup projection has Zion Williamson, Trey Murphy, Dejounte Murray and probably Yves Missi starting. The last spot goes to Jeremiah Fears or Herb Jones, not Bey. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
-- Experts see the Pelicans as a weak team near the bottom of the West. One projection is about 34 wins, which would not make the playoffs. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
+- The Pelicans roster is crowded, with about eight players who could start, including him. It is unclear how the 240 minutes will be split. (fact, 2026-10-11; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [10-10](https://youtu.be/gsx_UDkVPd0?t=191))
+- The latest Pelicans preview projects him well below last season, when he finished 108th in category leagues. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1266))
+- Jamahl Mosley is the new head coach and brings a defense-first identity. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=101), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- The Pelicans have a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- With a season end of March 28, the Pelicans play 4, 4 and 3 games in the fantasy playoff weeks, which the expert calls good. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- Some people expect him to start for the Pelicans and maybe close games in lineups with Zion Williamson at center. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [10-05](https://youtu.be/Q6YlQDvD-aY?t=6001))
+- Josh thinks there is way too much hype around him and sees him as possibly only the seventh or eighth man on the Pelicans. He called taking him at pick 119 a bad pick. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1811))
+- He went for 1 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5993))
+- Recent projected starting lineups do not include him. Dejounte Murray, Trey Murphy and Zion Williamson are seen as locked in, with Yves Missi likely at center and Jeremiah Fears or Herb Jones in the last spot. (fact, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
+- Experts see the Pelicans as a weak team near the bottom of the West. One projects about 34 wins and no playoffs. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
 
 **Durable**
-- He blocks almost no shots, even for a forward, so a punt BLK build loses little with him. (fact, 2026-10-11; stats)
+- He blocks almost no shots for a forward, so a punt BLK team loses little with him. His FT% and low turnovers are mild positives. (fact, 2026-10-16; stats)
+- The expert does not like his archetype. He needs more usage than a good team would give him and does little else. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1288))
+- He has a torn ACL in his injury history and finished strongly after coming back from it. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1288))
 
 **Tags**
-- Current: `minutes competition` (One of about eight Pelicans who could start. Recent lineup projections leave him out of the starting five.), `deep rotation` (Too many Pelicans for 240 minutes, and Mathurin has been added), `unsettled rotation` (Pelicans roles and starters are hard to project), `new coach` (Jamahl Mosley), `bottom team` (About 34 wins projected, near the bottom of the West)
-- Durable: `punt BLK fit` (About 0.1 blocks per game, weak for a forward)
+- Current: `role down` (projected well below last season; may be only the seventh or eighth man), `minutes competition` (about eight Pelicans who could start; not in recent projected starting fives), `deep rotation` (too many Pelicans for 240 minutes), `unsettled rotation` (starting frontcourt and guard roles unclear), `new coach` (Jamahl Mosley), `many back-to-backs` (league-high 16), `good playoff schedule` (4-4-3 for a March 28 end), `bottom team` (about 34 wins projected, bottom of the West)
+- Durable: `usage dependent` (needs more usage than a good team would give him and does little else), `punt BLK fit` (about 0.1 blocks per game as a forward)
 
-**Note.** Bey sits right at our 144-player cut (Yahoo rank 151, ESPN rank 133), with 0 USD values and average costs of 1.0 USD on Yahoo and 0.2 USD on ESPN, so at most he is a 1 USD last pick. His projected line gives solid FT% and threes with few turnovers, but almost no blocks and a below-average FG%, so he fits punt BLK builds best. Experts doubt the starter hype, so leave him on waivers and watch early in the season whether Mosley starts him or closes games with him.
+**Note.** Both sites price him at about 1 USD or less (Yahoo rank 150, ESPN 133), and 144 players get drafted, so he sits right at the edge of our player pool. The experts think the hype is too much and that he is a fragile bench piece on a crowded Pelicans roster. Let him go to waivers or take him only as a 1 USD final pick for a punt BLK build. Early in the season, check whether he starts or closes games next to Zion at center: last season's 17.7 points on 13.4 shots came with a bigger role than he is projected to get now.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,39 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7aa0aed5fcf7",
+ "input_sha": "403c9860b5c3",
  "note_count": 10,
- "built_at": "2026-10-04T17:43:35+00:00",
+ "built_at": "2026-10-16T09:10:29+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1399382,
-  "duration_ms": 34093
+  "cost_usd_list": 0.2002022,
+  "duration_ms": 55927,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Johnson is a rookie. Dallas drafted him with a top 10 pick.",
+   "text": "Johnson is a rookie and was a top 10 pick in the 2026 NBA draft.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
    "sources": [
-    "0AptxcRW0RE:p16",
-    "CLsUc0Sevos:t3"
+    "0AptxcRW0RE:p16"
    ]
   },
   {
-   "text": "Johnson is hurt now. Yahoo lists him as questionable with a lower leg injury. Lively is also hurt.",
+   "text": "Johnson is hurt, as are Lively and Dharma. That leaves Gafford as the likely opening night center.",
    "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t3",
-    "stats"
-   ]
-  },
-  {
-   "text": "Because Johnson and Lively are hurt, Daniel Gafford is the likely opening night center.",
-   "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
@@ -48,46 +39,61 @@
    ]
   },
   {
-   "text": "The Dallas frontcourt is crowded. Lively, Gafford, Powell, P.J. Washington and Aldama all compete for big man minutes.",
+   "text": "Experts see a path to a starting job, possibly at center while Lively is out. Josh is not sure about this.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "Lively returns",
+   "sources": [
+    "XSPJL_mlFXo:p9",
+    "XSPJL_mlFXo:t2",
+    "0AptxcRW0RE:p16",
+    "TOn-D1SV7a8:p21"
+   ]
+  },
+  {
+   "text": "The Dallas frontcourt is crowded with Lively, Gafford, Powell, P.J. Washington and Aldama. New head coach Dusty May has not shown how he will split the center minutes.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t1",
+    "OBwWCxG9SqM:p19",
     "sTtFUy7IoJI:t7",
-    "OBwWCxG9SqM:p19"
+    "CLsUc0Sevos:t3"
    ]
   },
   {
-   "text": "Dusty May is the new head coach. It is unknown how he will split minutes among the centers.",
+   "text": "Experts expect Dallas to make another move, possibly trading Gafford.",
+   "kind": "verdict",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t6",
+    "P6TNP-g0wzY:t1"
+   ]
+  },
+  {
+   "text": "His Yahoo ADP was 116 in late September. Expert rankings put him around 150 to 166.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:t1"
+    "XSPJL_mlFXo:p10",
+    "OBwWCxG9SqM:p19"
    ]
   },
   {
-   "text": "Josh makes Johnson his late swing pick over P.J. Washington in standard formats. His upside is 30 minutes a night with about 12 points, 9 rebounds, 1.5 blocks and 1 steal.",
+   "text": "Johnson is Josh's late swing pick over Washington in standard formats, and a reasonable late flyer. His upside is 30 minutes a night with about 12 points, 9 rebounds, 1.5 blocks and a steal.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p12"
+    "XSPJL_mlFXo:p12",
+    "OBwWCxG9SqM:p19"
    ]
   },
   {
-   "text": "Experts see him as a reasonable late flyer. One ranks him around 150 on 25 minutes a night. Josh says his low Fantrax ADP of 209 may mean there is value.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:p19",
-    "XSPJL_mlFXo:p10"
-   ]
-  },
-  {
-   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. It also has a league-high 16 back-to-backs.",
+   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, one of the best, but a league-high 16 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -99,38 +105,37 @@
  ],
  "durable": [
   {
-   "text": "Johnson is an undersized, hard-working energy big at 6'9. His motor is his main strength. He fits better as a four than a five.",
+   "text": "Johnson is an undersized 6'9 big. He plays more like a four than a five.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p11",
-    "0AptxcRW0RE:p17",
     "0AptxcRW0RE:p18",
     "-rgXhs5BHiw:p7",
     "OBwWCxG9SqM:p19"
    ]
   },
   {
-   "text": "He had strong defensive stats at Michigan and in Summer League. He had one of the best lateral quickness measurements at the combine.",
+   "text": "Motor is his main strength. He is a hard-working energy big who rebounds, scores mismatches in the post and has strong finishing numbers.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p11",
+    "0AptxcRW0RE:p17",
+    "-rgXhs5BHiw:p7"
+   ]
+  },
+  {
+   "text": "His defensive stats at Michigan were very strong. He had one of the best lateral quickness measurements at the combine.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p11",
     "0AptxcRW0RE:p18",
-    "TOn-D1SV7a8:p21",
-    "OBwWCxG9SqM:p19"
-   ]
-  },
-  {
-   "text": "He rebounds, finishes well and scores on mismatches in the post.",
-   "kind": "fact",
-   "date": "2026-07-27",
-   "until": "",
-   "sources": [
-    "0AptxcRW0RE:p17",
-    "-rgXhs5BHiw:p7"
+    "TOn-D1SV7a8:p21"
    ]
   },
   {
@@ -150,7 +155,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "top 10 pick in 2026",
+   "detail": "Top 10 pick in the 2026 draft",
    "until": "",
    "sources": [
     "0AptxcRW0RE:p16"
@@ -160,7 +165,7 @@
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "lower leg, Yahoo Q; Gafford likely opening night center",
+   "detail": "Reported hurt in early October; Yahoo status Q (Rest)",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t3",
@@ -171,7 +176,7 @@
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "Yahoo Q (Lower Leg)",
+   "detail": "Yahoo Q (Rest)",
    "until": "",
    "sources": [
     "stats"
@@ -181,19 +186,19 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Lively, Gafford, Powell, Washington, Aldama",
+   "detail": "Crowded frontcourt with Lively, Gafford, Powell, Washington and Aldama",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t1",
     "OBwWCxG9SqM:p19",
-    "sTtFUy7IoJI:t7"
+    "ZYllcj4o6_A:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "late swing pick; upside 30 minutes with 1.5 blocks",
+   "detail": "Late swing pick; upside of 30 minutes with 1.5 blocks and 9 rebounds",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p12",
@@ -202,19 +207,53 @@
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
+   "name": "new coach",
    "channel": "current",
-   "detail": "Josh says Fantrax ADP 209 is far too low",
+   "detail": "Dusty May; his center rotation is unknown",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p10"
+    "XSPJL_mlFXo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Dallas is overloaded with forwards and bigs",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t2",
+    "sTtFUy7IoJI:t7",
+    "RyzcCGChYgs:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Possible Gafford trade",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t6",
+    "P6TNP-g0wzY:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas 4-4-4 in playoff weeks",
+   "detail": "4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "League-high 16 back-to-backs",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
@@ -223,6 +262,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Both sites give him a value of 0 USD (Yahoo rank 208, ESPN rank 166), so he sits at the edge of our 144-player pool. At most he is a 1 USD late flyer for blocks and FG%. The two projections also disagree on his FG% (58.9 vs 49.4). Before the draft on 2026-10-18, check his lower leg injury and the Lively timeline. Early in the season, watch whether Dusty May starts him at center over Gafford. If he gets 25 to 30 minutes, he is worth a waiver pickup, and the Dallas 4-4-4 playoff schedule helps.",
+ "note": "Yahoo and ESPN both value him at 0 USD. He ranks 219 on Yahoo and 167 on ESPN, so he sits right around our 144-player cutoff and should cost 1 USD at most, or go undrafted. His projected profile is a modest FG% (53.2%), blocks and low-turnover helper who gives few threes and assists. He makes sense only as a last-round flyer for a big-man build. Early in the season, check his health and whether he or Gafford starts at center while Lively is out. A Gafford trade would open minutes for him.",
  "rejected": []
 }

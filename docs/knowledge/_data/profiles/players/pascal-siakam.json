@@ -8,57 +8,66 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c850a1d96f97",
- "note_count": 21,
- "built_at": "2026-10-11T09:22:52+00:00",
+ "input_sha": "2cf2310d0fa2",
+ "note_count": 23,
+ "built_at": "2026-10-16T09:13:15+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2928104,
-  "duration_ms": 72394,
-  "turns": 3,
+  "cost_usd_list": 0.18270219999999998,
+  "duration_ms": 46303,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start at forward with Haliburton, Nembhard, Nesmith and Zubac.",
+   "text": "Tyrese Haliburton is back with Indiana. Siakam is in the projected starting five with Haliburton, Nembhard, Nesmith and Zubac.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t2",
-    "sfCe7fS9daM:t0"
+    "sfCe7fS9daM:t0",
+    "EGdhmUgPAWY:p12"
    ]
   },
   {
-   "text": "With Haliburton back, his assists should drop to about 3 to 3.2 per game and his usage should fall back under 30.",
+   "text": "With Haliburton back, his assists should fall to about 3 to 3.2 per game and his usage should drop back under 30.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p17",
     "EGdhmUgPAWY:p12",
     "EGdhmUgPAWY:p14",
-    "t4n9MAP2_14:p18",
-    "LM0cRCGoAUQ:p36",
-    "OdDkXFhoKsc:p37"
+    "-DN4P92Wp8Y:p17"
    ]
   },
   {
-   "text": "In category leagues he is worth a pick in the 50 to 60 range. ESPN's rank of about 24 to 25 is far too high, and pick 45 is too early.",
+   "text": "In category leagues he is worth a pick in the 50 to 60 range. Picks 45 to 51 are a little early.",
    "kind": "verdict",
-   "date": "2026-10-01",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "EogBYa24Gto:p13",
     "EGdhmUgPAWY:p11",
-    "EGdhmUgPAWY:p13",
     "BjXP9JODDSg:p18",
-    "uarqbNA2dFk:p40",
     "LM0cRCGoAUQ:p36"
    ]
   },
   {
-   "text": "At age 32, aging is a question for him.",
+   "text": "His ESPN rank of 24 to 25 is far too high. Never take him that early in a category league.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p13",
+    "uarqbNA2dFk:p40",
+    "QbdrhJd7LiA:p35",
+    "-DN4P92Wp8Y:p17"
+   ]
+  },
+  {
+   "text": "Age is a question for him at 32.",
    "kind": "verdict",
    "date": "2026-08-10",
    "until": "",
@@ -67,19 +76,19 @@
    ]
   },
   {
-   "text": "Coach Rick Carlisle likes to keep minutes down even for healthy players and to rest players on back-to-backs. Indiana has 15 back-to-backs this season.",
+   "text": "Coach Rick Carlisle often keeps minutes low for healthy players and rests players on back-to-backs. Indiana has 15 back-to-backs.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t0",
-    "EGdhmUgPAWY:t5",
     "2A2JbUN-kc0:t2",
-    "QbdrhJd7LiA:t0"
+    "QbdrhJd7LiA:t0",
+    "EGdhmUgPAWY:t5"
    ]
   },
   {
-   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks (season ending March 28), which is not ideal.",
+   "text": "Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21, which is not ideal.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -88,7 +97,7 @@
    ]
   },
   {
-   "text": "Indiana is projected to win 46 to 48 games and finish as a top-six seed in the East.",
+   "text": "Indiana is projected to win 46 to 48 games and finish as a top six seed in the East.",
    "kind": "verdict",
    "date": "2026-08-10",
    "until": "",
@@ -100,7 +109,7 @@
  ],
  "durable": [
   {
-   "text": "He is worth much more in points leagues than in category leagues.",
+   "text": "He is a much better points league player than category league player.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -110,8 +119,17 @@
    ]
   },
   {
-   "text": "Free throw percentage is his weak category, about 72%. He is also poor in defensive stats, with few blocks for a forward or center.",
-   "kind": "verdict",
+   "text": "Points are his best category, and he adds a positive FG% on high volume for a forward.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a great free throw shooter and is weak in the defensive stats. Blocks and FT% are his weak categories.",
+   "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
@@ -120,16 +138,16 @@
    ]
   },
   {
-   "text": "Points are his best category, and he adds good FG% on real volume.",
+   "text": "The last time he played next to Haliburton, his assists were way down.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-08-11",
    "until": "",
    "sources": [
-    "stats"
+    "OdDkXFhoKsc:p37"
    ]
   },
   {
-   "text": "His production is very consistent from game to game, at about 22 points, 6 rebounds and 4 assists. His game-to-game range is one of the tightest in the NBA.",
+   "text": "He has one of the tightest game-to-game production ranges in the NBA, about 22 points, 6 rebounds and 4 assists every game.",
    "kind": "fact",
    "date": "2026-08-10",
    "until": "",
@@ -152,7 +170,7 @@
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "about 72% FT, his weakest category",
+   "detail": "About 72% FT on about 5 attempts",
    "until": "",
    "sources": [
     "stats",
@@ -163,18 +181,19 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "experts say he is much better in points than in categories",
+   "detail": "Experts rank him near 30 in points, 50 to 60 in categories",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p10",
-    "WXO8MfQfzo0:p11"
+    "WXO8MfQfzo0:p11",
+    "EGdhmUgPAWY:p11"
    ],
    "new_meaning": ""
   },
   {
    "name": "consistent",
    "channel": "durable",
-   "detail": "one of the tightest game-to-game ranges in the NBA",
+   "detail": "One of the tightest game-to-game ranges in the NBA",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p13",
@@ -185,18 +204,17 @@
   {
    "name": "plays every game",
    "channel": "durable",
-   "detail": "plays through minor problems; 80 and 78 games before 62 last season",
+   "detail": "Plays through minor problems",
    "until": "",
    "sources": [
-    "sfCe7fS9daM:p16",
-    "stats"
+    "sfCe7fS9daM:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "age 32",
+   "detail": "Age 32",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p15"
@@ -206,63 +224,53 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "assists and usage expected to drop with Haliburton back",
+   "detail": "Assists and usage expected to drop with Haliburton back",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p17",
     "EGdhmUgPAWY:p12",
     "EGdhmUgPAWY:p14",
-    "OdDkXFhoKsc:p37"
+    "-DN4P92Wp8Y:p17"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "shares the ball with Tyrese Haliburton",
+   "detail": "Shares the ball with Tyrese Haliburton",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p12",
-    "EGdhmUgPAWY:p14"
+    "-DN4P92Wp8Y:p17"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at ESPN rank 24 to 25 (ESPN value 29 USD)",
+   "detail": "At ESPN rank 24 to 25 and ESPN prices",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p13",
-    "uarqbNA2dFk:p40"
+    "uarqbNA2dFk:p40",
+    "QbdrhJd7LiA:p35"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 59, 17 USD; ESPN rank 25, 29 USD",
+   "detail": "Yahoo rank 61 and value 17 USD, ESPN rank 25 and value 29 USD",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "back-to-back risk",
-   "channel": "current",
-   "detail": "Carlisle rests players on back-to-backs; Indiana has 15",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:t2",
-    "EGdhmUgPAWY:t5"
+    "stats",
+    "EGdhmUgPAWY:p11"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21 for a March 28 end",
+   "detail": "3-4-3 games in weeks 19 to 21 with a March 28 end",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5"
@@ -272,7 +280,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "46 to 48 wins projected",
+   "detail": "Projected 46 to 48 wins",
    "until": "",
    "sources": [
     "sfCe7fS9daM:t5",
@@ -281,6 +289,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Experts put him in the 50 to 60 range in category leagues. Yahoo's 17 USD value (rank 59) fits that. ESPN's 29 USD (rank 25) and the 25 USD he cost in our league last season are bust prices for a player whose assists and usage should drop with Haliburton back. He is a solid punt FT% piece with F and C eligibility. Early in the season, check his assists, his usage next to Haliburton and whether Carlisle trims his minutes or rests him on back-to-backs.",
+ "note": "The experts value him around picks 50 to 60 in category leagues, which matches his Yahoo rank of 61 and Yahoo value of 17 USD. He is not worth the ESPN value of 29 USD or the 25 USD our league paid last season. His points and FG% on volume plus a weak FT% make him a natural fit for punt FT% builds, and his steady game-to-game output is a plus in head-to-head. Early in the season, check how far his assists and usage fall next to Haliburton and whether Carlisle trims his minutes. Indiana's 3-4-3 playoff schedule is a small minus.",
  "rejected": []
 }

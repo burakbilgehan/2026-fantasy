@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 135 | 0 | 1.2 | 148 | not drafted |
+| 2026-27 | 1 | 1.5 | 135 | 0 | 1.2 | 148 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,31 +24,33 @@
 | REB | 5.0 | -0.1 | +0.3 | - |
 | AST | 4.4 | +0.6 | +0.7 | - |
 | STL | 0.8 | -0.4 | -0.5 | - |
-| BLK | 0.3 | -0.7 | -0.7 | - |
+| BLK | 0.3 | -0.7 | -0.8 | - |
 | TO | 1.5 | +0.3 | +0.3 | - |
 
 </details>
 
 **Current**
-- He is projected to start at forward. The projected opening lineup is Rollins, Herro, Jaquez, Kuzma and Turner. Milwaukee's power forward group is very thin. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
-- The starting lineup could change by December or March, so his starting role is not secure. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
-- A trade is possible. The experts say the roster needs trades to consolidate and that he does not fit well with Kuzma, Porter and Herro. One note named Denver as a possible destination. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
-- His assists should drop because Milwaukee has so many ball handlers. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1086), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-02](https://youtu.be/ZYllcj4o6_A?t=2211))
+- Yahoo lists him as questionable for rest. (fact, 2026-10-16; stats)
+- Milwaukee's rotation is very unclear. The team has many guards fighting for minutes, and new coach Taylor Jenkins might use a deep rotation. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
+- He is projected to start for Milwaukee, likely at forward because the power forward group is thin. The projected opening lineup is Rollins, Herro, Jaquez, Kuzma and Turner, and it could change by December or March. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [08-14](https://youtu.be/owlM6b8oUd0?t=511), [08-14](https://youtu.be/owlM6b8oUd0?t=536), [06-23](https://youtu.be/nnWX_ObljOE?t=304))
+- His assists should drop because Milwaukee has so many ball handlers. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1086), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
 - The expert does not trust his late-season shooting surge and sees little upside. He is fine only as a late flyer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1131))
-- Milwaukee is expected to be a bad team. Its win total is 26.5. New coach Taylor Jenkins might use a deep rotation. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
-- He joined Milwaukee from Miami in the Giannis Antetokounmpo trade. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [06-23](https://youtu.be/nnWX_ObljOE?t=304))
-- Much of his production last season came when two or three Miami players were out, Herro among them. Herro is now his teammate in Milwaukee. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=324), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- A trade is possible. He was called the Miami piece most likely to be moved before the season, possibly to Denver, and Milwaukee needs trades because Kuzma, Jaquez, Porter and Herro do not fit well together. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=1463), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- Milwaukee is expected to be a bad team, around 33 wins. It does not own its draft pick, so it has no reason to tank. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- He joined Milwaukee from Miami in the Giannis Antetokounmpo trade. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=304), [08-14](https://youtu.be/owlM6b8oUd0?t=1463))
+- Much of his production last season came when two or three Miami players were out, including Herro. (fact, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=324))
 
 **Durable**
-- He makes few threes for a guard or forward. (fact, 2026-10-11; stats)
-- The experts see him as a low-end player: at best a sixth man, or a seventh or eighth man on a good team. He needs opportunity and usage to produce. (verdict, 2026-10-08; [06-23](https://youtu.be/nnWX_ObljOE?t=316), [10-08](https://youtu.be/sDzeYdUhJDI?t=1051))
-- He gets few steals and blocks. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1086), stats)
-- One expert calls him a bad shooter. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=316))
+- Threes are his weakest category for his position. A punt 3PM team loses little with him. (fact, 2026-10-16; stats, [06-23](https://youtu.be/nnWX_ObljOE?t=316))
+- FG% and assists are his best categories. He shoots a good FG% on solid volume for a wing. (fact, 2026-10-16; stats)
+- The experts rate him low. They see him at best as a sixth man, or a seventh or eighth man on a good team. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1051), [06-23](https://youtu.be/nnWX_ObljOE?t=316))
+- He gets few defensive stats. His steals and blocks are below average. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1086), stats)
+- He needs opportunity and usage to produce fantasy value. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=316))
 
 **Tags**
-- Current: `new team` (Traded from Miami to Milwaukee in the Giannis deal), `trade risk` (Seen as a poor fit with Kuzma, Porter and Herro. Denver named as a possible destination), `usage competition` (Many Bucks ball handlers, so his assists should drop), `regression risk` (Expert does not trust his late-season shooting surge), `flyer` (Late flyer only), `new coach` (Taylor Jenkins), `unsettled rotation` (Experts call it the hardest rotation to read. The lineup could change by December or March), `deep rotation` (Jenkins might use a deep rotation), `bottom team` (Win total 26.5), `trades likely` (Roster needs consolidation)
-- Durable: `usage dependent` (Needs opportunity and usage. Last season's production came largely with Miami players out), `punt 3PM fit`
+- Current: `new team` (Came from Miami in the Giannis trade), `trade risk` (Named as a likely trade piece, possibly to Denver; the roster fit with Kuzma, Porter and Herro is poor), `usage competition` (Many ball handlers (Herro, Rollins, Porter) should cut his assists), `flyer` (Late flyer only), `regression risk` (Late-season shooting surge not trusted), `questionable` (Yahoo Q (Rest)), `unsettled rotation` (Milwaukee's rotation is the one experts understand least), `new coach` (Taylor Jenkins), `bottom team` (About 33 wins expected)
+- Durable: `usage dependent` (Needs opportunity and usage; last season's production came with Miami starters out), `punt 3PM fit` (About 0.9 threes per game)
 
-**Note.** He sits at the edge of our 144-player pool. Yahoo ranks him 135, ESPN 148, and both price him at about 1 USD, so spend no more than 1 USD as a late flyer, mainly in punt 3PM builds. The two sites' projections differ a lot (54.2 vs 50.2 FG%, 1.0 vs 1.9 TO), and his value depends on the FG% and assists, since the expert expects the assists to fall among Milwaukee's many guards. Early in the season, check whether he holds the starting forward spot, whether his assists stay near 4 to 5 next to Herro and Rollins, and whether a trade happens.
+**Note.** He is priced right at the edge of our draft pool (Yahoo rank 135 at 1.5 USD average cost, ESPN rank 148 at 1.2 USD). The experts see him only as a 1 USD late flyer, best suited to punt 3PM builds that want FG% and assists from a wing. Early in the season, check whether he holds the starting forward spot and keeps close to the 4.7 assists and 50.7 FG% of last season with Herro and Rollins handling the ball. Also watch for trade news.
 
-<sub>7 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

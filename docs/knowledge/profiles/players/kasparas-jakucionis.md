@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 342 | 0 | 0.0 | 237 | not drafted |
+| 2026-27 | 0 | - | 343 | 0 | 0.0 | 237 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,27 +22,26 @@
 | REB | 3.2 | -0.8 | -0.4 | - |
 | AST | 3.3 | +0.1 | -0.3 | - |
 | STL | 0.7 | -0.6 | -0.9 | - |
-| BLK | 0.2 | -0.8 | -0.8 | - |
+| BLK | 0.2 | -0.9 | -0.8 | - |
 | TO | 1.2 | +0.6 | +0.8 | - |
 
 </details>
 
 **Current**
-- Milwaukee's guard rotation is crowded. Rollins, Herro, Porter, Burries, Trent, Green and Jakučionis all compete for backcourt minutes. (fact, 2026-10-09; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
-- His role is not clear. He will probably be in the rotation, but Gary Trent Jr. could take that spot instead. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1663), [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
-- Experts call Milwaukee the rotation they understand least and have low confidence in how minutes will be split. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054), [08-11](https://youtu.be/OdDkXFhoKsc?t=1811))
-- New coach Taylor Jenkins might use a deep rotation, which would spread guard minutes further. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
-- Milwaukee could use him as a trade chip, valued like a first-round pick. The roster has too many players and needs trades to consolidate. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=693), [08-14](https://youtu.be/owlM6b8oUd0?t=115), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
-- He was seen as the deal breaker in the Giannis trade. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
-- He posted good assist and steal numbers in summer league. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
+- The Milwaukee rotation is very unclear. New coach Taylor Jenkins' rotations are hard to predict, and he might use a deep rotation. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- He is not among the projected Bucks starters. The backcourt is crowded with Herro, Rollins, Porter, Burries, Trent and Green. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418))
+- He will probably be in the rotation, but Gary Trent Jr. could take that spot instead. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1663))
+- Milwaukee could use him as a trade chip, and he is valued like a first-round pick. The roster needs trades to consolidate. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=693), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- Experts call him the deal breaker in the Giannis trade. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=693))
+- He had good assist and steal numbers in Summer League. One expert stays skeptical because he has no clear role in Milwaukee. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1163))
 
 **Durable**
-- He is better in category leagues than in points leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1659))
+- He is worth more in category leagues than in points leagues. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1659))
 
 **Tags**
-- Current: `minutes competition` (Crowded Bucks backcourt; Gary Trent Jr. could take his rotation spot), `unsettled rotation` (Experts call the Bucks rotation the hardest to read), `deep rotation` (New coach Taylor Jenkins might use a deep rotation), `trade risk` (Could be used as a trade chip valued like a first-round pick), `waiver watch` (Ranked far outside the 144 drafted players; watch if he holds a rotation spot)
+- Current: `minutes competition` (Gary Trent Jr. could take his rotation spot. Crowded backcourt.), `unsettled rotation` (Bucks backcourt and rotation very unclear), `deep rotation` (Jenkins might use a deep rotation), `trade risk` (Could be used as a trade chip valued like a first-round pick), `trades likely` (Roster needs trades to consolidate), `new team` (Key piece in the Giannis trade), `new coach` (Taylor Jenkins)
 - Durable: `category league player`
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 342, ESPN rank 237), so he should not be one of the 144 players drafted on 2026-10-18. ESPN projects about 8 points, 3.3 assists and 1.5 threes in 22.6 minutes. No category stands out and none is weak enough to make him a punt fit. Early in the season, check whether he holds a rotation spot over Gary Trent Jr. in the crowded Bucks backcourt, and watch for trade news. If his minutes grow, he is a waiver add for assists, FT% and a low turnover rate.
+**Note.** Yahoo ranks him 343 and ESPN ranks him 237. Both sites value him at 0 USD, so he is well outside the 144 players we draft. Do not bid on him. His projected line of about 8 points and 3.3 assists has no category outlier and is below the pool in points, rebounds, steals and blocks. In the first weeks, check whether he keeps a rotation spot ahead of Gary Trent Jr. and whether a trade moves him to a team where he has a clearer role.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

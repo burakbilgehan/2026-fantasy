@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 231 | 0 | 0.0 | 191 | not drafted |
+| 2026-27 | 0 | - | 233 | 0 | 0.0 | 191 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | 3PM | 1.7 | +0.3 | +0.1 | - |
 | PTS | 11.8 | -0.4 | -0.4 | - |
 | REB | 4.8 | -0.1 | +0.2 | - |
-| AST | 1.5 | -0.9 | -1.1 | - |
+| AST | 1.5 | -0.9 | -1.0 | - |
 | STL | 0.8 | -0.4 | -0.5 | - |
 | BLK | 0.3 | -0.5 | -0.4 | - |
 | TO | 1.1 | +0.7 | +0.7 | - |
@@ -29,26 +29,25 @@
 </details>
 
 **Current**
-- Harden is in Cleveland for a full season next to Mitchell, so more players need the ball. (fact, 2026-10-09; [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [10-09](https://youtu.be/-DN4P92Wp8Y?t=608))
-- He is projected as Cleveland's sixth man. The projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen, and the projected bench is Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1323), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=510))
-- Cleveland lost Dennis Schroder, Keon Ellis, Max Strus and Dean Wade, all rotation players. The Strus trade partly cleared space for Tyson. (fact, 2026-09-29; [08-24](https://youtu.be/rnq3118kfhY?t=467), [08-24](https://youtu.be/rnq3118kfhY?t=329), [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044))
-- The experts expect a much bigger role in his third season. His minutes should stay high, and he could play close to starter's minutes off the bench. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044), [08-24](https://youtu.be/rnq3118kfhY?t=467))
-- Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games he shot 37%. (fact, 2026-09-29; [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-29](https://youtu.be/NmdNvAz08oE?t=1670))
-- The experts agree that the 45% three-point shooting will not repeat. Danny thinks above 40% is possible. Josh is not convinced that the minutes will turn into fantasy value, because much of his value came from hot shooting. (verdict, 2026-09-29; [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [09-10](https://youtu.be/W-R1dzem32s?t=2049))
-- In a bench role he projects around rank 150 to 170. If a player ahead of him misses about 20 games, he would finish well above that. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670))
-- He is a late-round swing pick and a flyer if his role grows. He matters more in 14-team and deeper leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1629), [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-07](https://youtu.be/gJUBAJaHzlU?t=2038))
-- Cleveland has the most back-to-backs in the league. With a March 28 end, they play 4, 3 and 2 games in fantasy playoff weeks 19 to 21, so there is only a two-game week in the finals. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
-- Danny says his next step is to average 15 to 16 points on good efficiency as a secondary creator. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1565))
+- With our March 28 end date, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks. The two-game week is the finals week. (fact, 2026-10-13; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [10-13](https://youtu.be/EogBYa24Gto?t=389))
+- Cleveland lost Dennis Schroder, Keon Ellis, Max Strus and Dean Wade this offseason. All were rotation players. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=329), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-10](https://youtu.be/W-R1dzem32s?t=2049))
+- He is projected as the sixth man behind a starting five of James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1323), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=510))
+- Experts expect his minutes to stay high and his role to grow in year three. He could play close to starter's minutes and cover positions one through three. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-10](https://youtu.be/W-R1dzem32s?t=2049), [09-10](https://youtu.be/W-R1dzem32s?t=2044), [08-24](https://youtu.be/rnq3118kfhY?t=467))
+- Last season he shot about 45% from three, up from 35% the season before. Over his final 16 games he shot 37%. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467))
+- Experts do not expect the 45% three-point shooting to repeat. One thinks above 40% is still possible. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670), [07-16](https://youtu.be/-y6p5PYLf00?t=497), [08-24](https://youtu.be/rnq3118kfhY?t=467), [09-10](https://youtu.be/W-R1dzem32s?t=2049))
+- In a bench role he projects around 150 to 170 overall. A 20-game absence by a player ahead of him would push him well past that. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1670))
+- He is a late-round swing pick and a possible flyer if his role grows. He matters more in 14-team and deeper leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1629), [09-29](https://youtu.be/NmdNvAz08oE?t=1699), [09-07](https://youtu.be/gJUBAJaHzlU?t=2038))
+- Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
+- The experts disagree on his upside. Josh is not convinced the bigger role turns into fantasy value and wants a bigger sample. Danny sees a next step of 15 to 16 points on good efficiency as a secondary creator. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=2049), [08-24](https://youtu.be/rnq3118kfhY?t=1621), [08-24](https://youtu.be/rnq3118kfhY?t=1565))
 
 **Durable**
-- He can cover positions one through three. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1699))
-- His production was strong when teammates such as Strus, Hunter and Wade were out, and it faded when they returned. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), [07-16](https://youtu.be/-y6p5PYLf00?t=497))
-- He has had a high passing turnover rate and low assist numbers. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621))
+- His production was strong when teammates were out and faded when they returned. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621), [07-16](https://youtu.be/-y6p5PYLf00?t=497))
+- Last season he had a high passing turnover rate and low assist numbers. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1621))
 
 **Tags**
-- Current: `role up` (Schroder, Ellis, Strus and Wade are gone; he could play close to starter's minutes as sixth man), `regression risk` (About 45% from three last season, 37% over his final 16 games), `flyer` (Late-round swing pick if his role grows), `handcuff` (Value jumps when Harden, Mitchell or Watson miss time; a 20-game absence would lift him well above rank 150 to 170), `usage competition` (Bench role behind Harden and Mitchell, who both need the ball), `waiver watch` (Experts see him as more relevant in 14-team and deeper leagues), `thin rotation` (Bench lost Schroder, Ellis and Strus), `many back-to-backs` (Most back-to-backs in the league), `bad playoff schedule` (4, 3, then 2 games in weeks 19 to 21; two-game finals week)
-- Durable: none
+- Current: `role up` (Schroder, Ellis and Strus gone; projected sixth man with near-starter minutes), `regression risk` (45% from three last season, 37% over final 16 games), `flyer` (late swing pick if his role grows), `waiver watch` (experts see him as more relevant in 14-team and deeper leagues), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3, 2 games in weeks 19 to 21; two-game finals week)
+- Durable: `usage dependent` (produced when teammates were out, faded when they returned)
 
-**Note.** Tyson is priced at 0 USD on Yahoo (rank 231) and ESPN (rank 191). The experts project him around rank 150 to 170 as a sixth man, which puts him just outside the 144 players our league drafts. He is a last-dollar flyer at most and mainly a waiver watch. His category profile has no outlier: assists are his weakest category, and turnovers stay low. Early in the season, check whether his minutes stay close to a starter's load, whether his three-point shooting holds near 40%, and whether Harden, Mitchell or Watson miss time. His two-game finals week makes him a weak hold for the fantasy playoffs.
+**Note.** Both sites value him at 0 USD and rank him outside our 144 drafted players (Yahoo 233, ESPN 191). In our 12-team league he is at most a 1 USD last-round flyer, and more likely a waiver add. His projected line is close to neutral in every category, but it brings little in AST, STL or BLK. The 37% three-point shooting over his final 16 games and the expert range of 150 to 170 in a bench role both point to a waiver-level player unless injuries to Harden, Mitchell or Watson open up starter's minutes. Early in the season, check how many minutes he gets as sixth man and whether his three-point percentage stays near 40%. Also keep in mind the two-game finals week and Cleveland's league-high number of back-to-backs.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

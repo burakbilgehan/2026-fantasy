@@ -30,21 +30,21 @@
 </details>
 
 **Current**
-- He will probably get the last rotation spot, so his minutes will be small. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1612))
-- Coach Ime Udoka is defense-first and plays his starters very heavy minutes. This leaves few minutes for a bench guard like him. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152))
-- With our March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- Houston's guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart and Reed Sheppard. He is part of a full bench with Smart, Sheppard and Steven Adams. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090))
-- He signed with Houston on a minimum contract this offseason. (fact, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
-- The experts think he might be washed. One of them still sees him as an upgrade over Aaron Holiday. (verdict, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
+- He will probably get the last spot in the rotation. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1612))
+- Coach Ime Udoka plays his starters very heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- With our March 28 end date, Houston plays 3, 3 and 4 games in fantasy playoff weeks 19 to 21, 10 games in total. The team has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970), [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Houston's guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart and Reed Sheppard. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- He signed with Houston on a minimum contract. (fact, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
+- Experts, Lloyd among them, think he might be washed. (verdict, 2026-08-12; [07-02](https://youtu.be/P6TNP-g0wzY?t=1459), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
+- He is seen as an upgrade over Aaron Holiday on the Houston bench. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=213))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `new team` (Signed with Houston on a minimum contract), `minutes competition` (Crowded Houston guard rotation. Projected as the last rotation player.), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Projected 54 wins)
-- Durable: `age decline watch` (Experts think he might be washed), `heavy starter minutes` (Udoka plays his starters very heavy minutes, which limits bench roles), `defense-first` (Udoka gives little room for error to players who struggle on defense)
+- Current: `new team` (Signed with Houston on a minimum contract), `minutes competition` (Crowded Houston guard rotation with VanVleet, Thompson, Smart and Sheppard; likely the last rotation spot), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with the March 28 end), `few back-to-backs` (Houston has 14 back-to-backs)
+- Durable: `age decline watch` (Experts say he might be washed), `heavy starter minutes` (Udoka plays his starters heavy minutes, so a bench guard gets little)
 
-**Note.** Bogdanović should not be drafted in our league. Yahoo ranks him 408th and ESPN 277th, both sites value him at 0 USD, and only 144 players get drafted. He projects for about 18 minutes as Houston's last rotation player under a coach who gives his starters heavy minutes. His projections help only in FT% on tiny volume and in turnovers, and they are low in points, rebounds, steals and blocks. Watch him on waivers only if Houston's guards get hurt early in the season.
+**Note.** Both sites give him 0 USD of value and rank him 408 (Yahoo) and 277 (ESPN), far outside the 144 players we draft, so do not draft him. He projects for about 18 minutes as the last man in a deep Houston guard group under a coach who plays his starters heavy minutes. His only categories that are not negative are FT% and low turnovers, and they come on tiny volume. Early in the season, check only whether a guard injury gives him real minutes and whether his shooting has recovered from 38.8% FG last season.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

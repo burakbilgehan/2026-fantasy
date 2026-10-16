@@ -70,56 +70,50 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:53:42+00:00",
+ "built_at": "2026-10-16T12:52:10+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1374968,
-  "duration_ms": 51076,
+  "cost_usd_list": 0.16534079999999998,
+  "duration_ms": 66293,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Treat last season's stats as a starting point, not a price tag. Before the 2026-10-18 auction, cut back numbers built on injured teammates, tanking stretches, hot streaks and rested low-minute samples. Do not throw out a good player because of one bad or hidden season either. During the season, sell fill-in starters while they still look like starters, and well before the 2027-03-04 trade deadline.",
+ "summary": "Last season's stats are where you start, not the answer. Before the 2026-10-18 auction, check every line you plan to pay for: were teammates out, was it a tanking stretch, a hot streak, a limited-minutes sample or a Finals hangover? Then bid on the player's likely role with a healthy roster. In-season, trade away fill-in starters while their numbers are at their peak, and do so before the 2027-03-04 deadline.",
  "sections": [
   {
-   "heading": "Start from last season, then adjust",
+   "heading": "Use last season as a base, then adjust it",
    "paragraphs": [
     {
-     "text": "Last season's line is the base. It is not the answer. Production follows minutes, role and opportunity, and all three can change over a summer. Take the past numbers, then adjust for teammates who arrived and teammates who left. Before you bid, play the prediction game. Write down a realistic stat line in our nine categories and ask whether it justifies the price you are about to pay.",
+     "text": "Start from last season's production. Then adjust it for what has changed: new teammates, lost teammates, minutes and role. Production follows minutes, role and opportunity, and all three can change over a summer. A projection describes what can happen next. It is not a copy of last year.",
      "sources": [
       "W-R1dzem32s:r2",
       "skKXe2CRl8Q:r5",
+      "XSPJL_mlFXo:r0",
+      "W-R1dzem32s:r1"
+     ]
+    },
+    {
+     "text": "Play the prediction game before every bid. Write down a realistic 9-cat line for the player: points, threes, rebounds, assists, steals, blocks, turnovers, and his FG% and FT% at his shot volume. Then ask whether that line justifies the price on your sheet. Last season's finish is not the final word, but it shows how much the player has to improve to earn his rank.",
+     "sources": [
       "QbdrhJd7LiA:r6",
-      "XSPJL_mlFXo:r0"
+      "QbdrhJd7LiA:r8"
      ]
     },
     {
-     "text": "Last season's rank still has a use. It shows how much a player must improve to earn his current cost. A player priced well above last season's finish needs a real reason to jump, like a bigger role or a returning teammate leaving. If you cannot name that reason, let someone else pay.",
+     "text": "ADPs and pre-draft values tend to just follow last season's finish. If you draft straight off last year's rankings, two things happen. You miss the players you should jump to grab, and you pay early for players everyone else is right to avoid. In a 12-team auction you can bid on anyone. Use that to pay more than the room for players whose context was bad last year and less for those whose context was flattering.",
      "sources": [
-      "QbdrhJd7LiA:r8",
-      "xHRF06_E9HE:r6"
-     ]
-    },
-    {
-     "text": "Myopia cuts both ways. Do not overpay for one good season. Do not write a player off after one bad season either. Stats from a tanking stretch, an injury or a minutes cap can hide a player's real value. Market prices tend to follow last season, so the players who look bad on last season's list are where the auction discounts are. Use last season's top and bottom lists as a baseline, not as a reason to buy or fade. Also ignore whether a player won or ruined your league last year. That season will not repeat.",
-     "sources": [
-      "s28HvC2grAk:r0",
-      "ZYllcj4o6_A:r9",
-      "7BllEsdNLoM:r9",
       "Bi1cEM03k9Y:r6",
-      "ME-r173X5b0:r19",
-      "3Qm5wLjhvTw:r5"
+      "-KS_AZjZnw4:r0"
      ]
     },
     {
-     "text": "The experts do not fully agree on how far back to look. Most of the notes say to check several seasons and the career range, for example when judging games played. One note says multi-year history does not predict better than last season alone. Both sides agree on one thing: do not draft straight off last season's rankings. The speaker who rejects ranking-only drafting warns that you miss the players worth jumping for and take crowd-avoided players too early. In practice, use the extra seasons to explain the context behind last year. Do not average them blindly.",
+     "text": "The experts disagree on how much history to use. Most of the notes say to look at more than one season, for example when comparing games played, and to check a player's career range. One note pushes back: using multi-year history did not predict better than last season alone. A related split: some people say projections are pointless and you can draft from last season's rankings, and the speaker in that note disagrees. Our approach: start from last season, but use earlier seasons to check whether last year was the normal case or the odd one.",
      "sources": [
       "QbdrhJd7LiA:r7",
-      "W-R1dzem32s:r1",
       "ME-r173X5b0:r0",
       "8d--aL_xxwE:r15",
-      "-KS_AZjZnw4:r0",
       "-KS_AZjZnw4:r1"
      ]
     }
@@ -129,97 +123,95 @@
    "heading": "Games with teammates out",
    "paragraphs": [
     {
-     "text": "Big numbers posted while key teammates were injured are hard to repeat once those teammates come back. Scale them down. Be extra careful when the production came mainly while two or three teammates were out. Before you bid, check who was around the player, who was missing, and how the coach used him when the team was healthy.",
+     "text": "Numbers a player posts while key teammates are injured are hard to repeat once those teammates return. Scale them back. Be most careful when a player produced mainly while two or three teammates were out at once. Before you bid, check who was out during his best games and how he is used when the team is healthy.",
      "sources": [
       "uarqbNA2dFk:r3",
       "dlo7L8Ru91A:r5",
+      "W-R1dzem32s:r8",
+      "gJUBAJaHzlU:r10",
       "nnWX_ObljOE:r2",
-      "H9q2FT3LhNw:r2",
-      "gJUBAJaHzlU:r10"
+      "H9q2FT3LhNw:r2"
      ]
     },
     {
-     "text": "One note gives a hard anchor. A bench player who put up numbers in big injury minutes should be valued near his healthy-team role, around 150th, unless something changes. Our draft takes 144 players, so 150th sits just outside the drafted pool. That player is a 1 USD end-of-roster pick at most, or a waiver add.",
+     "text": "Do not lean on stats from games when one star sat if the roster has since added other high-usage players. That data does not fit the new situation. Players whose scoring came only from injury-driven usage tend to produce much less when asked to scale back. A player's best breakout chance is the season with the most opening. When the stars return, expect a step back, not growth.",
+     "sources": [
+      "Bi1cEM03k9Y:r5",
+      "hm5-fiCa5S4:r5",
+      "TiiaNZCJNs8:r2"
+     ]
+    },
+    {
+     "text": "Value bench players who filled big minutes during injuries closer to their healthy-team role. One note puts that at around 150th unless something changes. Our league drafts 144 players, so 150th is roughly a waiver-level player. Pay 1 USD at most for him as a last bench spot, or leave him for waivers.",
      "sources": [
       "hm5-fiCa5S4:r3"
      ]
     },
     {
-     "text": "Scoring built on borrowed usage shrinks the most. Players who score big only when injuries push their usage up produce much less when asked to scale back. Off-court splits from when one star sat can also go stale. If the roster has since added other high-usage players, those splits do not fit the new situation. The same goes for position. Stats a wing piled up while playing center may not hold once he moves back to his normal spot on a healthy team.",
+     "text": "Position and lineup context matter too. A wing who piled up rebounds and blocks while playing center may lose them when he moves back to his normal position on a healthy team. Shooting efficiency also depends on who he plays with. Next to stars who draw defenders he gets more open looks than he does as the lone creator on a bench unit. FG% is a team ratio in our league, so this matters most for high-volume shooters.",
      "sources": [
-      "hm5-fiCa5S4:r5",
-      "Bi1cEM03k9Y:r5",
-      "-KS_AZjZnw4:r5"
-     ]
-    },
-    {
-     "text": "Shooting percentages depend on lineup context too. Playing next to stars who draw defenders creates open looks. Playing as the lone creator on a bench unit does not. In our league FG% and FT% are team ratios, and high-volume shooters move them most. So before you pay for a high-volume shooter, check which lineup his percentages came from.",
-     "sources": [
+      "-KS_AZjZnw4:r5",
       "75Sk_4fkgIM:r3"
      ]
     }
    ]
   },
   {
-   "heading": "Late-season tanking and post-deadline numbers",
+   "heading": "Late-season stretches and tanking teams",
    "paragraphs": [
     {
-     "text": "Big March and April numbers on tanking teams mean little. Everyone is out and the team is trying to lose. Late-season usage spikes often come in meaningless games. Backup stats from March and April are often not real, and they stop being trustworthy once the team adds players ahead of them. One expert is especially skeptical of late-season production from Sacramento.",
+     "text": "Big March and April numbers from tanking teams mean little. The team is trying to lose, many players are out, and late-season usage spikes often come in meaningless games. Late numbers are inflated for two reasons: teammates sit out, and so do players on opposing teams. Discount late-season shooting in particular. Backup stats from March and April are often not real, and they stop counting once the team adds players ahead of them. One note says to be very skeptical of late-season production from Sacramento.",
      "sources": [
       "CI4k8ofUXXk:r1",
       "dlo7L8Ru91A:r6",
       "FxaSnyk9g90:r1",
+      "xHRF06_E9HE:r3",
       "9tb1ARBEmQU:r2",
+      "W3THnI7wWdA:r5",
       "xHRF06_E9HE:r7"
      ]
     },
     {
-     "text": "Late-season shooting is inflated twice over. Teammates sit, and so do players on the opposing teams. Discount late-season FG% and FT% before you count them toward our ratio categories.",
+     "text": "The notes do not all point the same way on tanking. Most say tanking-stretch stats inflate fill-in players. One note says a tanking stretch can understate a player's real value, for example when a good player's role or minutes are cut while the team loses on purpose. Another says post-deadline numbers are neither all fake nor all real. So check each case: will the conditions behind the rise or the dip still exist this season?",
      "sources": [
-      "xHRF06_E9HE:r3"
+      "7BllEsdNLoM:r9",
+      "xHRF06_E9HE:r5",
+      "dlo7L8Ru91A:r6"
      ]
     },
     {
-     "text": "Do not throw out every post-deadline number, though. Check each case: will the conditions behind the rise still exist this season? One expert starts second-half splits on the Monday after the trade deadline. That skips the chaotic stretch when traded players are moving and rosters are thin. And as noted above, a tanking stretch can understate a good player's value as well as inflate a backup's.",
+     "text": "When you read split data, note where the split starts. One source starts second-half splits on the Monday after the trade deadline. That skips the odd stretch when traded players are moving and rosters are thin. Any big jump into top-50 numbers needs a closer look at why and how it happened before you pay for it.",
      "sources": [
-      "xHRF06_E9HE:r5",
       "xHRF06_E9HE:r0",
-      "7BllEsdNLoM:r9"
+      "xHRF06_E9HE:r6"
      ]
     }
    ]
   },
   {
-   "heading": "Hot streaks and limited-minute samples",
+   "heading": "Hot streaks and hype",
    "paragraphs": [
     {
-     "text": "After an extreme hot stretch, such as a post All-Star run, use the earlier part of the season as the baseline. Expect the shooting to come down. Before trusting hot shooting from a stretch with teammates injured, look for a bigger sample of about 45 to 50 games. Watch for highlight-reel bias. A few early big games can create hype the full season does not support. Judge the player on his percentages and category output, not the story around him.",
+     "text": "When a player has an extreme hot stretch, such as a post All-Star run, use the earlier part of his season as the baseline and expect his shooting to come down. Hot shooting while teammates were injured may not last once the rotation is healthy. Look for a sample of around 45 to 50 games before you trust a shooting jump.",
      "sources": [
       "H9q2FT3LhNw:r1",
-      "rnq3118kfhY:r1",
-      "RyzcCGChYgs:r3",
-      "Rqb5GdrSweY:r7",
-      "skKXe2CRl8Q:r6"
+      "rnq3118kfhY:r1"
      ]
     },
     {
-     "text": "When many players on one team had career years at once, expect some of them to regress, often together. Fans and media tend to treat a team-wide hot streak as the new normal. That is your cue not to pay for every player on that roster.",
+     "text": "When many players on one team have career years at once, expect some of them to regress, often all at the same time. Fans and media tend to treat a team-wide hot streak as the new normal. Do not pay full price for every member of that team.",
      "sources": [
       "hm5-fiCa5S4:r0",
       "hm5-fiCa5S4:r1"
      ]
     },
     {
-     "text": "Limited-minute samples need the same care. Strong numbers posted with lots of rest, such as no back-to-backs or playing every other game, should be scaled back. Games played can also overstate a healthy sample. Many of Jalen Williams' 40 games were limited-minute games while he recovered from injuries. The opposite trap also exists. Playing every game adds nothing if the per-game line would not be rostered in a 12-team league.",
+     "text": "Watch for highlight-reel bias and narrative. Early big games can create hype that the overall production does not support. Be skeptical of preseason 'maybe he gets the minutes' stories, because opportunity and shooting spikes often do not happen. Judge the actual percentages and category output, and ask why something happened and whether it can happen again. In-season, the same rule applies both ways: do not drop proven players in a cold stretch, and do not chase hot streaks that will normalize.",
      "sources": [
-      "LcZcvk8s1xQ:r0",
-      "75Sk_4fkgIM:r0",
-      "uarqbNA2dFk:r4"
-     ]
-    },
-    {
-     "text": "In season, react correctly to streaks. Stats are volatile, and no player matches his averages every night. Do not drop proven players during a cold stretch. Do not spend FAB or one of your six weekly adds chasing a hot streak that will normalize.",
-     "sources": [
+      "RyzcCGChYgs:r3",
+      "4kKINkZhWls:r1",
+      "Rqb5GdrSweY:r7",
+      "skKXe2CRl8Q:r6",
       "skKXe2CRl8Q:r14",
       "skKXe2CRl8Q:r27"
      ]
@@ -227,14 +219,31 @@
    ]
   },
   {
-   "heading": "Finals hangovers",
+   "heading": "Limited minutes, games played and Finals hangovers",
    "paragraphs": [
     {
-     "text": "Teams coming off a Finals run may have a hangover, and their players are unlikely to repeat last season's production. Players often start slow after a long championship run, with production dips and fatigue. Defending champions tend to rest players and trim starters' minutes early in the season. Teams coming off long playoff runs may stay careful with their main players' minutes. Before the auction, check which teams went deep last spring. Price their key players for fewer minutes in the first weeks, not for last season's full line.",
+     "text": "Strong numbers posted in limited minutes with a lot of rest should be scaled back when you project the next season. That means no back-to-backs, or playing only every second game. Games played can also overstate a real healthy sample. One note says many of Jalen Williams' 40 games were limited-minute games while he recovered from injuries. Check the minutes in each game, not just the games count.",
+     "sources": [
+      "LcZcvk8s1xQ:r0",
+      "75Sk_4fkgIM:r0",
+      "CRLSsoGhb2w:r2",
+      "7BllEsdNLoM:r7",
+      "sTtFUy7IoJI:r1"
+     ]
+    },
+    {
+     "text": "The reverse also holds. Playing every game adds nothing if the player's per-game production is unrosterable. Our lineups are set daily, so a player only helps on the days his per-game line beats your other options. Compare games played across more than one season before paying for durability.",
+     "sources": [
+      "uarqbNA2dFk:r4",
+      "QbdrhJd7LiA:r7"
+     ]
+    },
+    {
+     "text": "Teams coming off a Finals run may have a hangover. Their players are unlikely to repeat last season's production. They often start slow, with production dips and fatigue. Defending champions tend to rest players and trim starters' minutes early in the season, and teams coming off long runs may be careful with their main players' minutes all year. Bid on these players expecting fewer minutes, not last season's full line.",
      "sources": [
       "7BllEsdNLoM:r10",
-      "OdDkXFhoKsc:r5",
       "J1Eg3uaAICU:r9",
+      "OdDkXFhoKsc:r5",
       "okN3fbHJtlA:r0",
       "LM0cRCGoAUQ:r7"
      ]
@@ -242,22 +251,34 @@
    ]
   },
   {
-   "heading": "When to sell a fill-in starter",
+   "heading": "Myopia in both directions, and when to sell a fill-in starter",
    "paragraphs": [
     {
-     "text": "When a player who is not a real starter puts up starter numbers, sell him right away. Those numbers will not get better. A player's best breakout chance is the season with the most opening. When the stars return, expect a step back, not growth. Once the injured starters are back, he goes back to a reserve role.",
+     "text": "Single-season myopia cuts both ways. One bad season does not make a player bad. One good season does not make him good. Do not value a player by whether he won or ruined your league last year, because last season will not repeat. Use last season's top and bottom lists as a baseline only, not as a reason to fade or buy. At the auction, bad-context seasons such as injuries, minutes limits or a tank are where you can buy below value. Good-context seasons are where you let others overpay.",
      "sources": [
-      "4kKINkZhWls:r3",
-      "TiiaNZCJNs8:r2",
-      "W3THnI7wWdA:r5",
-      "W-R1dzem32s:r8"
+      "ZYllcj4o6_A:r9",
+      "s28HvC2grAk:r0",
+      "3Qm5wLjhvTw:r5",
+      "ME-r173X5b0:r19",
+      "ME-r173X5b0:r0",
+      "W-R1dzem32s:r1"
      ]
     },
     {
-     "text": "Sell before the team starts trying to win again, because those chances will not come back. In our league that means trading him while his recent lines still look like a starter's. Trades are common here and the deadline is 2027-03-04, so do not wait until the last week. Also be skeptical of preseason 'maybe he gets the minutes' stories. Opportunity spikes and shooting spikes often never happen, so do not pay up for them on 2026-10-18.",
+     "text": "Sell a fill-in starter while his numbers are at their peak. When a player who is not a real starter is putting up starter numbers, trade him then, because the numbers will not get better. Sell players whose stats come from fill-in roles before the team gets its starters back or starts trying to win, because those chances will go away. Do not wait to see the drop.",
      "sources": [
+      "4kKINkZhWls:r3",
       "CI4k8ofUXXk:r2",
-      "4kKINkZhWls:r1"
+      "W3THnI7wWdA:r5"
+     ]
+    },
+    {
+     "text": "Here is how that works in our league. If you pick up a fill-in starter on waivers with FAB, hold him while the injured starter is out. Shop him to the experienced managers once there is news of the starter's return. The trade deadline is 2027-03-04, before our playoffs in weeks 19 to 21, so any fill-in starter you want to sell must be gone by then. Do not pay at the 2026-10-18 auction for last March's fill-in numbers. Bid on the healthy-team role.",
+     "sources": [
+      "4kKINkZhWls:r3",
+      "CI4k8ofUXXk:r2",
+      "9tb1ARBEmQU:r2",
+      "hm5-fiCa5S4:r3"
      ]
     }
    ]

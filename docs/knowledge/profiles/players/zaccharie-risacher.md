@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 273 | 0 | 0.0 | 216 | not drafted |
+| 2026-27 | 0 | - | 246 | 0 | 0.0 | 216 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,9 +19,9 @@
 | FG% | 46.1% | -0.3 | -0.3 | - |
 | FT% | 68.2% | -0.7 | -0.6 | - |
 | 3PM | 1.5 | +0.0 | -0.0 | - |
-| PTS | 10.4 | -0.6 | -0.7 | - |
+| PTS | 10.4 | -0.6 | -0.6 | - |
 | REB | 3.8 | -0.6 | -0.7 | - |
-| AST | 1.2 | -1.1 | -1.1 | - |
+| AST | 1.2 | -1.0 | -1.0 | - |
 | STL | 0.9 | -0.1 | -0.1 | - |
 | BLK | 0.5 | -0.2 | -0.1 | - |
 | TO | 1.0 | +0.9 | +0.8 | - |
@@ -30,20 +30,18 @@
 
 **Current**
 - Josh projects Risacher as the 10th man in the Dallas rotation, maybe lower. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1563))
-- His minutes kept dropping during last season. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1563))
-- Dallas has too many wings and forwards who expect minutes, so frontcourt minutes are crowded. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
-- Dusty May is the new Dallas head coach, so the rotation is not settled. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- His minutes kept dropping through last season. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1563))
+- Dallas has too many wings and forwards who expect minutes, so frontcourt minutes are crowded. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
 
 **Durable**
-- Risacher is a low-usage forward. He hits threes, scores at a mediocre level and does little else. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1574), [07-05](https://youtu.be/4kKINkZhWls?t=203))
-- He rarely passes and gets under four rebounds a game. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1574), stats)
-- His free throw shooting is weak. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1574), stats)
-- His game is similar to Harrison Barnes. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=203))
+- Risacher is a low-usage forward who rarely passes and gets under four rebounds. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1574))
+- His game is like Harrison Barnes: he hits threes, scores at a mediocre level and adds little else. (verdict, 2026-09-29; [07-05](https://youtu.be/4kKINkZhWls?t=203), [09-29](https://youtu.be/XSPJL_mlFXo?t=1574))
+- His free throw shooting has fallen off and is a weak spot. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1574), stats)
 
 **Tags**
-- Current: `minutes competition` (crowded Dallas wing and forward group), `role down` (projected 10th man or lower after his minutes dropped last season)
+- Current: `role down` (Projected as the 10th man in the rotation or lower. His minutes kept dropping last season.), `minutes competition` (The Dallas roster is overloaded with wings and forwards.), `deep rotation` (Crowded Dallas frontcourt and wing group.)
 - Durable: none
 
-**Note.** Risacher should not be drafted in our league. Yahoo ranks him 273 and ESPN 218, both sites value him at 0 USD, and only 144 players get drafted. He has no strong category and no punt fit: his only plus is few turnovers, and threes are just average (1.5 per game). Early in the season, check whether Dusty May gives him more than the 10th-man minutes Josh projects. Otherwise leave him on waivers.
+**Note.** Risacher is not a draft target. Both sites value him at 0 USD, his ranks are 246 on Yahoo and 216 on ESPN (only 144 players are drafted here), and he was not drafted in our league last season. His projected line of about 1.5 threes and 10 points in roughly 22 minutes gives no category a real lift, and his FT% (68 percent) and assists are weak. Only follow him if injuries in the crowded Dallas forward group push his minutes up early in the season.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

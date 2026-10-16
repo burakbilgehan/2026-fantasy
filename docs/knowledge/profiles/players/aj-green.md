@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 262 | 0 | 0.0 | 238 | not drafted |
+| 2026-27 | 0 | 0.0 | 265 | 0 | 0.0 | 238 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- Experts expect Milwaukee to focus more on developing young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
-- Milwaukee's backcourt is crowded. Green competes for guard minutes with Rollins, Herro, Porter, Jakucionis, Burries and Trent. (fact, 2026-10-08; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418))
+- His Yahoo status is questionable (rest). (fact, 2026-10-16; stats)
+- Experts say the Bucks rotation is very unclear and new coach Taylor Jenkins may use a deep, unpredictable rotation. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054), [08-11](https://youtu.be/OdDkXFhoKsc?t=1811))
+- The Bucks are expected to focus more on young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- Milwaukee's backcourt is crowded. Green competes for minutes with Rollins, Herro, Porter, Jakucionis, Burries and Trent. (fact, 2026-10-08; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
 - He is not in the projected opening starting lineup of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
-- New coach Taylor Jenkins might use a deep rotation, and experts have low confidence in how Bucks minutes will be split. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
-- Experts say the roster needs trades to consolidate, so more moves are likely. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [08-14](https://youtu.be/owlM6b8oUd0?t=115), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- He has a deal of about 10 million USD per year with four more years left. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
-- He is a valuable shooter but does not fit Milwaukee's new direction, so he is a trade candidate. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
-- Experts expect the Bucks to be a bad team, at about 33 wins. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- The Bucks are expected to be a bad team and to make more roster trades, which could change his role. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [06-23](https://youtu.be/nnWX_ObljOE?t=94))
+- He is on a deal of about 10 million USD per season with four more years left. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
+- He does not fit Milwaukee's direction, so he is a trade candidate. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=360))
 
 **Durable**
-- He is a very good shooter who does not add much else. Threes are his only category above the pool average. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1447), stats)
+- Threes are his only plus category. Steals, rebounds and points are well below the top 250 pool. (fact, 2026-10-16; stats)
+- He is a very good shooter who adds little else. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1447))
 
 **Tags**
-- Current: `trade risk` (Does not fit Milwaukee's new direction; named a trade candidate), `minutes competition` (Crowded Bucks backcourt; not in the projected starting five), `new coach` (Taylor Jenkins), `deep rotation` (Jenkins might spread minutes across many guards), `unsettled rotation` (Experts call it the hardest Bucks rotation to read), `trades likely` (Roster needs consolidation), `bottom team` (About 33 wins expected)
+- Current: `trade risk` (does not fit Milwaukee's direction), `minutes competition` (crowded backcourt: Rollins, Herro, Porter, Jakucionis, Burries, Trent), `questionable` (Yahoo Q (rest)), `new coach` (Taylor Jenkins), `deep rotation` (Jenkins may use a deep rotation), `unsettled rotation`, `trades likely` (roster needs consolidation), `bottom team` (win total 26.5, about 33 wins expected)
 - Durable: none
 
-**Note.** Yahoo ranks him 262 and ESPN ranks him 238, and both value him at 0 USD. In a draft of 144 players, that puts him on waivers. His only real contribution is threes, about 2.5 per game projected. He is below average in points, rebounds, assists and steals, so he is at best a short-term threes streamer. Early in the season, check whether Jenkins gives him real minutes in the crowded Bucks backcourt and whether a trade moves him into a bigger role.
+**Note.** Both sites rank him outside our 144 drafted players (Yahoo 265, ESPN 238, 0 USD on each), and he went undrafted in our league last season. He is a threes-only bench guard on a crowded, unsettled Bucks backcourt. Leave him on waivers. Pick him up only if a trade or injury gives him starter minutes near last season's 29.1 and 3.0 threes per game.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

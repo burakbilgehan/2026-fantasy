@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 259 | 0 | 0.0 | 221 | not drafted |
+| 2026-27 | 0 | - | 262 | 0 | 0.0 | 221 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,27 +23,31 @@
 | PTS | 8.1 | -1.0 | -1.1 | - |
 | REB | 2.3 | -1.2 | -1.3 | - |
 | AST | 2.1 | -0.6 | -0.7 | - |
-| STL | 0.7 | -0.7 | -0.8 | - |
+| STL | 0.7 | -0.7 | -0.9 | - |
 | BLK | 0.1 | -1.0 | -1.2 | - |
 | TO | 0.8 | +1.1 | +1.1 | - |
 
 </details>
 
 **Current**
-- Booker, Jalen Green, Miles Bridges and Dillon Brooks are expected to take most of the Suns' minutes and usage, which leaves little room for bench guards. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- Ben expects him to come off the bench and take about eight threes a game, making about 40 to 41% of them. That would be more volume at a lower percentage than before. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=435))
-- Ben worries that the Suns' projected starting lineup has no reliable three-point shooting. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=619))
+- His Yahoo status is questionable with a knee issue. (fact, 2026-10-16; stats)
+- He comes off the bench. The projected starters are Jalen Green, Devin Booker, Dillon Brooks, Miles Bridges and Oso Ighodaro. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=508), [10-14](https://youtu.be/MRzebgip23Y?t=1175))
+- His fantasy role is a three-point streamer who sometimes adds assists. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1489))
+- Phoenix has the best fantasy schedule in the league. It plays 4-4-4 games in the playoff weeks and has the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- Booker, Green, Brooks, Bridges and Gillespie are expected to take most of the Suns' touches, which leaves little usage for bench players. (verdict, 2026-10-09; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
+- One expert expects him to shoot about 40 to 41% from three on around eight attempts a game off the bench. That would mean more volume at a lower percentage. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=435))
 - Kennard signed with Phoenix in free agency. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
-- Too many guards are ahead of him in Phoenix for him to make a fantasy impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
+- Too many guards are ahead of him in Phoenix for him to make a real fantasy impact. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1362))
 
 **Durable**
-- Kennard is a pure three-point shooter. He does not get to the rim and is not a mid-range shooter. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
-- He has historically taken too few threes for a shooter of his quality. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
+- He made 48% of his threes last season but took only about three a game in about 22 minutes. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1489))
+- He is one of the best three-point shooters by percentage ever. He is a pure shooter who has always taken too few threes. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1489), [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
+- He does not get to the rim and is not a mid-range shooter. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=456))
 
 **Tags**
-- Current: `new team` (Signed with Phoenix in free agency), `minutes competition` (Booker, Jalen Green, Bridges and Brooks are ahead of him; a bench shooting role at best)
+- Current: `new team` (Signed with Phoenix in free agency), `usage competition` (Bench shooter behind Booker, Green, Brooks, Bridges and Gillespie), `questionable` (Yahoo Q (Knee)), `waiver watch` (Three-point streamer, not a draft target), `good playoff schedule` (PHX plays 4-4-4 in weeks 19 to 21), `few back-to-backs` (PHX has the fewest back-to-backs in the league)
 - Durable: none
 
-**Note.** He ranks 259 on Yahoo and 221 on ESPN with a value of 0 USD on both sites, so he falls well outside the 144 players drafted in our league and should not be drafted. His projected line gives efficient FG% on low volume and few turnovers (0.8 per game) but little in PTS, REB, AST, STL or BLK. Yahoo's 67.3% FT% projection does not match his 89 to 91% history, and he takes under one free throw a game anyway. Early in the season, check whether he really gets Ben's projected eight three-point attempts a game off the bench. If he does, he can be a waiver streamer for threes.
+**Note.** Kennard is ranked 262 on Yahoo and 221 on ESPN, and both sites value him at 0 USD. That puts him well outside our 144-player draft, so do not draft him. He is a bench shooter with few turnovers (0.8 a game) and good FG% on low volume (about 53% on under 6 attempts). The Yahoo FT% projection of 67% clashes with his past rate of about 90%. Watch him on waivers early. Check his knee and whether his three-point attempts rise toward the projected eight a game. If they do, Phoenix's 4-4-4 playoff schedule makes him a useful streamer for threes in weeks 19 to 21.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

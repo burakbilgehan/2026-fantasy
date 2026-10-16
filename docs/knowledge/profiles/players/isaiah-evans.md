@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 709 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 718 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -17,29 +17,30 @@
 | FT% | 83.0% | +0.1 | -0.3 | - |
 | 3PM | 0.6 | -1.0 | -1.5 | - |
 | PTS | 3.7 | -1.8 | -1.8 | league outlier, weak |
-| REB | 1.0 | -1.7 | -1.9 | league outlier, weak |
+| REB | 1.0 | -1.7 | -2.0 | league outlier, weak |
 | AST | 0.6 | -1.4 | -1.7 | - |
-| STL | 0.3 | -2.0 | -2.1 | league outlier, weak |
+| STL | 0.3 | -2.0 | -2.2 | league outlier, weak |
 | BLK | 0.3 | -0.7 | -0.5 | - |
 | TO | 0.2 | +2.0 | +2.1 | - |
 
 </details>
 
 **Current**
-- Minnesota's bench is thin, with little scoring punch, and the team needs wing depth in case of injuries. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [07-01](https://youtu.be/W3THnI7wWdA?t=828))
-- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
-- His dynasty rookie rank is 31. His Summer League play did not change it. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
-- If he gets a role, he could make about 2.5 threes in 20 minutes but add almost nothing in other categories. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- Yahoo projects only a small bench role for him. He is not a draft target in a 12-team league. (verdict, 2026-10-16; stats)
+- Minnesota's bench is thin with little scoring punch, and the team needs wing depth. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [07-01](https://youtu.be/W3THnI7wWdA?t=828))
+- His dynasty rookie rank is 31. It did not change after Summer League. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- If he earns a role, he could make about 2.5 threes in 20 minutes and add little else. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Durable**
-- Outside of threes his projected line is very thin. Points, rebounds and steals are clear weak spots. (fact, 2026-10-11; stats)
-- He is a pure volume three-point shooter. In Summer League, 10 of his 14 shots were threes, and he made 21% of them. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
-- He is an older prospect. Before the draft he took a huge number of threes and made them at a high rate. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- He is an older prospect from the 2026 draft class. (fact, 2026-08-02; [06-22](https://youtu.be/HxQjagSTTAM?t=786), [08-02](https://youtu.be/TOn-D1SV7a8?t=382))
+- He takes a very large share of his shots from three. In Summer League, 10 of his 14 shots were threes. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1384), [08-02](https://youtu.be/TOn-D1SV7a8?t=382), [06-22](https://youtu.be/HxQjagSTTAM?t=786))
+- Before the draft he made his threes at a high rate. In Summer League he shot 21%. (fact, 2026-07-21; [06-22](https://youtu.be/HxQjagSTTAM?t=786), [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
+- He is a pure volume shooter who gives little outside of threes. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1384))
 
 **Tags**
-- Current: `rookie` (2026 draft class, dynasty rookie rank 31), `waiver watch` (Only worth adding if he earns about 20 minutes. Then he is a threes-only streamer.)
+- Current: `rookie` (2026 draft class, older prospect), `thin rotation` (Minnesota bench is thin and short on scoring and wing depth)
 - Durable: none
 
-**Note.** Yahoo ranks him 709th with a value of 0 USD, and ESPN gives no price. That puts him far outside the 144 players our league drafts, so do not draft him. His Yahoo projection is only 0.6 threes and 3.7 points per game, and his only possible fantasy use is as a three-point streamer. Early in the season, check whether Minnesota's thin bench gives him about 20 minutes a night. If it does, he can be a short-term pickup for teams that need threes.
+**Note.** Yahoo ranks him 718 with a value of 0 and projects 3.7 points and 0.6 threes a game, so he should not be drafted in our 144-player auction. He is a three-only shooter, and even with a role the experts expect about 2.5 threes in 20 minutes and nothing else. Early in the season, check whether Minnesota's thin bench gives him real minutes. Even then, he would only be a short-term waiver add for threes.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

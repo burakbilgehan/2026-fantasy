@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 121 | 1 | 0.8 | 129 | 2 |
+| 2026-27 | 1 | 1.0 | 120 | 1 | 0.8 | 129 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,32 +23,30 @@
 | REB | 5.1 | +0.0 | +0.4 | - |
 | AST | 4.0 | +0.4 | +0.4 | - |
 | STL | 1.1 | +0.4 | +0.2 | - |
-| BLK | 0.9 | +0.6 | +1.4 | - |
+| BLK | 0.9 | +0.6 | +1.5 | - |
 | TO | 2.3 | -0.9 | -0.9 | - |
 
 </details>
 
 **Current**
-- Washington added Trae Young, Anthony Davis and AJ Dybantsa, who all missed last season. He has to share the ball with them. (fact, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [10-06](https://youtu.be/eTsjuVu1trk?t=2539))
-- Josh expects him to start, but as only the fifth offensive option. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2823))
-- If Anthony Davis is traded, Alex Sarr moves to center and George's starting role becomes secure, which helps him. One expert is about 80% sure Washington keeps Davis. (verdict, 2026-09-14; [06-30](https://youtu.be/4GDfg2n2l8o?t=1524), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083))
-- Experts agree he is unlikely to repeat last season's production with the new usage competition. (verdict, 2026-09-10; [09-04](https://youtu.be/gerS7ibpaJo?t=691), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962))
-- His ADP of 112 is marginally too high. One small forward ranking puts him in Tier 8. (verdict, 2026-09-10; [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962))
-- The fifth starter spot in Washington is not settled, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962))
-- Washington has a deep roster of wings. A 10 or 11 man rotation is expected, which spreads minutes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
-- Ben thinks he is the organization's favorite among its young wings and guards, and the best all-around player in that group. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=930))
-- Washington is trying to compete and aims for the play-in, so late-season resting and minutes cuts are not expected. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- He looks set to start for Washington. The newest note says he is almost locked in to start over Bilal Coulibaly. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1658), [10-02](https://youtu.be/ZYllcj4o6_A?t=2823), [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- He had three blocks in his last preseason game. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1658))
+- Experts rate him a late round pick. One calls his ADP of 112 marginally high. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1658), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa, who will take most of the shots and touches. (fact, 2026-10-06; [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [10-06](https://youtu.be/eTsjuVu1trk?t=2539))
+- Experts expect him to be about the fifth offensive option. They do not think he repeats last season's production, when he started as a top 50 player with a bigger ball handling role before he faded. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2823), [09-10](https://youtu.be/dlo7L8Ru91A?t=1962), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), [09-04](https://youtu.be/gerS7ibpaJo?t=691), [06-25](https://youtu.be/lOshTzDA4SA?t=1498))
+- One analyst sees him as the organization's favorite and the best all-around player among Washington's young wings and guards. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=930))
+- Washington has a deep group of wings and expects a 10 or 11 man rotation, so minutes are spread. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington is trying to compete for the play-in, so the late-season rest and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
 
 **Durable**
-- His blocks are clearly above average for a guard or forward. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), stats)
-- Two-way wing who can guard shooting guard through power forward. He can struggle against quicker guards. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=443))
-- Shoots well from outside, especially on catch-and-shoot chances. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=443))
-- An arm injury ended his 2025-26 season early. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [09-10](https://youtu.be/W-R1dzem32s?t=1891), [06-25](https://youtu.be/lOshTzDA4SA?t=1498))
+- His blocks are strong for his position. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1554), stats)
+- Two-way wing who can guard shooting guard through power forward but can struggle against quicker guards. He shoots well from outside, mostly on catch-and-shoot chances. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=443))
+- An arm injury ended his 2025-26 season early. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=408), [09-10](https://youtu.be/W-R1dzem32s?t=1891))
 
 **Tags**
-- Current: `usage competition` (Shares the ball with Trae Young, Anthony Davis and AJ Dybantsa; projected fifth offensive option), `role down` (Ball handling role from early last season is not expected to return), `minutes competition` (Fifth starter spot contested by many wings; not guaranteed to start), `deep rotation` (10 or 11 man rotation expected with many long wings), `injury last season` (Arm injury ended his season early), `low shutdown risk` (Washington is trying to compete for the play-in)
-- Durable: `fits every build` (No weak category flagged; blocks stand out for his position)
+- Current: `role down` (less usage and ball handling next to Trae Young, Anthony Davis and AJ Dybantsa), `usage competition` (Trae Young, Anthony Davis, AJ Dybantsa; about the fifth offensive option), `minutes competition` (fifth starter spot vs Bilal Coulibaly; newest note says he is almost locked in), `injury last season` (arm injury ended his season early), `deep rotation` (10 or 11 man rotation with many wings), `low shutdown risk` (Washington is trying to compete), `coach hot seat` (Brian Keefe under pressure to win)
+- Durable: `BLK from a guard` (about 0.9 blocks as a G,F)
 
-**Note.** Yahoo and ESPN both price him at 1 USD, with ranks of 121 and 129. Our league paid 2 USD last season. That puts him at the very end of a 144-player draft, and the experts see his ADP of 112 as a bit too high now that Young, Davis and Dybantsa take the touches. He has no flagged weak category and projects about 2.0 threes, 4.0 assists and 0.9 blocks, so he fits any build as a last-dollar pick. A projected 43% FG and 2.3 turnovers are the cost. Early in the season, check whether he holds the starting spot and his minutes stay near 29, and watch for an Anthony Davis trade, which would open a bigger role.
+**Note.** He is ranked 120 on Yahoo and 129 on ESPN, worth 1 USD on both. He went for 2 USD in our league last season. That puts him near the edge of our 144-player pool, so treat him as a 1 to 2 USD end-of-draft wing for blocks, threes and some assists. Do not pay more, because his projected 43% FG on about 11 shots and 2.3 turnovers cost you. Early in the season, check that he keeps the starting spot over Coulibaly and how many shots he gets next to Young, Davis and Dybantsa. If he falls to bench minutes, he is a waiver-level player.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

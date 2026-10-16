@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 238 | 0 | 0.0 | 229 | not drafted |
+| 2026-27 | 0 | - | 239 | 0 | 0.0 | 229 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | 3PM | 1.5 | +0.0 | -0.0 | - |
 | PTS | 9.2 | -0.8 | -0.9 | - |
 | REB | 3.5 | -0.7 | -0.8 | - |
-| AST | 1.4 | -1.0 | -0.9 | - |
+| AST | 1.4 | -0.9 | -0.9 | - |
 | STL | 0.7 | -0.7 | -0.7 | - |
 | BLK | 0.3 | -0.5 | -0.6 | - |
 | TO | 1.0 | +1.0 | +0.9 | - |
@@ -29,16 +29,20 @@
 </details>
 
 **Current**
-- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles on the team may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
-- Da Silva is not in Orlando's projected starting five of Suggs, Bane, Franz Wagner, Banchero and Carter. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando projects him as a bench player. The projected starters are Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [10-13](https://youtu.be/zhXtLr_xYVg?t=1171), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Noah Penda or Jase Richardson could break into the Orlando rotation and take bench minutes. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1171))
+- Orlando has a new head coach, Sean Sweeney. His rotation preferences are unknown, so bench roles may change. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- He is a boring player with no standout skill and no clear role. The expert does not have him in his top 200. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1413))
+- Orlando plays 3, 4 and 4 games in our playoff weeks 19 to 21 (11 games) and has 14 back-to-backs. The schedule is unremarkable. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1741))
 
 **Durable**
-- none
+- He gives little in steals, blocks, assists, rebounds and points. (fact, 2026-10-16; [10-13](https://youtu.be/zhXtLr_xYVg?t=1431), stats)
+- He shoots free throws well, but on low volume. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1431))
 
 **Tags**
-- Current: `new coach` (Sean Sweeney replaces Jamahl Mosley; roles may change)
+- Current: `minutes competition` (Bench wing role. Noah Penda or Jase Richardson could break into the rotation.), `new coach` (Sean Sweeney replaces Jamahl Mosley at Orlando.)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD and rank him well outside our 144 drafted players (Yahoo 238, ESPN 229), so he is a waiver-level player and not an auction target. His projected line is below the pool in most categories, and turnovers are his best category (z +1.0). Yahoo projects 75% FT%, but he has shot over 87% in both NBA seasons. Early in the season, check whether the new coach gives him a bigger role than his bench spot behind Orlando's projected starters.
+**Note.** Yahoo ranks him 239 and ESPN 229, and both value him at 0 USD. That is far outside the 144 players drafted in our league, and the expert does not have him in his top 200. Do not draft him. His only small positives are a decent FT% on low volume and few turnovers (about 1.0 per game). Check early in the season whether new coach Sean Sweeney gives him a bigger role than his projected bench spot.
 
-<sub>0 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

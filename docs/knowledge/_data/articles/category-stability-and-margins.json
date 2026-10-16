@@ -67,54 +67,53 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:48:07+00:00",
+ "built_at": "2026-10-16T12:47:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1245648,
-  "duration_ms": 41211,
+  "cost_usd_list": 0.1757728,
+  "duration_ms": 61277,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Points, rebounds and assists are the most stable categories, so most of our 200 USD should go to them early in the auction. Steals, FT% and FG% swing the most, and threes and steals can be found on waivers, so do not pay extra for them. A category is only safe with a big margin, so build two or three categories that go together instead of being slightly above average everywhere.",
+ "summary": "Points, rebounds and assists are the most stable categories and the hardest to find on waivers, so most of our 200 USD auction budget should go there. Steals, FT%, FG% and, by some accounts, blocks swing a lot, and threes and steals can be streamed with our 6 weekly adds. To win a category in a weekly matchup you need a big lead, not a small edge, so build a few large leads and do not spread money thinly across categories that work against each other.",
  "sections": [
   {
    "heading": "Stable categories and swing categories",
    "paragraphs": [
     {
-     "text": "Points, rebounds and assists are the most stable categories. They repeat from season to season at about 0.89. They also vary less from game to game. That makes them the safest base for a head-to-head team.",
+     "text": "Points, rebounds and assists are the most stable counting stats. They correlate at 0.89 from year to year. They also vary less from game to game, so they are the most predictable categories for a draft.",
      "sources": [
       "8d--aL_xxwE:r2",
       "C4vlgpJ62NI:r20",
-      "3Qm5wLjhvTw:r0",
-      "aLP080hxizA:r12"
+      "aLP080hxizA:r12",
+      "3Qm5wLjhvTw:r0"
      ]
     },
     {
-     "text": "Steals and FG% are less stable. Steals repeat at 0.74 and FG% at 0.75. Steals are also low volume. Even elite steals players can fall to 0.7 or 0.8 per game in a season. Expect few of last season's top five steals players to be back in the top five.",
+     "text": "Assists, points, rebounds, blocks, threes and turnovers all correlate between 0.86 and 0.89 from year to year. Shot profile is also very sticky. Three-point attempt rate correlates at 0.92, and two-point, free throw and field goal attempts are sticky too.",
+     "sources": [
+      "8d--aL_xxwE:r8",
+      "8d--aL_xxwE:r1"
+     ]
+    },
+    {
+     "text": "The swing categories are steals, FG% and FT%. Steals correlate at 0.74 and FG% at 0.75. Steals and FT% are the two categories that change most from year to year. FG% varies most from game to game and week to week. Steals are low volume, and even elite steals players can drop to 0.7 or 0.8 per game in a season.",
      "sources": [
       "8d--aL_xxwE:r9",
-      "DubdKKhMWHo:r3",
-      "ME-r173X5b0:r11",
-      "ME-r173X5b0:r12"
-     ]
-    },
-    {
-     "text": "The percentages swing the most. FT% changes the most from year to year. FG% changes the most from game to game and week to week. In low-volume weeks each miss moves the percentage more, so results swing even more. One expert calls efficiency the most variable category week to week and prefers steady volume over a small efficiency edge.",
-     "sources": [
+      "gerS7ibpaJo:r9",
+      "ME-r173X5b0:r1",
       "aLP080hxizA:r11",
-      "OdDkXFhoKsc:r3",
-      "2A2JbUN-kc0:r7",
-      "C4vlgpJ62NI:r17"
+      "DubdKKhMWHo:r3",
+      "ME-r173X5b0:r11"
      ]
     },
     {
-     "text": "Shot profile is sticky. Three-point attempt rate repeats at 0.92, and other attempt types are also sticky. Busts and breakouts mostly come from injuries and random shooting seasons, not from changes in counting stats. So treat a player's past percentages as less certain than his volume.",
+     "text": "Season busts and breakouts mostly come from injuries and from random shooting seasons, not from changes in counting stats. Percentages are also not safe in low-volume weeks. With fewer attempts, each miss moves the percentage more. In our league, watch the weekly game count. A light week makes your FG% and FT% less reliable.",
      "sources": [
-      "8d--aL_xxwE:r1",
       "8d--aL_xxwE:r3",
-      "DubdKKhMWHo:r0"
+      "aLP080hxizA:r11"
      ]
     }
    ]
@@ -123,48 +122,20 @@
    "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "Blocks and the steals versus FT% question split the notes. One data set puts blocks with the stable group, at 0.86 to 0.89 alongside points, rebounds, assists, threes and turnovers. Another expert says blocks are very variable from year to year. On the most volatile category, two notes say steals and FT% are the top two. One expert adds that over the last two seasons FT% changed more than steals, because both makes and attempts move. Another calls free throws the most variable category of all. In practice, treat blocks as medium risk, and treat both FT% and steals as categories you should not pay a premium for.",
+     "text": "The experts disagree on which category is the most volatile. One side puts steals at the top. Steals are very variable from game to game and season to season, few of last season's top five steals players are expected to repeat, and one expert weights steals down in his rankings. The other side says FT% is the most variable fantasy category. Over the last two seasons it changed more from year to year than steals, because both makes and attempts move. Both sides agree that these two are the riskiest categories to pay for.",
+     "sources": [
+      "_O9pc_u5vH0:r3",
+      "ME-r173X5b0:r12",
+      "ME-r173X5b0:r11",
+      "OdDkXFhoKsc:r3",
+      "ME-r173X5b0:r15"
+     ]
+    },
+    {
+     "text": "The experts also disagree on blocks. One data set puts blocks with the stable group, correlating between 0.86 and 0.89 from year to year. Another expert calls blocks very variable from year to year. Do not treat blocks as fully safe. Pay for them as part of a big man's whole profile, not as the main reason to bid.",
      "sources": [
       "8d--aL_xxwE:r8",
-      "ME-r173X5b0:r13",
-      "gerS7ibpaJo:r9",
-      "ME-r173X5b0:r1",
-      "ME-r173X5b0:r15",
-      "OdDkXFhoKsc:r3"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Why winning a category needs a big margin",
-   "paragraphs": [
-    {
-     "text": "Each week we play one opponent in nine small samples. A small edge (a z-score of about 0.7) wins a category only about 55% of the time. A large edge (about 2.5) wins about 85%. Build big buffers in the categories you target.",
-     "sources": [
-      "0geFVzSqOnA:r9",
-      "DubdKKhMWHo:r0"
-     ]
-    },
-    {
-     "text": "Defensive edges are small in weekly terms. Going from 0.7 to 1.0 steals per game adds about one steal per week, which is easy to flip. Putting too much of your team into high-variance categories leaves you open to strange losses.",
-     "sources": [
-      "W-R1dzem32s:r6",
-      "DubdKKhMWHo:r1"
-     ]
-    },
-    {
-     "text": "Being strong in both FG% and FT% is very hard. Barely winning both is fragile. Money spent chasing both leaves you short elsewhere. Good efficiency on low volume does not move a team ratio much. Since FG% and FT% swing a lot, punting one of them works well in head-to-head.",
-     "sources": [
-      "0geFVzSqOnA:r10",
-      "W-R1dzem32s:r7",
-      "C4vlgpJ62NI:r17"
-     ]
-    },
-    {
-     "text": "This matters most in playoff weeks 19, 20 and 21. A short week with fewer attempts can flip a percentage category you were barely winning. Count on your stable volume categories, not on a thin percentage edge.",
-     "sources": [
-      "aLP080hxizA:r11",
-      "0geFVzSqOnA:r8"
+      "ME-r173X5b0:r13"
      ]
     }
    ]
@@ -173,14 +144,14 @@
    "heading": "Which categories move together",
    "paragraphs": [
     {
-     "text": "Points and assists come together. Target high scorers and you usually get assists too, and the reverse is also true. The guard build (points, threes, assists, steals, FT%) is common because its categories support each other.",
+     "text": "Points and assists come together. If you target high scorers, you usually get assists too, and the reverse is also true. The guard build of points, threes, assists, steals and FT% is common because those categories support each other.",
      "sources": [
       "0geFVzSqOnA:r2",
       "0geFVzSqOnA:r3"
      ]
     },
     {
-     "text": "The big man build is harder. Only rebounds, blocks and FG% move together. It does not bring steals or low turnovers with it, and blocks and turnovers are not correlated. Threes and FG% pull against each other, so adding threes to a big man build is hard.",
+     "text": "The big man build is harder. Only rebounds, blocks and FG% move together. It does not bring steals or low turnovers with it, because blocks and turnovers are not correlated. Threes and FG% pull against each other, so adding threes to a big man build is hard.",
      "sources": [
       "0geFVzSqOnA:r4",
       "0geFVzSqOnA:r6",
@@ -188,20 +159,64 @@
      ]
     },
     {
-     "text": "Steals are the swing category. They do not tie strongly into either build. A low-volume build of threes, steals, blocks, FG% and FT% is very hard to pull off, because those categories do not drag each other along. Players who combine categories that do not usually go together, like rebounds and assists, carry extra value.",
+     "text": "Steals are the swing category. They do not tie strongly to either build. A low-volume build of threes, steals, blocks, FG% and FT% is very hard to pull off, because those categories do not lift each other. Players who combine categories that usually do not go together, like rebounds and assists, carry extra value.",
      "sources": [
       "0geFVzSqOnA:r5",
       "0geFVzSqOnA:r12",
       "0geFVzSqOnA:r11"
      ]
+    },
+    {
+     "text": "Being strong in both FG% and FT% is very hard. Barely winning both is fragile, and the money spent on it leaves you short elsewhere. Because both percentages vary a lot from game to game, punting one of them works well in head-to-head.",
+     "sources": [
+      "0geFVzSqOnA:r10",
+      "C4vlgpJ62NI:r17"
+     ]
     }
    ]
   },
   {
-   "heading": "What waivers can and cannot replace",
+   "heading": "Why a category needs a big margin",
    "paragraphs": [
     {
-     "text": "Threes are easy to find on waivers. About two threes per game is now league average in fantasy, so a shooter who hits two threes is nothing special. That is why non-shooters do not hurt you much in threes. You can stream threes later.",
+     "text": "A small edge does not win weeks. A small positive z-score in a category, like 0.7, wins only about 55% of the time. A large one, like 2.5, wins about 85%. Being barely above average in categories that work against each other leaves you exposed to schedule and injury swings. Aim for a few big leads, not many small ones.",
+     "sources": [
+      "0geFVzSqOnA:r9",
+      "0geFVzSqOnA:r8"
+     ]
+    },
+    {
+     "text": "Fantasy seasons are small samples. Do not expect a player's average to repeat exactly. If too much of your team's value sits in high-variance categories, you will take strange losses. This matters most in our three playoff weeks, which are only three weekly samples.",
+     "sources": [
+      "DubdKKhMWHo:r0",
+      "DubdKKhMWHo:r1"
+     ]
+    },
+    {
+     "text": "Defensive gaps are small in weekly terms. Going from 0.7 to 1 steal per game is about one extra steal per week, and that is easy to flip. Yet one extra steal a week can move a player about 15 spots in the rankings. Steals cause oddities in standard 9-cat rankings. So do not let strong steals alone push up what you bid.",
+     "sources": [
+      "W-R1dzem32s:r6",
+      "DubdKKhMWHo:r8",
+      "0geFVzSqOnA:r13",
+      "7BllEsdNLoM:r12"
+     ]
+    },
+    {
+     "text": "Volume matters more than a small efficiency edge. Good efficiency on low volume does not move FG% or FT% much. One expert prefers consistent volume to a small efficiency edge, because efficiency is the most variable category week to week. Volume also changes value in a big way. Going from 30 to 28 points loses about 8% of scoring value, and going from 28 to 33 gains about 20%.",
+     "sources": [
+      "W-R1dzem32s:r7",
+      "2A2JbUN-kc0:r7",
+      "ME-r173X5b0:r3",
+      "ME-r173X5b0:r2"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "What the waiver wire can replace",
+   "paragraphs": [
+    {
+     "text": "Threes are easy to find on waivers. Three-point specialists can be streamed, so do not overvalue threes in the auction. About two threes per game is now league average in fantasy, so a shooter who hits only two is nothing special. Non-shooters do not hurt you much in threes, because you can stream them.",
      "sources": [
       "C4vlgpJ62NI:r18",
       "_O9pc_u5vH0:r5",
@@ -211,66 +226,61 @@
      ]
     },
     {
-     "text": "Steals are one of the most common categories on the waiver wire. They also create oddities in standard 9-cat rankings. Do not let strong steals alone push a player's value up.",
+     "text": "Steals are one of the most common categories on the waiver wire. With daily waivers and up to 6 adds per week, you can patch threes and steals during the season.",
      "sources": [
-      "0geFVzSqOnA:r13",
-      "7BllEsdNLoM:r12",
-      "DubdKKhMWHo:r8"
+      "0geFVzSqOnA:r13"
      ]
     },
     {
-     "text": "Assists are very hard to find on waivers. Points, assists and FT% are the scarcest categories later in drafts. Points and assists in real volume are very hard to find once the early picks are gone. With 144 players drafted, the waiver pool will not fix a weak points or assists team.",
+     "text": "Assists and points are different. Assists are very hard to find on waivers. Points and assists are very hard to find in good volume later in drafts. Points, assists and FT% are the scarcest categories late. With 144 players drafted, the waiver pool will not supply them.",
      "sources": [
       "ME-r173X5b0:r8",
-      "C4vlgpJ62NI:r19",
-      "E-KmhvyZ2CU:r2"
+      "E-KmhvyZ2CU:r2",
+      "C4vlgpJ62NI:r19"
+     ]
+    },
+    {
+     "text": "In a 12-team league, average means roughly the 75th ranked player. A player close to average in every category can end up around 100th. A flat profile with no standout skill limits upside, so late bids should go to players with at least one real strength.",
+     "sources": [
+      "XSPJL_mlFXo:r4",
+      "LUTYUdXBG1M:r7"
      ]
     }
    ]
   },
   {
-   "heading": "How this shapes our auction bids",
+   "heading": "How to spend the 200 USD",
    "paragraphs": [
     {
-     "text": "Spend your largest bids on reliable points, rebounds and assists producers. Their production repeats more reliably than value built on steals, blocks and percentages. A low scorer bought for other stats hurts points a lot, since the average fantasy scorer gives about 18 points. A big bid on a low-usage, low-scoring player nearly commits you to punting points.",
+     "text": "Put your biggest bids on players whose value comes from points, rebounds and assists. A reliable points, rebounds and assists player beats one whose value comes from steals, blocks and percentages, because the production repeats more reliably.",
      "sources": [
       "3Qm5wLjhvTw:r1",
-      "ME-r173X5b0:r5",
-      "EGdhmUgPAWY:r0"
+      "aLP080hxizA:r12"
      ]
     },
     {
-     "text": "If you miss on points and assists early, do not chase them at the end of the auction. The scarcity note says you can punt them instead. Pick a build where the categories pull together, and aim for big margins in those categories.",
+     "text": "Decide on points early. Making a low-scoring, low-usage player your top buy nearly commits you to punting points. The average fantasy scorer puts up about 18 points, so a low scorer bought for other stats hurts points a lot. If you miss on points and assists in the early nominations, punt them rather than chasing them late.",
      "sources": [
-      "C4vlgpJ62NI:r19",
-      "0geFVzSqOnA:r8"
+      "EGdhmUgPAWY:r0",
+      "ME-r173X5b0:r5",
+      "C4vlgpJ62NI:r19"
      ]
     },
     {
-     "text": "Do not pay extra for threes specialists or steals specialists. A guard who only shoots threes and does not rebound or assist is a bad profile unless he is elite. A pure scorer needs about 28% usage and about 40% from three to matter. A scorer who is weak in steals, blocks and rebounds has too many holes for a standard league. Save your FAB and your 6 weekly adds for streaming threes and steals.",
+     "text": "Do not pay up for one-dimensional scorers. A shooting guard who only shoots threes and does not rebound or assist is a bad fantasy profile unless he is elite at it. A scorer who gives only points and threes needs about 28 usage and about 40% from three to matter. A scorer weak in steals, blocks and rebounds has too many holes for a standard league. A low-usage scorer who does nothing else matters only in very deep leagues when injuries free up usage.",
      "sources": [
       "4kKINkZhWls:r0",
       "P6TNP-g0wzY:r3",
       "bHA-JoW3reE:r5",
-      "_O9pc_u5vH0:r5",
-      "0geFVzSqOnA:r13"
+      "XSPJL_mlFXo:r7"
      ]
     },
     {
-     "text": "Treat percentages with care. If you buy a poor free throw shooter, price him for bad free throws, so any improvement is a bonus. Avoid flat profiles. In a 12-team league, average means roughly the 75th player, and a player close to average in every category can end up around 100th. Check that each player you bid on has a standout skill in a stable category.",
+     "text": "Discount players whose value depends on steals or FT%. When you buy a poor free throw shooter, expect bad free throws and treat any improvement as a bonus. Before each bid, check where the player's value comes from. Then decide whether you are buying safety in the stable categories or a big upside hit in a swing category.",
      "sources": [
+      "_O9pc_u5vH0:r3",
       "OdDkXFhoKsc:r3",
-      "XSPJL_mlFXo:r4",
-      "LUTYUdXBG1M:r7"
-     ]
-    },
-    {
-     "text": "Remember that small changes move value a lot. One extra steal a week can be worth about 15 ranking spots, and one extra made basket per game about 10. Going from 28 to 33 points per game adds about 20% of scoring value. Decide on purpose when you are bidding for safety and when you are bidding for upside.",
-     "sources": [
-      "DubdKKhMWHo:r8",
-      "ME-r173X5b0:r3",
-      "DubdKKhMWHo:r9",
-      "ME-r173X5b0:r2"
+      "DubdKKhMWHo:r9"
      ]
     }
    ]

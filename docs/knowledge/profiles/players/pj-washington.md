@@ -20,30 +20,34 @@
 | FG% | 44.8% | -0.6 | -1.1 | - |
 | FT% | 69.7% | -1.1 | -0.7 | - |
 | 3PM | 1.4 | -0.1 | +0.3 | - |
-| PTS | 13.4 | -0.1 | -0.0 | - |
+| PTS | 13.4 | -0.1 | +0.0 | - |
 | REB | 6.7 | +0.7 | +0.2 | - |
 | AST | 1.8 | -0.7 | -0.5 | - |
 | STL | 0.9 | +0.0 | +0.3 | - |
-| BLK | 1.0 | +0.8 | +0.3 | - |
-| TO | 1.6 | +0.0 | -0.1 | - |
+| BLK | 1.0 | +0.8 | +0.4 | - |
+| TO | 1.6 | +0.0 | -0.2 | - |
 
 </details>
 
 **Current**
-- Lively, Dharma and Morez Johnson Jr. are hurt. That leaves Gafford as the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
-- Josh ranks Washington 125 to 150 in category leagues. He sees no path to a top 80 finish because Dallas has so many forwards. In a 12 team league he would only take him in round 14 or later. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=890))
-- Josh projects Washington to start, with Kyrie Irving, Max Christie, Cooper Flagg and Morez Johnson Jr. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
-- Dallas has a crowded frontcourt. Almost every player besides Kyrie Irving is a power forward, and Washington competes for minutes with Lively, Gafford, Johnson Jr., Aldama and Naji Marshall. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [07-13](https://youtu.be/Rqb5GdrSweY?t=592), [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [06-25](https://youtu.be/lOshTzDA4SA?t=1834), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733))
-- Dusty May is the new head coach. Nobody knows yet how he will split the minutes among the centers and forwards like Washington. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Dallas plays 4 games in each of our three playoff weeks, which is probably the best playoff schedule in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- The experts disagree on drafting him. One mock draft calls him an upside pick at 161. Josh says he cannot see himself being interested in Washington at all. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1744), [10-13](https://youtu.be/OsbUAkSeVB4?t=1421))
+- Josh projects Washington as the starting power forward. His projected Dallas starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- The Dallas frontcourt is crowded with forwards and bigs who expect minutes. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=134), [07-27](https://youtu.be/0AptxcRW0RE?t=338), [07-21](https://youtu.be/RyzcCGChYgs?t=2295), [06-26](https://youtu.be/CLsUc0Sevos?t=1386), [06-25](https://youtu.be/lOshTzDA4SA?t=1834))
+- Dusty May is the new head coach. It is not known yet how he will split minutes among the centers and forwards like Washington. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- Josh sees no path to a top 80 finish because Dallas has so many forwards. He ranks Washington around 125 to 150 in category leagues. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=890))
+- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, which is probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Cooper Flagg is the first option on offense and Kyrie Irving is second. Kyrie's return is expected to take shots mostly from players other than Flagg. (fact, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=353))
+- Dallas does not own its draft pick, so it has no reason to tank. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644), [07-13](https://youtu.be/Rqb5GdrSweY?t=592))
 
 **Durable**
-- Washington is very streaky, with hot streaks and ice-cold slumps. His shooting goes up and down, and lately it has been down. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=851), [07-27](https://youtu.be/0AptxcRW0RE?t=1116))
+- Washington is very streaky. He has hot shooting stretches and ice-cold slumps, and his shooting has been trending down lately. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=851), [07-27](https://youtu.be/0AptxcRW0RE?t=1116))
 
 **Tags**
-- Current: `minutes competition` (Crowded Dallas frontcourt with Lively, Gafford, Johnson Jr., Aldama and Marshall. New coach Dusty May.), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21, but has a league-high 16 back-to-backs.)
-- Durable: `streaky` (Hot streaks and ice-cold slumps. His shooting has been down lately.)
+- Current: `minutes competition` (crowded Dallas forward and big rotation), `usage competition` (Flagg first option, Kyrie Irving second), `deep rotation` (too many forwards), `new coach` (Dusty May), `good playoff schedule` (4-4-4 in weeks 19 to 21), `many back-to-backs` (league-high 16), `low shutdown risk` (Dallas does not own its pick)
+- Durable: `streaky` (hot and cold shooting stretches)
 
-**Note.** Washington sits right at our 144 player cutoff: Yahoo ranks him 133, ESPN 151 and Josh 125 to 150. Both sites price him at 0 USD, and he went for 1 USD in our league last season, so he is a 1 USD bench pick at most and is often available on waivers. His small plus is rebounds and blocks (6.7 and 1.0 projected), but about 45% FG and 70% FT give away some value. Early in the season, check whether he starts under Dusty May while Lively and Johnson Jr. are hurt. Dallas plays 4-4-4 in our playoff weeks, which makes him a useful pickup later in the season.
+**Note.** Washington is a last-round player in our league at best. Yahoo values him at 0 USD (rank 137), ESPN at 0.2 USD (rank 149), and he went for 1 USD in our auction last season. His projected 44.8% FG and 69.7% FT do not help any build, so take him only for 1 USD as a bench piece with rebounds and blocks, and lean toward the 4-4-4 playoff schedule if he is still rostered then. Early in the season, check whether Dusty May keeps him in the starting five and whether his shooting comes out of its slump. Otherwise leave him on waivers.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: fits every build (weak in FG%).</sub>
+
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

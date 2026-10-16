@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 2.1 | 101 | 4 | 3.1 | 78 | 11 |
+| 2026-27 | 5 | 1.7 | 102 | 4 | 2.9 | 78 | 11 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,27 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
-- He shares the ball with Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
-- Experts expect Booker, Green and Brooks to be ahead of him in usage, so he should lose value in Phoenix. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
-- Experts call him a bust at his market price. A rank near 100 is 20 to 30 spots too high, pick 89 is too early, and an ESPN rank near 80 is a wasted pick. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562))
-- Charlotte traded him to Phoenix for Grayson Allen and Royce O'Neale. (fact, 2026-09-22; [07-01](https://youtu.be/W3THnI7wWdA?t=305), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [07-13](https://youtu.be/Rqb5GdrSweY?t=1937))
-- He is the projected starting power forward in Phoenix. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558), [07-01](https://youtu.be/W3THnI7wWdA?t=305))
-- The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Devin Booker. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558))
+- He is the projected starting power forward, next to Jalen Green, Devin Booker, Dillon Brooks and Oso Ighodaro. (fact, 2026-10-14; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558), [10-14](https://youtu.be/MRzebgip23Y?t=508))
+- He shares the ball with Booker, Jalen Green, Dillon Brooks and Collin Gillespie. His usage was only 20% in preseason. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1759), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [09-19](https://youtu.be/uarqbNA2dFk?t=989), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184))
+- Experts expect his usage to drop in Phoenix, and they expect his value to drop with it. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1759), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [10-06](https://youtu.be/eTsjuVu1trk?t=2626))
+- He sprained his ankle in preseason. He seems okay, but Yahoo lists him as questionable. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1759))
+- Around pick 120 to 140 he is fair to good value. He slides to rounds 11 to 12 in mock drafts. One expert calls a rank of about 120 right, and another says 120 is too late for him. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=709), [10-14](https://youtu.be/D4dP5JvX1oo?t=1390), [10-13](https://youtu.be/OsbUAkSeVB4?t=1345), [10-13](https://youtu.be/EogBYa24Gto?t=1334), [10-12](https://youtu.be/w66x_I_MaQ8?t=1693), [10-12](https://youtu.be/ENizLoE6pzI?t=1706), [10-11](https://youtu.be/uI6umXsE7Vk?t=1834))
+- Phoenix has the best fantasy schedule in the league: 4 games in each of weeks 19, 20 and 21, plus the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- Experts call him a bust at a rank around 80 to 100. ESPN's rank near 77 to 80 and an ADP near 99 are 20 to 30 spots too high. (verdict, 2026-10-09; [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1887), [09-15](https://youtu.be/KPdD91Oo8-U?t=1562), [10-11](https://youtu.be/uI6umXsE7Vk?t=1834))
+- Phoenix acquired Bridges in a trade that sent Grayson Allen and Royce O'Neale out. (fact, 2026-09-22; [07-01](https://youtu.be/W3THnI7wWdA?t=305), [09-22](https://youtu.be/QbdrhJd7LiA?t=1801))
+- The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Booker. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1558))
 
 **Durable**
-- He only puts up strong numbers as the number one option with high usage. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1906), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
-- Experts call him a poor shooter whose three-point shot was only good in one outlier season. (verdict, 2026-10-06; [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
-- He adds few steals and blocks. (fact, 2026-10-06; [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [10-06](https://youtu.be/eTsjuVu1trk?t=2626), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), stats)
-- His athleticism and his finishing at the rim have declined over the last three years. (fact, 2026-09-19; [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [09-19](https://youtu.be/uarqbNA2dFk?t=1004))
-- His best production came when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
-- He shot 33% from three last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=492))
+- His category profile is broad with no weak outlier. Points, rebounds, threes and FT% are modest pluses, and FG% and steals are modest minuses. (fact, 2026-10-16; stats)
+- He only puts up strong numbers when he is the number one option with high usage. His best production came when LaMelo Ball and Brandon Miller were injured. His minutes shrank when he was asked to scale back. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=741), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1906), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2184), [08-23](https://youtu.be/hm5-fiCa5S4?t=1700))
+- His athleticism has declined a lot in recent years. He no longer gets many steals or blocks, and his finishing at the rim has dropped. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=741), [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [07-21](https://youtu.be/EB1Z_6n56-o?t=375), [09-19](https://youtu.be/uarqbNA2dFk?t=1004), [10-06](https://youtu.be/eTsjuVu1trk?t=2626))
+- Experts rate him as a poor passer and at best an inconsistent defender. (verdict, 2026-10-06; [08-23](https://youtu.be/hm5-fiCa5S4?t=1671), [08-23](https://youtu.be/hm5-fiCa5S4?t=2059), [10-06](https://youtu.be/eTsjuVu1trk?t=2626))
+- He shot 33% from three last season. Experts say his three-point shot was never reliable outside one outlier season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=492), [07-21](https://youtu.be/EB1Z_6n56-o?t=375))
 
 **Tags**
-- Current: `new team` (traded from Charlotte to Phoenix), `usage competition` (Booker, Jalen Green, Dillon Brooks and Gillespie), `role down` (expected to fall behind Booker, Green and Brooks in usage), `bust candidate` (rank near 80 to 100 seen as 20 to 30 spots too high), `injured now` (ankle, Yahoo status Q), `questionable` (ankle)
-- Durable: `usage dependent` (only produces as the number one option), `age decline watch` (athleticism and rim finishing declining)
+- Current: `new team` (traded from Charlotte to Phoenix), `usage competition` (Booker, Jalen Green, Dillon Brooks, Gillespie), `role down` (usage expected to drop; 20% usage in preseason), `bust candidate` (at a rank around 80 to 100 (ESPN rank, ADP near 99)), `questionable` (preseason ankle sprain, seems okay), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (Phoenix has the fewest in the league)
+- Durable: `usage dependent` (produces only as the number one option), `fits every build` (no category flagged weak)
 
-**Note.** Bridges sits on the edge of our 144-player pool: Yahoo ranks him 101 and ESPN 78, and both price him at only 3 to 5 USD. Our league paid 11 USD for him last season, but every recent expert note calls him a bust behind Booker, Green and Brooks. He projects for about 18 points, 2.1 threes and 84% FT, but he hurts FG% and steals and does not clearly fit any punt build. Do not pay more than a few USD. If you draft him, check his ankle (Yahoo Q) and his shot share in Phoenix in the first two weeks, and drop him if his usage shrinks.
+**Note.** Our league paid 11 USD for him last season. This year Yahoo values him at 5 USD (average cost 1.7) and ESPN at 4 USD (rank 78), and experts see fair value only around pick 120 to 140. That puts him in the last rounds of our 144-player pool, so treat him as a 1 to 4 USD end-of-draft forward with no weak category and a 4-4-4 playoff schedule, and do not pay for an ESPN rank near 78. Early in the season, check his ankle and whether his usage holds up next to Booker, Jalen Green and Brooks, because his value needs a big shot share.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

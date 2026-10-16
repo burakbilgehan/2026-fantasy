@@ -4,25 +4,25 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 71 | 30.7 | 46.3 (10.2) | 81.2 (2.4) | 1.2 | 12.6 | 3.0 | 5.9 | 1.1 | 0.1 | 2.0 |
-| 2026-27 proj, Yahoo | 66 | - | 45.5 (10.5) | 81.5 (2.8) | 1.3 | 13.1 | 2.9 | 6.1 | 1.0 | 0.1 | 2.0 |
+| 2026-27 proj, Yahoo | 68 | - | 45.5 (10.7) | 81.4 (2.9) | 1.3 | 13.4 | 2.9 | 6.2 | 1.0 | 0.1 | 2.0 |
 | 2025-26 | 57 | 31.3 | 44.2 (13.2) | 82.5 (4.1) | 1.9 | 16.9 | 2.8 | 7.7 | 0.9 | 0.1 | 2.4 |
 | 2024-25 | 65 | 29.0 | 45.8 (8.3) | 79.4 (2.1) | 0.8 | 10.0 | 3.3 | 5.0 | 1.2 | 0.2 | 1.7 |
 | 2023-24 | 68 | 24.9 | 49.8 (7.7) | 80.4 (0.8) | 0.9 | 9.2 | 2.1 | 4.1 | 0.9 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.0 | 111 | 0 | 0.9 | 151 | 10 |
+| 2026-27 | 3 | 1.0 | 111 | 0 | 0.8 | 151 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.9% | -0.4 | +0.1 | - |
-| FT% | 81.4% | +0.2 | -0.2 | - |
+| FG% | 45.9% | -0.4 | +0.0 | - |
+| FT% | 81.3% | +0.2 | -0.2 | - |
 | 3PM | 1.3 | -0.3 | -0.7 | - |
-| PTS | 12.8 | -0.2 | -0.3 | - |
-| REB | 2.9 | -0.9 | -0.6 | - |
-| AST | 6.0 | +1.5 | +1.1 | - |
+| PTS | 13.0 | -0.2 | -0.3 | - |
+| REB | 3.0 | -0.9 | -0.6 | - |
+| AST | 6.1 | +1.5 | +1.1 | - |
 | STL | 1.1 | +0.4 | +0.1 | - |
 | BLK | 0.1 | -1.0 | -1.2 | - |
 | TO | 2.0 | -0.5 | -0.3 | - |
@@ -30,23 +30,27 @@
 </details>
 
 **Current**
-- Tyrese Haliburton is back. Indiana's projected starting five has Nembhard in the backcourt next to Haliburton. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
-- With Haliburton back, the experts expect a lower-usage role and fewer assists. They see little upside or blow-up potential unless Haliburton is out. (verdict, 2026-10-01; [08-10](https://youtu.be/sfCe7fS9daM?t=604), [09-09](https://youtu.be/7BllEsdNLoM?t=2254), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [09-24](https://youtu.be/_vbAP5y182A?t=2144))
-- He is the expert's biggest fade on the Pacers at Yahoo's rank of 108. ESPN's rank of 149 is called reasonable. Tier 8 among point guards. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1854), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [09-09](https://youtu.be/7BllEsdNLoM?t=2254))
-- Do not draft him in standard formats. Take him only in the late rounds or in deeper leagues. The experts prefer an upside flier over him at around pick 112. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [10-01](https://youtu.be/EGdhmUgPAWY?t=1180), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [09-24](https://youtu.be/_vbAP5y182A?t=2144))
-- With a March 28 season end, Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
-- From January 1 to the end of last season he was top five in assists per game. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=650))
-- Josh found him slightly underwhelming as the lead point guard. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=604))
+- His Yahoo injury status is questionable, with an undisclosed reason. (fact, 2026-10-16; stats)
+- Experts think pick 120 is too early. They put his fair spot in rounds 13 to 14, around pick 164. One expert would not draft him in standard leagues but sees him as fine in deeper leagues. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1778), [10-11](https://youtu.be/uI6umXsE7Vk?t=1682), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [10-01](https://youtu.be/EGdhmUgPAWY?t=1180))
+- Experts see him as a safe veteran with little or no upside. They would rather take upside fliers at the same spot. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1597), [09-30](https://youtu.be/BjXP9JODDSg?t=1808), [09-24](https://youtu.be/_vbAP5y182A?t=2144), [09-09](https://youtu.be/7BllEsdNLoM?t=2254))
+- He is projected to start at guard next to Tyrese Haliburton, with Nesmith, Siakam and Zubac. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [08-10](https://youtu.be/sfCe7fS9daM?t=443))
+- With Haliburton back, he moves into a lower-usage role and his assists should drop. (verdict, 2026-10-01; [08-10](https://youtu.be/sfCe7fS9daM?t=604), [09-09](https://youtu.be/7BllEsdNLoM?t=2254), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089))
+- His only real upside comes if Haliburton misses time. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048), [10-01](https://youtu.be/EGdhmUgPAWY?t=1089))
+- Experts call him a fade at his Yahoo rank of about 108. They see his ESPN rank of about 149 as reasonable. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1089), [10-01](https://youtu.be/EGdhmUgPAWY?t=1854))
+- Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- Coach Rick Carlisle keeps minutes low even for healthy players and rests players on back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [09-22](https://youtu.be/QbdrhJd7LiA?t=264))
+- Experts project Indiana to win 46 to 48 games and finish as a top-six seed in the East. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748))
 
 **Durable**
-- He is a low-usage player with weak defensive stats and shooting percentages that go up and down. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048))
-- His assist value depends on Haliburton being out. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048))
-- He shoots threes badly in the regular season but has shot about 40% from three in the playoffs. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=589))
+- He gives almost no blocks. (fact, 2026-10-16; stats)
+- Assists are his one strong category. His assist value depends on Haliburton being out. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048), stats)
+- He is a low-usage player with up and down shooting percentages and weak defensive stats. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=1048))
+- He is a poor three-point shooter in the regular season but has shot about 40% from three in the playoffs. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=589))
 
 **Tags**
-- Current: `role down` (Lower usage and fewer assists with Haliburton back), `handcuff` (Upside only when Haliburton is out), `bust candidate` (Biggest Pacers fade at Yahoo rank 108), `sites disagree on price` (Yahoo rank 108 and 4 USD vs ESPN rank 149 and 0 USD), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 with a March 28 end)
-- Durable: none
+- Current: `role down` (lower usage and fewer assists with Haliburton back), `usage competition` (shares the ball with Haliburton), `handcuff` (upside only if Haliburton misses time), `bust candidate` (at Yahoo rank of about 108), `sites disagree on price` (Yahoo rank about 108 to 111, ESPN about 149 to 151), `waiver watch` (fair spot around pick 164, outside our 144-player draft), `questionable` (Yahoo Q, undisclosed), `bad playoff schedule` (3-4-3 games for a March 28 end), `back-to-back risk` (Carlisle rests players on back-to-backs; 15 back-to-backs), `winning team` (projected 46 to 48 wins)
+- Durable: `usage dependent` (assist value depends on Haliburton being out), `streaky` (up and down shooting percentages)
 
-**Note.** He went for 10 USD in our league last season. This year Yahoo values him at 4 USD (1.0 average cost, rank 108) and ESPN at 0 USD (rank 149), and the experts side with ESPN. With 144 players drafted, he is at most a 1 USD bench pick: a Haliburton handcuff whose only plus is assists (6.0 projected, his one category clearly above the pool), with nothing else to help a build. Early in the season, check his usage and assists next to a healthy Haliburton and whether Carlisle limits Haliburton's minutes. If Haliburton misses time, pick him up from waivers.
+**Note.** With Haliburton back, he is an assists-only guard (6.1 projected assists, z +1.5) with no other real strength, and his playoff schedule is weak. His prices are near the minimum (Yahoo value 3 USD at an average cost of 1.0 USD, ESPN 0 USD), and experts put his fair spot around pick 164, so do not repeat last season's 10 USD price. At most, take him for 1 USD late. Better, leave him on waivers, check his Q status, and add him fast if Haliburton's minutes are limited or he misses time.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 212 | 0 | 0.1 | 152 | not drafted |
+| 2026-27 | 0 | - | 217 | 0 | 0.1 | 152 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,24 @@
 </details>
 
 **Current**
-- Tobias Harris, the likely starting forward, has a calf strain. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
-- The Spurs signed Tobias Harris. That adds to an already deep forward and wing group with Devin Vassell, Julian Champagnie and Harrison Barnes. (fact, 2026-08-27; [07-05](https://youtu.be/4kKINkZhWls?t=3529), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- He projects as about the eighth man in the rotation. He is not a starter but still ranks ahead of Harrison Barnes. The projected starters are Fox, Castle, Vassell, Harris and Wembanyama. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1334), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
+- He is projected to come off the bench. The projected Spurs bench is Champagnie, Harris, Kornet, Keldon Johnson and Bryant, behind starters Fox, Harper, Castle, Vassell and Wembanyama. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1417))
+- The Spurs lean toward starting three guards. That leaves a bench made up only of forwards, so he competes with several forwards for minutes. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=76), [10-15](https://youtu.be/c-WwNRgVxkI?t=163), [10-15](https://youtu.be/bd8GYKFOe8A?t=1037))
+- The Spurs are deep, and minutes may stay low after their long playoff run. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=140))
+- Expect a significantly worse season than last year. Outside the top 200 on Yahoo is where he belongs. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1255))
+- The Spurs play 3-4-3 games in our playoff weeks 19 to 21 and have only 13 back-to-backs this season. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1598))
+- He is likely about the eighth man in the rotation, still ahead of Harrison Barnes. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1334))
 - This is a contract year for him. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1404))
-- The Spurs are expected to trade away some of their forward depth in the relatively near future, but not right now. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- The Spurs are pushing to win now and project as a top team in the West, with one prediction of 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- The roster is very deep at forward. Trades to consolidate it are expected in the relatively near future. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
 
 **Durable**
-- He won Sixth Man of the Year. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3523))
-- He is not starting caliber. His numbers as a starter years ago were his ceiling. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3522))
-- His game is very similar to Saddiq Bey's. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3522))
+- He is bad for fantasy. He is a usage-sponge driver who does not pass or defend and is not a reliable three-point shooter. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1230))
+- He is not starting caliber. His numbers as a starter years ago were his ceiling. He plays very much like Saddiq Bey. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3522))
+- He has won the Sixth Man of the Year award. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=3523))
 
 **Tags**
-- Current: `contract year`, `role down` (Bench role behind Tobias Harris after the Harris signing, about eighth man), `minutes competition` (Forward and wing minutes shared with Harris, Vassell, Champagnie and Barnes), `deep rotation` (Very deep at forward), `trades likely` (Forward depth expected to be consolidated through trades, not right now), `winning team` (Predicted 63 wins)
-- Durable: `plays every game` (82 games in 2025-26 and 77 in 2024-25)
+- Current: `role down` (Bench forward, about eighth man after the Tobias Harris signing. A significantly worse season is expected.), `minutes competition` (Competes with Champagnie, Harris and Barnes for forward minutes.), `contract year`, `deep rotation` (Spurs are very deep at forward. Minutes may stay low.), `trades likely` (Consolidation of the deep forward group is expected.), `winning team` (63 wins predicted.), `few back-to-backs` (Only 13 back-to-backs.), `questionable` (Yahoo status Q (Rest).)
+- Durable: `defensive liability` (Described as a player who does not defend.), `plays every game` (82 and 77 games in the last two seasons.)
 
-**Note.** At Yahoo rank 212 and ESPN rank 152, with a 0 USD value on both sites, he falls outside our 144-player draft pool. He should go undrafted. His projection of about 13 points and 5 rebounds in roughly 25 minutes has no category outlier. It brings few steals and blocks, offset by low turnovers and a decent FG% for a forward. Watch him on waivers early in the season if Tobias Harris's calf strain lingers or a Spurs trade clears forward minutes.
+**Note.** Both sites price him at 0 USD (Yahoo rank 217, ESPN rank 152), and our league did not draft him last season. That puts him well outside our 144-player draft, so do not bid on him. His projected line has no category that stands out (AST, STL and BLK all sit near -1.0 z), so he fits no build in particular. Early in the season, check only whether the three-guard lineup or a forward injury lifts his minutes clearly above last season's 23 per game before you look at him on waivers.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

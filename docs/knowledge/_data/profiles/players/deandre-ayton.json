@@ -8,20 +8,29 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ae99fb0c5ca2",
+ "input_sha": "0cf9eb0e103d",
  "note_count": 3,
- "built_at": "2026-10-11T09:15:07+00:00",
+ "built_at": "2026-10-16T08:50:54+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1944286,
-  "duration_ms": 38272,
-  "turns": 3,
+  "cost_usd_list": 0.15221020000000002,
+  "duration_ms": 38634,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Washington acquired Ayton from the Lakers for Jaden Hardy and second-round picks. He is the backup big man behind Alex Sarr and Anthony Davis and comes off the bench.",
+   "text": "Washington acquired him from the Lakers for Jaden Hardy and second-round picks.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:p5"
+   ]
+  },
+  {
+   "text": "He is the backup big man behind Alex Sarr and Anthony Davis and comes off the bench.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -32,25 +41,7 @@
    ]
   },
   {
-   "text": "Washington lacks depth at center behind Sarr and Davis.",
-   "kind": "fact",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "LUTYUdXBG1M:t0"
-   ]
-  },
-  {
-   "text": "Experts say he is no longer the player he was in Phoenix.",
-   "kind": "verdict",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:p5"
-   ]
-  },
-  {
-   "text": "Davis's health is a question, so Ayton could get 30-minute roles at times when Davis is out.",
+   "text": "Davis's health is a question, so he could get 30-minute roles at times.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -61,7 +52,16 @@
    ]
   },
   {
-   "text": "His FG% jump last season may have been helped by playing with Luka. He now plays with Trae Young, and the expert says not to assume a big FG% drop.",
+   "text": "He now plays with Trae Young in Washington.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p28"
+   ]
+  },
+  {
+   "text": "Do not automatically expect a big drop in his FG%.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -70,23 +70,21 @@
    ]
   },
   {
-   "text": "One expert is about 80% sure Washington keeps Davis, but a Davis trade cannot be ruled out. If Davis is traded, Sarr starts at center.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:t3",
-    "4GDfg2n2l8o:t11"
-   ]
-  },
-  {
-   "text": "Washington is trying to compete and expects to be near .500 and in the play-in mix, so the late-season resting and minutes cuts of past years should not return.",
+   "text": "He is no longer the player he was in Phoenix.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t0",
-    "UTE0dNIv8nY:t4"
+    "UTE0dNIv8nY:p5"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete, so the late-season rest and minutes cuts of past years should not happen.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
    ]
   }
  ],
@@ -94,16 +92,7 @@
   {
    "text": "He makes almost no threes.",
    "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is an efficient finisher whose FG% helps, but on low shot volume. Assists and steals are weak.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -124,7 +113,7 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Bench role behind Sarr and Davis after starting 72 games last season",
+   "detail": "Bench role behind Alex Sarr and Anthony Davis",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p5",
@@ -135,32 +124,23 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Could get 30-minute roles when Anthony Davis is out",
+   "detail": "Backup to Anthony Davis, whose health is a question",
    "until": "",
    "sources": [
     "-y6p5PYLf00:p28",
-    "-y6p5PYLf00:t3"
+    "-y6p5PYLf00:t3",
+    "UTE0dNIv8nY:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Ranked outside the 144 drafted players; watch for Davis injuries",
+   "detail": "Ranked outside the 144 drafted players. Worth adding if Davis misses time.",
    "until": "",
    "sources": [
-    "stats",
-    "-y6p5PYLf00:p28"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "low shutdown risk",
-   "channel": "current",
-   "detail": "Washington is trying to compete for the play-in",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t0"
+    "-y6p5PYLf00:p28",
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -183,8 +163,28 @@
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Washington is trying to compete",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "coach hot seat",
+   "channel": "current",
+   "detail": "Brian Keefe under pressure to win",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t5"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo and ESPN both give him 0 USD of value and rank him around 190, outside the 144 players we draft. Do not repeat last season's 9 USD price in our league. Leave him on waivers and watch Anthony Davis's health early in the season, because a Davis absence could push Ayton toward 30 minutes. In that role he helps punt 3PM builds with efficient FG%, rebounds and low turnovers.",
+ "note": "Yahoo and ESPN both value him at 0 USD and rank him 178 and 194, outside the 144 players we draft, so do not pay anything like the 9 USD he cost in our league last season. As a bench big his projected line is about 10 points and 7 rebounds with a strong FG% and no threes, so he only makes sense as a late punt 3PM piece. Leave him on waivers and watch Davis's health and Ayton's minutes in the first weeks, since the expert says he could get 30-minute roles when Davis is out.",
  "rejected": []
 }

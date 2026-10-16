@@ -8,53 +8,44 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "986a2a616497",
- "note_count": 15,
- "built_at": "2026-10-11T09:19:00+00:00",
+ "input_sha": "8f73b40f8be9",
+ "note_count": 16,
+ "built_at": "2026-10-16T09:02:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2054102,
-  "duration_ms": 57970,
+  "cost_usd_list": 0.2038942,
+  "duration_ms": 56928,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He signed with Minnesota and is the projected fifth starter. Reports say he was promised a starting spot.",
+   "text": "He signed with Minnesota and is projected as the fifth starter next to Ball, Edwards, McDaniels and Gobert. Reports say he was promised a starting spot.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p14",
-    "ZYllcj4o6_A:p37",
     "sTtFUy7IoJI:p13",
+    "ZYllcj4o6_A:p37",
+    "cFV24VgxyCY:p14",
     "6DnRWahYrFA:t4"
    ]
   },
   {
-   "text": "Experts doubt the starting role will hold. He may start in name only, play about 21 minutes and lose closing minutes to another player. His starting spot is not guaranteed for the whole season.",
+   "text": "Experts doubt he will play real starter minutes. One expects him to start but play only about 21 minutes while another player closes games. Others say his starting spot is not guaranteed and may not last all season.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p14",
-    "ZYllcj4o6_A:p37",
     "BiIZsSypx7Y:t5",
-    "n4KkK-OJjqA:t4"
+    "n4KkK-OJjqA:t4",
+    "ZYllcj4o6_A:p37"
    ]
   },
   {
-   "text": "He is shooting 23% from the field in preseason.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p16"
-   ]
-  },
-  {
-   "text": "His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but it should stay above 20%.",
+   "text": "His usage should drop next to Anthony Edwards, LaMelo Ball and Jaden McDaniels, but stay above 20%.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -63,132 +54,106 @@
    ]
   },
   {
-   "text": "He is a late flyer only. Do not take him inside the top 100. A Yahoo rank around 115 is fine. Drop him quickly if his role does not grow. Experts rejected the earlier mid-round prices (Yahoo rank 50, ESPN rank 44, a fourth-round pick).",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p16",
-    "QbdrhJd7LiA:p20",
-    "uarqbNA2dFk:p30"
-   ]
-  },
-  {
-   "text": "With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoff weeks. The two-game week is the semifinal, which is the week starting March 15. The team has 13 back-to-backs, the league minimum.",
+   "text": "He is shooting 23% in preseason.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:t5",
-    "gf_6GveiAls:t14",
-    "2mxpEpGU3H8:t4",
-    "J1Eg3uaAICU:t0",
-    "QbdrhJd7LiA:t4"
+    "cFV24VgxyCY:p16"
    ]
   },
   {
-   "text": "Minnesota is expected to compete and win about 53 games, so it should not rest players to tank.",
+   "text": "He is a late flyer only. Do not take him inside the top 100. He is fair value around pick 115 to 148. Drop him quickly if his role does not grow.",
    "kind": "verdict",
-   "date": "2026-08-19",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t3",
-    "Rqb5GdrSweY:t8"
+    "cFV24VgxyCY:p16",
+    "uI6umXsE7Vk:p62"
+   ]
+  },
+  {
+   "text": "Minnesota plays 4, 2 and 4 games in our playoff weeks 19 to 21. The two-game week, starting March 15, is the semifinal.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "EogBYa24Gto:t3",
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "QbdrhJd7LiA:t4",
+    "J1Eg3uaAICU:t0"
+   ]
+  },
+  {
+   "text": "Minnesota has 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a scorer who adds little else. His steals, blocks and assists are poor.",
-   "kind": "fact",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:p49",
-    "Alwse2uXzD4:p21",
-    "sTtFUy7IoJI:p14",
-    "sTtFUy7IoJI:p16"
-   ]
-  },
-  {
-   "text": "Free throws are a clear weakness. He projects at about 69% on 3 to 4 attempts a game, which is a league outlier on the weak side. Experts also call his three-point shooting poor.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p15",
-    "Alwse2uXzD4:p21",
-    "sTtFUy7IoJI:p14",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is worth more in points leagues than in 9-cat category leagues.",
+   "text": "He is a scoring-first player who is worth more in points leagues than in 9-cat.",
    "kind": "verdict",
-   "date": "2026-09-10",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p49",
     "sTtFUy7IoJI:p16",
-    "Alwse2uXzD4:p20"
+    "Alwse2uXzD4:p21"
    ]
   },
   {
-   "text": "His big fantasy games come when teammates are out. When they return, his role shrinks. Overall his fantasy production has been disappointing.",
+   "text": "He gives little in steals, blocks and assists.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p15",
-    "H9q2FT3LhNw:p29"
+    "dlo7L8Ru91A:p49",
+    "sTtFUy7IoJI:p14",
+    "Alwse2uXzD4:p21"
    ]
   },
   {
-   "text": "Experts see him as a negative on defense and call him lazy on that end.",
+   "text": "He is a poor free throw shooter and a weak three-point shooter.",
    "kind": "verdict",
    "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p15",
-    "sTtFUy7IoJI:p12"
-   ]
-  }
- ],
- "tags": [
-  {
-   "name": "FT% liability",
-   "channel": "durable",
-   "detail": "About 69% FT projected on 3 to 4 attempts a game",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p15",
     "Alwse2uXzD4:p21",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "points league player",
-   "channel": "durable",
-   "detail": "Scoring-only profile, tier 6 in points vs tier 8 in categories",
-   "until": "",
-   "sources": [
     "dlo7L8Ru91A:p49",
-    "sTtFUy7IoJI:p16"
-   ],
-   "new_meaning": ""
+    "sTtFUy7IoJI:p14",
+    "stats"
+   ]
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "Big games come only when teammates are out",
+   "text": "His big fantasy games have come when teammates were out, such as Jalen Johnson in Atlanta. He is buried again once they return.",
+   "kind": "fact",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p15",
     "H9q2FT3LhNw:p29"
-   ],
-   "new_meaning": ""
+   ]
   },
+  {
+   "text": "Experts see him as a poor defender with a negative defensive impact who is lazy on defense.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p12",
+    "cFV24VgxyCY:p15"
+   ]
+  }
+ ],
+ "tags": [
   {
    "name": "new team",
    "channel": "current",
@@ -203,7 +168,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Fifth starter spot not secure; may play about 21 minutes while another player closes games",
+   "detail": "Fifth starter spot not guaranteed. Another player may close games.",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p14",
@@ -216,7 +181,7 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Edwards, Ball and McDaniels",
+   "detail": "Edwards, Ball and McDaniels",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p15"
@@ -226,27 +191,52 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late flyer only, not inside the top 100; drop quickly if nothing happens",
+   "detail": "Late flyer only, around pick 115 to 148",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p16"
+    "cFV24VgxyCY:p16",
+    "uI6umXsE7Vk:p62"
    ],
    "new_meaning": ""
   },
   {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (Rest)",
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Scoring-only profile",
    "until": "",
    "sources": [
-    "stats"
+    "dlo7L8Ru91A:p49",
+    "sTtFUy7IoJI:p16",
+    "Alwse2uXzD4:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Big games only when teammates are out",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p15",
+    "H9q2FT3LhNw:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "Negative defensive impact, lazy on defense",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p12",
+    "cFV24VgxyCY:p15"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 2, 4 games, with the two-game week in the semifinal",
+   "detail": "Two-game semifinal week (4, 2, 4)",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
@@ -258,34 +248,14 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, the league minimum",
+   "detail": "13, the league minimum",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected for about 53 wins",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "low shutdown risk",
-   "channel": "current",
-   "detail": "Competitive team, not expected to tank",
-   "until": "",
-   "sources": [
-    "Rqb5GdrSweY:t8"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "He sits right at the edge of our 144-player pool (Yahoo rank 136, ESPN rank 186, about 1 USD on both sites and 1 USD in our league last year), so he is a 1 USD last-round flyer at most. His weak FT% (about 69% on 3 to 4 attempts) and thin defensive stats make him a poor fit for most builds; he fits best on a team that already ignores FT%. In the first weeks, check whether he actually plays starter minutes (around 28 rather than 21) and closes games, and whether his 23% preseason shooting recovers. If not, cut him early, and note that Minnesota has only 2 games in our semifinal week.",
+ "note": "He costs about 1 USD everywhere: 1.0 USD on Yahoo, 0.4 USD on ESPN and 1 USD in our auction last season. His Yahoo rank of 136 puts him at the edge of the 144 drafted players. No category is flagged as a punt fit for him, and his FT% (z -1.4) and weak defensive stats make him a scorer with little 9-cat support. Take him only as a last-dollar flyer. In the first weeks, check whether he keeps starting, gets more than about 21 minutes and is on the floor to close games. Drop him quickly if not, and note the two-game semifinal week if you plan to hold him.",
  "rejected": []
 }

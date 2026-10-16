@@ -15,134 +15,78 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:50:19+00:00",
+ "built_at": "2026-10-16T12:48:43+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.31119680000000005,
-  "duration_ms": 85495,
+  "cost_usd_list": 0.2913768,
+  "duration_ms": 89445,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
+  "ace-bailey",
+  "ajay-mitchell",
   "andrew-wiggins",
+  "ayo-dosunmu",
   "brandin-podziemski",
   "cameron-johnson",
   "cedric-coward",
-  "chet-holmgren",
-  "christian-braun",
   "deaaron-fox",
+  "desmond-bane",
   "dylan-harper",
   "franz-wagner",
   "jaden-mcdaniels",
   "jalen-williams",
   "jamal-murray",
-  "john-collins",
   "josh-hart",
   "jrue-holiday",
   "kawhi-leonard",
   "keegan-murray",
-  "kelel-ware",
-  "kon-knueppel",
   "kristaps-porzingis",
   "kyrie-irving",
-  "kyshawn-george",
-  "matas-buzelis",
+  "lauri-markkanen",
   "max-strus",
-  "michael-porter",
   "mikal-bridges",
-  "naz-reid",
+  "miles-bridges",
   "nickeil-alexander-walker",
   "norman-powell",
   "og-anunoby",
   "onyeka-okongwu",
+  "paul-george",
   "quentin-grimes",
   "reed-sheppard",
   "ryan-rollins",
   "shai-gilgeous-alexander",
   "tobias-harris",
-  "toumani-camara",
   "trey-murphy",
-  "ty-jerome",
   "tyler-herro",
-  "wendell-carter"
+  "tyrese-haliburton",
+  "tyrese-maxey",
+  "zach-lavine"
  ],
- "summary": "For the balanced build, fill your core from players ranked about 25 to 75 who have no weak category. Spend mostly in the 20 to 30 USD and 10 to 20 USD tiers, then add deep values like Ryan Rollins, Nickeil Alexander-Walker and Ty Jerome. When two players cost the same, take the one whose value comes from points, rebounds and assists over the one who relies on steals, blocks and percentages, because those counting stats repeat more reliably from week to week.",
+ "summary": "A balanced build skips the projected top 20 and fills the core with players ranked roughly 25 to 75. The safest of them get their value from points, rebounds and assists, because those categories repeat week to week. Build around Markkanen, Jalen Williams, Murphy and Kawhi in the 20 to 25 USD range. Then add 10 to 20 USD players with no weak category, such as Alexander-Walker, Anunoby, Paul George, Wagner, Fox and Rollins. Fill the end of the draft with 1 to 5 USD players who also have no weak category.",
  "sections": [
   {
-   "heading": "What the balanced build asks for",
+   "heading": "What a safe core means in our league",
    "paragraphs": [
     {
-     "text": "The balanced build skips the projected top 20. It puts the 11 core players in roughly ranks 25 to 75. Its ceiling is lower, but it is much safer. In our auction, that means not chasing the 60 USD and higher stars. Spread the money over many mid-priced players instead.",
+     "text": "The balanced build skips the projected top 20 players. It puts the 11 core players between roughly rank 25 and rank 75. The ceiling is lower, but the build is much safer. In our 144-player draft, that means most of your 200 USD goes to players ranked around 25 to 75. You do not spend 60 or more USD on one star.",
      "sources": [
       "XnIWJyBB0EM:r18"
      ]
     },
     {
-     "text": "The safety comes from replacement. If your best player gets hurt, replacing a 30th-ranked player from waivers is much easier than replacing Jokic. With 144 players drafted, a lot of useful players stay on waivers. Keep some FAB for that.",
+     "text": "The safety comes from replacement. If your best player gets hurt, you can find another player around rank 30 on waivers much more easily than you can replace a top 5 player. With daily FAB waivers and 6 adds a week, a balanced team can patch an injury within days.",
      "sources": [
       "XnIWJyBB0EM:r19"
      ]
     },
     {
-     "text": "Every player in this article has no weak category, so none of them forces a punt. Within that group, prefer players whose strengths are points, rebounds and assists. These high-volume counting stats are the most stable from game to game. A player who wins on steals, blocks and percentages repeats his value less reliably.",
-     "sources": [
-      "aLP080hxizA:r12",
-      "3Qm5wLjhvTw:r1"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Where to spend in each price range",
-   "paragraphs": [
-    {
-     "text": "Above the balanced range, at 35 USD and up: Shai Gilgeous-Alexander and Jamal Murray fit every build. But Gilgeous-Alexander is a top-4 pick, and experts project Murray as a top 12 to 14 finish. Buying either one moves you toward a stars build. If you do buy one, keep Gilgeous-Alexander in the high 60s at most and Murray in the mid to high 30s.",
+     "text": "Every player in this article is tagged as fitting every build, with no weak category flagged. So none of them forces a punt. The real questions are what each one costs and which of his categories you can count on every week.",
      "sources": [
       "XnIWJyBB0EM:r18",
-      "player:shai-gilgeous-alexander",
-      "player:jamal-murray"
-     ]
-    },
-    {
-     "text": "The 20 to 30 USD tier is the heart of the build. Trey Murphy III (mid-20s), Jalen Williams (20 to 25 USD), Kawhi Leonard (stay near the 24 USD cap) and Chet Holmgren (about 21 to 22 USD) all sit in or near ranks 25 to 50. Their prices hold up only at those limits. Let someone else pay 30 USD for Holmgren or 29 USD for Williams.",
-     "sources": [
-      "player:trey-murphy",
-      "player:jalen-williams",
-      "player:kawhi-leonard",
-      "player:chet-holmgren"
-     ]
-    },
-    {
-     "text": "The 10 to 20 USD tier is where most of the 11 core spots get filled. Experts see Alexander-Walker as a top 35 to 50 player, and bids up to about 20 USD are supported. Kyrie Irving is worth high teens. Buzelis runs about 15 to 22 USD, Anunoby 15 to 18 USD and Herro 14 to 16 USD. Naz Reid, Okongwu, Wagner, Porter Jr. and Ware fit at about 10 to 15 USD.",
-     "sources": [
-      "player:nickeil-alexander-walker",
-      "player:kyrie-irving",
-      "player:matas-buzelis",
-      "player:og-anunoby",
-      "player:tyler-herro",
-      "player:naz-reid",
-      "player:onyeka-okongwu",
-      "player:franz-wagner",
-      "player:michael-porter",
-      "player:kelel-ware"
-     ]
-    },
-    {
-     "text": "Below 10 USD you can still find rank 50 to 80 players. Rollins finished around 51st last season, and his market price is about 2 USD. Jerome, Coward, Fox, Powell, Harper and McDaniels are all fair at about 5 to 8 USD. From 1 to 4 USD, use Podziemski, Hart, Keegan Murray, Wiggins and Collins as late fillers that fit any build.",
-     "sources": [
-      "player:ryan-rollins",
-      "player:ty-jerome",
-      "player:cedric-coward",
-      "player:deaaron-fox",
-      "player:norman-powell",
-      "player:dylan-harper",
-      "player:jaden-mcdaniels",
-      "player:brandin-podziemski",
-      "player:josh-hart",
-      "player:keegan-murray",
-      "player:andrew-wiggins",
-      "player:john-collins"
+      "0geFVzSqOnA:r11"
      ]
     }
    ]
@@ -151,45 +95,84 @@
    "heading": "Which categories are stable",
    "paragraphs": [
     {
-     "text": "Scoring is the most common stable strength in this group. Murphy, Leonard, Alexander-Walker, Irving, Herro, Wagner, Knueppel and Powell all help PTS. Most of them also add threes and FT%. Murray and Jalen Williams add assists to their points.",
+     "text": "Points, rebounds and assists are high-volume stats. They are the most stable from game to game. In head-to-head, players whose strengths sit in those categories are more reliable. A steady points, rebounds and assists player is worth more than one whose value comes from steals, blocks and percentages, because his production repeats more reliably.",
      "sources": [
       "aLP080hxizA:r12",
-      "player:trey-murphy",
-      "player:kawhi-leonard",
-      "player:nickeil-alexander-walker",
-      "player:kyrie-irving",
-      "player:tyler-herro",
-      "player:franz-wagner",
-      "player:kon-knueppel",
-      "player:norman-powell",
-      "player:jamal-murray",
-      "player:jalen-williams"
+      "3Qm5wLjhvTw:r1"
      ]
     },
     {
-     "text": "For rebounds, Holmgren and Ware are the bigs to target, and both also help BLK and FG%. Porter Jr. adds rebounds from a forward spot. For assists, look at Rollins, Jerome, Fox and Harper at guard. Hart and Podziemski give both rebounds and assists. Those two categories are not usually linked, so combining them carries extra value.",
+     "text": "Players who combine categories that usually do not go together carry extra value. Examples are rebounds with assists, or assists with steals from a forward. In this pool, Jalen Williams gives big assists and steals for a forward. Franz Wagner gives points and assists as a forward. Podziemski and Hart give a guard's assists plus rebounds.",
      "sources": [
       "0geFVzSqOnA:r11",
-      "player:chet-holmgren",
-      "player:kelel-ware",
-      "player:michael-porter",
-      "player:ryan-rollins",
-      "player:ty-jerome",
-      "player:deaaron-fox",
-      "player:dylan-harper",
-      "player:josh-hart",
-      "player:brandin-podziemski"
+      "player:jalen-williams",
+      "player:franz-wagner",
+      "player:brandin-podziemski",
+      "player:josh-hart"
      ]
     },
     {
-     "text": "Some players have no weak category, but their value comes mostly from steals, blocks or percentages. Anunoby (steals and threes), McDaniels (blocks, steals, FG%), Buzelis (blocks and threes), Okongwu (threes and steals) and Naz Reid (threes and blocks) belong here. They still fit, but treat them as the less stable part of your core. Do not overpay for them when a points, rebounds or assists player costs the same.",
+     "text": "Some players have no weak category but get their value from steals, threes, blocks or FG%. That group includes Anunoby, Mikal Bridges, McDaniels, Okongwu and Paul George. They fit any build, but their weekly output swings more. Pair them with points and assists players. Do not stack them as your core.",
      "sources": [
       "3Qm5wLjhvTw:r1",
       "player:og-anunoby",
+      "player:mikal-bridges",
       "player:jaden-mcdaniels",
-      "player:matas-buzelis",
       "player:onyeka-okongwu",
-      "player:naz-reid"
+      "player:paul-george"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to spend by price range",
+   "paragraphs": [
+    {
+     "text": "Above 35 USD sit Gilgeous-Alexander, Maxey, Haliburton and Jamal Murray. All four fit any build, but they are projected top 20 players, so the balanced plan lets other managers pay for them. If one of them falls to the experts' price range late in the auction, he is still a sound buy. That range is about 34 to 38 USD for Murray, mid-to-high 30s for Haliburton and 40 to 45 USD for Maxey.",
+     "sources": [
+      "XnIWJyBB0EM:r18",
+      "player:shai-gilgeous-alexander",
+      "player:tyrese-maxey",
+      "player:tyrese-haliburton",
+      "player:jamal-murray"
+     ]
+    },
+    {
+     "text": "From 20 to 25 USD, buy your anchors: Markkanen, Jalen Williams, Murphy and Kawhi Leonard. Markkanen and Murphy bring points and threes. Jalen Williams brings assists. Kawhi brings points and steals, but only near 20 to 24 USD because of his knee. Stop at the top of each player's range. Experts call 29 USD too high for Williams, and above 25 USD Murphy is priced on a role that came with Murray out.",
+     "sources": [
+      "player:lauri-markkanen",
+      "player:jalen-williams",
+      "player:trey-murphy",
+      "player:kawhi-leonard"
+     ]
+    },
+    {
+     "text": "From 10 to 20 USD comes the middle of the core. Alexander-Walker, Irving, Herro and Bane give points, threes and FT%. Wagner and Fox give points or assists. Rollins gives assists and steals. Anunoby, Paul George and Okongwu give steals and threes. This is where the build gets most of its depth, because market costs here often sit below expert values.",
+     "sources": [
+      "player:nickeil-alexander-walker",
+      "player:kyrie-irving",
+      "player:tyler-herro",
+      "player:desmond-bane",
+      "player:franz-wagner",
+      "player:deaaron-fox",
+      "player:ryan-rollins",
+      "player:og-anunoby",
+      "player:paul-george",
+      "player:onyeka-okongwu"
+     ]
+    },
+    {
+     "text": "From 5 to 12 USD, take upside pieces: Harper for assists, LaVine and Powell for points, McDaniels for defense and FG%, and Coward as a balanced wing. For the last bench spots, use 1 to 5 USD fillers such as Podziemski, Hart, Wiggins and Mikal Bridges. If one of them disappoints, you can replace him from waivers.",
+     "sources": [
+      "player:dylan-harper",
+      "player:zach-lavine",
+      "player:norman-powell",
+      "player:jaden-mcdaniels",
+      "player:cedric-coward",
+      "player:brandin-podziemski",
+      "player:josh-hart",
+      "player:andrew-wiggins",
+      "player:mikal-bridges"
      ]
     }
    ]
@@ -198,54 +181,43 @@
    "heading": "Where the sources disagree",
    "paragraphs": [
     {
-     "text": "The method notes agree on the build. The disagreement is between the experts and the market. Experts say ESPN's 40 USD value for Leonard is too high and cap him at 24 USD. ESPN buyers pay only about 25 USD for Murray, while Yahoo's average cost is 39 USD. Experts put Knueppel in the 60s even though the market ranks him in the 30s and 40s. They see Holmgren in the 40s, not Yahoo's 31. On the other side, experts rank Alexander-Walker, Rollins and Irving well above what the market pays. Use the expert price caps, and treat the low market prices as your chance to buy.",
+     "text": "Prices for several core players are disputed. For Murphy, Yahoo says 30 USD and ESPN says 12 USD. Josh and our past auction point to the low 20s. For Paul George, most experts see 10 to 15 USD as good value, while Josh would go up to 20 USD. For Markkanen, the experts give a round 3 grade that fits a mid-20s bid, but one mock already reached 30 USD. For Kawhi, ESPN's 40 USD value goes against the expert cap of 24 USD. For Mikal Bridges, ESPN's 26 USD value goes against an expert value of about 2 USD. In each case, our plan follows the expert range and not the higher site value.",
      "sources": [
+      "player:trey-murphy",
+      "player:paul-george",
+      "player:lauri-markkanen",
       "player:kawhi-leonard",
-      "player:jamal-murray",
-      "player:kon-knueppel",
-      "player:chet-holmgren",
-      "player:nickeil-alexander-walker",
-      "player:ryan-rollins",
-      "player:kyrie-irving"
+      "player:mikal-bridges"
      ]
     }
    ]
   },
   {
-   "heading": "Checks before the draft and in the playoffs",
+   "heading": "Playoff schedule and early checks",
    "paragraphs": [
     {
-     "text": "Before 2026-10-18, check the injury tags. Look at Holmgren's quadriceps (Q), Irving's knee (Q), Buzelis's ankle (Q), Porter Jr.'s wrist (Q), Fox's Q tag, and whether Gilgeous-Alexander's Q (Rest) tag is just preseason rest. Strus is listed Out with a foot injury.",
+     "text": "Our playoffs are weeks 19 to 21 and end 2027-03-28, so schedules matter for a core you plan to hold. Dallas (Irving), Memphis (Coward) and Phoenix (Miles Bridges) play 4-4-4. Haliburton plays only 3-4-3. Minnesota (McDaniels) has a two-game semifinal week. The Knicks (Anunoby, Mikal Bridges, Hart), Miami (Wiggins) and Houston (Sheppard) have weak schedules. Plan to trade Knicks and Miami players before the 2027-03-04 deadline.",
      "sources": [
-      "player:chet-holmgren",
       "player:kyrie-irving",
-      "player:matas-buzelis",
-      "player:michael-porter",
-      "player:deaaron-fox",
-      "player:shai-gilgeous-alexander",
-      "player:max-strus"
-     ]
-    },
-    {
-     "text": "A balanced build also needs games played in weeks 19 to 21. Toronto has three back-to-backs in our playoff weeks, which hurts Leonard. Dallas has a league-high 16 back-to-backs, so Irving could play only 10 games in his 4-4-4 playoff schedule if he keeps resting. Memphis's 4-4-4 schedule helps Jerome and Coward. McDaniels has a two-game semifinal week, and Houston has a weak 10-game playoff schedule for Sheppard.",
-     "sources": [
-      "player:kawhi-leonard",
-      "player:kyrie-irving",
-      "player:ty-jerome",
       "player:cedric-coward",
+      "player:miles-bridges",
+      "player:tyrese-haliburton",
       "player:jaden-mcdaniels",
+      "player:og-anunoby",
+      "player:mikal-bridges",
+      "player:josh-hart",
+      "player:andrew-wiggins",
       "player:reed-sheppard"
      ]
     },
     {
-     "text": "Over the first 30 or so games, the Knicks plan to limit starter minutes. Track Anunoby, Hart and Bridges. Watch trade news before the 2027-03-04 deadline for Murray, Powell, Herro and Rollins. A trade to a contender would gut Powell's value before our playoffs.",
+     "text": "In the first two to three weeks, check minutes and role first. Kawhi's and Irving's back-to-back games, Jalen Williams's hamstring, Wagner keeping the point guard role and Rollins keeping his starting job decide whether these players stay in your core. A balanced build can drop a player who misses these marks and replace him from waivers.",
      "sources": [
-      "player:og-anunoby",
-      "player:josh-hart",
-      "player:mikal-bridges",
-      "player:jamal-murray",
-      "player:norman-powell",
-      "player:tyler-herro",
+      "XnIWJyBB0EM:r19",
+      "player:kawhi-leonard",
+      "player:kyrie-irving",
+      "player:jalen-williams",
+      "player:franz-wagner",
       "player:ryan-rollins"
      ]
     }
@@ -255,209 +227,198 @@
  "players": [
   {
    "slug": "shai-gilgeous-alexander",
-   "tier": "Above balanced range (35+ USD)",
-   "line": "He gives outlier PTS plus FG%, FT% and steals on big volume, but as a top-4 pick he takes you out of the balanced build."
+   "tier": "Above 35 USD: outside the balanced core",
+   "line": "He has no weak category and gives elite points, but as a top 4 pick he is exactly the kind of player the balanced build skips."
+  },
+  {
+   "slug": "tyrese-maxey",
+   "tier": "Above 35 USD: outside the balanced core",
+   "line": "His points, threes, FT% and steals fit any build, but a projected 15th to 19th finish puts him above the 25 to 75 core range."
+  },
+  {
+   "slug": "tyrese-haliburton",
+   "tier": "Above 35 USD: outside the balanced core",
+   "line": "His elite assists are a stable category, but the torn Achilles, early load management and a 3-4-3 playoff schedule make him a risk for a safety-first build."
   },
   {
    "slug": "jamal-murray",
-   "tier": "Above balanced range (35+ USD)",
-   "line": "He provides stable PTS and AST, plus 3PM and FT%, but experts project a top 12 to 14 finish, which is above the balanced range."
+   "tier": "Above 35 USD: outside the balanced core",
+   "line": "Points, assists, FT% and threes with no weak spot make him safe, but as a round 2 player he sits above the balanced range unless he falls to the experts' range."
   },
   {
-   "slug": "trey-murphy",
-   "tier": "Core 20 to 30 USD",
-   "line": "He gives stable PTS plus threes, FT% and steals with no weak category, and a mid-20s price is fair."
+   "slug": "lauri-markkanen",
+   "tier": "20 to 25 USD: core anchors",
+   "line": "His strong points, about 3 threes and elite FT% on volume are a stable scoring base, but check his health after only 42 games."
   },
   {
    "slug": "jalen-williams",
-   "tier": "Core 20 to 30 USD",
-   "line": "He gives stable AST and PTS, plus steals from a forward spot, and is fairly priced at 20 to 25 USD."
+   "tier": "20 to 25 USD: core anchors",
+   "line": "Big assists and steals for a forward give him a rare category mix, and the market has dropped him into the core range."
+  },
+  {
+   "slug": "trey-murphy",
+   "tier": "20 to 25 USD: core anchors",
+   "line": "His points, threes, FT% on volume and steals have no weak spot, but his role next to a healthy Murray decides whether the points hold."
   },
   {
    "slug": "kawhi-leonard",
-   "tier": "Core 20 to 30 USD",
-   "line": "Per game he gives stable PTS, steals and FT%, but games played are the risk, so stay near the 24 USD cap."
-  },
-  {
-   "slug": "chet-holmgren",
-   "tier": "Core 20 to 30 USD",
-   "line": "He gives stable REB plus elite blocks and FG%, but at about 21 to 22 USD, not the 30 USD the market may pay."
+   "tier": "20 to 25 USD: core anchors",
+   "line": "Per game he gives top 10 points, FT%, FG% and steals, but his knee makes him a buy only at the low end of this range."
   },
   {
    "slug": "nickeil-alexander-walker",
-   "tier": "Mid 10 to 20 USD",
-   "line": "Experts see a top 35 to 50 player who gives PTS, 3PM and FT%, and bids up to about 20 USD are supported."
+   "tier": "10 to 20 USD: core depth",
+   "line": "About 19 points plus threes and FT% with no weak category make him a clear value target in the core range."
   },
   {
    "slug": "kyrie-irving",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives stable PTS plus FT% and threes, and is worth high teens if his back-to-back rest does not drain his playoff games."
-  },
-  {
-   "slug": "matas-buzelis",
-   "tier": "Mid 10 to 20 USD",
-   "line": "His value rests on blocks and threes from a forward spot, which is less stable than counting stats, so expect 15 to 22 USD."
+   "tier": "10 to 20 USD: core depth",
+   "line": "He adds points, FT% and threes at a market cost below his round 3 grade, and Dallas has a 4-4-4 playoff schedule."
   },
   {
    "slug": "og-anunoby",
-   "tier": "Mid 10 to 20 USD",
-   "line": "Steals and threes carry his value, and those are less stable categories, so stay at about 15 to 18 USD."
+   "tier": "10 to 20 USD: core depth",
+   "line": "His value comes from steals and threes, which are less stable, and the Knicks' weak playoff schedule makes him a trade chip."
   },
   {
-   "slug": "tyler-herro",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives stable PTS plus strong FT% and threes, and is fair at 14 to 16 USD."
-  },
-  {
-   "slug": "onyeka-okongwu",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives threes and steals from the center spot, but his FG% and blocks stay at lower levels, so treat him as a mid-priced second center."
-  },
-  {
-   "slug": "naz-reid",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives threes and blocks from a big at 10 to 14 USD, but he will not help FG%."
+   "slug": "paul-george",
+   "tier": "10 to 20 USD: core depth",
+   "line": "Steals, threes and FT% with possible extra usage as Boston's number two option make him underpriced, but watch his back-to-back rest."
   },
   {
    "slug": "franz-wagner",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He is a steady across-the-board forward led by PTS and FT%, worth 11 to 15 USD, not 20 USD or more."
-  },
-  {
-   "slug": "michael-porter",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives stable PTS and REB plus threes from a forward spot, and about 10 USD is fair."
-  },
-  {
-   "slug": "kelel-ware",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives stable REB plus BLK and FG% at a low market price, so bid up to about 13 USD."
-  },
-  {
-   "slug": "kon-knueppel",
-   "tier": "Mid 10 to 20 USD",
-   "line": "He gives PTS, threes and FT% but little in stocks, and experts rank him lower than the market, so stay at 8 to 12 USD."
-  },
-  {
-   "slug": "ryan-rollins",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives stable AST plus steals and threes, and experts see a top 50 player at a tiny market price, though turnovers are his weak spot."
-  },
-  {
-   "slug": "ty-jerome",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives stable AST plus threes, steals and FT% on a 4-4-4 playoff schedule, so bid up to about 8 USD."
-  },
-  {
-   "slug": "cedric-coward",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives REB that is strong for his position plus FT% on a 4-4-4 playoff schedule, and is a good target at 4 to 8 USD."
+   "tier": "10 to 20 USD: core depth",
+   "line": "Points, FT% and assists as a forward are stable categories that you get at a fair price, as long as he keeps the point guard role."
   },
   {
    "slug": "deaaron-fox",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives stable AST plus steals with nothing elite, so pay about 5 to 10 USD."
+   "tier": "10 to 20 USD: core depth",
+   "line": "His assists (5.6) and steals (1.4) give a guard base with no weak category, but check that his minutes stay near 31."
   },
   {
-   "slug": "norman-powell",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives stable PTS plus threes, is worth 6 to 7 USD, and carries trade-deadline risk."
+   "slug": "ryan-rollins",
+   "tier": "10 to 20 USD: core depth",
+   "line": "Steals, assists and threes with no weak flag make him a bargain at market cost, as long as he keeps the starting job."
+  },
+  {
+   "slug": "tyler-herro",
+   "tier": "10 to 20 USD: core depth",
+   "line": "He adds points, threes and FT% with no weak category, if he gets 34 to 35 minutes in a crowded guard group."
+  },
+  {
+   "slug": "desmond-bane",
+   "tier": "10 to 20 USD: core depth",
+   "line": "His 90% FT%, threes and points fit any build as a mid-round piece, but only at the real market price and not at last season's cost."
+  },
+  {
+   "slug": "onyeka-okongwu",
+   "tier": "10 to 20 USD: core depth",
+   "line": "A center who adds threes and steals without hurting any category, but check his Q status and minutes first."
   },
   {
    "slug": "dylan-harper",
-   "tier": "Value 5 to 10 USD",
-   "line": "He gives AST and good FG% for a guard and is a fair late buy at about 5 USD."
+   "tier": "5 to 12 USD: upside pieces",
+   "line": "Assists and FG% with upside to the top 60, if he stays a starter at 29 or more minutes."
   },
   {
    "slug": "jaden-mcdaniels",
-   "tier": "Value 5 to 10 USD",
-   "line": "His blocks, steals and FG% are less stable categories, and he has a two-game semifinal week, so bid up to about 6 USD."
+   "tier": "5 to 12 USD: upside pieces",
+   "line": "His steals, blocks and 50.9% FG fit any build, but those categories swing more than points or assists, and Minnesota has a two-game semifinal week."
+  },
+  {
+   "slug": "zach-lavine",
+   "tier": "5 to 12 USD: upside pieces",
+   "line": "A scorer with threes, points and good percentages whose draft position is rising, but check his minutes and any trade or buyout news."
+  },
+  {
+   "slug": "norman-powell",
+   "tier": "5 to 12 USD: upside pieces",
+   "line": "22.3 points and 2.9 threes as Chicago's likely top scorer, but a trade to a contender would cut his value before our playoffs."
+  },
+  {
+   "slug": "cedric-coward",
+   "tier": "5 to 12 USD: upside pieces",
+   "line": "A balanced wing with a 4-4-4 playoff schedule, though his low steals do little for steals-focused teams."
   },
   {
    "slug": "brandin-podziemski",
-   "tier": "Late 1 to 4 USD",
-   "line": "He combines REB and AST plus steals as a 1 to 4 USD guard while Butler is out."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "About 5.7 rebounds from a guard plus extra assists while Butler is out make him a cheap stable filler to sell before Butler returns."
   },
   {
    "slug": "josh-hart",
-   "tier": "Late 1 to 4 USD",
-   "line": "He combines REB and AST plus steals, but expected minutes near 30 keep him at 1 to 3 USD."
-  },
-  {
-   "slug": "keegan-murray",
-   "tier": "Late 1 to 4 USD",
-   "line": "He gives threes, blocks and few turnovers as a 1 to 4 USD forward, with soft FG% and assists."
-  },
-  {
-   "slug": "andrew-wiggins",
-   "tier": "Late 1 to 4 USD",
-   "line": "He is a safe 1 to 4 USD filler with no weak category, but his usage drops next to Giannis."
-  },
-  {
-   "slug": "john-collins",
-   "tier": "Late 1 to 4 USD",
-   "line": "He gives high FG%, decent FT% and some threes as a 1 to 5 USD big, but almost no assists."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "Rebounds, assists, steals and FG% with no weak spot, but he has little upside and the Knicks have a weak playoff schedule."
   },
   {
    "slug": "mikal-bridges",
-   "tier": "Late 1 to 4 USD",
-   "line": "He has no weak category but no standout one either, so bid only a few dollars while the Knicks limit his minutes."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "Steals, threes, low turnovers and full availability but no strong category, so he is late filler only."
+  },
+  {
+   "slug": "andrew-wiggins",
+   "tier": "1 to 5 USD: late fillers",
+   "line": "2.0 threes and 1.0 blocks are good for a forward, but his 10-game playoff schedule makes him a trade chip."
+  },
+  {
+   "slug": "miles-bridges",
+   "tier": "1 to 5 USD: late fillers",
+   "line": "An end-of-draft forward with no weak category and a 4-4-4 playoff schedule whose value needs a big shot share."
+  },
+  {
+   "slug": "keegan-murray",
+   "tier": "1 to 5 USD: late fillers",
+   "line": "He has no weak category and upside to about 60th, but he anchors nothing and missed preseason with an ankle injury."
   },
   {
    "slug": "reed-sheppard",
-   "tier": "Late 1 to 4 USD",
-   "line": "He gives threes and steals as a 1 to 5 USD flier, but his role is shrinking and Houston's playoff schedule is weak."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "Steals and threes off the bench, but his minutes are uncertain and Houston has a weak 10-game playoff schedule."
   },
   {
-   "slug": "kristaps-porzingis",
-   "tier": "Late 1 to 4 USD",
-   "line": "He gives threes, blocks and good FT% from the center spot as a 1 to 3 USD flier with hamstring risk."
-  },
-  {
-   "slug": "toumani-camara",
-   "tier": "Late 1 to 4 USD",
-   "line": "His value is mostly threes and steals as a 1 to 2 USD pick, and his FG% and FT% cost a little."
-  },
-  {
-   "slug": "tobias-harris",
-   "tier": "Last dollar or waivers",
-   "line": "He gives good FT% and low turnovers but moves no category much, so take him at 1 USD at most."
+   "slug": "ayo-dosunmu",
+   "tier": "1 to 5 USD: late fillers",
+   "line": "His value rests on last season's FG% and FT%, which are less stable than counting stats, so he is a 1 to 3 USD buy only."
   },
   {
    "slug": "quentin-grimes",
-   "tier": "Last dollar or waivers",
-   "line": "He has no weak category and is mainly insurance for the Doncic or Reaves owner, but his 3-4-3 playoff schedule is weak."
-  },
-  {
-   "slug": "kyshawn-george",
-   "tier": "Last dollar or waivers",
-   "line": "He gives threes, some assists and blocks as a last-dollar pick, but 43% FG and 2.3 turnovers are the cost."
-  },
-  {
-   "slug": "wendell-carter",
-   "tier": "Last dollar or waivers",
-   "line": "He has no standout category, so pay 1 to 2 USD at most, and he is replaceable from waivers if he stays under 30 minutes."
-  },
-  {
-   "slug": "jrue-holiday",
-   "tier": "Last dollar or waivers",
-   "line": "Projections give him a smaller role that helps no category much, so let him go to waivers."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "A balanced line led by threes and a likely starting role, with a top 70 to 80 run if Doncic or Reaves misses time."
   },
   {
    "slug": "cameron-johnson",
-   "tier": "Last dollar or waivers",
-   "line": "He gives cheap threes and FT% with few turnovers at 1 to 2 USD, with upside if his usage rises."
+   "tier": "1 to 5 USD: late fillers",
+   "line": "Threes, FT% and low turnovers fit any build as a last pick, but a trade could shrink his role."
   },
   {
-   "slug": "christian-braun",
-   "tier": "Last dollar or waivers",
-   "line": "He gives FG% and low turnovers with no real outlier, and experts call him overvalued, so take him at 1 USD at most."
+   "slug": "ajay-mitchell",
+   "tier": "1 to 5 USD: late fillers",
+   "line": "Strong FT% and steals plus handcuff value to Gilgeous-Alexander and Jalen Williams, though he has no standout category."
+  },
+  {
+   "slug": "tobias-harris",
+   "tier": "1 USD or waivers",
+   "line": "Good FT% and few turnovers make him flat filler, but a calf strain and a likely bench role cap his minutes."
+  },
+  {
+   "slug": "jrue-holiday",
+   "tier": "1 USD or waivers",
+   "line": "He has no weak and no strong category, little upside and a weak playoff schedule, so leave him on waivers if he does not start."
+  },
+  {
+   "slug": "ace-bailey",
+   "tier": "1 USD or waivers",
+   "line": "His flat line of about 14 points and 1.9 threes anchors nothing, so he is a bench flyer at most."
   }
  ],
  "excluded": [
   {
+   "slug": "kristaps-porzingis",
+   "reason": "He is listed as O with no return date, and the newest expert calls say not to draft him, so he does not belong in a safe core."
+  },
+  {
    "slug": "max-strus",
-   "reason": "He is ranked 205 to 228, well outside the 144-player pool, and is listed Out with a foot injury, so he is a waiver watch, not a draft target."
+   "reason": "He is outside our 144-player pool, and his foot status is O, so he is a waiver watch and not part of a safe core."
   }
  ],
  "rejected": []

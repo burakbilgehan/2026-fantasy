@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 226 | 0 | 0.1 | 143 | not drafted |
+| 2026-27 | 0 | - | 229 | 0 | 0.1 | 143 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | 3PM | 1.8 | +0.4 | -0.0 | - |
 | PTS | 10.2 | -0.7 | -0.7 | - |
 | REB | 2.5 | -1.1 | -0.9 | - |
-| AST | 5.2 | +1.0 | +0.7 | - |
+| AST | 5.2 | +1.0 | +0.6 | - |
 | STL | 0.7 | -0.7 | -0.9 | - |
 | BLK | 0.1 | -1.0 | -1.1 | - |
 | TO | 1.3 | +0.5 | +0.7 | - |
@@ -28,21 +28,21 @@
 </details>
 
 **Current**
-- Ty Jerome has started both preseason games at point guard. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-07](https://youtu.be/lp11OAEpq4Y?t=867))
-- Spencer is projected to come off the bench. The projected bench is Pippen, Wells, Stewart, GG Jackson and Spencer. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
-- Memphis is expected to use an 11 or 12 man rotation with short stints, which limits bench minutes. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- He needs many players out of the way to matter in fantasy. Part of his value last season came from absences in Memphis. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [07-16](https://youtu.be/-y6p5PYLf00?t=564))
-- Memphis has 4 games in each of our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- The Memphis guard group is crowded with Javon Small, Ty Jerome, Scotty Pippen Jr. and Campazzo, so his minutes are uncertain. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564), [07-16](https://youtu.be/-y6p5PYLf00?t=557))
+- Ty Jerome is the projected starting point guard and has started both preseason games. Spencer is projected to come off the bench. (fact, 2026-10-12; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-12](https://youtu.be/ENizLoE6pzI?t=1231))
+- The Memphis guard group is crowded with Javon Small, Ty Jerome, Scotty Pippen Jr. and Campazzo. Coach Iisalo is expected to use an 11 or 12 man rotation. (fact, 2026-10-07; [07-16](https://youtu.be/-y6p5PYLf00?t=564), [07-16](https://youtu.be/-y6p5PYLf00?t=557), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- His minutes are uncertain. Several players ahead of him would need to be out before he matters in fantasy. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [07-16](https://youtu.be/-y6p5PYLf00?t=564))
+- Memphis plays 4-4-4 games in our playoff weeks (season ending March 28) and has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Last season he shot under 36% from three and 64% at the rim, and he gained from absences on the Memphis roster. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=564))
 
 **Durable**
-- He is a low-usage passer who adds assists and threes without many shots. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540))
-- Experts rate him as a very efficient mid-range and three-point shooter, but on low volume. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
+- He is a low-usage passer who adds assists but does not create much offense for himself. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540))
+- He is a very efficient shooter from mid-range and three, but he takes few threes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1540), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1147))
+- Coach Tuomas Iisalo plays at a very high pace with short stints and keeps minutes down, which limits bench guards' totals. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
 
 **Tags**
-- Current: `minutes competition` (Crowded guard group with Jerome, Small, Pippen Jr. and Campazzo; projected bench role), `deep rotation` (Iisalo runs an 11 or 12 man rotation with short stints), `waiver watch` (Matters only if injuries clear the Memphis guard group), `good playoff schedule` (4-4-4 in weeks 19 to 21 with a March 28 end), `few back-to-backs` (Memphis has 13 back-to-backs)
+- Current: `minutes competition` (Bench guard behind Ty Jerome, with Small, Pippen Jr. and Campazzo also in the mix), `deep rotation` (Iisalo expected to run 11 or 12 players), `waiver watch` (Matters only if several Memphis guards miss time), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, possibly fewest in the league)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN put his value at 0 USD (Yahoo rank 226, ESPN rank 143). With 144 players drafted, he is not a draft target in our league. Last season he played 23.8 minutes and averaged 5.6 assists and 2.0 threes at 94% FT, but he projects as a bench guard behind Jerome in a deep, short-stint rotation. Leave him on waivers and watch Memphis guard injuries early. If he gets starter minutes, his assists, threes, FT% and low turnovers fit guard-heavy builds, and Memphis has a full 4-4-4 playoff schedule.
+**Note.** Both sites give him 0 USD in value. He ranks 229 on Yahoo and 143 on ESPN, so he sits at the edge of our 144-player draft pool or outside it, and he should not be drafted. His value is assists (5.6 per game last season), strong FT% on low volume and few turnovers. He has no weak category, but his points, rebounds, steals and blocks are low. Watch him on waivers early in the season, in case Ty Jerome or other Memphis guards miss time and he moves into the 24-minute role he played last season.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

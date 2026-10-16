@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 311 | 0 | 0.0 | 289 | not drafted |
+| 2026-27 | 0 | - | 312 | 0 | 0.0 | 289 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 1.9 | +0.5 | +0.3 | - |
 | PTS | 8.7 | -0.9 | -1.0 | - |
 | REB | 1.4 | -1.6 | -1.8 | league outlier, weak |
-| AST | 1.2 | -1.1 | -1.2 | - |
+| AST | 1.2 | -1.0 | -1.2 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
 | TO | 0.7 | +1.3 | +1.3 | - |
@@ -30,20 +30,23 @@
 </details>
 
 **Current**
-- New coach Taylor Jenkins might use a deep rotation. The team is expected to focus more on young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
-- Milwaukee's backcourt is crowded with Herro, Rollins, Porter, Jakucionis, Burries, Green and Trent. He is not in the projected starting five of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-08](https://youtu.be/sDzeYdUhJDI?t=73))
-- He may get minutes so the team can justify his contract. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1668))
-- Experts expect the Bucks to be bad and to need trades to consolidate a roster overloaded with guards. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [08-14](https://youtu.be/owlM6b8oUd0?t=2216))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-16; stats)
+- He is not a draft target in our 12-team league. Both sites price him at 0 USD and rank him well outside the 144 players who get drafted. (verdict, 2026-10-16; stats)
+- New coach Taylor Jenkins' rotations are hard to predict, and he may use a deep rotation. That makes bench guard minutes uncertain. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-13](https://youtu.be/KqTKVExQGLo?t=254))
+- Milwaukee is expected to focus more on developing young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- Milwaukee's guard rotation is crowded. Rollins, Herro, Kevin Porter Jr., Jakucionis, Burries and Green all compete for backcourt minutes. (fact, 2026-10-08; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [08-14](https://youtu.be/owlM6b8oUd0?t=463))
+- He is not in the projected opening starting lineup of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- He played very poorly last season, but he may get minutes so the team can justify his contract. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1668))
 - Signed a four-year, 64 million USD contract with Milwaukee this offseason. (fact, 2026-08-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1484), [08-14](https://youtu.be/owlM6b8oUd0?t=463))
-- Experts call the contract horrific. Milwaukee is full of guards, and it is unclear where he fits. (verdict, 2026-08-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1484), [08-14](https://youtu.be/owlM6b8oUd0?t=463))
+- Experts call the contract horrific and say it is unclear where he fits on a roster full of guards. (verdict, 2026-08-14; [07-13](https://youtu.be/Rqb5GdrSweY?t=1484), [08-14](https://youtu.be/owlM6b8oUd0?t=463))
 
 **Durable**
-- Gets very few rebounds, even for a guard. (fact, 2026-10-11; stats)
+- His rebounds are very low, even for a guard, and rank among the weakest in the league. (fact, 2026-10-16; stats)
 
 **Tags**
-- Current: `new team` (Signed with Milwaukee on a four-year, 64 million USD deal), `minutes competition` (Crowded Bucks backcourt: Herro, Rollins, Porter, Jakucionis, Burries, Green), `deep rotation` (Jenkins might spread minutes across many guards), `unsettled rotation` (Experts call Milwaukee the rotation they understand least), `new coach` (Taylor Jenkins), `trades likely` (Roster needs trades to consolidate), `bottom team` (Bucks expected to be bad)
+- Current: `new team` (Signed a four-year, 64 million USD deal with Milwaukee), `minutes competition` (Crowded guard group: Rollins, Herro, Porter, Jakucionis, Burries, Green), `questionable` (Yahoo status Q (Rest)), `new coach` (Taylor Jenkins), `unsettled rotation` (Experts call it the hardest NBA rotation to read), `deep rotation` (Jenkins might use a deep rotation), `trades likely` (17-man roster, needs to consolidate), `bottom team` (Win total 26.5, about 33 wins expected)
 - Durable: none
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 311, ESPN 289), far outside the 144 players drafted in our league, so he is not a draft target. He projects for only about 1.9 threes and 8.7 points on 39.9% shooting, with very few rebounds. He would only matter if he wins steady minutes in Milwaukee's crowded backcourt. In the first weeks, check whether Jenkins gives him a regular role. Otherwise leave him on waivers.
+**Note.** Leave him undrafted. Both sites value him at 0 USD and rank him 312 (Yahoo) and 289 (ESPN), far outside our 144 drafted players. Last season he played 21.2 minutes for 8.1 points on 38.7% shooting, and threes (about 1.9 per game) are his only real contribution. Early in the season, check whether Jenkins gives him real minutes in the crowded Milwaukee backcourt. If he does, he becomes a low-turnover 3PM streamer off waivers.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

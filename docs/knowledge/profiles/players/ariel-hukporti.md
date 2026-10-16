@@ -11,18 +11,18 @@
 | 2026-27 | 0 | - | 416 | - | - | - | not drafted |
 
 **Current**
-- He has a torn Achilles and his 2026-27 season is over. (fact, 2026-10-06, until end of the 2026-27 season; [10-06](https://youtu.be/eTsjuVu1trk?t=115), stats)
-- Do not draft him in our league. He will not play this season. (verdict, 2026-10-06, until end of the 2026-27 season; [10-06](https://youtu.be/eTsjuVu1trk?t=115))
-- He joined Philadelphia this offseason as a backup center behind Joel Embiid. (fact, 2026-08-06; [07-02](https://youtu.be/P6TNP-g0wzY?t=1850), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
+- He tore his Achilles and is out for the season. (fact, 2026-10-13, until end of the 2026-27 season; [10-13](https://youtu.be/KqTKVExQGLo?t=1391), [10-06](https://youtu.be/eTsjuVu1trk?t=115))
+- His fantasy season is over, so he should not be drafted. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=115))
+- He signed with Philadelphia this offseason as a backup center behind Embiid. (fact, 2026-08-06; [07-02](https://youtu.be/P6TNP-g0wzY?t=1850), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
 
 **Durable**
 - He has torn his Achilles twice in his career. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=115))
-- He commits fouls at a very high rate per 36 minutes, which limits how long he can stay on the floor. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1861))
+- He commits fouls at a very high rate per 36 minutes. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1861))
 
 **Tags**
-- Current: `injured now` (Torn Achilles, out for the 2026-27 season (Yahoo status O); until end of the 2026-27 season), `new team` (Joined Philadelphia this offseason)
+- Current: `injured now` (Torn Achilles, out for the season; until end of the 2026-27 season), `new team` (Signed with Philadelphia this offseason)
 - Durable: `injury prone` (Second torn Achilles of his career), `foul prone` (Very high foul rate per 36 minutes)
 
-**Note.** Hukporti tore his Achilles for the second time and will miss the whole 2026-27 season, so he is not a pick in our 2026-10-18 auction or a waiver option. Even healthy, he was a deep backup: Yahoo values him at 0 USD (rank 416), ESPN does not list him, and he played 9.3 minutes per game last season. Nothing to check this season. Look at him again only in a later season, and keep the two Achilles tears and his foul trouble in mind.
+**Note.** Hukporti is out for the 2026-27 season with his second torn Achilles. Yahoo prices him at 0 USD (rank 416), and he played only about 9 minutes per game in each of the last two seasons. Leave him off your draft board and do not spend an IL slot on him. His injury leaves Philadelphia thin at backup center, so watch which healthy big gets Embiid's minutes when Embiid sits.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

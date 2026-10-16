@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 170 | 0 | 0.2 | 232 | not drafted |
+| 2026-27 | 0 | 1.0 | 171 | 0 | 0.2 | 232 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,30 +23,33 @@
 | REB | 2.8 | -1.0 | -0.7 | - |
 | AST | 2.0 | -0.6 | -1.0 | - |
 | STL | 0.7 | -0.8 | -1.0 | - |
-| BLK | 0.1 | -1.0 | -1.2 | - |
+| BLK | 0.1 | -1.1 | -1.2 | - |
 | TO | 1.3 | +0.5 | +0.7 | - |
 
 </details>
 
 **Current**
-- The Thunder will have to give more minutes to McCain and Ajay Mitchell. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
-- Experts expect McCain to come off the bench behind Cason Wallace and Ajay Mitchell. Wallace is almost certain to start. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011), [07-26](https://youtu.be/75Sk_4fkgIM?t=1722), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
-- He is overrated for fantasy at an ADP around 100. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011))
-- ESPN starting lineup graphics show McCain in the OKC starting lineup. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1722))
-- Josh sees no chance that McCain starts. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1722))
-- OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins. That frees up usage on the team. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705))
-- He has his first fully healthy offseason and a stable role in OKC. Before that he had an uncomfortable stint in Philadelphia and was traded midseason. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1796))
-- OKC values him more than outsiders do. The team believes he can get to the rim on the ball. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1767))
-- He got to the rim last season but did not finish well there. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1767))
+- The projected OKC starters are Shai Gilgeous-Alexander, Cason Wallace, Jalen Williams, Chet Holmgren and Isaiah Hartenstein. The only open starting question is Ajay Mitchell in place of Wallace. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=220))
+- The experts expect him to come off the bench behind Wallace and Mitchell. Josh sees no chance he starts, even though ESPN lineup graphics show him starting. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1582), [07-26](https://youtu.be/75Sk_4fkgIM?t=1722), [09-07](https://youtu.be/gJUBAJaHzlU?t=2011))
+- OKC lost Lu Dort, Aaron Wiggins and Isaiah Joe this offseason. Ajay Mitchell, Cason Wallace and Nikola Topic also compete for guard minutes. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=98), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
+- He projects for about 2 to 2.5 threes and 12 points per game. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1582))
+- The experts call him overrated and pass on him at a Yahoo ADP of 100 to 112 (round 10 to 11). He is a flyer for deep leagues only. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1582), [10-11](https://youtu.be/uI6umXsE7Vk?t=2007), [09-07](https://youtu.be/gJUBAJaHzlU?t=2011))
+- OKC lost its main shooters and could be one of the lowest three-point volume teams unless players like McCain shoot more. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=104), [08-09](https://youtu.be/8d--aL_xxwE?t=1650))
+- OKC has a league-minimum 13 back-to-backs. Its schedule is pretty good with a March 28 end date. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- With those players gone, OKC will have to give more minutes to Mitchell and McCain. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
+- He has his first fully healthy offseason and a stable role after a hard stint in Philadelphia and a midseason trade. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1796))
+- OKC values him more than outsiders do. The team believes in his on-ball ability to get to the rim, though he did not finish well there last season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1767))
+- OKC is projected for about 62 wins and a top-two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- He is a scorer only. He gives little in rebounds, assists, steals or blocks. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=2011), stats)
-- He is inconsistent. He has bright games, but in others he disappears, for example with zero points in 10 minutes. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1734))
+- He gives almost nothing except scoring and threes. He adds few rebounds, assists, steals, blocks or free throws, and his field goal shooting is not great. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1515), stats)
+- He needs a lot of usage to matter for fantasy. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1515))
+- His output swings a lot. He has bright games but also games where he disappears, such as zero points in 10 minutes. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1734))
 
 **Tags**
-- Current: `minutes competition` (Bench guard behind Cason Wallace and Ajay Mitchell), `role up` (OKC must give him more minutes after trading Dort, Joe and Wiggins), `bust candidate` (Called overrated at an ADP around 100), `waiver watch` (Ranked outside the 144 drafted players, but his minutes may rise)
-- Durable: none
+- Current: `minutes competition` (behind Cason Wallace and Ajay Mitchell for guard minutes, Topic also in the mix), `role up` (OKC lost Dort, Wiggins and Joe and must give him more minutes, but still off the bench), `bust candidate` (called overrated at a Yahoo ADP of 100 to 112), `waiver watch` (deep-league flyer only, ranked outside the 144 players drafted in our league), `winning team` (about 62 projected wins), `few back-to-backs` (league-minimum 13 back-to-backs), `good playoff schedule` (schedule pretty good with a March 28 end)
+- Durable: `usage dependent` (only scores, so he needs high usage to matter), `streaky` (bright games mixed with games where he disappears)
 
-**Note.** Yahoo ranks him 192 and ESPN 231, both at 0 USD, so he should go undrafted in our 144-player auction. Do not spend on him. The experts call him overrated, a scorer only, and a bench guard behind Wallace and Mitchell. Watch his early minutes on waivers. Projections have him at about 24.7 minutes, 12 points and 2.1 threes, up from 17.4 minutes last season. If OKC really gives him the minutes left by Dort, Joe and Wiggins, he could be a short-term threes and points pickup, but his FG% (projected 43.5%) and defensive stats stay weak.
+**Note.** At Yahoo rank 171 and ESPN rank 232, with average costs of 1.0 USD and 0.2 USD, he falls outside the 144 players drafted in our league. The experts say pass even at his Yahoo ADP of about 100 to 112. He only adds threes (about 2.1 projected) and some points, so he is a waiver option for teams chasing 3PM, not a draft target. Early in the season, check whether his minutes climb clearly above last season's 17.4 toward ESPN's projected 24.7, and whether he passes Wallace or Mitchell in the guard rotation.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

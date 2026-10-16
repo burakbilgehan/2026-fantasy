@@ -4,55 +4,56 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 65 | 31.4 | 43.9 (15.1) | 92.1 (6.0) | 2.9 | 21.7 | 4.0 | 6.2 | 1.0 | 0.2 | 2.4 |
-| 2026-27 proj, Yahoo | 62 | - | 43.6 (13.8) | 92.1 (4.3) | 2.7 | 18.7 | 6.0 | 5.3 | 0.9 | 0.1 | 2.1 |
+| 2026-27 proj, Yahoo | 62 | - | 43.6 (15.0) | 92.0 (4.6) | 3.0 | 20.3 | 6.6 | 5.8 | 0.9 | 0.2 | 2.3 |
 | 2024-25 | 58 | 36.1 | 44.8 (17.1) | 92.1 (6.8) | 3.4 | 24.9 | 4.7 | 7.1 | 1.2 | 0.2 | 2.8 |
 | 2023-24 | 73 | 35.3 | 42.4 (17.5) | 92.0 (7.0) | 3.0 | 24.3 | 4.4 | 7.0 | 1.0 | 0.2 | 2.6 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 16 | 3.8 | 67 | 6 | 6.5 | 70 | not drafted |
+| 2026-27 | 17 | 3.5 | 63 | 6 | 6.6 | 70 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.7% | -1.1 | -1.0 | weak for his position (punt fit) |
-| FT% | 92.1% | +2.6 | +2.8 | league outlier, strong |
-| 3PM | 2.8 | +1.5 | +1.2 | - |
-| PTS | 20.2 | +1.1 | +0.9 | - |
-| REB | 5.0 | -0.0 | +0.8 | - |
-| AST | 5.8 | +1.3 | +1.0 | - |
-| STL | 0.9 | -0.0 | -0.3 | - |
+| FG% | 43.7% | -1.1 | -1.1 | weak for his position (punt fit) |
+| FT% | 92.0% | +2.7 | +2.9 | league outlier, strong |
+| 3PM | 2.9 | +1.6 | +1.3 | - |
+| PTS | 21.0 | +1.2 | +1.0 | - |
+| REB | 5.3 | +0.1 | +1.0 | - |
+| AST | 6.0 | +1.5 | +1.1 | - |
+| STL | 1.0 | +0.1 | -0.2 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
-| TO | 2.2 | -0.8 | -0.6 | - |
+| TO | 2.3 | -0.9 | -0.7 | - |
 
 </details>
 
 **Current**
-- Portland's guard group is crowded. Morant and Jrue Holiday were added, Scoot Henderson is back for a full season, and Deni Avdija and Shaedon Sharpe also need the ball. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
-- Experts like his per-game value. Josh sees a possible top 50 player per game, worth about 20 USD on a per-game basis, and another expert expects him to beat his ADP per game. (verdict, 2026-10-05; [09-24](https://youtu.be/_vbAP5y182A?t=1448), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1774), [10-05](https://youtu.be/Q6YlQDvD-aY?t=3983))
-- Experts still pass on him because of his age, the Achilles, possible compensation injuries and missed time. One ranks him Tier 7 among point guards, and in recent mocks experts skipped him even where he was a real option. (verdict, 2026-10-05; [09-09](https://youtu.be/7BllEsdNLoM?t=2023), [09-30](https://youtu.be/BjXP9JODDSg?t=1231), [10-05](https://youtu.be/Q6YlQDvD-aY?t=3983))
-- Portland has a new head coach. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- He is 36 and is coming back from a torn Achilles. (fact, 2026-09-24; [06-29](https://youtu.be/bHA-JoW3reE?t=317), [08-11](https://youtu.be/YJk7ZFKFqnI?t=894), [09-09](https://youtu.be/7BllEsdNLoM?t=2023), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1774), [09-24](https://youtu.be/_vbAP5y182A?t=1266))
-- He is expected to play about 30 to 31 minutes as a low-minute starter, with some minutes uncertainty. Josh rejects the view that he is washed or will play only about 25 minutes. (verdict, 2026-09-24; [08-11](https://youtu.be/YJk7ZFKFqnI?t=894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1774), [09-24](https://youtu.be/_vbAP5y182A?t=1266))
-- The crowded guard group lowers his value and adds risk. The guards' combined usage from last season cannot all hold, and minutes and usage should swing from game to game. (verdict, 2026-09-01; [06-29](https://youtu.be/bHA-JoW3reE?t=317), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-01](https://youtu.be/80kfLVnFQ_s?t=806), [09-01](https://youtu.be/80kfLVnFQ_s?t=806), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Experts disagree on back-to-backs. One preview does not expect Portland to keep him out of them, while a schedule breakdown sees some worry about back-to-backs early in the season. (verdict, 2026-08-16; [08-11](https://youtu.be/YJk7ZFKFqnI?t=894), [08-16](https://youtu.be/gf_6GveiAls?t=845))
-- Portland has three back-to-backs in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- Three back-to-backs in the fantasy playoffs is not ideal for him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- Portland traded for Ja Morant and reportedly plans to start Lillard and Morant together. The projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [06-29](https://youtu.be/bHA-JoW3reE?t=317), [06-29](https://youtu.be/bHA-JoW3reE?t=419), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- Portland is expected to stagger Lillard and Morant but close games with both on the floor. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=825))
-- Teammates who finish poorly (Camara, Clingan, Avdija) may lower how many of the Portland guards' passes become assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
+- He is healthy now after the Achilles tear. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1804))
+- The newest team preview projects him to start next to Scoot Henderson, with Toumani Camara, Deni Avdija and Donovan Clingan. Ja Morant is likely a bench player, and Jrue Holiday or Henderson starts most nights. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294), [10-15](https://youtu.be/8paKnhgNbLg?t=329))
+- Experts reject the idea that he will be a 25-minute bench player. They cannot see him coming off the bench and expect him to start with about 30 to 31 minutes. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=538), [10-10](https://youtu.be/hviT4hzYNME?t=1122), [09-24](https://youtu.be/_vbAP5y182A?t=1266), [08-11](https://youtu.be/YJk7ZFKFqnI?t=894))
+- Expected to sit back-to-backs this season. Early-season back-to-backs are the main worry. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=538), [08-16](https://youtu.be/gf_6GveiAls?t=845))
+- In the preseason he scored 14 points in 21 minutes, with a 24 usage rate and two steals. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=635))
+- The expert calls his preseason encouraging. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=635))
+- Portland is crowded with on-ball guards: Lillard, Morant, Holiday and Henderson, plus Avdija, all share the playmaking. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
+- Portland has a first-time head coach who may mix up the lineup. Minutes and usage are expected to swing from game to game. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Experts call him a top 50 player who could reach the top 35, and one projection sees a possible top-30 season. They see good value anywhere after pick 50 and call an ADP in the 80s too low. His draft position is rising. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=578), [10-13](https://youtu.be/DzQXaC2rsac?t=700), [10-13](https://youtu.be/OsbUAkSeVB4?t=666), [10-11](https://youtu.be/uI6umXsE7Vk?t=1008), [10-10](https://youtu.be/hviT4hzYNME?t=1122), [09-24](https://youtu.be/_vbAP5y182A?t=1448), [10-13](https://youtu.be/EogBYa24Gto?t=839), [10-12](https://youtu.be/w66x_I_MaQ8?t=1030))
+- Portland plays 10 games in our playoff weeks (season ending March 28), with three back-to-backs in those weeks. The team has 15 back-to-backs over the season. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- His playoff schedule is weak. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Expected to beat his ADP on a per-game basis. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1774))
+- The crowded guard group adds risk to his usage and touches. Not all of the guards can match last season's numbers. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=806), [09-01](https://youtu.be/80kfLVnFQ_s?t=806), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
 
 **Durable**
-- He is an elite free throw shooter on solid volume and clearly lifts a team's FT%. (fact, 2026-10-11; stats)
-- His FG% is low for a guard, so a punt FG% team loses little with him. (fact, 2026-10-11; stats)
-- He carries injury risk: a torn Achilles at an older age, plus concern about compensation injuries. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1032), [09-09](https://youtu.be/7BllEsdNLoM?t=2023))
-- He is a very good shooter when he plays off the ball. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1007))
+- An elite FT% shooter on real volume (about 92%). FT% is his clearest category edge. (fact, 2026-10-16; stats)
+- FG% is his weak category for a guard (about 44% on 15 attempts per game), so he fits a punt FG% build. (verdict, 2026-10-16; stats)
+- Tore his Achilles in April 2025. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1804))
+- At age 36 and after an Achilles tear, age-related decline and missed time are the main risks. Re-injury is a smaller worry. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=860), [10-15](https://youtu.be/8paKnhgNbLg?t=1804), [09-09](https://youtu.be/7BllEsdNLoM?t=2023), [09-30](https://youtu.be/BjXP9JODDSg?t=1032))
+- A very good shooter when playing off the ball. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1007))
 
 **Tags**
-- Current: `injury last season` (torn Achilles), `usage competition` (Morant, Holiday, Henderson, Avdija and Sharpe), `role down` (value down with Morant arriving; projected as a low-minute starter), `minutes limit` (expected about 30 to 31 minutes), `sleeper` (expected to beat his ADP per game), `sites disagree on price` (Yahoo value 16 USD vs ESPN value 6 USD), `bad playoff schedule` (three back-to-backs in the fantasy playoffs), `new coach`, `shared ball handling` (Morant, Lillard, Holiday, Avdija and Henderson share playmaking), `unsettled rotation` (minutes and usage expected to swing game to game), `small-ball lineups` (guard-heavy roster, thin at forward, undersized Lillard and Morant backcourt)
-- Durable: `FT% anchor` (about 92% FT on solid volume), `punt FG fit` (about 43.7% FG projected), `age decline watch` (36 years old, coming off a torn Achilles)
+- Current: `injury last season` (Torn Achilles in April 2025), `back-to-back risk` (Expected to sit back-to-backs, mostly early in the season), `expert target` (Experts see top 50 with top 30 to 35 upside; market ranks are 63 (Yahoo) and 70 (ESPN)), `sleeper` (Expected to beat his ADP per game), `usage competition` (Shares the ball with Morant, Holiday, Henderson and Avdija), `role down` (About 30 to 31 minutes expected, below his 36 in 2024-25), `shared ball handling` (Several on-ball guards share playmaking in Portland), `unsettled rotation` (First-time coach may mix lineups; minutes and usage expected to swing), `new coach` (First-time head coach in Portland), `bad playoff schedule` (10 games and three back-to-backs in weeks 19 to 21), `sites disagree on price` (Yahoo value 17 USD vs ESPN value 6 USD)
+- Durable: `FT% anchor` (About 92% FT on 5 to 6 attempts per game), `punt FG fit` (About 44% FG on 15 attempts per game), `age decline watch` (Age 36, coming back from an Achilles tear)
 
-**Note.** The market prices him cheap: 3.8 USD average cost on Yahoo, 6.2 USD on ESPN, ranks 67 and 70, and he was not drafted in our league last season. Experts value his per-game line at about 20 USD, so in our 144-player auction he is a strong value bid at 5 to 10 USD, mainly for FT%, threes and assists. He fits punt FG% builds best. Early in the season, check whether he really plays 30 or more minutes, how much usage he keeps next to Morant, and whether he plays back-to-backs, because Portland has three back-to-backs in our playoff weeks.
+**Note.** Lillard's market prices are low: Yahoo rank 63 at a 3.5 USD average cost and ESPN rank 70 at 6.6 USD. The newest expert calls put him in the top 50 with top 30 upside, so he is a strong value target in the 10 to 17 USD range. His best fit is a punt FG% build that wants FT%, threes and assists from a guard. In the first weeks, check that he gets about 30 minutes as a starter, whether he sits back-to-backs and how much of the ball he gets next to Morant and Henderson. Also note that Portland has a weak 10-game playoff schedule, which makes him a possible sell before the deadline.
 
-<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

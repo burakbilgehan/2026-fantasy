@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 194 | 0 | 0.0 | 236 | not drafted |
+| 2026-27 | 0 | - | 197 | 0 | 0.0 | 236 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,17 +30,21 @@
 </details>
 
 **Current**
-- He did not agree to a contract extension with the Knicks. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1157))
-- He is a possible trade candidate this season. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1157))
-- He is not in the Knicks' projected starting five. The projected starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- He is projected to come off the bench as the likely sixth man. The projected starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1331), [10-11](https://youtu.be/-dulgoyo_wo?t=345), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Leaving him outside the top 200 is fine. Look at him only if someone in the Knicks rotation gets hurt. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1331))
+- He did not agree to a contract extension. The front office has said it will not negotiate contract extensions. (fact, 2026-10-11; [08-13](https://youtu.be/okN3fbHJtlA?t=1157), [10-11](https://youtu.be/-dulgoyo_wo?t=76))
+- The Knicks play a league-minimum 13 back-to-backs. Their fantasy playoff schedule is weak for a season that ends March 28. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
+- He is a possible trade candidate. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1157))
+- The Knicks are projected to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- He has a history of abdominal issues. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1157))
+- When he started, he scored but gave weak defensive stats. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1331))
+- He has dealt with abdominal issues. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1157))
 
 **Tags**
-- Current: `trade risk` (No extension agreed with the Knicks, named a possible trade candidate), `injury last season` (41 games played in 2025-26, history of abdominal issues)
+- Current: `waiver watch` (Worth a look only if a Knicks rotation player gets hurt), `trade risk` (Did not agree to an extension), `bad playoff schedule` (Knicks schedule is weak for a March 28 season end), `few back-to-backs` (Knicks play a league-minimum 13 back-to-backs), `winning team` (Defending champions, projected for about 50 to 54 wins)
 - Durable: none
 
-**Note.** McBride ranks 188 on Yahoo and 235 on ESPN, and both sites value him at 0 USD. Only 144 players get drafted, so expect him on waivers. Projections have him at 2.2 threes and 0.7 turnovers per game, with weak FG% (42%) and few rebounds, so he only helps as a short-term threes pickup. Early in the season, check whether he gets traded and whether he plays more bench minutes while the Knicks cut their starters' minutes over the first 30 or so games.
+**Note.** With a Yahoo rank of 197, an ESPN rank of 236 and a 0 USD value on both sites, he falls well outside the 144 players we draft, so do not bid on him. He makes about 2.2 threes per game with few turnovers. But his FG%, rebounds and blocks are low, and that only works as a bench sixth man. Watch him on waivers early in the season in case a Knicks guard or wing gets hurt or a trade opens a starting role, and remember the weak schedule in our March 28 playoff weeks.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

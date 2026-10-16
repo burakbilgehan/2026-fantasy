@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ec2720d23efe",
+ "input_sha": "9c39a8e22ff6",
  "note_count": 1,
- "built_at": "2026-10-11T09:19:39+00:00",
+ "built_at": "2026-10-16T09:05:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1508488,
-  "duration_ms": 26220,
+  "cost_usd_list": 0.1666016,
+  "duration_ms": 32311,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Signed with Detroit for 3 years and 27 million USD.",
+   "text": "Signed with Detroit in free agency on a 3-year, 27 million USD deal.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,7 +30,7 @@
    ]
   },
   {
-   "text": "An expert does not understand the deal. He thinks Huerter could be used as a shooter next to Isaiah Joe.",
+   "text": "The expert did not understand the signing. He thinks Huerter could be used as a shooter alongside Isaiah Joe.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
@@ -39,33 +39,21 @@
    ]
   },
   {
-   "text": "He is not in Detroit's projected starting five. In the projected bench order, Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot.",
-   "kind": "fact",
+   "text": "The projected bench order is Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter and Prince compete for the last rotation spot.",
+   "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:t0",
     "_O9pc_u5vH0:t4"
    ]
   },
   {
-   "text": "Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes.",
+   "text": "Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t2"
-   ]
-  },
-  {
-   "text": "Experts say coach J.B. Bickerstaff cannot be trusted on what he says about minutes.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:t1",
-    "n4KkK-OJjqA:t3",
-    "_O9pc_u5vH0:t5"
    ]
   },
   {
@@ -81,9 +69,19 @@
  "durable": [],
  "tags": [
   {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Signed with Detroit, 3 years, 27 million USD",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Competes with Prince for the last spot in Detroit's rotation",
+   "detail": "Competes with Prince for the last spot in Detroit's bench rotation",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t4"
@@ -96,12 +94,11 @@
    "detail": "Detroit used a 12 to 13 player rotation last season",
    "until": "",
    "sources": [
-    "p9XE5jFqhvs:t2",
-    "_O9pc_u5vH0:t4"
+    "p9XE5jFqhvs:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 198 and ESPN ranks him 185. Both sites give him 0 USD. Only 144 players get drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5% FG) has no strong category, and he is fighting Prince for the last spot in a deep Detroit rotation. Leave him on waivers. Early in the season, watch whether he holds a real bench role and gets minutes as a shooter.",
+ "note": "Huerter ranks 215 on Yahoo and 185 on ESPN, both sites value him at 0 USD, and he was not drafted in our league last season. That puts him well outside the 144 players we draft, so he should not be bid on. His projected line (about 10 points, 1.6 threes and 1.0 turnovers in roughly 23 minutes) has no outlier category, and he may not even make Detroit's rotation, where he competes with Prince for the last spot. Early in the season, check whether he wins that spot and gets shooter minutes next to Isaiah Joe before you look at him on waivers.",
  "rejected": []
 }

@@ -23,18 +23,17 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:48:52+00:00",
+ "built_at": "2026-10-16T12:45:46+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.8363128,
-  "duration_ms": 232472,
+  "cost_usd_list": 0.6270528,
+  "duration_ms": 147949,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
   "aaron-gordon",
-  "ace-bailey",
   "aj-dybantsa",
   "al-horford",
   "alex-sarr",
@@ -46,12 +45,11 @@
   "austin-reaves",
   "ayo-dosunmu",
   "bam-adebayo",
+  "bennedict-mathurin",
   "bilal-coulibaly",
   "bobby-portis",
   "bogdan-bogdanovic",
-  "brandin-podziemski",
   "brandon-ingram",
-  "brayden-burries",
   "brook-lopez",
   "buddy-hield",
   "cade-cunningham",
@@ -60,19 +58,20 @@
   "chet-holmgren",
   "christian-braun",
   "cj-mccollum",
-  "coby-white",
   "collin-gillespie",
-  "cooper-flagg",
+  "collin-sexton",
   "damian-lillard",
   "darryn-peterson",
   "davion-mitchell",
   "deaaron-fox",
+  "deandre-hunter",
   "dejounte-murray",
   "demar-derozan",
-  "deni-avdija",
   "derrick-white",
   "desmond-bane",
   "devin-booker",
+  "devin-vassell",
+  "dillon-brooks",
   "donovan-clingan",
   "donovan-mitchell",
   "draymond-green",
@@ -81,6 +80,7 @@
   "giannis-antetokounmpo",
   "grayson-allen",
   "gui-santos",
+  "ja-morant",
   "jaime-jaquez",
   "jakob-poeltl",
   "jalen-brunson",
@@ -92,14 +92,12 @@
   "jared-mccain",
   "jarrett-allen",
   "jay-huff",
-  "jaylen-brown",
   "jaylon-tyson",
   "jerami-grant",
+  "jeremiah-fears",
   "jimmy-butler",
-  "joan-beringer",
   "josh-hart",
   "julian-champagnie",
-  "karl-anthony-towns",
   "kawhi-leonard",
   "keaton-wagler",
   "keegan-murray",
@@ -109,8 +107,10 @@
   "kevin-porter",
   "klay-thompson",
   "kon-knueppel",
+  "kristaps-porzingis",
   "kyrie-irving",
   "lebron-james",
+  "leonard-miller",
   "michael-porter",
   "mikal-bridges",
   "miles-bridges",
@@ -123,7 +123,6 @@
   "payton-pritchard",
   "pelle-larsson",
   "peyton-watson",
-  "precious-achiuwa",
   "reed-sheppard",
   "robert-williams",
   "royce-oneale",
@@ -136,20 +135,21 @@
   "tobias-harris",
   "trae-young",
   "tre-jones",
+  "trey-murphy",
   "ty-jerome",
   "tyrese-haliburton",
   "tyrese-maxey",
   "vj-edgecombe",
   "walker-kessler",
-  "zion-williamson"
+  "wendell-carter"
  ],
- "summary": "In our league, a bust is a price call, not a verdict on the player. The biggest gaps are at the top of the board. Cade Cunningham, Donovan Mitchell, Tyrese Maxey, Jalen Johnson, Cooper Flagg and Tyrese Haliburton are priced like first-rounders, but experts value them from late round one to round two because of crowded usage, shooting and steal regression, or health. Set a stop price for every flagged player before the 2026-10-18 auction and buy only at or below it.",
+ "summary": "In our league a bust is a player whose price is wrong, not a player to avoid. The clearest busts are the five guards and forwards priced as first-rounders (Cunningham, Mitchell, Maxey, Jalen Johnson, Haliburton) and a group of mid-round names like Trae Young, Booker, Brunson, Holmgren and the young centers. Each of them becomes a fine buy at the lower price given in his line. Set a maximum bid for each one before 2026-10-18, let others pay above it, and check the early-season signs listed for role loss, shooting regression and age.",
  "sections": [
   {
-   "heading": "A bust label is a price",
+   "heading": "A bust label is about price",
    "paragraphs": [
     {
-     "text": "Calling a player a bust does not mean you should never draft him. It means the market is pricing him wrongly. Whether to fade him depends on his price, not on liking or disliking him. The same player can be a fade at a high rank and a fine pick later. So every player line below gives a stop price. At or below that price, he is fine to buy.",
+     "text": "Calling a player a bust does not mean you skip him. It means the market values him wrongly at his current price. The same player can be a fade in round one and a fine buy later. Your call depends on his price, not on whether you like him.",
      "sources": [
       "QbdrhJd7LiA:r0",
       "NmdNvAz08oE:r8",
@@ -157,194 +157,143 @@
      ]
     },
     {
-     "text": "Check which format a label comes from. A bust or sleeper tag from a points league or from ESPN's ranks may not apply to our 9-cat H2H league. Stephon Castle is the clearest case. His points-league hype is far above his category value, because he costs us FT% and TO. Josh Hart is called too high at ESPN and points-league ADP. Bam Adebayo, Anthony Davis and Derrick White are busts only at ESPN's price. At Yahoo-level prices they are fine.",
+     "text": "A label only means something in its format. For us that means 9-cat H2H with 144 players drafted. A high ESPN rank or a big price in our league last season is not a reason to pay. In every line below, the real question is whether his projected 9-cat line justifies the price. Before the draft, write down a maximum bid for each name. Then stop at that number.",
      "sources": [
       "Alwse2uXzD4:r14",
-      "player:stephon-castle",
-      "player:josh-hart",
-      "player:bam-adebayo",
-      "player:anthony-davis",
-      "player:derrick-white"
+      "QbdrhJd7LiA:r6"
      ]
     },
     {
-     "text": "The largest gaps sit at the top of the board. Cade Cunningham, Donovan Mitchell, Tyrese Maxey, Jalen Johnson, Cooper Flagg and Tyrese Haliburton are all priced like first-rounders on Yahoo. Experts value each of them lower, from late round one to round two. In a 200 USD auction, paying market price for them leaves less money for the rest of your 12 players.",
+     "text": "Play the prediction game with the top names. Cade Cunningham gets his value from assists but gives it back in turnovers, and his FG% and FT% are only middling. That makes him a 6th to 10th category player at about 45 to 50 USD. Donovan Mitchell is not a first-rounder to any expert, so the low to mid 30s is the target. Tyrese Maxey projects around 15th to 19th, so he is worth about 40 to 45 USD.",
      "sources": [
+      "QbdrhJd7LiA:r6",
       "player:cade-cunningham",
       "player:donovan-mitchell",
-      "player:tyrese-maxey",
-      "player:jalen-johnson",
-      "player:cooper-flagg",
-      "player:tyrese-haliburton"
+      "player:tyrese-maxey"
      ]
     }
    ]
   },
   {
-   "heading": "Run the prediction game",
+   "heading": "Crowded usage and role loss",
    "paragraphs": [
     {
-     "text": "Before you bid, project a realistic stat line and ask whether it justifies the price. Treat projections as the median outcome. When two players have the same projection, prefer the one with the wider range of outcomes. Veterans like Tobias Harris have no realistic path above their projection, so do not pay for upside they do not have.",
+     "text": "When a team adds high-usage players, the existing star loses usage and assist upside even if his minutes stay the same. The same happens when a scorer moves next to other ball-dominant players. Check usage and assists in the first two weeks, not just minutes.",
      "sources": [
-      "QbdrhJd7LiA:r6",
+      "dlo7L8Ru91A:r3",
+      "P6TNP-g0wzY:r0"
+     ]
+    },
+    {
+     "text": "Examples in our pool: Jalen Johnson should lose assists, FG% and steals next to McCollum, so stop at about 35 to 40 USD. Mitchell and Harden share the ball in Cleveland. Maxey shares it with Brown, LeBron and Embiid. Trae Young now plays next to Davis and Dybantsa. Siakam's assists should drop with Haliburton back. Booker may play off the ball next to Jalen Green.",
+     "sources": [
+      "player:jalen-johnson",
+      "player:donovan-mitchell",
+      "player:james-harden",
+      "player:tyrese-maxey",
+      "player:trae-young",
+      "player:pascal-siakam",
+      "player:devin-booker"
+     ]
+    },
+    {
+     "text": "Be wary of value that came from teammates being out. Trey Murphy's role last season came with Murray out, so above 25 USD you are paying for a role that is gone. Andrew Nembhard is an assists-only guard now that Haliburton is back. Draft him for 1 USD at most, or add him off waivers only if Haliburton sits.",
+     "sources": [
+      "W-R1dzem32s:r8",
+      "player:trey-murphy",
+      "player:andrew-nembhard"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Shooting and luck regression",
+   "paragraphs": [
+    {
+     "text": "When many players on one team have career years at once, expect some of them to regress, often all at once. Treat hot shooting and steal rates from last season as the high end of the range, not the median.",
+     "sources": [
+      "hm5-fiCa5S4:r0"
+     ]
+    },
+    {
+     "text": "Watch these names: Jamal Murray's 42 to 43% from three is expected back near 40 to 41%. Mitchell had a career-best two-point percentage and 1.5 steals. Walker Kessler's threes and steals came from a five-game sample, so do not go much past 15 USD. Dejounte Murray, Ayo Dosunmu and Shaedon Sharpe all had steals from a lucky deflection-to-steal rate.",
+     "sources": [
+      "player:jamal-murray",
+      "player:donovan-mitchell",
+      "player:walker-kessler",
+      "player:dejounte-murray",
+      "player:ayo-dosunmu",
+      "player:shaedon-sharpe"
+     ]
+    },
+    {
+     "text": "Regression does not always make a bust. Nickeil Alexander-Walker's second-half shooting will cool. But his projection already includes that and still has no weak category, so he is a value near 15 to 20 USD. The test is the price, not the regression flag.",
+     "sources": [
+      "player:nickeil-alexander-walker",
+      "J1Eg3uaAICU:r11"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Age and the missing upside",
+   "paragraphs": [
+    {
+     "text": "A long-time veteran turning 29 or older is probably who he is. He is not due for a breakout. Projections are a median. When two players project the same, take the one with the wider range, because veterans like Tobias Harris have no realistic path above their projection.",
+     "sources": [
+      "TiiaNZCJNs8:r1",
       "ZYllcj4o6_A:r3",
       "player:tobias-harris"
      ]
     },
     {
-     "text": "Mitchell shows how the test works. Experts expect a full year of Harden to cut his usage and assists. They also expect his two-point shooting and steals to regress. Every expert says that line is not a first-rounder, and an expert mock found 31 USD about right. Jalen Johnson is the same story. Take away his expected drop in assists, FG% and steals and you have a mid second-rounder, worth 35 to 40 USD to us.",
+     "text": "For older stars the risk is games played and rest, not per-game skill. Stephen Curry (38) played 43 games and has a knee issue, so bid 25 to 31 USD. Harden (37) is a low to mid 20s buy and has a two-game finals week. Anthony Davis (33) is fair at 26 to 30 USD, not at last season's price. LeBron (42) is fair at 20 to 25 USD.",
      "sources": [
-      "QbdrhJd7LiA:r6",
-      "player:donovan-mitchell",
-      "player:jalen-johnson"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Role loss and crowded usage",
-   "paragraphs": [
-    {
-     "text": "When a team adds high-usage players, the existing star loses usage and assist upside even if his minutes stay the same. A scorer next to other ball-dominant players also sees his on-ball role shrink. Philadelphia is the clearest case in our data. Maxey, Jaylen Brown and LeBron James share the ball with Embiid, and experts expect Maxey's top-five scoring and Brown's career-high usage to drop. In Cleveland, Mitchell and Harden cut into each other. In Washington, Trae Young shares the ball with Davis and Dybantsa, and Alex Sarr loses usage and rim contests to the same group.",
-     "sources": [
-      "dlo7L8Ru91A:r3",
-      "P6TNP-g0wzY:r0",
-      "player:tyrese-maxey",
-      "player:jaylen-brown",
-      "player:lebron-james",
-      "player:james-harden",
-      "player:trae-young",
-      "player:alex-sarr"
-     ]
-    },
-    {
-     "text": "Be wary of value that came from teammates being absent. Desmond Bane's rank rests on a role he had while Wagner, Banchero and Suggs were out. Pascal Siakam's assists and usage should drop with Haliburton back. Precious Achiuwa and Ace Bailey posted their late-season numbers while starters sat. Brandin Podziemski is the reverse case. Buy him cheap while Butler is out, and think about selling him before Butler returns.",
-     "sources": [
-      "W-R1dzem32s:r8",
-      "player:desmond-bane",
-      "player:pascal-siakam",
-      "player:precious-achiuwa",
-      "player:ace-bailey",
-      "player:brandin-podziemski"
-     ]
-    },
-    {
-     "text": "Other crowded-usage checks: Davion Mitchell and Andrew Wiggins lose touches next to Giannis. Deni Avdija's usage and assists face Morant and Lillard. Devin Booker's assists depend on whether he or Jalen Green runs the Phoenix offense.",
-     "sources": [
-      "dlo7L8Ru91A:r3",
-      "player:davion-mitchell",
-      "player:andrew-wiggins",
-      "player:deni-avdija",
-      "player:devin-booker"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Shooting and steal regression",
-   "paragraphs": [
-    {
-     "text": "When many players on one team have career years at once, expect some of them to regress, often all at the same time. Our data has two such clusters. In Cleveland, Mitchell (two-point %, steals, late FT% spike), Peyton Watson (41% from three) and Jaylon Tyson (about 45% from three) all carry regression flags. In Philadelphia, Maxey (steals rate), Brown (usage and scoring) and Anfernee Simons (rim finishing) carry them too. Do not stack several of these players and count on all the gains holding.",
-     "sources": [
-      "hm5-fiCa5S4:r0",
-      "player:donovan-mitchell",
-      "player:peyton-watson",
-      "player:jaylon-tyson",
-      "player:tyrese-maxey",
-      "player:jaylen-brown",
-      "player:anfernee-simons"
-     ]
-    },
-    {
-     "text": "Small samples and lucky conversions are the other trap. Walker Kessler's gains in threes, steals and assists came from five games. Keegan Murray's 1.6 blocks came from 23 games. Steals built on a high deflection-to-steal rate are flagged for Dejounte Murray, Ayo Dosunmu, Aaron Gordon, Jalen Green and Shaedon Sharpe. Ty Jerome's 70% true shooting and Dosunmu's jump to 44% from three are not expected to repeat. Price these players on the line you expect after regression, not on last season's line.",
-     "sources": [
-      "QbdrhJd7LiA:r6",
-      "player:walker-kessler",
-      "player:keegan-murray",
-      "player:dejounte-murray",
-      "player:ayo-dosunmu",
-      "player:aaron-gordon",
-      "player:jalen-green",
-      "player:shaedon-sharpe",
-      "player:ty-jerome"
-     ]
-    },
-    {
-     "text": "A regression flag is not always a fade. Jamal Murray's three-point shooting should drop toward 40 to 41%, but experts still see a top 12 to 14 finish. Nickeil Alexander-Walker's late shooting run will not hold, yet experts still rate him a top 35 to 50 category player and the market prices him low. Kel'el Ware's 40% from three should drop, but he is still a value bid up to about 13 USD.",
-     "sources": [
-      "J1Eg3uaAICU:r11",
-      "player:jamal-murray",
-      "player:nickeil-alexander-walker",
-      "player:kelel-ware"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Age, and where experts split",
-   "paragraphs": [
-    {
-     "text": "A player who has been in the league a long time is probably who he is. Do not pay for a breakout or a bounce-back. Players flagged for age decline include Kevin Durant (37), James Harden (37), LeBron James (turning 42), Stephen Curry (38), Anthony Davis (33), Pascal Siakam (32) and Karl-Anthony Towns (30). Build the expected decline and missed games into each stop price.",
-     "sources": [
-      "TiiaNZCJNs8:r1",
-      "ZYllcj4o6_A:r3",
-      "player:kevin-durant",
-      "player:james-harden",
-      "player:lebron-james",
       "player:stephen-curry",
+      "player:james-harden",
       "player:anthony-davis",
-      "player:pascal-siakam",
-      "player:karl-anthony-towns"
+      "player:lebron-james"
      ]
     },
     {
-     "text": "The experts disagree on how to price older stars with strong per-game lines. One side values the per-game production. Experts put Curry's per-game line near 40 USD, and the category experts agree Durant is a late first-round value. The other side prices in games and minutes. One auction expert caps Curry at 25 USD. In Josh's mock, 40 USD for Durant was already too rich, and Lloyd says Durant's value changes materially if he plays nearer 33 minutes than 35 to 36. For our league, the notes support the middle: the mid to high 20s USD for Curry if you accept 15 to 30 missed games, and the low 40s USD for Durant, never the 50 USD range.",
+     "text": "Sometimes the market has already priced age in. Kyrie Irving and Damian Lillard carry age flags, but their market prices are low. That makes them value targets, not busts, at the prices in their lines.",
      "sources": [
-      "player:stephen-curry",
-      "player:kevin-durant"
-     ]
-    },
-    {
-     "text": "Age alone does not make a player a bust. Giannis Antetokounmpo carries an age flag, but experts call him a clear top 5 pick in category leagues, and ESPN's rank of 19 is widely called too low. Plan to spend around 60 to 62 USD on him.",
-     "sources": [
-      "J1Eg3uaAICU:r11",
-      "player:giannis-antetokounmpo"
+      "player:kyrie-irving",
+      "player:damian-lillard"
      ]
     }
    ]
   },
   {
-   "heading": "Draft day and in-season checks",
+   "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "Before the auction on 2026-10-18, write down a stop price for each flagged player from the lines below. Stop bidding there, even when the room keeps going. In draft week, check the injury tags: Chet Holmgren's quadriceps, Haliburton's ankle, Kessler's finger and Kyrie Irving's knee.",
+     "text": "Kevin Durant splits opinion. Most experts see him as a late first-round pick in 9-cat, and our room should pay about 40 to 46 USD. Josh found 40 USD too rich for a 37-year-old after heavy minutes, and the median-only view of veterans backs that caution. If you buy him, stay near 40 USD and check in week one whether he plays 35 to 36 minutes or nearer 33.",
      "sources": [
-      "NmdNvAz08oE:r8",
-      "player:chet-holmgren",
+      "player:kevin-durant",
+      "ZYllcj4o6_A:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Draft day and early season plan",
+   "paragraphs": [
+    {
+     "text": "At the auction, let others pay first-round money for Cunningham, Mitchell, Maxey, Jalen Johnson and Haliburton. Haliburton is coming off a torn Achilles and has a 3-4-3 playoff schedule, so his ceiling is the mid-to-high 30s. Spend the savings on players whose market price is already below their fair price.",
+     "sources": [
       "player:tyrese-haliburton",
-      "player:walker-kessler",
-      "player:kyrie-irving"
+      "player:cade-cunningham",
+      "J1Eg3uaAICU:r11"
      ]
     },
     {
-     "text": "In the first weeks, track the role signals behind each bust call. Check whether Durant plays 35 to 36 minutes or nearer 33. Check Mitchell's assist rate next to Harden, and Maxey's usage with Brown, LeBron and Embiid all healthy. Check Jalen Johnson's assists with McCollum on the floor, and Towns' minutes over the Knicks' cautious first 30 or so games. If the signal confirms the bust, trade him to a manager who still pays for his name. Trades are frequent in our league, and the deadline is 2027-03-04.",
+     "text": "If a bust candidate lands on your team, check the listed early signs in the first two to three weeks: usage next to the new teammates, minutes, and whether hot shooting holds. If the role loss is real, sell before the 2027-03-04 deadline. A weak schedule in weeks 19 to 21 is another reason to sell.",
      "sources": [
-      "player:kevin-durant",
-      "player:donovan-mitchell",
-      "player:tyrese-maxey",
-      "player:jalen-johnson",
-      "player:karl-anthony-towns"
-     ]
-    },
-    {
-     "text": "Weigh the playoff weeks, which end on 2027-03-28. Cleveland has only two games in our finals week and the most back-to-backs in the league, which hurts Mitchell and Harden late in the season. Miami and Houston play only 10 games across weeks 19 to 21, which trims Giannis, Bam Adebayo and Durant. Haliburton's playoff schedule is only 3-4-3 games.",
-     "sources": [
-      "player:donovan-mitchell",
-      "player:james-harden",
-      "player:giannis-antetokounmpo",
-      "player:bam-adebayo",
-      "player:kevin-durant",
-      "player:tyrese-haliburton"
+      "dlo7L8Ru91A:r3",
+      "hm5-fiCa5S4:r0",
+      "player:michael-porter",
+      "player:andrew-wiggins"
      ]
     }
    ]
@@ -353,548 +302,548 @@
  "players": [
   {
    "slug": "cade-cunningham",
-   "tier": "Early-round busts at price",
-   "line": "Experts rank him 8th to 10th in categories and his turnovers are the worst part of his line, so he becomes fine at about 45 to 50 USD, best in a punt TO build."
+   "tier": "Avoid at first-round price",
+   "line": "His turnovers and middling FG% and FT% offset his assists, so he is fine only at about 45 to 50 USD."
   },
   {
    "slug": "donovan-mitchell",
-   "tier": "Early-round busts at price",
-   "line": "A full year of Harden should cut his usage and assists while his two-point shooting and steals regress, so he is fine only at about 31 to 40 USD."
+   "tier": "Avoid at first-round price",
+   "line": "His career-best two-point shooting and steals should regress and Harden shares the ball, so buy only in the low to mid 30s USD."
   },
   {
    "slug": "tyrese-maxey",
-   "tier": "Early-round busts at price",
-   "line": "His steals rate and top five scoring are not expected to hold next to a healthy Brown, LeBron and Embiid, so bid around 40 to 45 USD."
+   "tier": "Avoid at first-round price",
+   "line": "His steals, blocks and FT volume should drop and his usage shrinks next to Brown, LeBron and Embiid, so stop at about 40 to 45 USD."
   },
   {
    "slug": "jalen-johnson",
-   "tier": "Early-round busts at price",
-   "line": "His 8 assists, 49% FG and steals are expected to drop with McCollum on the floor, so 35 to 40 USD is the ceiling."
-  },
-  {
-   "slug": "cooper-flagg",
-   "tier": "Early-round busts at price",
-   "line": "He helps almost every category, so this is purely a price call, and 40 to 45 USD is fair value."
+   "tier": "Avoid at first-round price",
+   "line": "McCollum's arrival should cut his assists, FG% and steals, so he is a round-two buy at up to about 35 to 40 USD."
   },
   {
    "slug": "tyrese-haliburton",
-   "tier": "Early-round busts at price",
-   "line": "Experts rank him 14 to 20 with ankle, minutes and back-to-back questions plus a weak playoff schedule, so cap him near 35 USD."
-  },
-  {
-   "slug": "kevin-durant",
-   "tier": "Early-round busts at price",
-   "line": "At 37 and coming off heavy minutes, his value hinges on 35 to 36 minutes versus about 33, so the low 40s USD is fair and the 50 USD range is a stretch."
-  },
-  {
-   "slug": "karl-anthony-towns",
-   "tier": "Early-round busts at price",
-   "line": "At 30 he shows some loss of athleticism and faces a cautious Knicks start, so aim for the mid 30s USD and do not chase him into the 40s."
+   "tier": "Avoid at first-round price",
+   "line": "He is coming off a torn Achilles, will likely be managed early and has a 3-4-3 playoff schedule, so he is fine in the mid-to-high 30s USD."
   },
   {
    "slug": "trae-young",
-   "tier": "Mid-round busts at price",
-   "line": "His short-season efficiency on twos is not expected to hold and he shares the ball with Davis and Dybantsa, so treat him as a round-3 player near 33 USD."
-  },
-  {
-   "slug": "jalen-brunson",
-   "tier": "Mid-round busts at price",
-   "line": "Category experts see a fourth-round player with wrist and rest questions, so he is fine at 20 to 25 USD in a punt BLK build, not at 30 USD or more."
+   "tier": "Avoid at market price",
+   "line": "His rim and two-point efficiency should regress and Davis and Dybantsa take usage, so pay only a price that fits around pick 26, well below last season's 44 USD."
   },
   {
    "slug": "devin-booker",
-   "tier": "Mid-round busts at price",
-   "line": "His assists depend on whether he or Jalen Green runs the offense, so he is fine in the low 20s USD and nowhere near last year's price."
+   "tier": "Avoid at market price",
+   "line": "His turnovers and a possible off-ball role next to Jalen Green cap him, so do not go above about 25 to 30 USD."
+  },
+  {
+   "slug": "jalen-brunson",
+   "tier": "Avoid at market price",
+   "line": "His value is mostly points, assists and FT%, with wrist surgery and a Finals run to recover from, so he is fine at about 18 to 20 USD."
   },
   {
    "slug": "chet-holmgren",
-   "tier": "Mid-round busts at price",
-   "line": "A crowded OKC frontcourt and a quadriceps question put his fair price at about 21 to 22 USD, not 30 USD."
+   "tier": "Avoid at market price",
+   "line": "The hip or quad risk and his low assists and steals make him fine only up to about 21 to 22 USD."
   },
   {
-   "slug": "pascal-siakam",
-   "tier": "Mid-round busts at price",
-   "line": "At 32 his assists and usage should drop with Haliburton back, so he is fine near 17 USD and a bust at 25 USD or more."
-  },
-  {
-   "slug": "james-harden",
-   "tier": "Mid-round busts at price",
-   "line": "At 37 experts expect an end-of-career drop and he has a two-game finals week, so do not go far past 25 USD."
-  },
-  {
-   "slug": "bam-adebayo",
-   "tier": "Mid-round busts at price",
-   "line": "A bust only at ESPN's price, since his rebounds and assists next to Giannis are a question, so he is fine in the mid 20s USD."
-  },
-  {
-   "slug": "anthony-davis",
-   "tier": "Mid-round busts at price",
-   "line": "At 33 his games played are the doubt, with experts setting the bar near 60, so bid into the mid 20s USD and let him go if the room chases."
-  },
-  {
-   "slug": "derrick-white",
-   "tier": "Mid-round busts at price",
-   "line": "Age offsets his better shooting and experts value him around rank 40 to 50, so he is fine in the mid 20s USD and a bargain in the mid teens."
-  },
-  {
-   "slug": "kawhi-leonard",
-   "tier": "Mid-round busts at price",
-   "line": "His knee, expected rest days and three playoff back-to-backs make games the question, so stay near the 24 USD expert cap."
-  },
-  {
-   "slug": "stephen-curry",
-   "tier": "Mid-round busts at price",
-   "line": "At 38 with a knee issue on a gap-year team, he is fine in the mid to high 20s USD only if you accept 15 to 30 missed games."
-  },
-  {
-   "slug": "jalen-duren",
-   "tier": "Mid-round busts at price",
-   "line": "Experts put this FG% and rebounds anchor around pick 40, so stop bidding around 20 to 24 USD."
-  },
-  {
-   "slug": "deni-avdija",
-   "tier": "Mid-round busts at price",
-   "line": "His usage and assists face Morant and Lillard, so 20 to 23 USD is right and the mid 30s USD is a bust price."
-  },
-  {
-   "slug": "lebron-james",
-   "tier": "Mid-round busts at price",
-   "line": "Turning 42, he is expected to pace himself with lower usage, so cap him at 25 USD."
+   "slug": "trey-murphy",
+   "tier": "Avoid at market price",
+   "line": "Last season's role came with Murray out, so the low 20s USD is fair, and above 25 USD you are paying for a role that is gone."
   },
   {
    "slug": "walker-kessler",
-   "tier": "Late-round busts at price",
-   "line": "His gains in threes, steals and assists came from a five-game sample, so aim for 12 to 15 USD and skip the round-3 price."
+   "tier": "Avoid at market price",
+   "line": "His threes and steals came from a five-game sample, so do not go much past 15 USD."
   },
   {
    "slug": "donovan-clingan",
-   "tier": "Late-round busts at price",
-   "line": "He helps only rebounds and blocks and faces a crowded center room under a new coach, so bid 7 to 10 USD."
+   "tier": "Avoid at market price",
+   "line": "He gives only rebounds and blocks, so bid near 13 to 14.5 USD and no higher."
   },
   {
    "slug": "onyeka-okongwu",
-   "tier": "Late-round busts at price",
-   "line": "Experts expect his FG% and blocks to stay at last season's lower level, so treat him as a mid-priced second center around the 16 USD an expert mock paid, not a round 4 value."
-  },
-  {
-   "slug": "desmond-bane",
-   "tier": "Late-round busts at price",
-   "line": "His rank rests on a role he had while Wagner, Banchero and Suggs were out, so he is fine only around 9 to 13 USD."
+   "tier": "Avoid at market price",
+   "line": "Experts see a pick around 68, so his Yahoo value is too high and the low teens USD is fine."
   },
   {
    "slug": "kon-knueppel",
-   "tier": "Late-round busts at price",
-   "line": "His shooting efficiency should drop as he takes more shots without LaMelo Ball, so stay around 8 to 12 USD."
+   "tier": "Avoid at market price",
+   "line": "His efficiency should drop without LaMelo Ball and his hamstring is a question, so stay near 8 to 10 USD."
   },
   {
-   "slug": "alex-sarr",
-   "tier": "Late-round busts at price",
-   "line": "Young, Davis and Dybantsa cut his usage and Davis takes rim contests, so he is a fine blocks pickup around 4 to 9 USD but not at 18 USD."
-  },
-  {
-   "slug": "stephon-castle",
-   "tier": "Late-round busts at price",
-   "line": "His points-league hype outruns his category value because he costs FT% and TO, so pay a few USD and never 15 USD or more."
-  },
-  {
-   "slug": "vj-edgecombe",
-   "tier": "Late-round busts at price",
-   "line": "He has no weak category but his usage swings with Embiid and LeBron, so 7 to 10 USD is fair and 13 USD is too much."
-  },
-  {
-   "slug": "deaaron-fox",
-   "tier": "Late-round busts at price",
-   "line": "His rank assumes the best case and nothing in his line is elite, so 5 to 10 USD is fair."
-  },
-  {
-   "slug": "payton-pritchard",
-   "tier": "Late-round busts at price",
-   "line": "His role depends on starting and on Paul George's health, so pay no more than about 5 USD."
-  },
-  {
-   "slug": "zion-williamson",
-   "tier": "Late-round busts at price",
-   "line": "Above roughly 10 USD his rest and health risk outweigh the upside, so take him near 6 to 10 USD for punt FT% and punt 3PM builds."
-  },
-  {
-   "slug": "mikal-bridges",
-   "tier": "Late-round busts at price",
-   "line": "His late-season line was waiver level at under 30 minutes and about 16 percent usage, so bid only a few USD."
-  },
-  {
-   "slug": "jarrett-allen",
-   "tier": "Late-round busts at price",
-   "line": "Experts rank him 70 to 85 and he may lose closing minutes to Mobley, so pay about 13 to 14 USD and ignore ESPN-driven prices."
-  },
-  {
-   "slug": "caleb-wilson",
-   "tier": "Late-round busts at price",
-   "line": "This defense-first rookie's FT% and threes drag, and experts put him in the 80s overall, so he is a mid-to-late pick at about 11 USD at most."
-  },
-  {
-   "slug": "ty-jerome",
-   "tier": "Late-round busts at price",
-   "line": "His 70% true shooting and 30%+ usage will not repeat, so bid up to about 8 USD and ignore ESPN hype."
-  },
-  {
-   "slug": "michael-porter",
-   "tier": "Late-round busts at price",
-   "line": "He is a bust only at ESPN's rank, and around 10 USD he is fair for points, threes and rebounds."
-  },
-  {
-   "slug": "norman-powell",
-   "tier": "Late-round busts at price",
-   "line": "At 33 he has more downside than upside, plus trade risk before the deadline, so he is worth about 6 to 7 USD."
-  },
-  {
-   "slug": "dylan-harper",
-   "tier": "Late-round busts at price",
-   "line": "His late-season shooting is not expected to last, so he is a fair late buy at about 5 USD but not at his mock draft spot."
-  },
-  {
-   "slug": "darryn-peterson",
-   "tier": "Late-round busts at price",
-   "line": "This rookie should shoot poorly and turn it over early, so he is fine at 2 to 5 USD as a bench upside piece."
-  },
-  {
-   "slug": "aj-dybantsa",
-   "tier": "Late-round busts at price",
-   "line": "His line is near neutral everywhere except points and turnovers, so let others pay for the name and take him only at 1 to 2 USD."
-  },
-  {
-   "slug": "miles-bridges",
-   "tier": "Late-round busts at price",
-   "line": "His athleticism is declining and he sits behind Booker, Green and Brooks, so pay no more than a few USD."
-  },
-  {
-   "slug": "myles-turner",
-   "tier": "Late-round busts at price",
-   "line": "He shot 44.0% from the field last season and an expert asks if he is washed at 30, so he is fine at a few USD around picks 100 to 120."
-  },
-  {
-   "slug": "josh-hart",
-   "tier": "Late-round busts at price",
-   "line": "Wear and tear and expected minutes near 30 cap his value, so pay 1 to 3 USD at most."
-  },
-  {
-   "slug": "andrew-wiggins",
-   "tier": "Late-round busts at price",
-   "line": "His usage drops next to Giannis and his 41% from three should regress, so 1 to 4 USD is the limit."
-  },
-  {
-   "slug": "coby-white",
-   "tier": "Late-round busts at price",
-   "line": "A new calf strain pushes him to the 90s, so he is a reasonable buy only at a single-digit price."
-  },
-  {
-   "slug": "brandon-ingram",
-   "tier": "Late-round busts at price",
-   "line": "He is out with a partially torn Achilles, so he is only a 1 to 3 USD IL stash."
-  },
-  {
-   "slug": "collin-gillespie",
-   "tier": "Late-round busts at price",
-   "line": "Experts value his bench role near rank 150, so he is a 1 USD flyer at most until a Phoenix guard misses time."
-  },
-  {
-   "slug": "demar-derozan",
-   "tier": "Late-round busts at price",
-   "line": "At 37 he is a Denver bench scorer, so pay 1 to 3 USD at most."
-  },
-  {
-   "slug": "nikola-vucevic",
-   "tier": "Late-round busts at price",
-   "line": "He is now a bench center behind Wendell Carter Jr. and Lloyd calls him cooked, so pay 1 to 2 USD at most as a handcuff."
-  },
-  {
-   "slug": "andrew-nembhard",
-   "tier": "Late-round busts at price",
-   "line": "He is a Haliburton handcuff whose only plus is assists, so he is a 1 USD bench pick at most."
-  },
-  {
-   "slug": "davion-mitchell",
-   "tier": "Late-round busts at price",
-   "line": "Giannis should cut into his assists, his only strong category, so he is a 1 USD last pick at most."
-  },
-  {
-   "slug": "tobias-harris",
-   "tier": "Late-round busts at price",
-   "line": "A veteran with no path above his projection and a calf strain, he is a 1 USD end-of-draft pick at most."
-  },
-  {
-   "slug": "reed-sheppard",
-   "tier": "Late-round busts at price",
-   "line": "His role shrinks behind VanVleet, Smart and Bogdanovic under a coach who distrusts him, so he is a 1 to 5 USD flier."
-  },
-  {
-   "slug": "brandin-podziemski",
-   "tier": "Late-round busts at price",
-   "line": "His starting role depends on Butler being out, so he is fine at 1 to 4 USD and a sell candidate before Butler returns."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Late-round busts at price",
-   "line": "Coming off an ACL tear at an advanced age, he is bench territory at about 1 USD."
-  },
-  {
-   "slug": "aaron-gordon",
-   "tier": "Late-round busts at price",
-   "line": "He played only 36 and 51 games the last two seasons and his steals came from a high deflection rate, so take him at 1 to 2 USD or stream him."
-  },
-  {
-   "slug": "ayo-dosunmu",
-   "tier": "Late-round busts at price",
-   "line": "His shooting jump from three and at the line should fade, which would drop him outside our pool, so he is a last-dollar guard only."
+   "slug": "desmond-bane",
+   "tier": "Avoid at market price",
+   "line": "His usage under a new coach with Wagner and Banchero healthy is the worry, so bid only around 10 to 13 USD."
   },
   {
    "slug": "giannis-antetokounmpo",
-   "tier": "Flagged but fine at price",
-   "line": "Age is his only flag and experts call him a clear top 5 category pick, so 60 to 62 USD is fine in a punt FT% build."
+   "tier": "Priced about right",
+   "line": "Experts still see a clear number 5 pick despite the age flag, so about 60 USD is fair if you build punt FT% around him."
+  },
+  {
+   "slug": "kevin-durant",
+   "tier": "Priced about right",
+   "line": "At 37 after heavy minutes he has little room above his projection, so stay near 40 USD even though our room may pay up to 46 USD."
   },
   {
    "slug": "jamal-murray",
-   "tier": "Flagged but fine at price",
-   "line": "His three-point shooting should drop toward 40 to 41%, but experts still see a top 12 to 14 finish, so the mid to high 30s USD is fine."
+   "tier": "Priced about right",
+   "line": "His three-point shooting should fall toward 40% and DeRozan adds usage, so 34 to 38 USD is fair and anything below is a bargain."
   },
   {
    "slug": "austin-reaves",
-   "tier": "Flagged but fine at price",
-   "line": "His efficiency dipped late last season, so 30 to 36 USD is fair and 40 USD is an overpay."
+   "tier": "Priced about right",
+   "line": "A late-season efficiency dip and his groin history add risk, so treat 36 USD as the ceiling and 40 USD as an overpay."
   },
   {
-   "slug": "jaylen-brown",
-   "tier": "Flagged but fine at price",
-   "line": "His career-high usage should drop next to Maxey, Embiid and LeBron, but about 23 USD is still a good price in a punt TO build."
+   "slug": "lebron-james",
+   "tier": "Priced about right",
+   "line": "At 42 rest days are the main risk, so 20 to 25 USD is fair, mainly for punt TO builds."
   },
   {
-   "slug": "nickeil-alexander-walker",
-   "tier": "Flagged but fine at price",
-   "line": "His late shooting run will not hold, but experts still see a top 35 to 50 category player, so bidding up to about 20 USD is supported."
+   "slug": "anthony-davis",
+   "tier": "Bust only at the high price",
+   "line": "At 33 his shooting is declining and he will miss games, so he is fine around 26 to 30 USD but not at last season's price."
   },
   {
-   "slug": "kyrie-irving",
-   "tier": "Flagged but fine at price",
-   "line": "At 34 and back from an ACL tear he carries rest risk, but his per-game value supports a bid into the high teens."
+   "slug": "bam-adebayo",
+   "tier": "Bust only at the high price",
+   "line": "His rebounds, threes and blocks may change next to Giannis, so bid up to about 27 USD and not ESPN's value."
   },
   {
-   "slug": "damian-lillard",
-   "tier": "Flagged but fine at price",
-   "line": "At 36 and off a torn Achilles he is still a strong value at 5 to 10 USD for FT%, threes and assists."
+   "slug": "kawhi-leonard",
+   "tier": "Bust only at the high price",
+   "line": "His knee makes him an after-pick-40 call in H2H, so he is a strong buy only near 20 to 24 USD."
+  },
+  {
+   "slug": "jalen-duren",
+   "tier": "Bust only at the high price",
+   "line": "Fair value is around picks 40 to 50, about 20 USD, and Paul Reed may keep his minutes near 27."
+  },
+  {
+   "slug": "derrick-white",
+   "tier": "Bust only at the high price",
+   "line": "Age and lower usage behind Tatum and George cap him, so he is fine at about 25 USD or less, not 30 USD."
+  },
+  {
+   "slug": "pascal-siakam",
+   "tier": "Bust only at the high price",
+   "line": "At 32 his assists and usage should fall next to Haliburton, so he is fine near 17 USD, not 25 USD."
+  },
+  {
+   "slug": "stephen-curry",
+   "tier": "Bust only at the high price",
+   "line": "At 38, with a knee issue and 43 games last season, he is a 25 to 31 USD buy, not a 42 USD one."
+  },
+  {
+   "slug": "james-harden",
+   "tier": "Bust only at the high price",
+   "line": "At 37 he shares usage with Mitchell and has a two-game finals week, so he is fine only in the low to mid 20s USD."
+  },
+  {
+   "slug": "mikal-bridges",
+   "tier": "Bust only at the high price",
+   "line": "Every expert puts his fair value near pick 98, so pay only a few USD."
+  },
+  {
+   "slug": "michael-porter",
+   "tier": "Bust only at the high price",
+   "line": "His FG% and turnovers on heavy volume and his shared usage with Randle make him fair at about 10 to 15 USD."
   },
   {
    "slug": "kelel-ware",
-   "tier": "Flagged but fine at price",
-   "line": "His 40% from three should drop, but he is a good value up to about 13 USD for REB, BLK and FG%."
+   "tier": "Value at price",
+   "line": "His 40% three and FT shooting should drop, but up to about 10 USD is fine given his top-40s upside."
   },
   {
-   "slug": "rudy-gobert",
-   "tier": "Flagged but fine at price",
-   "line": "At 34 he is still a cheap FG%, rebounds and blocks source at 8 to 12 USD, with a two-game semifinal week to plan around."
+   "slug": "jarrett-allen",
+   "tier": "Bust only at the high price",
+   "line": "Mobley may close at center, so 8 to 12 USD is fair but not his ESPN rank."
   },
   {
-   "slug": "dejounte-murray",
-   "tier": "Flagged but fine at price",
-   "line": "His steals rest on a 70% deflection conversion and he hurts TO, but experts call him a round 4 value, so a bid near the 24 USD mock sale is fine in punt TO builds."
+   "slug": "deaaron-fox",
+   "tier": "Bust only at the high price",
+   "line": "Experts rank him 70 to 90 in categories, so about 10 to 14 USD is fine, not last season's 21 USD."
   },
   {
-   "slug": "cj-mccollum",
-   "tier": "Flagged but fine at price",
-   "line": "Age caps his price, but up to about 8 USD is reasonable for threes, points and some assists."
+   "slug": "alex-sarr",
+   "tier": "Bust only at the high price",
+   "line": "His blocks, rebounds and FG% should drop next to Davis, so pay up to about 10 USD for a blocks build."
   },
   {
-   "slug": "keegan-murray",
-   "tier": "Flagged but fine at price",
-   "line": "His 1.6 blocks came in only 23 games and should fall near 1, but at 1 to 4 USD he is a fine late forward."
+   "slug": "caleb-wilson",
+   "tier": "Bust only at the high price",
+   "line": "Experts take him around picks 86 to 89, so stay near 4 to 6 USD."
   },
   {
-   "slug": "jakob-poeltl",
-   "tier": "Flagged but fine at price",
-   "line": "His 70% FG on low volume should regress, but at about 1 USD he is a bench flyer with top 70 upside."
+   "slug": "vj-edgecombe",
+   "tier": "Bust only at the high price",
+   "line": "His usage and assists drop next to Brown and LeBron, so pay up to about 10 USD and no more."
   },
   {
-   "slug": "peyton-watson",
-   "tier": "Flagged but fine at price",
-   "line": "An expert doubts his 41% from three, but at 1 to 2 USD his minutes floor and blocks make him a cheap starter."
+   "slug": "payton-pritchard",
+   "tier": "Bust only at the high price",
+   "line": "Usage next to Tatum and George limits him, so bid in single digits near 4 USD, not near last season's 16 USD."
   },
   {
-   "slug": "kevin-porter",
-   "tier": "Flagged but fine at price",
-   "line": "His steals, assists and FT% may regress, so he is a 1 to 3 USD flyer for punt 3PM builds and easy to cut."
+   "slug": "miles-bridges",
+   "tier": "Bust only at the high price",
+   "line": "His value needs a big shot share next to Booker, Green and Brooks, so he is a 1 to 4 USD end-of-draft forward."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Bust only at the high price",
+   "line": "Dylan Harper may take his assists, so bid in single digits only."
+  },
+  {
+   "slug": "norman-powell",
+   "tier": "Bust only at the high price",
+   "line": "At 33 he has more downside than upside and carries trade risk, so target him at 3 to 7 USD."
+  },
+  {
+   "slug": "ja-morant",
+   "tier": "Bust only at the high price",
+   "line": "His 90% FT should not hold and Portland's backcourt is crowded, so he is worth about 5 USD, up to 10 USD."
+  },
+  {
+   "slug": "myles-turner",
+   "tier": "Bust only at the high price",
+   "line": "At 30 he has a 'washed' question and his blocks fell below 2, so he is a late buy at 1 to 5 USD."
+  },
+  {
+   "slug": "josh-hart",
+   "tier": "Bust only at the high price",
+   "line": "His 41% from three is not trusted and he wears down, so pay no more than 2 to 3 USD."
   },
   {
    "slug": "jalen-green",
-   "tier": "Flagged but fine at price",
-   "line": "His steals came from lucky deflection conversion, but at about 2 USD he is a cheap late scorer for punt FG% builds."
+   "tier": "Bust only at the high price",
+   "line": "His steals came from lucky deflection conversion, so pay no more than a few USD near the end of the draft."
   },
   {
-   "slug": "julian-champagnie",
-   "tier": "1 USD flyers",
-   "line": "His 71% rim finishing should not hold and he has no clear minutes, so he is a 1 USD flyer at most and better on waivers."
+   "slug": "nickeil-alexander-walker",
+   "tier": "Value at price",
+   "line": "His second-half shooting will cool, but even the regressed projection has no weak category, so he is a value near 15 to 20 USD."
   },
   {
-   "slug": "ace-bailey",
-   "tier": "1 USD flyers",
-   "line": "His late-season numbers came while Utah sat its veterans, so he is a 1 USD flyer at most."
+   "slug": "kyrie-irving",
+   "tier": "Value at price",
+   "line": "Age 34 and 16 back-to-backs are the risks, but the market prices them in, so he is a value with 24 USD as the ceiling."
+  },
+  {
+   "slug": "damian-lillard",
+   "tier": "Value at price",
+   "line": "His age and Achilles are priced in and the newest calls see top 50, so he is a value at 10 to 17 USD."
+  },
+  {
+   "slug": "dejounte-murray",
+   "tier": "Value at price",
+   "line": "His steals may dip from a 70% deflection rate, but experts like him far above market, so he is fine at anything under 18 USD."
+  },
+  {
+   "slug": "ty-jerome",
+   "tier": "Value at price",
+   "line": "His 70% true shooting will not last, but as a top-100 player he is fine up to about 11 USD."
+  },
+  {
+   "slug": "cj-mccollum",
+   "tier": "Value at price",
+   "line": "His age caps the price, but experts rank him above market, so up to about 8 USD is fine."
+  },
+  {
+   "slug": "keegan-murray",
+   "tier": "Value at price",
+   "line": "His blocks should drop with Simmons starting, but at 1 to 2 USD he is a cheap buy with upside to about 60th."
+  },
+  {
+   "slug": "dylan-harper",
+   "tier": "Value at price",
+   "line": "His hot second-half shooting may cool, but 5 to 10 USD fits his top-60 upside."
+  },
+  {
+   "slug": "rudy-gobert",
+   "tier": "Value at price",
+   "line": "At 34 his blocks and FG% may slip, so about 8 to 12 USD is the right bid for a punt FT% build."
+  },
+  {
+   "slug": "jakob-poeltl",
+   "tier": "Value at price",
+   "line": "His 70% FG came on low volume, but a few USD is fair for a starting center who helps FG% and rebounds."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Late flyers",
+   "line": "He sits behind VanVleet, Smart and Bogdanovic, so he is a 1 to 3 USD last pick."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Late flyers",
+   "line": "Age and an ACL return make him a 1 to 3 USD late guard."
+  },
+  {
+   "slug": "kristaps-porzingis",
+   "tier": "Late flyers",
+   "line": "He has no return date, so he is at most a 1 USD IL stash and safer left on waivers."
+  },
+  {
+   "slug": "aj-dybantsa",
+   "tier": "Late flyers",
+   "line": "He is a rookie behind Young and Davis at about 28 minutes, so he is worth 1 USD."
+  },
+  {
+   "slug": "brandon-ingram",
+   "tier": "Late flyers",
+   "line": "A partial Achilles tear keeps him out until about Thanksgiving to Christmas, so he is a 1 to 3 USD IL stash."
+  },
+  {
+   "slug": "tobias-harris",
+   "tier": "Late flyers",
+   "line": "As a veteran with a calf strain and a bench role, he has no path above his projection, so pay 1 USD at most."
+  },
+  {
+   "slug": "andrew-wiggins",
+   "tier": "Late flyers",
+   "line": "His 41% from three and his steal and block rates should fall, so stay at a few USD."
+  },
+  {
+   "slug": "demar-derozan",
+   "tier": "Late flyers",
+   "line": "At 37 in a bench role, he is a 1 to 3 USD pick."
+  },
+  {
+   "slug": "nikola-vucevic",
+   "tier": "Late flyers",
+   "line": "At 36 and now Carter's backup, he is a 1 USD flyer and handcuff."
+  },
+  {
+   "slug": "peyton-watson",
+   "tier": "Late flyers",
+   "line": "His 41% from three is doubted, so he is a 1 USD last-dollar buy for blocks."
+  },
+  {
+   "slug": "ayo-dosunmu",
+   "tier": "Late flyers",
+   "line": "His jumps in 3P% and FT% may revert, so he is a 1 to 3 USD end-of-draft buy."
+  },
+  {
+   "slug": "kevin-porter",
+   "tier": "Late flyers",
+   "line": "Last season's steals, assists and FT% should not repeat, so he is a 1 to 3 USD bench flyer."
+  },
+  {
+   "slug": "andrew-nembhard",
+   "tier": "Late flyers",
+   "line": "Haliburton's return leaves him assists only, so take him for 1 USD at most or add him off waivers if Haliburton sits."
+  },
+  {
+   "slug": "davion-mitchell",
+   "tier": "Late flyers",
+   "line": "Giannis should cut into his assists, so he is a 1 USD last-round pick at best."
+  },
+  {
+   "slug": "darryn-peterson",
+   "tier": "Late flyers",
+   "line": "Experts see no path to top-100 value this season, so spend 1 to 3 USD at most."
+  },
+  {
+   "slug": "jeremiah-fears",
+   "tier": "Late flyers",
+   "line": "His late-season steals and volume are called fake, so he is a 1 USD final pick."
+  },
+  {
+   "slug": "aaron-gordon",
+   "tier": "Late flyers",
+   "line": "His steal conversion should drop and his hamstring and calf are a worry, so pay 1 USD at most."
+  },
+  {
+   "slug": "devin-vassell",
+   "tier": "Late flyers",
+   "line": "His role shrinks behind Harper, Fox and Castle, so do not spend more than 1 USD."
   },
   {
    "slug": "jaime-jaquez",
-   "tier": "1 USD flyers",
-   "line": "The expert does not trust his late shooting surge and expects his assists to fall among Milwaukee's guards, so spend 1 USD at most."
+   "tier": "Late flyers",
+   "line": "His late-season shooting surge is not trusted, so he is a 1 USD flyer."
   },
   {
-   "slug": "tre-jones",
-   "tier": "1 USD flyers",
-   "line": "Experts call his draft position too high for a 23 to 25 minute guard, so he is a 1 USD last pick or a waiver add."
-  },
-  {
-   "slug": "jimmy-butler",
-   "tier": "1 USD flyers",
-   "line": "At 37 and off a torn ACL, he is a 1 USD final pick only for a team with a free IL slot."
-  },
-  {
-   "slug": "jerami-grant",
-   "tier": "1 USD flyers",
-   "line": "His two-point % should fall from 52 to about 48 to 49, so bid 1 USD at most and only for a punt FG% build."
+   "slug": "dillon-brooks",
+   "tier": "Late flyers",
+   "line": "Experts see him near rank 160 to 200, so take him only for 1 USD at the end."
   },
   {
    "slug": "gui-santos",
-   "tier": "1 USD flyers",
-   "line": "Some of his shooting was fluky and his value comes only from minutes, so he is a 1 USD bench flyer at most."
+   "tier": "Late flyers",
+   "line": "Some of last season's shooting was fluky, so he is a 1 USD last-round flyer at most."
+  },
+  {
+   "slug": "tre-jones",
+   "tier": "Late flyers",
+   "line": "His high FG% should drop in a bench role, so pay 1 USD at most or leave him on waivers."
+  },
+  {
+   "slug": "jimmy-butler",
+   "tier": "Late flyers",
+   "line": "At 37 and out until about January with a torn ACL, he is at most a 1 USD pick for a free IL slot."
   },
   {
    "slug": "draymond-green",
-   "tier": "1 USD flyers",
-   "line": "Age and weak points, turnovers and FG% put him outside the top 120, so he is a 1 USD final pick at most."
-  },
-  {
-   "slug": "christian-braun",
-   "tier": "1 USD flyers",
-   "line": "Experts call him overvalued and not a top-100 player, so take him only as a 1 USD last pick."
-  },
-  {
-   "slug": "grayson-allen",
-   "tier": "1 USD flyers",
-   "line": "An older guard who shot 40.3% last season, he is worth 1 USD at most and a quick drop if he does not start."
+   "tier": "Late flyers",
+   "line": "Age and weak points, FG% and turnovers make him a 1 USD final pick or a waiver name."
   },
   {
    "slug": "pelle-larsson",
-   "tier": "1 USD flyers",
-   "line": "His assist conversion could fall to about 50% and his value depends on starting, so he is worth 1 USD at most."
+   "tier": "Late flyers",
+   "line": "His assist conversion could fall, so take him for 1 USD only if he starts at point guard."
   },
   {
-   "slug": "jaylon-tyson",
-   "tier": "1 USD flyers",
-   "line": "His three-point shooting fell to 37% over his final 16 games and he has a two-game finals week, so he is a last-dollar flyer at most."
+   "slug": "grayson-allen",
+   "tier": "Late flyers",
+   "line": "He is past his peak and has a knee question, so he is a 1 USD end-of-draft pick at most."
   },
   {
-   "slug": "precious-achiuwa",
-   "tier": "Waiver only",
-   "line": "His late-season numbers came only because Kings starters were hurt, so leave him on waivers."
-  },
-  {
-   "slug": "brook-lopez",
-   "tier": "Waiver only",
-   "line": "At 38 his production fell off badly and the expert says avoid him inside the top 200, so leave him on waivers."
-  },
-  {
-   "slug": "royce-oneale",
-   "tier": "Waiver only",
-   "line": "He showed signs of decline and the only expert call says undraftable, so treat him as a short-term threes add at most."
-  },
-  {
-   "slug": "robert-williams",
-   "tier": "Waiver only",
-   "line": "A 17 to 18 minute cap and an expected two-point % drop make him a waiver name until Clingan misses time."
-  },
-  {
-   "slug": "jared-mccain",
-   "tier": "Waiver only",
-   "line": "Experts call him an overrated, scoring-only bench guard, so do not spend on him."
-  },
-  {
-   "slug": "bobby-portis",
-   "tier": "Waiver only",
-   "line": "His 46% from three should fall toward 39%, so add him only if Giannis or Bam Adebayo misses time."
+   "slug": "christian-braun",
+   "tier": "Late flyers",
+   "line": "DeRozan may take his minutes, so he is fine only at about 1 to 2 USD as FG% and TO filler."
   },
   {
    "slug": "santi-aldama",
-   "tier": "Waiver only",
-   "line": "Experts put him near or outside the top 200, so do not draft him even at last year's price."
+   "tier": "Late flyers",
+   "line": "A bench role in the low 20s in minutes makes him a 1 USD pick at most."
+  },
+  {
+   "slug": "jaylon-tyson",
+   "tier": "Late flyers",
+   "line": "His 45% from three fell to 37% late, so he is at most a 1 USD flyer and more likely a waiver add."
+  },
+  {
+   "slug": "bennedict-mathurin",
+   "tier": "Late flyers",
+   "line": "His volume falls on a crowded Pelicans team, so he is no more than a 1 USD flier."
+  },
+  {
+   "slug": "collin-gillespie",
+   "tier": "Leave on waivers",
+   "line": "He is a bench guard behind four players, so spend 0 USD and add him only after an injury in Phoenix."
+  },
+  {
+   "slug": "julian-champagnie",
+   "tier": "Leave on waivers",
+   "line": "His rim finishing jump should not hold, so spend 0 USD and watch the San Antonio lineup."
+  },
+  {
+   "slug": "brook-lopez",
+   "tier": "Leave on waivers",
+   "line": "At 38 after a sharp drop-off, he should go undrafted, at 0 USD."
+  },
+  {
+   "slug": "wendell-carter",
+   "tier": "Leave on waivers",
+   "line": "He is undraftable in 12 teams, so spend 0 USD unless Sweeney gives him clearly more minutes."
+  },
+  {
+   "slug": "jerami-grant",
+   "tier": "Leave on waivers",
+   "line": "His 2P% should fall and he may not start, so he is a 0 USD waiver name."
+  },
+  {
+   "slug": "collin-sexton",
+   "tier": "Leave on waivers",
+   "line": "He is a bench guard behind Doncic and Reaves, so spend 0 USD and add him only if one of them sits."
+  },
+  {
+   "slug": "royce-oneale",
+   "tier": "Leave on waivers",
+   "line": "He is declining and gives threes only, so spend 0 USD and stream him short-term at most."
+  },
+  {
+   "slug": "robert-williams",
+   "tier": "Leave on waivers",
+   "line": "His 2P% should fall and his minutes are capped, so spend 0 USD and use FAB only if Clingan sits."
+  },
+  {
+   "slug": "jared-mccain",
+   "tier": "Leave on waivers",
+   "line": "Experts pass even at his ADP, so he is a 0 USD waiver option for 3PM."
+  },
+  {
+   "slug": "bobby-portis",
+   "tier": "Leave on waivers",
+   "line": "His 46% from three should fall toward 39%, so spend 0 USD and add him if Giannis or Bam misses time."
   },
   {
    "slug": "bilal-coulibaly",
-   "tier": "Waiver only",
-   "line": "His block rate may fall toward average and he has no starting role, so pick him up only if he wins the fifth starter spot."
-  },
-  {
-   "slug": "joan-beringer",
-   "tier": "Waiver only",
-   "line": "He is called overdrafted at round 11 as a backup, so do not spend even 1 USD and add him only if Gobert misses time."
-  },
-  {
-   "slug": "tj-mcconnell",
-   "tier": "Waiver only",
-   "line": "At 35 his minutes are a question, so use him as a waiver streamer, not a draft pick."
-  },
-  {
-   "slug": "al-horford",
-   "tier": "Waiver only",
-   "line": "He sits every back-to-back because of age, so use him only as a waiver streamer while Porzingis is out."
+   "tier": "Leave on waivers",
+   "line": "His block rate should fall and his minutes drop in a crowd, so spend 0 USD."
   },
   {
    "slug": "anfernee-simons",
-   "tier": "Waiver only",
-   "line": "His rim finishing jump should regress and he is the sixth man behind four high-usage stars, so leave him on waivers."
+   "tier": "Leave on waivers",
+   "line": "His rim finishing jump should fade in a bench role, so spend 0 USD."
+  },
+  {
+   "slug": "tj-mcconnell",
+   "tier": "Leave on waivers",
+   "line": "At 35 on low minutes, he is a 0 USD waiver streamer in four-game weeks."
+  },
+  {
+   "slug": "deandre-hunter",
+   "tier": "Leave on waivers",
+   "line": "His shooting fell and he is now a bench player, so spend 0 USD."
+  },
+  {
+   "slug": "al-horford",
+   "tier": "Leave on waivers",
+   "line": "Age-related rest caps him near 60 games, so spend 0 USD."
   },
   {
    "slug": "keaton-wagler",
-   "tier": "Waiver only",
-   "line": "Experts see a backup point guard with likely efficiency problems, so skip him in the auction."
+   "tier": "Leave on waivers",
+   "line": "He is a backup point guard with efficiency problems, so skip him at 0 USD."
   },
   {
    "slug": "jay-huff",
-   "tier": "Waiver only",
-   "line": "He is a backup center who adds blocks and little else, so add him only if Zubac misses time."
+   "tier": "Leave on waivers",
+   "line": "He is a blocks-only backup, so spend 0 USD and add him only if Zubac sits."
   },
   {
    "slug": "klay-thompson",
-   "tier": "Waiver only",
-   "line": "At 36 the expert would not draft him inside the top 300, so leave him on waivers."
+   "tier": "Leave on waivers",
+   "line": "At 36 he gives threes only, at a 40% FG, so spend 0 USD."
   },
   {
    "slug": "andre-drummond",
-   "tier": "Waiver only",
-   "line": "He is older and only a Towns handcuff, so he is not a draft target."
+   "tier": "Leave on waivers",
+   "line": "He is an aging Towns backup, so spend 0 USD and add him only if Towns misses games."
   },
   {
    "slug": "shaedon-sharpe",
-   "tier": "Waiver only",
-   "line": "A meniscus injury should cost most of the season and his steals rose on lucky conversion, so do not spend a pick on him."
-  },
-  {
-   "slug": "brayden-burries",
-   "tier": "Waiver only",
-   "line": "The expert ranks him around 240 and no category stands out, so leave him on waivers."
+   "tier": "Leave on waivers",
+   "line": "He is out until around March and his steals were lucky, so spend 0 USD."
   },
   {
    "slug": "cam-thomas",
-   "tier": "Waiver only",
-   "line": "An expert names him as a player whose value is inflated by narrative and he has no team, so spend nothing until he signs."
+   "tier": "Leave on waivers",
+   "line": "His value is inflated by narrative and he has no team, so spend 0 USD until he signs and gets a role."
   },
   {
    "slug": "kentavious-caldwell-pope",
-   "tier": "Waiver only",
-   "line": "The expert is unsure he has anything left, so leave him on waivers unless he gets starter minutes."
+   "tier": "Leave on waivers",
+   "line": "The expert is unsure he has anything left, so spend 0 USD."
   },
   {
    "slug": "buddy-hield",
-   "tier": "Waiver only",
-   "line": "At 33 his three-point % has fallen three seasons in a row, so he is a short-term streamer at most."
+   "tier": "Leave on waivers",
+   "line": "At 33 his three-point percentage has fallen three seasons running, so spend 0 USD."
   },
   {
    "slug": "bogdan-bogdanovic",
-   "tier": "Waiver only",
-   "line": "Experts think he might be washed and he is Houston's last rotation player, so do not draft him."
+   "tier": "Leave on waivers",
+   "line": "He may be washed and is last in a deep Houston guard group, so spend 0 USD."
+  },
+  {
+   "slug": "leonard-miller",
+   "tier": "Leave on waivers",
+   "line": "His preseason shooting should not last, so spend 0 USD unless Buzelis or Wilson gets hurt."
   }
  ],
  "excluded": [],

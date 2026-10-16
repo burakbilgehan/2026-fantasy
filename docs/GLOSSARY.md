@@ -111,6 +111,7 @@ Code checks (`app/knowledge/categories.py`): `strong:X` = z >= 2.0 against the t
 - **minutes limit** [current]: His team or coach holds his minutes below a full starter's load on purpose, even when he is healthy. (merged: coach limits minutes)
 - **needs playmaker** [durable]: Not a self-creator. His efficiency depends on a playmaker on the floor with him.
 - **new team** [current]: Changed NBA team since last season.
+- **out of rotation** [current]: Not expected to get regular rotation minutes, so he has little fantasy value unless injuries open a role. (merged: deep bench)
 - **position change** [current]: Moves to a different on-court role or position this season, which shifts his category mix.
 - **role down** [current]: Expected to get fewer minutes, less usage or a smaller role than last season.
 - **role up** [current]: Expected to get more minutes, usage or a bigger role than last season.

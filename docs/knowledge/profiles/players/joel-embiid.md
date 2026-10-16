@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 19 | 7.3 | 52 | 3 | 8.3 | 87 | 24 |
+| 2026-27 | 19 | 8.7 | 52 | 3 | 8.1 | 87 | 24 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 49.0% | +0.3 | -0.5 | - |
 | FT% | 86.4% | +2.4 | +2.8 | league outlier, strong |
 | 3PM | 1.3 | -0.2 | +0.7 | - |
-| PTS | 26.0 | +2.1 | +2.3 | league outlier, strong |
+| PTS | 26.0 | +2.0 | +2.3 | league outlier, strong |
 | REB | 7.8 | +1.2 | +0.1 | - |
 | AST | 4.1 | +0.4 | +1.1 | - |
 | STL | 0.6 | -0.9 | -0.5 | - |
@@ -30,35 +30,36 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable for rest. (fact, 2026-10-11; stats)
-- Usage on the team must shrink. Maxey, Brown, James and Embiid will cut into each other's shots and touches. (verdict, 2026-10-05; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [10-05](https://youtu.be/BiIZsSypx7Y?t=1215))
-- Experts agree he should not go inside the top 50. Around picks 56 to 64 is a fair price, or a good one, for a player who starts the season healthy. (verdict, 2026-10-05; [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1010), [09-16](https://youtu.be/2A2JbUN-kc0?t=2446), [09-30](https://youtu.be/BjXP9JODDSg?t=1020), [09-15](https://youtu.be/KPdD91Oo8-U?t=1216), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254), [10-05](https://youtu.be/BiIZsSypx7Y?t=1041))
-- In a mock auction he went for 16 USD, and Josh would not bid on him at all. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=807))
-- One expert expects him to finish around rank 60 and to do more than last season. He calls ESPN's rank of 88 thievery. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2410), [09-16](https://youtu.be/2A2JbUN-kc0?t=2446))
-- He is a high-risk pick with about a 10% chance of working out, but a big payoff if it does. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1216))
-- He enters the season healthy after his first healthy offseason in years. He reportedly added 15 pounds of muscle. (fact, 2026-09-14; [08-06](https://youtu.be/gTsfR5PxAMY?t=1319), [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254))
-- Because he is healthy, one expert projects him at 33 minutes per game. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1131))
-- The Sixers have only 13 back-to-backs, but three of them fall in the fantasy playoffs. He is not expected to play back-to-backs, so he should miss games in those weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
-- He is expected to play about 40 to 50 games this season. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=490))
-- He is the projected starting center, next to Tyrese Maxey, VJ Edgecombe, Jaylen Brown and LeBron James. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
-- Philadelphia added Jaylen Brown and LeBron James. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- He is projected at about 20 to 25 points and about 10 rebounds per game, with some big scoring games. He is seen as an emergency scorer who gets to the free throw line and rebounds, while others carry most of the scoring. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1459), [08-06](https://youtu.be/gTsfR5PxAMY?t=1385))
-- Philadelphia is projected to win about 51 to 52 games. Expect growing pains in October and November and load management for the stars. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- Yahoo lists him as questionable, with rest as the reason. (fact, 2026-10-16; stats)
+- He has not looked great in the preseason. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=747))
+- The experts agree he should not go inside the top 50. Pick 43 is too early. The late 50s to about pick 60 is a fair spot to take a chance on him, especially if you have not taken risks earlier. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=747), [10-13](https://youtu.be/OsbUAkSeVB4?t=815), [10-13](https://youtu.be/KqTKVExQGLo?t=855), [10-12](https://youtu.be/w66x_I_MaQ8?t=927), [10-05](https://youtu.be/BiIZsSypx7Y?t=1041), [09-30](https://youtu.be/BjXP9JODDSg?t=1020), [09-14](https://youtu.be/t4n9MAP2_14?t=1131), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1010), [08-11](https://youtu.be/OdDkXFhoKsc?t=1254), [09-16](https://youtu.be/2A2JbUN-kc0?t=2446))
+- Embiid is healthy entering the season. He had his first healthy offseason in years and reportedly added 15 pounds of muscle. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1647), [08-06](https://youtu.be/gTsfR5PxAMY?t=1319))
+- He is a high-risk, high-payoff pick. One expert gives him about a 10% chance of working out. Another says teams with Embiid will win their league if he stays healthy. (verdict, 2026-10-13; [09-15](https://youtu.be/KPdD91Oo8-U?t=1216), [10-13](https://youtu.be/OsbUAkSeVB4?t=815))
+- He is the starting center next to Maxey, Edgecombe, Jaylen Brown and LeBron James. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=264), [08-06](https://youtu.be/gTsfR5PxAMY?t=412))
+- The Sixers have only 13 back-to-backs, but three of them fall in the fantasy playoffs. With a March 28 end, the team plays 3, 4 and 4 games in weeks 19 to 21. (fact, 2026-10-13; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=1148), [10-13](https://youtu.be/KqTKVExQGLo?t=1680))
+- In an October 5 auction mock he went for 16 USD, and Josh would not pay that. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=807))
+- One expert expects him to finish around the 60s and expects more from him than last season. That expert calls his ESPN rank near 88 a steal. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2410), [09-16](https://youtu.be/2A2JbUN-kc0?t=2446))
+- He is projected for about 33 minutes per game because he enters the season healthy. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1131))
+- Usage on the team is crowded. Maxey, Brown, LeBron and Embiid are expected to cut into each other's shots. (verdict, 2026-09-14; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [08-09](https://youtu.be/8d--aL_xxwE?t=552), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-14](https://youtu.be/LM0cRCGoAUQ?t=986))
+- Factor in the three playoff back-to-backs when you draft him, because he is not expected to play back-to-backs. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148), [08-16](https://youtu.be/gf_6GveiAls?t=833))
+- He is expected to play about 40 to 50 games. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=490))
+- Mark projects about 20 to 25 points and about 10 rebounds per game, with some big scoring nights. He sees Embiid as a scorer who gets to the free throw line and rebounds while the others carry most of the scoring. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1459), [08-06](https://youtu.be/gTsfR5PxAMY?t=1385))
+- Mark projects about 51 to 52 wins for the Sixers and expects load management for the stars. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
 
 **Durable**
-- Points and FT% are league-outlier strengths. His FT% comes on high volume, so it clearly lifts a team's FT%. (fact, 2026-10-11; stats)
-- Turnovers are his weak category. He has many turnovers, even for a center. (fact, 2026-10-11; stats)
-- His per-game line is near the top of the league. He ranked 11th per game last season, so the question is how many games he plays, not how well. (verdict, 2026-10-05; [09-16](https://youtu.be/2A2JbUN-kc0?t=2446), [10-05](https://youtu.be/BiIZsSypx7Y?t=1041))
-- He has a long history of knee problems and surgeries. He is often questionable and misses many games. (fact, 2026-09-21; [08-09](https://youtu.be/8d--aL_xxwE?t=914), [09-21](https://youtu.be/egRrai3Ax38?t=236))
-- Nick Nurse plays his starters very heavy minutes. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956))
-- As an often-injured player, he is worth a bit less in head-to-head leagues like ours than in roto. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
+- Points and FT% on high volume are his big strengths. He gets to the free throw line often. (fact, 2026-10-16; stats, [08-06](https://youtu.be/gTsfR5PxAMY?t=1385))
+- Turnovers are his weak category, even for a center. (fact, 2026-10-16; stats)
+- He has had multiple meniscus surgeries on the same knee and has repeated knee problems. He is often listed as questionable and misses many games. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=889), [08-09](https://youtu.be/8d--aL_xxwE?t=914), [09-21](https://youtu.be/egRrai3Ax38?t=236))
+- The experts do not trust him to get through a season. They expect the team to manage him, and Josh avoids him. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=889), [08-09](https://youtu.be/8d--aL_xxwE?t=914), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
+- He has declined, but he still puts up great per-game numbers. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=824))
+- His blocks are well below his peak level. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=824))
+- As an often-injured player, he is worth a bit more in roto than in head-to-head. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=230))
 - He does not play back-to-backs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=833), [08-06](https://youtu.be/gTsfR5PxAMY?t=1334))
-- Experts have low hopes for his long-term health. Josh avoids him for that reason. (verdict, 2026-08-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=1334), [08-09](https://youtu.be/8d--aL_xxwE?t=914))
 
 **Tags**
-- Current: `back-to-back risk` (expected to sit all back-to-backs), `bad playoff schedule` (three Sixers back-to-backs in the fantasy playoffs), `few back-to-backs` (13 Sixers back-to-backs), `injury last season` (38 games in 2025-26), `questionable` (Yahoo Q (Rest)), `usage competition` (Maxey, Jaylen Brown and LeBron James), `sleeper` (ESPN rank 88 called thievery), `sites disagree on price` (Yahoo value 19 USD and rank 52, ESPN value 3 USD and rank 87), `winning team` (about 51 to 52 wins projected)
-- Durable: `FT% anchor` (86% FT on about 8 to 9 attempts per game), `PTS specialist` (about 26 points per game projected), `high TO` (about 2.8 turnovers per game), `punt TO fit`, `elite per game` (11th per game last season), `injury prone` (repeated knee problems and surgeries), `load management` (does not play back-to-backs), `heavy starter minutes` (Nick Nurse)
+- Current: `questionable` (Yahoo Q (Rest)), `injury last season` (Missed big stretches last season), `usage competition` (Shares the ball with Maxey, Jaylen Brown and LeBron James), `bad playoff schedule` (3-4-4 games in weeks 19 to 21 with three back-to-backs he is expected to skip), `few back-to-backs` (Only 13 back-to-backs, but three in the fantasy playoffs), `winning team` (About 51 to 52 wins projected), `sites disagree on price` (Yahoo value 19 USD, rank 52; ESPN value 3 USD, rank 87)
+- Durable: `elite per game` (11th per game last season; still great per-game numbers), `FT% anchor` (About 86% on 8 to 9 FTA per game), `PTS specialist` (About 26 points per game projected), `high TO` (About 2.8 turnovers per game), `punt TO fit`, `injury prone` (Multiple meniscus surgeries on the same knee), `load management` (Does not play back-to-backs; team management expected)
 
-**Note.** He is a strong per-game asset in points and FT%, but he costs you in turnovers and may only play 40 to 50 games. In head-to-head that leaves empty weeks, especially in our playoffs, where the Sixers have three back-to-backs. The market values him at about pick 56 to 64. Yahoo average cost (7.3 USD) and ESPN average cost (8 USD) are well below our league's 24 USD last season and the 16 USD mock auction price. Treat Yahoo's 19 USD value as the most you would pay. He fits punt TO builds that want FT% and points from a center. Early on, check how many games he plays and whether LeBron James and Jaylen Brown cut his shots.
+**Note.** Embiid is an elite per-game scorer and FT% anchor. He fits punt TO builds, but he only helps on the nights he plays, and he is projected for 49 to 54 games. The market cost is about 8 USD on both sites, far below the 24 USD he went for in our league last season. The experts' range (late 50s, never top 50, 16 USD was too much in a mock) suggests a price around 10 to 15 USD, with a top-end team behind him that can absorb missed games. Early in the season, check his rest pattern, his minutes (about 33 projected), and whether the weak preseason carries on. Keep in mind that the three playoff back-to-backs likely cut his weeks 19 to 21 to about 8 games.
 
-<sub>20 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>27 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

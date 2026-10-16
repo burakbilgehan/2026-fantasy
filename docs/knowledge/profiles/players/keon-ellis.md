@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 257 | 0 | 0.0 | 195 | not drafted |
+| 2026-27 | 0 | - | 260 | 0 | 0.0 | 195 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,30 +21,29 @@
 | FT% | 75.9% | -0.1 | -0.3 | - |
 | 3PM | 1.3 | -0.2 | -0.5 | - |
 | PTS | 6.5 | -1.3 | -1.4 | - |
-| REB | 2.0 | -1.3 | -1.4 | - |
+| REB | 2.0 | -1.3 | -1.5 | - |
 | AST | 1.1 | -1.1 | -1.3 | - |
-| STL | 1.1 | +0.6 | +0.5 | - |
+| STL | 1.1 | +0.7 | +0.5 | - |
 | BLK | 0.6 | +0.1 | +0.6 | - |
 | TO | 0.6 | +1.4 | +1.5 | - |
 
 </details>
 
 **Current**
-- Brooklyn is projected to be one of the worst teams. Slater predicts about 28 wins. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754))
-- He is projected as Brooklyn's sixth man, in a bench rotation with Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
-- He needs about 27 minutes a game to matter in 12-team category leagues. Treat him as a stash or a late flyer, not a must-roster player, and do not target him aggressively. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [07-02](https://youtu.be/P6TNP-g0wzY?t=1332))
-- Houston controls Brooklyn's pick, so the Nets have no reason to tank. They are also running a development season, so second-half minutes could shift to young players like Minott, Clowney, Brown and Demin. That makes March minutes uncertain for veteran depth. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=1014), [08-21](https://youtu.be/uRsfijpBPok?t=276), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
-- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. With a March 28 end, its playoff schedule is 3-4-3 (10 games) with only one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- He signed with Brooklyn for 2 years and 18 million as veteran depth. The deal includes a mutual option. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
-- He can give capable minutes if Brooklyn asks him to start. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=217))
+- The newest call expects Ellis, not the rookie Mikel Brown Jr., to start for the Nets. Earlier Nets previews had Brown starting and Ellis as the likely sixth man. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1648), [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- Brooklyn projects as one of the worst teams, at about 28 wins. Its pick goes to Houston, so it has no reason to tank. (verdict, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [09-26](https://youtu.be/3UGI05PDvrE?t=143))
+- He needs about 27 minutes a game to matter in 12-team category leagues. At that load he is a later-round flyer. Below it, treat him as a stash, not a must-roster, and do not target him aggressively. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1117), [07-02](https://youtu.be/P6TNP-g0wzY?t=1332))
+- Minutes in the second half of the season are uncertain. Brooklyn could shift minutes to young players such as Brown, Demin, Minott and Clowney, which could cut into a veteran depth role. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276))
+- Brooklyn has 16 back-to-backs, tied for the most in the league. With our March 28 end, its playoff schedule is 3-4-3 games, with one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- He signed with Brooklyn as veteran depth on a 2-year, 18 million deal with a mutual option. (fact, 2026-08-21; [07-02](https://youtu.be/P6TNP-g0wzY?t=1332), [08-21](https://youtu.be/uRsfijpBPok?t=217))
 
 **Durable**
-- He is a low-usage wing. He brings few turnovers and solid steals, but low points, rebounds and assists. (fact, 2026-10-11; stats)
+- His category value comes from steals and very few turnovers. He gives little in points, rebounds and assists. (fact, 2026-10-16; stats)
 
 **Tags**
-- Current: `new team` (Signed with Brooklyn in free agency, 2 years and 18 million), `waiver watch` (Projected sixth man. Worth adding only if he reaches about 27 minutes a game), `deep rotation` (Many young Nets players have a case for second-unit minutes), `bottom team` (About 28 projected wins), `many back-to-backs` (16 back-to-backs, tied for the most in the league)
+- Current: `new team` (Signed with Brooklyn for 2 years, 18 million), `minutes competition` (Competes with the rookie Mikel Brown Jr. for a starting spot; sixth man if he loses it), `flyer` (Later-round flyer only if he plays about 27 minutes), `waiver watch` (Stash, not a must-roster; watch his minutes early), `bottom team` (Brooklyn projected at about 28 wins), `many back-to-backs` (Brooklyn has 16 back-to-backs, tied for most in the league)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 257, ESPN rank 195), so he is well outside the 144 players our league drafts. Leave him on waivers. ESPN projects him for 21 minutes, well short of the roughly 27 he needs to matter. Early in the season, check whether he moves into a starting role or close to 27 minutes. If he does, his steals and low turnovers make him a useful filler for any build.
+**Note.** Both sites give Ellis 0 USD of value, at rank 260 on Yahoo and 195 on ESPN. That puts him well outside the 144 players we draft, so leave him on waivers on draft day. He played 20.5 minutes last season and finished 310th in categories. He only matters if he wins the starting job over Mikel Brown Jr. and gets about 27 minutes. In that case his steals and very low turnovers fit a team that already has its points, rebounds and assists. Check the Nets' starting lineup and his minutes in the first two weeks.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

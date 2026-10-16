@@ -8,32 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3743ecad37ad",
- "note_count": 16,
- "built_at": "2026-10-11T09:24:13+00:00",
+ "input_sha": "2de8e3aa8815",
+ "note_count": 17,
+ "built_at": "2026-10-16T09:18:47+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2001422,
-  "duration_ms": 49701,
+  "cost_usd_list": 0.2050582,
+  "duration_ms": 54651,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Milwaukee got him in the Giannis Antetokounmpo trade. He is set to start, and his role is settled.",
+   "text": "Milwaukee got him from Miami in the Giannis Antetokounmpo trade. He is a lock to start, in a projected opening lineup of Rollins, Herro, Jaquez, Kuzma and Turner.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p7",
     "owlM6b8oUd0:p8",
-    "7BllEsdNLoM:p29",
     "sDzeYdUhJDI:t3"
    ]
   },
   {
-   "text": "He is probably the best player on the Bucks and should be their leading scorer and main creator. He was Miami's top offensive option, so the trade does not change much for him.",
+   "text": "He is on a 33 million USD expiring contract.",
+   "kind": "fact",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:p9"
+   ]
+  },
+  {
+   "text": "Experts call him the best player on the Bucks and their top offensive option. He should lead the team in scoring and take on part of the creation role. Moving to Milwaukee does not change his value much.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -46,16 +54,7 @@
    ]
   },
   {
-   "text": "He is on an expiring 33 million USD contract.",
-   "kind": "fact",
-   "date": "2026-08-14",
-   "until": "",
-   "sources": [
-    "owlM6b8oUd0:p9"
-   ]
-  },
-  {
-   "text": "He could be traded again. Justin expects him to stay until at least the trade deadline, where he could be moved because Burries is the long-term shooting guard. The roster needs trades to consolidate, and Herro is one of the players who do not fit well.",
+   "text": "He could be traded. Experts expect him to stay at least until the trade deadline, when he could be moved because Burries is the long-term shooting guard. The roster needs trades to consolidate, and Herro does not fit well on it.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
@@ -67,49 +66,21 @@
    ]
   },
   {
-   "text": "Milwaukee's guard group is crowded, with Rollins, Porter, Jakucionis, Burries, Trent and Green. Herro, Rollins and Porter will compete for creation. Herro will not play point guard.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:t4",
-    "sDzeYdUhJDI:t0",
-    "4GDfg2n2l8o:t1",
-    "Rqb5GdrSweY:p20"
-   ]
-  },
-  {
-   "text": "Guard depth, plus a focus on developing young players that should grow as the season goes on, may keep his minutes below 34 to 35.",
+   "text": "The Bucks have a crowded guard group, and the rotation under new coach Taylor Jenkins is very unclear. One expert says guard depth and a growing focus on young players may keep his minutes below 34 to 35. Another notes he will not play point guard.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p2",
-    "sDzeYdUhJDI:t4",
-    "-DN4P92Wp8Y:p26"
+    "Rqb5GdrSweY:p20",
+    "-DN4P92Wp8Y:p26",
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t4"
    ]
   },
   {
-   "text": "He missed many games with injuries last season. Even so, he finished around 53rd to 56th in 9-cat.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p0",
-    "Rqb5GdrSweY:p20"
-   ]
-  },
-  {
-   "text": "Durability is a concern after last season's missed games.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p2"
-   ]
-  },
-  {
-   "text": "If he plays 35 minutes, he would be a top 35 player.",
+   "text": "At 35 minutes per game he would be a top 35 player.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -118,38 +89,49 @@
    ]
   },
   {
-   "text": "Experts disagree on his price. Most call an ADP of 58 to 70 fair or a strong pick in round 6, and they say his production in Milwaukee is relatively safe. The newest note says rank 56 in ESPN points leagues may be his best case and calls that slightly scary.",
-   "kind": "verdict",
-   "date": "2026-10-09",
+   "text": "Injuries limited him to 33 games last season, which raises durability concerns.",
+   "kind": "fact",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:p0",
+    "sDzeYdUhJDI:p2",
+    "Rqb5GdrSweY:p20"
+   ]
+  },
+  {
+   "text": "His Yahoo status is questionable (Rest).",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts disagree on his price. Most call a draft spot in rounds 6 to 7 (around picks 58 to 70) fair or strong, and one says he seems locked into that range. One 2026-10-09 note lists him among players to avoid and says ESPN points rank 56 may be his best case.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p22",
     "sDzeYdUhJDI:p1",
-    "7BllEsdNLoM:p29",
     "BiIZsSypx7Y:p37",
     "_vbAP5y182A:p36",
-    "W-R1dzem32s:p27",
+    "7BllEsdNLoM:p29",
     "-DN4P92Wp8Y:p26"
    ]
   },
   {
-   "text": "Milwaukee has a new coach, Taylor Jenkins, who might use a deep rotation. Experts expect the Bucks to be bad: their win total is 26.5, and Justin expects about 33 wins.",
-   "kind": "fact",
+   "text": "The Bucks are expected to be bad, at about 33 wins. They do not own their draft pick, so they have no reason to tank. Still, the focus on young players is expected to grow during the season, which would cut veteran minutes.",
+   "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t2",
     "owlM6b8oUd0:t4",
     "sfCe7fS9daM:t8",
-    "Rqb5GdrSweY:t0"
-   ]
-  },
-  {
-   "text": "Milwaukee plays 334 games through March 28 and has 14 back-to-backs.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t6"
+    "Rqb5GdrSweY:t0",
+    "sDzeYdUhJDI:t4"
    ]
   }
  ],
@@ -160,8 +142,7 @@
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p3",
-    "stats"
+    "sDzeYdUhJDI:p3"
    ]
   },
   {
@@ -181,23 +162,22 @@
    "sources": [
     "W-R1dzem32s:p27"
    ]
+  },
+  {
+   "text": "His category value comes from FT%, threes and points. Steals, blocks and turnovers are below the pool, but none of them is a real weakness.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No category is flagged weak. Strong in FT%, 3PM and PTS.",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Miami to Milwaukee in the Giannis deal.",
+   "detail": "traded from Miami to Milwaukee in the Giannis deal",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p7"
@@ -207,7 +187,7 @@
   {
    "name": "contract year",
    "channel": "current",
-   "detail": "Expiring 33 million USD deal.",
+   "detail": "33 million USD expiring deal",
    "until": "",
    "sources": [
     "owlM6b8oUd0:p9"
@@ -217,8 +197,8 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Could be moved at the deadline. Burries is the long-term shooting guard.",
-   "until": "",
+   "detail": "could be moved at the deadline; Burries is the long-term shooting guard",
+   "until": "2027-03-04",
    "sources": [
     "owlM6b8oUd0:p9",
     "4GDfg2n2l8o:p4",
@@ -228,9 +208,31 @@
    "new_meaning": ""
   },
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "crowded guard group; minutes may stay below 34 to 35",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p2",
+    "-DN4P92Wp8Y:p26",
+    "Rqb5GdrSweY:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Many injury problems last season.",
+   "detail": "33 games played",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p0",
@@ -242,89 +244,103 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Long injury history that could come back.",
+   "detail": "long injury history",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p27"
+    "W-R1dzem32s:p27",
+    "sDzeYdUhJDI:p2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Rollins and Porter compete with him for creation.",
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "",
    "until": "",
    "sources": [
-    "4GDfg2n2l8o:t1",
-    "Rqb5GdrSweY:p20"
+    "sDzeYdUhJDI:p3"
    ],
    "new_meaning": ""
   },
   {
-   "name": "early-season value",
-   "channel": "current",
-   "detail": "Focus on young players should grow during the season and cut veteran minutes. He could also be traded at the deadline.",
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t4",
-    "BiIZsSypx7Y:p37",
-    "owlM6b8oUd0:p9"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
+   "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Too many guards fighting for minutes. Jenkins might use a deep rotation.",
+   "detail": "Yahoo value 16 USD vs ESPN value 7 USD",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t0",
-    "sDzeYdUhJDI:t2",
-    "ZYllcj4o6_A:t4"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "new coach",
    "channel": "current",
-   "detail": "Taylor Jenkins.",
+   "detail": "Taylor Jenkins",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t2",
-    "owlM6b8oUd0:t3"
+    "uI6umXsE7Vk:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Experts cannot figure out the Bucks rotation. The lineup could change by December or March.",
+   "detail": "Milwaukee backcourt and rotation very unclear",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t3",
-    "WXO8MfQfzo0:t0",
-    "OdDkXFhoKsc:t1",
-    "-DN4P92Wp8Y:t4"
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins might use a deep rotation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "The roster needs trades to consolidate.",
+   "detail": "roster needs consolidation trades",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t5",
-    "nnWX_ObljOE:t0",
-    "4GDfg2n2l8o:t1",
-    "owlM6b8oUd0:t0"
+    "owlM6b8oUd0:t0",
+    "4GDfg2n2l8o:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Giannis and Portis gone; Herro, Rollins and Porter compete for creation",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Win total 26.5. Experts expect the Bucks to be bad.",
+   "detail": "about 33 wins expected",
    "until": "",
    "sources": [
     "owlM6b8oUd0:t4",
@@ -332,18 +348,8 @@
     "Rqb5GdrSweY:t0"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 16 USD vs ESPN value 7 USD. Average costs are 3.8 USD on Yahoo and 8.0 USD on ESPN.",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Herro's 9-cat line is strong: projected 89% FT on good volume, 3.0 threes and 23 points, with no weak category. That makes him an easy fit in any build. Both sites rank him around 65 to 68, and he went for 14 USD in our league last season. Paying about 14 to 16 USD (Yahoo value 16) is fair, and anything near ESPN's 7 USD is a bargain. Early in the season, check whether he plays about 34 minutes in the crowded Bucks backcourt and how healthy he stays, and plan for trade talk before the March 4 deadline.",
+ "note": "Both sites rank him 65th, and he cost 14 USD in our auction last season. Yahoo values him at 16 USD and ESPN at 7 USD, so a bid around 10 to 15 USD fits the round 6 to 7 range most experts accept. He helps in FT%, threes and points with no weak category, so he fits any build. Early in the season, check whether his minutes reach 34 to 35 in Milwaukee's crowded guard group, whether the rest tag turns into missed games, and any trade talk before the 2027-03-04 deadline.",
  "rejected": []
 }

@@ -8,49 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6326c5b8ad37",
- "note_count": 3,
- "built_at": "2026-10-11T09:15:07+00:00",
+ "input_sha": "0148fc331723",
+ "note_count": 4,
+ "built_at": "2026-10-16T08:51:29+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.15570620000000002,
-  "duration_ms": 36590,
+  "cost_usd_list": 0.1791142,
+  "duration_ms": 42461,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is in Sacramento's projected starting lineup at forward, with Acuff, LaVine, Murray and Sabonis.",
+   "text": "He comes off the bench. Ben Simmons starts at forward in his place, next to Acuff, LaVine, Murray and Sabonis.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p23",
-    "oEywzBZfAvY:t1",
-    "W3THnI7wWdA:t8"
+    "PrrgoTEcao4:p14",
+    "PrrgoTEcao4:t1",
+    "PrrgoTEcao4:t2",
+    "ENizLoE6pzI:t1",
+    "D4dP5JvX1oo:t1"
    ]
   },
   {
-   "text": "Keegan Murray should rank ahead of him in Sacramento's offensive pecking order.",
+   "text": "Do not draft him. The expert sees him as a player for 20-team leagues only and says his Yahoo ADP of 91 makes no sense.",
    "kind": "verdict",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p23"
+    "PrrgoTEcao4:p14"
    ]
   },
   {
-   "text": "He shot 31% from three last season, down from 41% the season before.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p10"
-   ]
-  },
-  {
-   "text": "He is interesting in Sacramento only if he gets about 30 minutes and shoots around 40% from three.",
+   "text": "He is only interesting in Sacramento if his three-point shooting returns to around 40%.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -59,111 +52,103 @@
    ]
   },
   {
-   "text": "He could play 30 to 33 minutes. In a 14-team mock he was worth only a last-round pick, taken for that minutes upside.",
+   "text": "The Kings are expected to be one of the worst teams in the NBA. Poor coaching, ownership and front office make their rotations unpredictable.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t0",
+    "6DnRWahYrFA:t0"
+   ]
+  },
+  {
+   "text": "Sacramento plays 4, 4 and 3 games in our playoff weeks 19 to 21, for 11 games in total. The team has 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His fantasy value depends on about 30 minutes a night and elite three-point shooting.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p10"
+   ]
+  },
+  {
+   "text": "He is not a good fantasy player, even when he gets minutes.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
    "sources": [
     "KPdD91Oo8-U:p44"
    ]
-  },
-  {
-   "text": "Sacramento is projected to finish near the bottom of the league, at about 21 to 27 wins.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
-   ]
-  },
-  {
-   "text": "Experts disagree on how Sacramento will handle its veterans. Lloyd expects the team to trade or sit them. Others expect the Kings to keep trying to win so they stay out of the relegation zone.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t0",
-    "n4KkK-OJjqA:t5",
-    "-KS_AZjZnw4:t5",
-    "oEywzBZfAvY:t7"
-   ]
-  }
- ],
- "durable": [
-  {
-   "text": "He is not a strong fantasy player. His value depends on heavy minutes and elite shooting.",
-   "kind": "verdict",
-   "date": "2026-09-15",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p44",
-    "-y6p5PYLf00:p10"
-   ]
   }
  ],
  "tags": [
   {
-   "name": "waiver watch",
+   "name": "role down",
    "channel": "current",
-   "detail": "Ranked around 191 to 204, outside the 144 players drafted in our league. Watch his minutes and his three-point percentage.",
+   "detail": "Comes off the bench while Ben Simmons starts",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p10",
-    "KPdD91Oo8-U:p44",
-    "stats"
+    "PrrgoTEcao4:p14",
+    "PrrgoTEcao4:t2",
+    "ENizLoE6pzI:t1",
+    "D4dP5JvX1oo:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
+   "name": "bust candidate",
    "channel": "current",
-   "detail": "LaVine, Sabonis and Keegan Murray are ahead of him in the offense.",
+   "detail": "Expert says his Yahoo ADP of 91 makes no sense",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p23",
-    "-KS_AZjZnw4:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Played 45 games in 2025-26.",
-   "until": "",
-   "sources": [
-    "stats"
+    "PrrgoTEcao4:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Kings projected at about 21 to 27 wins.",
+   "detail": "Kings expected to be one of the worst teams in the NBA",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:t0",
     "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
-    "lOshTzDA4SA:t4"
+    "0AptxcRW0RE:t8"
    ],
    "new_meaning": ""
   },
   {
-   "name": "tank risk",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Lloyd expects the Kings to trade or sit veterans. Other experts think they will push to win to avoid relegation.",
+   "detail": "Kings rotations called unpredictable",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "n4KkK-OJjqA:t5",
-    "-KS_AZjZnw4:t5"
+    "PrrgoTEcao4:t0",
+    "xHRF06_E9HE:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Hunter is ranked 191 on Yahoo and 204 on ESPN, and both sites value him at about 0 USD. He went for 1 USD in our league last year. That puts him outside our 144 drafted players, so do not plan to draft him. No category is weak enough to make him a fit for a punt build. His projected FT% and threes help a little, and his FG% and defensive stats hurt a little. Early in the season, watch whether he plays about 30 minutes as a starter and whether his three-point shooting gets back near 40%. If both happen, he becomes a waiver pickup.",
+ "note": "Hunter is ranked 195 on Yahoo and 204 on ESPN, and both sites value him at 0 USD. That puts him outside the 144 players our league drafts, and he cost only 1 USD in our auction last season. His shooting fell to 41.5% FG last season and his three-point rate dropped from 41% to 31%. He is now a bench player with no outlier category, so let him go to waivers. Early in the season, check whether Simmons keeps the starting spot and whether Hunter's three-point shooting gets back near 40%. A pickup only makes sense if both turn in his favor.",
  "rejected": []
 }

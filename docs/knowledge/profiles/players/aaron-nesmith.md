@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 156 | 0 | 0.1 | 177 | not drafted |
+| 2026-27 | 0 | 0.0 | 154 | 0 | 0.1 | 177 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 | FG% | 46.5% | -0.3 | -0.0 | - |
 | FT% | 84.7% | +0.4 | +0.3 | - |
-| 3PM | 2.1 | +0.7 | +0.5 | - |
+| 3PM | 2.1 | +0.6 | +0.5 | - |
 | PTS | 12.9 | -0.2 | -0.2 | - |
 | REB | 4.1 | -0.4 | -0.2 | - |
 | AST | 1.6 | -0.9 | -1.0 | weak for his position (punt fit) |
@@ -30,29 +30,30 @@
 </details>
 
 **Current**
-- If his shooting gets back to 48 to 50 percent, he could be a top 100 player. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1817))
-- He is back at full health and projected to start for Indiana with Haliburton, Nembhard, Siakam and Zubac. (fact, 2026-10-01; [08-10](https://youtu.be/sfCe7fS9daM?t=571), [08-10](https://youtu.be/sfCe7fS9daM?t=443), [10-01](https://youtu.be/EGdhmUgPAWY?t=238))
-- Kelly Oubre Jr. joined Indiana and is projected as the sixth man. If Oubre starts, he would take Nesmith's spot. (fact, 2026-10-01; [07-02](https://youtu.be/P6TNP-g0wzY?t=2152), [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
-- Experts expect his FG% to bounce back with Haliburton back, because he will not have to create his own shot. One speaker is very confident he improves. (verdict, 2026-10-01; [07-16](https://youtu.be/-y6p5PYLf00?t=2221), [09-10](https://youtu.be/dlo7L8Ru91A?t=2052), [09-15](https://youtu.be/KPdD91Oo8-U?t=2489), [10-01](https://youtu.be/EGdhmUgPAWY?t=993))
-- One expert ranks him in the 110 to 130 range and calls him the late-round swing on this team, without feeling great about it. He would not take him in 10 or 12 team leagues, only as a 10th player in 14 team leagues. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=972), [10-01](https://youtu.be/EGdhmUgPAWY?t=1866))
-- He should be worth more in category leagues than in points leagues this season. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=993))
-- Indiana plays 3, 4 and 3 games in our fantasy playoff weeks 19 to 21 and has 15 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
-- The 3-4-3 playoff schedule is not ideal for a season that ends March 28. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- He has a small hamstring issue. Yahoo lists him as questionable. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1564), stats)
+- The hamstring issue does not look significant. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1564))
+- His upside is low. He is good value as a late pick around 160 to 168, but not an upside pick near 110. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1745), [10-12](https://youtu.be/w66x_I_MaQ8?t=2030), [10-12](https://youtu.be/ENizLoE6pzI?t=1980), [10-01](https://youtu.be/EGdhmUgPAWY?t=1866))
+- If his shooting returns to 48 to 50 percent, he could be a top 100 player. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1817))
+- He is back at full health and is in Indiana's projected starting five with Haliburton, Nembhard, Siakam and Zubac. (fact, 2026-10-01; [08-10](https://youtu.be/sfCe7fS9daM?t=571), [08-10](https://youtu.be/sfCe7fS9daM?t=443), [10-01](https://youtu.be/EGdhmUgPAWY?t=238))
+- Kelly Oubre Jr. joined Indiana and is projected as the sixth man. If Oubre starts, he would start over Nesmith. (fact, 2026-10-01; [07-02](https://youtu.be/P6TNP-g0wzY?t=2152), [10-01](https://youtu.be/EGdhmUgPAWY?t=238), [10-01](https://youtu.be/EGdhmUgPAWY?t=1308))
+- With Haliburton back and less need to create his own shot, his FG% should bounce back. One expert expects about 30 minutes, 13 points and a couple of threes per game. (verdict, 2026-10-01; [07-16](https://youtu.be/-y6p5PYLf00?t=2221), [09-10](https://youtu.be/dlo7L8Ru91A?t=2052), [10-01](https://youtu.be/EGdhmUgPAWY?t=993), [09-15](https://youtu.be/KPdD91Oo8-U?t=2489))
+- One expert would not draft him in 10 or 12 team leagues but is fine with him as a 10th player in 14 team leagues. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=972))
+- He should be worth more in category leagues than in points leagues this season. Points league rankings should have him 20 to 30 spots later. (verdict, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=993))
 - Coach Rick Carlisle keeps regular-season minutes low, even for healthy players, and rests players on back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=122), [09-22](https://youtu.be/QbdrhJd7LiA?t=264), [09-16](https://youtu.be/2A2JbUN-kc0?t=870), [08-10](https://youtu.be/sfCe7fS9daM?t=1146))
-- Lloyd expects Carlisle to manage Haliburton's minutes early in the season. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2289))
-- Expected line is about 30 minutes, 13 points and a couple of threes per game. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2489))
-- Without Haliburton last season, his overall FG% fell from 51 to 41 percent. His FG% at the rim fell from 67 to 39 and on twos from 59 to 46. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2221))
+- Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=2034))
+- Indiana is projected to win 46 to 48 games. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1611), [08-10](https://youtu.be/sfCe7fS9daM?t=1748))
 
 **Durable**
-- His assists are weak for his position, so he suits punt AST builds. (verdict, 2026-10-04; [09-10](https://youtu.be/dlo7L8Ru91A?t=2052), stats)
-- He is a high-foul wing, and his defensive stats are poor for his minutes. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=919), stats)
-- He is not a self-creator. His efficiency depends on a playmaker like Haliburton setting him up. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2052), [07-16](https://youtu.be/-y6p5PYLf00?t=2221))
-- He is a great three-point shooter. (verdict, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=518))
+- He commits many fouls for a wing. (fact, 2026-10-01; [10-01](https://youtu.be/EGdhmUgPAWY?t=919))
+- The experts disagree on his defensive stats. One says he gets value from steals. Another says his defensive stats are poor for his minutes. Projections have him slightly below the pool in steals. (verdict, 2026-10-01; [09-15](https://youtu.be/KPdD91Oo8-U?t=2489), [10-01](https://youtu.be/EGdhmUgPAWY?t=919), stats)
+- Assists are his weakest category for his position. He fits punt AST builds. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=2052), stats)
+- He is a great three-point shooter. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=518))
+- He is not a self-creator. Without Haliburton his finishing at the rim fell from 67 to 39 percent, his two-point shooting from 59 to 46 percent and his FG% from 51 to 41 percent. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2221), [09-10](https://youtu.be/dlo7L8Ru91A?t=2052))
 
 **Tags**
-- Current: `bounce-back` (FG% expected to recover with Haliburton back), `minutes competition` (Kelly Oubre Jr. would take his starting spot if he starts), `waiver watch` (Expert would not draft him in 10 or 12 team leagues; top 100 upside if FG% returns), `bad playoff schedule` (3-4-3 games in weeks 19 to 21), `back-to-back risk` (Carlisle rests players on back-to-backs; Indiana has 15), `injury last season` (Played 45 games in 2025-26; now back at full health)
-- Durable: `punt AST fit` (About 1.6 assists projected, weak for a wing), `needs playmaker` (FG% collapsed without Haliburton)
+- Current: `questionable` (Yahoo Q, hamstring), `injured now` (small hamstring issue, not seen as significant), `injury last season` (45 games in each of the last two seasons), `bounce-back` (FG% expected to recover with Haliburton back), `minutes competition` (Kelly Oubre Jr. would start over him if he starts), `waiver watch` (value around picks 160 to 168, outside a 144 player draft), `low starter minutes` (Carlisle keeps healthy players' minutes low), `bad playoff schedule` (3-4-3 games for a March 28 end), `winning team` (projected 46 to 48 wins)
+- Durable: `needs playmaker` (efficiency collapsed without Haliburton), `punt AST fit`, `category league player` (push 20 to 30 spots later in points leagues), `foul prone` (high foul wing)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 150, ESPN 177), and our league drafts 144 players, so he is at most a 1 USD last pick. The better plan is to leave him on waivers and watch him. His case depends on his FG% getting back from 41 to the 48 to 50 percent range next to Haliburton, which experts say could make him a top 100 player. He fits punt AST builds best. Early in the season, check his FG%, whether Oubre takes his starting spot, and whether Carlisle limits Haliburton's minutes.
+**Note.** Yahoo ranks him 154 and ESPN 177, both at 0 USD. Experts see value around picks 160 to 168, so he sits just outside our 144 player draft. Treat him as a 1 USD end-of-draft pick for punt AST teams, or as a waiver watch. Check his hamstring early, and check whether his FG% climbs back toward 48 to 50 percent next to Haliburton and whether he keeps his starting job over Oubre. If both go his way, he has top 100 upside.
 
-<sub>11 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

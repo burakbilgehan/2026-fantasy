@@ -8,111 +8,85 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "64855e5ac926",
- "note_count": 4,
- "built_at": "2026-10-11T09:22:08+00:00",
+ "input_sha": "d4e2806f9e85",
+ "note_count": 7,
+ "built_at": "2026-10-16T09:12:36+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13779419999999998,
-  "duration_ms": 32384,
+  "cost_usd_list": 0.1564542,
+  "duration_ms": 36135,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Mark Williams, the projected starting center, is out long term with a torn labrum. The reported timeline is 5 to 6 months.",
+   "text": "Mark Williams is out long term with a torn labrum. Ighodaro and Khaman Maluach have both started at center in preseason, with similar minutes, and the center minutes could be split.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:t0",
+    "WXO8MfQfzo0:t2",
     "t4n9MAP2_14:t4",
     "LM0cRCGoAUQ:t10"
    ]
   },
   {
-   "text": "Ighodaro has started two games in a row at center over Khaman Maluach. Their minutes are similar.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:t2"
-   ]
-  },
-  {
-   "text": "Phoenix is reported to want its top 10 pick Maluach to take the starting center spot.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:t4"
-   ]
-  },
-  {
-   "text": "Experts expect Ighodaro and Maluach to split the center minutes, and the starting job is not settled.",
+   "text": "He is projected as the opening night starting center, but with little confidence. The expert doubts he will get starter-level minutes.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:t4",
-    "BjXP9JODDSg:t5",
-    "hm5-fiCa5S4:t6",
-    "WXO8MfQfzo0:t2"
+    "MRzebgip23Y:p13",
+    "MRzebgip23Y:t1"
    ]
   },
   {
-   "text": "He put up big numbers at the end of last season while Williams was out with a foot issue.",
+   "text": "He put up big numbers at the end of last season while Williams had a foot issue. In 24 starts he averaged 27 minutes, 8.6 rebounds and 3 assists on 67% shooting.",
    "kind": "fact",
-   "date": "2026-08-23",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p17"
+    "hm5-fiCa5S4:p17",
+    "MRzebgip23Y:p14"
    ]
   },
   {
-   "text": "He would need about 35 minutes with no competition at center to matter in 12-team leagues.",
+   "text": "He is a last-pick option at best with little upside. He would need about 29 minutes a night to be worth getting excited about.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p49"
+    "MRzebgip23Y:p15"
    ]
   },
   {
-   "text": "Booker, Jalen Green, Dillon Brooks, Miles Bridges and Collin Gillespie will take most of the Phoenix touches, which leaves little usage for him.",
+   "text": "Phoenix has the best fantasy schedule in the league: 4 games in each of the playoff weeks 19 to 21, plus the fewest back-to-backs.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:t1",
-    "-DN4P92Wp8Y:t7"
+    "MRzebgip23Y:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a very low usage player. He is a smart passer who can put the ball on the floor, and he is a very underrated defender.",
+   "text": "He is a low-usage big and a smart passer. His fantasy value comes from FG% and assists, plus a few rebounds and steals. One expert calls him a tall TJ McConnell.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p14",
     "t4n9MAP2_14:p49",
     "hm5-fiCa5S4:p19"
    ]
   },
   {
-   "text": "His game does not translate well to fantasy.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p49"
-   ]
-  },
-  {
-   "text": "He has no shooting range beyond five feet and makes no threes.",
+   "text": "He has no shooting range beyond five feet and makes no threes. He can put the ball on the floor.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "hm5-fiCa5S4:p19",
@@ -120,22 +94,54 @@
    ]
   },
   {
-   "text": "His free throw shooting is very poor, below 50% in the projections. It hurts FT% even on low volume.",
+   "text": "He is a very poor free throw shooter, under 50% from the line.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p14",
     "stats"
+   ]
+  },
+  {
+   "text": "He is a very underrated defender.",
+   "kind": "verdict",
+   "date": "2026-08-23",
+   "until": "",
+   "sources": [
+    "hm5-fiCa5S4:p19"
+   ]
+  },
+  {
+   "text": "His very low usage makes him a poor fantasy player unless he gets heavy minutes.",
+   "kind": "verdict",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p49"
    ]
   }
  ],
  "tags": [
   {
-   "name": "FT% liability",
-   "channel": "durable",
-   "detail": "About 48.6% projected FT",
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Splits center minutes with Khaman Maluach while Mark Williams is out",
    "until": "",
    "sources": [
+    "MRzebgip23Y:t0",
+    "WXO8MfQfzo0:t2",
+    "t4n9MAP2_14:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "Under 50% from the line, on low volume",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p14",
     "stats"
    ],
    "new_meaning": ""
@@ -152,29 +158,46 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "questionable",
    "channel": "current",
-   "detail": "Splits center minutes with Khaman Maluach while Mark Williams is out",
+   "detail": "Yahoo status Q (Rest)",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:t4",
-    "BjXP9JODDSg:t5",
-    "WXO8MfQfzo0:t2"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "PHX plays 4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "PHX has the fewest back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Worth a look only if he holds the starting center job and gets heavy minutes",
+   "detail": "Worth a look if he reaches about 29 minutes a night",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p49",
-    "WXO8MfQfzo0:t2"
+    "MRzebgip23Y:p15"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Ighodaro should not be drafted in our league. Yahoo values him at 0 USD (rank 178), and ESPN at 1 USD (rank 125, 0.5 USD average cost). Even ESPN's 27.6-minute projection gives only 7.9 points with no threes and a FT% below 50%. If you are punting FT%, his 65% FG% and 2.4 assists are a small plus, so watch him on waivers early in the season. Act only if he keeps starting over Maluach and his minutes approach the 35 that experts say he needs to matter in 12-team leagues.",
+ "note": "Both sites price him at 0 to 1 USD (Yahoo rank 170, ESPN rank 125), so he is likely outside our 144 drafted players and should not cost more than 1 USD as a last pick. If his minutes reach about 29, his starter line from last season (8.6 rebounds, 3 assists, 67% shooting) could help a punt FT% build that wants FG% and assists from a center. Watch the Maluach split in the first two weeks, and note that PHX's 4-4-4 playoff schedule adds a little late-season value.",
  "rejected": []
 }

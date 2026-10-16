@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 248 | - | 0.2 | - | not drafted |
+| 2026-27 | 0 | 1.0 | 243 | - | 0.3 | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -16,33 +16,32 @@
 | FG% | 53.1% | +0.4 | -0.5 | - |
 | FT% | 58.9% | -1.0 | -0.2 | - |
 | 3PM | 0.1 | -1.5 | -0.9 | league outlier, weak |
-| PTS | 5.1 | -1.6 | -1.4 | league outlier, weak |
-| REB | 4.8 | -0.1 | -1.2 | - |
+| PTS | 5.1 | -1.5 | -1.4 | league outlier, weak |
+| REB | 4.8 | -0.1 | -1.1 | - |
 | AST | 1.4 | -0.9 | -0.6 | - |
-| STL | 0.4 | -1.6 | -1.5 | league outlier, weak |
+| STL | 0.4 | -1.6 | -1.4 | league outlier, weak |
 | BLK | 1.1 | +1.1 | +0.1 | - |
-| TO | 1.0 | +0.9 | +0.9 | - |
+| TO | 1.0 | +1.0 | +0.8 | - |
 
 </details>
 
 **Current**
-- He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation. (fact, 2026-09-17; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- Hartenstein's role looks secure. Jaylin Williams barely played last season unless the centers were out. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- Experts expect him to barely play this season because the OKC frontcourt is crowded. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [06-28](https://youtu.be/RsjGTgJiKyI?t=443), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
-- He struggled in Summer League. He shot 35.7% from the line but averaged 3.2 assists, 7 rebounds and 1.8 blocks. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331), [08-02](https://youtu.be/TOn-D1SV7a8?t=1186))
-- One expert dropped him to 10th in a dynasty rookie ranking after Summer League. His appeal is long term, not this season. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=443))
+- He has played well in preseason and is a hot name, with his ADP rising to 109. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1725), [10-12](https://youtu.be/NhLMyS7Ii5I?t=57))
+- Chet Holmgren is banged up. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1725))
+- Experts doubt he plays enough in the regular season to matter. One says he is not worth drafting in standard leagues. Another takes him only as a last-pick flyer because Holmgren is banged up. (verdict, 2026-10-14; [10-12](https://youtu.be/NhLMyS7Ii5I?t=57), [10-14](https://youtu.be/D4dP5JvX1oo?t=1725))
+- He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation, and Thomas Sorber also competes for big man minutes. (fact, 2026-10-12; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [06-28](https://youtu.be/RsjGTgJiKyI?t=443), [10-12](https://youtu.be/NhLMyS7Ii5I?t=1746), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
 
 **Durable**
-- He makes almost no threes and gets few steals. (fact, 2026-10-04; stats)
-- He is a huge center whose shot blocking is real. Experts also credit him with a strong field goal percentage. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
-- His free throw shooting is very bad. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
-- He is a strong passer for a big man. One expert compares his assists to Alperen Sengun's. (verdict, 2026-07-26; [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331))
-- He plays drop coverage only and does not project as a switchable big. He looks slow and lacks a go-to offensive move. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1331), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
+- He makes almost no threes and gives very little in points and steals. (fact, 2026-10-16; stats)
+- He is a huge center whose shot blocking is real. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
+- His free throw shooting is very poor. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1186), [07-21](https://youtu.be/RyzcCGChYgs?t=1056))
+- He is a strong passer for a big man, and experts rate his FG% and passing as strengths. (verdict, 2026-07-26; [06-28](https://youtu.be/RsjGTgJiKyI?t=949), [07-21](https://youtu.be/RyzcCGChYgs?t=1056), [07-26](https://youtu.be/75Sk_4fkgIM?t=1331))
+- He plays drop coverage only and does not project as a switchable big. He lacks a go-to offensive move. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1331))
 
 **Tags**
-- Current: `rookie` (2026 draft pick, already 21), `minutes competition` (Behind Hartenstein, Holmgren and Jaylin Williams at center)
-- Durable: `no 3PM` (0.1 threes per game projected)
+- Current: `rookie` (OKC rookie center), `minutes competition` (Behind Hartenstein, Holmgren and Jaylin Williams, with Sorber also in the mix), `deep rotation` (Crowded OKC frontcourt), `flyer` (Last-round pick at most, because Holmgren is banged up), `handcuff` (Gains value if Holmgren or Hartenstein miss time), `waiver watch` (Not worth a standard-league pick. Watch him if OKC's bigs get hurt)
+- Durable: `no 3PM` (Projected 0.1 threes per game)
 
-**Note.** Mara is not a draft target in our league. Yahoo values him at 0 USD and ranks him 250th, ESPN does not rank him, and only 144 players get drafted. His projection of 5.1 points, 4.8 rebounds and 1.1 blocks in a deep third-string center role is weak in points, threes and steals. Early in the season, check whether he gets real minutes when Hartenstein or Holmgren miss games. Leave him on waivers until he does.
+**Note.** At Yahoo rank 243 with a 1 USD average cost (0.3 USD on ESPN), he is far outside our 144 drafted players. Do not pay more than 1 USD. His rising preseason ADP of 109 comes from hype, not from a regular-season role. Early in the season, track Chet Holmgren's health and OKC's center minutes. With a projected 5.1 points, 1.1 blocks, almost no threes and weak FT shooting, he only becomes a short-term blocks pickup if he wins real minutes.
 
-<sub>6 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

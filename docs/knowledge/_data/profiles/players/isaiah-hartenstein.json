@@ -8,111 +8,116 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "7c5a5ac7e774",
- "note_count": 12,
- "built_at": "2026-10-11T09:17:12+00:00",
+ "input_sha": "835ca4c03ef5",
+ "note_count": 18,
+ "built_at": "2026-10-16T08:57:08+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1619942,
-  "duration_ms": 39879,
+  "cost_usd_list": 0.1928462,
+  "duration_ms": 52129,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with the Thunder on a 3-year, 75 million dollar contract.",
+   "text": "He re-signed with OKC for 3 years and 75 million USD.",
    "kind": "fact",
-   "date": "2026-07-01",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "W3THnI7wWdA:p27",
+    "NhLMyS7Ii5I:p16"
+   ]
+  },
+  {
+   "text": "He is a projected OKC starter at center next to Chet Holmgren.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t2",
     "W3THnI7wWdA:p27"
    ]
   },
   {
-   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "text": "The OKC big man group also includes Chet Holmgren, Jaylin Williams and Thomas Sorber. The team used its first pick in each of the last two drafts on a center.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "stats"
+    "NhLMyS7Ii5I:t3",
+    "NhLMyS7Ii5I:t4"
    ]
   },
   {
-   "text": "He missed many games with injuries last season. Early last season, while Chet Holmgren was out, he played at a top 40 level.",
-   "kind": "fact",
-   "date": "2026-10-08",
+   "text": "Experts see his role as secure. The new contract, a newly drafted center and a teammate's strong preseason do not change it, and Jaylin Williams barely played unless the centers were out.",
+   "kind": "verdict",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "NhLMyS7Ii5I:p16",
     "6DnRWahYrFA:p33",
     "ahNxsoU8Hx4:p30",
-    "DubdKKhMWHo:p18"
-   ]
-  },
-  {
-   "text": "OKC's center rotation is Hartenstein, Chet Holmgren and Jaylin Williams. Jaylin Williams barely played unless one of the centers was out.",
-   "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:t0",
     "ahNxsoU8Hx4:t3"
    ]
   },
   {
-   "text": "Experts expect him to be a full-time starter with a secure role. A teammate's strong preseason does not change that.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p27",
-    "ahNxsoU8Hx4:p30",
-    "ahNxsoU8Hx4:t3",
-    "6DnRWahYrFA:p33"
-   ]
-  },
-  {
-   "text": "If he stays healthy and plays 28 to 29 minutes, experts see him as a top 60 player.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p30",
-    "t4n9MAP2_14:p23"
-   ]
-  },
-  {
-   "text": "One expert gives a best case of 40th and a worst case of 93rd.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p18"
-   ]
-  },
-  {
-   "text": "Lloyd ranks him 104 in Yahoo categories. Other experts say he should go inside the top 100, keep going too late, and sit outside the top 130 on ESPN.",
-   "kind": "verdict",
+   "text": "He was banged up a lot last season. Before the injuries he played at a top 40 level early in the season, partly while Chet Holmgren was out.",
+   "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p33",
-    "ZYllcj4o6_A:p38",
     "DubdKKhMWHo:p18",
-    "t4n9MAP2_14:p23",
-    "E-KmhvyZ2CU:p21"
+    "ahNxsoU8Hx4:p30"
    ]
   },
   {
-   "text": "Experts call him a useful late-round center and a value pick around round 8 in 10-team mock drafts, mostly for his defensive stats.",
+   "text": "Experts call him the best value target on OKC. He should go inside the top 100 but keeps going too late, especially on ESPN.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p36",
+    "NhLMyS7Ii5I:p15",
+    "ZYllcj4o6_A:p38",
+    "DubdKKhMWHo:p18",
+    "E-KmhvyZ2CU:p21",
+    "t4n9MAP2_14:p23"
+   ]
+  },
+  {
+   "text": "His upside depends on minutes and health. With about 28 to 29 minutes he could be a top 60 player. One expert gives a best case of 40th and a worst case of 93rd.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p30",
+    "t4n9MAP2_14:p23",
+    "DubdKKhMWHo:p18"
+   ]
+  },
+  {
+   "text": "In category mock drafts experts take him around round 8, from about pick 91 to 116, as a useful late center for defensive stats. Josh took him at 97 and later said he regrets it a little.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p17",
+    "w66x_I_MaQ8:p36",
     "BjXP9JODDSg:p39",
     "_vbAP5y182A:p44",
-    "E-KmhvyZ2CU:p21"
+    "E-KmhvyZ2CU:p21",
+    "n4KkK-OJjqA:p36"
+   ]
+  },
+  {
+   "text": "OKC has a league-minimum 13 back-to-backs. Its schedule is pretty good with a March 28 end.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
    ]
   },
   {
@@ -127,9 +132,20 @@
  ],
  "durable": [
   {
-   "text": "He is an unusual center who gets assists and no longer shoots threes. He adds rebounds, steals, blocks and a high FG%.",
+   "text": "He is a good rebounder who adds steals, blocks, a high FG% and unusual assists for a center.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p17",
+    "t4n9MAP2_14:p22",
+    "stats"
+   ]
+  },
+  {
+   "text": "He no longer shoots threes.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p22",
@@ -137,13 +153,23 @@
    ]
   },
   {
-   "text": "He is a very low scorer. He does not fit every fantasy team, but he can help plenty of them.",
+   "text": "He is a very low scorer. That is fine in a category format, and he can help many fantasy teams but does not fit every build.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:p34",
-    "stats"
+    "DzQXaC2rsac:p17",
+    "6DnRWahYrFA:p34"
+   ]
+  },
+  {
+   "text": "His profile is worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p17",
+    "hviT4hzYNME:p29"
    ]
   }
  ],
@@ -151,7 +177,7 @@
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "0.0 threes per game in recent seasons",
+   "detail": "0.0 threes per game in each of the last three seasons",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p22",
@@ -172,93 +198,93 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "about 3.4 assists per game as a center",
+   "detail": "about 3.5 assists per game as a center",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p22",
+    "NhLMyS7Ii5I:p17",
     "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (ankle)",
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "rebounds, defensive stats, FG% and assists with low scoring",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "ankle, Yahoo status Q",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "played 47 games, banged up a lot",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:p33",
-    "ahNxsoU8Hx4:p30",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "experts say he goes too late, ESPN rank outside 130",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p36",
-    "ahNxsoU8Hx4:p30",
-    "DubdKKhMWHo:p18",
-    "E-KmhvyZ2CU:p21"
+    "NhLMyS7Ii5I:p17",
+    "hviT4hzYNME:p29"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "experts say he should go inside the top 100",
+   "detail": "best value target on OKC, should go inside the top 100",
    "until": "",
    "sources": [
+    "NhLMyS7Ii5I:p15",
     "ZYllcj4o6_A:p38",
-    "DubdKKhMWHo:p18",
-    "t4n9MAP2_14:p23"
+    "DubdKKhMWHo:p18"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo rank 104, ESPN rank 132",
+   "detail": "late-round functional center, ESPN rank outside 130",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p38",
-    "stats"
+    "n4KkK-OJjqA:p36",
+    "ahNxsoU8Hx4:p30",
+    "E-KmhvyZ2CU:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "banged up a lot in 2025-26",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p33",
+    "ahNxsoU8Hx4:p30",
+    "DubdKKhMWHo:p18"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "OKC projected about 62 wins",
+   "detail": "about 62 projected wins",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t3"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "league-minimum 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "pretty good with a March 28 end",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Hartenstein is a late-auction center: Yahoo values him at 5 USD and ESPN at 0 USD, with average costs around 1 USD. Our league paid 11 USD for him last season, which is too much for a rank near 104 to 132. He fits punt 3PM builds and teams that need rebounds, FG% and assists from the center spot, and he costs little in turnovers. Early in the season, check his ankle (Yahoo Q) and whether he gets the 28 or more minutes that experts say would make him a top 60 player.",
+ "note": "The market has him at Yahoo rank 105 (average cost 1.5 USD) and ESPN rank 132 (1.1 USD). Experts see top 100 value, so with 144 players drafted he is a cheap late center target. He should cost far less than the 11 USD our league paid last season. He fits builds that punt 3PM and want FG%, rebounds, assists and steals from the center spot (61% FG, 9.7 REB projected). Early in the season, check his health and whether his minutes get near 28 to 29, the level experts link to a top 60 season.",
  "rejected": []
 }

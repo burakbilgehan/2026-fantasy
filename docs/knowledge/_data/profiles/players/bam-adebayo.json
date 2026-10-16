@@ -8,81 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "da393f96e094",
- "note_count": 13,
- "built_at": "2026-10-11T09:13:36+00:00",
+ "input_sha": "c9afb46cc664",
+ "note_count": 16,
+ "built_at": "2026-10-16T08:44:52+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11644319999999998,
-  "duration_ms": 49993,
+  "cost_usd_list": 0.1957062,
+  "duration_ms": 51574,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts agree his ESPN rank is too high. One says not to draft him at ESPN's rank of 7th, and he has never played near that level.",
-   "kind": "verdict",
+   "text": "Yahoo lists him as questionable with a groin injury.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Miami traded for Giannis Antetokounmpo, so Bam now plays next to him.",
+   "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p2",
-    "cvhcheoKdbo:p8",
-    "uarqbNA2dFk:p35"
-   ]
-  },
-  {
-   "text": "His fair value is about a Yahoo rank of 26, a round 3 pick in category leagues. A Fantrax ADP of 34 to 36 is fair to good value.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "cvhcheoKdbo:p8",
-    "cvhcheoKdbo:p12",
-    "t4n9MAP2_14:p7",
-    "LM0cRCGoAUQ:p12"
-   ]
-  },
-  {
-   "text": "In one expert's drafts he often goes later than his ADP.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "cvhcheoKdbo:p12"
-   ]
-  },
-  {
-   "text": "In an auction mock he went for 24 USD. The expert expected the mid 20s and called 24 USD too cheap.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p60"
-   ]
-  },
-  {
-   "text": "The experts are split on how much to like him. One is not a big fan this year, and another regrets not bidding at 24 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p7",
-    "Q6YlQDvD-aY:p60"
-   ]
-  },
-  {
-   "text": "Giannis Antetokounmpo joined Miami in a trade. Bam, Giannis and Andrew Wiggins are locks to start.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
     "nnWX_ObljOE:p25",
-    "cvhcheoKdbo:t2"
+    "-DN4P92Wp8Y:t9",
+    "LM0cRCGoAUQ:t0"
    ]
   },
   {
-   "text": "Giannis should cost him a small amount of value, mostly some rebounds, and may push him to take more threes. Experts expect no big drop because Miami lost a lot of other talent.",
+   "text": "Giannis should cost him a little value. He may lose some rebounds and take more threes, but experts do not expect a big drop.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -93,7 +52,55 @@
    ]
   },
   {
-   "text": "He shot poorly last season, including about 29% from three over the final 25 games.",
+   "text": "He is a lock to start in the frontcourt with Giannis and Wiggins.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t2"
+   ]
+  },
+  {
+   "text": "Miami's frontcourt depth is thin. Backup centers are Nick Richards and Vlad Goldin, and Bobby Portis backs him up at forward.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t4",
+    "LM0cRCGoAUQ:t0",
+    "LUTYUdXBG1M:t1"
+   ]
+  },
+  {
+   "text": "With Giannis handling the ball a lot, Miami's offense should move away from last season's very high pace and few ball screens.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t1",
+    "nnWX_ObljOE:t4"
+   ]
+  },
+  {
+   "text": "He was not blocking shots, but he may do more rim protection with Giannis next to him.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p10"
+   ]
+  },
+  {
+   "text": "His passing picked up late last season, back to about 4.5 assists over the final 15 to 20 games.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p9"
+   ]
+  },
+  {
+   "text": "He shot about 29% from three over the final 25 games of last season.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -111,78 +118,112 @@
    ]
   },
   {
-   "text": "His assists rose to about 4.5 per game over the final 15 to 20 games of last season.",
-   "kind": "fact",
-   "date": "2026-10-07",
+   "text": "ESPN's rank (7th in categories, 15th overall) is too high. Do not draft him at that price. A rank in the 30s is more reasonable.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "cvhcheoKdbo:p9"
+    "-DN4P92Wp8Y:p2",
+    "cvhcheoKdbo:p8",
+    "uarqbNA2dFk:p35"
    ]
   },
   {
-   "text": "He has not been blocking shots. Next to Giannis he may do more rim protection.",
+   "text": "He is fair value in round 3 of category drafts, around picks 29 to 36. Yahoo's rank of 26 is about right.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p7",
+    "ENizLoE6pzI:p10",
+    "uI6umXsE7Vk:p21",
+    "cvhcheoKdbo:p8",
+    "cvhcheoKdbo:p12",
+    "t4n9MAP2_14:p7",
+    "LM0cRCGoAUQ:p12"
+   ]
+  },
+  {
+   "text": "His ADP range is tight, about picks 19 to 39.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p10"
+   ]
+  },
+  {
+   "text": "In auctions he is worth the mid 20s USD. 24 USD in a mock auction was too cheap.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p60"
+   ]
+  },
+  {
+   "text": "One expert (Dan) is not a big fan of him this year.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p7"
+   ]
+  },
+  {
+   "text": "Experts rank him higher in points leagues (late round 2, 20th in Yahoo points) than in categories.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "cvhcheoKdbo:p10"
+    "cvhcheoKdbo:p12",
+    "2A2JbUN-kc0:p38"
    ]
   },
   {
-   "text": "Miami's backup center depth is poor, with Nick Richards and Vlad Goldin behind him.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "cvhcheoKdbo:t4",
-    "LUTYUdXBG1M:t1"
-   ]
-  },
-  {
-   "text": "With the March 28 end, Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total. Miami also has the league-minimum 13 back-to-backs.",
+   "text": "With the March 28 end, Miami has a weak 4-3-3 playoff schedule, 10 games over weeks 19 to 21.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "cvhcheoKdbo:t5",
+    "gf_6GveiAls:t7"
+   ]
+  },
+  {
+   "text": "Miami has the league-minimum 13 back-to-backs and none in the fantasy playoffs.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
     "cvhcheoKdbo:t6",
     "gf_6GveiAls:t7"
    ]
   },
   {
-   "text": "The East is very stacked, so Miami may not be able to rest players for long stretches.",
+   "text": "The East is very stacked, so Miami may not be able to coast and rest players for long stretches.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "cvhcheoKdbo:t7"
    ]
-  },
-  {
-   "text": "He ranks 20th in Yahoo points leagues and is a late round 2 pick there, compared with round 3 in category leagues.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "2A2JbUN-kc0:p38",
-    "cvhcheoKdbo:p12"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "His FG% is weak for a big on real volume, at about 44.6% on about 16 attempts per game. This is his clear weak category.",
+   "text": "His category profile is broad for a big. Rebounds, points and steals are his strengths, and he adds some threes and assists for his position.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He makes about 2 threes per game, which is a lot for a big.",
+   "text": "FG% is his weak category. It is low for a big on about 16 attempts per game.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -191,9 +232,29 @@
  ],
  "tags": [
   {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Yahoo status Q (groin)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Groin",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "About 44.6% FG on about 16 attempts, weak for a big",
+   "detail": "FG% about 44.6% on about 16 attempts, low for a big",
    "until": "",
    "sources": [
     "stats"
@@ -203,7 +264,7 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 1.9 threes per game projected. Giannis may push him to more threes",
+   "detail": "About 1.9 threes projected; Giannis may push him to shoot more threes",
    "until": "",
    "sources": [
     "stats",
@@ -212,20 +273,31 @@
    "new_meaning": ""
   },
   {
-   "name": "points league player",
-   "channel": "durable",
-   "detail": "Late round 2 in points leagues, round 3 in category leagues",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Giannis Antetokounmpo joined and will handle the ball a lot",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p38",
-    "cvhcheoKdbo:p12"
+    "nnWX_ObljOE:p25",
+    "nnWX_ObljOE:t4",
+    "t4n9MAP2_14:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "Shooting expected to improve after a poor shooting season",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:p11"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "At ESPN's rank (7th to 15th). Fair value is around Yahoo's 26 or later",
+   "detail": "At ESPN's rank (7th in categories, 15th overall)",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p2",
@@ -237,7 +309,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "ESPN ranks him well above Yahoo. Experts side with Yahoo",
+   "detail": "ESPN value 43 USD and rank 17, Yahoo value 31 USD and rank 26",
    "until": "",
    "sources": [
     "stats",
@@ -246,31 +318,20 @@
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Giannis Antetokounmpo joined and will handle the ball a lot. Small value hit expected",
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Late round 2 in points leagues, round 3 in categories",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p25",
-    "nnWX_ObljOE:t4",
-    "LM0cRCGoAUQ:p12"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bounce-back",
-   "channel": "current",
-   "detail": "His shooting is expected to improve after a poor 2025-26",
-   "until": "",
-   "sources": [
-    "cvhcheoKdbo:p11"
+    "cvhcheoKdbo:p12",
+    "2A2JbUN-kc0:p38"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4-3-3 in weeks 19 to 21, 10 games",
+   "detail": "4-3-3, 10 games in weeks 19 to 21",
    "until": "",
    "sources": [
     "cvhcheoKdbo:t5",
@@ -281,7 +342,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "League-minimum 13 back-to-backs",
+   "detail": "League-minimum 13, none in the fantasy playoffs",
    "until": "",
    "sources": [
     "cvhcheoKdbo:t6",
@@ -290,38 +351,28 @@
    "new_meaning": ""
   },
   {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Weak backup center depth (Richards, Goldin), lost depth in trades",
+   "until": "",
+   "sources": [
+    "cvhcheoKdbo:t4",
+    "nnWX_ObljOE:t6",
+    "LUTYUdXBG1M:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "The East is stacked, so Miami may not be able to rest players",
+   "detail": "Stacked East means Miami may not be able to coast and rest players",
    "until": "",
    "sources": [
     "cvhcheoKdbo:t7"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Poor backup center depth (Nick Richards, Vlad Goldin)",
-   "until": "",
-   "sources": [
-    "cvhcheoKdbo:t4",
-    "LUTYUdXBG1M:t1",
-    "nnWX_ObljOE:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (Rest)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "The experts think ESPN's value of 43 USD is far too high. Yahoo's average cost of 25.3 USD, ESPN's 27.1 and our league's 26 USD last season fit their view better: one expert called 24 USD too cheap and set his price in the mid 20s. He is best in punt FG% builds, since his 44.6% on about 16 attempts is his only weak category. He adds rebounds, points, steals and threes from a big. Early in the season, check whether his three-point shooting recovers and how many rebounds and assists he keeps next to Giannis. Also remember that Miami has only 10 games in our playoff weeks.",
+ "note": "He went for 26 USD in our league last season. Yahoo and ESPN average costs are about 27 USD, and experts call the mid 20s fair, so bid up to about 27 USD and do not pay ESPN's 43 USD value. His FG% is the weak spot, so he fits best in punt FG% builds, where his rebounds, points, steals and threes from a big all count. Before the draft, check the groin status (Yahoo Q). Early in the season, watch how his rebounds, threes and blocks change next to Giannis, and remember Miami gets only 10 playoff games.",
  "rejected": []
 }

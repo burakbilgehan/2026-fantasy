@@ -4,50 +4,48 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 72 | 33.3 | 45.2 (13.1) | 82.5 (2.3) | 2.0 | 15.7 | 5.4 | 4.0 | 1.4 | 0.5 | 1.7 |
-| 2026-27 proj, Yahoo | 75 | - | 43.7 (13.5) | 81.6 (2.6) | 2.0 | 15.9 | 6.1 | 4.5 | 1.5 | 0.6 | 2.0 |
+| 2026-27 proj, Yahoo | 75 | - | 44.4 (13.5) | 81.6 (2.6) | 2.1 | 16.2 | 4.5 | 3.1 | 1.5 | 0.4 | 1.7 |
 | 2025-26 | 75 | 35.0 | 43.8 (13.7) | 81.8 (2.4) | 2.0 | 16.0 | 5.6 | 4.2 | 1.4 | 0.5 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 10 | 6.9 | 84 | 7 | 4.3 | 59 | not drafted |
+| 2026-27 | 9 | 4.1 | 86 | 7 | 4.6 | 59 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 44.4% | -0.8 | -0.6 | - |
+| FG% | 44.8% | -0.8 | -0.5 | - |
 | FT% | 82.1% | +0.3 | -0.1 | - |
-| 3PM | 2.0 | +0.5 | +0.2 | - |
-| PTS | 15.8 | +0.3 | +0.2 | - |
-| REB | 5.7 | +0.3 | +1.3 | - |
-| AST | 4.3 | +0.6 | +0.2 | - |
+| 3PM | 2.0 | +0.6 | +0.2 | - |
+| PTS | 16.0 | +0.3 | +0.2 | - |
+| REB | 5.0 | -0.1 | +0.8 | - |
+| AST | 3.6 | +0.2 | -0.2 | - |
 | STL | 1.5 | +1.7 | +1.3 | - |
-| BLK | 0.5 | -0.2 | +0.7 | - |
-| TO | 1.8 | -0.2 | -0.0 | - |
+| BLK | 0.5 | -0.3 | +0.4 | - |
+| TO | 1.7 | -0.1 | +0.1 | - |
 
 </details>
 
 **Current**
-- Experts call his Yahoo ADP in the 60s and a 13 USD auction price too high. They prefer him around picks 80 to 105, and the newest call puts his auction value around 10 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4417), [09-24](https://youtu.be/_vbAP5y182A?t=1728), [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Experts expect him to fall short of last season's top 70 finish. One sees him ending up around 110th, another says he will drop but not as far as his ESPN ADP of 112. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Experts expect his usage to drop, likely below 20% and around 18%, because of the usage squeeze in Philadelphia. (verdict, 2026-09-10; [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-02](https://youtu.be/P6TNP-g0wzY?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=963), [09-10](https://youtu.be/W-R1dzem32s?t=1617))
-- Nick Nurse should still give him about 34 minutes a night, which keeps his steals useful. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- Philadelphia added Jaylen Brown and LeBron James and has a healthier Joel Embiid, so the ball is shared among several high-usage stars. (fact, 2026-09-04; [08-06](https://youtu.be/gTsfR5PxAMY?t=141), [09-04](https://youtu.be/gerS7ibpaJo?t=963), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [09-09](https://youtu.be/7BllEsdNLoM?t=907))
-- The 76ers have 13 back-to-backs this season, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
-- He is projected to start at guard next to Tyrese Maxey, Jaylen Brown, LeBron James and Joel Embiid. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
-- If the starting lineup does not fit, he is the starter most likely to move to the bench. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
-- Philadelphia is projected to win about 51 to 52 games. The same preview expects growing pains in October and November and load management for the stars. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=1819))
+- He is projected to start at guard with Maxey, Jaylen Brown, LeBron James and Embiid. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=264), [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
+- Experts expect him to be the third option, not the second. Usage could fall to about 18 to 20 percent, and his points and assists should drop with Brown, LeBron and a healthier Embiid around him. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1076), [10-13](https://youtu.be/KqTKVExQGLo?t=1168), [07-13](https://youtu.be/Rqb5GdrSweY?t=947), [07-13](https://youtu.be/Rqb5GdrSweY?t=873), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [07-02](https://youtu.be/P6TNP-g0wzY?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-04](https://youtu.be/gerS7ibpaJo?t=963), [09-10](https://youtu.be/W-R1dzem32s?t=1617))
+- Expect big ups and downs from week to week as Embiid, LeBron and others move in and out of the lineup. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1084), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654))
+- Draft him in the 90s, not in the 60s or 70s. At around pick 104 he is a value. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1168), [09-24](https://youtu.be/_vbAP5y182A?t=1728), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-22](https://youtu.be/QbdrhJd7LiA?t=897))
+- Philadelphia plays 3-4-4 games in our playoff weeks (March 28 end) and has only 13 back-to-backs this season. One note says three of them fall in the fantasy playoffs. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1680), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- In an auction he is worth about 10 USD. A price of 13 USD is too high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4417), [09-04](https://youtu.be/gerS7ibpaJo?t=984))
+- Experts doubt he can match last season's top 70 finish. One sees a risk he ends up around 110th, but another says he will not fall as far as an ESPN ADP of 112. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=897), [09-04](https://youtu.be/gerS7ibpaJo?t=984), [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2860))
+- Nick Nurse should still give him about 34 minutes, which keeps his steals strong. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1941), [09-09](https://youtu.be/7BllEsdNLoM?t=1956))
+- If the lineup does not fit, he is the starter most likely to move to the bench. (verdict, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=474))
 
 **Durable**
-- Steals are his best category, and he rebounds well for a guard. (fact, 2026-10-11; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
-- FG% is his weakest category. He shoots about 44% on 13 to 14 attempts, a mild drag. (fact, 2026-10-11; stats)
-- Nick Nurse gives his starters, and his guards in particular, very heavy minutes. He also mixes and staggers lineups when things do not fit. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [09-10](https://youtu.be/W-R1dzem32s?t=779))
-- His rookie season beat expectations. He came in with an ADP of 97, finished 62nd in category leagues and was top 50 late in the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
+- Steals are his best category. FG% is his weakest, a little below the pool. (fact, 2026-10-16; stats, [09-09](https://youtu.be/7BllEsdNLoM?t=1941))
+- He beat expectations as a rookie. His ADP was 97 and he finished 62nd in category leagues. Late in the season he was top 50. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=919))
 
 **Tags**
-- Current: `usage competition` (Shares the ball with Maxey, Embiid, LeBron James and Jaylen Brown), `role down` (Usage projected to fall to about 18%), `concentrated usage` (Maxey, Embiid, LeBron James and Jaylen Brown), `bust candidate` (At a Yahoo ADP of 63 to 66 or a 13 USD price), `sites disagree on price` (Yahoo ADP around 63, ESPN ADP 112), `winning team` (Projected 51 to 52 wins), `bad playoff schedule` (Three back-to-backs in the fantasy playoffs)
-- Durable: `heavy starter minutes` (Nick Nurse plays his starters and guards heavy minutes)
+- Current: `usage competition` (Third option behind Maxey, Jaylen Brown, LeBron James and Embiid), `role down` (Usage projected near 18 to 20 percent, with fewer points and assists), `bust candidate` (At an ADP of 63 to 66 or a 13 USD auction price), `few back-to-backs` (13 back-to-backs), `winning team` (About 51 to 52 wins projected)
+- Durable: `heavy starter minutes` (Nick Nurse plays his guards heavy minutes. About 34 projected for him.)
 
-**Note.** Experts price Edgecombe around 10 USD in our auction, which matches his Yahoo value of 10 USD. Average costs are lower (6.9 USD on Yahoo, 3.8 USD on ESPN), so a bid of 7 to 10 USD is fair, but do not chase him at his Yahoo ADP in the 60s. He has no weak category, his steals are a plus and he rebounds well for a guard. Early in the season, check that he keeps his starting job, gets about 34 minutes and how his usage changes when Embiid or LeBron James sit.
+**Note.** The market already prices him low: Yahoo ranks him 86 and values him at 9 USD, ESPN at 7 USD, and average costs are only 4 to 5 USD. That fits the experts' range of picks in the 90s and about 10 USD, so pay up to about 10 USD and no more than that. He helps steals (z +1.7) and threes with a small FG% cost. Early in the season, check whether he stays in the starting five, plays about 34 minutes, and how much his usage and assists drop next to Brown and LeBron.
 
-<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

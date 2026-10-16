@@ -8,20 +8,51 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d858d9678399",
- "note_count": 13,
- "built_at": "2026-10-11T09:25:01+00:00",
+ "input_sha": "c12000d1c721",
+ "note_count": 17,
+ "built_at": "2026-10-16T09:21:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19929419999999998,
-  "duration_ms": 53390,
+  "cost_usd_list": 0.2040862,
+  "duration_ms": 51983,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Zion is locked into the Pelicans' starting lineup.",
+   "text": "Experts have moved him down for category leagues. One says his top 50 hopes are gone, and another doubts his top 20 best case still exists.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p9",
+    "gsx_UDkVPd0:p11",
+    "WXO8MfQfzo0:p19"
+   ]
+  },
+  {
+   "text": "In an auction mock, Josh valued him at about 6 USD. He went for 8 USD.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p73"
+   ]
+  },
+  {
+   "text": "He is projected for about 30 minutes. Guards handle the ball, so a point forward role is limited and he plays off the ball more.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p47",
+    "5QU-jta-lWM:p2",
+    "gsx_UDkVPd0:p11"
+   ]
+  },
+  {
+   "text": "He is locked into the starting lineup with Dejounte Murray and Trey Murphy.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -31,168 +62,122 @@
    ]
   },
   {
-   "text": "He projects for only about 30 minutes. Guards who handle the ball limit any point-forward role for him.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p47"
-   ]
-  },
-  {
-   "text": "Using him more off the ball instead of as a point forward is probably part of why he stayed healthy.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:p2"
-   ]
-  },
-  {
-   "text": "New Orleans has among the most back-to-backs in the league.",
+   "text": "The Pelicans have had success with him at center, and lineups with Saddiq Bey and Zion at center may close games.",
    "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
+    "gsx_UDkVPd0:t4",
+    "Q6YlQDvD-aY:t1"
+   ]
+  },
+  {
+   "text": "Experts see Zion and Derik Queen as a poor fit together. How new coach Jamahl Mosley splits the frontcourt is unknown.",
+   "kind": "verdict",
+   "date": "2026-09-24",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:t8",
+    "ahNxsoU8Hx4:t1",
+    "_vbAP5y182A:t0"
+   ]
+  },
+  {
+   "text": "The roster is crowded with high-usage players, which makes roles and minutes hard to project.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t0",
+    "uI6umXsE7Vk:t0",
+    "WXO8MfQfzo0:t1",
+    "NYTH7uQsPCM:t0"
+   ]
+  },
+  {
+   "text": "New Orleans has a league-high 16 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t6",
     "gf_6GveiAls:p16"
    ]
   },
   {
-   "text": "Experts expect the Pelicans to rest him often, and the back-to-backs make that a real risk.",
+   "text": "Josh expects the Pelicans to rest him often.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t1",
-    "gf_6GveiAls:p16"
+    "ZYllcj4o6_A:t1"
    ]
   },
   {
-   "text": "Josh thinks he is worth about 6 USD in an auction. In his mock draft, bidding opened at 3 USD and he went for 8 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "With a March 28 end, the Pelicans play 4, 4 and 3 games in our playoff weeks, which is a good schedule.",
+   "kind": "fact",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p73"
+    "gsx_UDkVPd0:t5"
    ]
   },
   {
-   "text": "Experts think he is being drafted too early. They call an ESPN ADP of 46 too high and say mock picks around 50 to 58 are early.",
+   "text": "Experts see the Pelicans as a weak team that will miss the playoffs, but they do not expect the team to pack it in.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:p19",
-    "uarqbNA2dFk:p43",
-    "80kfLVnFQ_s:p29"
+    "0AptxcRW0RE:t7",
+    "5QU-jta-lWM:t6",
+    "egRrai3Ax38:t1",
+    "gsx_UDkVPd0:t3"
    ]
   },
   {
-   "text": "His best case is about top 20, but the expert doubts that version of Zion still exists.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:p19"
-   ]
-  },
-  {
-   "text": "Year eight is a make-or-break season for him. He is the player under the most pressure on the team.",
+   "text": "Year eight is a make or break season for him, and he is under the most pressure on the team.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
    "sources": [
     "5QU-jta-lWM:p3"
    ]
-  },
-  {
-   "text": "The Pelicans have a new head coach, Jamahl Mosley, who brings a defense-first identity.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0",
-    "-DN4P92Wp8Y:t2"
-   ]
-  },
-  {
-   "text": "The Pelicans have more rotation players than minutes, so roles are hard to project. The group includes Murray, Fears, Jones, Murphy, Bey, Missi, Queen and the newly added Mathurin.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1",
-    "-DN4P92Wp8Y:t2"
-   ]
-  },
-  {
-   "text": "Experts think Zion and Derik Queen do not fit together. Yves Missi looks set to start at center over Queen.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t1",
-    "LM0cRCGoAUQ:t8",
-    "_vbAP5y182A:t0",
-    "BjXP9JODDSg:t1"
-   ]
-  },
-  {
-   "text": "Saddiq Bey may close games in lineups where Zion plays center.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:t1"
-   ]
-  },
-  {
-   "text": "Experts see the Pelicans as a weak team near the bottom of the West. One projects about 34 wins and no playoffs.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "0AptxcRW0RE:t7",
-    "5QU-jta-lWM:t6"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a high-volume scorer with a strong FG%, which lifts a team's FG% clearly.",
+   "text": "He scores a lot at a high FG% on real volume, which lifts a team's FG% clearly.",
    "kind": "fact",
-   "date": "2026-08-30",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "Alwse2uXzD4:p11",
-    "stats"
+    "stats",
+    "Alwse2uXzD4:p11"
    ]
   },
   {
-   "text": "His FT% is weak on real volume, so he hurts a team's FT%.",
+   "text": "His FT% is weak on real volume. It has improved, but not enough.",
    "kind": "fact",
-   "date": "2026-08-30",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "Alwse2uXzD4:p11",
-    "stats"
+    "stats",
+    "gsx_UDkVPd0:p10",
+    "Alwse2uXzD4:p11"
    ]
   },
   {
-   "text": "He makes almost no threes and does not space the floor.",
+   "text": "He does not shoot threes.",
    "kind": "fact",
-   "date": "2026-08-03",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:p0",
-    "stats"
+    "stats",
+    "gsx_UDkVPd0:p10"
    ]
   },
   {
-   "text": "He is not a good rebounder and does not play defense.",
+   "text": "He is not a good rebounder, does not space the floor and does not play much defense.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -204,14 +189,24 @@
   {
    "text": "He is worth much more in points leagues than in category leagues.",
    "kind": "verdict",
-   "date": "2026-08-30",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "Alwse2uXzD4:p11"
+    "Alwse2uXzD4:p11",
+    "gsx_UDkVPd0:p9"
    ]
   },
   {
-   "text": "He has high upside, but his health is a lasting worry.",
+   "text": "He has hamstring concerns, including an early hamstring injury last season.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p10"
+   ]
+  },
+  {
+   "text": "His upside is high, but his health is the main worry.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -224,7 +219,7 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 59% on about 15 shots a game",
+   "detail": "about 59% FG on 14 to 15 attempts",
    "until": "",
    "sources": [
     "stats",
@@ -235,11 +230,11 @@
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "About 70% on about 7.6 attempts a game",
+   "detail": "about 70% FT on 7.6 attempts",
    "until": "",
    "sources": [
     "stats",
-    "Alwse2uXzD4:p11"
+    "gsx_UDkVPd0:p10"
    ],
    "new_meaning": ""
   },
@@ -250,7 +245,7 @@
    "until": "",
    "sources": [
     "stats",
-    "5QU-jta-lWM:p0"
+    "gsx_UDkVPd0:p10"
    ],
    "new_meaning": ""
   },
@@ -280,18 +275,19 @@
    "detail": "",
    "until": "",
    "sources": [
-    "Alwse2uXzD4:p11"
+    "Alwse2uXzD4:p11",
+    "gsx_UDkVPd0:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Experts worry about his health. He played only 30 games in 2024-25.",
+   "detail": "hamstring concerns",
    "until": "",
    "sources": [
-    "BiIZsSypx7Y:p56",
-    "stats"
+    "gsx_UDkVPd0:p10",
+    "BiIZsSypx7Y:p56"
    ],
    "new_meaning": ""
   },
@@ -309,42 +305,55 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "New Orleans has among the most back-to-backs",
+   "detail": "league-high 16",
    "until": "",
    "sources": [
+    "gsx_UDkVPd0:t6",
     "gf_6GveiAls:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-3 with a March 28 end",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Ball-handling guards limit a point-forward role",
+   "detail": "guards handle the ball; crowded high-usage roster",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p47"
+    "LM0cRCGoAUQ:p47",
+    "gsx_UDkVPd0:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "An ESPN ADP of 46 and mock picks around 50 to 58 are called too high",
+   "detail": "frontcourt split with Queen and Missi unclear",
    "until": "",
    "sources": [
-    "uarqbNA2dFk:p43",
-    "WXO8MfQfzo0:p19",
-    "80kfLVnFQ_s:p29"
+    "uI6umXsE7Vk:t0",
+    "WXO8MfQfzo0:t1",
+    "gerS7ibpaJo:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Yahoo value 12 USD, ESPN value 3 USD",
+   "detail": "about eight players who could start",
    "until": "",
    "sources": [
-    "stats"
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1"
    ],
    "new_meaning": ""
   },
@@ -354,46 +363,35 @@
    "detail": "Jamahl Mosley",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0",
-    "-DN4P92Wp8Y:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Mosley's defense-first identity",
-   "until": "",
-   "sources": [
+    "gsx_UDkVPd0:t2",
     "5QU-jta-lWM:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "About eight players who could start",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1",
-    "WXO8MfQfzo0:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "About 34 wins projected, no playoffs",
+   "detail": "",
    "until": "",
    "sources": [
     "0AptxcRW0RE:t7",
-    "5QU-jta-lWM:t6"
+    "5QU-jta-lWM:t6",
+    "ahNxsoU8Hx4:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "they do not control their own pick",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t3",
+    "egRrai3Ax38:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Zion is a punt FT% and punt 3PM piece. He gives a big FG% lift (+3.1 z) and good scoring, but about 70% FT on 7.6 attempts and no threes. Josh values him at about 6 USD and Yahoo at 12 USD (ESPN 3 USD), so the 21 USD our league paid last season is far too much. Above roughly 10 USD, the risk from rest and health outweighs the upside. Early in the season, check whether he stays near 30 minutes, whether New Orleans sits him on back-to-backs, and whether he plays center in closing lineups.",
+ "note": "Our league paid 21 USD for him last season. His market price is now much lower: 5.2 USD average cost on Yahoo and 7.4 USD on ESPN, with Yahoo and ESPN values of 10 and 3 USD. Josh puts him at about 6 USD. At that price he is a good punt FT% and punt 3PM piece, because he brings FG% on real volume plus points. Early in the season, check his minutes (projected around 30), whether he plays center, and how often he sits in New Orleans' 16 back-to-backs.",
  "rejected": []
 }

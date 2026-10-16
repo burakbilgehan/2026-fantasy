@@ -1,0 +1,713 @@
+{
+ "video": {
+  "id": "zhXtLr_xYVg",
+  "title": "Orlando Magic Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-13",
+  "duration": "30:12",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-16T07:39:03+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.28267580000000003,
+  "duration_ms": 73274,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the Orlando Magic for the 2026-27 fantasy season. The big unknown is what new coach Sean Sweeney changes in pace, offense, usage and the rotation. His projected starters are Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. Banchero is his best target: a clear value in Yahoo points leagues and fine at picks 50 to 65 in category leagues. Desmond Bane is his biggest fade, because his ADP in the 40s assumes long injuries to teammates. He sees Wendell Carter Jr. and Tristan da Silva as not draftable in 12-team leagues, Nikola Vucevic as a late-round swing and Anthony Black as a stash. Orlando's schedule is unremarkable.",
+ "rules": [
+  {
+   "text": "The speaker thinks Z-scores (standard scores) are a flawed way to value players because stat distributions are skewed.",
+   "ts": "4:09",
+   "quote": "I believe Z scores, Z scores, standard scores are a flawed way of measuring this because of the skewed",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 253
+  },
+  {
+   "text": "Most players are in head-to-head leagues, not roto. Straight nine-cat rankings need adjusting for head-to-head formats.",
+   "ts": "4:09",
+   "quote": "Most of us, 95% of us aren't playing roto leagues. You're playing head-to-head formats.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 273
+  },
+  {
+   "text": "Ranking sites should commit to one basis. If you think a player is 120th in categories, rank him there instead of using a random hybrid.",
+   "ts": "6:11",
+   "quote": "If you think Paolo is 120th, rank him 120th. If you believe that the categories put him there",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 372
+  },
+  {
+   "text": "Value a player on what has actually happened and what could realistically happen, not on a reputation that sticks in people's heads.",
+   "ts": "7:47",
+   "quote": "So, again, be be accurate about what has happened and what could happen.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 490
+  },
+  {
+   "text": "Watch for players whose past value came from teammates being out. Their value may drop when those teammates are healthy.",
+   "ts": "12:54",
+   "quote": "Bane is also someone that that has benefited in the last few seasons from absences of other players.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 786
+  },
+  {
+   "text": "Playing all 82 games in one season says nothing about health the next season.",
+   "ts": "13:56",
+   "quote": "Right, he did it, 82, well done. Means literally nothing for the next season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 844
+  },
+  {
+   "text": "Do not stack ifs. Treat each if as about a 50% chance, so two ifs together are about 25%.",
+   "ts": "14:27",
+   "quote": "if you count each if as a 50%er, then two ifs together is a 25% chance.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 885
+  },
+  {
+   "text": "Some players get hurt because of their playing style, not because of fragile bodies. Expect missed games and limited minutes from them.",
+   "ts": "15:29",
+   "quote": "it's not because of a failure necessarily just how how he plays. He just cannot not go full bore.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 931
+  },
+  {
+   "text": "Do not draft boring, no-upside players in 12-team leagues. Streaming that roster spot each week gives more value.",
+   "ts": "18:02",
+   "quote": "But if I just stream that roster spot for the week, I get way more.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1083
+  },
+  {
+   "text": "Safe, low-upside picks can look good in projected standings but look bad once the season starts.",
+   "ts": "18:34",
+   "quote": "It might look good in the projected standings, but it will look bad when the season rolls around.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1128
+  },
+  {
+   "text": "Copying last season's numbers as a projection ignores context such as role changes and team changes.",
+   "ts": "24:14",
+   "quote": "You can just literally copy and paste last season's numbers, and you'll say,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1454
+  },
+  {
+   "text": "A stash is a player who needs an injury ahead of him to become a 12-team player. A late swing is a player who could get useful minutes every night.",
+   "ts": "27:20",
+   "quote": "Whereas, Black, I think you have to wait for an injury for him to really be a 12-team guy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1660
+  },
+  {
+   "text": "The speaker's recommended fantasy season end date is March 28, compared with Yahoo's default of April 4.",
+   "ts": "28:53",
+   "quote": "date, which is March the 28th, it's a 344, 11 games, one less than max",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1733
+  },
+  {
+   "text": "Draft position depends on format. The same player can be a bargain in points leagues and a reach in category leagues.",
+   "ts": "26:50",
+   "quote": "his ADP is 35 and you're on Yahoo category league, you don't take him there.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1613
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Ranks poorly in straight nine-cat formulas but much better in points leagues. A controversial fantasy player.",
+   "ts": "4:39",
+   "quote": "Paulo, for example, last season was allegedly the 119th ranked player per game on a nine-cat ranking",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 280
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "In category leagues the speaker is fine with him at picks 50 to 65. In Yahoo points leagues he would take him in the top 20 and no later than the top 30.",
+   "ts": "5:41",
+   "quote": "So in categories, I'm okay with Paolo in the 50 to 65 range. In points, Yahoo, I go into the top 20",
+   "value_hint": "Cats 50-65; Yahoo points top 20-30",
+   "verified": true,
+   "match_ratio": 0.95,
+   "seconds": 338
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Yahoo ranks him 51st, which is a steal in Yahoo points leagues. His ADP is around 36.",
+   "ts": "4:39",
+   "quote": "where he's ranked over at on 51, which is an absolute steal, clear bargain in a Yahoo points league",
+   "value_hint": "Yahoo rank 51, ADP ~36",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 296
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Usually bad at defensive stats. His FG% and FT% are middling rather than terrible. His FG% could rise to 47 or 48% if his 3-point percentage improves.",
+   "ts": "6:42",
+   "quote": "If that just becomes 34%, then you're talking about a 47 to 48% shooter, and",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 429
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "About 8 rebounds, 5 assists and 1.2 threes. The speaker thinks it is probably better for his value if he takes fewer threes.",
+   "ts": "7:14",
+   "quote": "And he has eight rebounds and five assists. And 1.2 threes, look, that's it's not great",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 450
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "His usage dropped from 34 to 27 last season. It is unclear whether Sweeney keeps it there or pushes it back toward 30.",
+   "ts": "7:47",
+   "quote": "So, does Sweeney keep him at 27? Is he pushing back to 30?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 474
+  },
+  {
+   "player": "Paolo Banchero",
+   "said_as": "Paolo",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "The speaker's best target on the team. He is a big value in points leagues, and in some category leagues he falls into the 60s and 70s.",
+   "ts": "26:50",
+   "quote": "to me, he is the best target because A, in a points league, we love that.",
+   "value_hint": "best target",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1619
+  },
+  {
+   "player": "Franz Wagner",
+   "said_as": "Franz Wagner",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Disappointing last season. He hurt his ankle, returned too early for the Berlin game, reinjured it, then hurt his calf in the playoffs. He finished 86th overall and 60th in points leagues.",
+   "ts": "8:49",
+   "quote": "Wagner had the ankle injury, came back too early to play in the Berlin game, injured it again.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 536
+  },
+  {
+   "player": "Franz Wagner",
+   "said_as": "Franz",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "The speaker does not see top-35 upside, but top 50 or maybe top 40 is possible. Taking him in rounds 4 to 6 makes sense in either categories or points.",
+   "ts": "9:51",
+   "quote": "taking Franz Wagner in round four or five, five or six in either categories or points, I believe makes",
+   "value_hint": "rounds 4-6; ADP 50s-60s",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 605
+  },
+  {
+   "player": "Franz Wagner",
+   "said_as": "Franz",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Not a big defensive stats guy and not a high-volume 3-point shooter. His 3-point shooting has been inconsistent. He is projected at 21 points, 5 rebounds and 4 assists on 49% FG and 84% FT.",
+   "ts": "9:51",
+   "quote": "He's not a big defensive stats guy. He's not a high three-point volume guy.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 595
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Des Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Expected to be the third option behind Banchero and Wagner, not a primary ball handler. Had under 23% usage last season even with Wagner missing most of the year.",
+   "ts": "13:25",
+   "quote": "he's not going to be a primary ball handler with Suggs and Wagner and Banchero around.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 810
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Bane",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "The speaker's biggest fade. His ESPN rank of 41 and Yahoo rank of 48 assume long injuries to other players.",
+   "ts": "26:50",
+   "quote": "My biggest fade is is Desmond Bane because he sits again at some spots in the 40s.",
+   "value_hint": "biggest fade; ESPN 41, Yahoo 48",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1629
+  },
+  {
+   "player": "Desmond Bane",
+   "said_as": "Bane",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "His defensive stats improved last season but are not reliable. His games played has varied a lot from year to year.",
+   "ts": "13:56",
+   "quote": "he played 69 the year before he did 42 the year before that, 58 the year before that.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Suggs",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "His all-out playing style leads to injuries and missed games. The speaker compares him to Alex Caruso.",
+   "ts": "15:29",
+   "quote": "He just goes for every ball that he sees and it results in unbelievable play when he's out there.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 943
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Suggs",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Strong per-game numbers: almost 6 assists and 2 steals. He shot 34% from three, and that improved as the season went on.",
+   "ts": "16:30",
+   "quote": "But almost six assists with two steals. He shot 34% from three but that improved significantly",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1000
+  },
+  {
+   "player": "Jalen Suggs",
+   "said_as": "Suggs",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Easily a top-70 player if he plays 65 games, but the speaker is not confident he will. ESPN ranking him 143 is silly.",
+   "ts": "16:30",
+   "quote": "Let's even say 65 games of Suggs. He is a very easily a top 70 player at worst per game.",
+   "value_hint": "Yahoo 95, ESPN 143; top 70 if healthy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1009
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendell Carter",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "His shot-blocking, 3-point volume and passing have all disappeared. A boring player with no upside, almost the new Harrison Barnes.",
+   "ts": "17:01",
+   "quote": "His shot-blocking has just disappeared. His three-point shooting volume has disappeared. His passing has",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1047
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendell Carter",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Not draftable in leagues of 12 teams or fewer. Yahoo's rank of 125 is too high, and ESPN's 174 is fine.",
+   "ts": "18:02",
+   "quote": "There is no rationale for me for looking at Wendell Carter as a 12-team or lower league size draftable player.",
+   "value_hint": "undraftable; Yahoo 125, ESPN 174",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1094
+  },
+  {
+   "player": "Wendell Carter Jr.",
+   "said_as": "Wendell Carter",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Expected to start at center, but may split minutes with Vucevic or Goga Bitadze.",
+   "ts": "2:06",
+   "quote": "we assume Wendell Carter's going to start. I don't think there's any doubt about that.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 140
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Mr. Black",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Orlando will not extend his rookie contract, so he heads to restricted free agency next offseason.",
+   "ts": "21:09",
+   "quote": "they will not be extending his rookie contract and he'll be going uh into restricted free agency",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1286
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Anthony Black",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "An inefficient player with bad FG% and FT% and an untrustworthy 3-point shot. His steals are good, but he gets few rebounds and assists.",
+   "ts": "22:10",
+   "quote": "His free throws are bad. His field goals are bad. The steal numbers are pretty good.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1330
+  },
+  {
+   "player": "Anthony Black",
+   "said_as": "Black",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "His good numbers came when others were out. The speaker does not buy him playing 30 minutes this season and sees him as a stash who needs an injury ahead of him.",
+   "ts": "22:41",
+   "quote": "I just I'm not buying he plays 30 minutes a night. In his games off the bench, he played under 26.",
+   "value_hint": "stash, probably not worth a draft",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1376
+  },
+  {
+   "player": "Tristan da Silva",
+   "said_as": "Tristan da Silva",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "A boring player with no standout skill and no clear role. The speaker does not have him in his top 200.",
+   "ts": "23:12",
+   "quote": "He's not even doesn't even have an ADP on Yahoo. I don't even consider him inside the top 200.",
+   "value_hint": "outside top 200",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1413
+  },
+  {
+   "player": "Tristan da Silva",
+   "said_as": "da Silva",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Shoots free throws well on low volume. Gets no steals, blocks or assists, rebounds poorly and scores little.",
+   "ts": "23:44",
+   "quote": "no steals, no blocks, no assists, bad rebounds, and really low scoring.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1431
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Vucevic",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "His 67th-place finish last season came from starting with the Bulls. He looked washed with Boston, and his two-point numbers fell off a cliff there. Copying last season's numbers overrates him.",
+   "ts": "24:14",
+   "quote": "But that's cuz he started 50 games and started for the Bulls and then went to the Celtics",
+   "value_hint": "ADP Yahoo 113, ESPN 117",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1472
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Vooch",
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "A decent-volume 3-point shooter for a big and a good rebounder, but never gets steals or blocks and cannot defend. He is 36.",
+   "ts": "24:45",
+   "quote": "He's never going to get steals or blocks. He's a really good rebounder, but he needs the 30-plus",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1486
+  },
+  {
+   "player": "Nikola Vucevic",
+   "said_as": "Vooch",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "A late swing in rounds 12 to 13 of slightly deeper leagues, in case he plays 24 to 25 minutes. He will probably be a backup and could even become third string.",
+   "ts": "25:16",
+   "quote": "Slightly deeper leagues in round 12, 13, I'll do it. Cuz what if he does play 25 minutes?",
+   "value_hint": "round 12-13 in deeper leagues; late swing",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1525
+  },
+  {
+   "player": "Goga Bitadze",
+   "said_as": "Goga Bitadze",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Fell out of favor with Mosley late last season. He could still take the backup center minutes under Sweeney.",
+   "ts": "2:06",
+   "quote": "What if it's Goga Bitadze who seemed to fall out of favor with Jamahl Mosley at the end of last season?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 147
+  },
+  {
+   "player": "Noah Penda",
+   "said_as": "Noah Pender",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "A wing who showed flashes last season. Watch whether he moves ahead of da Silva in the rotation.",
+   "ts": "25:47",
+   "quote": "Noel Pender, I call him a small, he's more of a wing. He showed some flashes last season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1566
+  },
+  {
+   "player": "Jase Richardson",
+   "said_as": "Jace Richardson",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "The speaker likes him. Watch whether he passes Jevon Carter. Not extending Black may signal the team thinks he is ready, but he is undersized.",
+   "ts": "26:18",
+   "quote": "what if part of the no Anthony Black extension is that they think that Jace might be ready",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1580
+  },
+  {
+   "player": "Jonathan Isaac",
+   "said_as": "Jonathan Isaac",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Still recovering from knee surgery. He has a long history of knee problems and looks completely washed.",
+   "ts": "27:51",
+   "quote": "Jonathan Isaac is still dealing with um recovery from his knee surgery.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1692
+  },
+  {
+   "player": "Isaiah Nelson",
+   "said_as": "Isaiah Nelson",
+   "team": "ORL",
+   "horizon": "current",
+   "text": "A second-round pick on a two-way contract. He fractured his ankle in Summer League and looks set to miss the start of the season. He is older and undersized.",
+   "ts": "28:22",
+   "quote": "Isaiah Nelson, who fractured his ankle in Summer League, and it looks like he'll miss the start of the season.",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1704
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "New coach Sean Sweeney replaces Jamahl Mosley. His impact on pace, offense and rotation preferences is the big unknown.",
+   "ts": "1:34",
+   "quote": "And now we have Sean Sweeney. He might be an upgrade, we don't know, but is he an upgrade for us?",
+   "value_hint": "",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 103
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Projected starters: Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr.",
+   "ts": "3:07",
+   "quote": "It's boring. It's Jalen Suggs, it's Des Bane, there's the old chrome dome for Suggsy, Franz Wagner",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 212
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Projected bench: Anthony Black, Tristan da Silva, Nikola Vucevic and Jevon Carter. Noah Penda or Jase Richardson could break in.",
+   "ts": "19:05",
+   "quote": "But I'm going to go with Black da Silva, Vooch, Cannady, and Carter for now.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1171
+  },
+  {
+   "team": "ORL",
+   "horizon": "durable",
+   "text": "Orlando's offense has been terrible for years.",
+   "ts": "1:03",
+   "quote": "We saw the Orlando Magic offense",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 91
+  },
+  {
+   "team": "ORL",
+   "horizon": "current",
+   "text": "Unremarkable schedule: 3-4-4 (11 games) if the season ends March 28, 4-4-3 (11 games) for Yahoo's April 4 default, and 14 back-to-backs.",
+   "ts": "28:53",
+   "quote": "And then you can go to their back-to-backs and they sit at 14 back-to-backs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1741
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Banchero ranked 119th per game in nine-cat last season and 26th in Yahoo points.",
+   "ts": "4:39",
+   "quote": "last season was allegedly the 119th ranked player per game on a nine-cat ranking, Durant heading 58th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 280
+  },
+  {
+   "text": "Banchero shot 46% FG and 30% from three last season.",
+   "ts": "6:42",
+   "quote": "He shot 46% last season. And he did that by hitting 30% of his threes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 424
+  },
+  {
+   "text": "Banchero's usage dropped from 34 to 27, and his true shooting was 57.",
+   "ts": "7:14",
+   "quote": "He also saw last season a big dip in usage, huge dip from 34 to 27.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 460
+  },
+  {
+   "text": "Franz Wagner ranked 86th overall and 60th in points last season, and 32nd two years ago.",
+   "ts": "8:49",
+   "quote": "So, therefore, he was quite bad, 86 overall, 60 in 15 points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 545
+  },
+  {
+   "text": "Desmond Bane ranked 44th in category leagues and 64th in points leagues last season.",
+   "ts": "12:24",
+   "quote": "He ended up 44th in",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 744
+  },
+  {
+   "text": "Bane played 82 games last season after 69, 42 and 58 in the previous seasons, and shot 39% from three.",
+   "ts": "13:56",
+   "quote": "he played 69 the year before he did 42 the year before that, 58 the year before that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 837
+  },
+  {
+   "text": "Jalen Suggs ranked 60th in head-to-head category per game and 84th in points last season.",
+   "ts": "15:29",
+   "quote": "He was 60th in head-to-head category per game numbers last season, 84th in points.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 951
+  },
+  {
+   "text": "Suggs played 57 games at 28 minutes, with almost 6 assists and 2 steals, and shot 34% from three.",
+   "ts": "16:30",
+   "quote": "Suggs only played 57 games in 28 minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 995
+  },
+  {
+   "text": "Wendell Carter Jr. ranked 135th last season.",
+   "ts": "17:31",
+   "quote": "Last season, 135th. This is almost he is almost the new Harrison Barnes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1055
+  },
+  {
+   "text": "Anthony Black ranked 122nd in categories and 105th in points last season, averaging 1.4 steals and 15 points.",
+   "ts": "22:41",
+   "quote": "122nd in categories, 105th in points leagues. I just I'm not buying he plays 30 minutes a night.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1373
+  },
+  {
+   "text": "As a starter, Black averaged 32 minutes, 16 points, 4 rebounds, 4 assists and 1.5 steals.",
+   "ts": "22:10",
+   "quote": "In the games that he started, 32 minutes a night, 16 four and four with 1.5 steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1345
+  },
+  {
+   "text": "Tristan da Silva ranked 242nd, started 34 games at 29 minutes, and averaged 12, 4 and 2 with two threes on 15 usage.",
+   "ts": "23:12",
+   "quote": "He was 242nd last season.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1392
+  },
+  {
+   "text": "Vucevic ranked 67th in categories and 70th in points last season, playing 28 minutes, and is 36 years old.",
+   "ts": "24:14",
+   "quote": "He was 67th last season, 67. He was 70 15 points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1465
+  }
+ ]
+}

@@ -28,36 +28,37 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:54:28+00:00",
+ "built_at": "2026-10-16T12:52:48+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1060448,
-  "duration_ms": 45686,
+  "cost_usd_list": 0.1059128,
+  "duration_ms": 45899,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Players back from Achilles or ACL tears will usually have their minutes managed, sit back-to-backs and lose some efficiency in their first season back. The market tends to overreact to this. In our 9-cat H2H league, price them at a discount to their healthy value but bid above the room's fear. Your playoffs end on 2027-03-28, and that is when the minutes limits matter least.",
+ "summary": "Players coming back from Achilles and ACL tears usually return close to their old level, but year one brings lower efficiency, minutes limits and skipped back-to-backs. The draft market is often too scared of them. In our 9-cat H2H auction, bid above their market price but below their healthy value, check whether the timeline puts them on the court by the playoffs (weeks 19 to 21, ending 2027-03-28), and plan to cover the games they sit.",
  "sections": [
   {
-   "heading": "Timelines: count the months before you bid",
+   "heading": "Timelines: when they actually come back",
    "paragraphs": [
     {
-     "text": "A full Achilles tear usually takes 9 to 12 months to heal, and closer to 12 is more common. A partial tear can take about 6 months. One expert thinks a full 12 months or more off after an Achilles tear may help a player come back stronger than a 9 to 11 month return.",
+     "text": "A full Achilles tear usually takes 9 to 12 months to recover from, and most cases lean toward 12. A partial tear can take about 6 months. A full 12 months or more off may help a player come back stronger than a 9 to 11 month return. So do not treat a slow return as bad news.",
      "sources": [
       "tnzmsYUA4yQ:r8",
       "sfCe7fS9daM:r2"
      ]
     },
     {
-     "text": "A normal ACL return takes about 12 months. A player who is more than 12 months past a torn ACL can be expected back at full health.",
+     "text": "A normal ACL return takes about 12 months. A player more than 12 months past a torn ACL can be treated as fully healthy. Today is 2026-10-16. That means an ACL tear from before mid-October 2025 should be a non-issue by opening night. Players whose game is built on IQ and strength come back from an ACL better than speed-based players like Zach LaVine.",
      "sources": [
-      "yoCTTlJ_tPQ:r1"
+      "yoCTTlJ_tPQ:r1",
+      "LXZLrL90crE:r2"
      ]
     },
     {
-     "text": "What to do: before the auction on 2026-10-18, write down the injury date for every returning player you might bid on. Count the months to opening night. A full Achilles or ACL tear well past 12 months is close to a normal draft pick. A full Achilles tear near the 9 month mark is still a ramp-up case. If he will miss the opening weeks, one of your 4 IL slots can hold him without costing you a starter.",
+     "text": "Before you bid, check the date against our calendar. Our playoffs run in weeks 19, 20 and 21, roughly 2027-03-08 to 2027-03-28. The trade deadline is 2027-03-04. Add 12 months to the tear date for a full Achilles or ACL tear. If that date lands after early March 2027, the player probably gives you little before or during our playoffs. Price him as a cheap stash at most.",
      "sources": [
       "tnzmsYUA4yQ:r8",
       "yoCTTlJ_tPQ:r1"
@@ -69,32 +70,32 @@
    "heading": "What the first season back looks like",
    "paragraphs": [
     {
-     "text": "Players back from injury usually play under minutes limits and miss back-to-backs, and that lowers their value. This has a hidden cost on top of missed games. While a player ramps back up, all of his numbers drop because he plays fewer minutes.",
+     "text": "Expect lower efficiency in year one. Players coming back from ACL or Achilles tears almost always lose efficiency in their first season. Achilles returnees lose it mostly on two-point shots and finishing. In our league that hits FG% hardest. FG% is a team ratio, so a high-volume player who finishes worse can pull down your whole team's percentage.",
      "sources": [
-      "tnzmsYUA4yQ:r4",
+      "-y6p5PYLf00:r8",
+      "EGdhmUgPAWY:r1"
+     ]
+    },
+    {
+     "text": "Expect minutes limits and missed back-to-backs. ACL returnees usually have their minutes managed and sit out back-to-backs early on. Achilles returnees rarely play both games of a back-to-back. In the last 10 years basically only Wes Matthews did it, and he played heavily reduced minutes in the second game. Older returnees will likely sit back-to-backs early in the season too.",
+     "sources": [
+      "LXZLrL90crE:r1",
+      "sfCe7fS9daM:r1",
+      "0AptxcRW0RE:r4",
+      "tnzmsYUA4yQ:r4"
+     ]
+    },
+    {
+     "text": "The hidden cost goes beyond missed games. While a player ramps back up on limited minutes, all of his counting stats drop: points, rebounds, assists, steals, blocks and threes. For a 9-cat team, a capped player gives you a smaller share in every category, not just one.",
+     "sources": [
       "-KS_AZjZnw4:r3"
      ]
     },
     {
-     "text": "Achilles returnees rarely play both games of a back-to-back. Over the last 10 years basically only Wes Matthews did, and he played heavily reduced minutes in the second game. ACL returnees usually have their minutes managed and sit back-to-backs early on. Older players back from major injuries will likely sit back-to-backs early in the season.",
+     "text": "Watch for knock-on injuries. Achilles returnees carry a risk of compensation injuries elsewhere in the body. After major lower-body surgery, soreness on the other side from compensating is common.",
      "sources": [
-      "sfCe7fS9daM:r1",
-      "LXZLrL90crE:r1",
-      "0AptxcRW0RE:r4"
-     ]
-    },
-    {
-     "text": "Efficiency usually drops. After an Achilles injury the loss shows up mostly on two-point shots and finishing. In our league that matters most for players whose value comes from FG% on inside shots, because FG% is a team ratio. Play style matters too. Players who rely on IQ and strength come back from an ACL better than speed-based players like Zach LaVine.",
-     "sources": [
-      "EGdhmUgPAWY:r1",
-      "-y6p5PYLf00:r8",
-      "LXZLrL90crE:r2"
-     ]
-    },
-    {
-     "text": "Back-to-backs hurt more on teams that play many of them. Before you bid, check the team's back-to-back count. Expect him to miss most of those second games early in the season.",
-     "sources": [
-      "XSPJL_mlFXo:r10"
+      "_vbAP5y182A:r6",
+      "TiiaNZCJNs8:r3"
      ]
     }
    ]
@@ -103,22 +104,22 @@
    "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "On efficiency and long-term level: one note says players back from major ACL or Achilles injuries almost always lose efficiency in their first season back. Another says recent Achilles returnees have mostly come back close to their old level, and that the old rule of an automatic 10% career drop no longer holds. Both can be true: plan for a weaker first season, but do not price in a permanent decline.",
+     "text": "On how much these players lose, one view says recent Achilles returnees have mostly come back close to their old level. It says the old rule of a permanent 10% drop in production no longer holds. The other view says players coming back from ACL or Achilles tears almost always lose efficiency in their first season. Both can be true. Plan for a dip in FG% this season, but do not discount the player as if he lost a career's worth of value.",
      "sources": [
-      "-y6p5PYLf00:r8",
-      "sfCe7fS9daM:r0"
+      "sfCe7fS9daM:r0",
+      "-y6p5PYLf00:r8"
      ]
     },
     {
-     "text": "On new injuries: one expert warns that Achilles returnees risk compensation injuries elsewhere in the body. Another says soreness on the other side after major lower-body surgery is common and does not by itself make a player injury-prone. A third note adds that some players lose production for a long time even after a minor injury, so a truly injury-prone player can hurt you for longer than the injury itself.",
+     "text": "On durability, one note warns that some players lose production for a long time after even a minor injury, so injury-prone players can hurt you for longer than the injury itself. It also flags compensation injury risk after an Achilles. Another note says compensation soreness after lower-body surgery is common and does not by itself make a player injury-prone. Treat a single major tear as a one-time event. Save the bigger discount for players with a long history of injuries.",
      "sources": [
+      "KLogvUwv_d8:r2",
       "_vbAP5y182A:r6",
-      "TiiaNZCJNs8:r3",
-      "KLogvUwv_d8:r2"
+      "TiiaNZCJNs8:r3"
      ]
     },
     {
-     "text": "On back-to-back schedules: one expert says teams with many back-to-backs hurt returning players more. Others say back-to-back counts matter mostly for injury-prone players, and that most back-to-back problems come from in-season injuries nobody can predict. In practice, check the schedule for known returnees but do not let it decide your draft.",
+     "text": "On back-to-back schedules, one note says returnees may sit back-to-backs, so teams with many back-to-backs hurt them more. Another says back-to-back counts matter mostly for injury-prone players. A third says most back-to-back problems come from players returning from in-season injuries, and nobody can predict those. Check the team's back-to-back count for a known returnee from a major injury, because his rest days are predictable. Do not lower a healthy player's price for his schedule.",
      "sources": [
       "XSPJL_mlFXo:r10",
       "sf6Ga9k-r-Q:r5",
@@ -131,34 +132,36 @@
    "heading": "How to price them in our auction",
    "paragraphs": [
     {
-     "text": "The market is too scared. Drafters overreact to players coming back from injuries that cost them last season, and you can be more confident than their ADP suggests. Part of the reason is the outdated belief in a permanent drop, which recent Achilles returnees have mostly disproved.",
+     "text": "The market is often too scared. Drafters overreact to players who missed last season with injuries, and you can be more confident than their draft position suggests. Older prospects who missed their rookie year to injury also get bumped down. These are the spots where the room's fear gives you value.",
      "sources": [
       "egRrai3Ax38:r10",
-      "sfCe7fS9daM:r0"
+      "TOn-D1SV7a8:r1"
      ]
     },
     {
-     "text": "A simple pricing rule: start from what he would be worth healthy. Take off the second games of back-to-backs he will likely skip early in the season and the lower minutes while he ramps up. If his value depends on FG% from finishing, take off a bit more for the first-season efficiency loss. Bid up to that number. The room will often stop below it, and that gap is your edge.",
+     "text": "Use a simple rule on 2026-10-18. Start from the player's healthy value. Cut it for the games he will sit: missed back-to-backs and any early-season minutes cap. Cut a bit more if he is a high-volume two-point scorer, because the efficiency dip lands on FG%. Bid up to that number, even when the room has stopped bidding below it. Players more than 12 months past an ACL tear need almost no discount.",
      "sources": [
       "tnzmsYUA4yQ:r4",
       "-KS_AZjZnw4:r3",
       "EGdhmUgPAWY:r1",
+      "yoCTTlJ_tPQ:r1",
       "egRrai3Ax38:r10"
      ]
     },
     {
-     "text": "Our format helps. In H2H the regular season only needs enough wins to make the playoffs, and the playoffs are weeks 19 to 21, ending 2027-03-28. The notes describe minutes management and skipped back-to-backs as early-season issues. By March a player who is now ramping up should be closer to full use. Prefer returnees who are 12 months or more past the injury, and IQ and strength players over speed players.",
+     "text": "Lean toward players who are strength and IQ based. Be more careful with speed-based players. Give a bit more credit to Achilles returnees who took a full 12 months or more. If the 12-month mark lands after the trade deadline or in our playoffs, keep the player to an end-game bid. Only 144 players get drafted, so a late stash costs you little.",
      "sources": [
-      "LXZLrL90crE:r1",
-      "0AptxcRW0RE:r4",
+      "LXZLrL90crE:r2",
       "sfCe7fS9daM:r2",
-      "LXZLrL90crE:r2"
+      "tnzmsYUA4yQ:r8"
      ]
     },
     {
-     "text": "Also look at older prospects who missed their rookie year to injury. They tend to get bumped down rankings, so they can come cheap in the last rounds of the 144 picks or sit on waivers.",
+     "text": "Do not stack too many of them. Each one sits on back-to-backs. With only 2 bench spots and daily lineups, you can cover one or two players' rest nights. You cannot cover four or five.",
      "sources": [
-      "TOn-D1SV7a8:r1"
+      "LXZLrL90crE:r1",
+      "sfCe7fS9daM:r1",
+      "XSPJL_mlFXo:r10"
      ]
     }
    ]
@@ -167,23 +170,23 @@
    "heading": "Managing them during the season",
    "paragraphs": [
     {
-     "text": "With daily lineups, a skipped back-to-back only costs you if you leave the slot empty. On those nights, use a bench or Util player, or a waiver streamer. Keep your 6 adds per week in mind when you plan streams around his off nights.",
+     "text": "Set lineups every day. Expect Achilles returnees to sit one game of most back-to-backs. Fill that slot from your bench or with a FAB pickup. Remember the limit of 6 acquisitions per week.",
      "sources": [
-      "tnzmsYUA4yQ:r4",
-      "sfCe7fS9daM:r1"
+      "sfCe7fS9daM:r1",
+      "LXZLrL90crE:r1"
      ]
     },
     {
-     "text": "When an older returnee sits a back-to-back, his backup gets more games. If you own the returnee, his backup is a useful cheap pickup on those nights.",
+     "text": "Use the other side of the trade. When an older returnee sits a back-to-back, his backup gets more games. Those backups are good short-term waiver adds, especially early in the season.",
      "sources": [
       "0AptxcRW0RE:r4"
      ]
     },
     {
-     "text": "For trades, an early ramp-up period with soft numbers is a good time to buy from a nervous manager. Make the deal before the 2027-03-04 deadline, while the minutes limits are still holding his stats down. If a returnee's production stays down long after the ramp-up should be over, treat it as the lingering case the notes warn about and sell or bench him.",
+     "text": "Hold, and look for trades. Minutes limits ease as the player ramps up, so his value should be higher in the second half than in October. Managers who sell after slow early box scores give you a chance to buy before the 2027-03-04 deadline. Be quicker to sell a player whose history shows long slumps after minor injuries.",
      "sources": [
       "-KS_AZjZnw4:r3",
-      "egRrai3Ax38:r10",
+      "LXZLrL90crE:r1",
       "KLogvUwv_d8:r2"
      ]
     }

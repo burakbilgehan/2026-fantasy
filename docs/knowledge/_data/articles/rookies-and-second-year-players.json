@@ -64,39 +64,38 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:53:36+00:00",
+ "built_at": "2026-10-16T12:51:13+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1406968,
-  "duration_ms": 52118,
+  "cost_usd_list": 0.1380688,
+  "duration_ms": 49986,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Pay real money only for second-year players with a strong role. Treat rookies, and rookie point guards above all, as cheap flyers bought with the last dollars of the auction. Once the season starts, a drafted rookie with a real role gets until Thanksgiving (November 26, 2026), while a rookie who is not playing gets cut after two weeks.",
+ "summary": "Pay real money only for second-year players with a top-100 price tag. Treat rookies as cheap end-of-draft flyers and nominate at most one or two of them. A rookie with a real role gets until Thanksgiving (2026-11-26) to fix his efficiency. A rookie who is not playing gets two weeks.",
  "sections": [
   {
-   "heading": "Rookies: cheap flyers, not core pieces",
+   "heading": "Rookies at the auction: cheap flyers only",
    "paragraphs": [
     {
-     "text": "Be careful about spending on rookies. At best, one draft class gives one top 50 player and three top 100 players. Most classes produce only three or four relevant players in total. Our auction drafts 144 players, so every class will have only a few rookies worth a real bid.",
+     "text": "Do not overpay for rookies. At best, a draft class gives one top 50 player and three top 100 players. Most classes give only three or four relevant players at all. Drafters take far too many rookies near the end of drafts, so that is where they are most overrated.",
      "sources": [
-      "OBwWCxG9SqM:r0",
       "lOshTzDA4SA:r1",
+      "OBwWCxG9SqM:r0",
       "OBwWCxG9SqM:r4"
      ]
     },
     {
-     "text": "Drafters overrate rookies most at the end of drafts. If a rookie's role is uncertain, he belongs around picks 120 to 130 in a 12-team league. That is the end of the active roster or the start of the bench. In our auction, this means the cheapest slots, filled after your core is set. Do not use more than one or two of your 12 roster spots on rookies.",
+     "text": "In our league, 144 players are drafted. An uncertain rookie belongs in the flyer zone, around picks 120 to 130 in a 12-team league. That is the end of the active roster or the first bench slot. In our auction, that means the cheap bids late in the draft. Do not let a bidding war push a rookie up to what a reliable top-100 player costs. Rookies are usually drafted around pick 100, and early in the season they play like it.",
      "sources": [
-      "OBwWCxG9SqM:r4",
       "lOshTzDA4SA:r5",
-      "OBwWCxG9SqM:r9"
+      "LM0cRCGoAUQ:r8"
      ]
     },
     {
-     "text": "Do not bid more because a player was a high NBA draft pick. Many top five picks become journeyman rotation players. Even strong classes have two or three top 10 picks who bust badly. Bid on situation, minutes, usage and non-scoring stats instead. Rebounds and defensive stats give a rookie a fantasy floor even when his shooting is poor.",
+     "text": "Draft slot is not a reason to pay more. Being a top five NBA pick does not make a player great. Even strong classes have two or three top-10 picks who bust badly. Judge a rookie by his situation, minutes, usage and non-scoring stats. Rebounds and defensive stats give a rookie a baseline that can offset bad efficiency. That makes bigs with blocks and boards safer cheap flyers than guards who mostly score.",
      "sources": [
       "tnzmsYUA4yQ:r10",
       "TOn-D1SV7a8:r7",
@@ -105,123 +104,97 @@
      ]
     },
     {
-     "text": "Do not pay extra for the 'most NBA ready' label on older rookies. Prospects who are around 24 as rookies have rarely become NBA success stories. They are usually older because they are less talented than the younger prospects. Rookies on deep teams may also play about 28 minutes a night early instead of 34, so do not expect big scoring nights right away.",
+     "text": "Ignore the 'most NBA ready' story for older rookies. They are usually older because they are not as good as the younger prospects. Players who are around 24 as rookies have rarely become NBA success stories. Rookies on deep teams may play about 28 minutes a night instead of 34 early on, so do not expect big scoring nights right away.",
      "sources": [
       "MUbNYdjpUDM:r2",
       "-rgXhs5BHiw:r4",
       "UTE0dNIv8nY:r2"
      ]
+    }
+   ]
+  },
+  {
+   "heading": "Rookie point guards and high-usage rookies",
+   "paragraphs": [
+    {
+     "text": "Rookie point guards are almost always bad for fantasy. Expect efficiency problems and be skeptical of them in redraft. The struggles are worst in the first two to three months. Some good players, such as De'Aaron Fox and Darius Garland, were never worth rostering as rookies.",
+     "sources": [
+      "tnzmsYUA4yQ:r0",
+      "3UGI05PDvrE:r5",
+      "uRsfijpBPok:r2"
+     ]
     },
     {
-     "text": "Expect rookie value to rise late in the season. Most rookies are drafted around pick 100 and play like it early, then improve. Roughly 90% get better as the season goes on. More rookies become relevant in the second half and in the fantasy playoffs because of tanking, injuries and their own improvement. That matters for our weeks 19 to 21, which end on 2027-03-28. One expert expects less tanking this season, so this late jump may be smaller than usual. Projections also assume that trade candidates stay all season, which can understate the rookies behind them.",
+     "text": "This hits our categories directly. Rookie guards usually struggle with both efficiency and turnovers early. High-usage rookies nearly always post bad percentages. FG% and FT% are team ratios, so a high-volume rookie shooter drags them down the most. Turnovers count against us too. Guards with weak athleticism or strength look worst, especially when they are pushed into a defense-first role with little offensive work.",
      "sources": [
-      "LM0cRCGoAUQ:r8",
-      "lOshTzDA4SA:r3",
-      "OBwWCxG9SqM:r1",
-      "OBwWCxG9SqM:r3",
-      "OBwWCxG9SqM:r7"
+      "RsjGTgJiKyI:r8",
+      "W-R1dzem32s:r10",
+      "KLogvUwv_d8:r1"
+     ]
+    },
+    {
+     "text": "Rule for our draft: do not spend more than a flyer price on a rookie point guard. If you take one anyway, make sure the rest of your roster can absorb weak FG% and extra turnovers until December.",
+     "sources": [
+      "tnzmsYUA4yQ:r0",
+      "OBwWCxG9SqM:r5"
      ]
     }
    ]
   },
   {
-   "heading": "Second-year players: the jump is real",
+   "heading": "The year-two jump: where to spend",
    "paragraphs": [
     {
-     "text": "Expect second-year players to take a step forward. Over six years, the number of top 50 category players went from 3 as rookies to 8 in year two. Top 100 players went from 11 to 31, and top 150 players from 20 to 54. Of all rookies, 60% improved in year two, and 41% improved by at least 50 ranking slots. Young players usually get more minutes and usage each year.",
+     "text": "Second-year players are much more relevant than rookies. Over six years, top 50 category players went from 3 as rookies to 8 in year two. Top 100 players went from 11 to 31, and top 150 players went from 20 to 54. Across all rookies, 60% improved in year two, and 41% improved by at least 50 ranking slots. In recent years, the big breakouts have moved more to year two.",
      "sources": [
-      "W-R1dzem32s:r11",
       "gerS7ibpaJo:r0",
       "gerS7ibpaJo:r1",
+      "gJUBAJaHzlU:r0",
+      "W-R1dzem32s:r11"
+     ]
+    },
+    {
+     "text": "The jump mostly comes from players who already showed something. Rookie rank and sophomore rank have a correlation of about 0.61. Only 30 players in six years jumped from outside the top 150 to inside it. Young players usually gain usage and minutes each year, from a small rookie role to a bigger one by year three.",
+     "sources": [
+      "gerS7ibpaJo:r2",
       "FxaSnyk9g90:r3"
      ]
     },
     {
-     "text": "The jump mostly comes from players who were already somewhat relevant. Rookie rank and sophomore rank have a correlation of about 0.61. Only 30 players in six years went from outside the top 150 to inside it. So spend on a sophomore who already showed something as a rookie, not on one who did nothing.",
-     "sources": [
-      "gerS7ibpaJo:r2"
-     ]
-    },
-    {
-     "text": "Market price is reliable for sophomores at the top. All seven with a top 50 ADP finished in the top 100. Of those with an ADP of 51 to 100, 72% finished in the top 100. Pay full price for these players without a discount. Second-year flyers with an ADP of 101 to 150 made the top 100 only 13% of the time and the top 150 only 33% of the time. In our league that range covers the last bids of the auction and the waiver wire, so pay minimum prices. Undrafted sophomores almost never become relevant, so leave them on waivers.",
+     "text": "Market price is a good guide at the top end. All seven sophomores with a top 50 ADP finished top 100. Of those with an ADP of 51 to 100, 72% finished top 100. Second-year players priced as top-100 picks are sound buys at full value. Sophomores with an ADP of 101 to 150 hit only 13% of the time for top 100 and 33% for top 150. That range is the back third of our 144-player draft, so they are flyers, not sleepers. Undrafted sophomores almost never become relevant.",
      "sources": [
       "gerS7ibpaJo:r3",
       "gerS7ibpaJo:r4"
      ]
-    },
-    {
-     "text": "The experts disagree on when the leap comes. One view is that big breakouts have moved to year two, and that most rookies and sophomores improve. On this view, the sophomore slump is a lazy narrative. The other view is that rookies and second-year players usually do not help NBA teams win, and that the leap tends to come in year three. Teams trying to win often bench their young players. For us, this means a sophomore on a contending team carries more minutes risk than one on a rebuilding team. Use the general rule as a baseline, then judge each player's own situation.",
-     "sources": [
-      "gJUBAJaHzlU:r0",
-      "OBwWCxG9SqM:r2",
-      "5QU-jta-lWM:r0",
-      "sTtFUy7IoJI:r9"
-     ]
     }
    ]
   },
   {
-   "heading": "Year three and later: breakout odds by price",
+   "heading": "Year three and beyond: breakout odds by price",
    "paragraphs": [
     {
-     "text": "Third-year breakouts usually come from players who did not take a step in year two. Price still predicts the outcome. Third-year players drafted inside the top 50 have not busted badly. Those drafted between picks 101 and 150 made the top 100 only 13% of the time. Third-year players with no ADP almost never become top 100 players.",
+     "text": "Year-three breakouts tend to come from players who did not take a step in year two. Third-year players drafted inside the top 50 have not busted badly. Those drafted between 101 and 150 made the top 100 only 13% of the time. Third-year players with no ADP almost never become top 100 players. Big jumps in year four are unlikely for players who showed nothing in their first three years.",
      "sources": [
       "gJUBAJaHzlU:r0",
       "gJUBAJaHzlU:r3",
-      "gJUBAJaHzlU:r4"
-     ]
-    },
-    {
-     "text": "For your last few dollars, look at opportunity and situation, and prefer a second-year player to a third-year one. Do not pay for a year-four jump from a player who showed nothing in his first three seasons. That is unlikely.",
-     "sources": [
-      "gJUBAJaHzlU:r5",
+      "gJUBAJaHzlU:r4",
       "gJUBAJaHzlU:r1"
      ]
-    }
-   ]
-  },
-  {
-   "heading": "Rookie point guards: expect pain",
-   "paragraphs": [
+    },
     {
-     "text": "Rookie point guards are almost always bad for fantasy, and nearly all of them struggle in their first season. Be skeptical about rostering them in redraft. Some, like De'Aaron Fox and Darius Garland, were never worth rostering as rookies. High-usage rookies nearly always post bad percentages. Rookie guards usually struggle with both efficiency and turnovers early. Those two problems hit three of our categories at once: FG%, FT% and TO.",
+     "text": "For our last few auction slots, look at opportunity and situation first. With equal opportunity, lean toward a second-year player over a third-year player. Do not spend a bench slot on a fourth-year player whose only case is that a jump is 'due'. Rules like the third-year breakout are a baseline. Judge each player on his own situation after that.",
      "sources": [
-      "tnzmsYUA4yQ:r0",
-      "uRsfijpBPok:r2",
-      "3UGI05PDvrE:r5",
-      "W-R1dzem32s:r10",
-      "RsjGTgJiKyI:r8"
+      "gJUBAJaHzlU:r5",
+      "sTtFUy7IoJI:r9"
      ]
     },
     {
-     "text": "Rookie guards usually shoot badly for the first two to three months, then improve. The problem is worse for guards who lack athleticism or strength, and for guards pushed into a defense-first role with little offensive priority. Never pay more than flyer prices for a rookie point guard. If you do roster one who starts, plan for bad percentage weeks through November.",
+     "text": "The experts disagree on when young players matter. One view says rookies and second-year players usually do not help NBA teams win, and the leap tends to come in year three. Teams trying to win often bench their young players. The other view says the rookie wall and the sophomore slump are lazy myths. In that view, about 90% of rookies improve during the season, and the biggest breakouts now come in year two. In practice, trust the year-two data at auction. Check whether the team is a contender before you count on a young player's minutes.",
      "sources": [
-      "OBwWCxG9SqM:r5",
-      "3UGI05PDvrE:r5",
-      "KLogvUwv_d8:r1"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "In season: the Thanksgiving rule",
-   "paragraphs": [
-    {
-     "text": "The rule for a drafted rookie depends on his role. If his role is okay or trending up, give him until Thanksgiving, which is November 26, 2026. If he is not playing at all, cut him after two weeks. A rookie who starts and gets real usage but hurts your efficiency also gets until Thanksgiving. Top rookies often post poor efficiency for the first two months and improve in the second half. If you paid real money for one, accept the slow start and do not drop him.",
-     "sources": [
-      "skKXe2CRl8Q:r15",
-      "OBwWCxG9SqM:r8",
-      "3UGI05PDvrE:r5",
-      "XSPJL_mlFXo:r1",
-      "lOshTzDA4SA:r2"
-     ]
-    },
-    {
-     "text": "Treat cheap flyers more harshly. Late rookie picks are for chasing upside, so move on quickly when they do not pan out. If nothing happens in the first two weeks, drop him and maybe pick him up later. Our daily FAB waivers make it easy to grab him again once his role grows. Do not hold several inefficient rookie flyers while waiting for them to improve. Choose which ones to keep and drop the rest. Also keep a few of your 6 weekly acquisitions free for that churn.",
-     "sources": [
-      "OBwWCxG9SqM:r10",
-      "lOshTzDA4SA:r6",
-      "OBwWCxG9SqM:r9"
+      "5QU-jta-lWM:r0",
+      "OBwWCxG9SqM:r2",
+      "lOshTzDA4SA:r3",
+      "gJUBAJaHzlU:r0"
      ]
     }
    ]
@@ -230,32 +203,73 @@
    "heading": "Why Summer League numbers mislead",
    "paragraphs": [
     {
-     "text": "Treat Summer League with heavy skepticism. Rookies play next to other fringe players, and opposing defenses go all out to disrupt them. Hot shooting percentages there are not sustainable, and Summer League three-point percentages should not be trusted. One 1-for-11 night from three should not count for much either. Summer League is for trial and error.",
+     "text": "Treat Summer League with heavy skepticism. Rookies play next to fringe players, and opposing defenses go all out to disrupt them. Summer League is for trial and error, so one bad shooting night, like 1-for-11 from three, should not count for much.",
      "sources": [
       "s28HvC2grAk:r1",
       "oEywzBZfAvY:r0",
-      "FxaSnyk9g90:r4",
-      "LM0cRCGoAUQ:r13",
       "UTE0dNIv8nY:r3"
      ]
     },
     {
-     "text": "Some rookie Summer League stats do carry over. These are assists, rebounds, blocks, three-point attempt rate and scoring. Three-point attempt volume translates best. Shooting percentages and steals have little correlation. So check whether a player was willing to shoot and whether the skills that made him good showed up. Then use preseason news. If a rookie is named a starter, raise your bid.",
+     "text": "Shooting percentages are the most misleading part. Hot Summer League percentages are not sustainable, and Summer League three-point percentages should not be trusted. The stats that do carry over for rookies are assists, rebounds, blocks, three-point attempt rate and scoring. Steals have little correlation. Three-point attempt volume is the most useful single stat, because a willingness to shoot is a better signal than the make rate.",
      "sources": [
-      "RyzcCGChYgs:r0",
-      "TOn-D1SV7a8:r5",
       "FxaSnyk9g90:r4",
+      "LM0cRCGoAUQ:r13",
+      "RyzcCGChYgs:r0",
+      "TOn-D1SV7a8:r5"
+     ]
+    },
+    {
+     "text": "The notes differ slightly on percentages. One note says Summer League percentages have some correlation for rookies but none for second-year players. Others say shooting percentages carry over very little. Either way, do not raise a bid because of a hot shooting summer. Check whether the skills that made the player good showed up. Second-year players should dominate Summer League, so ordinary numbers from them are a disappointment, not a neutral result.",
+     "sources": [
+      "LUTYUdXBG1M:r1",
+      "RyzcCGChYgs:r0",
       "LUTYUdXBG1M:r0",
+      "LUTYUdXBG1M:r5"
+     ]
+    },
+    {
+     "text": "Preseason role news is more useful. If a rookie flyer is named a starter, move him up your list and be willing to pay a bit more for him.",
+     "sources": [
+      "lOshTzDA4SA:r6"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "In season: the Thanksgiving rule and when to cut",
+   "paragraphs": [
+    {
+     "text": "Top rookies often start slow, with poor efficiency for the first two months, and then improve in the second half. Rookies, especially guards, usually shoot badly for two to three months. If you drafted a rookie early, accept the slow start and do not drop him.",
+     "sources": [
+      "XSPJL_mlFXo:r1",
+      "OBwWCxG9SqM:r5",
+      "lOshTzDA4SA:r2",
+      "RyzcCGChYgs:r6"
+     ]
+    },
+    {
+     "text": "Use two clocks. If a rookie starts with real usage, or his role is fine or growing, hold him until about Thanksgiving (2026-11-26) before giving up, even if he hurts your efficiency. That also applies to a starting rookie point guard. If he is not playing at all, cut him after two weeks. You can pick him up again later if his role changes.",
+     "sources": [
+      "OBwWCxG9SqM:r8",
+      "skKXe2CRl8Q:r15",
+      "3UGI05PDvrE:r5",
       "lOshTzDA4SA:r6"
      ]
     },
     {
-     "text": "The experts differ slightly on percentages. One note finds that Summer League percentages have some correlation for rookies but none for second-year players. Others say rookie shooting percentages have little correlation at all. Either way, do not raise a bid because of percentages. Second-year players should dominate Summer League, so ordinary numbers from a sophomore are a warning sign.",
+     "text": "Do not hold several inefficient rookie flyers at once while you wait. Choose which ones to keep and drop the rest quickly. We have only 2 bench slots and 6 adds a week, so a second slow rookie costs you a streaming spot.",
      "sources": [
-      "LUTYUdXBG1M:r1",
-      "RyzcCGChYgs:r0",
-      "TOn-D1SV7a8:r5",
-      "LUTYUdXBG1M:r5"
+      "OBwWCxG9SqM:r9",
+      "OBwWCxG9SqM:r10"
+     ]
+    },
+    {
+     "text": "Keep watching the waiver wire late in the season. More rookies become relevant in the second half and in the fantasy playoffs, because of tanking, injuries and improvement. Our playoffs run in weeks 19 to 21 and end 2027-03-28. With less tanking expected this season, that late jump may be smaller than usual. Projections also assume trade candidates stay all season, so they can understate rookies stuck behind them. After the 2027-03-04 trade deadline, check which rookies gained minutes and bid FAB on them.",
+     "sources": [
+      "OBwWCxG9SqM:r1",
+      "OBwWCxG9SqM:r3",
+      "OBwWCxG9SqM:r7"
      ]
     }
    ]

@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "55e0f630c8b3",
- "note_count": 30,
- "built_at": "2026-10-11T09:10:49+00:00",
+ "input_sha": "47ef0d49d67c",
+ "note_count": 32,
+ "built_at": "2026-10-16T08:42:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.24210800000000002,
-  "duration_ms": 67763,
+  "cost_usd_list": 0.2322222,
+  "duration_ms": 70119,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie and was the number one overall pick. Washington is building around him as its centerpiece.",
+   "text": "He is a rookie and the No. 1 overall pick. Washington is building around him as its centerpiece.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -30,18 +30,18 @@
    ]
   },
   {
-   "text": "He is projected to start at small forward. He may also play shooting guard or power forward depending on the lineup.",
+   "text": "He is projected to start at small forward. He may also play shooting guard or power forward, depending on the lineup.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p1",
-    "UTE0dNIv8nY:t1",
-    "lOshTzDA4SA:p3"
+    "lOshTzDA4SA:p3",
+    "UTE0dNIv8nY:t1"
    ]
   },
   {
-   "text": "Trae Young and Anthony Davis are expected to take preferred touches, so his shots and usage will be much lower than his 35% summer league usage.",
+   "text": "His usage will be well below his 35% in summer league. Trae Young and Anthony Davis will get the preferred touches.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -49,19 +49,20 @@
     "UTE0dNIv8nY:p3",
     "LUTYUdXBG1M:p1",
     "lOshTzDA4SA:p3",
-    "lOshTzDA4SA:t1",
     "OBwWCxG9SqM:p15",
-    "OBwWCxG9SqM:t3",
     "dlo7L8Ru91A:p44",
     "uarqbNA2dFk:p23",
+    "DubdKKhMWHo:p22",
     "QbdrhJd7LiA:p29",
     "eTsjuVu1trk:p32",
+    "OBwWCxG9SqM:t3",
+    "lOshTzDA4SA:t1",
     "eTsjuVu1trk:t5",
     "-rgXhs5BHiw:t0"
    ]
   },
   {
-   "text": "Washington may bring him along slowly. He could play around 28 minutes a night early on instead of 34 or more.",
+   "text": "Washington may bring him along slowly. Early in the season he could play around 28 minutes a night instead of 34 or more.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -70,34 +71,35 @@
    ]
   },
   {
-   "text": "Experts do not expect his fantasy value to come together in year one. They expect bigger usage in years two and three.",
+   "text": "The experts say preseason has shown his fantasy flaws. They agree he should not be drafted in the top 100 in category leagues. One projection puts him around 180th in categories, and one speaker calls him fine around pick 120.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:p22",
-    "RsjGTgJiKyI:p2"
-   ]
-  },
-  {
-   "text": "Experts agree his market price is too high. A Yahoo rank of 93 and an ADP in the 70s are called overdrafts. Category projections range from outside the top 100 to about 180th. The newest note says he will not be rosterable to start the season. One expert calls him fine around pick 120.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
+    "OsbUAkSeVB4:p9",
+    "EogBYa24Gto:p25",
     "-DN4P92Wp8Y:p39",
     "eTsjuVu1trk:p32",
     "uarqbNA2dFk:p23",
-    "QbdrhJd7LiA:p29",
     "DubdKKhMWHo:p22",
-    "dlo7L8Ru91A:p44",
     "OBwWCxG9SqM:p15",
+    "dlo7L8Ru91A:p44",
+    "QbdrhJd7LiA:p29",
     "J1Eg3uaAICU:p43",
     "lOshTzDA4SA:p5"
    ]
   },
   {
-   "text": "In auction he is seen as a 1 USD player. He went for 4 USD in a mock draft, which the expert called too much.",
+   "text": "One expert does not think he will be worth a roster spot at the start of the season.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p39"
+   ]
+  },
+  {
+   "text": "In an auction mock, Josh valued him at 1 USD. He sold for 4 USD, which Josh called too much.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -106,26 +108,7 @@
    ]
   },
   {
-   "text": "He had 5 steals and 3 blocks in two summer league games, which he does not usually do.",
-   "kind": "fact",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "LUTYUdXBG1M:p1",
-    "UTE0dNIv8nY:p2"
-   ]
-  },
-  {
-   "text": "If his summer league defensive stats stick, his value moves up.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p30"
-   ]
-  },
-  {
-   "text": "Washington is trying to compete and is projected near .500 and in the play-in mix. Late-season resting and minutes cuts are not expected.",
+   "text": "Washington is trying to compete and is projected to win around 40 games and reach the play-in. Late-season resting and minutes cuts should not be a factor.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -135,52 +118,31 @@
    ]
   },
   {
-   "text": "Head coach Brian Keefe is under pressure to win this season.",
+   "text": "Head coach Brian Keefe is under heavy pressure to win this season.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:t5"
    ]
-  },
-  {
-   "text": "Washington has a deep group of wings and guards, with a 10 or 11 man rotation expected.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t2",
-    "LUTYUdXBG1M:t0",
-    "gJUBAJaHzlU:t1"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a volume scorer who gets to the rim and the free throw line at will. He drew about 7 free throws per game in summer league, as he did at BYU, and shot 89% at the rim.",
-   "kind": "fact",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:p14",
-    "TOn-D1SV7a8:p30",
-    "UTE0dNIv8nY:p2",
-    "LUTYUdXBG1M:p0",
-    "lOshTzDA4SA:p4"
-   ]
-  },
-  {
-   "text": "He shot badly in summer league: 1 for 11 from three and 39% from the field.",
+   "text": "He is a volume scorer. He gets to the rim and the free throw line at will, at about 7 free throw attempts per game in summer league, the same as at BYU.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
+    "TOn-D1SV7a8:p30",
+    "LUTYUdXBG1M:p0",
     "UTE0dNIv8nY:p2",
-    "LUTYUdXBG1M:p0"
+    "OBwWCxG9SqM:p14",
+    "lOshTzDA4SA:p4"
    ]
   },
   {
-   "text": "Most experts call him a poor shooter with low three-point volume, below average free throws and concerning shot selection. One expert calls his shooting fine.",
+   "text": "Shooting is his main category weakness. His three-point volume and accuracy are poor, and he has not been a good free throw shooter. In summer league he shot 39% from the field and went 1 for 11 from three. One draft note called his shooting fine.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
@@ -188,28 +150,39 @@
     "QbdrhJd7LiA:p30",
     "OBwWCxG9SqM:p14",
     "RsjGTgJiKyI:p3",
+    "LUTYUdXBG1M:p0",
+    "UTE0dNIv8nY:p2",
     "-rgXhs5BHiw:p17",
     "HxQjagSTTAM:p2",
-    "TOn-D1SV7a8:p30",
     "lOshTzDA4SA:p4"
    ]
   },
   {
-   "text": "Experts call his steals and blocks poor and his defense a concern.",
+   "text": "In summer league he had 5 steals and 3 blocks across two games.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p1",
+    "UTE0dNIv8nY:p2"
+   ]
+  },
+  {
+   "text": "The experts see steals and blocks as weak for him. They say the summer league defensive stats are not his usual pattern, and he would move up if they stick.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
+    "dlo7L8Ru91A:p44",
+    "OBwWCxG9SqM:p14",
     "RsjGTgJiKyI:p3",
     "lOshTzDA4SA:p4",
-    "OBwWCxG9SqM:p14",
-    "dlo7L8Ru91A:p44",
-    "-rgXhs5BHiw:p17",
-    "HxQjagSTTAM:p2"
+    "LUTYUdXBG1M:p1",
+    "TOn-D1SV7a8:p30"
    ]
   },
   {
-   "text": "Experts disagree on his passing. Some call his ball skills, passing and pick and roll play above average for his size. Others call his passing unclear or not strong.",
+   "text": "The experts disagree on his passing. Some call his assists very good and praise his pick and roll play for his size. Others call his passing unclear or not strong.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
@@ -217,47 +190,35 @@
     "RsjGTgJiKyI:p3",
     "RsjGTgJiKyI:p5",
     "lOshTzDA4SA:p4",
-    "-rgXhs5BHiw:p17",
-    "OBwWCxG9SqM:p14"
+    "OBwWCxG9SqM:p14",
+    "-rgXhs5BHiw:p17"
    ]
   },
   {
-   "text": "His rebounds are okay but not high.",
-   "kind": "verdict",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p4",
-    "RsjGTgJiKyI:p3",
-    "OBwWCxG9SqM:p14"
-   ]
-  },
-  {
-   "text": "Turnovers are his weakest category and are weak for a forward.",
+   "text": "His projected turnovers are high for a forward.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Experts see the weakest category league profile among the top four rookies. He is worth more in points leagues than in category leagues.",
+   "text": "He is worth more in points leagues than in category leagues. Experts call his category profile the worst of the top four rookies.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "OBwWCxG9SqM:p14",
-    "lOshTzDA4SA:p4",
-    "J1Eg3uaAICU:p43",
     "QbdrhJd7LiA:p29",
     "uarqbNA2dFk:p23",
     "-DN4P92Wp8Y:p39",
-    "Alwse2uXzD4:p19"
+    "J1Eg3uaAICU:p43",
+    "RsjGTgJiKyI:p2"
    ]
   },
   {
-   "text": "Experts see a strong long-term floor because of his size, usage, shot creation and handle.",
+   "text": "Scouts at the draft flagged his defense and shot selection as concerns. They also gave him the best long-term floor in the class because of his usage, shot creation and handle.",
    "kind": "verdict",
    "date": "2026-06-23",
    "until": "",
@@ -281,22 +242,37 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Trae Young and Anthony Davis get preferred touches",
+   "detail": "Trae Young and Anthony Davis get the preferred touches",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p3",
     "lOshTzDA4SA:p3",
     "OBwWCxG9SqM:p15",
-    "dlo7L8Ru91A:p44",
     "uarqbNA2dFk:p23",
-    "eTsjuVu1trk:t5"
+    "eTsjuVu1trk:p32",
+    "OBwWCxG9SqM:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Market ADP in the 70s to 90s; experts say do not draft him in the top 100",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p9",
+    "EogBYa24Gto:p25",
+    "-DN4P92Wp8Y:p39",
+    "eTsjuVu1trk:p32",
+    "DubdKKhMWHo:p22",
+    "dlo7L8Ru91A:p44"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "May be brought along slowly at around 28 minutes early on",
+   "detail": "Washington may hold him near 28 minutes early in the season",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p4"
@@ -304,25 +280,9 @@
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "Yahoo rank 93 and ADP in the 70s; experts see him outside the top 100 in categories",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p39",
-    "eTsjuVu1trk:p32",
-    "uarqbNA2dFk:p23",
-    "QbdrhJd7LiA:p29",
-    "DubdKKhMWHo:p22",
-    "dlo7L8Ru91A:p44",
-    "OBwWCxG9SqM:p15"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "points league player",
    "channel": "durable",
-   "detail": "Volume scorer; better in points than in category leagues",
+   "detail": "Volume scorer whose shooting, threes and defensive stats are weak for category leagues",
    "until": "",
    "sources": [
     "OBwWCxG9SqM:p14",
@@ -335,7 +295,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "About 2.3 turnovers per game projected",
+   "detail": "About 2.3 projected turnovers per game, high for a forward",
    "until": "",
    "sources": [
     "stats"
@@ -343,23 +303,23 @@
    "new_meaning": ""
   },
   {
-   "name": "low shutdown risk",
+   "name": "coach hot seat",
    "channel": "current",
-   "detail": "Washington is trying to compete for the play-in",
+   "detail": "Brian Keefe is under pressure to win",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t0",
-    "UTE0dNIv8nY:t4"
+    "UTE0dNIv8nY:t5"
    ],
    "new_meaning": ""
   },
   {
-   "name": "coach hot seat",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Brian Keefe under the most pressure to win",
+   "detail": "Washington is aiming for the play-in",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t5"
+    "UTE0dNIv8nY:t0",
+    "UTE0dNIv8nY:t4"
    ],
    "new_meaning": ""
   },
@@ -375,6 +335,6 @@
    "new_meaning": ""
   }
  ],
- "note": "The market has him near rank 90 (Yahoo value 5 USD, ESPN average cost 5.7 USD). Experts put him at about 1 USD, and his projected line is close to neutral everywhere except points (+0.8 z) and turnovers (-0.8 z). Let someone else pay for the No. 1 pick name. He only makes sense as a 1 to 2 USD bench piece for a punt TO build. Early in the season, check his minutes (28 or 34 plus), his shot share next to Trae Young and Anthony Davis, and whether his summer league steals and blocks hold up.",
+ "note": "Every expert says to avoid him in the top 100 for category leagues. His Yahoo rank of 91, ESPN rank of 86, and Yahoo value of 6 USD are too rich for a rookie behind Trae Young and Anthony Davis who may play only about 28 minutes early. Josh's 1 USD price is the right range for us, so let someone else pay 4 to 6 USD. Only his points (z +0.8) stand out, and his turnovers (z -1.0 for a forward) make him a fit only for punt TO builds. Early in the season, check his minutes, his share of the shots, his free throw percentage on about 5 to 6 attempts, and whether the summer league steals and blocks hold up.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.9 | 122 | 2 | 2.2 | 103 | 9 |
+| 2026-27 | 0 | 1.6 | 122 | 2 | 2.4 | 103 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 2.7 | +1.4 | +1.3 | - |
 | PTS | 20.7 | +1.1 | +1.1 | - |
 | REB | 4.5 | -0.2 | +0.0 | - |
-| AST | 3.5 | +0.1 | +0.1 | - |
+| AST | 3.5 | +0.2 | +0.1 | - |
 | STL | 1.0 | +0.3 | +0.2 | - |
 | BLK | 0.3 | -0.6 | -0.5 | - |
 | TO | 2.6 | -1.2 | -1.2 | weak for his position (punt fit) |
@@ -30,31 +30,32 @@
 </details>
 
 **Current**
-- His usage should drop from 32% to about 28-29%. Booker, Brooks, Bridges and Gillespie all want touches, and the four starters should take most of the minutes and usage. (verdict, 2026-10-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=454), [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437))
-- Phoenix wants Green to be its starting point guard and bring the ball up. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [08-23](https://youtu.be/hm5-fiCa5S4?t=900))
-- His low minutes last season came from minutes limits, not his role. He should play 30 to 33 minutes and get more shots this season. (verdict, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=337), [07-20](https://youtu.be/-KS_AZjZnw4?t=454), [10-02](https://youtu.be/ZYllcj4o6_A?t=744))
-- Experts project about 20 points and two threes a game. One expert adds about four rebounds and four assists. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [09-10](https://youtu.be/dlo7L8Ru91A?t=1598))
-- Experts rank him around 100 to 120 in category leagues. One expert says a rank of 124 is too low, and Josh drafted him near his Yahoo ADP of 102. (verdict, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=356), [09-01](https://youtu.be/80kfLVnFQ_s?t=1707), [09-10](https://youtu.be/dlo7L8Ru91A?t=1598), [10-02](https://youtu.be/ZYllcj4o6_A?t=744))
-- Last season's hamstring problem is not a concern for this season. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2438))
-- Josh thinks Booker will still run the offense, even with Green listed at point guard. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1138))
-- He is expected to start next to Booker, Brooks and Bridges. Gillespie is expected to come off the bench. (fact, 2026-09-10; [07-20](https://youtu.be/-KS_AZjZnw4?t=346), [08-23](https://youtu.be/hm5-fiCa5S4?t=509), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
-- His steals jump last season was luck: he turned an unusually high share of deflections (80%) into steals. The steals should not hold. (verdict, 2026-07-20; [07-17](https://youtu.be/NYTH7uQsPCM?t=1135), [07-20](https://youtu.be/-KS_AZjZnw4?t=433))
-- His FT% (75%) and 3P% (31%) from last season should probably go back up. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=418))
+- Yahoo lists him as questionable for rest. Experts say last season's hamstring is not a concern. (fact, 2026-10-16; stats, [09-19](https://youtu.be/uarqbNA2dFk?t=2438))
+- In recent 12-team category mocks experts took him in round 9 for a scoring boost and in round 10 as a flyer. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1289), [10-12](https://youtu.be/ENizLoE6pzI?t=1541))
+- Phoenix sees Green as its starting point guard. He has played point guard in preseason and is asked to bring the ball up. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=159), [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [08-23](https://youtu.be/hm5-fiCa5S4?t=900))
+- Experts doubt the point guard plan. They call it a strange choice for a player with little vision, and Josh thinks Booker will run the offense. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=159), [09-10](https://youtu.be/W-R1dzem32s?t=1138))
+- He is a projected starter next to Devin Booker, Dillon Brooks, Miles Bridges and Oso Ighodaro. Collin Gillespie comes off the bench. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=508), [10-14](https://youtu.be/MRzebgip23Y?t=1175), [07-20](https://youtu.be/-KS_AZjZnw4?t=346))
+- Booker, Brooks and Bridges also need touches, so the Phoenix usage is crowded. (fact, 2026-10-14; [09-19](https://youtu.be/uarqbNA2dFk?t=989), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [10-14](https://youtu.be/D4dP5JvX1oo?t=684))
+- In category leagues he fits around rank 100 to 110 if he reaches about 21 points and 4 assists. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=447))
+- Phoenix has the best fantasy schedule in the league: 4, 4 and 4 games in our playoff weeks and the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- His low minutes last season came from minutes limits after his hamstring injuries, not from his role. Experts expect 30 to 33 minutes this season, with usage dropping a little from 32% to about 28 to 29%. (verdict, 2026-10-02; [08-26](https://youtu.be/sTtFUy7IoJI?t=337), [07-20](https://youtu.be/-KS_AZjZnw4?t=454), [10-02](https://youtu.be/ZYllcj4o6_A?t=744))
+- Experts project about 20 points and two or more threes a game, with about 4 rebounds and 4 assists. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [09-10](https://youtu.be/dlo7L8Ru91A?t=1598))
+- His FT% (75%) and 3P% (31%) from last season should probably rise back toward his earlier 81% and 35%. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=418))
+- His steal rate last season came from an unusually high share of deflections turning into steals. Experts call it luck and do not expect it to hold. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=433), [07-17](https://youtu.be/NYTH7uQsPCM?t=1135))
 
 **Durable**
-- His turnovers are high for his position. (fact, 2026-10-11; stats)
-- He is worth more in points leagues than in category leagues. 9-cat formulas penalize his poor efficiency. (verdict, 2026-10-08; [09-19](https://youtu.be/uarqbNA2dFk?t=2438), [10-08](https://youtu.be/WXO8MfQfzo0?t=1460), [09-10](https://youtu.be/W-R1dzem32s?t=1652))
-- He is a weak passer. He has never shown point guard skills, and experts do not trust his playmaking. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [08-23](https://youtu.be/hm5-fiCa5S4?t=1060), [08-23](https://youtu.be/hm5-fiCa5S4?t=692))
-- He plays downhill but is not efficient around the rim. His low FG% on heavy volume clearly hurts a team's FG%. (verdict, 2026-09-10; [08-23](https://youtu.be/hm5-fiCa5S4?t=692), [09-10](https://youtu.be/W-R1dzem32s?t=1652), stats)
-- He can score 20 points a game with over two threes, and scorers at that level are hard to find. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1652))
-- He had three hamstring strains in 2025-26. He had never been hurt before that season. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=311), [07-20](https://youtu.be/-KS_AZjZnw4?t=378))
-- He is a high-volume shooter. His usage was 32% when he played last season. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=311))
-- He is not a great player or a star. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=338))
+- His turnovers are high for his position. (fact, 2026-10-16; stats)
+- He is a high-volume scorer who can score 20 or more points a game with over two threes. He took a huge number of shots at 32% usage when healthy last season. (fact, 2026-10-14; [09-10](https://youtu.be/W-R1dzem32s?t=1652), [10-14](https://youtu.be/MRzebgip23Y?t=421), [08-26](https://youtu.be/sTtFUy7IoJI?t=311))
+- His FG% is poor on high volume and hurts a team's FG% clearly. He plays downhill but is not efficient around the rim. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=421), [08-23](https://youtu.be/hm5-fiCa5S4?t=692), stats)
+- Outside scoring and threes his line is thin: few steals, few blocks and poor rebounding. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=421))
+- He is a weak passer with low basketball IQ who has never shown point guard skills. (verdict, 2026-10-14; [10-02](https://youtu.be/ZYllcj4o6_A?t=744), [08-23](https://youtu.be/hm5-fiCa5S4?t=1060), [08-23](https://youtu.be/hm5-fiCa5S4?t=692), [10-14](https://youtu.be/MRzebgip23Y?t=159))
+- 9-cat formulas punish his poor efficiency, so he is worth more in points leagues than in category leagues. (verdict, 2026-10-14; [09-19](https://youtu.be/uarqbNA2dFk?t=2438), [10-08](https://youtu.be/WXO8MfQfzo0?t=1460), [09-10](https://youtu.be/W-R1dzem32s?t=1652), [10-14](https://youtu.be/MRzebgip23Y?t=447))
+- He had never been hurt before 2025-26. That season he had three hamstring strains and played 32 games. (fact, 2026-07-20; [08-26](https://youtu.be/sTtFUy7IoJI?t=311), [07-20](https://youtu.be/-KS_AZjZnw4?t=378))
 
 **Tags**
-- Current: `injury last season` (hamstring strains, minutes limits), `bounce-back` (FT% and 3P% should recover), `role up` (starting point guard, 30 to 33 minutes), `usage competition` (Booker, Brooks, Bridges, Gillespie), `regression risk` (steals from lucky deflection conversion)
-- Durable: `FG% liability` (about 42% FG on 17 to 19 attempts, not efficient at the rim), `punt FG fit`, `punt TO fit` (about 2.6 TO a game), `points league player`, `injury prone` (three hamstring strains in 2025-26; one expert says it is not a concern now)
+- Current: `injury last season` (32 games at 26 minutes after hamstring strains), `bounce-back` (more minutes, FT% and 3P% expected to recover), `role up` (30 to 33 minutes expected after minutes limits last season), `position change` (playing point guard in preseason), `usage competition` (Booker, Brooks and Bridges), `regression risk` (steals from lucky deflection conversion), `flyer` (round 10 flyer in a 9-cat mock), `questionable` (Yahoo Q (Rest)), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (fewest in the league)
+- Durable: `FG% liability` (about 42% FG on 17 to 19 attempts), `punt FG fit`, `punt TO fit`, `points league player`, `injury prone` (three hamstring strains in 2025-26; no injuries before that, and experts call the hamstring not a concern now)
 
-**Note.** At about 2 USD on Yahoo and ESPN (ranks 122 and 103), he costs far less than the 9 USD he went for in our league last season. In a 144-player draft he is a cheap late scorer for 3PM and PTS, but he fits mainly punt FG% builds, and punt TO builds also lose little with him. Early in the season, check whether he gets 30+ minutes and really runs the point, and whether his FT% recovers toward 79% while his steals drop.
+**Note.** Green is a late scoring pick for us. Yahoo values him at 0 USD (average cost 1.6 USD) and ESPN at 2 USD (average cost 2.4 USD), and our league paid 9 USD last season, so pay no more than a few dollars near rank 100 to 120. He suits punt FG% and punt TO builds, where his points and threes (projected 20.7 PTS and 2.7 3PM) count fully, and the 4-4-4 Phoenix playoff schedule adds value. Early in the season, check whether he keeps the point guard role, plays 30+ minutes and gets close to 4 assists, and whether his FT% climbs back toward 80%.
 
-<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

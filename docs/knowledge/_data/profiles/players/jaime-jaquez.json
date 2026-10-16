@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "143c3c625968",
+ "input_sha": "6a9dd7c9629c",
  "note_count": 7,
- "built_at": "2026-10-11T09:17:37+00:00",
+ "built_at": "2026-10-16T08:57:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1874622,
-  "duration_ms": 47932,
+  "cost_usd_list": 0.1618382,
+  "duration_ms": 35055,
   "turns": 2,
   "denied": 0
  },
@@ -23,15 +23,15 @@
   {
    "text": "He joined Milwaukee from Miami in the Giannis Antetokounmpo trade.",
    "kind": "fact",
-   "date": "2026-08-14",
+   "date": "2026-06-23",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:p15",
-    "nnWX_ObljOE:p16"
+    "nnWX_ObljOE:p16",
+    "owlM6b8oUd0:p15"
    ]
   },
   {
-   "text": "He is projected to start at forward. The projected opening lineup is Rollins, Herro, Jaquez, Kuzma and Turner. Milwaukee's power forward group is very thin.",
+   "text": "He is projected to start for Milwaukee, likely at forward because the power forward group is thin. The projected opening lineup is Rollins, Herro, Jaquez, Kuzma and Turner, and it could change by December or March.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
@@ -39,26 +39,20 @@
     "sDzeYdUhJDI:t3",
     "owlM6b8oUd0:p15",
     "owlM6b8oUd0:t1",
-    "owlM6b8oUd0:t2"
+    "owlM6b8oUd0:t2",
+    "nnWX_ObljOE:p16"
    ]
   },
   {
-   "text": "The starting lineup could change by December or March, so his starting role is not secure.",
-   "kind": "verdict",
-   "date": "2026-10-08",
+   "text": "Milwaukee's rotation is very unclear. The team has many guards fighting for minutes, and new coach Taylor Jenkins might use a deep rotation.",
+   "kind": "fact",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t3"
-   ]
-  },
-  {
-   "text": "A trade is possible. The experts say the roster needs trades to consolidate and that he does not fit well with Kuzma, Porter and Herro. One note named Denver as a possible destination.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "owlM6b8oUd0:p15",
-    "sDzeYdUhJDI:t5"
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t2"
    ]
   },
   {
@@ -68,18 +62,16 @@
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p15",
-    "sDzeYdUhJDI:t0",
-    "ZYllcj4o6_A:t4"
+    "4GDfg2n2l8o:t1"
    ]
   },
   {
-   "text": "Much of his production last season came when two or three Miami players were out, Herro among them. Herro is now his teammate in Milwaukee.",
+   "text": "Much of his production last season came when two or three Miami players were out, including Herro.",
    "kind": "fact",
    "date": "2026-06-23",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p15",
-    "sDzeYdUhJDI:t3"
+    "nnWX_ObljOE:p15"
    ]
   },
   {
@@ -92,31 +84,49 @@
    ]
   },
   {
-   "text": "Milwaukee is expected to be a bad team. Its win total is 26.5. New coach Taylor Jenkins might use a deep rotation.",
+   "text": "A trade is possible. He was called the Miami piece most likely to be moved before the season, possibly to Denver, and Milwaukee needs trades because Kuzma, Jaquez, Porter and Herro do not fit well together.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
+    "owlM6b8oUd0:p15",
+    "sDzeYdUhJDI:t5"
+   ]
+  },
+  {
+   "text": "Milwaukee is expected to be a bad team, around 33 wins. It does not own its draft pick, so it has no reason to tank.",
+   "kind": "verdict",
+   "date": "2026-08-14",
+   "until": "",
+   "sources": [
     "owlM6b8oUd0:t4",
-    "Rqb5GdrSweY:t0",
     "sfCe7fS9daM:t8",
-    "sDzeYdUhJDI:t2"
+    "Rqb5GdrSweY:t0"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable for rest.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "The experts see him as a low-end player: at best a sixth man, or a seventh or eighth man on a good team. He needs opportunity and usage to produce.",
+   "text": "The experts rate him low. They see him at best as a sixth man, or a seventh or eighth man on a good team.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p14",
-    "sDzeYdUhJDI:p14"
+    "sDzeYdUhJDI:p14",
+    "nnWX_ObljOE:p14"
    ]
   },
   {
-   "text": "One expert calls him a bad shooter.",
+   "text": "He needs opportunity and usage to produce fantasy value.",
    "kind": "verdict",
    "date": "2026-06-23",
    "until": "",
@@ -125,21 +135,31 @@
    ]
   },
   {
-   "text": "He makes few threes for a guard or forward.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He gets few steals and blocks.",
+   "text": "He gets few defensive stats. His steals and blocks are below average.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p15",
+    "stats"
+   ]
+  },
+  {
+   "text": "Threes are his weakest category for his position. A punt 3PM team loses little with him.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats",
+    "nnWX_ObljOE:p14"
+   ]
+  },
+  {
+   "text": "FG% and assists are his best categories. He shoots a good FG% on solid volume for a wing.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
     "stats"
    ]
   }
@@ -148,10 +168,9 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Miami to Milwaukee in the Giannis deal",
+   "detail": "Came from Miami in the Giannis trade",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:p15",
     "nnWX_ObljOE:p16"
    ],
    "new_meaning": ""
@@ -159,7 +178,7 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Seen as a poor fit with Kuzma, Porter and Herro. Denver named as a possible destination",
+   "detail": "Named as a likely trade piece, possibly to Denver; the roster fit with Kuzma, Porter and Herro is poor",
    "until": "",
    "sources": [
     "owlM6b8oUd0:p15",
@@ -170,7 +189,7 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Many Bucks ball handlers, so his assists should drop",
+   "detail": "Many ball handlers (Herro, Rollins, Porter) should cut his assists",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p15",
@@ -181,21 +200,11 @@
   {
    "name": "usage dependent",
    "channel": "durable",
-   "detail": "Needs opportunity and usage. Last season's production came largely with Miami players out",
+   "detail": "Needs opportunity and usage; last season's production came with Miami starters out",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p14",
     "nnWX_ObljOE:p15"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "regression risk",
-   "channel": "current",
-   "detail": "Expert does not trust his late-season shooting surge",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p16"
    ],
    "new_meaning": ""
   },
@@ -210,12 +219,44 @@
    "new_meaning": ""
   },
   {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Late-season shooting surge not trusted",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "About 0.9 threes per game",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Milwaukee's rotation is the one experts understand least",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t4",
+    "sDzeYdUhJDI:t0",
+    "uI6umXsE7Vk:t3"
    ],
    "new_meaning": ""
   },
@@ -225,30 +266,6 @@
    "detail": "Taylor Jenkins",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t2",
-    "owlM6b8oUd0:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Experts call it the hardest rotation to read. The lineup could change by December or March",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t0",
-    "sDzeYdUhJDI:t3",
-    "WXO8MfQfzo0:t0",
-    "OdDkXFhoKsc:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Jenkins might use a deep rotation",
-   "until": "",
-   "sources": [
     "sDzeYdUhJDI:t2"
    ],
    "new_meaning": ""
@@ -256,28 +273,15 @@
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Win total 26.5",
+   "detail": "About 33 wins expected",
    "until": "",
    "sources": [
     "owlM6b8oUd0:t4",
-    "Rqb5GdrSweY:t0",
     "sfCe7fS9daM:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trades likely",
-   "channel": "current",
-   "detail": "Roster needs consolidation",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t5",
-    "nnWX_ObljOE:t0",
-    "4GDfg2n2l8o:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He sits at the edge of our 144-player pool. Yahoo ranks him 135, ESPN 148, and both price him at about 1 USD, so spend no more than 1 USD as a late flyer, mainly in punt 3PM builds. The two sites' projections differ a lot (54.2 vs 50.2 FG%, 1.0 vs 1.9 TO), and his value depends on the FG% and assists, since the expert expects the assists to fall among Milwaukee's many guards. Early in the season, check whether he holds the starting forward spot, whether his assists stay near 4 to 5 next to Herro and Rollins, and whether a trade happens.",
+ "note": "He is priced right at the edge of our draft pool (Yahoo rank 135 at 1.5 USD average cost, ESPN rank 148 at 1.2 USD). The experts see him only as a 1 USD late flyer, best suited to punt 3PM builds that want FG% and assists from a wing. Early in the season, check whether he holds the starting forward spot and keeps close to the 4.7 assists and 50.7 FG% of last season with Herro and Rollins handling the ball. Also watch for trade news.",
  "rejected": []
 }

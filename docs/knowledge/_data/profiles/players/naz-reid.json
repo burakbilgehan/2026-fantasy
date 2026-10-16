@@ -8,46 +8,59 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "20753fa2ae9d",
- "note_count": 17,
- "built_at": "2026-10-11T09:22:01+00:00",
+ "input_sha": "6606fc14c298",
+ "note_count": 18,
+ "built_at": "2026-10-16T09:11:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21481419999999998,
-  "duration_ms": 59672,
+  "cost_usd_list": 0.21788619999999997,
+  "duration_ms": 59908,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte got him from Minnesota in the LaMelo Ball trade.",
+   "text": "Charlotte acquired him in the LaMelo Ball trade.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p7",
     "RsjGTgJiKyI:p23",
-    "CRLSsoGhb2w:p12",
-    "EB1Z_6n56-o:p12"
+    "EB1Z_6n56-o:p12",
+    "CRLSsoGhb2w:p12"
    ]
   },
   {
-   "text": "He is projected to start at power forward, in the spot Miles Bridges left. Diabaté is the projected starting center.",
+   "text": "He is set to start at power forward and takes the spot of Miles Bridges, who was traded. Moussa Diabate is the projected starting center.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p12",
     "CRLSsoGhb2w:t3",
-    "t4n9MAP2_14:p26",
     "LM0cRCGoAUQ:p41",
+    "t4n9MAP2_14:p26",
     "EB1Z_6n56-o:p12",
-    "Rqb5GdrSweY:p32"
+    "Rqb5GdrSweY:p32",
+    "RsjGTgJiKyI:p23",
+    "W3THnI7wWdA:p7"
    ]
   },
   {
-   "text": "Experts expect the most minutes of his career, about 31 to 33 per game. He may play more power forward than center.",
+   "text": "Charlotte has several centers (Diabate, Kalkbrenner, Kai Jones, a first-round rookie), so he may play more power forward than center.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p41",
+    "LM0cRCGoAUQ:t9",
+    "CRLSsoGhb2w:t2"
+   ]
+  },
+  {
+   "text": "He should play the most minutes of his career, about 31 to 33 per game.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
@@ -55,75 +68,47 @@
     "CRLSsoGhb2w:p12",
     "LM0cRCGoAUQ:p41",
     "Rqb5GdrSweY:p32",
-    "ahNxsoU8Hx4:p62"
-   ]
-  },
-  {
-   "text": "Diabaté, Kalkbrenner and Kai Jones limit his minutes at center.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:t9",
-    "CRLSsoGhb2w:t2"
-   ]
-  },
-  {
-   "text": "With LaMelo Ball and Miles Bridges gone, Charlotte has a lot of open usage. His usage is projected to rise from about 22 to about 24.",
-   "kind": "verdict",
-   "date": "2026-07-13",
-   "until": "",
-   "sources": [
-    "Rqb5GdrSweY:t7",
-    "Rqb5GdrSweY:p32",
+    "ahNxsoU8Hx4:p62",
     "ya2VYRJ1BN0:p5"
    ]
   },
   {
-   "text": "Charlotte plans to space the floor and take a lot of threes. Playmaking will be spread across several players.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "EB1Z_6n56-o:t0",
-    "EB1Z_6n56-o:t3",
-    "CRLSsoGhb2w:t1"
-   ]
-  },
-  {
-   "text": "The newest preview calls him a strong mid-round target in the 55 to 75 range and says he goes earlier in category leagues.",
+   "text": "With Ball and Bridges gone, Charlotte has a lot of open usage, and his shots should go up.",
    "kind": "verdict",
-   "date": "2026-09-27",
+   "date": "2026-07-13",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p12"
+    "Rqb5GdrSweY:p32",
+    "Rqb5GdrSweY:t7",
+    "ya2VYRJ1BN0:p4",
+    "ya2VYRJ1BN0:p5"
    ]
   },
   {
-   "text": "Experts disagree on his upside. Some say he has a better chance of making the top 50 than of falling outside the top 100. Others put him in tier seven with no upside beyond that and say he is not as good as the hype.",
+   "text": "Experts put him in the mid rounds, at about rank 55 to 75. The newest note says he has been underwhelming but is being drafted in the right spot. One expert says he goes earlier in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p23",
+    "CRLSsoGhb2w:p12",
+    "LM0cRCGoAUQ:p41"
+   ]
+  },
+  {
+   "text": "Experts disagree on his upside. One sees a better chance of a top 50 finish than of falling outside the top 100. Others see no upside above his mid-round tier and say he is not as good as the hype.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p62",
     "Rqb5GdrSweY:p32",
-    "ya2VYRJ1BN0:p5",
     "t4n9MAP2_14:p26",
-    "LM0cRCGoAUQ:p42",
-    "LM0cRCGoAUQ:p41"
+    "LM0cRCGoAUQ:p42"
    ]
   },
   {
-   "text": "Do not pay for a top 30 per game rank.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "ya2VYRJ1BN0:p5"
-   ]
-  },
-  {
-   "text": "In a recent mock auction he went for 14 USD. The drafter had hoped to get him for about 10 USD.",
+   "text": "In an auction mock draft he went for 14 USD. The drafter had hoped to get him for about 10 USD.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -132,7 +117,7 @@
    ]
   },
   {
-   "text": "With a March 28 end, Charlotte plays 4, 3 and 4 games in the playoff weeks. The team has only 13 back-to-backs, the league minimum.",
+   "text": "Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -141,27 +126,20 @@
    ]
   },
   {
-   "text": "Charlotte has only two games in the week starting March 1.",
+   "text": "Charlotte plans to space the floor and take a lot of threes, and its playmaking will be spread across several players.",
    "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t12"
+    "EB1Z_6n56-o:t0",
+    "EB1Z_6n56-o:t3",
+    "CRLSsoGhb2w:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He makes many threes for a forward or center and adds useful blocks. FG% is his weakest category for his position, but the code does not flag it as weak.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a very good floor spacer who can play the four or the five.",
+   "text": "He is a very good floor spacer for a big and can play the four or the five.",
    "kind": "fact",
    "date": "2026-07-21",
    "until": "",
@@ -171,8 +149,17 @@
    ]
   },
   {
-   "text": "He is a bad defender. His shooting is up and down, and he can be an inefficient scorer.",
-   "kind": "verdict",
+   "text": "Threes and blocks are his best categories. He makes far more threes than most forwards and centers. His FG% is below average for his position.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a bad defender. His shooting is up and down, and his scoring can be inefficient.",
+   "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
@@ -182,7 +169,7 @@
    ]
   },
   {
-   "text": "He is not a strong fantasy center. He does not boost FG% or bring big rebound numbers.",
+   "text": "He is not a strong fantasy center. He does not boost FG% and does not give big rebound numbers.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
@@ -191,13 +178,21 @@
    ]
   },
   {
-   "text": "He has not yet shown he can handle a big usage load. One expert calls him a backup on a good team and a starter on a bad one.",
+   "text": "He has not yet shown that he can handle a big usage load.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p42",
-    "ya2VYRJ1BN0:p6"
+    "LM0cRCGoAUQ:p42"
+   ]
+  },
+  {
+   "text": "He has missed very few games in each of the last three seasons.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -216,50 +211,20 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Starting power forward, projected for about 31 to 33 minutes, the most of his career",
+   "detail": "Starting power forward, about 31 to 33 minutes, more usage",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p12",
     "LM0cRCGoAUQ:p41",
-    "Rqb5GdrSweY:p32"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "LaMelo Ball and Miles Bridges are gone",
-   "until": "",
-   "sources": [
-    "Rqb5GdrSweY:t7",
-    "ya2VYRJ1BN0:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "ESPN ADP 99, and the expert sees top 50 upside",
-   "until": "",
-   "sources": [
+    "Rqb5GdrSweY:p32",
     "ahNxsoU8Hx4:p62"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "Goes earlier in category leagues",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 2.5 threes per game projected as a forward or center",
+   "detail": "About 2.5 threes per game projected, floor spacer",
    "until": "",
    "sources": [
     "stats",
@@ -268,12 +233,14 @@
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
+   "name": "defensive liability",
    "channel": "durable",
-   "detail": "No category flagged weak",
+   "detail": "Several experts call him a bad defender",
    "until": "",
    "sources": [
-    "stats"
+    "CRLSsoGhb2w:p13",
+    "LM0cRCGoAUQ:p42",
+    "t4n9MAP2_14:p26"
    ],
    "new_meaning": ""
   },
@@ -298,9 +265,19 @@
    "new_meaning": ""
   },
   {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "Expert says he goes earlier in category leagues",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 65 and value 16 USD, ESPN rank 24 and value 32 USD",
+   "detail": "Yahoo rank 70 and value 15 USD, ESPN rank 24 and value 32 USD",
    "until": "",
    "sources": [
     "stats"
@@ -310,7 +287,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, the league minimum",
+   "detail": "Charlotte has 13 back-to-backs, the league minimum",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t5"
@@ -320,7 +297,7 @@
   {
    "name": "three-point heavy",
    "channel": "current",
-   "detail": "Charlotte is leaning fully into spacing",
+   "detail": "Charlotte plans to space the floor and shoot many threes",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:t0"
@@ -330,7 +307,7 @@
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "No LaMelo Ball. White, Knueppel and Miller split the creation",
+   "detail": "No lead creator after the LaMelo Ball trade",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:t3",
@@ -339,6 +316,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Market prices are low: 4.1 USD average cost on Yahoo, 10 USD on ESPN, and 2 USD in our league last season. In a recent mock auction he went for 14 USD, so a 10 to 14 USD bid fits the 55 to 75 rank range experts give him. He suits most builds, mainly teams that want threes and blocks from a big, but he will not help FG% on about 13 shots a game. Early in the season, check that he plays 31 or more minutes as a starter, how much center time he gets next to Diabaté, and whether his FG% holds at 45 or better with the higher usage.",
+ "note": "Reid went for 2 USD in our league last season. This year the markets split: the Yahoo average cost is 4 USD and the ESPN average cost is 13 USD, and in a mock auction he went for 14 USD. The expert consensus is a mid-round player (rank about 55 to 75), so a price of about 10 to 14 USD is fair, and he is a good fit for builds that want threes and blocks from a F/C without needing a FG% boost. Early in the season, check that he really plays 31 or more minutes at power forward and that his shot volume rises above the 11.3 attempts he took last season.",
  "rejected": []
 }

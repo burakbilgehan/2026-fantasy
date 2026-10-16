@@ -24,34 +24,32 @@
 | REB | 3.4 | -0.7 | -0.9 | - |
 | AST | 2.1 | -0.6 | -0.4 | - |
 | STL | 0.7 | -0.6 | -0.6 | - |
-| BLK | 0.7 | +0.2 | +0.3 | - |
+| BLK | 0.7 | +0.2 | +0.4 | - |
 | TO | 1.8 | -0.3 | -0.4 | - |
 
 </details>
 
 **Current**
-- Grant is in the projected Memphis starting five at small forward, with Ty Jerome, Cedric Coward, Cameron Boozer and Zach Edey. He gets the spot as a trusted veteran. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=441), [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1317), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- His starting role is not secure. Memphis may go younger and bring him off the bench more often. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1179), [09-10](https://youtu.be/dlo7L8Ru91A?t=1969), [06-29](https://youtu.be/bHA-JoW3reE?t=799))
-- Coach Tuomas Iisalo uses an 11 or 12 man rotation and keeps minutes down. Only Boozer and Coward are expected to play more than 30 minutes, so Grant's minutes are capped. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- The newest expert call says he is not worth even a last-round pick in 12-team leagues. It also calls ESPN's rank of about 147 about right. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1197))
-- Memphis plays 4 games in each of our playoff weeks 19, 20 and 21 (season ending March 28). It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- Memphis is expected to be a below-average team of around 10th seed. One expert says it is not trying to tank because of the new tanking rules. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=114), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864))
-- Memphis has three first-round picks in the 2027 draft, which gives it room to make trades. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
-- Grant is a possible trade chip at the deadline or on draft night. A trade could change his role. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1317), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
-- He is expected to be motivated this season because he wants another big NBA contract. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1966))
-- His 2P% rose from 38 to 52 last season. The expert expects it to settle at about 48 to 49, which would lower his FG%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=950))
+- Experts disagree on whether he starts. One preview has him tentatively starting as a trusted veteran. The two newest notes expect him not to start, with Wells starting instead, and one preview warns Memphis may go younger and bring him off the bench. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1974), [10-10](https://youtu.be/hviT4hzYNME?t=2189), [10-07](https://youtu.be/lp11OAEpq4Y?t=441), [10-07](https://youtu.be/lp11OAEpq4Y?t=1179), [09-10](https://youtu.be/dlo7L8Ru91A?t=1969))
+- He is not worth even a last-round pick in 10- or 12-team leagues. ESPN's rank near 147 is about right. Yahoo's rank is too low. (verdict, 2026-10-12; [10-07](https://youtu.be/lp11OAEpq4Y?t=1197), [10-12](https://youtu.be/w66x_I_MaQ8?t=1974))
+- Coach Tuomas Iisalo plays at a very high pace, uses short stints and keeps minutes down. Memphis runs an 11- or 12-man rotation. (fact, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis plays 4 games in each of our playoff weeks (19, 20 and 21) with a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Only Cameron Boozer and Cedric Coward are expected to top 30 minutes, so his minutes are likely capped below that. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- He is a possible trade chip at the deadline. Memphis holds three first-round picks in the 2027 draft, which gives it room to make trades. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1317), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
+- He wants another big NBA contract, so one expert expects him to be motivated to prove his value. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1966))
+- His 2P% is expected to come back down to about 48 to 49 percent after last season's jump to 52. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=950))
 
 **Durable**
-- He is a scoring-only player. He brings threes, points and a good FT%, but his rebounds, assists and steals are low for a forward, and his FG% is weak. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1169), [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
-- His profile has little room to improve. The expert compares him to Harrison Barnes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1169))
-- Coach Tuomas Iisalo plays at a very high pace and uses short, hard stints. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- He is a scoring-only player. His value comes from points, threes and a good FT%. His rebounds, assists and steals are low for a forward. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1169), [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
+- His profile has little room to improve. One expert compares him to Harrison Barnes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1169))
 - He has been much more available than Ja Morant, but he has missed games in March and April before. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=316), [06-29](https://youtu.be/bHA-JoW3reE?t=799))
-- His rim finishing usually sits in the mid-to-high 50s percent. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=950))
+- His rim finishing has mostly been in the mid-to-high 50s. His one season at 44 percent looks like the outlier. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=950))
+- FG% is his weakest category and is weak for a forward. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=776), stats)
 
 **Tags**
-- Current: `minutes competition` (Memphis may go younger and move him to the bench), `trade risk` (possible trade chip at the deadline; Memphis holds three 2027 firsts), `regression risk` (2P% expected to fall from 52 to about 48 to 49), `deep rotation` (11 or 12 man rotation), `low starter minutes` (only Boozer and Coward expected above 30 minutes), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, possibly the league low), `unsettled rotation` (overcrowded roster with cuts still pending)
-- Durable: `punt FG fit` (FG% is his weakest category; he adds threes, points and FT%)
+- Current: `minutes competition` (Wells and younger players may take the starting spot), `trade risk` (Possible trade chip at the deadline), `regression risk` (2P% expected to fall from 52 to about 48 to 49), `waiver watch` (Around the edge of the 144-player pool; watch if he wins a starting job), `deep rotation` (11- or 12-man rotation), `low starter minutes` (Iisalo uses short stints and keeps minutes down), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21 with a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league)
+- Durable: `punt FG fit` (FG% is his weakest category, about 43 to 44 percent projected), `3PM from a big` (About 2.4 threes per game as a forward)
 
-**Note.** Grant sits right at our 144-player cutoff: Yahoo has him at rank 168 and ESPN at 146, both sites value him at 0 USD, and he was not drafted in our league last season. The newest expert call says to skip him in 12-team leagues. Bid 1 USD at most, and only for a punt FG% build that needs about 2.4 threes, 17 points and an 82% FT%. The 4-4-4 playoff schedule is a plus. Early in the season, check whether he keeps the starting job and gets close to 30 minutes in Iisalo's deep rotation, and whether his FG% stays near the 43 to 44% projected.
+**Note.** Grant sits right at the edge of our 144-player pool (Yahoo rank 168, ESPN rank 146, both valued at 0 USD). The newest expert notes doubt he starts, so he is a waiver name, not an auction target. If he does start, he fits a punt FG% build that wants points, threes and FT% from a forward, and Memphis has a 4-4-4 playoff schedule. In the first weeks, check whether he starts over Wells and whether his minutes stay near 30 under Iisalo's short stints.
 
-<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

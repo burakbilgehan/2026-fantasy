@@ -20,18 +20,17 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:52:43+00:00",
+ "built_at": "2026-10-16T12:51:42+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.3620328,
-  "duration_ms": 93887,
+  "cost_usd_list": 0.4395808,
+  "duration_ms": 126165,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
   "aaron-wiggins",
-  "andre-drummond",
   "anfernee-simons",
   "ariel-hukporti",
   "bennedict-mathurin",
@@ -39,6 +38,7 @@
   "bogdan-bogdanovic",
   "brandon-ingram",
   "buddy-hield",
+  "dean-wade",
   "deandre-ayton",
   "demar-derozan",
   "gary-trent",
@@ -50,15 +50,18 @@
   "ja-morant",
   "jaime-jaquez",
   "jaylen-brown",
+  "jeremy-sochan",
   "john-collins",
   "jonathan-kuminga",
   "josh-green",
   "julius-randle",
+  "kasparas-jakucionis",
   "kawhi-leonard",
   "kelel-ware",
   "kelly-oubre",
   "kentavious-caldwell-pope",
   "keon-ellis",
+  "kevin-huerter",
   "kevon-looney",
   "klay-thompson",
   "lamelo-ball",
@@ -71,7 +74,6 @@
   "mike-conley",
   "miles-bridges",
   "mitchell-robinson",
-  "moritz-wagner",
   "naz-reid",
   "nic-claxton",
   "nikola-vucevic",
@@ -88,13 +90,13 @@
   "walker-kessler",
   "ziaire-williams"
  ],
- "summary": "Most players on new teams should be bid at or a little below expert value, because year one usually brings a dip unless minutes rise. The clear exceptions are players whose minutes or role grow, such as Naz Reid, Kel'el Ware, Norman Powell and Peyton Watson. For stars like Giannis Antetokounmpo, LaMelo Ball and Kawhi Leonard, pay the expert price, not the highest site value. On teams with heavy roster turnover (Philadelphia, Milwaukee, Miami, the Clippers), keep FAB ready, because early rotations may not last.",
+ "summary": "Players who change teams usually lose some value in year one, and that includes stars. The exception is a player whose minutes rise in the new role. In our auction, bid stars at the low end of their fair range and pay full fair value only for players with a clearly bigger role, such as Paul George and Naz Reid. Leave back-end players from rebuilt rosters on waivers, and watch the teammates whose minutes these moves open or close.",
  "sections": [
   {
    "heading": "Expect a year-one dip",
    "paragraphs": [
     {
-     "text": "The experts agree on the starting point. When a good player moves, his production usually dips. Even stars often take a hit in their first year while they adjust, and growing pains are normal. A star joining a new team tends to lose some value.",
+     "text": "The notes agree on the default. When a good player moves to a new team, his production usually dips. Stars are no exception. Players often take a hit in their first year while they adjust, and growing pains are normal.",
      "sources": [
       "Rqb5GdrSweY:r0",
       "2A2JbUN-kc0:r9",
@@ -103,174 +105,181 @@
      ]
     },
     {
-     "text": "In our auction this means one rule: do not pay the highest site value for a new-team star. ESPN's 50 USD for LaMelo Ball and 40 USD for Kawhi Leonard are both called too high. Keep LaMelo to the mid 30s and Kawhi near 24 USD. For Giannis Antetokounmpo, plan around 60 to 62 USD, which is the expert price. Do not chase above it.",
+     "text": "For our auction, do not pay last season's price for a moved player unless his minutes are set to rise. Jaylen Brown is the clearest case. His 29 USD in our league last season paid for a 36% usage role he no longer has, so the fair range is now 20 to 24 USD. Ja Morant cost 17 USD last season, and experts now value him near 5 USD.",
      "sources": [
       "nnWX_ObljOE:r3",
-      "player:lamelo-ball",
-      "player:kawhi-leonard",
-      "player:giannis-antetokounmpo"
+      "player:jaylen-brown",
+      "player:ja-morant"
      ]
     },
     {
-     "text": "LeBron James and Jaylen Brown both moved to Philadelphia. Cap LeBron at 25 USD and do not pay up to his Yahoo rank. Brown is fair at about 23 USD, not the 29 USD our league paid last season. Both fit punt TO builds.",
+     "text": "Brown's note expects growing pains in October and November to hold his scoring down. So a slow first month from a moved star is what the notes predict. Check his minutes before you react. If the minutes are where they should be, a slow start fits the adjustment pattern and is not a reason to sell.",
      "sources": [
-      "2A2JbUN-kc0:r9",
-      "player:lebron-james",
+      "LM0cRCGoAUQ:r5",
+      "nnWX_ObljOE:r4",
       "player:jaylen-brown"
      ]
     }
    ]
   },
   {
-   "heading": "Minutes decide which way value moves",
+   "heading": "Minutes decide rise or fall",
    "paragraphs": [
     {
-     "text": "More minutes can offset the adjustment hit. A changed role can also raise a player's value a lot, so judge last season's ranks in context. In our league the best new-team values are the players whose minutes rise. Naz Reid needs 31 or more minutes as a starter in Charlotte. Kel'el Ware needs Jenkins to start him or play him 26 or more minutes, which is the gap between a 70s to 80s rank and the top 40s. Peyton Watson has a minutes floor of 30 or more in Cleveland. Norman Powell is valuable only while he stays Chicago's top usage option.",
+     "text": "More minutes on the new team can offset the adjustment hit. Judge last season's rank in context: role, teammates, injuries and minutes. A change in usage and minutes can raise a player's value a lot.",
      "sources": [
       "nnWX_ObljOE:r4",
-      "tnzmsYUA4yQ:r7",
-      "player:naz-reid",
-      "player:kelel-ware",
-      "player:peyton-watson",
-      "player:norman-powell"
+      "tnzmsYUA4yQ:r7"
      ]
     },
     {
-     "text": "A player moving to a deeper team can lose usage and still gain value, because his minutes and role become more stable. The reverse also holds. A move to a weaker team does not mean bigger numbers by itself, because usage can rise while playing time falls. So for Julius Randle in Brooklyn, check both things: whether his usage really rises toward 30 and whether his minutes hold near 32.",
+     "text": "Likely risers have a bigger role. Paul George should be Boston's number two option, and experts call 10 to 15 USD good value. Naz Reid is fair at 10 to 14 USD if he plays 31 or more minutes at power forward and takes more than last season's 11.3 shots. Peyton Watson has a secure 30-minute starting job at a last-dollar price. John Collins starts at power forward in Detroit, but his upside is small.",
      "sources": [
-      "rnq3118kfhY:r0",
+      "nnWX_ObljOE:r4",
+      "player:paul-george",
+      "player:naz-reid",
+      "player:peyton-watson",
+      "player:john-collins"
+     ]
+    },
+    {
+     "text": "Usage alone is not enough. A player who moves from a good team to a bad one can see his usage rise while his playing time falls. A player who moves to a deeper team can lose usage and still gain value, because his minutes and role become more stable. Norman Powell should be Chicago's top usage option, and Julius Randle's usage should rise toward 30 in Brooklyn. Still, check that Randle holds near 32 minutes and that Powell keeps his share next to Caleb Wilson.",
+     "sources": [
       "3UGI05PDvrE:r2",
+      "rnq3118kfhY:r0",
+      "player:norman-powell",
       "player:julius-randle"
      ]
     },
     {
-     "text": "The experts disagree on how much to discount. One side says new-team players, stars included, usually dip in year one and lose value. The other side says usage and minutes changes on a new team can raise value a lot, and that a more stable role can add value even with lower usage. Our plan follows both: discount by default, then pay up only when the new role clearly brings more minutes.",
+     "text": "Likely fallers have fewer minutes or a smaller role. Morant may come off the bench for 27 to 28 minutes behind Lillard, Holiday and Henderson. DeRozan projects for about 29 bench minutes. Vučević is now Wendell Carter Jr.'s backup. Tobias Harris likely comes off the bench. Miles Bridges needs a big shot share next to Booker, Jalen Green and Brooks. Bennedict Mathurin's projected volume drops to 8.2 shots on a crowded Pelicans team.",
+     "sources": [
+      "nnWX_ObljOE:r3",
+      "player:ja-morant",
+      "player:demar-derozan",
+      "player:nikola-vucevic",
+      "player:tobias-harris",
+      "player:miles-bridges",
+      "player:bennedict-mathurin"
+     ]
+    },
+    {
+     "text": "The experts disagree on how much weight the dip deserves. One side treats it as the default for anyone who moves, stars included. The other side says a new role can raise value a lot, and that a deeper team can help through more stable minutes. Both sides use minutes as the deciding check. In practice, bid moved stars at the low end of their range. Do not discount players whose minutes are clearly going up.",
      "sources": [
       "2A2JbUN-kc0:r9",
       "nnWX_ObljOE:r3",
       "tnzmsYUA4yQ:r7",
-      "rnq3118kfhY:r0",
-      "nnWX_ObljOE:r4"
+      "rnq3118kfhY:r0"
      ]
     }
    ]
   },
   {
-   "heading": "Heavy turnover teams: rotations may flip",
+   "heading": "Rebuilt rosters and stacked stars",
    "paragraphs": [
     {
-     "text": "Teams with a lot of roster turnover tend to be rocky in year one. Adding stars to existing stars has historically been choppy at first. Coaches may try a setup for around 15 games and then reverse it. That makes the back-end fantasy players on these teams uncertain.",
-     "sources": [
-      "gTsfR5PxAMY:r0",
-      "_WjOjp6Qu8E:r3"
-     ]
-    },
-    {
-     "text": "Philadelphia fits this pattern. LeBron James and Jaylen Brown join Maxey and Embiid, with Anfernee Simons and Kentavious Caldwell-Pope behind them. Check whether LeBron really plays point guard and gets near 8 assists, and how much usage Brown keeps. Simons and Caldwell-Pope are waiver names only, mainly when Embiid or LeBron sit.",
+     "text": "Teams with heavy roster turnover tend to be rocky in year one. It goes more smoothly when the main core stays. Adding stars to existing stars has historically been choppy at first. Our list has three such cases: Philadelphia adds LeBron James and Brown next to Embiid, Boston adds George next to Tatum, and Minnesota adds LaMelo Ball next to Edwards.",
      "sources": [
       "gTsfR5PxAMY:r0",
       "player:lebron-james",
       "player:jaylen-brown",
-      "player:anfernee-simons",
-      "player:kentavious-caldwell-pope"
+      "player:paul-george",
+      "player:lamelo-ball"
      ]
     },
     {
-     "text": "Milwaukee and Miami both reshaped after the Giannis trade, and the Clippers changed after the Kawhi deal. Treat their back-end players as 1 USD flyers or waiver names: Jaime Jaquez Jr., Gary Trent Jr., Bobby Portis Jr., Tim Hardaway Jr., Klay Thompson, Rui Hachimura, Max Strus and Gradey Dick. Do not cut or chase them on week one minutes alone, since the first setup may not last 15 games.",
+     "text": "On rebuilt teams, coaches may try a setup for about 15 games and then reverse it, so back-end players there are uncertain. By our list, Philadelphia has six new players and Milwaukee has five. Miami, the Clippers and the Lakers have four each. Pay no more than 1 USD for back-end players from these teams, such as Jaime Jaquez Jr., Rui Hachimura and Sandro Mamukelashvili. Treat a new starter on these teams as a 15-game trial. Do not spend big FAB after one hot week.",
      "sources": [
       "_WjOjp6Qu8E:r3",
       "player:jaime-jaquez",
+      "player:rui-hachimura",
+      "player:sandro-mamukelashvili"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Ripple effects on teammates",
+   "paragraphs": [
+    {
+     "text": "A move also changes the picture for the player's new teammates and for the team he left. Track these knock-on roles as closely as the moved player himself.",
+     "sources": [
+      "Rqb5GdrSweY:r0"
+     ]
+    },
+    {
+     "text": "Giannis trade. Milwaukee's backcourt is crowded. Tyler Herro needs 34 to 35 minutes. Jaquez has to keep his starting spot and his assists while Herro and Rollins handle the ball. Kasparas Jakučionis is fighting Gary Trent Jr. for a rotation spot. Kel'el Ware's value depends on whether Taylor Jenkins starts him next to Myles Turner. In Miami, Bobby Portis gets the minutes behind Giannis and Bam Adebayo, and Tim Hardaway Jr. may take starter minutes from Klay Thompson.",
+     "sources": [
+      "player:giannis-antetokounmpo",
+      "player:tyler-herro",
+      "player:jaime-jaquez",
+      "player:kasparas-jakucionis",
       "player:gary-trent",
+      "player:kelel-ware",
       "player:bobby-portis",
       "player:tim-hardaway",
-      "player:klay-thompson",
+      "player:klay-thompson"
+     ]
+    },
+    {
+     "text": "LaMelo Ball deal. The check on Ball is whether his usage and assists hold up next to Edwards. In Charlotte, Reid moves into power forward minutes. Coby White and Kon Knueppel are injured, which opens short-term minutes for Grayson Allen and Royce O'Neale. Both are only three-point streamers.",
+     "sources": [
+      "player:lamelo-ball",
+      "player:naz-reid",
+      "player:grayson-allen",
+      "player:royce-oneale"
+     ]
+    },
+    {
+     "text": "Kawhi Leonard deal. Brandon Ingram is out with a partially torn Achilles until somewhere between Thanksgiving and Christmas. While he is out, Hachimura has a chance at 30-plus minutes and more shots, and Max Strus may get his assists back near 4. Their chance depends on Ingram being out. Gradey Dick is likely out of the rotation.",
+     "sources": [
+      "player:kawhi-leonard",
+      "player:brandon-ingram",
       "player:rui-hachimura",
       "player:max-strus",
       "player:gradey-dick"
      ]
-    }
-   ]
-  },
-  {
-   "heading": "Ripple effects on teammates and old teams",
-   "paragraphs": [
-    {
-     "text": "The Giannis deal moves value both ways. In Milwaukee, Tyler Herro needs about 34 minutes in a crowded backcourt. Ware's value rests on Jenkins' choices. Jaquez's assists are expected to fall among the many guards. In Miami, Portis holds the minutes behind Giannis and Bam Adebayo, so add him fast if either one misses time.",
-     "sources": [
-      "Rqb5GdrSweY:r0",
-      "player:tyler-herro",
-      "player:kelel-ware",
-      "player:jaime-jaquez",
-      "player:bobby-portis"
-     ]
     },
     {
-     "text": "The LaMelo trade does the same. In Minnesota, check that LaMelo's assists hold next to Edwards and that his minutes reach about 32. Jonathan Kuminga must win starter minutes (around 28) to matter. In Charlotte, Reid gets more usage, but watch his center time next to Diabaté and whether his FG% holds at 45 or better. Royce O'Neale and Grayson Allen only gain if Knueppel and White stay out.",
+     "text": "Backup bigs only matter when the starter sits. If Walker Kessler gets hurt, Mamukelashvili is the first Lakers center to add, then Kevon Looney. The same applies to Deandre Ayton when Davis is out, Marvin Bagley III when Jokic is out, Isaiah Stewart when Edey is out and Vučević when Carter is out. Ariel Hukporti's season-ending injury leaves Philadelphia thin behind Embiid, but experts expect no useful fill-in there. Leave these players on waivers and save FAB to add them the day an injury hits.",
      "sources": [
-      "Rqb5GdrSweY:r0",
-      "player:lamelo-ball",
-      "player:jonathan-kuminga",
-      "player:naz-reid",
-      "player:royce-oneale",
-      "player:grayson-allen"
-     ]
-    },
-    {
-     "text": "The Boston and Philadelphia swap pushes Paul George into Boston's number two role. Experts expect a top 40 per game return from him at a late-flyer market price. In Boston, Mitchell Robinson's value depends on whether he or Queta starts. Mike Conley matters only if White or Pritchard miss time.",
-     "sources": [
-      "Rqb5GdrSweY:r0",
-      "player:paul-george",
-      "player:mitchell-robinson",
-      "player:mike-conley"
-     ]
-    },
-    {
-     "text": "Several old teams open roles. The Lakers' center job is Walker Kessler's, and Sandro Mamukelashvili is his handcuff ahead of Kevon Looney. In Chicago, Powell is the top usage option, and Nic Claxton must hold off Jalen Smith and Zach Collins. In Detroit, John Collins needs 30 to 31 minutes. In Memphis, Isaiah Stewart only matters if Zach Edey misses time. In Denver, DeMar DeRozan needs an injury or trade involving Braun or Johnson.",
-     "sources": [
-      "Rqb5GdrSweY:r0",
       "player:walker-kessler",
       "player:sandro-mamukelashvili",
       "player:kevon-looney",
-      "player:norman-powell",
-      "player:nic-claxton",
-      "player:john-collins",
+      "player:deandre-ayton",
+      "player:marvin-bagley",
       "player:isaiah-stewart",
-      "player:demar-derozan"
+      "player:nikola-vucevic",
+      "player:ariel-hukporti",
+      "player:dean-wade"
      ]
     }
    ]
   },
   {
-   "heading": "Draft day and in-season plan",
+   "heading": "What to check, and when",
    "paragraphs": [
     {
-     "text": "On 2026-10-18, pay expert prices for the new-team stars and look for value in the 10 to 16 USD range. Good targets are Reid at 10 to 14 USD, Ware up to about 13 USD, Herro at 14 to 16 USD, and George up to 13 USD or a bit more. Kessler is fair at 12 to 15 USD. Fill the last rounds with 1 to 3 USD players whose minutes may rise. Do not pay more than a few USD for Miles Bridges, who every recent expert note calls a bust in Phoenix.",
+     "text": "In the first two to three weeks, compare each moved player's minutes with his projection. The targets are: Giannis 32 to 33, Ball 30 to 32, Brown 36 or more, Reid 31 or more, Herro 34 to 35, Randle about 32 and Ware above 25. A player who reaches his target is past the main risk. A player who falls short is a candidate to sell or drop before the dip shows up in your weekly matchups.",
      "sources": [
       "nnWX_ObljOE:r4",
+      "player:giannis-antetokounmpo",
+      "player:lamelo-ball",
+      "player:jaylen-brown",
       "player:naz-reid",
-      "player:kelel-ware",
       "player:tyler-herro",
-      "player:paul-george",
-      "player:walker-kessler",
-      "player:miles-bridges"
+      "player:julius-randle",
+      "player:kelel-ware"
      ]
     },
     {
-     "text": "In the first two weeks, check minutes and usage for every new-team player you own. Remember that coaches may reverse a setup after about 15 games. Keep FAB and some of your 6 weekly adds for handcuffs whose role can jump overnight: Portis, Mamukelashvili, Stewart, Andre Drummond and Marvin Bagley III.",
+     "text": "Watch for trades before the 2027-03-04 deadline. If Powell is moved to a contender, his value drops right before our playoffs. Herro and Jaquez also have trade talk to watch. A player traded at the deadline starts a new adjustment just as weeks 19 to 21 begin. Brooklyn may rest Randle in March, during our playoffs.",
      "sources": [
-      "_WjOjp6Qu8E:r3",
-      "player:bobby-portis",
-      "player:sandro-mamukelashvili",
-      "player:isaiah-stewart",
-      "player:andre-drummond",
-      "player:marvin-bagley"
-     ]
-    },
-    {
-     "text": "Plan around the 2027-03-04 trade deadline. A trade of Powell to a contender would gut his value before our playoffs. Herro also faces trade talk. Consider moving both before the deadline if the rumors grow.",
-     "sources": [
+      "Rqb5GdrSweY:r0",
       "player:norman-powell",
-      "player:tyler-herro"
+      "player:tyler-herro",
+      "player:jaime-jaquez",
+      "player:julius-randle"
      ]
     }
    ]
@@ -279,290 +288,300 @@
  "players": [
   {
    "slug": "giannis-antetokounmpo",
-   "tier": "Core targets",
-   "line": "A clear top 5 category player even with a new-team dip, so pay the expert price and check that he gets 32 to 33 minutes and handles the ball in Miami."
+   "tier": "Stars, pay fair",
+   "line": "Experts still see a clear top-5 category player, but check that he gets 32 to 33 minutes and whether he runs point in Miami."
   },
   {
    "slug": "lamelo-ball",
-   "tier": "Core targets",
-   "line": "Elite threes and assists for punt FG% and punt TO builds, but check that his assists hold next to Edwards and his minutes reach about 32."
+   "tier": "Stars, pay fair",
+   "line": "A top-20 category talent near 30 USD, but his usage and assists next to Edwards are the year-one risk."
   },
   {
    "slug": "kawhi-leonard",
-   "tier": "Core targets",
-   "line": "He fits any build per game, but knee rest and three Toronto back-to-backs in our playoff weeks make games played the real question."
+   "tier": "Stars, pay fair",
+   "line": "A top-10 per-game player whose knee and Toronto's back-to-backs make him a buy only at 20 to 24 USD."
   },
   {
-   "slug": "naz-reid",
-   "tier": "Value at price",
-   "line": "A move where minutes rise: higher usage as a Charlotte starter gives threes and blocks from a big, if he holds 31 or more minutes."
+   "slug": "lebron-james",
+   "tier": "Stars, pay fair",
+   "line": "Moving to Philadelphia next to Embiid is a stars-on-stars fit that can be choppy, so his value depends on playing point guard and how much Nurse rests him."
   },
   {
-   "slug": "kelel-ware",
-   "tier": "Value at price",
-   "line": "Cheap REB, BLK and FG% help whose value jumps if Jenkins starts him or plays him 26 or more minutes in Milwaukee."
-  },
-  {
-   "slug": "tyler-herro",
-   "tier": "Value at price",
-   "line": "A no-weak-category scorer, but he needs about 34 minutes in Milwaukee's crowded backcourt and may face trade talk."
+   "slug": "jaylen-brown",
+   "tier": "Stars, pay fair",
+   "line": "His value falls with the loss of his 36% usage role, and only 36-plus minutes would offset that."
   },
   {
    "slug": "paul-george",
    "tier": "Value at price",
-   "line": "As Boston's number two option, experts expect a top 40 per game return at a late-flyer market price."
+   "line": "His role grows as Boston's number two option, and experts call him underpriced, with top-30 upside."
   },
   {
-   "slug": "norman-powell",
+   "slug": "naz-reid",
    "tier": "Value at price",
-   "line": "Points and threes while he stays Chicago's top usage option, but a deadline trade to a contender would gut his value."
+   "line": "The trade gives him power forward minutes in Charlotte, a clear minutes riser if he reaches 31 or more minutes and more shots."
   },
   {
-   "slug": "walker-kessler",
+   "slug": "kelel-ware",
    "tier": "Value at price",
-   "line": "A three-category center for punt FT builds as the Lakers' starter, but let others pay for his small-sample gains."
+   "line": "A cheap source of rebounds, blocks and FG% whose value rises if Jenkins starts him and he plays more than 25 minutes."
   },
   {
-   "slug": "jaylen-brown",
+   "slug": "tyler-herro",
    "tier": "Value at price",
-   "line": "A punt TO fit whose usage next to Maxey, Embiid and LeBron is the year-one risk on a stars-on-stars team."
-  },
-  {
-   "slug": "lebron-james",
-   "tier": "Value at price",
-   "line": "Forward assists and FG% volume for punt TO builds, but he is capped by rest days and the shot split on a crowded Philadelphia team."
+   "line": "He has no weak category, but Milwaukee's crowded guard group puts his 34 to 35 minutes at risk."
   },
   {
    "slug": "julius-randle",
    "tier": "Value at price",
-   "line": "A punt TO forward in Brooklyn whose usage may rise, but check that his minutes hold near 32."
+   "line": "His usage should rise toward 30 in Brooklyn, but March rest could hit our playoff weeks."
   },
   {
-   "slug": "peyton-watson",
-   "tier": "Late flyers",
-   "line": "A cheap starter with a 30-plus minutes floor and strong blocks, if his blocks hold next to Mobley and Allen."
+   "slug": "norman-powell",
+   "tier": "Value at price",
+   "line": "Chicago's top usage option at a low price, but a deadline trade to a contender would cut his value."
+  },
+  {
+   "slug": "walker-kessler",
+   "tier": "Capped price",
+   "line": "A rebounds, blocks and FG% anchor whose Yahoo price is too high, so stop near 15 USD."
   },
   {
    "slug": "ja-morant",
-   "tier": "Late flyers",
-   "line": "Cheap assists, points and FT% for punt TO builds, if he keeps usage next to Lillard and Holiday."
+   "tier": "Capped price",
+   "line": "His role shrinks in Portland behind Lillard, Holiday and Henderson, so do not chase last season's price."
   },
   {
-   "slug": "john-collins",
-   "tier": "Late flyers",
-   "line": "A low-upside high FG% big in Detroit who needs 30 to 31 minutes."
-  },
-  {
-   "slug": "nic-claxton",
-   "tier": "Late flyers",
-   "line": "Punt FT% center whose value rests on holding Chicago's starting job and close to 30 minutes."
+   "slug": "miles-bridges",
+   "tier": "Capped price",
+   "line": "He needs a big shot share next to Booker, Green and Brooks, so treat him as a 1 to 4 USD end-of-draft forward."
   },
   {
    "slug": "brandon-ingram",
    "tier": "Late flyers",
-   "line": "Only a cheap IL stash for punt TO builds while his partially torn Achilles heals."
+   "line": "A 1 to 3 USD IL stash who can be the Clippers' top option once he is back from the Achilles injury."
+  },
+  {
+   "slug": "john-collins",
+   "tier": "Late flyers",
+   "line": "A starting power forward in Detroit who adds FG% and rebounds for a few dollars, but has little upside."
   },
   {
    "slug": "demar-derozan",
    "tier": "Late flyers",
-   "line": "A bench scorer in Denver who needs an injury or trade involving Braun or Johnson to reach 30-plus minutes."
+   "line": "A bench role in Denver cuts his value to a 1 to 3 USD pick unless a starter gets hurt."
   },
   {
-   "slug": "tobias-harris",
+   "slug": "peyton-watson",
    "tier": "Late flyers",
-   "line": "A no-weak-category filler at the end of the draft, if his calf heals and he starts at power forward in San Antonio."
+   "line": "A secure 30-minute starting job in Cleveland makes him a last-dollar buy for blocks."
   },
   {
-   "slug": "rui-hachimura",
+   "slug": "nic-claxton",
    "tier": "Late flyers",
-   "line": "Starts at power forward for the Clippers and may get 30 minutes while Ingram is out, or he goes back to waivers."
-  },
-  {
-   "slug": "sandro-mamukelashvili",
-   "tier": "Late flyers",
-   "line": "The Lakers' backup center and Kessler handcuff, with threes from a big."
-  },
-  {
-   "slug": "jaime-jaquez",
-   "tier": "Late flyers",
-   "line": "His assists are expected to fall among Milwaukee's many guards, so he is only a 1 USD flyer."
-  },
-  {
-   "slug": "jonathan-kuminga",
-   "tier": "Late flyers",
-   "line": "A 1 USD flyer only if he wins starter minutes in Minnesota, and a quick cut if not."
+   "line": "A 1 to 2 USD flyer whose value depends on his hamstring and holding 28 to 30 minutes in Chicago."
   },
   {
    "slug": "nikola-vucevic",
    "tier": "Late flyers",
-   "line": "Now a bench center in Orlando, so only a late Wendell Carter Jr. handcuff."
+   "line": "Now Carter's backup, so he is a 1 USD handcuff, and you should drop him fast if he stays near 15 to 20 minutes."
   },
   {
-   "slug": "miles-bridges",
-   "tier": "Avoid at price",
-   "line": "His usage shrinks behind Booker, Green and Brooks, and every recent expert note calls him a bust."
+   "slug": "rui-hachimura",
+   "tier": "Late flyers",
+   "line": "He is a new starter on a rebuilt Clippers team, and his chance at more minutes is tied to Ingram's absence."
+  },
+  {
+   "slug": "sandro-mamukelashvili",
+   "tier": "Late flyers",
+   "line": "A 1 to 3 USD stash whose minutes jump past 30 if Kessler gets hurt."
+  },
+  {
+   "slug": "jaime-jaquez",
+   "tier": "Late flyers",
+   "line": "A back-end player on a rebuilt Milwaukee team, so his starting spot and assists are uncertain."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "tier": "Late flyers",
+   "line": "A last-dollar scorer to drop quickly if he does not keep starting and play more than 21 minutes."
+  },
+  {
+   "slug": "tobias-harris",
+   "tier": "Late flyers",
+   "line": "A calf strain and a likely bench role cap his minutes, so pay 1 USD at most."
   },
   {
    "slug": "mitchell-robinson",
-   "tier": "Waiver watch",
-   "line": "A punt FT% streamer whose value depends on whether he or Queta starts in Boston."
+   "tier": "Late flyers",
+   "line": "A 1 USD punt FT% center only if he starts over Queta and plays more than 22 minutes."
   },
   {
-   "slug": "isaiah-stewart",
-   "tier": "Waiver watch",
-   "line": "A FAB target only if Edey misses time and Stewart starts in Memphis."
+   "slug": "grayson-allen",
+   "tier": "Late flyers",
+   "line": "Charlotte's injuries may give him a starting spot, but he is a 1 USD pick at most and easy to drop."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Late flyers",
+   "line": "With Ingram out he could get back to a bigger role, but his foot status makes him a 1 USD pick at most."
   },
   {
    "slug": "bobby-portis",
    "tier": "Waiver watch",
-   "line": "Holds the minutes behind Giannis and Adebayo, so add him fast if either one misses time."
+   "line": "Add him fast if Giannis or Adebayo misses time, because the minutes behind them are his."
   },
   {
-   "slug": "andre-drummond",
+   "slug": "isaiah-stewart",
    "tier": "Waiver watch",
-   "line": "Towns handcuff whose backup role could grow to around 29 minutes."
-  },
-  {
-   "slug": "marvin-bagley",
-   "tier": "Waiver watch",
-   "line": "Add him when Jokic misses time for points, rebounds and FG%."
+   "line": "As Edey's backup he only matters when Edey is out."
   },
   {
    "slug": "deandre-ayton",
    "tier": "Waiver watch",
-   "line": "Only matters if an Anthony Davis absence pushes him toward 30 minutes in Washington."
+   "line": "A bench big who could get 30-minute roles when Davis is out."
   },
   {
-   "slug": "grayson-allen",
+   "slug": "marvin-bagley",
    "tier": "Waiver watch",
-   "line": "A punt FG% threes add only if he starts while Knueppel and White are out."
+   "line": "A waiver add for points, rebounds and FG% when Jokic misses time."
   },
   {
-   "slug": "royce-oneale",
+   "slug": "kevon-looney",
    "tier": "Waiver watch",
-   "line": "A short-term threes add only if Charlotte's absences push him clearly above his projected minutes."
+   "line": "Only relevant if Kessler is hurt, and even then Mamukelashvili comes first."
   },
   {
    "slug": "tim-hardaway",
    "tier": "Waiver watch",
-   "line": "A threes streamer only if he takes starter minutes from Klay Thompson in Miami."
+   "line": "A possible waiver add for threes if he takes starter minutes from Klay Thompson."
   },
   {
-   "slug": "anfernee-simons",
+   "slug": "klay-thompson",
    "tier": "Waiver watch",
-   "line": "A sixth man behind four high-usage stars, worth a look only when Embiid or LeBron sit."
+   "line": "Threes come with a 40% FG%, so check whether he really starts and plays more than 20 minutes."
   },
   {
-   "slug": "max-strus",
+   "slug": "royce-oneale",
    "tier": "Waiver watch",
-   "line": "Upside if he gets back to a 32-minute role with Ingram out, but check his foot first."
+   "line": "Only a short-term three-point streamer while Charlotte's injuries last."
   },
   {
    "slug": "bennedict-mathurin",
    "tier": "Waiver watch",
-   "line": "Stuck in a crowded New Orleans rotation unless a trade or injury opens minutes."
-  },
-  {
-   "slug": "isaiah-joe",
-   "tier": "Waiver watch",
-   "line": "A threes streamer who becomes worth holding only if he takes Duncan Robinson's starting spot in Detroit."
-  },
-  {
-   "slug": "santi-aldama",
-   "tier": "Waiver watch",
-   "line": "His value depends almost fully on Dallas frontcourt injuries giving him 25 to 28 minutes."
-  },
-  {
-   "slug": "kelly-oubre",
-   "tier": "Waiver watch",
-   "line": "Only steals and low turnovers, so watch for an Indiana wing injury that pushes him past 30 minutes."
+   "line": "His volume falls as a bench scorer on a crowded Pelicans team."
   },
   {
    "slug": "luguentz-dort",
    "tier": "Waiver watch",
-   "line": "A sixth man in Atlanta who matters only if he starts over McCollum or a guard gets hurt."
-  },
-  {
-   "slug": "keon-ellis",
-   "tier": "Waiver watch",
-   "line": "Steals and low turnovers become useful only if he reaches about 27 minutes in Brooklyn."
-  },
-  {
-   "slug": "ziaire-williams",
-   "tier": "Waiver watch",
-   "line": "A steals and threes pickup only if he starts and reaches 30 minutes for the Lakers."
-  },
-  {
-   "slug": "luke-kennard",
-   "tier": "Waiver watch",
-   "line": "A threes streamer only if he really gets about eight three-point attempts a game off Phoenix's bench."
-  },
-  {
-   "slug": "marcus-smart",
-   "tier": "Waiver watch",
-   "line": "A streamer only when VanVleet sits, hurt by weak FG% and Houston's 10-game playoff schedule."
+   "line": "A deep-league sixth man who only matters if he starts or a guard gets hurt."
   },
   {
    "slug": "aaron-wiggins",
    "tier": "Waiver watch",
-   "line": "Needs minutes from Dort or an Atlanta starter injury, plus a return of his FG%."
+   "line": "Watch him for minutes taken from Dort or an Atlanta starter's injury."
   },
   {
-   "slug": "klay-thompson",
-   "tier": "Deep waiver only",
-   "line": "Threes come with poor FG% and rest days on a team with only 10 playoff games."
+   "slug": "santi-aldama",
+   "tier": "Waiver watch",
+   "line": "A low-20s bench role in Dallas, so he becomes a waiver add only if the frontcourt opens up."
+  },
+  {
+   "slug": "kelly-oubre",
+   "tier": "Waiver watch",
+   "line": "A 14- to 16-team player who needs a wing injury to get past 30 minutes."
+  },
+  {
+   "slug": "kevin-huerter",
+   "tier": "Waiver watch",
+   "line": "He may not even make Detroit's rotation over Prince."
+  },
+  {
+   "slug": "isaiah-joe",
+   "tier": "Waiver watch",
+   "line": "A starting role over Duncan Robinson would make him a 3PM and TO streamer."
+  },
+  {
+   "slug": "keon-ellis",
+   "tier": "Waiver watch",
+   "line": "He only matters if he wins the starting job over Mikel Brown Jr. and plays about 27 minutes."
+  },
+  {
+   "slug": "anfernee-simons",
+   "tier": "Waiver watch",
+   "line": "A bench guard on a rebuilt Philadelphia team who only matters if several starters are out."
   },
   {
    "slug": "gradey-dick",
-   "tier": "Deep waiver only",
-   "line": "Outside the Clippers' rotation, and even with minutes he offers little beyond FT%."
+   "tier": "Waiver watch",
+   "line": "Experts leave him out of the Clippers' rotation, despite site projections."
   },
   {
-   "slug": "kentavious-caldwell-pope",
-   "tier": "Deep waiver only",
-   "line": "A bench guard in Philadelphia who needs Embiid or LeBron to miss games before he gets real minutes."
+   "slug": "luke-kennard",
+   "tier": "Waiver watch",
+   "line": "A possible playoff three-point streamer if his attempts rise and his knee holds up."
+  },
+  {
+   "slug": "ziaire-williams",
+   "tier": "Waiver watch",
+   "line": "Only a pickup if he starts and reaches 30 minutes."
+  },
+  {
+   "slug": "marcus-smart",
+   "tier": "Waiver watch",
+   "line": "A bench player to pick up when VanVleet misses games."
   },
   {
    "slug": "gary-trent",
-   "tier": "Deep waiver only",
-   "line": "Only matters if he wins steady minutes in Milwaukee's crowded backcourt."
+   "tier": "Waiver watch",
+   "line": "Milwaukee's crowded backcourt limits him to a 3PM streamer if Jenkins gives him minutes."
+  },
+  {
+   "slug": "kasparas-jakucionis",
+   "tier": "Waiver watch",
+   "line": "A key trade piece whose rotation spot against Trent is still uncertain."
+  },
+  {
+   "slug": "kentavious-caldwell-pope",
+   "tier": "Waiver watch",
+   "line": "Not a fantasy option unless injuries open real guard minutes in Philadelphia."
+  },
+  {
+   "slug": "jeremy-sochan",
+   "tier": "Waiver watch",
+   "line": "Experts do not see the doubled minutes ESPN projects for him."
   },
   {
    "slug": "buddy-hield",
-   "tier": "Deep waiver only",
-   "line": "A short-term threes streamer at most behind Tre Jones in Chicago."
+   "tier": "Waiver watch",
+   "line": "A bench shooter who needs a Chicago guard injury or a buyout to matter."
+  },
+  {
+   "slug": "dean-wade",
+   "tier": "Waiver watch",
+   "line": "Philadelphia's thin backup center group is his only path to minutes, and experts doubt it helps."
   },
   {
    "slug": "bogdan-bogdanovic",
-   "tier": "Deep waiver only",
-   "line": "Houston's last rotation player, worth a look only after early guard injuries."
-  },
-  {
-   "slug": "kevon-looney",
-   "tier": "Deep waiver only",
-   "line": "Third in line for Lakers center minutes behind Kessler and Mamukelashvili."
+   "tier": "Waiver watch",
+   "line": "The last man in a deep Houston guard group."
   },
   {
    "slug": "mike-conley",
-   "tier": "Deep waiver only",
-   "line": "Only if White or Pritchard miss time and his backup minutes clearly grow."
-  },
-  {
-   "slug": "moritz-wagner",
-   "tier": "Deep waiver only",
-   "line": "A short-term pickup only if Sharpe misses time in Brooklyn."
+   "tier": "Waiver watch",
+   "line": "Only worth a look if White or Pritchard misses time."
   },
   {
    "slug": "josh-green",
-   "tier": "Deep waiver only",
-   "line": "Only if Utah wing injuries move him into a starting role."
-  }
- ],
- "excluded": [
+   "tier": "Waiver watch",
+   "line": "A reserve on a crowded Utah team who needs injuries to get starter minutes."
+  },
   {
    "slug": "ariel-hukporti",
-   "reason": "A second torn Achilles rules him out for the whole 2026-27 season, so he has no draft or waiver value for us."
+   "tier": "Skip",
+   "line": "Out for the season with a torn Achilles, so do not spend an IL slot on him."
   }
  ],
+ "excluded": [],
  "rejected": []
 }

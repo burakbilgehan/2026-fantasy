@@ -1,0 +1,596 @@
+{
+ "video": {
+  "id": "gsx_UDkVPd0",
+  "title": "New Orleans Pelicans Fantasy Basketball Preview [26/27 NBA Season]",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-10",
+  "duration": "35:13",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-16T07:35:33+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.271316,
+  "duration_ms": 62007,
+  "turns": 2,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the 2026-27 New Orleans Pelicans for fantasy. He calls the roster crowded and badly built: as many as 10 players could get drafted, but there is not enough usage or minutes to go around under new coach Jamahl Mosley. His best target is Dejounte Murray, who should beat his ranks if he gets 33 minutes. His main fade is Trey Murphy III at his Yahoo rank of 28, especially in points leagues. He is down on Zion Williamson because his usage dropped, and he sees Herb Jones as steals only. He likes Jeremiah Fears and Derik Queen as late swings, and Queen is the best stash if Zion gets hurt or traded. The schedule is good for leagues ending March 28 but has a two-game week in the second-to-last week, and the team has a league-high 16 back-to-backs.",
+ "rules": [
+  {
+   "text": "The speaker calls the standard nine-category season rankings flawed. If you trust them, you also have to accept odd results like Giannis ranked 70th.",
+   "ts": "6:45",
+   "quote": "Murphy on if you use the flawed nine-cat rankings, was 12th in those rankings.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 405
+  },
+  {
+   "text": "Late-season stats against tanking teams, with many players out and 40-plus minutes, should be treated as inflated or fake.",
+   "ts": "19:10",
+   "quote": "They were playing against a bunch of teams who weren't trying. They had a bunch of guys that were out.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1170
+  },
+  {
+   "text": "Watch out for roster crowding. Adding more high-usage players cuts each player's usage and fantasy value.",
+   "ts": "30:37",
+   "quote": "Especially we are adding more usage into the mix with a full season of Dejounte, a second season of Fears",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1857
+  },
+  {
+   "text": "Players who only bring volume scoring need usage a good team would not give them. Be wary of that archetype.",
+   "ts": "21:15",
+   "quote": "A guy that needs to be in a situation where he's getting more usage than a good team would ever afford him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1279
+  },
+  {
+   "text": "Late-round picks are for high-upside flyers whose value depends on more minutes.",
+   "ts": "25:57",
+   "quote": "If you want to take a flyer on him, like this is what the flyer zone is for.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1580
+  },
+  {
+   "text": "Stash players with injury or trade upside are best in draft-only, best ball, roto, games-cap head-to-head and deep-bench formats.",
+   "ts": "31:09",
+   "quote": "Draft only's best balls, rotos, games cap head-to-heads, deep benches,",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1896
+  },
+  {
+   "text": "Check the schedule around your league's end date. Yahoo's default end of April 4 can put a two-game week in your finals.",
+   "ts": "32:41",
+   "quote": "If you had a default though, Yahoo default, ending April 4th, the dreaded two-game week appears in your finals match-up.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1979
+  },
+  {
+   "text": "Two-game weeks in the playoffs matter most to avoid for first- and second-round players.",
+   "ts": "33:12",
+   "quote": "those two-game weeks are more important to avoid when we're talking about the absolute top-end first and second-round players",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2006
+  },
+  {
+   "text": "Back-to-backs mostly become a concern when a player gets hurt, because they can lead to more missed games.",
+   "ts": "33:43",
+   "quote": "that's where a lot of these back-to-back concerns come in is if something does happen, then that leads to a few more problems.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2044
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Kenneth Murphy the third",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He will probably be the first Pelican drafted in most leagues. He finished 22nd in category leagues and 43rd in points leagues last season.",
+   "ts": "5:13",
+   "quote": "Kenneth Murphy the third who was really good last season. He put up big numbers.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 335
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Trey",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "His ranks are spread out: ESPN 59, ADP 75, Yahoo 28. The speaker says 28 is too high and he is not a top 50 player in points leagues.",
+   "ts": "5:45",
+   "quote": "Yahoo's got him ranked at 28, which feels a little high, especially in a points league where I don't think he's a top 50 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 383
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Ken Murphy",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He played 36 minutes a night. Over the last 15 games his usage fell to 20 with Murray back, and he averaged under 20 points.",
+   "ts": "6:45",
+   "quote": "over the final 15 games of the season, he played 35 minutes and averaged under 20 points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 425
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Murphy",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Fair value is in the 40s for categories and the 50s in Yahoo points leagues. He is the speaker's fade.",
+   "ts": "7:16",
+   "quote": "I think if you look at him at 28, you will be disappointed. If you look get him in the 40s",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 453
+  },
+  {
+   "player": "Trey Murphy III",
+   "said_as": "Murphy",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "The speaker questions whether his 1.5 steals will hold, whether he gets to the line enough, and his field goal percentage.",
+   "ts": "7:16",
+   "quote": "The steals were pretty good, but do we buy it at 1.5? Does he get to the line enough to matter?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 439
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte Murray",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He is the best target on the team. He is ranked 57 on Yahoo with a 68 ADP and 68 on ESPN. The speaker now expects top 50, not top 30.",
+   "ts": "7:46",
+   "quote": "he's at 57 on Yahoo with a 68 ADP. He's 68 on ESPN. Like that to me is an easy win.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 491
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He has been a good steals player over his career and his free throws are excellent. He is not a good three-point shooter.",
+   "ts": "8:18",
+   "quote": "he's been a good steals guy in his career. His free throws are also excellent.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 517
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The main risk is minutes. If he does not get 33 minutes, or the team prioritizes Fears, his value drops.",
+   "ts": "8:49",
+   "quote": "there is a confidence level concern I do have with that in terms of what if the 33 minutes aren't forthcoming.",
+   "verified": true,
+   "match_ratio": 0.9,
+   "seconds": 542
+  },
+  {
+   "player": "Dejounte Murray",
+   "said_as": "Dejounte",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He tore his Achilles on January 31 and is back. The speaker expects full minutes, so rotation is the concern, not health.",
+   "ts": "32:10",
+   "quote": "Dejounte tore his Achilles, but that is done. It's over. It's finished. He's back.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1945
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He was 64th in categories and 51st in points leagues last season. He is ranked 81 on Yahoo, 82 on Fantrax and 71 on ESPN. The speaker is fine with him at 50 to 70 in points leagues and has dropped him in categories.",
+   "ts": "9:21",
+   "quote": "I'm okay in the 50 to 70 range for points leagues. For categories, I've dropped him down a bit.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 571
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He has hamstring concerns, including an early hamstring injury last season. He has improved his free throws but not enough, and he does not shoot threes.",
+   "ts": "9:51",
+   "quote": "He improved his free throws a lot, but not enough, and he never took a three.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 613
+  },
+  {
+   "player": "Zion Williamson",
+   "said_as": "Zion",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Last season he played only 30 minutes, his usage fell from 34 to around 21, and his assists dropped below three. His top 50 hopes are gone.",
+   "ts": "10:22",
+   "quote": "then my hopes of him as a top 50 player are done.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 629
+  },
+  {
+   "player": "Herbert Jones",
+   "said_as": "Herb Jones",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He was 201st last season and is ranked 162 on Yahoo. He is a projected starter but may play under 27 minutes.",
+   "ts": "13:59",
+   "quote": "Herb Jones's fantasy value because it doesn't exist. He was 201st last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 857
+  },
+  {
+   "player": "Herbert Jones",
+   "said_as": "Herb Jones",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He gives steals and nothing else: no rebounds, threes, assists or points. The speaker calls him not dynamic on offense.",
+   "ts": "14:30",
+   "quote": "He's going to get steals. And that's it. Like nothing else. Rebounds, no. Threes, no.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 876
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "New Year's Eve Meeks",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He is the likely starting center. He was 259th in categories and 248th in points leagues. His Yahoo ADP of 124 is fine for a late-round flyer.",
+   "ts": "15:02",
+   "quote": "His Yahoo ADP is at 124, so people are warming to him as a late-round flyer",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 931
+  },
+  {
+   "player": "Yves Missi",
+   "said_as": "Mici",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "His value is blocks and field goal percentage with very low usage. The speaker expects mid-50s shooting, about two blocks and 7 to 8 rebounds. He gave a Mitchell Robinson type as a comparison.",
+   "ts": "16:04",
+   "quote": "But he gave you two good things, two blocks and 61% shooting.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 971
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Jeremiah Vezenkov",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He is the most likely player to replace Herb Jones in the starting lineup. The speaker has heard Joe Dumars wants Fears to start.",
+   "ts": "18:40",
+   "quote": "if anyone is going to move into that starting lineup ahead of Herb Jones, it is going to be Jeremiah Vezenkov",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1144
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Fiers",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He had big games late last season, but the speaker calls the steals and volume fake. He shot 33% from three. The speaker is okay taking him as a flyer in round 9 or 10.",
+   "ts": "20:13",
+   "quote": "I'm okay with taking a flyer on him in round 10 or round nine.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1237
+  },
+  {
+   "player": "Jeremiah Fears",
+   "said_as": "Fiers",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "His ESPN rank is 83, his Yahoo ADP is 129 and his Yahoo rank is 185. The speaker likes him as a late pick.",
+   "ts": "20:44",
+   "quote": "he's getting drafted at 129 Yahoo, but he's ranked at 185. I do like grabbing him late.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1248
+  },
+  {
+   "player": "Saddiq Bey",
+   "said_as": "Saddiq Bey",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He was 108th in categories and 98th in points leagues. He is ranked 151 on Yahoo and drafted in the 140s. The speaker projects him well below last season.",
+   "ts": "20:44",
+   "quote": "Bey was 108th last season. 98th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1266
+  },
+  {
+   "player": "Saddiq Bey",
+   "said_as": "Bey",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "The speaker is not a fan of his archetype: he needs more usage than a good team would give him and does little else. He came back from a torn ACL with a strong finish.",
+   "ts": "21:15",
+   "quote": "he had a really good season coming off the torn ACL. He averaged over the final 25 games, 20 points",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1288
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Derrick White",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He comes off the bench but might be the best per-minute fantasy producer on the team. He was 89th in categories and 108th in points leagues. He is ranked 100 on Yahoo with an 85 ADP.",
+   "ts": "24:24",
+   "quote": "Who might be the best permanent fantasy producer on this team. 89th last season. 108th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1472
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Derrick White",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He fills the stat sheet, but the speaker says he plays bad defense, turns the ball over, has no reliable three, and cannot play with Zion.",
+   "ts": "24:54",
+   "quote": "could not play with Zion Williamson with horrific defense, bad turnovers, and bad shooting.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1503
+  },
+  {
+   "player": "Derik Queen",
+   "said_as": "Queen",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He is a high-upside flyer. His value depends on Zion. If Zion is hurt or traded, Queen could go off, which makes him the best stash.",
+   "ts": "27:00",
+   "quote": "I think a lot of the Queen value here does hinge on Zion.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1638
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "said_as": "Bennedict Mathurin",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He signed a one-year prove-it deal and comes off the bench. He was 114th in points leagues and 119th in categories. His ADP is 116 and his rank is 160.",
+   "ts": "27:30",
+   "quote": "Who was 114th in points leagues, 119th in category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1666
+  },
+  {
+   "player": "Bennedict Mathurin",
+   "said_as": "Bennedict Mathurin",
+   "team": "NOP",
+   "horizon": "durable",
+   "text": "He is a volume scorer who needs usage. He rebounds well for his position and gets to the line a lot. He is better in points leagues, inconsistent, and bad in a smaller role.",
+   "ts": "28:02",
+   "quote": "He's a very good rebounder for his position. Also, a huge free throw volume guy.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1692
+  },
+  {
+   "player": "Jordan Poole",
+   "said_as": "Jordan Poole",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "He was banished last season but is playing a lot in preseason. The speaker will not draft him.",
+   "ts": "29:04",
+   "quote": "I'm not going to be drafting him, but he started the first preseason game.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1756
+  },
+  {
+   "player": "Karlo Matkovic",
+   "said_as": "Makur Maker",
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The speaker rates him as a really good big man who would be a clear 12-team player as a starter. There is no room for him right now. The name match from the captions is uncertain.",
+   "ts": "30:06",
+   "quote": "Makur Maker is a player that as a starter would be a clear a 12-team guy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1811
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The roster is crowded with high-usage players and has little synergy. Up to 10 players could get drafted, but probably only 4 or 5 will hold value.",
+   "ts": "3:08",
+   "quote": "There's no synergy with most of these guys on this team.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 191
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "The projected starters are Dejounte Murray, Herb Jones, Trey Murphy, Zion Williamson and Yves Missi. The bench is Fears, Bey, Queen, Mathurin and Poole.",
+   "ts": "23:52",
+   "quote": "My bench grouping is",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 1432
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Jamahl Mosley is the new head coach.",
+   "ts": "1:34",
+   "quote": "how does new coach Jamahl Mosley handle all these men?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 101
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "They do not control their own pick. It is tied to a swap with Atlanta and Milwaukee. The speaker said earlier that this gave them reason to win games late last season.",
+   "ts": "2:05",
+   "quote": "So, they've got a potential high pick, but their pick goes out to Atlanta in this scenario.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 140
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "They had success playing Zion Williamson at center last season.",
+   "ts": "3:38",
+   "quote": "because they had success running Zion Williamson at center last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 239
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "Their schedule is 4-4-3 if your league ends March 28, which is good. Through Yahoo's default end of April 4 it is 4-3-2, with a two-game week in the second-to-last week.",
+   "ts": "32:41",
+   "quote": "443 is their schedule. That's pretty good. That's one away from the league maximum over that time.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1973
+  },
+  {
+   "team": "NOP",
+   "horizon": "current",
+   "text": "They have a league-high 16 back-to-backs.",
+   "ts": "33:43",
+   "quote": "They also played the league most 16 back-to-backs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2032
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Trey Murphy III was 22nd in category leagues and 43rd in points leagues last season.",
+   "ts": "5:45",
+   "quote": "Murphy was 22nd in category leagues, 43rd in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 363
+  },
+  {
+   "text": "Dejounte Murray played 14 games last season.",
+   "ts": "6:15",
+   "quote": "Murray played 14 games last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 396
+  },
+  {
+   "text": "Trey Murphy was 12th in nine-category rankings and averaged 36 minutes.",
+   "ts": "6:45",
+   "quote": "Murphy on if you use the flawed nine-cat rankings, was 12th in those rankings.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 405
+  },
+  {
+   "text": "Dejounte Murray averaged 17 points, 5.5 rebounds, 6.5 assists and 1.6 steals in 28 minutes last season.",
+   "ts": "8:18",
+   "quote": "He averaged 17, five and a half, and six and a half with 1.6 steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 515
+  },
+  {
+   "text": "Zion Williamson had 34% usage in 2024-25 and played 30 minutes a night last season.",
+   "ts": "9:51",
+   "quote": "He was a guy that in 2024-25 had 34 usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 591
+  },
+  {
+   "text": "Herb Jones finished 201st last season.",
+   "ts": "13:59",
+   "quote": "He was 201st last season.",
+   "verified": false,
+   "match_ratio": 0.0,
+   "seconds": 839
+  },
+  {
+   "text": "In 14 starts, Yves Missi averaged 24 minutes, 7.5 points, 6.5 rebounds and 2 blocks on 61% shooting.",
+   "ts": "16:04",
+   "quote": "in his 14 starts last season, Mici, he did play 24 minutes, 7 and 1/2 and 6 and 1/2.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 966
+  },
+  {
+   "text": "Over the final 25 games, Saddiq Bey averaged 20 points, 5 rebounds and 2.5 assists with 23% usage, shooting 84% FT and 46% FG.",
+   "ts": "21:15",
+   "quote": "He averaged over the final 25 games, 20 points, five rebounds, two and a half assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1293
+  },
+  {
+   "text": "Derik Queen averaged 12 points, 7 rebounds, 4 assists, 1 steal and 1 block in 25 minutes.",
+   "ts": "25:27",
+   "quote": "he played 25 minutes last season averaging 12, 7, and 4 with a steal and a block",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1534
+  },
+  {
+   "text": "Bennedict Mathurin averaged 18 points, 5 rebounds and 2.5 assists with 26% usage in 30 minutes last season.",
+   "ts": "28:02",
+   "quote": "18 points a game, five rebounds, two and a half assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1690
+  },
+  {
+   "text": "The Pelicans have the most back-to-backs in the league with 16.",
+   "ts": "33:43",
+   "quote": "They also played the league most 16 back-to-backs.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 2032
+  }
+ ]
+}

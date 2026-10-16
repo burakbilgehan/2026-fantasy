@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "aae436d08a41",
- "note_count": 28,
- "built_at": "2026-10-11T09:19:58+00:00",
+ "input_sha": "13c0705ee65c",
+ "note_count": 32,
+ "built_at": "2026-10-16T09:05:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2059422,
-  "duration_ms": 54072,
+  "cost_usd_list": 0.2395022,
+  "duration_ms": 69836,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Reports from Rockets media day say Durant will play fewer minutes this season. The Rockets claim the cut will be significant.",
+   "text": "Reports from Rockets media day say Durant will play fewer minutes this season. The Rockets claim they will cut his minutes significantly.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
@@ -32,7 +32,7 @@
    ]
   },
   {
-   "text": "Lloyd does not believe the Rockets will cut his minutes as much as they claim. He expects about 36 minutes, maybe 35, because Ime Udoka plays his starters heavy minutes. If his minutes fall to 33, his value changes materially.",
+   "text": "Experts disagree on how big the minutes cut will be. Lloyd does not believe the Rockets will cut him as much as they claim and expects about 36 minutes, maybe 35, because Ime Udoka plays his starters heavy minutes. Other experts expect the team to manage his workload more and say he may play a minute less.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -40,65 +40,91 @@
     "6DnRWahYrFA:p8",
     "6DnRWahYrFA:t1",
     "aLP080hxizA:p0",
-    "eTsjuVu1trk:p5",
     "LM0cRCGoAUQ:p5",
     "dlo7L8Ru91A:p2",
-    "7BllEsdNLoM:t9"
+    "eTsjuVu1trk:p5",
+    "yoCTTlJ_tPQ:p4"
    ]
   },
   {
-   "text": "He hurt his ankle in the playoffs but is fine now. His Yahoo status is questionable, marked not injury related.",
+   "text": "If his minutes fall to about 33 a game, his value changes materially.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p0"
+   ]
+  },
+  {
+   "text": "He is healthy now. The ankle injury he suffered in last season's playoffs has healed.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:p4"
+    "aLP080hxizA:p4",
+    "yoCTTlJ_tPQ:p4"
    ]
   },
   {
-   "text": "Fred VanVleet is back. The projected starters are VanVleet, Amen Thompson, Durant, Jabari Smith Jr. and Alperen Sengun. Durant plays forward and will play almost no shooting guard.",
+   "text": "He is a projected starter next to Fred VanVleet, Amen Thompson, Jabari Smith Jr. and Alperen Sengun. VanVleet's return adds a ball handler.",
    "kind": "fact",
-   "date": "2026-10-01",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "aLP080hxizA:t1",
     "yoCTTlJ_tPQ:t0",
     "eTsjuVu1trk:p5",
-    "W-R1dzem32s:p6"
+    "J1Eg3uaAICU:t2"
    ]
   },
   {
-   "text": "In category leagues the experts see him as a late first-round player. Yahoo's rank of 14 to 15 is about right or slight value. His ESPN rank of 28 is far too low, and Lloyd calls him his best Rockets target at that price.",
+   "text": "He should play almost only power forward and forward roles this season, with almost no time at shooting guard, because Houston has more guard depth.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p6",
+    "aLP080hxizA:t2"
+   ]
+  },
+  {
+   "text": "In category leagues, experts see him as a late first round pick. Several mock drafters took him at picks 10 to 12 and would take him ahead of Tyrese Maxey, Jalen Johnson, Scottie Barnes and Steph Curry.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "EogBYa24Gto:p0",
+    "w66x_I_MaQ8:p6",
+    "uI6umXsE7Vk:p11",
+    "aLP080hxizA:p1",
+    "_vbAP5y182A:p4",
+    "KPdD91Oo8-U:p1",
+    "dlo7L8Ru91A:p2",
+    "W-R1dzem32s:p6",
+    "E-KmhvyZ2CU:p3",
+    "DubdKKhMWHo:p3",
+    "yoCTTlJ_tPQ:p3"
+   ]
+  },
+  {
+   "text": "His Yahoo rank of 14 is about right or a slight value in category leagues, and getting him in round two is a value. His ESPN rank of 28 is too low, and he is Lloyd's best Rockets target at that price.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
+    "J1Eg3uaAICU:p17",
     "eTsjuVu1trk:p5",
     "C4vlgpJ62NI:p19",
     "ahNxsoU8Hx4:p3",
     "ahNxsoU8Hx4:p4",
     "6DnRWahYrFA:p8",
-    "aLP080hxizA:p1",
     "aLP080hxizA:p3",
-    "E-KmhvyZ2CU:p3",
-    "dlo7L8Ru91A:p2",
-    "J1Eg3uaAICU:p17",
     "BjXP9JODDSg:p5",
-    "_vbAP5y182A:p4",
-    "KPdD91Oo8-U:p1"
+    "LM0cRCGoAUQ:p5"
    ]
   },
   {
-   "text": "In an auction mock, Josh would bid into the 30s for Durant. He called the 40 USD winning price too rich.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p29"
-   ]
-  },
-  {
-   "text": "He has the narrowest outcome range in round two: best case 6th, worst case 24th, not counting injury.",
+   "text": "He has the narrowest outcome range of round two picks: best case 6th, worst case 24th, not counting injury.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -107,17 +133,29 @@
    ]
   },
   {
-   "text": "At 37 he will probably decline, and he may not stay as healthy after his heavy minutes. One expert expects the Rockets to manage his workload more this season.",
+   "text": "In an auction mock he went for 40 USD. Josh would go only into the 30s and called 40 USD too rich.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p33",
-    "yoCTTlJ_tPQ:p4"
+    "Q6YlQDvD-aY:p29"
    ]
   },
   {
-   "text": "With a March 28 end, the Rockets play 3, 3 and 4 games in our fantasy playoff weeks, 10 games in total, which is weak. They have only 14 back-to-backs this season.",
+   "text": "Experts call him too early in points leagues around picks 11 to 19 and a bust at his Yahoo points rank.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "hviT4hzYNME:p4",
+    "WXO8MfQfzo0:p5",
+    "QbdrhJd7LiA:p2",
+    "80kfLVnFQ_s:p8",
+    "eTsjuVu1trk:p5"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, the Rockets play 3, 3 and 4 games in fantasy playoff weeks 19 to 21, only 10 games, a weak schedule. The Rockets have only 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -138,7 +176,7 @@
  ],
  "durable": [
   {
-   "text": "Durant is an efficient high-volume scorer who shoots well from the field and the line. His points, FG% and FT% are all clearly above the pool, and his blocks are strong for his position. His steals are low.",
+   "text": "He is an efficient scorer who shoots well from the field and the line on high volume. Points, FG% and FT% are his best categories.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -148,35 +186,35 @@
    ]
   },
   {
-   "text": "Turnovers are his one weak category. At about 3 per game, he is a clear outlier against the pool.",
+   "text": "He makes many turnovers, a weak category far below the league and his position. Steals are a minor weakness.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "aLP080hxizA:p2"
    ]
   },
   {
-   "text": "The main long-term worry is whether his body holds up, given his age.",
+   "text": "He is worth much more in category leagues than in points leagues.",
    "kind": "verdict",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "aLP080hxizA:p2",
-    "2A2JbUN-kc0:p33"
-   ]
-  },
-  {
-   "text": "He is worth much more in category leagues than in points leagues. Points-league rankings undervalue him for our format.",
-   "kind": "verdict",
-   "date": "2026-10-01",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p3",
-    "g31YlwRe0XQ:p6",
-    "aLP080hxizA:p1",
-    "QbdrhJd7LiA:p2",
-    "eTsjuVu1trk:p5"
+    "g31YlwRe0XQ:p6"
+   ]
+  },
+  {
+   "text": "Age is the main risk. At 37 and after very heavy minutes, experts worry about decline and whether his body holds up.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:p2",
+    "2A2JbUN-kc0:p33",
+    "uI6umXsE7Vk:p11",
+    "yoCTTlJ_tPQ:p4"
    ]
   }
  ],
@@ -184,7 +222,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3 turnovers per game",
+   "detail": "About 2.9 to 3.0 TO per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -204,35 +242,64 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Tier 2 in categories, tier 3 to 4 in points",
+   "detail": "Late first round in categories, too early in points leagues",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p3",
     "g31YlwRe0XQ:p6",
-    "aLP080hxizA:p1",
-    "QbdrhJd7LiA:p2"
+    "hviT4hzYNME:p4",
+    "QbdrhJd7LiA:p2",
+    "aLP080hxizA:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Age 37, coming off heavy minutes",
+   "detail": "Age 37 after heavy minutes",
    "until": "",
    "sources": [
+    "aLP080hxizA:p2",
     "2A2JbUN-kc0:p33",
-    "aLP080hxizA:p2"
+    "uI6umXsE7Vk:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Experts take him late in round one, above Yahoo ADP 16 to 17 and far above ESPN rank 28",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p19",
+    "ahNxsoU8Hx4:p3",
+    "ahNxsoU8Hx4:p4",
+    "aLP080hxizA:p3",
+    "EogBYa24Gto:p0",
+    "w66x_I_MaQ8:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 42 USD, rank 14; ESPN value 26 USD, rank 28",
+   "until": "",
+   "sources": [
+    "stats",
+    "ahNxsoU8Hx4:p4"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "Rockets say they will cut his minutes. Lloyd doubts it and expects 35 to 36.",
+   "detail": "Rockets say they will cut his minutes; Lloyd still expects 35 to 36",
    "until": "",
    "sources": [
     "BjXP9JODDSg:t7",
     "6DnRWahYrFA:t1",
+    "6DnRWahYrFA:p8",
     "aLP080hxizA:p0"
    ],
    "new_meaning": ""
@@ -240,53 +307,20 @@
   {
    "name": "heavy starter minutes",
    "channel": "durable",
-   "detail": "Ime Udoka plays his starters big minutes",
+   "detail": "Ime Udoka plays his starters heavy minutes",
    "until": "",
    "sources": [
     "7BllEsdNLoM:t9",
     "aLP080hxizA:t0",
-    "dlo7L8Ru91A:p2",
-    "LM0cRCGoAUQ:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q, not injury related",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Experts call ESPN rank 28 far too low and see him as a late first-rounder",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p4",
-    "6DnRWahYrFA:p8",
-    "aLP080hxizA:p3",
-    "E-KmhvyZ2CU:p3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo rank 14 and value 42 USD, ESPN rank 28 and value 26 USD",
-   "until": "",
-   "sources": [
-    "stats"
+    "LM0cRCGoAUQ:p5",
+    "dlo7L8Ru91A:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-3-4, 10 games over weeks 19 to 21 with a March 28 end",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with the March 28 end",
    "until": "",
    "sources": [
     "aLP080hxizA:t4"
@@ -314,6 +348,6 @@
    "new_meaning": ""
   }
  ],
- "note": "The category-league experts agree that Durant is a late first-round value. His only real hole is turnovers (z -1.7), so he fits punt TO builds best, and his volume shooting helps both FG% and FT%. Prices vary: Yahoo values him at 42 USD with an average cost of 49.6 USD, ESPN at 26 USD, and he went for 44 USD in our league last season. In Josh's mock, 40 USD was already too rich, so a price in the low 40s is fair and the 50 USD range is a stretch. In the first weeks, check whether he plays 35 to 36 minutes or nearer 33, the level where Lloyd says his value changes materially. Also remember the Rockets play only 10 games in our playoff weeks.",
+ "note": "Experts see Durant as a late first round pick in 9-cat. Yahoo (value 42 USD, average cost 46.1) prices him close to that, ESPN (26 USD, rank 28) prices him low, and our league paid 44 USD last season, so expect about 40 to 46 USD in our room even though Josh found 40 USD too rich. His strong FG%, FT%, points and blocks for a forward, with turnovers as his only weak category, make him a clean fit for punt TO builds. In the first weeks, check whether he plays 35 to 36 minutes or nearer 33. Also plan around the Rockets' weak 10-game schedule in our playoff weeks.",
  "rejected": []
 }

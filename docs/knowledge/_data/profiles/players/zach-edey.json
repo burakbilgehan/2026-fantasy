@@ -8,50 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "012d38944607",
- "note_count": 27,
- "built_at": "2026-10-11T09:24:58+00:00",
+ "input_sha": "da9973ab5487",
+ "note_count": 31,
+ "built_at": "2026-10-16T09:21:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2174782,
-  "duration_ms": 55819,
+  "cost_usd_list": 0.2450462,
+  "duration_ms": 71806,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is expected to be available on opening night after ankle surgery. Reports say he is fully ready for the start of the season.",
+   "text": "He is playing in preseason and looks okay. He is expected to be available on opening night after ankle surgery.",
    "kind": "fact",
-   "date": "2026-10-07",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "OsbUAkSeVB4:p15",
     "lp11OAEpq4Y:p4",
-    "BjXP9JODDSg:p26",
-    "n4KkK-OJjqA:p43"
+    "BjXP9JODDSg:p26"
    ]
   },
   {
-   "text": "He will probably not play in preseason, and some days off are expected during the season.",
+   "text": "Experts still see a high injury risk and expect him to get some days off.",
    "kind": "verdict",
-   "date": "2026-10-07",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p9"
-   ]
-  },
-  {
-   "text": "Experts still see a high risk that he gets hurt again.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
+    "OsbUAkSeVB4:p15",
     "lp11OAEpq4Y:p9",
     "BjXP9JODDSg:p26"
    ]
   },
   {
-   "text": "He is projected to start at center for Memphis.",
+   "text": "He is in the projected Memphis starting five at center.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -61,24 +53,27 @@
    ]
   },
   {
-   "text": "Expect about 25 to 28 minutes a night, not 30 or more. Memphis wants to manage his large frame. Isaiah Stewart and Quinten Post will take the extra center minutes.",
+   "text": "Experts expect about 25 to 28 minutes a night, not 30 or more. Memphis wants to manage his large frame, and Isaiah Stewart and Quinten Post should take the extra center minutes.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
+    "LcZcvk8s1xQ:p9",
     "LcZcvk8s1xQ:p10",
-    "lp11OAEpq4Y:p7"
+    "lp11OAEpq4Y:p7",
+    "t4n9MAP2_14:p33"
    ]
   },
   {
-   "text": "Coach Tuomas Iisalo keeps minutes down and runs an 11 or 12 man rotation. That also caps Edey's minutes.",
+   "text": "Coach Tuomas Iisalo plays at a very high pace, uses short stints, keeps minutes down and runs an 11 or 12 man rotation.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
+    "lp11OAEpq4Y:t0",
+    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2",
-    "lp11OAEpq4Y:t2"
+    "LcZcvk8s1xQ:t2"
    ]
   },
   {
@@ -91,51 +86,58 @@
    ]
   },
   {
-   "text": "Take him in the 60s or 70s. Experts call him a top 60 player at worst and see a top 50 per game finish as reasonable. Lloyd calls him a possible league winner.",
+   "text": "In his 11 games last season he ranked around 60th to 70th per game in about 26 minutes. One expert called him the best second-year player per game.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p43",
+    "egRrai3Ax38:p45",
+    "gerS7ibpaJo:p2"
+   ]
+  },
+  {
+   "text": "Experts see top-50 upside if he stays healthy, and Lloyd calls him a league winner. At 30 minutes a night he could be a top-30 to top-40 player. One expert says he is a top-60 player at worst.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p38",
     "lp11OAEpq4Y:p4",
-    "ZYllcj4o6_A:p31",
+    "lp11OAEpq4Y:p7",
+    "lp11OAEpq4Y:p9",
+    "t4n9MAP2_14:p33",
+    "ZYllcj4o6_A:p31"
+   ]
+  },
+  {
+   "text": "Experts take him around picks 60 to 70 in recent mock drafts. One goes as early as round 5.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p15",
+    "EogBYa24Gto:p16",
+    "ENizLoE6pzI:p19",
+    "lp11OAEpq4Y:p4",
     "BjXP9JODDSg:p27"
    ]
   },
   {
-   "text": "If he played 30 minutes a night, he would be a top 30 player.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p7",
-    "t4n9MAP2_14:p33",
-    "gJUBAJaHzlU:p16"
-   ]
-  },
-  {
-   "text": "At his ESPN rank of about 113 and ADP of 124 he is great value, a 40 to 50 spot gap. At his Yahoo price around pick 70 he is riskier, but he beats that per game if he plays 60 games.",
+   "text": "Experts call his ESPN rank and ADP (113 to 124) great value, a gap of 40 to 50 spots. At a Yahoo ADP near 70 he is riskier, but he beats that price per game if he plays 60 games.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p6",
     "ZYllcj4o6_A:p31",
+    "egRrai3Ax38:p45",
     "ahNxsoU8Hx4:p65",
-    "egRrai3Ax38:p45"
-   ]
-  },
-  {
-   "text": "Even if he misses some time, his downside is low. He might play more minutes in his third season.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
     "n4KkK-OJjqA:p43"
    ]
   },
   {
-   "text": "In an auction mock, Josh would pay up to 11 USD for him. He went for 20 USD, more than Franz Wagner or Jaren Jackson.",
+   "text": "In one expert auction mock he went for 20 USD, more than Franz Wagner or Jaren Jackson.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -144,7 +146,16 @@
    ]
   },
   {
-   "text": "Memphis has a 4-4-4 schedule in weeks 19 to 21 with a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Josh would pay up to 11 USD for him at auction.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p87"
+   ]
+  },
+  {
+   "text": "Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28. It has only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -153,32 +164,36 @@
    ]
   },
   {
-   "text": "Memphis plays at a very high pace.",
-   "kind": "fact",
-   "date": "2026-08-17",
+   "text": "Experts expect Memphis to be a below-average team, but not to tank this season because of the new tanking rules.",
+   "kind": "verdict",
+   "date": "2026-10-07",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t1"
+    "lp11OAEpq4Y:t1",
+    "lp11OAEpq4Y:t3",
+    "LcZcvk8s1xQ:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He had foot surgery, then a second surgery after returning for 11 games. He has had three significant ankle or foot problems in his first two seasons.",
+   "text": "He was healthy at Purdue and played 66 games as a rookie. He then had foot surgery and a second surgery after returning for 11 games. That makes three significant ankle or foot problems in his first two seasons.",
    "kind": "fact",
-   "date": "2026-10-07",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "OsbUAkSeVB4:p16",
+    "6DnRWahYrFA:p39",
     "lp11OAEpq4Y:p8",
-    "gJUBAJaHzlU:p14",
     "LcZcvk8s1xQ:p8",
+    "gJUBAJaHzlU:p14",
     "8d--aL_xxwE:p17"
    ]
   },
   {
-   "text": "The repeated ankle injury is a real concern. He is moving toward Kawhi and Embiid territory for health risk but is not there yet.",
+   "text": "Health is the big concern. The repeated ankle injury moves him toward Kawhi and Embiid territory, but he is not there yet.",
    "kind": "verdict",
-   "date": "2026-08-09",
+   "date": "2026-09-07",
    "until": "",
    "sources": [
     "8d--aL_xxwE:p17",
@@ -186,74 +201,46 @@
    ]
   },
   {
-   "text": "He was very healthy in college and played heavy minutes at Purdue without problems. His conditioning is good.",
+   "text": "He gives an elite FG% on solid volume, plus strong rebounds and blocks.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:p39",
-    "lp11OAEpq4Y:p8",
-    "LcZcvk8s1xQ:p10"
-   ]
-  },
-  {
-   "text": "His FG% is elite on real volume. It clearly lifts a team's FG%.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p5",
-    "gJUBAJaHzlU:p15",
-    "stats"
-   ]
-  },
-  {
-   "text": "His rebounds and blocks are far above the player pool.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p15",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a very good free throw shooter for a big, so he does not hurt FT% like most centers.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
+    "stats",
     "lp11OAEpq4Y:p5",
     "gJUBAJaHzlU:p15"
    ]
   },
   {
-   "text": "He is poor in assists, threes and steals, and makes almost no threes.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p5",
-    "stats"
-   ]
-  },
-  {
-   "text": "He commits many turnovers for a center.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He can handle high usage. On the court he was one of the most efficient and dominant players in the NBA, in a small sample.",
+   "text": "He is a very good free throw shooter for a center, so his FT% does not hurt a team.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p5",
-    "LcZcvk8s1xQ:p11"
+    "gJUBAJaHzlU:p15",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is poor in assists, threes and steals, and his turnovers are high for a center.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He can handle high usage. In a small sample he was one of the most efficient and dominant players in the NBA, and he turned 50% of his rim contests into blocks.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p5",
+    "LcZcvk8s1xQ:p11",
+    "NYTH7uQsPCM:p2"
    ]
   }
  ],
@@ -261,18 +248,18 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "elite FG% on about 9 to 10 attempts",
+   "detail": "About 61% FG on 9 to 10 attempts",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p5",
-    "stats"
+    "stats",
+    "lp11OAEpq4Y:p5"
    ],
    "new_meaning": ""
   },
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "",
+   "detail": "About 11 rebounds per game",
    "until": "",
    "sources": [
     "stats"
@@ -282,20 +269,11 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "",
+   "detail": "About 2 blocks per game",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt TO fit",
-   "channel": "durable",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "stats"
+    "stats",
+    "NYTH7uQsPCM:p2"
    ],
    "new_meaning": ""
   },
@@ -305,7 +283,17 @@
    "detail": "",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p5",
+    "stats",
+    "lp11OAEpq4Y:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "Turnovers high for a center",
+   "until": "",
+   "sources": [
     "stats"
    ],
    "new_meaning": ""
@@ -313,12 +301,12 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "repeated foot and ankle surgeries",
+   "detail": "Repeated foot and ankle surgeries",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p8",
-    "gJUBAJaHzlU:p14",
     "LcZcvk8s1xQ:p8",
+    "gJUBAJaHzlU:p14",
     "8d--aL_xxwE:p17"
    ],
    "new_meaning": ""
@@ -326,7 +314,7 @@
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "25 to 28 minutes projected to manage his frame",
+   "detail": "Expected 25 to 28 minutes to manage his frame",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:p9",
@@ -336,27 +324,72 @@
    "new_meaning": ""
   },
   {
-   "name": "expert target",
+   "name": "low starter minutes",
    "channel": "current",
-   "detail": "take in the 60s or 70s; top 60 at worst",
+   "detail": "Iisalo uses short stints and keeps minutes down",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "11 or 12 man rotation",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "breakout",
+   "channel": "current",
+   "detail": "Year three, top-50 upside if healthy",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p38",
-    "lp11OAEpq4Y:p4",
-    "ZYllcj4o6_A:p31",
-    "BjXP9JODDSg:p27"
+    "n4KkK-OJjqA:p43",
+    "lp11OAEpq4Y:p4"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ESPN rank 113, ADP 124",
+   "detail": "ESPN rank and ADP 113 to 124",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p6",
     "ahNxsoU8Hx4:p65",
     "egRrai3Ax38:p45",
+    "lp11OAEpq4Y:p6",
+    "ZYllcj4o6_A:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Experts take him around picks 60 to 70",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p15",
+    "EogBYa24Gto:p16",
+    "ENizLoE6pzI:p19",
+    "6DnRWahYrFA:p38",
     "ZYllcj4o6_A:p31"
    ],
    "new_meaning": ""
@@ -364,21 +397,11 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 16 USD, ESPN 2 USD",
+   "detail": "Yahoo value 15 USD, rank 71; ESPN value 2 USD, rank 114",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "breakout",
-   "channel": "current",
-   "detail": "top 50 upside, may play more in year three",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:p38",
-    "n4KkK-OJjqA:p43"
+    "stats",
+    "lp11OAEpq4Y:p6"
    ],
    "new_meaning": ""
   },
@@ -403,27 +426,17 @@
    "new_meaning": ""
   },
   {
-   "name": "fast pace",
+   "name": "low shutdown risk",
    "channel": "current",
-   "detail": "",
+   "detail": "Memphis not expected to tank under the new rules",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "11 or 12 man rotation",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t2",
-    "LcZcvk8s1xQ:t2"
+    "LcZcvk8s1xQ:t4",
+    "lp11OAEpq4Y:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Edey is a rare FG%, REB and BLK anchor at center. His weak spots are turnovers and threes, so he fits punt TO builds. The market splits on him: Yahoo values him at 16 USD with an average cost of 6.3 USD, ESPN at 2 USD, and he went for 2 USD in our league last season. In a mock he went for 20 USD while Josh capped him at 11 USD, so somewhere near 11 USD fairly prices his upside against his foot and ankle risk. Early in the season, check whether he gets more than the projected 25 to 28 minutes and how often Memphis rests him.",
+ "note": "Edey went for just 2 USD in our league last season. Yahoo values him at 15 USD (rank 71) but its average cost is only 5 USD, and ESPN has him at 2 USD (rank 114). Experts take him around picks 60 to 70, and their auction bids run from Josh's 11 USD cap up to 20 USD, so somewhere between 10 and 15 USD gets you real upside for the injury risk. He fits builds that want FG%, rebounds and blocks and can live without threes, assists and turnovers. He also has a strong 4-4-4 playoff schedule. In the first weeks, check whether his minutes go above the expected 25 to 28 and whether Memphis rests him on back-to-backs.",
  "rejected": []
 }

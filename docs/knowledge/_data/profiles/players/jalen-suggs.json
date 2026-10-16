@@ -8,48 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "730eecac9f5c",
- "note_count": 13,
- "built_at": "2026-10-11T09:17:48+00:00",
+ "input_sha": "2d1f2479c3ad",
+ "note_count": 17,
+ "built_at": "2026-10-16T08:59:03+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14528619999999998,
-  "duration_ms": 36038,
+  "cost_usd_list": 0.1708102,
+  "duration_ms": 47880,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yahoo lists him as questionable with an illness.",
+   "text": "He is a projected starter at guard, next to Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is projected to start at guard next to Bane, Franz Wagner, Banchero and Carter. That group was very good when it played together.",
-   "kind": "fact",
-   "date": "2026-08-01",
-   "until": "",
-   "sources": [
+    "zhXtLr_xYVg:t1",
     "FEcNjVRlj-U:t1"
    ]
   },
   {
-   "text": "Orlando has a new head coach, Sean Sweeney, so player roles may change.",
+   "text": "Orlando has a new head coach, Sean Sweeney, so his role and minutes may change.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ]
   },
   {
-   "text": "Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Black.",
+   "text": "Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Anthony Black.",
    "kind": "fact",
    "date": "2026-08-01",
    "until": "",
@@ -58,16 +50,7 @@
    ]
   },
   {
-   "text": "He shot under 30% from the field and in the low 20s from three in the playoffs.",
-   "kind": "fact",
-   "date": "2026-08-01",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:p12"
-   ]
-  },
-  {
-   "text": "One expert thinks he is the likely trade sacrifice so Orlando can keep Black.",
+   "text": "One expert thinks Suggs is the likely trade sacrifice to keep Black.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
@@ -76,32 +59,38 @@
    ]
   },
   {
-   "text": "Drafts have him far too low. Experts see him as a top 70 to 80 player per game and worth the shot despite the injury risk.",
+   "text": "Experts say drafts have him far too low. He could be a top 70 to 80 player if he plays about 65 games, and ESPN's rank of 143 is called silly.",
    "kind": "verdict",
-   "date": "2026-10-02",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "D4dP5JvX1oo:p22",
+    "zhXtLr_xYVg:p15",
     "BjXP9JODDSg:p48",
     "ahNxsoU8Hx4:p31",
+    "7BllEsdNLoM:p51",
     "ZYllcj4o6_A:p40"
    ]
   },
   {
-   "text": "He is a tier 8 guard. If he plays 65 to 70 games, he would rank ahead of nearly all of tier 8.",
+   "text": "Experts disagree on whether to draft him. Most call him worth the shot at his price, but one would pass because of his injury history, and another is not confident he will reach 65 games.",
    "kind": "verdict",
-   "date": "2026-09-09",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p51"
+    "D4dP5JvX1oo:p22",
+    "zhXtLr_xYVg:p15",
+    "WXO8MfQfzo0:p33",
+    "ahNxsoU8Hx4:p31"
    ]
   },
   {
-   "text": "A healthy offseason could unlock another level after his career-high assists last season.",
+   "text": "Plan for him to miss about 20 games this season.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p11"
+    "FEcNjVRlj-U:p10"
    ]
   },
   {
@@ -112,88 +101,120 @@
    "sources": [
     "Q6YlQDvD-aY:p84"
    ]
-  }
- ],
- "durable": [
-  {
-   "text": "He is injury prone. His physical, all-out style gets his body beaten up, and availability is his main issue.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:p10",
-    "7BllEsdNLoM:p50",
-    "W-R1dzem32s:p52",
-    "BjXP9JODDSg:p49",
-    "WXO8MfQfzo0:p33"
-   ]
   },
   {
-   "text": "Plan for him to miss about 20 games a season.",
+   "text": "A healthy offseason could unlock another level after his career high in assists last season.",
    "kind": "verdict",
    "date": "2026-08-01",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p10"
+    "FEcNjVRlj-U:p11"
    ]
   },
   {
-   "text": "His per game numbers are strong when he plays.",
+   "text": "One expert projects Orlando for 47 or 48 wins and the 6th seed.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-08-01",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p84",
+    "FEcNjVRlj-U:t4"
+   ]
+  },
+  {
+   "text": "Orlando plays 11 games in our playoff weeks (3-4-4) and has 14 back-to-backs. The schedule is called unremarkable.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t4"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His all-out, physical playing style gets his body beaten up and leads to repeated injuries and missed games. Experts compare him to Alex Caruso.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p13",
+    "7BllEsdNLoM:p50",
+    "FEcNjVRlj-U:p10",
+    "BjXP9JODDSg:p49",
+    "W-R1dzem32s:p52"
+   ]
+  },
+  {
+   "text": "Availability is his main issue. Experts say he would rank much higher without the injury concerns.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p22",
+    "BjXP9JODDSg:p49",
+    "W-R1dzem32s:p52",
     "ZYllcj4o6_A:p40"
    ]
   },
   {
-   "text": "His three-point shooting is streaky. When it is on, he takes about six threes a game.",
+   "text": "His per-game line is strong, led by steals and assists.",
    "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p14",
+    "Q6YlQDvD-aY:p84"
+   ]
+  },
+  {
+   "text": "Steals are a league outlier. He is projected for about 1.6 per game.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats",
+    "zhXtLr_xYVg:p14"
+   ]
+  },
+  {
+   "text": "His three-point shooting is streaky. When it is on, he takes about six threes a game.",
+   "kind": "fact",
    "date": "2026-08-01",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:p13"
    ]
-  },
-  {
-   "text": "Steals are his standout category, far above the pool. His blocks are also high for a guard.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "tags": [
   {
-   "name": "STL specialist",
+   "name": "injury prone",
    "channel": "durable",
-   "detail": "About 1.6 steals per game projected",
+   "detail": "physical, all-out style leads to repeated injuries; plan for about 20 missed games",
    "until": "",
    "sources": [
-    "stats"
+    "zhXtLr_xYVg:p13",
+    "7BllEsdNLoM:p50",
+    "FEcNjVRlj-U:p10",
+    "BjXP9JODDSg:p49"
    ],
    "new_meaning": ""
   },
   {
-   "name": "injury prone",
+   "name": "STL specialist",
    "channel": "durable",
-   "detail": "Physical, all-out style; plan for about 20 missed games",
+   "detail": "about 1.6 steals per game projected",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:p10",
-    "7BllEsdNLoM:p50",
-    "W-R1dzem32s:p52",
-    "BjXP9JODDSg:p49"
+    "stats",
+    "zhXtLr_xYVg:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "streaky",
    "channel": "durable",
-   "detail": "Three-point shooting runs hot and cold",
+   "detail": "three-point shooting comes and goes",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:p13"
@@ -201,56 +222,37 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q (Illness)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trade risk",
-   "channel": "current",
-   "detail": "Orlando near the second apron; may be moved to keep Black",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:p12",
-    "FEcNjVRlj-U:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Experts see top 70 to 80 per game; market ranks him far lower",
+   "detail": "top 70 to 80 if healthy; market rank 95 to 143",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p31",
-    "BjXP9JODDSg:p48"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Drafts have him way too low",
-   "until": "",
-   "sources": [
+    "zhXtLr_xYVg:p15",
     "BjXP9JODDSg:p48",
     "ahNxsoU8Hx4:p31",
-    "ZYllcj4o6_A:p40"
+    "D4dP5JvX1oo:p22"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 95, ESPN rank 143",
+   "detail": "Yahoo rank 95 and 5 USD; ESPN rank 143 and 0 USD",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "zhXtLr_xYVg:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Orlando near the second apron; may choose Anthony Black over Suggs",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:t3",
+    "FEcNjVRlj-U:p12"
    ],
    "new_meaning": ""
   },
@@ -260,15 +262,15 @@
    "detail": "Sean Sweeney replaces Jamahl Mosley",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 47 to 48 wins and the 6th seed",
+   "detail": "projected 47 or 48 wins and the 6th seed",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:t4"
@@ -276,6 +278,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Experts in 9-cat see him as a top 70 to 80 player per game. The market is far lower: Yahoo rank 95 at 2.3 USD average cost, ESPN rank 143 at 0.6 USD, and he went for 1 USD in our league last auction. One expert mock paid 9 USD, so a bid in the low single digits is a good price for elite steals plus threes and assists, if you can live with weak FG% and turnovers and plan around 20 missed games. Early on, check the illness status, his role under new coach Sweeney, and any trade talk tied to Orlando's choice between him and Black.",
+ "note": "Experts rate him a top 70 to 80 player per game if he stays healthy, but the market is pricing him for his injuries: Yahoo has him at 5 USD (rank 95), ESPN at 0 USD (rank 143), and he went for 1 USD in our league last season. At 5 to 9 USD he is a cheap source of steals, assists and threes for guard-heavy builds, but his FG% (43.5 on about 11 attempts) and turnovers are slightly below average, and you should plan for him to miss about 20 games. Early in the season, check how new coach Sean Sweeney uses him and whether Orlando's apron squeeze leads to a Suggs trade.",
  "rejected": []
 }

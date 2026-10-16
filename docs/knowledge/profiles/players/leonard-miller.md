@@ -30,19 +30,27 @@
 </details>
 
 **Current**
-- He is a deep bench player. The 10th spot in the rotation is open between him, Patrick Williams and Zach Collins. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- If Buzelis or Wilson got hurt, he would likely start and play about 25 minutes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [08-18](https://youtu.be/FxaSnyk9g90?t=1565))
-- He is a stash option only in formats that make stashing easy. He is 22 and played well late last season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
-- With Caleb Wilson, Matas Buzelis and Nick Claxton ahead of him, he does not have a clear path to a real role. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
+- The experts do not see a clear path to regular minutes for him. He may not play over Claxton. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1664), [10-12](https://youtu.be/ENizLoE6pzI?t=1614), [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
+- He has played very well in preseason. He also played well late last season. (fact, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1664), [10-12](https://youtu.be/ENizLoE6pzI?t=1614), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [06-23](https://youtu.be/9tb1ARBEmQU?t=911))
+- At his position he is stuck behind Matas Buzelis and Caleb Wilson. Nick Claxton is the projected starting center. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1614), [10-12](https://youtu.be/ENizLoE6pzI?t=1610), [06-23](https://youtu.be/9tb1ARBEmQU?t=911), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- His preseason shooting is not expected to last. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1614))
+- Draft him only in leagues 180 or more players deep. He is a stash in formats where stashing is easy. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1614), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892))
+- The Bulls' 10th rotation spot is open between Patrick Williams, Zach Collins and Miller. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
+- If Buzelis or Wilson gets hurt, he would likely start and get about 25 minutes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892), [08-18](https://youtu.be/FxaSnyk9g90?t=1565))
+- He is 22 years old. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1892))
+- Tiago Splitter is the Bulls' new head coach, replacing Billy Donovan. He is expected to push young players. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387))
+- Chicago is projected to be a bottom-10 team. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629))
+- Chicago has little depth, so an injury to a main player would open a big role. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
 
 **Durable**
-- Steals are a clear weakness, well below the league pool. (fact, 2026-10-04; stats)
-- He is an active two-way player who crashes the glass and can play the 3, 4 and 5. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1539))
+- Steals are his weakest category. Projections give him very few, well below the top 250 pool. (fact, 2026-10-16; stats)
+- His game should translate well to fantasy if he gets minutes. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1664))
+- He is an active two-way forward who crashes the glass and can play the 3, 4 and 5. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1539))
 
 **Tags**
-- Current: `minutes competition` (Competes with Patrick Williams and Zach Collins for the 10th rotation spot), `handcuff` (Would likely start and play about 25 minutes if Buzelis or Caleb Wilson got hurt), `waiver watch` (Ranked well outside the 144 drafted players; add only if Buzelis or Wilson gets hurt)
+- Current: `minutes competition` (Behind Buzelis and Wilson at forward and Claxton at center. He competes with Patrick Williams and Zach Collins for the 10th man spot.), `handcuff` (Likely starter with about 25 minutes if Buzelis or Wilson gets hurt.), `waiver watch` (Draft only in leagues 180 or more deep. Our league drafts 144.), `regression risk` (Preseason shooting is not expected to last.), `thin rotation` (Chicago has little depth behind its main players.), `new coach` (Tiago Splitter replaces Billy Donovan.), `bottom team` (Projected bottom-10 in the league.)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 363, ESPN rank 309). He went undrafted in our league last season, and he is not a pick in a 144-player auction. His projected line is about 6 to 7 points and 3.4 rebounds with few steals and few threes. His value depends on an injury to Buzelis or Caleb Wilson, so leave him on waivers. Check early whether new coach Splitter makes him the 10th man, and add him quickly if one of those two forwards goes down.
+**Note.** Both sites value him at 0 USD (Yahoo rank 362, ESPN rank 308), and the experts only want him in leagues 180 or more deep. That makes him a waiver name in our 144-player draft, not someone to spend on. Keep an eye on him early. If Buzelis or Wilson gets hurt, he could start and get about 25 minutes, and he would be a cheap FAB add with low turnovers and decent efficiency. If he plays only about 14 minutes, there is no reason to roster him.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,41 +11,40 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 187 | 0 | 0.1 | 194 | 9 |
+| 2026-27 | 0 | 0.0 | 178 | 0 | 0.1 | 194 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 61.4% | +1.9 | +0.8 | - |
-| FT% | 68.3% | -0.6 | +0.2 | - |
+| FT% | 68.3% | -0.6 | +0.1 | - |
 | 3PM | 0.0 | -1.6 | -1.1 | league outlier, weak, weak for his position (punt fit) |
 | PTS | 10.4 | -0.6 | -0.4 | - |
 | REB | 7.2 | +0.9 | -0.1 | - |
 | AST | 0.9 | -1.2 | -0.9 | - |
-| STL | 0.6 | -1.1 | -0.9 | - |
+| STL | 0.6 | -1.1 | -0.8 | - |
 | BLK | 0.7 | +0.2 | -0.6 | - |
 | TO | 1.1 | +0.7 | +0.6 | - |
 
 </details>
 
 **Current**
-- One expert is about 80% sure Washington keeps Davis, but a Davis trade cannot be ruled out. If Davis is traded, Sarr starts at center. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083), [06-30](https://youtu.be/4GDfg2n2l8o?t=1518))
-- Washington acquired Ayton from the Lakers for Jaden Hardy and second-round picks. He is the backup big man behind Alex Sarr and Anthony Davis and comes off the bench. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267), [07-16](https://youtu.be/-y6p5PYLf00?t=1631), [07-16](https://youtu.be/-y6p5PYLf00?t=1626))
-- Washington lacks depth at center behind Sarr and Davis. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
-- Experts say he is no longer the player he was in Phoenix. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267))
-- Davis's health is a question, so Ayton could get 30-minute roles at times when Davis is out. (verdict, 2026-07-23; [07-16](https://youtu.be/-y6p5PYLf00?t=1631), [07-16](https://youtu.be/-y6p5PYLf00?t=1626), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
-- Washington is trying to compete and expects to be near .500 and in the play-in mix, so the late-season resting and minutes cuts of past years should not return. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
-- His FG% jump last season may have been helped by playing with Luka. He now plays with Trae Young, and the expert says not to assume a big FG% drop. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1631))
+- Washington acquired him from the Lakers for Jaden Hardy and second-round picks. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267))
+- He is the backup big man behind Alex Sarr and Anthony Davis and comes off the bench. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267), [07-16](https://youtu.be/-y6p5PYLf00?t=1631), [07-16](https://youtu.be/-y6p5PYLf00?t=1626))
+- Davis's health is a question, so he could get 30-minute roles at times. (verdict, 2026-07-23; [07-16](https://youtu.be/-y6p5PYLf00?t=1631), [07-16](https://youtu.be/-y6p5PYLf00?t=1626), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- He is no longer the player he was in Phoenix. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=267))
+- Washington is trying to compete, so the late-season rest and minutes cuts of past years should not happen. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- He now plays with Trae Young in Washington. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1631))
+- Do not automatically expect a big drop in his FG%. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1631))
 
 **Durable**
-- He makes almost no threes. (fact, 2026-10-11; stats)
-- He is an efficient finisher whose FG% helps, but on low shot volume. Assists and steals are weak. (fact, 2026-10-11; stats)
+- He makes almost no threes. (fact, 2026-10-16; stats)
 
 **Tags**
-- Current: `new team` (Traded from the Lakers to Washington), `role down` (Bench role behind Sarr and Davis after starting 72 games last season), `handcuff` (Could get 30-minute roles when Anthony Davis is out), `waiver watch` (Ranked outside the 144 drafted players; watch for Davis injuries), `low shutdown risk` (Washington is trying to compete for the play-in)
+- Current: `new team` (Traded from the Lakers to Washington), `role down` (Bench role behind Alex Sarr and Anthony Davis), `handcuff` (Backup to Anthony Davis, whose health is a question), `waiver watch` (Ranked outside the 144 drafted players. Worth adding if Davis misses time.), `low shutdown risk` (Washington is trying to compete), `coach hot seat` (Brian Keefe under pressure to win)
 - Durable: `no 3PM`, `punt 3PM fit`
 
-**Note.** Yahoo and ESPN both give him 0 USD of value and rank him around 190, outside the 144 players we draft. Do not repeat last season's 9 USD price in our league. Leave him on waivers and watch Anthony Davis's health early in the season, because a Davis absence could push Ayton toward 30 minutes. In that role he helps punt 3PM builds with efficient FG%, rebounds and low turnovers.
+**Note.** Yahoo and ESPN both value him at 0 USD and rank him 178 and 194, outside the 144 players we draft, so do not pay anything like the 9 USD he cost in our league last season. As a bench big his projected line is about 10 points and 7 rebounds with a strong FG% and no threes, so he only makes sense as a late punt 3PM piece. Leave him on waivers and watch Davis's health and Ayton's minutes in the first weeks, since the expert says he could get 30-minute roles when Davis is out.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

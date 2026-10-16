@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 331 | 0 | 0.0 | 164 | not drafted |
+| 2026-27 | 0 | - | 332 | 0 | 0.1 | 164 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,30 +21,30 @@
 | PTS | 9.6 | -0.8 | -0.7 | - |
 | REB | 4.8 | -0.1 | -0.7 | - |
 | AST | 2.1 | -0.6 | -0.3 | - |
-| STL | 0.6 | -1.0 | -0.9 | - |
+| STL | 0.6 | -1.0 | -0.8 | - |
 | BLK | 0.4 | -0.4 | -0.8 | - |
 | TO | 1.3 | +0.4 | +0.3 | - |
 
 </details>
 
 **Current**
-- Brooklyn is projected as one of the worst teams, at about 28 wins. Houston owns its pick, so the Nets have no reason to tank, but March minutes are uncertain. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043))
-- Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. Wolf is projected in the bench rotation with Keon Ellis, Noah Clowney, Mo Wagner and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- Many young Nets players have a case for frontcourt and second-unit minutes, and Brooklyn could give more minutes to Josh Minott and Noah Clowney in the second half. Minutes will be hard to find for all of them. (verdict, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=276), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
-- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. In our playoff weeks they play 3-4-3 games, with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- Brooklyn's center minutes will probably be a messy split between Sharpe, Wagner and Wolf. Wolf could still end up as the starting center instead of Sharpe, so check who starts early in the season. (verdict, 2026-09-01; [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [06-30](https://youtu.be/4GDfg2n2l8o?t=726), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
-- No clear breakout is expected this season. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
-- The Randle trade kills his value at power forward. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=612))
+- Brooklyn is projected near the bottom of the league, at about 28 wins. Houston owns the Nets' pick, so March minutes are uncertain: the team has no reason to tank, but little reason to win beyond player development. (fact, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [09-26](https://youtu.be/3UGI05PDvrE?t=143))
+- Brooklyn added Julius Randle, who is projected to start at power forward. (fact, 2026-09-26; [06-23](https://youtu.be/9tb1ARBEmQU?t=612), [09-26](https://youtu.be/3UGI05PDvrE?t=313))
+- Wolf is projected as a bench player. The bench rotation is Keon Ellis, Noah Clowney, Mo Wagner, Wolf and Nolan Traore, and Day'Ron Sharpe is the projected starting center. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
+- With a March 28 end, Brooklyn plays 3-4-3 games in our playoff weeks, with only one playoff back-to-back. The Nets have 16 back-to-backs this season, tied for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Brooklyn's center minutes will likely be a messy split between Sharpe, Wagner and Wolf. One expert saw a path for Wolf to start at center over Sharpe. Check early in the season whether Sharpe really starts. (verdict, 2026-09-01; [07-02](https://youtu.be/P6TNP-g0wzY?t=1914), [06-30](https://youtu.be/4GDfg2n2l8o?t=726), [09-01](https://youtu.be/skKXe2CRl8Q?t=1001))
+- Experts see no clear breakout for him. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
+- The Randle trade kills Wolf's value at power forward. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=612))
 
 **Durable**
-- His projected category line has no strong category. FG%, steals and blocks are low for a forward or center. (fact, 2026-10-11; stats)
+- Experts rate him a poor NBA player. One calls him legitimately terrible, and another doubts he is an NBA player at all. (verdict, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=2265), [06-23](https://youtu.be/9tb1ARBEmQU?t=612), [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
 - He can play center and can also handle the ball. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1175))
-- He is a poor efficiency player across the board. Experts doubt he is a real NBA player because of his efficiency and his defense. (verdict, 2026-07-23; [06-30](https://youtu.be/4GDfg2n2l8o?t=726), [07-23](https://youtu.be/LUTYUdXBG1M?t=2106), [06-23](https://youtu.be/9tb1ARBEmQU?t=612))
+- He is a poor efficiency player across the board and a weak defender. (verdict, 2026-07-23; [06-30](https://youtu.be/4GDfg2n2l8o?t=726), [07-23](https://youtu.be/LUTYUdXBG1M?t=2106))
 
 **Tags**
-- Current: `minutes competition` (Center minutes are split between Sharpe, Wagner and Wolf. Randle starts at power forward, and Clowney and Minott also want frontcourt minutes.), `role down` (The Randle trade kills his value at power forward.), `unsettled rotation` (Messy center split. The second half is uncertain because of development minutes and a possible Porter trade.), `bottom team` (Projected at about 28 wins and does not own its pick.), `many back-to-backs` (16 back-to-backs, tied for the most in the league.), `sites disagree on price` (ESPN ranks him 164 and Yahoo ranks him 331. Both value him at 0 USD.)
-- Durable: none
+- Current: `role down` (Randle takes the power forward minutes; projected bench role), `minutes competition` (Center split with Day'Ron Sharpe and Mo Wagner), `sites disagree on price` (Yahoo rank 332, ESPN rank 164), `bottom team` (About 28 wins projected), `unsettled rotation` (Brooklyn's center spot is open and many young players compete for frontcourt minutes), `many back-to-backs` (16 back-to-backs, tied for the most in the league), `bad playoff schedule` (3-4-3 (10 games) with a March 28 end, but only one back-to-back)
+- Durable: `defensive liability` (Defense is one reason an expert doubts he is an NBA player)
 
-**Note.** Wolf is not a draft target in our league. Yahoo ranks him 331 and ESPN ranks him 164, both at 0 USD, so he sits well outside the 144 players we draft. He shot 40.5% on 7.7 attempts last season, and the experts see poor efficiency and no breakout. Early in the season, watch whether he takes the starting center job from Sharpe. Only then would ESPN's projection of 24 minutes and 11.5 points make him worth a waiver claim.
+**Note.** Wolf is not a draft target. Both sites value him at 0 USD (ESPN average cost 0.1 USD), Yahoo ranks him 332, and nobody took him in our league last season. No category stands out, so he fits no punt build, and his 40.5% FG on 7.7 attempts last season matches the expert view that he is inefficient. Early in the season, watch on waivers whether Sharpe actually holds the starting center job. Wolf only becomes worth a look if he wins real center minutes.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

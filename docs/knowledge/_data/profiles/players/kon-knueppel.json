@@ -8,113 +8,117 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "80ff4462f3d4",
- "note_count": 27,
- "built_at": "2026-10-11T09:20:47+00:00",
+ "input_sha": "44c6b9c2ae44",
+ "note_count": 28,
+ "built_at": "2026-10-16T09:06:37+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2428702,
-  "duration_ms": 71387,
+  "cost_usd_list": 0.2538742,
+  "duration_ms": 74508,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He has a hamstring injury and misses the preseason. He is to be re-evaluated in week one and might miss one or two games, or none.",
+   "text": "He has a hamstring injury. He missed the preseason and will be re-evaluated in week one. One note says he might miss one or two games, or none. Yahoo lists him as questionable.",
    "kind": "fact",
-   "date": "2026-10-05",
-   "until": "re-evaluation in week one",
-   "sources": [
-    "CRLSsoGhb2w:p7",
-    "BiIZsSypx7Y:p49"
-   ]
-  },
-  {
-   "text": "Charlotte traded away LaMelo Ball and Miles Bridges, which opens usage on the team.",
-   "kind": "fact",
-   "date": "2026-08-26",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:t0",
-    "4GDfg2n2l8o:t0",
-    "Rqb5GdrSweY:t7",
-    "J1Eg3uaAICU:t6"
+    "CRLSsoGhb2w:p7",
+    "BiIZsSypx7Y:p49",
+    "BiIZsSypx7Y:t4",
+    "bd8GYKFOe8A:p15",
+    "stats"
    ]
   },
   {
-   "text": "His usage should rise from 22% to about 24 or 25%, with about 32 minutes. He should take more shots and also commit more turnovers.",
+   "text": "Grayson Allen starts in his place while he is out.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "Knueppel returns from the hamstring injury",
+   "sources": [
+    "CRLSsoGhb2w:t3"
+   ]
+  },
+  {
+   "text": "LaMelo Ball and Miles Bridges are gone from Charlotte. Knueppel is a projected starter with Coby White, Brandon Miller, Naz Reid and Moussa Diabate.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t3",
+    "QbdrhJd7LiA:t2",
+    "RsjGTgJiKyI:t0",
+    "sTtFUy7IoJI:t0"
+   ]
+  },
+  {
+   "text": "His usage should rise from 22% to about 24 or 25%, in about 32 minutes. Experts expect more shots, more threes, more assists and more turnovers.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p25",
     "ya2VYRJ1BN0:p15",
-    "W-R1dzem32s:p28",
     "J1Eg3uaAICU:p28",
-    "ME-r173X5b0:p13"
+    "W-R1dzem32s:p28",
+    "ME-r173X5b0:p13",
+    "dlo7L8Ru91A:p25"
    ]
   },
   {
-   "text": "He is expected to take on more of the creation load, ahead of Brandon Miller, and his assists may rise. Walker calls him a good passer.",
+   "text": "He is one of the candidates to take on creation duties. One preview expects him to carry more of the creation load than Brandon Miller. Playmaking should be spread across White, Knueppel and Miller, and how they split it is the big question for their efficiency.",
    "kind": "verdict",
-   "date": "2026-09-10",
+   "date": "2026-09-27",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:p22",
     "4GDfg2n2l8o:p2",
-    "dlo7L8Ru91A:p25",
-    "gerS7ibpaJo:p10"
-   ]
-  },
-  {
-   "text": "Experts expect his shooting efficiency to drop without LaMelo Ball setting him up. Several say the gain in usage and assists may be offset by worse efficiency.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p49",
-    "QbdrhJd7LiA:p19",
-    "DubdKKhMWHo:p10",
-    "W-R1dzem32s:p28",
-    "gerS7ibpaJo:p9",
-    "sTtFUy7IoJI:p26",
-    "J1Eg3uaAICU:p28",
-    "dlo7L8Ru91A:p25",
+    "EB1Z_6n56-o:t3",
     "CRLSsoGhb2w:t1"
    ]
   },
   {
-   "text": "Experts agree he is overpriced at a market rank in the 30s and 40s. His right range is the 60s. Do not take him in the top 50 or in rounds 3 or 4. One speaker would take him at a rank around 90.",
+   "text": "Experts expect his shooting efficiency to drop without LaMelo Ball setting him up. One thinks people overrate how much Ball's exit helps him.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p8",
     "BiIZsSypx7Y:p49",
+    "QbdrhJd7LiA:p19",
     "DubdKKhMWHo:p10",
-    "gerS7ibpaJo:p9",
-    "sTtFUy7IoJI:p27",
-    "J1Eg3uaAICU:p28",
     "dlo7L8Ru91A:p25",
     "W-R1dzem32s:p28",
-    "_vbAP5y182A:p21",
-    "KPdD91Oo8-U:p16",
-    "QbdrhJd7LiA:p19",
-    "ahNxsoU8Hx4:p64"
+    "gerS7ibpaJo:p9",
+    "sTtFUy7IoJI:p26",
+    "J1Eg3uaAICU:p28"
    ]
   },
   {
-   "text": "In an expert mock auction he sold for 13 USD.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "Experts agree he is overvalued at an ADP in the 30s and 40s. They value him in the 60s to 70s and say not to take him in rounds 3 or 4 or in the top 50. One would take him at an ESPN rank near 91. One doubts he will beat last season's category rank.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p48"
+    "bd8GYKFOe8A:p15",
+    "BiIZsSypx7Y:p49",
+    "CRLSsoGhb2w:p8",
+    "_vbAP5y182A:p21",
+    "QbdrhJd7LiA:p19",
+    "ahNxsoU8Hx4:p64",
+    "DubdKKhMWHo:p10",
+    "KPdD91Oo8-U:p16",
+    "dlo7L8Ru91A:p25",
+    "W-R1dzem32s:p28",
+    "gerS7ibpaJo:p9",
+    "sTtFUy7IoJI:p27",
+    "J1Eg3uaAICU:p28"
    ]
   },
   {
-   "text": "Josh would not pay more than 8 USD for him in an auction.",
+   "text": "In an auction mock draft, Josh would not pay more than 8 USD for him. He went for 13 USD.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -123,24 +127,12 @@
    ]
   },
   {
-   "text": "Projected starters are White, Knueppel, Miller, Reid and Diabaté. Grayson Allen starts while Knueppel is out.",
+   "text": "Charlotte plays 4-3-4 games in our playoff weeks (March 28 end) and has only 13 back-to-backs, the league minimum.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t3"
-   ]
-  },
-  {
-   "text": "Coby White is out with a calf injury and will probably miss the start of the season. Ball handling is to be split among White, Knueppel and Miller, with no single lead creator.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t6",
-    "BiIZsSypx7Y:t4",
-    "CRLSsoGhb2w:t1",
-    "EB1Z_6n56-o:t3"
+    "CRLSsoGhb2w:t5"
    ]
   },
   {
@@ -151,53 +143,32 @@
    "sources": [
     "EB1Z_6n56-o:t0"
    ]
-  },
-  {
-   "text": "Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21, and has only 13 back-to-backs, the league minimum.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t5"
-   ]
-  },
-  {
-   "text": "Charlotte's two-game week starting March 1 should not factor into decisions about him.",
-   "kind": "verdict",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p25",
-    "gf_6GveiAls:t12"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "Threes are his standout category. He made 3.4 threes a game on 42% from three, and his projected volume is far above the top 250 pool.",
+   "text": "His threes made are a league outlier. He made 3.4 threes a game on 42% as a rookie. FT% is also a clear strength.",
    "kind": "fact",
-   "date": "2026-07-07",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats",
-    "ME-r173X5b0:p13",
-    "J1Eg3uaAICU:p29"
+    "ME-r173X5b0:p13"
    ]
   },
   {
-   "text": "He does little beyond points and threes. He gets few steals and blocks and is not a big rebounder.",
-   "kind": "fact",
+   "text": "He does little beyond points and threes. He gets almost no steals or blocks and is not a big rebounder.",
+   "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "W-R1dzem32s:p29",
     "gerS7ibpaJo:p10",
-    "sTtFUy7IoJI:p26",
-    "stats"
+    "sTtFUy7IoJI:p26"
    ]
   },
   {
-   "text": "His shooting was strong overall, 48% from the field, but not in games he played without LaMelo Ball.",
+   "text": "His shooting was great overall as a rookie (48% FG, 42% from three), but not in the games he played without LaMelo Ball.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -206,7 +177,7 @@
    ]
   },
   {
-   "text": "As a rookie he finished 66th in category leagues but fell to 91st over the final two months, a partial rookie wall.",
+   "text": "As a rookie he had an ADP of 111 and finished 66th in category leagues. He faded over the final two months (91st), a partial rookie wall.",
    "kind": "fact",
    "date": "2026-09-03",
    "until": "",
@@ -215,7 +186,7 @@
    ]
   },
   {
-   "text": "His game is not friendly to points leagues. He ranked 66th in 9-cat and 89th in points leagues last season.",
+   "text": "His game is worth more in category leagues than in points leagues. He was 66th in 9-cat and 89th in points last season.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
@@ -223,13 +194,22 @@
     "QbdrhJd7LiA:p18",
     "J1Eg3uaAICU:p28"
    ]
+  },
+  {
+   "text": "He is a good passer.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p22"
+   ]
   }
  ],
  "tags": [
   {
    "name": "3PM specialist",
    "channel": "durable",
-   "detail": "about 3.6 threes a game projected, 42% from three last season",
+   "detail": "3.6 threes a game projected; 3.4 on 42% as a rookie",
    "until": "",
    "sources": [
     "stats",
@@ -238,53 +218,21 @@
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no category flagged weak, though steals, blocks and TO are below average",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "66th in 9-cat, 89th in points leagues last season",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:p18",
-    "J1Eg3uaAICU:p28"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "needs playmaker",
-   "channel": "durable",
-   "detail": "shot worse without LaMelo Ball on the floor",
-   "until": "",
-   "sources": [
-    "J1Eg3uaAICU:p29",
-    "W-R1dzem32s:p28",
-    "DubdKKhMWHo:p10"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "injured now",
    "channel": "current",
-   "detail": "hamstring, misses preseason, re-evaluated in week one",
-   "until": "re-evaluation in week one",
+   "detail": "hamstring; missed preseason, re-evaluated in week one",
+   "until": "",
    "sources": [
     "CRLSsoGhb2w:p7",
-    "BiIZsSypx7Y:p49"
+    "bd8GYKFOe8A:p15",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "Yahoo Q (hamstring)",
+   "detail": "Yahoo Q (Hamstring)",
    "until": "",
    "sources": [
     "stats"
@@ -294,52 +242,13 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "usage from 22% to about 25% with Ball and Bridges gone",
+   "detail": "usage from 22% to about 24-25% with Ball and Bridges gone",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p25",
     "ya2VYRJ1BN0:p15",
-    "EB1Z_6n56-o:p22"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "regression risk",
-   "channel": "current",
-   "detail": "shooting efficiency expected to drop without LaMelo Ball",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p49",
-    "QbdrhJd7LiA:p19",
-    "DubdKKhMWHo:p10",
-    "gerS7ibpaJo:p9",
-    "sTtFUy7IoJI:p26",
-    "J1Eg3uaAICU:p28"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "market rank in the 30s and 40s, experts value him in the 60s",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p8",
-    "sTtFUy7IoJI:p27",
-    "dlo7L8Ru91A:p25",
     "W-R1dzem32s:p28",
-    "gerS7ibpaJo:p9",
-    "QbdrhJd7LiA:p19"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo average cost 9.5 USD, rank 63; ESPN average cost 15.4 USD, rank 40",
-   "until": "",
-   "sources": [
-    "stats"
+    "J1Eg3uaAICU:p28"
    ],
    "new_meaning": ""
   },
@@ -350,8 +259,68 @@
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t0",
-    "4GDfg2n2l8o:t0",
-    "Rqb5GdrSweY:t7"
+    "Rqb5GdrSweY:t7",
+    "J1Eg3uaAICU:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "efficiency expected to drop without LaMelo Ball",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p49",
+    "DubdKKhMWHo:p10",
+    "sTtFUy7IoJI:p26",
+    "gerS7ibpaJo:p9",
+    "QbdrhJd7LiA:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "shot worse in games without LaMelo Ball",
+   "until": "",
+   "sources": [
+    "J1Eg3uaAICU:p29",
+    "W-R1dzem32s:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "ADP in the 30s and 40s; experts value him in the 60s to 70s",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p8",
+    "sTtFUy7IoJI:p27",
+    "dlo7L8Ru91A:p25",
+    "W-R1dzem32s:p28",
+    "bd8GYKFOe8A:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "66th in 9-cat vs 89th in points last season",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p18",
+    "J1Eg3uaAICU:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 68 and 9.5 USD average cost vs ESPN rank 40 and 14.9 USD",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -369,7 +338,7 @@
   {
    "name": "three-point heavy",
    "channel": "current",
-   "detail": "",
+   "detail": "Charlotte leaning fully into spacing",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:t0"
@@ -379,7 +348,17 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13, the league minimum",
+   "detail": "13 back-to-backs, league minimum",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 games in weeks 19 to 21",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t5"
@@ -387,6 +366,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Knueppel is a 3PM specialist with good FT% and points and no weak category. He fits any build that wants threes, but he gives little in steals and blocks. Every expert says his market rank in the 30s and 40s is too high and puts him in the 60s. ESPN has his average cost at 15.4 USD while Yahoo has it at 9.5 USD, and in an expert mock he sold for 13 USD against Josh's limit of 8 USD. So stay around 8 to 12 USD and let others pay more. Early in the season, check his hamstring after the week-one re-evaluation and whether his FG% holds near last season's 47.5% now that he takes more shots without LaMelo Ball.",
+ "note": "Experts agree he is overpriced at an ADP in the 30s and 40s and value him in the 60s. Yahoo's 9.5 USD average cost fits that better than ESPN's 14.9 USD (Yahoo values him at 16 USD), and one expert's mock ceiling was 8 USD. He is a clear 3PM and FT% asset for builds that chase threes, but he brings almost no steals or blocks. Early on, check how his hamstring recovers, how his usage grows and whether his 47% FG holds up without LaMelo Ball.",
  "rejected": []
 }

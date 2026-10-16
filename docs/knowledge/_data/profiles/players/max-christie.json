@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "60e54e470e00",
+ "input_sha": "e6d490f52008",
  "note_count": 7,
- "built_at": "2026-10-04T17:42:25+00:00",
+ "built_at": "2026-10-16T09:08:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1943608,
-  "duration_ms": 41878
+  "cost_usd_list": 0.1519382,
+  "duration_ms": 33324,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is almost certain to start. Josh's projected Dallas starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr.",
+   "text": "He is projected to start for Dallas. Josh's projected starting five is Kyrie Irving, Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -29,107 +31,106 @@
    ]
   },
   {
-   "text": "Dusty May, the new Dallas head coach, has said Christie will have a breakout year.",
+   "text": "New head coach Dusty May has said Christie will have a breakout year.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-07-27",
    "until": "",
    "sources": [
-    "0AptxcRW0RE:p19",
-    "XSPJL_mlFXo:t1"
+    "0AptxcRW0RE:p19"
    ]
   },
   {
-   "text": "Experts see no real upside for him this season, especially with Kyrie Irving back. Cooper Flagg is the first priority on offense and Kyrie is second, and Kyrie's shots come mostly from players other than Flagg.",
+   "text": "Experts see no real upside, especially with Kyrie Irving back. Josh is not interested in him outside 18 or 20 team leagues, so he is not a draft target in a 12-team league.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
     "g31YlwRe0XQ:p51",
+    "XSPJL_mlFXo:p14"
+   ]
+  },
+  {
+   "text": "Cooper Flagg is the first option on offense and Kyrie Irving is the second, which caps Christie's shots.",
+   "kind": "fact",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
     "2A2JbUN-kc0:t5",
     "dlo7L8Ru91A:t0"
    ]
   },
   {
-   "text": "Josh is not interested in Christie outside 18 or 20 team leagues.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:p14"
-   ]
-  },
-  {
-   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league, but also a league-high 16 back-to-backs. Dallas has a two-game week in the matchup starting March 1.",
+   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league, but also a league-high 16 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3",
+    "gf_6GveiAls:t3"
+   ]
+  },
+  {
+   "text": "Dallas has a two-game week in the matchup that starts March 1.",
+   "kind": "fact",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
     "gf_6GveiAls:t13"
+   ]
+  },
+  {
+   "text": "Dallas has no pick of its own, so it has no reason to tank late in the season.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t10"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He shot 40% from three and about 90% on free throws.",
+   "text": "He is an efficient shooter: about 40% from three and about 90% at the line. He takes under two free throws a game, so his FT% moves a team ratio only a little.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p13",
-    "0AptxcRW0RE:p20"
-   ]
-  },
-  {
-   "text": "He takes under two free throws a game, so his high FT% moves a team's FT% only a little.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:p13",
+    "0AptxcRW0RE:p20",
     "stats"
    ]
   },
   {
-   "text": "He is a pure scorer with good efficiency, but he struggles to scale up his scoring.",
-   "kind": "verdict",
+   "text": "He gives little outside threes and free throws. He rarely passes, does not create steals or blocks and does not crash the glass. Steals are his weakest category.",
+   "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p13",
-    "0AptxcRW0RE:p20"
+    "0AptxcRW0RE:p21",
+    "stats"
    ]
   },
   {
-   "text": "His assists, steals and blocks are poor. He rarely passes, does not generate steals and does not crash the glass.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:p13",
-    "0AptxcRW0RE:p21"
-   ]
-  },
-  {
-   "text": "He is not a big self-creator.",
+   "text": "Josh says he struggles to scale up his scoring and is not a big self-creator.",
    "kind": "verdict",
    "date": "2026-07-27",
    "until": "",
    "sources": [
+    "0AptxcRW0RE:p20",
     "0AptxcRW0RE:p21"
    ]
   }
  ],
  "tags": [
   {
-   "name": "good playoff schedule",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Dallas plays 4-4-4 in weeks 19 to 21, but has a league-high 16 back-to-backs",
+   "detail": "Cooper Flagg and Kyrie Irving are the first two options on offense",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:t4",
-    "gf_6GveiAls:t3"
+    "2A2JbUN-kc0:t5",
+    "g31YlwRe0XQ:p51"
    ],
    "new_meaning": ""
   },
@@ -139,12 +140,64 @@
    "detail": "Not a big self-creator; struggles to scale up his scoring",
    "until": "",
    "sources": [
-    "0AptxcRW0RE:p21",
-    "0AptxcRW0RE:p20"
+    "0AptxcRW0RE:p20",
+    "0AptxcRW0RE:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May, who has said Christie will break out",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1",
+    "0AptxcRW0RE:p19"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Dallas plays 4-4-4 in the playoff weeks",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "League-high 16 back-to-backs",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Dallas has no pick, so no reason to tank",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "77 and 78 games in the last two seasons",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value Christie at 0 USD (Yahoo rank 252, ESPN rank 178), and Josh only wants him in 18 or 20 team leagues. Do not draft him in our 12 team auction. He is a likely starter whose value is about 2.2 threes and 88% FT on low volume, with below-average FG%, steals, assists and rebounds, so he is at most a streaming option for threes. Early in the season, check whether his shot volume holds with Kyrie Irving back. Dallas's 4-4-4 playoff schedule makes him a possible late-season streamer.",
+ "note": "He is priced at 0 USD on both Yahoo and ESPN (Yahoo rank 256, ESPN 183), and he went undrafted in our league. Experts only want him in 18 or 20 team leagues, so let him go undrafted in our 144-player auction. Early in the season, check on waivers whether Dusty May's offense raises his shot volume above about 9 to 10 attempts a game, or whether a Kyrie Irving absence opens usage. If it does, his threes, FT% and Dallas's 4-4-4 playoff schedule could make him a useful streamer for builds that need threes.",
  "rejected": []
 }

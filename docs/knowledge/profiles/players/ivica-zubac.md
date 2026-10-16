@@ -4,28 +4,28 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 69 | 31.1 | 62.3 (10.3) | 69.5 (2.9) | 0.0 | 14.9 | 11.3 | 2.2 | 0.5 | 1.1 | 1.6 |
-| 2026-27 proj, Yahoo | 72 | - | 61.8 (10.2) | 68.8 (2.8) | 0.0 | 14.5 | 11.0 | 2.2 | 0.5 | 1.0 | 1.6 |
+| 2026-27 proj, Yahoo | 72 | - | 61.8 (10.8) | 71.2 (3.0) | 0.0 | 15.5 | 11.7 | 2.3 | 0.5 | 1.1 | 1.7 |
 | 2025-26 | 48 | 30.2 | 59.8 (10.0) | 71.1 (3.0) | 0.0 | 14.1 | 10.6 | 2.2 | 0.4 | 0.8 | 1.8 |
 | 2024-25 | 80 | 32.8 | 62.8 (11.8) | 66.1 (3.0) | 0.0 | 16.8 | 12.6 | 2.7 | 0.7 | 1.1 | 1.6 |
 | 2023-24 | 68 | 26.4 | 64.9 (7.6) | 72.3 (2.4) | 0.0 | 11.7 | 9.2 | 1.4 | 0.3 | 1.2 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 6.7 | 54 | 5 | 5.3 | 75 | 20 |
+| 2026-27 | 18 | 6.6 | 54 | 5 | 6.0 | 75 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 62.1% | +2.6 | +1.4 | league outlier, strong |
-| FT% | 69.2% | -1.1 | -0.3 | - |
+| FG% | 62.1% | +2.7 | +1.5 | league outlier, strong |
+| FT% | 70.3% | -1.0 | -0.2 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
-| PTS | 14.7 | +0.1 | +0.3 | - |
-| REB | 11.2 | +2.5 | +1.5 | league outlier, strong |
-| AST | 2.2 | -0.5 | -0.1 | - |
-| STL | 0.5 | -1.3 | -1.1 | weak for his position (punt fit) |
-| BLK | 1.1 | +1.0 | -0.0 | - |
-| TO | 1.6 | +0.1 | -0.1 | - |
+| PTS | 15.2 | +0.2 | +0.4 | - |
+| REB | 11.5 | +2.7 | +1.7 | league outlier, strong |
+| AST | 2.3 | -0.5 | -0.1 | - |
+| STL | 0.5 | -1.3 | -1.0 | - |
+| BLK | 1.1 | +1.0 | +0.0 | - |
+| TO | 1.6 | +0.0 | -0.2 | - |
 
 </details>
 
@@ -54,8 +54,10 @@
 
 **Tags**
 - Current: `minutes limit` (Carlisle keeps center minutes around 30; Huff is the backup), `bounce-back` (experts disagree; Josh doubts a return to top 30 form), `injury last season` (fractured rib and ankle injury; no concern now), `expert target` (best Pacers target; good value at ESPN ADP around 95, Yahoo rank too high), `sites disagree on price` (Yahoo value 18 USD, rank 54; ESPN value 5 USD, rank 75), `winning team` (46 to 48 wins projected), `bad playoff schedule` (3-4-3 games in weeks 19 to 21 with a March 28 end), `back-to-back risk` (Carlisle rests players on back-to-backs; 15 back-to-backs)
-- Durable: `FG% anchor` (62% FG on about 10 attempts), `REB specialist` (about 11 rebounds projected), `no 3PM`, `punt 3PM fit`, `punt STL fit`, `9-cat fluff` (2024-25 rank of 35 overstated his value)
+- Durable: `FG% anchor` (62% FG on about 10 attempts), `REB specialist` (about 11 rebounds projected), `no 3PM`, `punt 3PM fit`, `9-cat fluff` (2024-25 rank of 35 overstated his value)
 
 **Note.** Zubac gives you elite FG% and rebounds (z +2.6 and +2.5) with no threes and few steals. That makes him a natural fit for punt 3PM and punt STL builds, and his low FT% volume (2.8 attempts) does little damage. Prices range from 5 USD at ESPN to 18 USD at Yahoo, and our league paid 20 USD last season. The experts cap him at about 14 USD and rank him 60 to 75 in categories, so aim for 10 to 14 USD and let someone else pay 20 USD. Early in the season, watch whether Carlisle gives him more than 30 minutes and how the minutes split with Huff. Also note that Indiana plays only 3, 4 and 3 games in our playoff weeks.
+
+<sub>Tags removed by the category check: punt STL fit (STL z -1.0 vs position, needs -1.0).</sub>
 
 <sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>

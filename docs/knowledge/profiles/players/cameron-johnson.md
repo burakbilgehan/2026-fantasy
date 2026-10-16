@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 146 | 0 | 0.3 | 140 | 4 |
+| 2026-27 | 0 | 1.0 | 148 | 0 | 0.3 | 140 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- Peyton Watson has left Denver. Johnson is projected to start at forward next to Jamal Murray, Christian Braun, Aaron Gordon and Nikola Jokic. (fact, 2026-10-02; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [09-10](https://youtu.be/dlo7L8Ru91A?t=1762), [10-02](https://youtu.be/ZYllcj4o6_A?t=878))
-- Watson's exit helps him. Experts expect he has to start. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=878), [09-10](https://youtu.be/dlo7L8Ru91A?t=1762))
-- He is a late swing pick. A top 120 season is possible. If his usage rises from 15 to 18 he could reach the top 100, and the best case is about top 90. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=878), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1045))
-- Outside his efficient shooting, he was bad last season. He played well after his late-season return. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=878), [09-10](https://youtu.be/dlo7L8Ru91A?t=1762))
-- Denver plays 43 games through March 28, one below the max. The team has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
-- Moore expects Denver to trade him so the team can get under the second apron. Moore thinks at least two of last year's starters, Johnson among them, will be gone by the trade deadline. (verdict, 2026-08-02; [07-31](https://youtu.be/keNupMSHp1Y?t=387), [07-31](https://youtu.be/keNupMSHp1Y?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
-- Denver lost Tim Hardaway Jr. and is short on spacing. The team needs shooters who will shoot off Jokic's gravity, which suits his role. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
+- Experts in mock drafts see him as good value as a last-round pick, around picks 123 to 144. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1607), [10-13](https://youtu.be/OsbUAkSeVB4?t=1494), [10-13](https://youtu.be/DzQXaC2rsac?t=1485), [10-12](https://youtu.be/ENizLoE6pzI?t=1938), [10-11](https://youtu.be/uI6umXsE7Vk?t=1766))
+- Experts expect a bounce-back season and say he could be clearly better than last season. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1485), [10-11](https://youtu.be/uI6umXsE7Vk?t=1766))
+- Peyton Watson has left Denver. Johnson is a projected starter at forward next to Aaron Gordon and Nikola Jokic. (fact, 2026-10-02; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307), [09-10](https://youtu.be/dlo7L8Ru91A?t=1762), [10-02](https://youtu.be/ZYllcj4o6_A?t=878))
+- With Watson gone, experts say Johnson should have to start, and that the change helps his outlook. (verdict, 2026-10-02; [09-10](https://youtu.be/dlo7L8Ru91A?t=1762), [10-02](https://youtu.be/ZYllcj4o6_A?t=878))
+- A top 120 season is possible. If his usage rises from 15 to 18 percent he could be top 100, and the best case is about top 90. (verdict, 2026-10-02; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1045), [10-02](https://youtu.be/ZYllcj4o6_A?t=878))
+- Denver plays 43 games through March 28, one fewer than the most any team plays, and has only 14 back-to-backs, one of the lowest totals in the league. It also gets one of only three five-game weeks this season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [08-16](https://youtu.be/gf_6GveiAls?t=1304))
+- One expert expects Denver to trade Johnson to get under the second apron, before the trade deadline. (verdict, 2026-08-02; [07-31](https://youtu.be/keNupMSHp1Y?t=387), [07-31](https://youtu.be/keNupMSHp1Y?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=226))
+- Denver is short on spacing after losing Tim Hardaway Jr. and needs shooters who will shoot off Jokic. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=409))
 
 **Durable**
-- He is an elite shooter who does little else. He adds threes, free throws at a good percentage and solid FG%, and he has few turnovers for his role. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1103), stats)
-- He is 30 and has a history of ankle and hip injuries. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1103))
+- He is an elite shooter who does little else. He gives threes, a good free throw percentage and a solid field goal percentage. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1103), stats)
+- He is 30 and has a history of ankle and hip injuries. He has played 58 or fewer games in each of the last three seasons. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1103), stats)
 
 **Tags**
-- Current: `trade risk` (Moore expects a trade so Denver can get under the second apron), `role up` (projected starter now that Peyton Watson has left), `flyer` (late swing pick, best case about top 90), `few back-to-backs` (14 back-to-backs, one of the lowest counts), `injury last season` (54 games, returned late in the season)
-- Durable: `fits every build` (no weak category, helps with threes, FT% and low turnovers), `injury prone` (ankle and hip injury history; 54 to 58 games in each of the last three seasons)
+- Current: `bounce-back` (Experts expect him to be clearly better than last season), `role up` (Should have to start with Peyton Watson gone), `sleeper` (Priced at about 1 USD; experts like him as a last-round pick), `trade risk` (Expected to be traded so Denver can get under the second apron; until 2027-03-04), `trades likely` (At least two of last year's starters expected to be gone by the deadline; until 2027-03-04), `few back-to-backs` (14 back-to-backs, one of the lowest totals in the league)
+- Durable: `3PM from a big` (About 2.1 threes per game projected, well above other forwards), `fits every build` (No weak category flagged), `injury prone` (Ankle and hip injury history; 58 or fewer games in each of the last three seasons)
 
-**Note.** Yahoo ranks him 135 and ESPN 141, and both value him at 0 USD. That puts him on the edge of our 144-player draft, so he should cost 1 to 2 USD, below the 4 USD our league paid last season. He fits any build as a cheap source of threes and FT% with few turnovers, and the experts see a top 90 to 120 ceiling if his usage rises as a starter. Early in the season, check whether his usage goes up from about 15 and watch for trade news, since a deal could shrink his role.
+**Note.** He ranks 148 on Yahoo and 140 on ESPN, right at the edge of our 144-player draft. Both sites price him at about 1 USD, and he went for 4 USD in our league last season, so he is a 1 to 2 USD last pick for threes, FT% and low turnovers that fits any build. Early in the season, check whether his usage rises toward 18 percent as a starter and whether Denver trades him, because a trade could shrink his role.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

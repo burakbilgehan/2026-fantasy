@@ -8,41 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e90bc0fcecd0",
- "note_count": 16,
- "built_at": "2026-10-11T09:21:31+00:00",
+ "input_sha": "ee0eb4ac16aa",
+ "note_count": 25,
+ "built_at": "2026-10-16T09:09:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18023419999999998,
-  "duration_ms": 46326,
+  "cost_usd_list": 0.1931582,
+  "duration_ms": 46192,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte traded him to Phoenix for Grayson Allen and Royce O'Neale.",
+   "text": "Phoenix acquired Bridges in a trade that sent Grayson Allen and Royce O'Neale out.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p9",
-    "QbdrhJd7LiA:p41",
-    "Rqb5GdrSweY:p33"
+    "QbdrhJd7LiA:p41"
    ]
   },
   {
-   "text": "He is the projected starting power forward in Phoenix.",
+   "text": "He is the projected starting power forward, next to Jalen Green, Devin Booker, Dillon Brooks and Oso Ighodaro.",
    "kind": "fact",
-   "date": "2026-08-23",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
     "hm5-fiCa5S4:p23",
-    "W3THnI7wWdA:p9"
+    "MRzebgip23Y:t1"
    ]
   },
   {
-   "text": "The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Devin Booker.",
+   "text": "The Suns hope his ball handling, rim pressure and catch-and-shoot threes take pressure off Booker.",
    "kind": "fact",
    "date": "2026-08-23",
    "until": "",
@@ -51,116 +50,132 @@
    ]
   },
   {
-   "text": "He shares the ball with Devin Booker, Jalen Green, Dillon Brooks and Collin Gillespie.",
+   "text": "He shares the ball with Booker, Jalen Green, Dillon Brooks and Collin Gillespie. His usage was only 20% in preseason.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p37",
+    "MRzebgip23Y:p10",
     "eTsjuVu1trk:p45",
-    "QbdrhJd7LiA:p41",
     "uarqbNA2dFk:p19",
+    "-DN4P92Wp8Y:p37",
     "uarqbNA2dFk:t1",
-    "-DN4P92Wp8Y:t7"
+    "LM0cRCGoAUQ:p50"
    ]
   },
   {
-   "text": "Experts expect Booker, Green and Brooks to be ahead of him in usage, so he should lose value in Phoenix.",
+   "text": "Experts expect his usage to drop in Phoenix, and they expect his value to drop with it.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p37",
+    "MRzebgip23Y:p10",
     "LM0cRCGoAUQ:p50",
-    "eTsjuVu1trk:p45",
-    "-DN4P92Wp8Y:t7"
+    "eTsjuVu1trk:p45"
    ]
   },
   {
-   "text": "Experts call him a bust at his market price. A rank near 100 is 20 to 30 spots too high, pick 89 is too early, and an ESPN rank near 80 is a wasted pick.",
+   "text": "He sprained his ankle in preseason. He seems okay, but Yahoo lists him as questionable.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p10"
+   ]
+  },
+  {
+   "text": "Experts call him a bust at a rank around 80 to 100. ESPN's rank near 77 to 80 and an ADP near 99 are 20 to 30 spots too high.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p37",
     "eTsjuVu1trk:p45",
-    "QbdrhJd7LiA:p41",
     "uarqbNA2dFk:p19",
-    "KPdD91Oo8-U:p22"
+    "QbdrhJd7LiA:p41",
+    "-DN4P92Wp8Y:p37",
+    "KPdD91Oo8-U:p22",
+    "uI6umXsE7Vk:p61"
    ]
   },
   {
-   "text": "Yahoo lists him as questionable with an ankle injury.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "Around pick 120 to 140 he is fair to good value. He slides to rounds 11 to 12 in mock drafts. One expert calls a rank of about 120 right, and another says 120 is too late for him.",
+   "kind": "verdict",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "stats"
+    "MRzebgip23Y:p8",
+    "D4dP5JvX1oo:p25",
+    "OsbUAkSeVB4:p29",
+    "EogBYa24Gto:p28",
+    "w66x_I_MaQ8:p46",
+    "ENizLoE6pzI:p34",
+    "uI6umXsE7Vk:p61"
+   ]
+  },
+  {
+   "text": "Phoenix has the best fantasy schedule in the league: 4 games in each of weeks 19, 20 and 21, plus the fewest back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His best production came when LaMelo Ball and Brandon Miller were injured and his usage went up. His minutes shrank late last season when he was asked to scale back.",
-   "kind": "fact",
-   "date": "2026-08-23",
-   "until": "",
-   "sources": [
-    "hm5-fiCa5S4:p22"
-   ]
-  },
-  {
-   "text": "He only puts up strong numbers as the number one option with high usage.",
+   "text": "He only puts up strong numbers when he is the number one option with high usage. His best production came when LaMelo Ball and Brandon Miller were injured. His minutes shrank when he was asked to scale back.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p9",
     "-DN4P92Wp8Y:p38",
     "LM0cRCGoAUQ:p50",
     "hm5-fiCa5S4:p22"
    ]
   },
   {
-   "text": "His athleticism and his finishing at the rim have declined over the last three years.",
-   "kind": "fact",
-   "date": "2026-09-19",
+   "text": "His athleticism has declined a lot in recent years. He no longer gets many steals or blocks, and his finishing at the rim has dropped.",
+   "kind": "verdict",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p9",
     "hm5-fiCa5S4:p20",
+    "hm5-fiCa5S4:p21",
     "EB1Z_6n56-o:p26",
-    "uarqbNA2dFk:p19"
+    "uarqbNA2dFk:p19",
+    "eTsjuVu1trk:p45"
    ]
   },
   {
-   "text": "He shot 33% from three last season.",
+   "text": "He shot 33% from three last season. Experts say his three-point shot was never reliable outside one outlier season.",
    "kind": "fact",
    "date": "2026-08-23",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p20"
+    "hm5-fiCa5S4:p20",
+    "EB1Z_6n56-o:p26"
    ]
   },
   {
-   "text": "Experts call him a poor shooter whose three-point shot was only good in one outlier season.",
+   "text": "Experts rate him as a poor passer and at best an inconsistent defender.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "EB1Z_6n56-o:p26",
     "hm5-fiCa5S4:p21",
-    "eTsjuVu1trk:p45",
-    "uarqbNA2dFk:p19"
+    "hm5-fiCa5S4:p24",
+    "eTsjuVu1trk:p45"
    ]
   },
   {
-   "text": "He adds few steals and blocks.",
+   "text": "His category profile is broad with no weak outlier. Points, rebounds, threes and FT% are modest pluses, and FG% and steals are modest minuses.",
    "kind": "fact",
-   "date": "2026-10-06",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p21",
-    "eTsjuVu1trk:p45",
-    "uarqbNA2dFk:p19",
     "stats"
    ]
   }
@@ -180,22 +195,33 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Booker, Jalen Green, Dillon Brooks and Gillespie",
+   "detail": "Booker, Jalen Green, Dillon Brooks, Gillespie",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p37",
     "eTsjuVu1trk:p45",
     "uarqbNA2dFk:p19",
-    "uarqbNA2dFk:t1"
+    "-DN4P92Wp8Y:p37",
+    "MRzebgip23Y:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "usage expected to drop; 20% usage in preseason",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage dependent",
    "channel": "durable",
-   "detail": "only produces as the number one option",
+   "detail": "produces only as the number one option",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p9",
     "-DN4P92Wp8Y:p38",
     "LM0cRCGoAUQ:p50",
     "hm5-fiCa5S4:p22"
@@ -203,56 +229,52 @@
    "new_meaning": ""
   },
   {
-   "name": "role down",
-   "channel": "current",
-   "detail": "expected to fall behind Booker, Green and Brooks in usage",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p37",
-    "LM0cRCGoAUQ:p50"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "rank near 80 to 100 seen as 20 to 30 spots too high",
+   "detail": "at a rank around 80 to 100 (ESPN rank, ADP near 99)",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p37",
     "eTsjuVu1trk:p45",
-    "QbdrhJd7LiA:p41",
     "uarqbNA2dFk:p19",
-    "KPdD91Oo8-U:p22"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "athleticism and rim finishing declining",
-   "until": "",
-   "sources": [
-    "hm5-fiCa5S4:p20",
-    "EB1Z_6n56-o:p26",
-    "uarqbNA2dFk:p19"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "ankle, Yahoo status Q",
-   "until": "",
-   "sources": [
-    "stats"
+    "QbdrhJd7LiA:p41",
+    "-DN4P92Wp8Y:p37"
    ],
    "new_meaning": ""
   },
   {
    "name": "questionable",
    "channel": "current",
-   "detail": "ankle",
+   "detail": "preseason ankle sprain, seems okay",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Phoenix has the fewest in the league",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -260,6 +282,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Bridges sits on the edge of our 144-player pool: Yahoo ranks him 101 and ESPN 78, and both price him at only 3 to 5 USD. Our league paid 11 USD for him last season, but every recent expert note calls him a bust behind Booker, Green and Brooks. He projects for about 18 points, 2.1 threes and 84% FT, but he hurts FG% and steals and does not clearly fit any punt build. Do not pay more than a few USD. If you draft him, check his ankle (Yahoo Q) and his shot share in Phoenix in the first two weeks, and drop him if his usage shrinks.",
+ "note": "Our league paid 11 USD for him last season. This year Yahoo values him at 5 USD (average cost 1.7) and ESPN at 4 USD (rank 78), and experts see fair value only around pick 120 to 140. That puts him in the last rounds of our 144-player pool, so treat him as a 1 to 4 USD end-of-draft forward with no weak category and a 4-4-4 playoff schedule, and do not pay for an ESPN rank near 78. Early in the season, check his ankle and whether his usage holds up next to Booker, Jalen Green and Brooks, because his value needs a big shot share.",
  "rejected": []
 }

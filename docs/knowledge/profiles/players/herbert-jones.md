@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 162 | 0 | 0.1 | 196 | 5 |
+| 2026-27 | 0 | - | 167 | 0 | 0.1 | 196 | 5 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,33 +20,37 @@
 | FG% | 40.7% | -1.1 | -1.1 | weak for his position (punt fit) |
 | FT% | 82.6% | +0.2 | +0.0 | - |
 | 3PM | 1.4 | -0.2 | -0.4 | - |
-| PTS | 9.1 | -0.9 | -0.9 | - |
-| REB | 3.4 | -0.7 | -0.6 | - |
-| AST | 2.7 | -0.3 | -0.4 | - |
+| PTS | 9.1 | -0.8 | -0.9 | - |
+| REB | 3.4 | -0.7 | -0.7 | - |
+| AST | 2.7 | -0.3 | -0.3 | - |
 | STL | 1.5 | +1.8 | +1.7 | - |
 | BLK | 0.5 | -0.1 | +0.2 | - |
-| TO | 1.3 | +0.5 | +0.5 | - |
+| TO | 1.3 | +0.5 | +0.6 | - |
 
 </details>
 
 **Current**
-- New coach Jamahl Mosley brings a defense-first identity to New Orleans. (fact, 2026-10-09; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- New Orleans has more rotation players than minutes, with about eight players who could start. This minutes crunch makes his role hard to project. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
-- The last Pelicans starting spot is between Jeremiah Fears and Jones. Dejounte Murray, Trey Murphy and Zion Williamson are locked in, and Yves Missi likely starts. (fact, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
-- A Pelicans beat reporter expects Jeremiah Fears to start over Jones. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Experts are lukewarm on his draft value. One doubts he is worth drafting in standard category leagues. Another is not a big fan but places him in the right range for late-round steals. (verdict, 2026-09-10; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [09-10](https://youtu.be/W-R1dzem32s?t=1906))
-- Experts see the Pelicans as a weak team near the bottom of the West, at about 34 wins. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
+- The Pelicans roster is crowded, with about eight players who could start, and it is unclear how the 240 minutes will be split. (fact, 2026-10-11; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [10-11](https://youtu.be/uI6umXsE7Vk?t=762))
+- Experts disagree on whether he starts. The newest preview projects him as a starter, while a Pelicans beat reporter expects Fears to start over him. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=857), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- Even as a starter, he may play under 27 minutes. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=857))
+- Jamahl Mosley is the new head coach and brings a defense-first identity. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=101), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- With a March 28 end, the Pelicans play 4, 4 and 3 games in our playoff weeks. The expert calls this good. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- The Pelicans have a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- He and Jeremiah Fears compete for the last starting spot next to Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- The expert is not a big fan, but sees his ranking area as the right place for late-round steals. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1906))
+- Experts see the Pelicans as a weak team. The highest projection is about 34 wins, which would still miss the playoffs. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
 
 **Durable**
-- His projected FG% is weak for his position, which makes him a fit for punt FG% builds. (fact, 2026-10-11; stats)
-- Steals are his clear best category. He adds some blocks and the occasional three. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588), stats)
-- He rarely shoots and scores little, so he is worth more in category leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588))
-- He is not a true floor spacer. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=513))
+- His FG% is low for his position, so he fits teams that punt FG%. (verdict, 2026-10-16; stats)
+- Steals are his one real fantasy category. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=876), [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588), stats)
+- He rarely shoots and is not dynamic on offense. He adds little in points, rebounds, threes or assists. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=876), [08-30](https://youtu.be/Alwse2uXzD4?t=1573), stats)
+- He is worth more in category leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1573), [08-24](https://youtu.be/g31YlwRe0XQ?t=2588))
+- He is not a true floor spacer, even though he once shot about 42% from three. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=513))
 
 **Tags**
-- Current: `minutes competition` (Competes with Jeremiah Fears for the last starting spot), `deep rotation` (About eight Pelicans who could start), `unsettled rotation` (Pelicans roles hard to project), `new coach` (Jamahl Mosley), `bottom team` (About 34 wins projected, bottom of the West), `waiver watch` (Ranked outside the 144 drafted players; watch whether he wins the starting spot)
-- Durable: `category league player` (Value is in steals; scores little and rarely shoots), `punt FG fit` (Projected FG% about 41% on 8 attempts), `defense-first` (Mosley brings a defense-first identity)
+- Current: `minutes competition` (Jeremiah Fears for the last starting spot), `deep rotation` (about eight Pelicans who could start), `unsettled rotation` (minutes split unclear), `new coach` (Jamahl Mosley), `good playoff schedule` (4-4-3 games in weeks 19 to 21 with a March 28 end), `many back-to-backs` (league-high 16), `bottom team` (about 34 wins projected, weak in the West)
+- Durable: `category league player` (value comes from steals, not a points-league player), `punt FG fit` (projected about 41% FG)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD, at ranks 162 and 196. That puts him outside the 144 players our league drafts, even though he cost 5 USD here last season. He only makes sense as a 1 USD steals add for a punt FG% build, because his projected FG% of about 41% hurts any other team. Early in the season, check whether he or Jeremiah Fears wins the last Pelicans starting spot, and pick him up from waivers if he starts and plays heavy minutes.
+**Note.** He sits right at the edge of our 144-player draft pool (Yahoo rank 167, ESPN 196, 0 USD value on both sites), so he is a 1 USD final-round steals pick at most. Last season's 5 USD in our league is too much. He mainly fits punt FG% builds that need steals, since his projected 41% FG on about 8 shots hurts and his other counting stats are thin. Early in the season, check whether he starts ahead of Jeremiah Fears and plays more than 27 minutes. If not, leave him on waivers.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

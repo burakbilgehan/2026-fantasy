@@ -1,0 +1,202 @@
+{
+ "player": {
+  "name": "Carter Bryant",
+  "slug": "carter-bryant",
+  "pk": 73,
+  "team": "SAS",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "0a76ae4c8ac7",
+ "note_count": 4,
+ "built_at": "2026-10-16T08:47:21+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1366142,
+  "duration_ms": 25762,
+  "turns": 2,
+  "denied": 0
+ },
+ "current": [
+  {
+   "text": "He is projected to come off the bench. The projected Spurs bench is Champagnie, Harris, Kornet, Keldon Johnson and Bryant.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t3"
+   ]
+  },
+  {
+   "text": "He is likely the 10th man in the rotation, ahead of Harrison Barnes. As the next young forward, he puts pressure on Barnes's minutes.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p25",
+    "ZAyie8lKyYc:p36"
+   ]
+  },
+  {
+   "text": "He should see more minutes as the long-term power forward next to Wembanyama.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p25"
+   ]
+  },
+  {
+   "text": "He blocked 2 shots a game over two Summer League games.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p4"
+   ]
+  },
+  {
+   "text": "The Spurs are very deep at forward. Minutes may stay low across the roster after the long playoff run.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t1",
+    "c-WwNRgVxkI:t2",
+    "ZAyie8lKyYc:t4",
+    "ZAyie8lKyYc:t5"
+   ]
+  },
+  {
+   "text": "The Spurs are expected to consolidate their forward depth through trades, though not right away.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t4"
+   ]
+  },
+  {
+   "text": "The Spurs have only 13 back-to-backs. Their fantasy playoff schedule is 3-4-3 games for a March 28 end, which is okay but not great.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
+   ]
+  },
+  {
+   "text": "The Spurs are projected to win about 63 games and could take the top seed in the West.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t7",
+    "75Sk_4fkgIM:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "His shooting is a concern.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p26"
+   ]
+  },
+  {
+   "text": "His steals rate is low in limited minutes.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p26"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench forward minutes shared with Tobias Harris, Keldon Johnson, Champagnie and Barnes",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p25",
+    "c-WwNRgVxkI:t3",
+    "RyzcCGChYgs:p4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Expected to move ahead of Barnes and grow into the long-term power forward role",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p25",
+    "ZAyie8lKyYc:p36"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Yahoo rank 385, value 0; watch only if his minutes grow",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p25",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Spurs very deep at forward",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t1",
+    "ZAyie8lKyYc:t4",
+    "ZAyie8lKyYc:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Forward depth consolidation expected, but not right away",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected about 63 wins",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t7",
+    "75Sk_4fkgIM:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Only 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "He is not a draft target in our 144-player auction. Yahoo ranks him 385 with a value of 0 USD, ESPN does not price him, and his projected line (7.5 points, 42.1% FG, 0.6 steals) gives value only in turnovers. Leave him on waivers. Early in the season, check whether he moves ahead of Barnes and whether Tobias Harris's calf strain opens bench forward minutes for him.",
+ "rejected": []
+}

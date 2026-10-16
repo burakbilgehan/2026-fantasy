@@ -8,102 +8,136 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e9c565738bfc",
- "note_count": 3,
- "built_at": "2026-10-11T09:18:29+00:00",
+ "input_sha": "1e67fb2d0238",
+ "note_count": 4,
+ "built_at": "2026-10-16T09:02:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1483426,
-  "duration_ms": 26832,
-  "turns": 3,
+  "cost_usd_list": 0.12304219999999999,
+  "duration_ms": 20663,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Goodwin re-signed with Phoenix for 3 years and 19 million USD.",
+   "text": "Goodwin re-signed with Phoenix on a 3-year, 19 million deal.",
    "kind": "fact",
    "date": "2026-08-23",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p14",
-    "hm5-fiCa5S4:p29"
-   ]
-  },
-  {
-   "text": "Experts call the contract a steal and undervalued.",
-   "kind": "verdict",
-   "date": "2026-08-23",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p14",
-    "hm5-fiCa5S4:p29"
-   ]
-  },
-  {
-   "text": "He is expected to be in the rotation as the fourth or fifth guard.",
-   "kind": "verdict",
-   "date": "2026-07-01",
-   "until": "",
-   "sources": [
+    "hm5-fiCa5S4:p29",
     "W3THnI7wWdA:p14"
    ]
   },
   {
-   "text": "Booker, Jalen Green, Dillon Brooks and Miles Bridges are expected to take most of the Phoenix minutes and usage, with Collin Gillespie also wanting touches. That leaves little room for a backup guard.",
-   "kind": "verdict",
-   "date": "2026-10-09",
+   "text": "He comes off the bench. He is about the eighth or ninth man in the rotation and the fourth or fifth guard, behind Jalen Green, Devin Booker and Dillon Brooks.",
+   "kind": "fact",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:t7",
-    "uarqbNA2dFk:t1"
+    "MRzebgip23Y:p22",
+    "MRzebgip23Y:t1",
+    "MRzebgip23Y:t2",
+    "W3THnI7wWdA:p14"
    ]
   },
   {
-   "text": "He is a Tier 9 point guard. He is clearly a 16-team league player and only possibly worth a look in 12-team leagues.",
+   "text": "He would have fantasy value at about 25 minutes a night. In his current bench role he does not.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p22"
+   ]
+  },
+  {
+   "text": "Tier 9 point guard. He is a 16-team league player and only a possible option in 12-team leagues.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
    "sources": [
     "7BllEsdNLoM:p55"
    ]
+  },
+  {
+   "text": "Phoenix has the best fantasy schedule in the league: 4 games in each of the three playoff weeks and the fewest back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "His value comes mostly from steals and few turnovers. He scores little and his FG% is low.",
+   "text": "He is a strong rebounder for a guard and also gets steals. Last season he averaged about 5 rebounds and 1.5 steals in 22 minutes.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p22",
     "stats"
    ]
   }
  ],
  "tags": [
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Fourth or fifth guard behind Booker, Jalen Green, Brooks and Gillespie",
+   "name": "REB from a guard",
+   "channel": "durable",
+   "detail": "About 5 rebounds in 22 minutes last season",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p14",
-    "uarqbNA2dFk:t1",
-    "-DN4P92Wp8Y:t7"
+    "MRzebgip23Y:p22",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench guard behind Green, Booker and Brooks, with Gillespie and Kennard also on the bench",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p22",
+    "MRzebgip23Y:t1",
+    "MRzebgip23Y:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Tier 9 PG, seen as a 16-team player",
+   "detail": "Has value only if his minutes rise to about 25",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p22",
     "7BllEsdNLoM:p55"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "Phoenix plays 4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Phoenix has the fewest back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 0 USD and ranks him 263, well outside the 144 players our league drafts. He should not be bought at the auction. Last season he played 22.5 minutes and averaged 1.5 steals with only 1.0 turnover, so he can be a short-term steals pickup from waivers. Early in the season, check whether he holds about 20 minutes in a crowded Phoenix backcourt, and watch for guard injuries that would open more minutes for him.",
+ "note": "Yahoo ranks him 266th with a value of 0 USD, so he will not be among the 144 players drafted in our league. Leave him on waivers. His steals, guard rebounds and low turnovers are useful, but a projected 41% FG and 7.7 points hold him down while he plays bench minutes. Watch him early in the season: if an injury among Green, Booker or Brooks pushes him to about 25 minutes, he is a cheap pickup, and Phoenix's 4-4-4 playoff schedule adds a little late-season value.",
  "rejected": []
 }

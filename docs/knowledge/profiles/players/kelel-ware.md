@@ -4,56 +4,55 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 72 | 26.6 | 53.3 (9.9) | 73.1 (1.5) | 1.3 | 13.0 | 10.6 | 0.9 | 0.9 | 1.3 | 1.0 |
-| 2026-27 proj, Yahoo | 72 | - | 52.8 (10.0) | 72.3 (1.4) | 1.3 | 12.9 | 8.8 | 1.0 | 0.8 | 1.3 | 1.0 |
+| 2026-27 proj, Yahoo | 72 | - | 52.9 (10.4) | 72.4 (1.5) | 1.3 | 13.4 | 9.1 | 1.0 | 0.9 | 1.4 | 1.0 |
 | 2025-26 | 77 | 22.2 | 53.0 (8.4) | 74.0 (1.2) | 1.2 | 11.1 | 9.0 | 0.7 | 0.8 | 1.1 | 0.8 |
 | 2024-25 | 64 | 22.2 | 55.4 (7.2) | 68.7 (1.0) | 0.5 | 9.3 | 7.4 | 0.9 | 0.6 | 1.1 | 0.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 13 | 3.8 | 74 | 13 | 4.9 | 46 | 5 |
+| 2026-27 | 14 | 3.2 | 72 | 13 | 5.6 | 46 | 5 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 53.1% | +0.9 | -0.0 | - |
-| FT% | 72.7% | -0.4 | +0.3 | - |
+| FG% | 53.1% | +1.0 | +0.0 | - |
+| FT% | 72.8% | -0.4 | +0.3 | - |
 | 3PM | 1.3 | -0.2 | +0.7 | - |
-| PTS | 12.9 | -0.2 | -0.0 | - |
-| REB | 9.7 | +1.9 | +0.9 | - |
-| AST | 0.9 | -1.2 | -0.9 | - |
-| STL | 0.9 | -0.2 | +0.4 | - |
-| BLK | 1.3 | +1.5 | +0.4 | - |
-| TO | 1.0 | +0.9 | +0.8 | - |
+| PTS | 13.2 | -0.2 | +0.1 | - |
+| REB | 9.9 | +2.0 | +1.0 | league outlier, strong |
+| AST | 1.0 | -1.2 | -0.9 | - |
+| STL | 0.9 | -0.1 | +0.4 | - |
+| BLK | 1.3 | +1.6 | +0.5 | - |
+| TO | 1.0 | +0.9 | +0.7 | - |
 
 </details>
 
 **Current**
-- The newest team preview has him as the backup center behind Myles Turner. The projected starters to open the season are Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1598), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
-- Taylor Jenkins is the new head coach. It is not clear yet whether he will give Ware a fantasy-friendly role or focus on winning, and he might use a deep rotation. (fact, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [10-08](https://youtu.be/sDzeYdUhJDI?t=335))
-- Experts rank him around 60 to 80 in his current role. At about 29 to 30 minutes a night he would rank in the top 40s. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1598), [09-07](https://youtu.be/gJUBAJaHzlU?t=1480), [09-07](https://youtu.be/gJUBAJaHzlU?t=1526), [09-21](https://youtu.be/egRrai3Ax38?t=1836))
-- The speaker doubts his 40% three-point shooting will last. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570))
-- His free throw percentage fell under 60% in the second half of last season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570))
-- His role is unclear. If Jenkins names him a starter at center or power forward, he moves up to tier five or higher among centers. Experts expect him to play clearly more than 22 minutes, somewhere around 25 to 30. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [06-23](https://youtu.be/nnWX_ObljOE?t=260), [09-07](https://youtu.be/gJUBAJaHzlU?t=1480))
-- He joined the Bucks from Miami as part of the Giannis Antetokounmpo trade. (fact, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=260), [06-23](https://youtu.be/nnWX_ObljOE?t=374), [08-14](https://youtu.be/owlM6b8oUd0?t=676))
-- Of the players Milwaukee got from Miami, he is the least likely to be traded. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=676))
-- Experts expect managers to reach for him, possibly in the top 50. They also say he is not better than Turner yet, and his fit next to Turner is uncertain. (verdict, 2026-07-13; [07-13](https://youtu.be/Rqb5GdrSweY?t=1913), [07-07](https://youtu.be/ME-r173X5b0?t=1199))
+- He has no locked-in starting role, and it is unclear how he fits with Myles Turner. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=958), [07-07](https://youtu.be/ME-r173X5b0?t=1199), [09-14](https://youtu.be/t4n9MAP2_14?t=1462))
+- The latest projected opening lineup has him as the backup center behind Myles Turner. Kyle Kuzma starts at power forward in that lineup. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1598), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- New coach Taylor Jenkins decides his role, and it is unclear whether Jenkins will give him a fantasy-friendly role. Milwaukee's rotation is the least clear in the league. (fact, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2436), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- The newest rank call is in the 70s or 80s. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1598))
+- If he plays about 30 minutes a night or is named a starter, experts see him in the top 40s. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1598), [09-07](https://youtu.be/gJUBAJaHzlU?t=1526), [09-14](https://youtu.be/t4n9MAP2_14?t=1462))
+- His free throws fell under 60% in the second half of last season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570))
+- His 40% three-point shooting is not expected to last. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570))
+- Experts expect him to play more than last season's 22 minutes. Projections range from a steady 25 to 30 minutes a night. (verdict, 2026-09-14; [06-23](https://youtu.be/nnWX_ObljOE?t=260), [09-14](https://youtu.be/t4n9MAP2_14?t=1462), [09-07](https://youtu.be/gJUBAJaHzlU?t=1480))
+- Ware moved from Miami to Milwaukee in the Giannis Antetokounmpo trade. (fact, 2026-08-14; [06-23](https://youtu.be/nnWX_ObljOE?t=260), [08-14](https://youtu.be/owlM6b8oUd0?t=676), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913))
 
 **Durable**
-- He is an elite rebounder with a high block rate, and he makes threes for a big. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570), [07-07](https://youtu.be/ME-r173X5b0?t=1199), stats)
-- He rarely passes. His assists are among the lowest in the top 200. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570), [07-07](https://youtu.be/ME-r173X5b0?t=1199), stats)
-- He is a fantasy beast per minute. He finished roughly 94th to 119th last season in only 22 minutes a night. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1525), [09-21](https://youtu.be/egRrai3Ax38?t=1836), [07-13](https://youtu.be/Rqb5GdrSweY?t=1913))
-- He is much better in category leagues than in points leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1299))
-- One speaker says his off-court behavior was a distraction in Miami. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1645))
-- He is only 22 and his potential is sky high, so he could improve. He fits best at center. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1645), [08-14](https://youtu.be/owlM6b8oUd0?t=827), [06-23](https://youtu.be/nnWX_ObljOE?t=486))
-- He is a 9-cat fluff player. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2452))
-- He is horrible on defense and has plenty of lapses on both ends. His minutes in Miami were limited because of his play, not because of the coach. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2452), [08-14](https://youtu.be/owlM6b8oUd0?t=827), [07-20](https://youtu.be/-KS_AZjZnw4?t=592))
-- Miami benched him for poor shot selection and team play, which caused problems with Erik Spoelstra. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=592))
+- He is inconsistent and has lapses on offense and defense. In Miami he was benched for poor shot selection and team play, which caused problems with Erik Spoelstra. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=958), [07-20](https://youtu.be/-KS_AZjZnw4?t=592), [08-14](https://youtu.be/owlM6b8oUd0?t=827))
+- Elite rebounder with a high block rate. He also makes threes for a big. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570), [07-07](https://youtu.be/ME-r173X5b0?t=1199), stats)
+- Rarely passes. He has some of the lowest assist numbers in the top 200. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1570), [07-07](https://youtu.be/ME-r173X5b0?t=1199))
+- Very strong fantasy numbers per minute. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1525), [07-20](https://youtu.be/-KS_AZjZnw4?t=592))
+- His off-court behavior was a distraction in Miami. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1645))
+- He is only 22. His potential is high and he fits best at center. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1645), [08-14](https://youtu.be/owlM6b8oUd0?t=827))
+- He is a 9-cat fluff player and is worth much more in category leagues than in points leagues. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2452), [10-08](https://youtu.be/WXO8MfQfzo0?t=1299))
+- He is a horrible defender, and this limited his minutes in Miami more than the coach did. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2452))
 
 **Tags**
-- Current: `new team` (Miami to Milwaukee in the Giannis trade), `minutes competition` (projected backup center behind Myles Turner), `role up` (expected to play about 25 to 30 minutes, up from 22), `breakout` (top 40 upside at 30 minutes a night), `regression risk` (40% three-point shooting expected to drop), `new coach` (Taylor Jenkins), `unsettled rotation` (Bucks rotation called the hardest to read; lineup could change by December or March)
-- Durable: `3PM from a big` (1.3 3PM projected; experts doubt his 40% from three will last), `fits every build` (no category flagged weak; assists are low), `category league player`, `9-cat fluff`, `off-court risk` (off-court behavior called a distraction in Miami)
+- Current: `new team` (Traded from Miami to Milwaukee in the Giannis trade), `minutes competition` (Projected backup to Myles Turner. Kyle Kuzma projected to start at PF), `role up` (Projected at 25 to 30 minutes after 22 last season), `regression risk` (40% from three not expected to last; FT under 60% in the second half), `sites disagree on price` (ESPN rank 46 vs Yahoo rank 72), `new coach` (Taylor Jenkins), `unsettled rotation` (Milwaukee's rotation is called the least clear in the league)
+- Durable: `REB specialist` (About 10 rebounds per game projected), `3PM from a big` (About 1.3 threes per game projected), `streaky` (Inconsistent, sometimes benched), `defensive liability`, `off-court risk` (Off-court behavior was a distraction in Miami), `9-cat fluff`, `category league player`
 
-**Note.** Both sites value him at 13 USD, but average costs are only 3.8 to 4.1 USD and he went for 5 USD in our league last season. He looks like a good value bid up to about his 13 USD value: he helps REB, BLK and FG% at little cost, and no category is flagged weak, so the low assists hurt any build only a little. Early in the season, check whether Jenkins starts him or plays him 26 minutes or more, since that is the gap between a 70s to 80s rank and the top 40s. Also watch whether his three-point and free throw shooting hold up.
+**Note.** Ware is a cheap source of rebounds, blocks and FG% with some threes, but he barely passes. That makes him a good fit for big-man builds that give up assists. Both sites put his value at 13 to 14 USD. Average costs are only 3.2 USD on Yahoo and 5.6 USD on ESPN, and he went for 5 USD in our league last season. Paying up to about 10 USD looks fine for a player ranked in the 70s whose upside is the top 40s. In the first weeks, check whether Taylor Jenkins starts him next to Myles Turner or uses him as the backup center, and whether his minutes rise above 25. Also watch whether his three-point and free-throw shooting holds.
 
-<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

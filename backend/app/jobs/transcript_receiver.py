@@ -7,7 +7,7 @@ logged-in browser, still works. A script in a YouTube tab reads the panel and
 POSTs each video here. This server writes the same cache file as
 `youtube.fetch_video`, so `make expert-run` then needs no YouTube request.
 
-Usage: python -m app.jobs.transcript_receiver   (listens on 127.0.0.1:8765)
+Usage: python -m app.jobs.transcript_receiver   (listens on 127.0.0.1:8765, or TRANSCRIPT_PORT)
 POST /transcript  {"video_id", "title", "channel", "publish_date": "YYYY-MM-DD...",
                    "duration": seconds, "segments": [{"ts": "m:ss", "text": str}]}
 GET  /status      ids already in the cache
@@ -15,6 +15,7 @@ GET  /grab.js?id= the page script (app/sources/experts/chrome_transcript_grab.js
 """
 
 import json
+import os
 import re
 from dataclasses import asdict
 from pathlib import Path
@@ -24,7 +25,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from app.experts.transcript import parse_ts
 from app.sources.experts import youtube
 
-PORT = 8765
+PORT = int(os.environ.get("TRANSCRIPT_PORT", "8765"))
 GRAB_JS = Path(__file__).resolve().parents[1] / "sources" / "experts" / "chrome_transcript_grab.js"
 ORIGIN = "https://www.youtube.com"
 
@@ -76,7 +77,7 @@ class Handler(BaseHTTPRequestHandler):
             vid = parse_qs(url.query).get("id", [""])[0]
             if not re.fullmatch(r"[A-Za-z0-9_-]{11}", vid):
                 return self._reply(400, {"error": "bad id"})
-            data = GRAB_JS.read_text(encoding="utf-8").replace("__ID__", vid).encode()
+            data = GRAB_JS.read_text(encoding="utf-8").replace("__ID__", vid).replace("__PORT__", str(PORT)).encode()
             self.send_response(200)
             self._cors()
             self.send_header("Content-Type", "text/javascript")

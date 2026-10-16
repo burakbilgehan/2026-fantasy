@@ -4,49 +4,49 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 73 | 22.0 | 49.3 (8.0) | 73.8 (2.5) | 0.9 | 10.7 | 6.7 | 2.4 | 0.9 | 0.5 | 1.5 |
-| 2026-27 proj, Yahoo | 75 | - | 49.5 (7.7) | 71.9 (2.4) | 1.0 | 10.3 | 6.5 | 2.3 | 0.8 | 0.4 | 1.5 |
+| 2026-27 proj, Yahoo | 65 | - | 49.5 (8.7) | 71.7 (2.7) | 1.1 | 11.6 | 7.3 | 2.5 | 0.9 | 0.5 | 1.7 |
 | 2025-26 | 77 | 23.4 | 49.2 (8.5) | 75.0 (2.8) | 1.0 | 11.4 | 7.2 | 2.6 | 0.9 | 0.5 | 1.6 |
 | 2024-25 | 72 | 21.1 | 50.2 (7.2) | 65.0 (2.0) | 1.1 | 9.6 | 6.1 | 1.9 | 0.7 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 204 | 0 | 0.1 | 145 | not drafted |
+| 2026-27 | 0 | 0.0 | 187 | 0 | 0.1 | 145 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 49.4% | +0.2 | -0.2 | - |
-| FT% | 72.9% | -0.6 | -0.2 | - |
-| 3PM | 0.9 | -0.6 | -0.3 | - |
-| PTS | 10.5 | -0.6 | -0.5 | - |
-| REB | 6.6 | +0.6 | +0.1 | - |
-| AST | 2.3 | -0.5 | -0.1 | - |
-| STL | 0.9 | -0.2 | +0.0 | - |
-| BLK | 0.5 | -0.3 | -0.8 | - |
-| TO | 1.5 | +0.2 | +0.1 | - |
+| FT% | 72.7% | -0.7 | -0.2 | - |
+| 3PM | 1.0 | -0.5 | -0.2 | - |
+| PTS | 11.1 | -0.5 | -0.4 | - |
+| REB | 7.0 | +0.8 | +0.3 | - |
+| AST | 2.5 | -0.4 | -0.0 | - |
+| STL | 0.9 | -0.1 | +0.2 | - |
+| BLK | 0.5 | -0.3 | -0.7 | - |
+| TO | 1.6 | +0.1 | -0.1 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a back injury. (fact, 2026-10-11; stats)
-- Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. playing much center. Filipowski is back in the rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=446))
-- Experts do not expect him to start at center. They see no path to the starting job. (verdict, 2026-09-21; [08-05](https://youtu.be/CI4k8ofUXXk?t=512), [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
-- Utah is trying to win this season and has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Jusuf Nurkic, Jaxson Hayes and Ace Bailey. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- His role should shrink on a deeper team that is trying to win. He will not get the 28 minutes he got late last season, and the coach's leash should be shorter. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-05](https://youtu.be/CI4k8ofUXXk?t=570), [07-14](https://youtu.be/xHRF06_E9HE?t=919), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- His late-season jump last season (162nd before the trade deadline, 39th after) came while Utah was tanking. (fact, 2026-08-05; [07-14](https://youtu.be/xHRF06_E9HE?t=808), [08-05](https://youtu.be/CI4k8ofUXXk?t=570))
-- Sell. One expert says his late-season numbers feel fake and he is only worth a flier around pick 140. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=570), [07-14](https://youtu.be/xHRF06_E9HE?t=919))
+- He is coming off back surgery. His Yahoo status is questionable (Back). (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1598), stats)
+- Jaxson Hayes started at center in the preseason, and Filipowski is back in the rotation as a backup. (fact, 2026-10-15; [10-08](https://youtu.be/sDzeYdUhJDI?t=446), [10-15](https://youtu.be/bd8GYKFOe8A?t=1598))
+- He is expected to drop to third string at center when Jusuf Nurkic returns. Experts see no path for him to the starting center job. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1598), [08-05](https://youtu.be/CI4k8ofUXXk?t=512), [07-13](https://youtu.be/Rqb5GdrSweY?t=847), [09-21](https://youtu.be/egRrai3Ax38?t=859), [07-02](https://youtu.be/P6TNP-g0wzY?t=945))
+- Do not draft him. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1598))
+- Utah has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Nurkic, Hayes and Ace Bailey. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
+- Utah is trying to win this season and is projected as a playoff team. His role should shrink, with a shorter leash, and he will not get the 28 minutes he played late last season. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1798), [08-05](https://youtu.be/CI4k8ofUXXk?t=570), [07-14](https://youtu.be/xHRF06_E9HE?t=919), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-05](https://youtu.be/CI4k8ofUXXk?t=141))
+- Experts think his late-season rise last year (about 39th after the deadline) came in tanking stretches and will not repeat. (verdict, 2026-08-05; [07-14](https://youtu.be/xHRF06_E9HE?t=808), [07-14](https://youtu.be/xHRF06_E9HE?t=919), [08-05](https://youtu.be/CI4k8ofUXXk?t=570))
 
 **Durable**
-- One expert calls his free throw shooting great for a big man, but his projections are only about 73% at the line. (verdict, 2026-10-11; [07-14](https://youtu.be/xHRF06_E9HE?t=845), stats)
-- He is one of the worst defensive bigs in the NBA and does not rebound well on defense. That makes him a bad fit next to Jaren Jackson Jr. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1828), [08-05](https://youtu.be/CI4k8ofUXXk?t=536), [07-02](https://youtu.be/P6TNP-g0wzY?t=2191))
-- He has good offensive skills, but experts doubt he is a long-term starting center. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=824), [07-14](https://youtu.be/xHRF06_E9HE?t=845), [07-02](https://youtu.be/P6TNP-g0wzY?t=2191))
-- His threes are poor, he has never been a shot blocker, and he gets some steals. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=845))
+- Rebounds are his best fantasy category. (verdict, 2026-10-16; stats)
+- He is one of the worst defensive bigs in the NBA. He also does not rebound on defense, which makes him a bad fit next to Jaren Jackson Jr. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1828), [08-05](https://youtu.be/CI4k8ofUXXk?t=536), [07-02](https://youtu.be/P6TNP-g0wzY?t=2191))
+- He has good offensive skills, but his three-point shooting is weak. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=845), [07-02](https://youtu.be/P6TNP-g0wzY?t=2191))
+- He has never been a shot blocker. He makes few blocks for a big man and gets some steals. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=845), stats)
 
 **Tags**
-- Current: `role down` (Will not get the 28 minutes he played late last season now that Utah is trying to win), `minutes competition` (Hayes started at center in the preseason. Nurkic, Jackson and Markkanen also take frontcourt minutes), `injured now` (Yahoo lists him questionable (back)), `questionable` (Back), `deep rotation` (Crowded Utah frontcourt), `winning team` (Projected around 43 wins and a playoff spot), `flyer` (One expert says he is only worth a flier around pick 140)
-- Durable: `defensive liability` (Called one of the worst defensive bigs in the NBA)
+- Current: `questionable` (Yahoo Q (Back)), `injured now` (Back, coming off back surgery), `role down` (Will not get the 28 minutes he played late last season), `minutes competition` (Behind Hayes and Nurkic at center), `deep rotation` (Crowded Utah frontcourt), `winning team` (Projected about 43 wins and a playoff spot), `unsettled rotation` (Minutes and usage expected to be all over the place early)
+- Durable: `defensive liability` (One of the worst defensive bigs in the NBA)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 204, ESPN rank 145), and nobody drafted him in our league last season. That matches the expert view that his 11.4 points and 7.2 rebounds in 23.4 minutes were inflated by Utah's tanking. He has no strong category and no punt-build fit, so he is at most one of our last picks. More likely he is someone to watch on waivers. Early on, check his back injury and his minutes behind Hayes and Nurkic. He only becomes interesting if a Utah big gets hurt.
+**Note.** He is priced at 0 USD on Yahoo and ESPN, ranked 187 and 145, so he falls outside the 144 players our league drafts. The newest expert call is to avoid him: he is coming off back surgery, Hayes started over him in the preseason, and Nurkic should push him to third string on a Utah team now trying to win. Leave him on waivers and only take another look if Hayes or Nurkic miss time early.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

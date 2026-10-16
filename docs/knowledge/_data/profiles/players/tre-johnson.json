@@ -8,52 +8,78 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "bf5d6070c69a",
+ "input_sha": "d8361480d4a6",
  "note_count": 2,
- "built_at": "2026-10-11T09:23:53+00:00",
+ "built_at": "2026-10-16T09:17:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14062619999999998,
-  "duration_ms": 32812,
+  "cost_usd_list": 0.1421102,
+  "duration_ms": 32139,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is not among the projected Wizards starters (Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis, Alex Sarr). The fifth starter spot is open, with many wings competing for it.",
-   "kind": "fact",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t1",
-    "gJUBAJaHzlU:t1"
-   ]
-  },
-  {
-   "text": "Washington has a deep, crowded group of wings and guards. A 10 or 11 man rotation is expected.",
+   "text": "He is not in the projected Washington starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t2",
+    "UTE0dNIv8nY:t1"
+   ]
+  },
+  {
+   "text": "Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t1",
     "LUTYUdXBG1M:t0"
    ]
   },
   {
-   "text": "Trae Young, Anthony Davis and AJ Dybantsa are expected to take most of the usage. The experts say this squeezes the roles of the young players.",
+   "text": "Experts expect a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. That spreads minutes thin.",
+   "kind": "verdict",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t2"
+   ]
+  },
+  {
+   "text": "Washington added Anthony Davis, Trae Young and AJ Dybantsa.",
+   "kind": "fact",
+   "date": "2026-09-07",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0",
+    "DubdKKhMWHo:t2"
+   ]
+  },
+  {
+   "text": "Experts say these additions cut into the roles of the young players and leave little usage for others.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:t5",
     "gJUBAJaHzlU:t0",
-    "OBwWCxG9SqM:t3",
-    "-rgXhs5BHiw:t0"
+    "-rgXhs5BHiw:t0",
+    "eTsjuVu1trk:t5"
    ]
   },
   {
-   "text": "Washington is trying to compete this season, so the experts do not expect late-season rest or minutes cuts.",
+   "text": "Washington says the rebuild is over and is trying to compete.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
+    "UTE0dNIv8nY:t0"
+   ]
+  },
+  {
+   "text": "Because the team is trying to compete, experts do not expect the late-season resting and minutes cuts of past years.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -62,27 +88,18 @@
    ]
   },
   {
-   "text": "Head coach Brian Keefe is under heavy pressure to win games this season.",
-   "kind": "verdict",
+   "text": "He scored 25 points on 20 shots in his one Summer League game.",
+   "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t5"
-   ]
-  },
-  {
-   "text": "Both sites value him at 0 USD and rank him well outside the 144 players our league drafts. He is a waiver option, not a draft target.",
-   "kind": "verdict",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
+    "LUTYUdXBG1M:p3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is probably the best shooter on the Wizards.",
+   "text": "An expert calls him probably the best shooter on the Wizards.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -91,7 +108,7 @@
    ]
   },
   {
-   "text": "He is a one-dimensional scorer. One expert worries that he does nothing besides score.",
+   "text": "An expert worries that he does nothing besides score.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -104,19 +121,19 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Trae Young, Anthony Davis and AJ Dybantsa take most of the usage",
+   "detail": "Trae Young, Anthony Davis and AJ Dybantsa take most of the touches",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:t5",
     "gJUBAJaHzlU:t0",
-    "-rgXhs5BHiw:t0"
+    "-rgXhs5BHiw:t0",
+    "eTsjuVu1trk:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "many wings competing for the open fifth starter spot",
+   "detail": "many wings compete for the open fifth starter spot",
    "until": "",
    "sources": [
     "gJUBAJaHzlU:t1",
@@ -125,58 +142,37 @@
    "new_meaning": ""
   },
   {
+   "name": "role down",
+   "channel": "current",
+   "detail": "veteran additions cut into the young players' roles",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0",
+    "-rgXhs5BHiw:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "10 or 11 man rotation expected, crowded at wing and guard",
+   "detail": "10 or 11 man rotation expected",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t2",
-    "LUTYUdXBG1M:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "concentrated usage",
-   "channel": "current",
-   "detail": "Young, Davis and Dybantsa",
-   "until": "",
-   "sources": [
-    "eTsjuVu1trk:t5",
-    "OBwWCxG9SqM:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "coach hot seat",
-   "channel": "current",
-   "detail": "Brian Keefe",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t5"
+    "UTE0dNIv8nY:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Wizards are trying to compete for the play-in",
+   "detail": "Washington is trying to compete",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:t0"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "0 USD value, Yahoo rank 222, ESPN rank 235",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 222 and ESPN ranks him 235, and both value him at 0 USD, so he should not be drafted in our 144-player auction. His projection gives about 2.0 threes, 86.8% FT and only 1.2 turnovers a game, but 43.4% FG and little in rebounds, steals and blocks. That makes him a scorer and shooter, and that kind of player rarely holds a roster spot. Watch him on waivers early. Check whether he wins the open fifth starter spot and plays clearly more than last season's 24 minutes, even with Young, Davis and Dybantsa taking the usage.",
+ "note": "Both sites value him at 0 USD and rank him 226 (Yahoo) and 235 (ESPN), far outside the 144 players we draft, so do not draft him. He offers about 2.0 threes per game and a good FT% on low volume, but rates below average in FG%, REB, STL and BLK, and he is not projected to start on a crowded Washington wing group. Early in the season, check whether he wins the open fifth starter spot or a steady 24 plus minutes. Only then is he worth a waiver look as a three-point streamer.",
  "rejected": []
 }

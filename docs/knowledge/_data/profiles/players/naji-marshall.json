@@ -8,27 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3d3cd1423f16",
+ "input_sha": "b608fff24ed0",
  "note_count": 2,
- "built_at": "2026-10-04T17:44:01+00:00",
+ "built_at": "2026-10-16T09:10:58+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1547876,
-  "duration_ms": 30886
+  "cost_usd_list": 0.191374,
+  "duration_ms": 36652,
+  "turns": 3,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Dallas added three new point guards, so Josh expects the point guard role Marshall had last season to disappear.",
-   "kind": "fact",
+   "text": "Josh projects Marshall as Dallas's sixth man. His projected starting five is Kyrie Irving, Max Christie, Cooper Flagg, P.J. Washington and Morez Johnson Jr.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p15"
+    "XSPJL_mlFXo:p15",
+    "XSPJL_mlFXo:t2"
    ]
   },
   {
-   "text": "Josh projects Marshall as the sixth man and sees him as a streaming option with hot streaks, not a steady roster player.",
+   "text": "Josh expects Marshall to lose his point guard role because Dallas now has three new point guards on the roster.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -37,19 +40,36 @@
    ]
   },
   {
-   "text": "The Dallas roster is crowded with forwards and wings who expect minutes, and Marshall is one of them.",
+   "text": "Josh sees Marshall as a streaming option who will have hot streaks, not a steady hold.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p15"
+   ]
+  },
+  {
+   "text": "Dallas has a crowded group of wings and forwards who expect minutes, and Marshall is one of them.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
    "sources": [
     "CLsUc0Sevos:t3",
     "0AptxcRW0RE:t2",
-    "RyzcCGChYgs:t3",
-    "Rqb5GdrSweY:t2"
+    "RyzcCGChYgs:t3"
    ]
   },
   {
-   "text": "Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league, but also a league-high 16 back-to-backs.",
+   "text": "Dusty May is the new Dallas head coach, so the rotation is not settled.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ]
+  },
+  {
+   "text": "Dallas plays 4 games in each of our playoff weeks (4-4-4), probably the best playoff schedule. It also has the league-high 16 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -61,7 +81,7 @@
  ],
  "durable": [
   {
-   "text": "Josh calls Marshall a non-shooting forward and a terrible shooter. He does not think Marshall will ever be a reliable shooter.",
+   "text": "Josh calls Marshall a non-shooting forward and a terrible shooter. He does not expect him to ever become a reliable shooter.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -74,7 +94,7 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Projected sixth man. His point guard role likely goes to three new point guards.",
+   "detail": "Projected sixth man. Likely loses his point guard duties to new point guards.",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p15"
@@ -84,7 +104,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded Dallas forward and wing group.",
+   "detail": "Crowded Dallas wing and forward group",
    "until": "",
    "sources": [
     "CLsUc0Sevos:t3",
@@ -94,9 +114,30 @@
    "new_meaning": ""
   },
   {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Dallas is overloaded with wings and forwards",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t2",
+    "RyzcCGChYgs:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Seen as a streaming option with hot streaks",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Streaming option with hot streaks, ranked outside the 144 drafted players.",
+   "detail": "Streaming option, ranked outside the 144 players drafted",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p15",
@@ -105,17 +146,37 @@
    "new_meaning": ""
   },
   {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas plays 4-4-4 in weeks 19 to 21.",
+   "detail": "Dallas plays 4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
     "gf_6GveiAls:t3"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "League-high 16 back-to-backs",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Marshall is ranked 190 on Yahoo and 209 on ESPN, and both sites value him at 0 USD. That puts him outside the 144 players our league drafts, so do not draft him. Both projections cut his minutes and volume from last season (24.2 projected minutes against 29.5 last season, about 9 shots against 11.1). His value leans on FG% and few turnovers, and he gives little in threes or blocks. Early in the season, check how Dusty May uses him and whether the thin Dallas guard group gives him ball-handling minutes again. If it does, he is a streaming pickup, and the Dallas 4-4-4 playoff schedule makes him more useful late in the season.",
+ "note": "Yahoo ranks Marshall 204 and ESPN ranks him 208. Both sites value him at 0 USD, so he should go undrafted in our 144-player auction. Projections have his minutes and shots dropping from last season's 15.2 points on 11.1 shots, and his only real plus is a solid FG% (about 50%) with few threes and almost no blocks. Leave him on waivers. In the first weeks, check whether Dusty May gives him ball-handling duties or starter minutes, and keep him in mind as a streamer during hot stretches and in Dallas's 4-4-4 playoff weeks.",
  "rejected": []
 }

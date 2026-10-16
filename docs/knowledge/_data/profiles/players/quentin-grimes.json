@@ -8,32 +8,45 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f83e82757e09",
- "note_count": 8,
- "built_at": "2026-10-11T09:22:33+00:00",
+ "input_sha": "89b984e89379",
+ "note_count": 9,
+ "built_at": "2026-10-16T09:14:08+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1516302,
-  "duration_ms": 34338,
+  "cost_usd_list": 0.1611022,
+  "duration_ms": 38989,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is the projected starter for the Lakers at about 30 minutes a game. The experts are fairly confident about it.",
+   "text": "Experts expect him to start for the Lakers and play about 30 minutes. One expert is fairly confident.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
     "sFelMKWcqyI:p19",
-    "ZYllcj4o6_A:p30",
     "sFelMKWcqyI:t4",
+    "ZYllcj4o6_A:p30",
+    "BjXP9JODDSg:p57",
     "_WjOjp6Qu8E:p14"
    ]
   },
   {
-   "text": "Andy expects him to start because he is the team's best point of attack defender and can also score and handle the ball.",
+   "text": "The starting spot is not settled. LaRavia or Ziaire Williams could start instead. Whoever comes off the bench is still expected to play about 27 minutes.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t4",
+    "BjXP9JODDSg:t8",
+    "_WjOjp6Qu8E:t1",
+    "_vbAP5y182A:p60"
+   ]
+  },
+  {
+   "text": "Andy expects him to start because he is the team's best point of attack defender who can also score and handle the ball.",
    "kind": "verdict",
    "date": "2026-08-04",
    "until": "",
@@ -42,13 +55,12 @@
    ]
   },
   {
-   "text": "LeBron James left the Lakers. Luka Doncic and Austin Reaves are the remaining core.",
+   "text": "In drafts he often goes in round 12.",
    "kind": "fact",
-   "date": "2026-08-04",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:t0",
-    "W3THnI7wWdA:t0"
+    "D4dP5JvX1oo:p35"
    ]
   },
   {
@@ -62,10 +74,10 @@
    ]
   },
   {
-   "text": "If Doncic or Reaves misses time, he becomes the second option and could have a top 70 to 80 run. That makes him a handcuff who also has value on his own.",
+   "text": "He is also a handcuff for Doncic and Reaves. If one of them misses time, he becomes the number two option and could have a top 70 run. Another expert puts that upside at top 80.",
    "kind": "verdict",
    "date": "2026-10-06",
-   "until": "",
+   "until": "Doncic or Reaves misses time",
    "sources": [
     "sFelMKWcqyI:p22",
     "ZYllcj4o6_A:p30",
@@ -73,7 +85,7 @@
    ]
   },
   {
-   "text": "Doncic's health is seen as a weak point for the Lakers.",
+   "text": "Doncic's health is seen as a risk for the Lakers, which adds to his handcuff value.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
@@ -82,12 +94,14 @@
    ]
   },
   {
-   "text": "The Lakers play 3, 4 and 3 games in our playoff weeks 19 to 21. That is in the bottom half of the league.",
+   "text": "LeBron James and Rui Hachimura left the Lakers. That opens usage for the players who remain.",
    "kind": "fact",
-   "date": "2026-10-06",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sFelMKWcqyI:t5"
+    "W3THnI7wWdA:t0",
+    "6DnRWahYrFA:t2",
+    "_WjOjp6Qu8E:t0"
    ]
   },
   {
@@ -98,11 +112,20 @@
    "sources": [
     "sFelMKWcqyI:t6"
    ]
+  },
+  {
+   "text": "The Lakers play 3-4-3 games in our playoff weeks (March 28 end). That is in the bottom half of the league.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "When he got big usage running point guard on a tanking Philadelphia team, he scored a lot and shot very well.",
+   "text": "When he had big usage running point guard on a tanking Philadelphia team, he scored big and shot very well.",
    "kind": "fact",
    "date": "2026-10-06",
    "until": "",
@@ -111,18 +134,9 @@
    ]
   },
   {
-   "text": "He is a point of attack defender who can also score and handle the ball.",
-   "kind": "verdict",
-   "date": "2026-08-04",
-   "until": "",
-   "sources": [
-    "_WjOjp6Qu8E:p14"
-   ]
-  },
-  {
-   "text": "No category is a real outlier, strong or weak. Threes are his best category.",
+   "text": "His category profile is balanced, with no big strength or weakness. Threes are his best category and FG% is his weakest.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -131,21 +145,9 @@
  ],
  "tags": [
   {
-   "name": "handcuff",
-   "channel": "current",
-   "detail": "Top 70 to 80 upside if Doncic or Reaves misses time",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p22",
-    "ZYllcj4o6_A:p30",
-    "BjXP9JODDSg:p57"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late flyer, best case about top 110 on his own",
+   "detail": "high-end late flyer, best case top 110 on his own",
    "until": "",
    "sources": [
     "sFelMKWcqyI:p21",
@@ -154,43 +156,55 @@
    "new_meaning": ""
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "Scored big and shot well with point guard usage in Philadelphia",
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "top 70 to 80 run if Doncic or Reaves misses time",
+   "until": "Doncic or Reaves misses time",
+   "sources": [
+    "sFelMKWcqyI:p22",
+    "ZYllcj4o6_A:p30",
+    "BjXP9JODDSg:p57"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "goes in round 12; expert sees best case top 110",
    "until": "",
    "sources": [
-    "sFelMKWcqyI:p20",
-    "sFelMKWcqyI:p22"
+    "sFelMKWcqyI:p21",
+    "D4dP5JvX1oo:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "LaRavia or Ziaire Williams could start instead",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t4",
+    "BjXP9JODDSg:t8",
+    "_WjOjp6Qu8E:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Behind Doncic and Reaves",
+   "detail": "plays next to Doncic and Reaves",
    "until": "",
    "sources": [
     "sFelMKWcqyI:p22",
-    "ZYllcj4o6_A:p30",
-    "_WjOjp6Qu8E:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "LeBron James left",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:t0",
-    "_WjOjp6Qu8E:t0"
+    "sFelMKWcqyI:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Second most in the league",
+   "detail": "Lakers have the second most back-to-backs",
    "until": "",
    "sources": [
     "sFelMKWcqyI:t6"
@@ -200,7 +214,7 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 in weeks 19 to 21, bottom half of the league",
+   "detail": "3-4-3 with a March 28 end, bottom half of the league",
    "until": "",
    "sources": [
     "sFelMKWcqyI:t5"
@@ -210,7 +224,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "",
+   "detail": "no category flagged weak",
    "until": "",
    "sources": [
     "stats"
@@ -218,6 +232,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He sits right at the edge of our 144-player pool (Yahoo rank 134 at about 1 USD, ESPN rank 119 at 2 USD, and he was not drafted in our league). That makes him a 1 USD final pick at most, or a waiver add. He has no weak category, so he fits any build. He is most useful to the manager who owns Doncic or Reaves, because he could be a top 70 to 80 player if either one misses time. Early in the season, check that he starts and plays about 30 minutes. Also watch his FG% (about 45% projected). The weak playoff schedule (3-4-3) and many back-to-backs limit his late-season appeal.",
+ "note": "Grimes is priced as an endgame player: Yahoo values him at 0 USD (average cost 1.0 USD) and ESPN at 2 USD, with ranks of 126 and 119. That puts him near the end of our 144-player draft, so he is a 1 to 2 USD last pick or a waiver target. His appeal is a likely starting role at about 30 minutes, with a top 70 to 80 run if Doncic or Reaves misses time. His balanced line (threes best, FG% weakest) fits any build. Early in the season, check that he starts ahead of LaRavia and Ziaire Williams and plays close to 30 minutes, and watch Doncic's health.",
  "rejected": []
 }

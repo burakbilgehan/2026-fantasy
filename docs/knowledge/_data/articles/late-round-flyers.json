@@ -39,45 +39,48 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:46:51+00:00",
+ "built_at": "2026-10-16T12:46:00+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.34047679999999997,
-  "duration_ms": 102260,
+  "cost_usd_list": 0.4915448,
+  "duration_ms": 157532,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
   "ace-bailey",
+  "aday-mara",
+  "ajay-mitchell",
   "baylor-scheierman",
-  "cameron-johnson",
+  "ben-simmons",
+  "cedric-coward",
   "collin-murray-boyles",
   "daniel-gafford",
   "daniss-jenkins",
   "darius-acuff",
   "darryn-peterson",
-  "deanthony-melton",
   "derik-queen",
   "egor-demin",
   "fred-vanvleet",
-  "grayson-allen",
   "gui-santos",
   "isaiah-jackson",
-  "ja-morant",
   "jaime-jaquez",
+  "jake-laravia",
   "jakob-poeltl",
+  "jalen-green",
+  "jalen-smith",
   "jaylon-tyson",
   "jeremiah-fears",
   "jonathan-kuminga",
+  "keon-ellis",
   "kevin-porter",
   "khaman-maluach",
-  "kristaps-porzingis",
-  "kyle-filipowski",
   "max-strus",
   "mikel-brown",
   "morez-johnson",
   "moussa-diabate",
+  "nic-claxton",
   "nikola-vucevic",
   "paul-reed",
   "pelle-larsson",
@@ -85,18 +88,28 @@
   "reed-sheppard",
   "rui-hachimura",
   "sandro-mamukelashvili",
+  "scoot-henderson",
   "scotty-pippen",
+  "tari-eason",
   "yanic-konan-niederhauser",
   "yaxel-lendeborg",
   "yves-missi"
  ],
- "summary": "Spend the last 1 to 3 USD spots on players with a real path to starter minutes and a top 70 ceiling, not on players whose best case is where they are drafted. The best fits are Poeltl, Porter, Murray-Boyles and Porzingis, plus hedge pairs in open role battles (Missi and Queen, Lendeborg and Santos, Gafford and Morez Johnson). Write down each flyer's minutes target before the draft on 2026-10-18, and cut him after the first few weeks if he misses it.",
+ "summary": "Spend at least three of your last four roster spots on 1 to 3 USD flyers who already start or are in a live role battle. The best of them are Kevin Porter Jr., Jakob Poeltl, Egor Dëmin, Derik Queen and Quentin Grimes, plus one cheap starting center. At the draft, write down the minutes each flyer needs. Cut him in the first two weeks if he misses that line. Pure injury handcuffs and players outside the 144-player pool go on the waiver watch list, not on our roster.",
  "sections": [
   {
-   "heading": "What earns a last roster spot",
+   "heading": "What makes a real flyer",
    "paragraphs": [
     {
-     "text": "With 144 players drafted, our last two or three spots per team go for 1 to 3 USD. Each of those spots should have top 70 upside. A player whose ceiling is his draft slot can be found on waivers. One expert says to use at least three of your last four picks on flyers who could beat their draft spot by 40 to 50 places. In our room that means a player bought around 130 to 144 who could finish near 80 to 100 or better.",
+     "text": "A flyer needs a real path to a role. Ask one question: does he start, or could he start soon? If reports say he will not start, pass. A name or a draft-day buzz is not a role.",
+     "sources": [
+      "ZYllcj4o6_A:r4",
+      "aLP080hxizA:r4",
+      "_vbAP5y182A:r11"
+     ]
+    },
+    {
+     "text": "The ceiling has to be well above the price. Late picks should have top 70 upside, or at least a chance to beat their draft spot by 40 to 50 places. In our league the last dollar players sit near the end of the 144-player pool. A player whose best case is finishing where he was drafted is filler. You can find filler on waivers in October.",
      "sources": [
       "EGdhmUgPAWY:r5",
       "C4vlgpJ62NI:r25",
@@ -105,115 +118,158 @@
      ]
     },
     {
-     "text": "Upside alone is not enough. The flyer needs a realistic path to a role: he starts, could start, or gets about 27 minutes off the bench. If reports say he will not start and his minutes are capped, pass. Ask one question about every name: is he a starter, or could he become one?",
+     "text": "Budget rule for our 12-player rosters: use at least three of your last four spots on upside flyers. Keep enough money to fill those spots at 1 to 3 USD each. Price decides whether a flyer makes sense. Cedric Coward and Collin Murray-Boyles have upside, but expert bids put them above the flyer range. Reed Sheppard works at 1 to 3 USD, but the experts fade ESPN's much higher rank on him.",
      "sources": [
-      "aLP080hxizA:r4",
-      "ZYllcj4o6_A:r4",
-      "_vbAP5y182A:r11",
-      "P6TNP-g0wzY:r2"
+      "C4vlgpJ62NI:r25",
+      "aLP080hxizA:r6",
+      "player:cedric-coward",
+      "player:collin-murray-boyles",
+      "player:reed-sheppard"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The best fits for our last spots",
+   "paragraphs": [
+    {
+     "text": "Kevin Porter Jr. has the clearest ceiling. The notes give him top 50 upside at about 29 minutes. Drop him if he plays under about 25. Jakob Poeltl is a starting center with top 70 upside if he holds about 28 minutes. Egor Dëmin projects with upside near 80th if he starts and his FG% climbs.",
+     "sources": [
+      "player:kevin-porter",
+      "player:jakob-poeltl",
+      "player:egor-demin",
+      "EGdhmUgPAWY:r5"
      ]
     },
     {
-     "text": "Price matters. The same player can be a bad buy at 6 USD and a fine swing at 1 USD. Do not push a flyer past 3 USD because another manager bids. Most flyers will not hit, and that is accepted. A failed 1 USD flyer does not hurt the draft, and a hit can win categories for months.",
+     "text": "Derik Queen pays off if he wins the start from Yves Missi or Zion Williamson misses time. Quentin Grimes should start at about 30 minutes. His top 70 to 80 run needs Doncic or Reaves to miss time. On his own, his best case is about top 110.",
      "sources": [
-      "aLP080hxizA:r6",
+      "player:derik-queen",
+      "player:quentin-grimes"
+     ]
+    },
+    {
+     "text": "The next group of guards has a role but a lower ceiling. Jalen Green needs to keep the point guard job at 30-plus minutes. Reed Sheppard needs about 25 minutes, and you should drop him if he settles around 18. Darryn Peterson has top 15 upside long term, but the experts see no path to top 100 this season. Fred VanVleet is mainly a punt FG% guard with a weak playoff schedule.",
+     "sources": [
+      "player:jalen-green",
+      "player:reed-sheppard",
+      "player:darryn-peterson",
+      "player:fred-vanvleet"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Cheap starting centers",
+   "paragraphs": [
+    {
+     "text": "A starting center with a decent profile is worth a late pick even if the job may not last. He gives you FG%, rebounds and blocks. The candidates here are Nic Claxton, Yves Missi, Isaiah Jackson, Moussa Diabaté, Daniel Gafford and Khaman Maluach. Each one has a clear job battle you can track.",
+     "sources": [
+      "tnzmsYUA4yQ:r6",
+      "n4KkK-OJjqA:r6",
+      "player:nic-claxton",
+      "player:yves-missi",
+      "player:isaiah-jackson",
+      "player:moussa-diabate",
+      "player:daniel-gafford",
+      "player:khaman-maluach"
+     ]
+    },
+    {
+     "text": "Minutes decide whether a big is useful. One note says a late big needs about 30 minutes and is useless if he is split down to around 22. The player profiles use softer lines: about 25 minutes for Missi, Jackson and Diabaté, and about 24 for Maluach. Use 25 as the keep line. If a center sits near 22 after two weeks, drop him even if he starts. For guards and wings, about 27 minutes off the bench is enough.",
+     "sources": [
+      "4GDfg2n2l8o:r3",
+      "P6TNP-g0wzY:r2",
+      "player:yves-missi",
+      "player:isaiah-jackson",
+      "player:moussa-diabate",
+      "player:khaman-maluach"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree: injury handcuffs",
+   "paragraphs": [
+    {
+     "text": "One expert says a backup who is one injury away from starting is a valid late flyer. Others say waiting for someone else to get hurt is not enough, and a player who only pays off after an injury is a poor late pick. Our rule: draft a handcuff only if he also has his own path to minutes. Nikola Vučević qualifies as a swing if he gets 23 to 25 minutes behind Carter. Tari Eason and Paul Reed depend almost fully on injuries or rest plans for Durant and Duren. Leave them for the last dollar or skip them. Jalen Smith and Daniss Jenkins are already marked as quick waiver adds after an injury, not draft picks.",
+     "sources": [
+      "ZYllcj4o6_A:r10",
+      "aLP080hxizA:r4",
+      "_vbAP5y182A:r13",
+      "player:nikola-vucevic",
+      "player:tari-eason",
+      "player:paul-reed",
+      "player:jalen-smith",
+      "player:daniss-jenkins"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Hedge pairs and stashes",
+   "paragraphs": [
+    {
+     "text": "Take two flyers in the same situation so at least one is likely to hit. In a starting-job battle, draft both, see who wins, and cut the other. Pairs in this pool: Yaxel Lendeborg with Gui Santos, Yves Missi with Derik Queen, Daniel Gafford with Morez Johnson Jr., and Quentin Grimes with Jake LaRavia. Jeremiah Fears pairs with Dejounte Murray as his handcuff.",
+     "sources": [
+      "E-KmhvyZ2CU:r6",
+      "dlo7L8Ru91A:r7",
+      "g31YlwRe0XQ:r6",
+      "player:yaxel-lendeborg",
+      "player:gui-santos",
+      "player:yves-missi",
+      "player:derik-queen",
+      "player:daniel-gafford",
+      "player:morez-johnson",
+      "player:quentin-grimes",
+      "player:jake-laravia",
+      "player:jeremiah-fears"
+     ]
+    },
+    {
+     "text": "We have four IL slots. Yanic Konan Niederhäuser can sit in one of them as a 1 USD final pick. He has late-season upside if he returns around Christmas and takes the job from Isaiah Jackson. Jackson's likely drop point is that same return. Do not chase Konan Niederhäuser to the 3 USD he got in a mock.",
+     "sources": [
+      "player:yanic-konan-niederhauser",
+      "player:isaiah-jackson"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "When to cut and what it costs",
+   "paragraphs": [
+    {
+     "text": "At the draft, write down what has to happen for each flyer to pay off. Then check his minutes and starting role in the first two weeks. Late flyers are often drops. You take them to find out what their role is, then cut the ones that miss. With daily FAB and up to 6 adds a week, cutting a failed flyer costs very little.",
+     "sources": [
+      "hm5-fiCa5S4:r4",
+      "3UGI05PDvrE:r6",
+      "_vbAP5y182A:r12",
+      "sTtFUy7IoJI:r2"
+     ]
+    },
+    {
+     "text": "Expect most flyers to miss. Second-year players with an ADP of 101 to 150 reached the top 100 only 13% of the time. Undrafted sophomores almost never mattered. Even so, lean toward second-year players over third-year players, and keep uncertain rookies around picks 120 to 130. A failed late pick does not ruin a draft when the upside was real.",
+     "sources": [
       "gerS7ibpaJo:r5",
+      "gerS7ibpaJo:r4",
+      "gJUBAJaHzlU:r5",
+      "lOshTzDA4SA:r5",
       "tnzmsYUA4yQ:r5",
       "n4KkK-OJjqA:r10"
      ]
     },
     {
-     "text": "The strongest fits in this pool are Jakob Poeltl, Kevin Porter Jr., Collin Murray-Boyles and Kristaps Porziņģis. Each has a stated top 70 or better ceiling tied to a concrete minutes or health condition. Murray-Boyles may cost 2 to 5 USD because of buzz, so hold your ceiling near the top of that range.",
+     "text": "Use the playoff schedule (weeks 19 to 21, ending 2027-03-28) only as a tie-breaker. Houston, Miami and Portland have only 10 games in those weeks. The Lakers go 3-4-3. Phoenix and Memphis go 4-4-4, and the Clippers go 4-3-4. Most flyers will be gone or traded long before March, so this matters only for the ones that hit.",
      "sources": [
-      "player:jakob-poeltl",
-      "player:kevin-porter",
-      "player:collin-murray-boyles",
-      "player:kristaps-porzingis",
-      "EGdhmUgPAWY:r5"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Disagreement: backups who need an injury",
-   "paragraphs": [
-    {
-     "text": "The experts split on handcuffs. One view says a backup who is one injury away from starting is a valid late flyer. The other view says that counting on someone else getting hurt is not a real path, and that those players are poor late picks. For our league, take the stricter line with your final spots. Waivers process daily and allow 6 adds a week, so you can usually grab Paul Reed, Nikola Vučević or Kyle Filipowski the day the starter goes down. The exception is when you already own the starter, as with a Duren owner taking Reed or a Doncic or Reaves owner taking Quentin Grimes.",
-     "sources": [
-      "ZYllcj4o6_A:r10",
-      "aLP080hxizA:r4",
-      "_vbAP5y182A:r13",
-      "player:paul-reed",
-      "player:nikola-vucevic",
-      "player:kyle-filipowski",
-      "player:quentin-grimes"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Cheap centers and role battles",
-   "paragraphs": [
-    {
-     "text": "A starting center with a useful profile (FG%, blocks, rebounds) is worth a late buy even if the job may not last. The limit is minutes. A late big needs a path to about 30 minutes. If his minutes get split down to about 22, he is useless. That makes Moussa Diabaté, Daniel Gafford, Isaiah Jackson and Khaman Maluach cheap block or FG% sources only while they hold the starting job.",
-     "sources": [
-      "tnzmsYUA4yQ:r6",
-      "n4KkK-OJjqA:r6",
-      "4GDfg2n2l8o:r3",
-      "player:moussa-diabate",
-      "player:daniel-gafford",
-      "player:isaiah-jackson",
-      "player:khaman-maluach"
-     ]
-    },
-    {
-     "text": "When two cheap players fight for one job, buy both and cut the loser. Taking two flyers in a similar spot also raises the chance that one hits. This pool has clear pairs. Yves Missi and Derik Queen compete in New Orleans. Yaxel Lendeborg and Gui Santos compete in Golden State. Gafford and Morez Johnson Jr. compete at center in Dallas. Queen will likely cost 3 to 4 USD, so the Missi side of that pair is the cheap one.",
-     "sources": [
-      "dlo7L8Ru91A:r7",
-      "g31YlwRe0XQ:r6",
-      "E-KmhvyZ2CU:r6",
-      "player:yves-missi",
-      "player:derik-queen",
-      "player:yaxel-lendeborg",
-      "player:gui-santos",
-      "player:morez-johnson"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Young players and rookies",
-   "paragraphs": [
-    {
-     "text": "For young flyers, look at opportunity first. One expert leans toward second-year players over third-year players. The data is sobering, though. Sophomores with an ADP of 101 to 150 reach the top 100 only 13% of the time and the top 150 only 33% of the time. Undrafted sophomores almost never matter. Uncertain rookies belong at the end of the active roster or the start of the bench, about picks 120 to 130 in a 12-team league. Darryn Peterson fits that slot at 2 to 5 USD and is not worth more.",
-     "sources": [
-      "gJUBAJaHzlU:r5",
-      "gerS7ibpaJo:r4",
-      "lOshTzDA4SA:r5",
-      "sTtFUy7IoJI:r2",
-      "player:darryn-peterson"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "When to cut",
-   "paragraphs": [
-    {
-     "text": "Before you bid, write down the trigger for each flyer: a starting job, a minutes number, or a health check. Late flyers are often drops. You buy them to see what their role turns out to be. Give them a few weeks, then cut anyone who has missed his trigger and use the spot to stream or for a waiver add.",
-     "sources": [
-      "hm5-fiCa5S4:r4",
-      "_vbAP5y182A:r12",
-      "3UGI05PDvrE:r6",
-      "ZYllcj4o6_A:r2"
-     ]
-    },
-    {
-     "text": "Some flyers come with a known end date. Lendeborg's value ends when Butler and Moody return. Gafford's early start depends on Lively being out. Isaiah Jackson's likely drop point is Konan Niederhäuser's return. Sell or cut these players before that date instead of after.",
-     "sources": [
-      "player:yaxel-lendeborg",
-      "player:daniel-gafford",
-      "player:isaiah-jackson",
+      "player:reed-sheppard",
+      "player:fred-vanvleet",
+      "player:tari-eason",
+      "player:pelle-larsson",
+      "player:scoot-henderson",
+      "player:jake-laravia",
+      "player:jalen-green",
+      "player:khaman-maluach",
+      "player:cedric-coward",
       "player:yanic-konan-niederhauser"
      ]
     }
@@ -222,204 +278,229 @@
  ],
  "players": [
   {
-   "slug": "jakob-poeltl",
-   "tier": "Core flyers",
-   "line": "He hits if he plays about 28 minutes, his blocks come back toward 1.1 to 1.5 and his back holds, which gives top 70 upside and a big FG% lift for punt 3PM teams, so cut him if any of that fails in the first few weeks."
-  },
-  {
    "slug": "kevin-porter",
-   "tier": "Core flyers",
-   "line": "He has top 50 upside if he reaches 29 or more minutes or starts, with steals, assists and FT% for punt 3PM builds, and he is an easy cut if he settles in as a 27-minute bench guard."
+   "tier": "Top flyers",
+   "line": "He hits if Jenkins gives him about 29 minutes or a start over Rollins or Herro, and he should go if he plays under about 25 minutes after two weeks."
   },
   {
-   "slug": "collin-murray-boyles",
-   "tier": "Core flyers",
-   "line": "Experts see top 70 to 80 value at 30 minutes, so he hits if he plays 25 or more minutes and closes games behind Poeltl, and you should drop him if he stays below that early on."
-  },
-  {
-   "slug": "kristaps-porzingis",
-   "tier": "Core flyers",
-   "line": "He offers top 70 value for about 40 games with threes, blocks and FT% from center if the hamstring heals and he takes the starting job back from Horford, so drop him if the absences keep piling up, and use an IL slot only once Yahoo lists him Out."
-  },
-  {
-   "slug": "reed-sheppard",
-   "tier": "Second-line flyers",
-   "line": "He has top 40 to 50 upside with threes and steals if he starts, but he needs a top-eight rotation spot and 25 or more minutes behind VanVleet, Smart and Bogdanovic, so cut him early if he falls out of the rotation."
-  },
-  {
-   "slug": "gui-santos",
-   "tier": "Role battle hedges",
-   "line": "His 31-minute, rank-72 stretch last year shows the ceiling, so pair him with Lendeborg, keep whichever one starts, and cut the loser before Butler returns."
-  },
-  {
-   "slug": "yaxel-lendeborg",
-   "tier": "Role battle hedges",
-   "line": "He is useful only as a starter for his spread of rebounds, assists, steals and blocks, so keep him while Kerr starts him and trade or drop him before Butler and Moody return."
-  },
-  {
-   "slug": "yves-missi",
-   "tier": "Role battle hedges",
-   "line": "He is a cheap block source if he starts over Queen and plays 25 or more minutes, so drop him if he loses the job or his FT% looks like last season's 55.9%."
-  },
-  {
-   "slug": "derik-queen",
-   "tier": "Role battle hedges",
-   "line": "He hits if he takes the start from Missi or gets above 25 minutes next to Zion, but his price of 3 to 4 USD is at the top of the flyer range, so cut him if his minutes stay flat."
-  },
-  {
-   "slug": "daniel-gafford",
-   "tier": "Role battle hedges",
-   "line": "He is worth 1 USD as an early starting center for FG% and blocks while Lively is out, so drop him once Lively returns or if he does not start on opening night."
-  },
-  {
-   "slug": "morez-johnson",
-   "tier": "Role battle hedges",
-   "line": "He hits if Dusty May starts him over Gafford at 25 to 30 minutes, with blocks and a good 4-4-4 playoff schedule, but check his lower leg before 2026-10-18 and leave him on waivers if he does not start."
-  },
-  {
-   "slug": "khaman-maluach",
-   "tier": "Role battle hedges",
-   "line": "He is a block flyer only if he wins the center job from Ighodaro and reaches the mid 20s in minutes, so cut him if Ighodaro keeps it."
-  },
-  {
-   "slug": "moussa-diabate",
-   "tier": "Cheap starting bigs",
-   "line": "He is a 1 USD source of FG% and rebounds while he keeps the starting job and 26 minutes, so send him back to waivers as soon as the rookie center or Kalkbrenner cuts into his minutes."
-  },
-  {
-   "slug": "isaiah-jackson",
-   "tier": "Cheap starting bigs",
-   "line": "He gives FG% and blocks if he keeps starting over Brook Lopez and his minutes climb from 16.5 toward 25, and Konan Niederhäuser's return is the likely point to drop him."
-  },
-  {
-   "slug": "jeremiah-fears",
-   "tier": "Build-specific last dollar",
-   "line": "He hits if he beats Herb Jones for a starting spot and reaches about 30 minutes for steals, and he goes back to waivers if he does not, unless you own Dejounte Murray."
+   "slug": "jakob-poeltl",
+   "tier": "Top flyers",
+   "line": "He is a starting center with top 70 upside if he holds about 28 minutes and his blocks climb back toward 1.2 to 1.5, so cut him if his minutes drop or his back flares up again."
   },
   {
    "slug": "egor-demin",
-   "tier": "Build-specific last dollar",
-   "line": "His upside near 80th requires him to start and lift his FG% above 39.9%, so drop him early if he comes off the bench or the shooting stays poor, and keep in mind his weak 3-4-3 playoff schedule."
+   "tier": "Top flyers",
+   "line": "He has upside near the top 80 if he starts and takes fewer twos so his FG% rises, and he is a drop if he loses the start or Randle takes over the ball."
   },
   {
-   "slug": "deanthony-melton",
-   "tier": "Build-specific last dollar",
-   "line": "He is a steals flyer for punt FG% only if he wins the open starting guard job at about 28 minutes, and he is more likely an early waiver add than a draft pick."
-  },
-  {
-   "slug": "grayson-allen",
-   "tier": "Build-specific last dollar",
-   "line": "His 2.7 threes fit punt FG% if he starts while Knueppel and White are out and his FG% climbs above 40.3%, and he is a quick drop if neither happens."
-  },
-  {
-   "slug": "jonathan-kuminga",
-   "tier": "Build-specific last dollar",
-   "line": "He needs starter minutes near 28, a closing role and a recovery from 23% preseason shooting, so cut him early if that does not happen, and note Minnesota has only 2 games in our semifinal week."
-  },
-  {
-   "slug": "rui-hachimura",
-   "tier": "Build-specific last dollar",
-   "line": "He is a 1 USD bench flyer for FG% and threes if he plays over 30 minutes while Ingram is out, and he goes back to waivers if he does not."
-  },
-  {
-   "slug": "jaime-jaquez",
-   "tier": "Build-specific last dollar",
-   "line": "He is worth 1 USD at most for punt 3PM if he holds the starting forward spot with 4 to 5 assists next to Herro and Rollins, so drop him if the assists fade or a trade costs him the role."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Build-specific last dollar",
-   "line": "His ceiling is around 120 to 135, so he is filler for punt FG% builds rather than a true flyer, and he is droppable if he does not play about 30 minutes, sits back-to-backs or has knee trouble."
-  },
-  {
-   "slug": "cameron-johnson",
-   "tier": "Build-specific last dollar",
-   "line": "His best case is about top 90 if his usage rises above 15 as a starter, below our top 70 bar, so cut him if his usage stays flat or a trade shrinks his role."
-  },
-  {
-   "slug": "darius-acuff",
-   "tier": "Build-specific last dollar",
-   "line": "He suits only a team that can absorb his FG% and turnovers for points and assists, so drop him if his shot share next to LaVine and Sabonis stays small or his FG% stays near 42%."
-  },
-  {
-   "slug": "darryn-peterson",
-   "tier": "Price check",
-   "line": "This rookie fits the 120 to 130 flyer slot at 2 to 5 USD and is not worth more, so he needs to start and improve his shooting and assists while early FG% and turnover pain is expected."
-  },
-  {
-   "slug": "ja-morant",
-   "tier": "Price check",
-   "line": "Experts value him at 5 to 10 USD, so he will likely cost more than a flyer spot, and he only helps punt TO teams if he keeps his usage and assists next to Lillard and Holiday and stays healthy."
+   "slug": "derik-queen",
+   "tier": "Top flyers",
+   "line": "He hits if he takes the starting job from Missi or Zion Williamson misses time, and he is a drop if Missi keeps the job and Mosley keeps his minutes low."
   },
   {
    "slug": "quentin-grimes",
-   "tier": "Handcuffs only",
-   "line": "His best case on his own is about top 110, and he reaches top 70 to 80 only if Doncic or Reaves misses time, so he is a 1 USD handcuff for their owners and droppable if he does not start at about 30 minutes."
+   "tier": "Top flyers",
+   "line": "He needs to start ahead of LaRavia and Ziaire Williams at close to 30 minutes, his top 70 to 80 run needs Doncic or Reaves to miss time, and he is a drop if he comes off the bench."
   },
   {
-   "slug": "sandro-mamukelashvili",
-   "tier": "Handcuffs only",
-   "line": "He matters only at 26 to 27 minutes as the backup center over Looney, or past 30 if Kessler gets hurt, so treat him as a 1 USD stash at most and cut him if he loses the backup job."
+   "slug": "nic-claxton",
+   "tier": "Starting bigs",
+   "line": "He gives blocks and FG% if he comes back from the hamstring and holds 28 to 30 minutes ahead of Jalen Smith and Zach Collins, and he is a drop if those minutes get split."
   },
   {
-   "slug": "nikola-vucevic",
-   "tier": "Handcuffs only",
-   "line": "As a bench center behind Wendell Carter Jr., he pays off only as a Carter handcuff, so skip him unless you own Carter and drop him if his minutes under Sweeney stay low."
+   "slug": "yves-missi",
+   "tier": "Starting bigs",
+   "line": "He pays off if he starts over Derik Queen at about 25 minutes for blocks and FG%, and he goes to waivers if Zion Williamson takes the center minutes."
   },
   {
-   "slug": "paul-reed",
-   "tier": "Handcuffs only",
-   "line": "He is a 1 USD endgame handcuff only for a Duren owner, so otherwise leave him on waivers and add him the moment Duren misses games."
+   "slug": "isaiah-jackson",
+   "tier": "Starting bigs",
+   "line": "He gives FG%, blocks and rebounds while he keeps the starting job near 25 minutes and stays out of foul trouble, and Konan Niederhäuser's return is the likely point to drop him."
   },
   {
-   "slug": "kyle-filipowski",
-   "tier": "Handcuffs only",
-   "line": "He becomes interesting only if a Utah big gets hurt, so leave him on waivers and check his back and his minutes behind Hayes and Nurkic."
+   "slug": "moussa-diabate",
+   "tier": "Starting bigs",
+   "line": "He should start and help FG% and rebounds, so keep him while he holds about 25 minutes ahead of the rookie and Kalkbrenner, and drop him as soon as he loses the job."
   },
   {
-   "slug": "scotty-pippen",
-   "tier": "Waiver watch",
-   "line": "He becomes a must-add only if he starts, which depends on Ty Jerome's health, so watch whether he wins the sixth man role over Jaylen Wells instead of drafting him."
+   "slug": "daniel-gafford",
+   "tier": "Starting bigs",
+   "line": "He is only worth it if he starts on opening night and gets real minutes while Lively is out, and he is a drop if he barely plays, as in the first preseason game, or Dallas trades him."
+  },
+  {
+   "slug": "khaman-maluach",
+   "tier": "Starting bigs",
+   "line": "His blocks stand out, so he hits if he wins the center job or reaches about 24 minutes, and he is an easy drop if Ighodaro keeps the job and he stays near 16 minutes."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Role flyers",
+   "line": "He needs to stay near 25 minutes behind VanVleet, Smart and Bogdanovic for steals and threes, and you should drop him quickly if he settles around 18 minutes in the first two weeks."
+  },
+  {
+   "slug": "jalen-green",
+   "tier": "Role flyers",
+   "line": "He hits if he keeps the point guard role at 30-plus minutes with close to 4 assists, and he is a drop if he loses that role."
+  },
+  {
+   "slug": "darryn-peterson",
+   "tier": "Role flyers",
+   "line": "He has long-term top 15 upside but no expert path to top 100 this season, so he needs to start with real minutes next to George, Markkanen and Jackson Jr. and cut his turnovers, or he becomes a drop."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Role flyers",
+   "line": "He is a punt FG% guard with no clear top 70 path, so keep him only if his minutes climb from about 30 toward 34 and his assists hold, and cut him if he sits back-to-backs often."
+  },
+  {
+   "slug": "jeremiah-fears",
+   "tier": "Role flyers",
+   "line": "He needs to start over Herb Jones near 30 minutes for steals and assists, ideally next to Dejounte Murray as his handcuff, and he is an easy drop if he comes off the bench."
+  },
+  {
+   "slug": "darius-acuff",
+   "tier": "Role flyers",
+   "line": "He hits if his preseason usage holds next to LaVine and Sabonis or a Kings trade frees shots for him, and he goes if his FG% falls below 40%."
+  },
+  {
+   "slug": "yaxel-lendeborg",
+   "tier": "Role flyers",
+   "line": "He is a current starter for punt 3PM builds, so hold him while Kerr starts him and sell or replace him before Butler and Moody return."
+  },
+  {
+   "slug": "gui-santos",
+   "tier": "Role flyers",
+   "line": "He is filler with no standout category and works only as a hedge with Lendeborg, so keep him while he starts near 31 minutes and drop him when Butler and Moody come back."
+  },
+  {
+   "slug": "rui-hachimura",
+   "tier": "Role flyers",
+   "line": "He needs over 30 minutes and more shots while Ingram is out to give FG% and threes, and he goes back to waivers if that does not happen."
+  },
+  {
+   "slug": "ajay-mitchell",
+   "tier": "Role flyers",
+   "line": "He hits if he starts over Wallace near 30 minutes with the stars healthy, and he also covers Gilgeous-Alexander and Jalen Williams, but he goes back to waivers if he stays a bench guard."
+  },
+  {
+   "slug": "jaime-jaquez",
+   "tier": "Role flyers",
+   "line": "He is a late flyer only and must hold the starting forward spot and keep his assists and FG% next to Herro and Rollins, so drop him if he loses the start."
+  },
+  {
+   "slug": "jonathan-kuminga",
+   "tier": "Role flyers",
+   "line": "He is a scorer with weak 9-cat support who must keep starting, play more than about 21 minutes and close games, and he is a quick drop if he does not."
+  },
+  {
+   "slug": "jake-laravia",
+   "tier": "Role flyers",
+   "line": "He only fits STL and TO builds, so keep him if he is in the Lakers' opening-night starting lineup and cut him if he comes off the bench."
   },
   {
    "slug": "ace-bailey",
-   "tier": "Waiver watch",
-   "line": "Experts expect a bench role with no standout category, so add him only if he reaches about 30 minutes or starts while Nurkic is out."
+   "tier": "Role flyers",
+   "line": "His projected line is flat, so he needs about 30 minutes or a start while Nurkic is out, and he is a drop once those minutes are gone."
+  },
+  {
+   "slug": "scotty-pippen",
+   "tier": "Role flyers",
+   "line": "A newer expert take doubts him after preseason, so he is a last pick at most, worth holding only if he wins minutes over Jaylen Wells and a drop if he stays a backup."
+  },
+  {
+   "slug": "nikola-vucevic",
+   "tier": "Injury handcuffs",
+   "line": "He is a Carter handcuff who also hits if Sweeney gives him 23 to 25 minutes ahead of Bitadze, and you should drop him fast if he stays near 15 to 20 minutes."
+  },
+  {
+   "slug": "sandro-mamukelashvili",
+   "tier": "Injury handcuffs",
+   "line": "He needs 26 to 27 minutes as backup center over Looney and only pushes past 30 if Kessler gets hurt, so cut him if he loses the backup job."
+  },
+  {
+   "slug": "tari-eason",
+   "tier": "Injury handcuffs",
+   "line": "His upside needs a Durant or Jabari Smith injury or a real cut in Durant's minutes, so drop him if his FG% does not recover from 41.6% and Durant plays full minutes."
+  },
+  {
+   "slug": "paul-reed",
+   "tier": "Injury handcuffs",
+   "line": "His value comes as a starter, so he hits only while Duren's minutes ramp up slowly, and he is a drop once Duren is at full minutes."
+  },
+  {
+   "slug": "morez-johnson",
+   "tier": "Injury handcuffs",
+   "line": "He needs to beat Gafford for the center job while Lively is out, or get help from a Gafford trade, and he should go if he is not healthy or not starting."
+  },
+  {
+   "slug": "cedric-coward",
+   "tier": "Above flyer price",
+   "line": "Experts take him around picks 87 to 100, so a fair bid is above the flyer range, and he pays off only if he plays 28 or more minutes with more shots."
+  },
+  {
+   "slug": "collin-murray-boyles",
+   "tier": "Above flyer price",
+   "line": "He would be a top 70 to 80 player at 30 minutes, but the expert mock price puts him above the flyer range, so drop him if he plays under 25 minutes or does not close games."
+  },
+  {
+   "slug": "yanic-konan-niederhauser",
+   "tier": "IL stash",
+   "line": "Hold him in an IL slot for late-season upside if he returns around Christmas and takes the starting job from Isaiah Jackson and Brook Lopez by February."
   },
   {
    "slug": "pelle-larsson",
    "tier": "Waiver watch",
-   "line": "Check the preseason lineup before 2026-10-18: take him late only if he starts at point guard ahead of Mitchell, and leave him on waivers if he comes off the bench."
+   "line": "Take him with a last pick only if the preseason lineup has him starting at point guard ahead of Mitchell, and otherwise leave him on waivers."
   },
   {
    "slug": "mikel-brown",
    "tier": "Waiver watch",
-   "line": "Spend FAB only if his ankle is fine and he actually starts at point guard with about 5 assists and steals, and note his slow build toward February and only 10 games in our playoff weeks."
+   "line": "His value should come in the second half, so leave him on waivers and add him if he starts at point guard and plays real minutes by Thanksgiving."
   },
   {
-   "slug": "jaylon-tyson",
+   "slug": "jalen-smith",
    "tier": "Waiver watch",
-   "line": "As a projected sixth man, he is worth adding only if his minutes stay near a starter's load or Harden, Mitchell or Watson misses time, and his two-game finals week makes him a weak playoff hold."
+   "line": "Do not spend on him at the draft, and make him a quick FAB add if he starts at center on opening night or Claxton misses time."
   },
   {
-   "slug": "max-strus",
+   "slug": "ben-simmons",
    "tier": "Waiver watch",
-   "line": "His top-120 ceiling needs a return to 32 minutes and about 4 assists while Ingram is out, so check his foot status and add him from waivers only if the minutes show up."
+   "line": "He is a rebounds and assists streamer worth adding only if he starts and plays small-ball center while Cardwell and Raynaud are out."
   },
   {
-   "slug": "daniss-jenkins",
+   "slug": "scoot-henderson",
    "tier": "Waiver watch",
-   "line": "Do not spend draft money on him, but add him right away if Cunningham gets hurt or Bickerstaff gives him 26 or more minutes."
+   "line": "He will likely go undrafted, so add him only if he keeps the starting job over Jrue Holiday and Ja Morant with solid minutes."
   },
   {
    "slug": "baylor-scheierman",
    "tier": "Waiver watch",
-   "line": "Do not draft him, and add him only if he starts over Pritchard and plays 23 or more minutes for threes and low turnovers."
+   "line": "Do not draft him, and add him for threes and low turnovers only if he starts over Pritchard at 23 or more minutes."
   },
   {
-   "slug": "yanic-konan-niederhauser",
+   "slug": "jaylon-tyson",
    "tier": "Waiver watch",
-   "line": "He is at most a 1 USD IL stash with a good 4-3-4 playoff schedule, so if he goes undrafted, watch his return around Christmas and add him if he takes the starting job by February."
+   "line": "He is a waiver-level sixth man unless injuries to Harden, Mitchell or Watson open up starter's minutes."
+  },
+  {
+   "slug": "daniss-jenkins",
+   "tier": "Waiver watch",
+   "line": "Do not draft him, but pick him up right away if Cunningham gets hurt or Bickerstaff gives him 26 or more minutes."
+  },
+  {
+   "slug": "keon-ellis",
+   "tier": "Waiver watch",
+   "line": "Leave him on waivers unless he wins the starting job over Mikel Brown Jr. at about 27 minutes."
+  },
+  {
+   "slug": "max-strus",
+   "tier": "Waiver watch",
+   "line": "His ceiling is only about top 120 and his foot status is listed as out, so watch him on waivers for a return to about 32 minutes and 4 assists."
+  },
+  {
+   "slug": "aday-mara",
+   "tier": "Waiver watch",
+   "line": "His rising ADP comes from hype, not a role, so leave him on waivers and add him for blocks only if he wins real minutes while Holmgren is banged up."
   }
  ],
  "excluded": [],

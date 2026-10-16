@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 715 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 724 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,27 +19,28 @@
 | PTS | 9.2 | -0.8 | -0.9 | - |
 | REB | 4.4 | -0.3 | -0.3 | - |
 | AST | 1.8 | -0.7 | -0.6 | - |
-| STL | 0.9 | -0.1 | -0.1 | - |
+| STL | 0.9 | -0.1 | -0.0 | - |
 | BLK | 0.3 | -0.7 | -0.8 | - |
 | TO | 1.2 | +0.6 | +0.5 | - |
 
 </details>
 
 **Current**
-- He is a rookie, drafted in the first round. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1767))
-- His Summer League was one of the worst ever for a pick that high. In one game he scored 3 points in 28 minutes on 13% shooting and missed every three. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1767), [08-02](https://youtu.be/TOn-D1SV7a8?t=823), [07-23](https://youtu.be/LUTYUdXBG1M?t=1765))
-- He is not in the projected Chicago rotation. The starting five and the bench through the 10th man are listed without him. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- Not draftable in redraft leagues. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1767))
-- In dynasty, Josh still values his college work and dropped him only a couple of spots, to rookie rank 18. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=823))
+- He is a rookie and a first-round pick of the Bulls. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1767))
+- He is not in the projected Bulls rotation. The starters are Giddey, Powell, Buzelis, Caleb Wilson and Claxton. Tre Jones, Okoro, Jalen Smith and Hield come next, and Patrick Williams, Zach Collins or Leonard Miller is the 10th man. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
+- Not draftable this season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1767))
+- Tiago Splitter is the new Bulls coach. He is expected to push young players out of their comfort zones. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387))
+- The Bulls are expected to be a bottom team. One expert calls them bottom six, and another predicts 32 wins. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629))
+- His Summer League was called possibly the worst ever for a pick that high. In one game he scored 3 points in 28 minutes, shot 13% from the field and missed every three. (fact, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1765), [08-02](https://youtu.be/TOn-D1SV7a8?t=823))
 
 **Durable**
-- He is a wing-sized forward with a high turnover rate. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=632))
-- He has upside as a shooter, passer and creator. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=632))
+- He has wing size. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=632))
+- Pre-draft scouting saw a high turnover rate, plus upside as a shooter, passer and creator. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=632))
 
 **Tags**
-- Current: `rookie` (First-round pick after a very poor Summer League)
+- Current: `rookie` (First-round pick of the Bulls), `bottom team` (Bulls projected bottom six, about 32 wins), `new coach` (Tiago Splitter replaces Billy Donovan)
 - Durable: none
 
-**Note.** Yahoo ranks him 691 with a value of 0 USD. ESPN has no price for him, and the expert calls him not draftable, so he is far outside our 144-player auction pool. His projection (9.2 points, 0.7 threes, no strong category) gives no reason to roster him. Leave him on waivers and only take another look if new coach Splitter puts him in the rotation early in the season.
+**Note.** Yahoo ranks him 724th with a value of 0 USD, ESPN does not rank him, and he was not drafted here last season. He falls far outside our 144-player auction and should not be drafted. His projected line (9.2 points, 0.7 threes, weak in most categories) only matters if Splitter gives him rotation minutes, so check the early-season Bulls rotation before you spend any FAB on him.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

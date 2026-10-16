@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "79e1bd9a8f82",
+ "input_sha": "cdb056c4f0b7",
  "note_count": 7,
- "built_at": "2026-10-04T17:48:39+00:00",
+ "built_at": "2026-10-16T09:16:04+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1894754,
-  "duration_ms": 41907
+  "cost_usd_list": 0.14196219999999998,
+  "duration_ms": 29104,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. Dallas took him in the first round, in the 20s.",
+   "text": "De Larrea is a first-round rookie, picked in the 20s.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
@@ -28,7 +30,27 @@
    ]
   },
   {
-   "text": "Josh projects him as the backup point guard. He sees him as worth watching when Kyrie Irving sits, with a possible line of 10 points and 5 assists in 27 minutes.",
+   "text": "Dallas is very thin at guard. Kyrie Irving, de Larrea and Marcus Sasser are the only real guards, and almost every other player is a forward.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:t1",
+    "RyzcCGChYgs:t3",
+    "XSPJL_mlFXo:t0"
+   ]
+  },
+  {
+   "text": "Josh projects him as the backup point guard.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p23"
+   ]
+  },
+  {
+   "text": "He is worth watching on nights Kyrie Irving sits. In that case he could start and average about 10 points and 5 assists in 27 minutes. Kyrie is expected to miss games, so de Larrea could be in the rotation right away.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -39,7 +61,7 @@
    ]
   },
   {
-   "text": "In Summer League he averaged almost 8 to 9 assists. He shot under 30% and struggled to create his own shot.",
+   "text": "In Summer League he averaged about 8 to 9 assists, which is rare there. He shot under 30% and struggled to create his own shot.",
    "kind": "fact",
    "date": "2026-07-27",
    "until": "",
@@ -50,18 +72,26 @@
    ]
   },
   {
-   "text": "Dallas is short on true ball handlers. The only real guards are Kyrie Irving, de Larrea and Marcus Sasser. Kyrie is 36 and coming off injury.",
+   "text": "At 20 he may not be ready right away. Relying on him for fantasy is not a good idea.",
+   "kind": "verdict",
+   "date": "2026-07-27",
+   "until": "",
+   "sources": [
+    "0AptxcRW0RE:p24",
+    "RyzcCGChYgs:p30"
+   ]
+  },
+  {
+   "text": "Dusty May is the new Dallas head coach, so the rotation is less predictable.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "0AptxcRW0RE:t1",
-    "XSPJL_mlFXo:t0",
-    "RyzcCGChYgs:t3"
+    "XSPJL_mlFXo:t1"
    ]
   },
   {
-   "text": "Dallas plays 4 games in each of our fantasy playoff weeks (4-4-4). It also has a league-high 16 back-to-backs.",
+   "text": "Dallas plays 4 games in each of our playoff weeks 19 to 21. It also has a league-high 16 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -69,21 +99,11 @@
     "XSPJL_mlFXo:t4",
     "gf_6GveiAls:t3"
    ]
-  },
-  {
-   "text": "Yahoo projects a small role and ranks him 615th, so he is not a draft pick in a 144-player league. He is a waiver watch for nights when Kyrie sits.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "stats",
-    "XSPJL_mlFXo:p23"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a 6'7 point guard who dribbles and passes well. He was probably the best passer at Summer League.",
+   "text": "He is a 6'7 point guard with good size and measurements. He dribbles and passes well and was probably the best passer at Summer League.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -94,26 +114,18 @@
    ]
   },
   {
-   "text": "He shot well in Europe.",
-   "kind": "fact",
+   "text": "The experts disagree on his shooting. Some point to good shooting numbers in Europe; others worry about his shot.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p24",
-    "HxQjagSTTAM:p17"
-   ]
-  },
-  {
-   "text": "Some experts still worry about his shooting.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
+    "HxQjagSTTAM:p17",
     "TOn-D1SV7a8:p10"
    ]
   },
   {
-   "text": "Experts expect defensive problems.",
+   "text": "He will likely have defensive problems.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -127,7 +139,7 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "first round pick, 20 years old",
+   "detail": "First-round pick, age 20",
    "until": "",
    "sources": [
     "0AptxcRW0RE:p23",
@@ -138,18 +150,18 @@
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "watch his minutes and assists when Kyrie Irving sits",
+   "detail": "Watch for spot starts when Kyrie Irving sits",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p23",
-    "stats"
+    "0AptxcRW0RE:p23"
    ],
    "new_meaning": ""
   },
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "backup point guard behind Kyrie Irving",
+   "detail": "Backup point guard behind Kyrie Irving",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p23",
@@ -159,9 +171,41 @@
    "new_meaning": ""
   },
   {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "Experts expect defensive problems",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p24",
+    "HxQjagSTTAM:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas plays 4-4-4 in weeks 19 to 21",
+   "detail": "4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "League-high 16 back-to-backs",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
@@ -170,6 +214,6 @@
    "new_meaning": ""
   }
  ],
- "note": "At Yahoo rank 615 with 0 USD value and no ESPN price, he is not a pick in our 144-player auction. His projection is tiny: 3.2 points and 1.3 assists on 41.6% shooting. His fantasy case is the assists he could get as Kyrie Irving's backup on a thin Dallas guard group, so check his minutes and assist numbers on nights Kyrie sits early in the season before spending FAB.",
+ "note": "Yahoo projects only a small bench role for him (3.2 points, 1.3 assists, rank 624, value 0 USD), and ESPN gives no price. He is not a draft target in our 144-player auction. Watch him on waivers early in the season: Kyrie Irving is expected to miss games, and Dallas has a league-high 16 back-to-backs, so spot starts could make him a short-term assists streamer. Check his shooting and minutes in the first weeks, because he shot under 30% in Summer League.",
  "rejected": []
 }

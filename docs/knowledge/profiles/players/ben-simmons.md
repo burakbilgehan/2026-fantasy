@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 227 | 0 | 0.2 | 322 | not drafted |
+| 2026-27 | 0 | 0.0 | 174 | 0 | 0.6 | 322 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,26 +20,36 @@
 | FT% | 61.2% | -0.3 | -0.9 | - |
 | 3PM | 0.0 | -1.7 | -2.2 | league outlier, weak |
 | PTS | 3.5 | -1.8 | -1.8 | league outlier, weak |
-| REB | 3.5 | -0.7 | -0.2 | - |
+| REB | 3.5 | -0.7 | -0.3 | - |
 | AST | 2.9 | -0.2 | -0.5 | - |
 | STL | 0.5 | -1.3 | -1.5 | - |
 | BLK | 0.4 | -0.5 | +0.0 | - |
-| TO | 1.2 | +0.6 | +0.8 | - |
+| TO | 1.2 | +0.7 | +0.8 | - |
 
 </details>
 
 **Current**
-- He is not worth a late draft pick. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2521))
-- He will be streamable at times this season, with a line of about 5 points, 5 rebounds and 5 assists. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
-- He is not among the Kings' projected starters. The projected starting five is Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-16; stats)
+- The Kings are projected to start Simmons, reportedly over DeAndre Hunter. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1179), [10-15](https://youtu.be/PrrgoTEcao4?t=315), [10-14](https://youtu.be/D4dP5JvX1oo?t=1504), [10-14](https://youtu.be/D4dP5JvX1oo?t=1564), [10-12](https://youtu.be/ENizLoE6pzI?t=1510), [10-12](https://youtu.be/ENizLoE6pzI?t=1510))
+- As a starter, experts see a line of about 6 rebounds and 6 assists as possible. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1179), [10-12](https://youtu.be/ENizLoE6pzI?t=1510))
+- Experts disagree on drafting him. One calls him a late swing in category leagues. Another does not want him. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1179), [10-12](https://youtu.be/ENizLoE6pzI?t=1510))
+- The Kings are expected to be one of the worst teams in the NBA, and their rotations are hard to predict. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=68), [10-08](https://youtu.be/6DnRWahYrFA?t=407), [07-31](https://youtu.be/oEywzBZfAvY?t=2438))
+- The Kings play 11 games in our playoff weeks (4-4-3) and have 14 back-to-backs this season. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1824))
+- Centers Dylan Cardwell and Maxime Raynaud are both out for at least two weeks. (fact, 2026-10-14, until Cardwell and Raynaud return; [10-13](https://youtu.be/EogBYa24Gto?t=657), [10-14](https://youtu.be/D4dP5JvX1oo?t=1564), [10-15](https://youtu.be/PrrgoTEcao4?t=1706))
+- His draft position in mock drafts is rising. He went 131st in one mock. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1504), [10-12](https://youtu.be/ENizLoE6pzI?t=1510))
+- Simmons may get some small-ball minutes at center while the Kings are short on bigs. (verdict, 2026-10-13, until Cardwell and Raynaud return; [10-13](https://youtu.be/EogBYa24Gto?t=657))
+- He should be worth streaming at times this season. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1986))
 
 **Durable**
-- He makes no threes and scores very little. Both are clear weak outliers against the league. (fact, 2026-10-11; stats)
+- He cannot shoot and makes almost no threes. He scores very little. (fact, 2026-10-16; [10-15](https://youtu.be/PrrgoTEcao4?t=1148), stats)
+- He plays with very low usage. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1148))
+- His fantasy value comes from rebounds and assists, and he plays good defense. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1148))
+- One expert doubts his body can handle 60 games. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1148))
 
 **Tags**
-- Current: `waiver watch` (not worth a late pick, but streamable at times for rebounds and assists)
-- Durable: `no 3PM` (0.0 threes per game in every season and projection)
+- Current: `questionable` (Yahoo status Q (rest)), `flyer` (Late category-league swing for a 6/6/6 type line as a starter), `waiver watch` (Streamable at times; Yahoo rank 174, ESPN rank 322), `bottom team` (Kings), `unsettled rotation` (Kings rotations are unpredictable; two bigs out to start the season)
+- Durable: `no 3PM` (0.0 threes per game), `injury prone` (Expert doubts his body can handle 60 games)
 
-**Note.** Yahoo and ESPN both value him at 0 USD. His ranks (Yahoo 227, ESPN 322) are far outside the 144 players we draft, so he should not be bought in our auction. Leave him on waivers. He is a short-term stream for teams that need assists and rebounds and can take 0 threes and about 5 points a game (ESPN projects 5.0 points, 5.0 rebounds and 5.3 assists). Early in the season, check whether he gets real minutes off the bench behind Sacramento's projected starters.
+**Note.** Both sites value him at 0 USD (Yahoo rank 174, ESPN rank 322), and nobody drafted him in our league last season. He sits right around our 144-player cutoff, so at most he is a 1 USD late flyer, mainly for rebounds and assists. He gives you no threes and almost no points. In the first weeks, check whether he really starts and gets minutes (ESPN projects 21.2), whether he plays small-ball center while Cardwell and Raynaud are out, and how often the Kings rest him. If he is not drafted, keep him on your waiver watch list for streaming.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -4,7 +4,7 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 63 | 25.1 | 46.6 (9.9) | 74.4 (2.6) | 1.3 | 12.4 | 3.4 | 5.3 | 1.8 | 0.5 | 2.5 |
-| 2026-27 proj, Yahoo | 65 | - | 48.1 (9.4) | 74.1 (2.6) | 1.3 | 12.3 | 3.2 | 4.6 | 1.8 | 0.5 | 2.5 |
+| 2026-27 proj, Yahoo | 65 | - | 48.1 (7.9) | 73.4 (2.2) | 1.1 | 10.3 | 2.7 | 3.9 | 1.5 | 0.4 | 2.1 |
 | 2025-26 | 10 | 21.2 | 44.8 (9.6) | 78.3 (2.3) | 1.0 | 11.4 | 2.2 | 4.7 | 1.9 | 0.4 | 2.7 |
 | 2024-25 | 79 | 21.3 | 48.0 (7.5) | 71.3 (2.2) | 1.1 | 9.9 | 3.3 | 4.4 | 1.3 | 0.4 | 1.7 |
 | 2023-24 | 21 | 25.0 | 49.3 (9.7) | 74.5 (2.6) | 1.4 | 12.9 | 3.2 | 4.7 | 1.7 | 0.5 | 2.7 |
@@ -17,38 +17,37 @@
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.4% | -0.1 | +0.5 | - |
-| FT% | 74.3% | -0.5 | -1.1 | weak for his position (punt fit) |
-| 3PM | 1.3 | -0.2 | -0.7 | - |
-| PTS | 12.4 | -0.3 | -0.4 | - |
-| REB | 3.3 | -0.7 | -0.3 | - |
-| AST | 5.0 | +0.9 | +0.6 | - |
-| STL | 1.8 | +2.6 | +2.1 | league outlier, strong |
-| BLK | 0.5 | -0.3 | +0.5 | - |
-| TO | 2.5 | -1.1 | -0.9 | - |
+| FG% | 47.3% | -0.1 | +0.5 | - |
+| FT% | 73.9% | -0.5 | -1.1 | - |
+| 3PM | 1.2 | -0.4 | -0.8 | - |
+| PTS | 11.4 | -0.5 | -0.5 | - |
+| REB | 3.1 | -0.9 | -0.5 | - |
+| AST | 4.6 | +0.7 | +0.4 | - |
+| STL | 1.6 | +2.2 | +1.8 | league outlier, strong |
+| BLK | 0.4 | -0.3 | +0.3 | - |
+| TO | 2.3 | -0.9 | -0.7 | - |
 
 </details>
 
 **Current**
-- Ty Jerome is the starting point guard and started both preseason games. Pippen is projected to come off the bench behind him. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [08-17](https://youtu.be/LcZcvk8s1xQ?t=490))
-- His toe injury is reportedly healed. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1342))
-- He is expected to be the sixth man and competes with Jaylen Wells for minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1342))
-- He has been working at shooting guard. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1384))
-- He could start next to Jerome. If Jerome gets hurt and Pippen starts, he would be a must-add in every league. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1384))
-- The expert says he is ranked too low. He is worth a late pick as a deep-bench stash and is the expert's late-round swing pick on Memphis. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1407), [10-07](https://youtu.be/lp11OAEpq4Y?t=1704))
-- Memphis is expected to use an 11 or 12 man rotation. Coach Tuomas Iisalo uses short stints and keeps minutes down, which limits a bench guard's minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis plays a 4-4-4 schedule in the fantasy playoff weeks with a March 28 end. The team has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Experts disagree on drafting him. One says he is ranked too low and is a late-round swing pick and deep-bench stash. A newer take says nothing in preseason makes drafting him make sense. (verdict, 2026-10-13; [10-07](https://youtu.be/lp11OAEpq4Y?t=1407), [10-07](https://youtu.be/lp11OAEpq4Y?t=1704), [10-13](https://youtu.be/OsbUAkSeVB4?t=1556))
+- He is projected to come off the bench. Ty Jerome is the starting point guard and started both preseason games. (fact, 2026-10-08; [10-07](https://youtu.be/lp11OAEpq4Y?t=1342), [08-17](https://youtu.be/LcZcvk8s1xQ?t=490), [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-12](https://youtu.be/ENizLoE6pzI?t=1231))
+- His toe injury from last season is reportedly healed. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1342), [08-17](https://youtu.be/LcZcvk8s1xQ?t=490))
+- He is likely the sixth man, competing with Jaylen Wells for bench minutes and with Jerome for point guard minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1342), [08-17](https://youtu.be/LcZcvk8s1xQ?t=490))
+- He has been working at shooting guard, so he could start next to Jerome. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1384))
+- He would be a must add everywhere if Jerome gets hurt and Pippen moves into the starting lineup. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1384))
+- Memphis is expected to use an 11 or 12 man rotation with short, hard stints and a high pace, which keeps bench minutes down. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
 
 **Durable**
-- Steals are a real outlier: about 1.8 per game projected, far above the top 250 pool. (fact, 2026-10-11; stats)
-- His FT% (around 74%) is weak for a guard, so a punt FT% team loses little with him. (verdict, 2026-10-11; stats)
-- His value comes from steals and assists. He is a strong perimeter defender. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1360))
+- Steals are his standout category, far above the top 250 pool. Assists are his other positive category. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1360), stats)
+- He is a strong perimeter defender. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1360))
 - He is less useful in points leagues than in category leagues. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1407))
 
 **Tags**
-- Current: `minutes competition` (sixth man role vs Jaylen Wells; behind Ty Jerome at point guard), `handcuff` (must-add if Ty Jerome gets hurt and Pippen starts), `sleeper` (expert says Yahoo rank 183 is too low), `flyer` (late-round swing pick and deep-bench stash), `injury last season` (toe injury, played 10 games; now reportedly healed), `deep rotation` (11 or 12 man rotation under Iisalo), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21 with a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league)
-- Durable: `STL specialist` (about 1.8 steals per game projected), `punt FT fit` (about 74% FT, weak for a guard), `category league player` (value is steals and assists, less useful in points leagues)
+- Current: `minutes competition` (bench role behind Ty Jerome, competing with Jaylen Wells), `handcuff` (must add if Ty Jerome gets hurt), `injury last season` (toe injury, now reportedly healed), `flyer` (late-round swing per one expert; a newer take doubts him after preseason), `waiver watch` (watch his minutes and Jerome's health), `deep rotation` (11 or 12 man rotation), `fast pace` (Iisalo plays at a very high pace), `low starter minutes` (Iisalo uses short stints and keeps minutes down), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs), `unsettled rotation` (crowded guard group; Lloyd finds the Grizzlies hard to figure out)
+- Durable: `STL specialist` (about 1.6 steals per game projected), `category league player` (value from steals and assists, less useful in points leagues)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 166, ESPN rank 134), and nobody drafted him in our league last season. With 144 players drafted, he is a 1 USD last-bench pick at most. He can also be a waiver pickup. His steals (z +2.6) and assists help a punt FT% build. Early in the season, check whether he wins the sixth man role over Jaylen Wells, how many minutes Iisalo gives him in a deep rotation, and whether Ty Jerome stays healthy, because Pippen starting would make him a must-add.
+**Note.** He ranks 166 on Yahoo and 134 on ESPN, and both sites price him at about 0 USD. With only 144 players drafted, he sits at the edge of our draft pool, so he costs at most 1 USD as a last bench pick for builds that chase steals and assists. Early in the season, check his minutes against Jaylen Wells and Ty Jerome's health, because a starting role would make him a must add.
 
-<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

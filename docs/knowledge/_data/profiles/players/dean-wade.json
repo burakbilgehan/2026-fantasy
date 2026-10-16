@@ -1,0 +1,172 @@
+{
+ "player": {
+  "name": "Dean Wade",
+  "slug": "dean-wade",
+  "pk": 575,
+  "team": "PHI",
+  "position": "F"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "a3e44e5dd3de",
+ "note_count": 4,
+ "built_at": "2026-10-16T08:50:46+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1476542,
+  "duration_ms": 32542,
+  "turns": 2,
+  "denied": 0
+ },
+ "current": [
+  {
+   "text": "Wade joined Philadelphia this offseason.",
+   "kind": "fact",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1"
+   ]
+  },
+  {
+   "text": "Wade is projected as the first man off the bench, behind a starting five of Maxey, Edgecombe, Brown, LeBron and Embiid.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p22",
+    "KqTKVExQGLo:t0"
+   ]
+  },
+  {
+   "text": "Philadelphia's backup center depth is thin. Hukporti is out for the season, and Adem Bona and Tacko Fall are injured.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:t0"
+   ]
+  },
+  {
+   "text": "Wade could end up as the backup center.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:p22"
+   ]
+  },
+  {
+   "text": "Even when Philadelphia's starters miss games, the bench offers no easy fantasy replacements.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t2"
+   ]
+  },
+  {
+   "text": "Wade is not a draft target in our 12-team league. Both sites price him at 0 USD and rank him outside the top 270.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p23",
+    "stats"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Wade is a good defender and floor spacer with very low usage.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p23",
+    "P6TNP-g0wzY:p19",
+    "gTsfR5PxAMY:p22"
+   ]
+  },
+  {
+   "text": "He is good at basketball but puts up too few stats to help in fantasy.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p23",
+    "P6TNP-g0wzY:p19"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "new team",
+   "channel": "current",
+   "detail": "Joined Philadelphia this offseason",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "real-life over fantasy",
+   "channel": "durable",
+   "detail": "Low-usage defender and floor spacer with no fantasy stats",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p23",
+    "P6TNP-g0wzY:p19"
+   ],
+   "new_meaning": "Valued by his NBA team for defense or spacing but produces too few stats to matter in fantasy."
+  },
+  {
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Nick Nurse plays his starters heavy minutes, which limits bench roles like Wade's",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:t2",
+    "W-R1dzem32s:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "concentrated usage",
+   "channel": "current",
+   "detail": "Maxey, Embiid, LeBron and Brown take most of the touches",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t10",
+    "8d--aL_xxwE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected at about 51 to 52 wins",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, three of them in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t3",
+    "gf_6GveiAls:t8"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Wade is ranked 284 on Yahoo and 275 on ESPN, both sites value him at 0 USD, and our league did not draft him last season. With 144 players drafted, he should not be on any draft list. His projection of about 6 points and 4.5 rebounds per game has no category strong enough to carry a roster spot. The only thing to watch early in the season is whether the thin backup center group pushes him into bigger minutes when Embiid sits. Even then, the experts expect no useful fantasy replacement on this bench.",
+ "rejected": []
+}

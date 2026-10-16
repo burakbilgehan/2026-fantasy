@@ -8,29 +8,59 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ad58b9630831",
- "note_count": 4,
- "built_at": "2026-10-11T09:15:57+00:00",
+ "input_sha": "19d301666792",
+ "note_count": 7,
+ "built_at": "2026-10-16T08:52:51+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1666822,
-  "duration_ms": 43835,
+  "cost_usd_list": 0.16011419999999998,
+  "duration_ms": 36046,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "His role in the Spurs offense is reduced. He is not a high-usage player there.",
-   "kind": "fact",
-   "date": "2026-08-27",
+   "text": "Experts say do not draft him in standard leagues. One calls him an avoid at his ADP in the 120s to 130s. Another does not project him as draftable because the Spurs are so deep.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "c-WwNRgVxkI:p16",
+    "P6TNP-g0wzY:p40"
+   ]
+  },
+  {
+   "text": "The latest Spurs projection has him starting next to Fox, Harper, Castle and Wembanyama. The Spurs started three guards in the preseason.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t3",
+    "bd8GYKFOe8A:t1"
+   ]
+  },
+  {
+   "text": "His usage and assists are lower with the current Spurs roster, and he is no longer a high-usage player.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p18",
     "ZAyie8lKyYc:p23"
    ]
   },
   {
-   "text": "He is a fixed part of the Spurs rotation. He showed defense and shot blocking in the postseason.",
+   "text": "He is expected to lose touches to Dylan Harper and could end up in a low-usage role-player job like Harrison Barnes had.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p18"
+   ]
+  },
+  {
+   "text": "He is a fixed part of the rotation.",
    "kind": "fact",
    "date": "2026-08-27",
    "until": "",
@@ -39,31 +69,16 @@
    ]
   },
   {
-   "text": "Experts disagree on whether he starts. The August Spurs preview lists him as a starter next to Fox, Castle, Harris and Wembanyama. Newer notes say the lineup is unclear and Dylan Harper may start next to Castle and Fox. Tobias Harris has a calf strain.",
+   "text": "The Spurs are deep, and their players had low minutes last season. Minutes may stay low after the long playoff run.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t2",
-    "P6TNP-g0wzY:t6",
-    "W3THnI7wWdA:t5",
-    "BjXP9JODDSg:t2",
-    "eTsjuVu1trk:t4",
-    "-DN4P92Wp8Y:t5"
+    "c-WwNRgVxkI:t1"
    ]
   },
   {
-   "text": "Not projected to be draftable because of the Spurs' depth. The crowded roster limits fringe players.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p40",
-    "WXO8MfQfzo0:t3"
-   ]
-  },
-  {
-   "text": "The Spurs are very deep at forward. Experts expect them to consolidate through trades in the near future, but not right now.",
+   "text": "The roster is very deep at forward. Trades to consolidate it are expected in the fairly near future, but not right now.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -72,7 +87,16 @@
    ]
   },
   {
-   "text": "The Spurs are projected as a top team in the West. One expert predicts 63 wins.",
+   "text": "For a March 28 season end, the Spurs play 3, 4 and 3 games in our fantasy playoff weeks. They have only 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
+   ]
+  },
+  {
+   "text": "The Spurs are projected to be one of the top teams in the West. One expert predicts 63 wins.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -84,7 +108,16 @@
  ],
  "durable": [
   {
-   "text": "He is an all-around wing. He scores, shoots threes, rebounds, defends and works as a secondary playmaker.",
+   "text": "He has had multiple injuries, including several knee problems.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p17"
+   ]
+  },
+  {
+   "text": "He is an all-around player. He scores, shoots, rebounds, defends and works as a secondary playmaker.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -95,68 +128,85 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Harper, Harris and Champagnie compete for the starting spots next to Wembanyama, Castle and Fox",
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Multiple injuries, including several knee problems.",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:t6",
-    "eTsjuVu1trk:t4",
-    "BjXP9JODDSg:t2",
-    "-DN4P92Wp8Y:t5"
+    "c-WwNRgVxkI:p17"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "No longer a high-usage player; Harper may take a starting guard spot",
+   "detail": "Usage and assists reduced. Expected to lose touches to Harper.",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p23",
-    "-DN4P92Wp8Y:t5"
+    "c-WwNRgVxkI:p18",
+    "ZAyie8lKyYc:p23"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Fox, Castle, Harper and Wembanyama",
+   "detail": "Starts next to Fox, Harper, Castle and Wembanyama.",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p23",
-    "ZAyie8lKyYc:t3"
+    "c-WwNRgVxkI:p18",
+    "c-WwNRgVxkI:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "With three guards starting, the last starting spot is between him and forwards like Tobias Harris. The forward bench is deep.",
+   "until": "",
+   "sources": [
+    "P6TNP-g0wzY:t6",
+    "eTsjuVu1trk:t4",
+    "ZAyie8lKyYc:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Spurs are very deep at guard and forward",
+   "detail": "Spurs are very deep, especially at forward.",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t4",
+    "c-WwNRgVxkI:t1",
     "ZAyie8lKyYc:t5",
-    "P6TNP-g0wzY:t6",
-    "WXO8MfQfzo0:t3"
+    "P6TNP-g0wzY:t6"
    ],
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
+   "name": "low starter minutes",
    "channel": "current",
-   "detail": "Spurs starting lineup is unclear",
+   "detail": "Spurs minutes may stay low after the long playoff run.",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:t4",
-    "-DN4P92Wp8Y:t5"
+    "c-WwNRgVxkI:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "Avoid at his ADP in the 120s to 130s.",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "Consolidation of the deep forward group expected in the near future",
+   "detail": "Spurs are expected to consolidate their forward depth through trades, but not right now.",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t4"
@@ -166,7 +216,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "One expert predicts 63 wins",
+   "detail": "One expert predicts 63 wins. Could take the top seed in the West.",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t7",
@@ -175,17 +225,16 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Not projected draftable; worth watching if he holds a starting spot",
+   "detail": "Only 13 back-to-backs.",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p40",
-    "stats"
+    "c-WwNRgVxkI:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He costs about 1 USD on Yahoo (rank 163) and 0.4 USD on ESPN (rank 130), after going for 5 USD in our league last season. His projections help in threes (+0.9 z) and turnovers (+0.7 z) but hurt FG% (-0.7 z), and his shot volume has dropped to about 11 attempts per game. That makes him a last-round bench pick or a waiver option, not a draft target. Early in the season, check whether he keeps a starting spot as Harper, Harris and Champagnie compete for minutes.",
+ "note": "He is ranked 162 on Yahoo and 130 on ESPN, priced at about 1 USD on both sites, and went for 5 USD in our league last season. That puts him on the edge of our 144-player draft. His best categories are 2.3 threes and few turnovers, but a 44% FG% hurts, and his role and usage are shrinking behind Harper, Fox and Castle. Do not spend more than 1 USD. Instead, watch him on waivers early in the season, and check whether he keeps a starting spot and about 30 minutes, or ends up in a smaller role-player job.",
  "rejected": []
 }

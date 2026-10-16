@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "dcc5b8816780",
+ "input_sha": "931deee4bd7f",
  "note_count": 9,
- "built_at": "2026-10-11T09:16:48+00:00",
+ "built_at": "2026-10-16T08:55:58+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1527142,
-  "duration_ms": 31911,
+  "cost_usd_list": 0.1687902,
+  "duration_ms": 36400,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Charlotte took him 14th overall in the 2026 draft. This is his rookie season.",
+   "text": "Rookie, taken 14th overall in the 2026 draft.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -31,18 +31,16 @@
    ]
   },
   {
-   "text": "He is projected to come off the bench. Reid and Diabaté are the projected frontcourt starters, and he is next in line behind them.",
+   "text": "He is projected to come off the bench. The projected starters are White, Knueppel, Miller, Reid and Diabaté.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t3",
-    "EB1Z_6n56-o:p19",
-    "ya2VYRJ1BN0:p17"
+    "CRLSsoGhb2w:t3"
    ]
   },
   {
-   "text": "He competes with Diabaté and Kalkbrenner for center minutes. Charlotte's center plan is not settled.",
+   "text": "Charlotte's center plan is unclear. He competes with Moussa Diabaté and Ryan Kalkbrenner for center minutes, and Naz Reid also plays in the frontcourt.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -54,7 +52,17 @@
    ]
   },
   {
-   "text": "Charlotte is expected to use a three-center rotation and to play Grant Williams as a small-ball five. He probably will not get close to 30 minutes.",
+   "text": "He is expected to be next in the frontcourt rotation after Diabaté and Reid. He can play next to Diabaté in four-out lineups, and some people talk about starting him.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p19",
+    "TOn-D1SV7a8:p22"
+   ]
+  },
+  {
+   "text": "Charlotte will probably run a three-center rotation and also uses Grant Williams as a small-ball five. He likely will not get near 30 minutes.",
    "kind": "verdict",
    "date": "2026-06-25",
    "until": "",
@@ -64,17 +72,7 @@
    ]
   },
   {
-   "text": "Some people are talking about starting him, and one expert sees a path to a starting role soon.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "EB1Z_6n56-o:p19",
-    "TOn-D1SV7a8:p22"
-   ]
-  },
-  {
-   "text": "Charlotte did not let him shoot threes in Summer League. Last season the team also did not let Kalkbrenner shoot threes.",
+   "text": "Charlotte did not let him shoot threes in Summer League. The team also kept Kalkbrenner from shooting threes last season.",
    "kind": "fact",
    "date": "2026-08-02",
    "until": "",
@@ -84,13 +82,21 @@
    ]
   },
   {
-   "text": "Draft value: a stash in deep leagues only. He becomes a pick in all leagues if he is named a starter.",
+   "text": "He is a stash in deep (16-team) leagues. Draft him in all leagues if he is named a starter.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p17",
-    "lOshTzDA4SA:p13"
+    "CRLSsoGhb2w:p17"
+   ]
+  },
+  {
+   "text": "Charlotte plays 4-3-4 games in the fantasy playoff weeks for a March 28 end and has only 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t5"
    ]
   }
  ],
@@ -105,7 +111,7 @@
    ]
   },
   {
-   "text": "Experts call him a monster, hyper-competitive rebounder who can also block shots.",
+   "text": "Monster, hyper-competitive rebounder who can also block shots.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
@@ -116,15 +122,15 @@
    ]
   },
   {
-   "text": "He is a capable scorer with good FG% and FT% and some three-point range. Experts disagree on how far his shooting goes: one says he can shoot threes, another says he can shoot only a little.",
+   "text": "Pretty good scorer with good usage and good FG% and FT%. He has some three-point range but is not a real shooter yet.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p18",
-    "lOshTzDA4SA:p12",
+    "TOn-D1SV7a8:p22",
     "EB1Z_6n56-o:p18",
-    "TOn-D1SV7a8:p22"
+    "lOshTzDA4SA:p12"
    ]
   }
  ],
@@ -132,7 +138,42 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "14th pick in 2026",
+   "detail": "14th overall pick in 2026",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p17",
+    "EB1Z_6n56-o:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Center minutes shared with Diabaté and Kalkbrenner; Reid also in the frontcourt",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:t2",
+    "RsjGTgJiKyI:t0",
+    "ya2VYRJ1BN0:p17",
+    "RsjGTgJiKyI:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Three-center rotation plus Grant Williams at small-ball five",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:t5",
+    "CRLSsoGhb2w:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Deep-league stash only; becomes a draft pick if named a starter",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p17"
@@ -140,40 +181,16 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Competes with Diabaté and Kalkbrenner for center minutes behind Reid and Diabaté",
+   "detail": "13 back-to-backs, the league minimum",
    "until": "",
    "sources": [
-    "ya2VYRJ1BN0:p17",
-    "RsjGTgJiKyI:t0",
-    "CRLSsoGhb2w:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Deep roster with a three-center rotation plus Grant Williams at small-ball five",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t4",
-    "lOshTzDA4SA:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Deep-league stash only. Add him if he is named a starter.",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p17",
-    "lOshTzDA4SA:p13"
+    "CRLSsoGhb2w:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 669, ESPN rank 250). The projections give him about 18 minutes, with only 7.7 points and 4.7 rebounds. In our 12-team league he is not a pick in a 144-player draft unless Charlotte names him a starter before the 2026-10-18 auction. If you do take him, he is a 1 USD flyer. Early in the season, watch whether he takes Diabaté's starting spot or gets a center role after an injury, and whether Charlotte lets him shoot threes. With big minutes his rebounds and blocks could make him a waiver add.",
+ "note": "Both Yahoo and ESPN value him at 0 USD (Yahoo rank 677, ESPN rank 250). The projections give him about 18 minutes, 4.7 rebounds and 0.9 blocks, so he should not be one of the 144 players drafted in our 12-team league unless Charlotte names him a starter before the draft. Watch the preseason and the first weeks of the season. If he takes the center job from Diabaté or Kalkbrenner, his rebounds, blocks and low turnovers make him a quick FAB add.",
  "rejected": []
 }

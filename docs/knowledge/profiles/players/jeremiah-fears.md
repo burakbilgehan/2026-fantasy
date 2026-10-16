@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 185 | 2 | 0.9 | 120 | not drafted |
+| 2026-27 | 0 | 1.3 | 163 | 2 | 0.9 | 120 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,27 +28,30 @@
 </details>
 
 **Current**
-- New coach Jamahl Mosley brings a defense-first identity to New Orleans. (fact, 2026-10-09; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054), [09-04](https://youtu.be/gerS7ibpaJo?t=1168))
-- The Pelicans have more players than 240 minutes can hold. About eight players could start, so minutes will be tight. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
-- Dejounte Murray is locked into the starting lineup and starts over Fears, which limits Fears's lead guard role. (fact, 2026-10-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1149), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
-- The last starting spot is between Fears and Herb Jones. A Pelicans beat reporter thinks Fears will start over Jones, and reporting says Joe Dumars wants Fears in the lineup. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
-- Josh gives Fears at least a 50/50 chance to start over Herb Jones. He would draft Fears only if he starts. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=426))
-- Experts treat him as a late flyer with upside. His ADP is between 118 and 136, and he went around pick 104 and in round 11 in mock drafts. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1537), [09-04](https://youtu.be/gerS7ibpaJo?t=1489), [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [09-01](https://youtu.be/80kfLVnFQ_s?t=1960), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
-- The Pelicans are expected to be a weak team, around 34 wins and near the bottom of the West. One expert still does not expect them to give up on the season and start Fears over Murray. (verdict, 2026-09-21; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [09-21](https://youtu.be/egRrai3Ax38?t=545))
-- Point guard tier 8. Letting him last to round 13 is a big underdraft. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2154))
-- He is a handcuff to Dejounte Murray. If Murray gets hurt or is traded, Fears could put up top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086))
-- Without 30 or more minutes he projects outside the top 105. He would be clearly better with a 30-minute role. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1960))
+- He looked good in his most recent game. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1538))
+- Experts treat him as a late upside flyer, taken between round 9 and round 12 (around picks 104 to 135). One expert calls him badly under drafted if he lasts to round 13. Josh moved him up but takes him only if he starts. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1538), [10-12](https://youtu.be/w66x_I_MaQ8?t=1585), [10-10](https://youtu.be/gsx_UDkVPd0?t=1237), [10-10](https://youtu.be/gsx_UDkVPd0?t=1248), [09-30](https://youtu.be/BjXP9JODDSg?t=1537), [09-09](https://youtu.be/7BllEsdNLoM?t=2154), [09-01](https://youtu.be/80kfLVnFQ_s?t=1960), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739), [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- The Pelicans roster is crowded with high-usage players. Experts see no clear 30-minute role for Fears, and minutes are hard to project. (verdict, 2026-10-11; [09-04](https://youtu.be/gerS7ibpaJo?t=1489), [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [10-10](https://youtu.be/gsx_UDkVPd0?t=191), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- Fears and Herb Jones compete for the last starting spot next to Murray, Trey Murphy, Zion Williamson and likely Yves Missi. Joe Dumars is reported to want Fears to start, and a Pelicans beat reporter expects him to start over Jones. (fact, 2026-10-10; [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [10-02](https://youtu.be/ZYllcj4o6_A?t=426), [10-10](https://youtu.be/gsx_UDkVPd0?t=1144), [09-24](https://youtu.be/_vbAP5y182A?t=1141))
+- He is the most likely player to replace Herb Jones in the starting lineup. Josh gives him at least a 50/50 chance to start. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1144), [10-02](https://youtu.be/ZYllcj4o6_A?t=426))
+- He shot 33% from three last season. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1237))
+- His big games late last season came with steals and volume that one expert calls fake, so a repeat of that level is doubtful. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1237))
+- New Orleans plays 4, 4 and 3 games in our fantasy playoff weeks (season ending March 28). (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- New Orleans has a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- New head coach Jamahl Mosley brings a defense-first identity. (fact, 2026-10-10; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [10-10](https://youtu.be/gsx_UDkVPd0?t=101))
+- Dejounte Murray starts at point guard ahead of Fears, which limits his lead guard role. (fact, 2026-10-04; [08-03](https://youtu.be/5QU-jta-lWM?t=1149), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
+- If Dejounte Murray is traded or hurt, Fears could give top 70 numbers. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1498), [08-24](https://youtu.be/g31YlwRe0XQ?t=2086), [08-11](https://youtu.be/OdDkXFhoKsc?t=2739))
+- The Pelicans are projected as a weak team near the bottom of the West, at about 34 wins. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
 
 **Durable**
-- He is a downhill lead guard who is dynamic with the ball. He keeps attacking the rim even when he is not scoring there. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=484), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
-- He contributes across several categories. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
-- He is slightly undersized and struggles on defense. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1220), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
-- His three-point shot is not good enough to play off the ball as a two guard. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1220))
+- He is a downhill lead guard who is dynamic with the ball and keeps attacking the rim even when he is not scoring there. (fact, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=484), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He contributes across categories. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He is not a good defender. (verdict, 2026-10-02; [08-03](https://youtu.be/5QU-jta-lWM?t=1220), [10-02](https://youtu.be/ZYllcj4o6_A?t=458))
+- He is not a good enough three-point shooter to play off the ball as a two guard, and he is slightly undersized. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1220))
 
 **Tags**
-- Current: `flyer` (Late-round upside guard, ADP 118 to 136), `handcuff` (Behind Dejounte Murray; top 70 upside if Murray is hurt or traded), `sleeper` (Called badly underdrafted at round 13), `minutes competition` (Competes with Herb Jones for the last starting spot), `usage competition` (Dejounte Murray starts as the lead guard), `sites disagree on price` (Yahoo rank 185, ESPN rank 120), `bottom team` (About 34 wins, near the bottom of the West), `new coach` (Jamahl Mosley), `deep rotation` (About eight players who could start), `unsettled rotation` (Guard roles and the last starting spot are unclear)
-- Durable: `usage dependent` (Needs an on-ball lead guard role; his shooting does not suit an off-ball role), `defense-first` (Mosley brings a defense-first identity)
+- Current: `flyer` (late upside pick, rounds 9 to 12), `sleeper` (called badly under drafted at Yahoo rank 159), `handcuff` (to Dejounte Murray; top 70 upside if Murray is hurt or traded), `minutes competition` (with Herb Jones for the last starting spot), `usage competition` (Dejounte Murray, Zion Williamson, Trey Murphy), `regression risk` (late-season steals and volume called fake), `sites disagree on price` (ESPN ranks him well above Yahoo), `deep rotation` (about eight players who could start), `unsettled rotation` (last starting spot and guard roles unclear), `new coach` (Jamahl Mosley), `bottom team` (about 34 wins projected), `good playoff schedule` (4-4-3 for a March 28 end), `many back-to-backs` (league-high 16)
+- Durable: `usage dependent` (needs the lead guard role; weak shooter off the ball), `defensive liability` (not a good defender, slightly undersized), `plays every game` (played all 82 games in 2025-26), `defense-first` (Mosley's identity; a risk for a weak defender)
 
-**Note.** Fears is priced as a 1 USD end-of-draft flyer (Yahoo rank 185, ESPN rank 120, nobody drafted him in our league), so he sits right at the edge of our 144-player pool. That price fits the upside: he ranked 117th after last season's trade deadline, and he is a natural handcuff if you take Dejounte Murray. Steals are his best category, while his 43.8 FG% and 2.3 turnovers cost a little. Before you bid, check whether he beats out Herb Jones for a starting spot and reaches about 30 minutes early in the season. If he does not, he is a waiver player until Murray misses time.
+**Note.** Fears is a bubble player for our 144-player draft. Yahoo and ESPN price him at about 1 to 2 USD, and he went undrafted in our league last season. Experts like him as a late upside flyer, mostly for steals and assists. His projected FG% (43.8%) and turnovers (2.3) are a drag, so he fits best as a 1 USD final pick, especially on a team that also drafted Dejounte Murray as his handcuff. In the first weeks, check whether he starts over Herb Jones and gets close to 30 minutes. If he comes off the bench in a crowded rotation, he is an easy drop, and the 4-4-3 playoff schedule only matters if he holds a real role.
 
-<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

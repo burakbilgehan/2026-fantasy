@@ -8,47 +8,51 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e5f6d38cabf9",
- "note_count": 3,
- "built_at": "2026-10-04T17:24:11+00:00",
+ "input_sha": "51c120be3b2d",
+ "note_count": 4,
+ "built_at": "2026-10-16T08:44:58+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12015700000000001,
-  "duration_ms": 21361
+  "cost_usd_list": 0.13533420000000002,
+  "duration_ms": 28475,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Bennett Stirtz is a first-round rookie point guard for OKC.",
+   "text": "He is a first-round rookie point guard drafted by OKC.",
    "kind": "fact",
-   "date": "2026-07-26",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "NhLMyS7Ii5I:p36",
+    "NhLMyS7Ii5I:t4",
     "75Sk_4fkgIM:p31"
    ]
   },
   {
-   "text": "He is not in the OKC rotation. The guard minutes go to SGA, Ajay Mitchell, Cason Wallace and Topic.",
+   "text": "He is behind Shai Gilgeous-Alexander, Ajay Mitchell, Cason Wallace and Nikola Topic in the guard rotation. OKC also has to find more minutes for Jared McCain.",
    "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:p14",
-    "RyzcCGChYgs:t0"
-   ]
-  },
-  {
-   "text": "OKC is expected to give more minutes to Ajay Mitchell and Jared McCain. That adds to the guard competition ahead of him.",
-   "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
+    "RyzcCGChYgs:p14",
     "BjXP9JODDSg:t0"
    ]
   },
   {
-   "text": "His Summer League play was fine but not great.",
+   "text": "Expected to get some volume, but he is a long way from fantasy relevance.",
    "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p36"
+   ]
+  },
+  {
+   "text": "His Summer League was fine but not great: 14 points and 3 assists in 28 minutes, shooting 30% from three.",
+   "kind": "fact",
    "date": "2026-07-21",
    "until": "",
    "sources": [
@@ -56,19 +60,58 @@
    ]
   },
   {
-   "text": "Josh did not like the draft pick and still does not after Summer League. He dropped Stirtz from tier five to tier six in his dynasty rookie rankings.",
+   "text": "Josh dropped him from tier five to tier six in his dynasty rookie ranks. He still does not like the pick.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
     "TOn-D1SV7a8:p9"
    ]
+  },
+  {
+   "text": "OKC traded away Lu Dort, Aaron Wiggins and Isaiah Joe, its main shooters, and the rotation is still deep.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t0",
+    "75Sk_4fkgIM:t0",
+    "gJUBAJaHzlU:t4"
+   ]
+  },
+  {
+   "text": "OKC could be one of the lowest-volume three-point teams unless players like Stirtz shoot more. That leaves a small opening for him as a shooter.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t1",
+    "75Sk_4fkgIM:t5"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He projects as a very good three-point shooter off the ball.",
+   "text": "He is an older, undersized guard.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p36"
+   ]
+  },
+  {
+   "text": "He runs the pick and roll well.",
    "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p36"
+   ]
+  },
+  {
+   "text": "He was not asked to shoot much in college.",
+   "kind": "fact",
    "date": "2026-07-26",
    "until": "",
    "sources": [
@@ -76,8 +119,8 @@
    ]
   },
   {
-   "text": "He was not asked to shoot much in college.",
-   "kind": "fact",
+   "text": "He projects as a great three-point shooter off the ball.",
+   "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
    "sources": [
@@ -89,14 +132,37 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "First-round pick, point guard",
+   "detail": "First-round pick, older and undersized",
    "until": "",
    "sources": [
+    "NhLMyS7Ii5I:p36",
     "75Sk_4fkgIM:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Behind SGA, Ajay Mitchell, Cason Wallace and Nikola Topic, with Jared McCain also needing minutes",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p14",
+    "BjXP9JODDSg:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "OKC rotation stays deep after losing Dort, Wiggins and Joe",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t4",
+    "RyzcCGChYgs:p14"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Stirtz is not a draft target in our 12-team, 144-player auction. Yahoo values him at 0 USD and ranks him 663, and his projection of 5.4 points in a small role helps no category. Leave him on waivers and only look again if injuries in the OKC backcourt (SGA, Mitchell, Wallace, Topic, McCain) give him real minutes.",
+ "note": "Stirtz is not a draft option for our 144-player auction. Yahoo values him at 0 USD and ranks him 686th, and his projection of 5.4 points and 1.6 rebounds in a small role gives almost nothing outside low turnovers. He goes straight to waivers. Watch him early only if an injury among OKC guards gives him minutes, or if the team starts using him as a high-volume three-point shooter to replace the shooting it lost.",
  "rejected": []
 }

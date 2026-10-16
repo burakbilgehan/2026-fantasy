@@ -4,9 +4,11 @@
 Names from notes that are not in our players table or team list.
 To fix one, add it to `aliases.json` ("players": {"Wemby": "Victor Wembanyama"}) and re-render.
 
+- Adimara (full name unclear in captions) (2) said as: Mara. [28:30](https://youtu.be/NhLMyS7Ii5I?t=1710), [28:38](https://youtu.be/NhLMyS7Ii5I?t=1718)
 - Onu Yensu (name unclear) (2) said as: Onu Yensu. [17:59](https://youtu.be/CLsUc0Sevos?t=1079), [18:12](https://youtu.be/CLsUc0Sevos?t=1092)
 - Braden Burrows (1) said as: Braden Burrows. [19:31](https://youtu.be/TOn-D1SV7a8?t=1171)
 - Cam Johnson (1) said as: Cam Johnson. [37:36](https://youtu.be/LM0cRCGoAUQ?t=2256)
+- Cole Filipowski (1) said as: Cole Filipowski. [29:12](https://youtu.be/EogBYa24Gto?t=1752)
 - Filip Petrusev (1) said as: Filip Petrusev. [33:36](https://youtu.be/-y6p5PYLf00?t=2016)
 - Hansen Christian Anderson (1) said as: Hans Christian Anderson. [16:36](https://youtu.be/TOn-D1SV7a8?t=996)
 - James Nnaji (1) said as: James Nnaji. [5:24](https://youtu.be/RsjGTgJiKyI?t=324)
@@ -27,19 +29,21 @@ To fix one, add it to `aliases.json` ("players": {"Wemby": "Victor Wembanyama"})
 
 Matched by last name, spelling or a learned nickname. Check them. A wrong one: add an alias in `players`.
 
-- AJ Mitchell -> Ajay Mitchell (1), said as: AJ Mitchell. [29:48](https://youtu.be/_vbAP5y182A?t=1788)
-- Anthony Simons -> Anfernee Simons (1), said as: Simons. [2:49](https://youtu.be/gTsfR5PxAMY?t=169)
+- AJ Mitchell -> Ajay Mitchell (2), said as: AJ Mitchell. [28:42](https://youtu.be/hviT4hzYNME?t=1722), [29:48](https://youtu.be/_vbAP5y182A?t=1788)
+- Adimara (full name unclear in captions) -> Aday Mara (1), said as: Adimara / a Dimara / Mara. [0:57](https://youtu.be/NhLMyS7Ii5I?t=57)
+- Anthony Simons -> Anfernee Simons (3), said as: Anthony Simons, Simons. [22:10](https://youtu.be/KqTKVExQGLo?t=1330), [22:38](https://youtu.be/KqTKVExQGLo?t=1358), [2:49](https://youtu.be/gTsfR5PxAMY?t=169)
 - Braden Burries -> Brayden Burries (3), said as: Barry's, Braden Burries. [15:54](https://youtu.be/LUTYUdXBG1M?t=954), [8:21](https://youtu.be/RsjGTgJiKyI?t=501), [15:35](https://youtu.be/RsjGTgJiKyI?t=935)
 - Brandon Podziemski -> Brandin Podziemski (6), said as: Brandon Pajki, PMsky, Pajimky, Pajimsky, Pajki. [28:45](https://youtu.be/-DN4P92Wp8Y?t=1725), [28:52](https://youtu.be/-DN4P92Wp8Y?t=1732), [33:20](https://youtu.be/g31YlwRe0XQ?t=2000), [29:39](https://youtu.be/LXZLrL90crE?t=1779), [6:02](https://youtu.be/LXZLrL90crE?t=362)
 - Bubba Miller -> Baba Miller (1), said as: Bubba Miller. [30:21](https://youtu.be/tnzmsYUA4yQ?t=1821)
 - Bubba Miller (name unclear) -> Baba Miller (1), said as: Bubba Miller. [17:36](https://youtu.be/CLsUc0Sevos?t=1056)
-- Cam Johnson -> Cameron Johnson (2), said as: Cam Johnson. [14:38](https://youtu.be/ZYllcj4o6_A?t=878), [6:27](https://youtu.be/keNupMSHp1Y?t=387)
+- Cam Johnson -> Cameron Johnson (4), said as: Cam Johnson. [26:47](https://youtu.be/bd8GYKFOe8A?t=1607), [29:26](https://youtu.be/uI6umXsE7Vk?t=1766), [14:38](https://youtu.be/ZYllcj4o6_A?t=878), [6:27](https://youtu.be/keNupMSHp1Y?t=387)
 - Christian Andersen -> Christian Anderson (1), said as: Christian Andersen. [25:57](https://youtu.be/lOshTzDA4SA?t=1557)
 - Collin Murray-Boles -> Collin Murray-Boyles (1), said as: Murray Boils. [32:22](https://youtu.be/OdDkXFhoKsc?t=1942)
 - Darius Okafor -> Darius Acuff Jr. (1), said as: Darius Auff. [33:11](https://youtu.be/KPdD91Oo8-U?t=1991)
 - Henry Veesaar -> Henri Veesaar (1), said as: Henry Veesaar. [6:33](https://youtu.be/RsjGTgJiKyI?t=393)
 - Herb Jones -> Herbert Jones (3), said as: Herb Jones. [31:46](https://youtu.be/W-R1dzem32s?t=1906), [43:08](https://youtu.be/g31YlwRe0XQ?t=2588), [8:33](https://youtu.be/5QU-jta-lWM?t=513)
 - Hunter Steinbach -> Hannes Steinbach (2), said as: Steinbach. [7:56](https://youtu.be/EB1Z_6n56-o?t=476), [19:30](https://youtu.be/EB1Z_6n56-o?t=1170)
+- Isaiah Nelson -> Izaiyah Nelson (1), said as: Isaiah Nelson. [28:24](https://youtu.be/zhXtLr_xYVg?t=1704)
 - Jaden Quaintance -> Jayden Quaintance (2), said as: Jaden Quaintance, Quaintance. [3:51](https://youtu.be/ZAyie8lKyYc?t=231), [4:34](https://youtu.be/ZAyie8lKyYc?t=274)
 - Jaylen Pickett -> Jalen Pickett (1), said as: Jaylen Picket. [30:02](https://youtu.be/tnzmsYUA4yQ?t=1802)
 - Jaylen Tyson -> Jaylon Tyson (8), said as: Jaylen Tyson, he, him. [22:03](https://youtu.be/NmdNvAz08oE?t=1323), [27:09](https://youtu.be/NmdNvAz08oE?t=1629), [27:50](https://youtu.be/NmdNvAz08oE?t=1670), [28:19](https://youtu.be/NmdNvAz08oE?t=1699), [7:47](https://youtu.be/rnq3118kfhY?t=467)

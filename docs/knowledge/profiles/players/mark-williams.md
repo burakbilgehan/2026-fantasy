@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.0 | 206 | 0 | 0.0 | 313 | 9 |
+| 2026-27 | 5 | 4.3 | 221 | 0 | 0.0 | 313 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,33 +21,35 @@
 | FT% | 78.0% | -0.2 | +0.5 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
 | PTS | 12.9 | -0.2 | -0.0 | - |
-| REB | 8.8 | +1.6 | +0.5 | - |
+| REB | 8.8 | +1.6 | +0.6 | - |
 | AST | 1.4 | -1.0 | -0.6 | - |
-| STL | 0.8 | -0.4 | +0.1 | - |
+| STL | 0.8 | -0.3 | +0.2 | - |
 | BLK | 1.0 | +0.8 | -0.1 | - |
 | TO | 1.2 | +0.6 | +0.4 | - |
 
 </details>
 
 **Current**
-- While he is out, Ighodaro and Maluach split the center minutes. Ighodaro has started two games in a row over Maluach, and their minutes are similar. (fact, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999))
-- He has a torn labrum in his shoulder. He is expected to miss about five to six months, which puts his return around mid to late March. (fact, 2026-09-14, until mid to late March; [09-14](https://youtu.be/t4n9MAP2_14?t=2178), [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
-- Do not draft him and do not stash him on IL. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2178))
-- Even when healthy, he is expected to lose the starting job to Maluach and play about 16 to 17 minutes a night as a backup big. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1246), [07-01](https://youtu.be/W3THnI7wWdA?t=961))
-- He re-signed with Phoenix for 3 years and 38 million, about 13 million a year. (fact, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=961), [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
-- Ben thinks the contract was signed mainly so Phoenix can trade him at the deadline or in a year. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
+- He has a torn labrum in his shoulder. Recovery usually takes about six months, so the expected return is mid to late March. (fact, 2026-10-14, until mid to late March 2027; [10-14](https://youtu.be/MRzebgip23Y?t=1742), [09-14](https://youtu.be/t4n9MAP2_14?t=2178), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200))
+- Do not draft him or stash him on IL. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1742), [09-14](https://youtu.be/t4n9MAP2_14?t=2178))
+- If he returns in March, he could disrupt the Phoenix center rotation during the fantasy playoffs. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1742))
+- Experts expect him to lose the starting job and become a backup big. One projection puts him at 16 to 17 minutes a night. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1742), [08-23](https://youtu.be/hm5-fiCa5S4?t=1246))
+- With Williams out, Oso Ighodaro and Khaman Maluach have both started at center in preseason and play similar minutes. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=105), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999), [09-14](https://youtu.be/t4n9MAP2_14?t=2190))
+- Phoenix has 4 games in each of our playoff weeks 19 to 21 and the fewest back-to-backs in the league. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- He re-signed with Phoenix for 3 years and 38 million USD, about 13 million USD a year. (fact, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=961), [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
+- One expert thinks Phoenix signed him mainly so it can trade him at the deadline or within a year. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1173))
 
 **Durable**
-- His high FG% is a league outlier and lifts a team's FG% clearly. (fact, 2026-10-11; stats)
-- He is a low-usage big man. His value comes from a high FG%, good FT% for a center, and rebounds. He is not a big shot blocker. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605), [07-15](https://youtu.be/0geFVzSqOnA?t=1216), stats)
+- His FG% is a league outlier on solid volume, and he gives good FT% too, a rare mix for a big. (fact, 2026-10-16; [07-15](https://youtu.be/0geFVzSqOnA?t=1216), stats)
+- He is a low-usage big man who lives around the rim. His value comes from a high FG%, good FT% and rebounds. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605), [08-23](https://youtu.be/hm5-fiCa5S4?t=692), [07-15](https://youtu.be/0geFVzSqOnA?t=1216), stats)
+- He makes no threes and is not a big shot blocker for a center. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605), stats)
 - He is worth more in category leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1605))
-- He plays around the rim and makes no threes. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=692), stats)
-- He does not play enough games. Even with load management, minutes limits and skipped back-to-backs, he played only 60 games last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1194), stats)
+- He misses many games. Even with load management, minutes limits and skipped back-to-backs, he played only 60 games last season. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=1194))
 
 **Tags**
-- Current: `injured now` (torn labrum in his shoulder, out about five to six months; until mid to late March), `minutes competition` (Maluach and Ighodaro at center), `role down` (expected to be a backup big at 16 to 17 minutes behind Maluach), `trade risk` (new contract seen as a move to trade him at the deadline or in a year)
-- Durable: `injury prone` (misses many games every season, now out with a torn labrum), `load management` (skipped back-to-backs and had minutes limits last season), `FG% anchor` (about 63% FG on a center's volume), `no 3PM`, `punt 3PM fit`, `category league player` (low-usage big whose value is FG%, FT% and rebounds)
+- Current: `injured now` (Torn shoulder labrum, Yahoo status O; until mid to late March 2027), `role down` (Expected to become a backup big after his return), `minutes competition` (Khaman Maluach and Oso Ighodaro), `trade risk` (Contract seen as built to trade him at the deadline or within a year), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (Phoenix has the fewest in the league)
+- Durable: `injury prone` (Misses many games; 60 games last season even with rest and minutes limits), `load management` (Skipped back-to-backs and played under minutes limits), `FG% anchor` (About 63% FG on 8 attempts), `no 3PM`, `punt 3PM fit`, `category league player`
 
-**Note.** He is out with a torn labrum until about mid to late March. Our season ends 2027-03-28, so at best he returns for the last playoff week, and Ben projects him as a 16 to 17 minute backup behind Maluach when he does. That is why Yahoo (rank 206, about 1 USD average cost) and ESPN (rank 313, 0 USD) barely price him, well below the 9 USD he cost in our league last year. Do not spend an auction dollar or an IL slot on him. When healthy he is a strong FG% and rebounds center for punt 3PM builds, so if his rehab moves ahead of schedule, check the waiver wire and the center split between Ighodaro and Maluach in Phoenix.
+**Note.** Leave him out of our draft. He is out until mid to late March with a torn labrum, ESPN values him at 0 USD (rank 313), and even Yahoo's 5 USD (rank 221) is too much in a 144-player auction. Our league paid 9 USD for him last season. Watch Phoenix news in March: if he comes back healthy, his FG% and rebounds could help a punt 3PM team in our playoffs, since Phoenix plays 4-4-4 in weeks 19 to 21. Expect a backup role behind Maluach or Ighodaro, though.
 
-<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>9 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

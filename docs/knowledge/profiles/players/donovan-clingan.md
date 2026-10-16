@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 23 | 16.2 | 44 | 13 | 7.5 | 45 | 7 |
+| 2026-27 | 23 | 14.5 | 44 | 13 | 7.9 | 45 | 7 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,35 +23,34 @@
 | REB | 11.8 | +2.8 | +1.8 | league outlier, strong |
 | AST | 2.1 | -0.6 | -0.2 | - |
 | STL | 0.6 | -0.9 | -0.5 | - |
-| BLK | 1.8 | +2.5 | +1.3 | league outlier, strong |
+| BLK | 1.8 | +2.6 | +1.3 | league outlier, strong |
 | TO | 1.3 | +0.4 | +0.3 | - |
 
 </details>
 
 **Current**
-- Portland is crowded with high-usage guards: Lillard, Morant, Holiday and Henderson, plus Avdija. The team wants its bigs to stay out of the paint so the drivers have room. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1321))
-- The experts agree that his Yahoo price (rank around 38 to 44, round three) is far too early. One says he would not take him anywhere from round two to round five. Another calls the Yahoo rank a nonsense category-league rank. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=642), [09-30](https://youtu.be/BjXP9JODDSg?t=908), [09-22](https://youtu.be/QbdrhJd7LiA?t=457), [09-19](https://youtu.be/uarqbNA2dFk?t=682), [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-07](https://youtu.be/E-KmhvyZ2CU?t=762), [09-04](https://youtu.be/gerS7ibpaJo?t=717), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770))
-- The newest expert call puts his fair value around rank 60 to 70. One earlier projection was lower, at 75 to 95, with an auction price of about 5 USD. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [09-21](https://youtu.be/egRrai3Ax38?t=1724), [09-07](https://youtu.be/gJUBAJaHzlU?t=948))
-- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- He climbs to 14th in punt FT% rankings, but that is still no reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
-- At ESPN's late price (ADP around 100 to 109), experts call him good value. (verdict, 2026-09-21; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2868), [09-21](https://youtu.be/egRrai3Ax38?t=1724))
-- He is projected as Portland's starting center, with about 28 minutes per night in a role like last season's. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- Experts expect no cut in his minutes, but also no move above 28 minutes. One projection puts his usage at 17%. (verdict, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
-- Portland has many centers. Robert Williams outplayed him in the playoffs, and he played poorly there. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
-- Portland has three back-to-backs in the fantasy playoffs. It also has a five-game week starting February 8. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
-- Experts do not expect a big leap this season because the roster fit is crowded. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014))
+- He is projected to start at center for Portland. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
+- He is expected to stay at about 28 minutes per game in a role like last season's. Experts do not project him for 30 minutes. One projection has him at 17% usage. (verdict, 2026-10-15; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1396), [10-15](https://youtu.be/8paKnhgNbLg?t=858), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [08-11](https://youtu.be/OdDkXFhoKsc?t=912), [09-14](https://youtu.be/t4n9MAP2_14?t=1279))
+- He could hit more threes and get close to two blocks per game, but his minutes cap that upside. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=858))
+- Experts agree he is overpriced at a third-round cost on Yahoo. Their fair range is from the 60s to the 90s, and one put his auction value at about 5 USD. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=957), [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-30](https://youtu.be/BjXP9JODDSg?t=908), [09-22](https://youtu.be/QbdrhJd7LiA?t=457), [09-19](https://youtu.be/uarqbNA2dFk?t=682), [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [09-07](https://youtu.be/gJUBAJaHzlU?t=948), [09-07](https://youtu.be/E-KmhvyZ2CU?t=762), [09-04](https://youtu.be/gerS7ibpaJo?t=717), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=912))
+- Portland plays 10 games in our playoff weeks, which is weak. It has three back-to-backs in those weeks and 15 back-to-backs over the season. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Portland has a first-time head coach who may mix up the lineup. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- He rises to 14th in punt FT% rankings. Experts say that is still no reason to reach for him in round three. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2365))
+- Portland has several centers. Robert Williams outplayed him in the playoffs. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=1279), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254))
+- No big leap is expected, because the roster is crowded with high-usage guards. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2014), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
 
 **Durable**
-- He is one of the best rebounders in the league and a very good shot blocker. Those are his only strong categories. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), stats)
-- Experts call him a poor finisher with bad hands. His FG% is below par for a center, and he cannot post up. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- He is a bad free throw shooter. Experts call his FT% terrible. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
-- He takes threes and makes about one per game, but he scores little and gets few assists or steals. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254), stats)
+- He is one of the best rebounders in the league and a very good shot blocker. Rebounds and blocks are both league outliers for him. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=901), [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338), stats)
+- Experts call him a two-category player. He scores little and gets few assists and steals. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=901), [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922))
+- Experts say he has bad hands, finishes poorly and cannot post up. They call his FG% subpar for a center. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=901), [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1338))
+- He takes threes and makes about one per game, at 34% last season. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=858), [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1254))
+- He is a poor free throw shooter, at about 66% on low volume. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2256), [10-05](https://youtu.be/BiIZsSypx7Y?t=1770), [09-14](https://youtu.be/t4n9MAP2_14?t=1252), [09-07](https://youtu.be/gJUBAJaHzlU?t=922), stats)
 - He had knee and ankle problems in his first two NBA seasons. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1807))
 
 **Tags**
-- Current: `usage competition` (Lillard, Morant, Holiday, Henderson and Avdija take the ball), `bust candidate` (At his Yahoo price (rank around 38 to 44, round three)), `sites disagree on price` (Yahoo average cost 16.2 USD vs ESPN 7.0 USD; ESPN ADP around 100), `new coach`, `bad playoff schedule` (Portland has three back-to-backs in the fantasy playoffs)
-- Durable: `REB specialist` (About 11.8 rebounds per game projected), `BLK specialist` (About 1.8 blocks per game projected)
+- Current: `bust candidate` (Overpriced at a Yahoo rank around 38 to 44 (round three). Experts value him in the 60s to 90s.), `sites disagree on price` (Yahoo value 23 USD vs ESPN 13 USD), `usage competition` (Crowded group of high-usage guards. Projected at 17% usage.), `bad playoff schedule` (10 games and three back-to-backs in weeks 19 to 21), `new coach` (First-time head coach may mix up the lineup)
+- Durable: `REB specialist` (About 12 rebounds per game, one of the best rebounders in the league), `BLK specialist` (About 1.8 blocks per game)
 
-**Note.** Clingan helps in two categories, rebounds and blocks. He gives back some FT% and is below average in steals, assists and points. That makes him a center to fill out a build, not a core pick. Yahoo prices him at 16.2 USD (rank 44), while ESPN (7.0 USD) and our league's last auction (7 USD) are much closer to the experts' fair value around rank 60 to 70, so bid near 7 to 10 USD and let someone else pay Yahoo's price. Early in the season, check whether he stays near 28 minutes in a crowded center room under a new coach, and whether his threes hold up.
+**Note.** Clingan gives elite rebounds and blocks (z +2.8 and +2.6) but little else. Experts all say his Yahoo price (value 23 USD, rank 44) is too high, and they value him in the 60s to 90s. Bid closer to his ESPN value (13 USD) or his Yahoo average cost (14.5 USD), and do not chase him past that. He suits builds that need rebounds and blocks and can live with his 66% FT. Early in the season, check whether his minutes go above 28 and whether his three-point volume holds, and note that Portland plays only 10 games in our playoff weeks.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,14 +8,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 2 | 4.7 | 114 | 1 | 2.5 | 126 | not drafted |
+| 2026-27 | 2 | 3.0 | 115 | 1 | 2.6 | 126 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.2% | -0.7 | -0.4 | - |
-| FT% | 82.6% | +0.6 | +0.3 | - |
+| FG% | 45.2% | -0.7 | -0.5 | - |
+| FT% | 82.6% | +0.6 | +0.2 | - |
 | 3PM | 1.4 | -0.1 | -0.5 | - |
 | PTS | 18.2 | +0.7 | +0.6 | - |
 | REB | 4.3 | -0.4 | +0.3 | - |
@@ -27,32 +27,32 @@
 </details>
 
 **Current**
-- Expect poor percentages and turnover problems early, as with most rookie guards. He should improve as the season goes on. (verdict, 2026-10-08; [09-03](https://youtu.be/OBwWCxG9SqM?t=1188), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298), [10-08](https://youtu.be/6DnRWahYrFA?t=1849), [09-10](https://youtu.be/W-R1dzem32s?t=1780), [08-30](https://youtu.be/Alwse2uXzD4?t=1919), [10-02](https://youtu.be/ZYllcj4o6_A?t=2788))
-- Experts call an ADP of about 92 to 98 too high and see almost no chance he returns top 100 value. They find him fine as a late pick, around 110 to 134. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2788), [09-24](https://youtu.be/_vbAP5y182A?t=1367), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006), [09-19](https://youtu.be/uarqbNA2dFk?t=1100), [09-03](https://youtu.be/OBwWCxG9SqM?t=1204), [09-15](https://youtu.be/KPdD91Oo8-U?t=2174), [09-01](https://youtu.be/80kfLVnFQ_s?t=1868))
-- Most notes project him as a starter next to Keyonte George, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. One September note says he may not start. (verdict, 2026-09-22; [08-05](https://youtu.be/CI4k8ofUXXk?t=401), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [06-25](https://youtu.be/lOshTzDA4SA?t=569), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006))
-- He shares the ball with Markkanen, George and Jackson Jr., so he will get much less usage than in college or Summer League. (verdict, 2026-09-22; [06-25](https://youtu.be/lOshTzDA4SA?t=569), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122), [07-21](https://youtu.be/RyzcCGChYgs?t=224), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006))
-- One expert gives him the tightest range in round 10: best case 76th, worst case about 148th. He would take him over AJ Dybantsa in any format. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1916))
-- Experts expect Utah to try to win, with about 43 wins projected. They see no real risk of tanking or late-season shutdowns. (verdict, 2026-09-17; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=141))
-- His assists this season are uncertain. Experts do not expect six assists right away. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1780), [06-25](https://youtu.be/lOshTzDA4SA?t=569))
-- Rookie. Utah took him with the No. 2 pick in the 2026 draft. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=285), [06-22](https://youtu.be/HxQjagSTTAM?t=209))
-- Leaf calls him the best player in the draft class and the Jazz franchise player. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=285))
-- He may play in short staggered stints, like Markkanen does. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=401))
-- In Summer League he averaged 20 points, 5 assists and 5 turnovers on 38% usage. He shot under 40% from the field and 78% from the line. His games swung between explosive and bad. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=224), [08-02](https://youtu.be/TOn-D1SV7a8?t=1513))
-- If his game comes together, he is probably a top-15 fantasy player. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=1513))
-- Among rookies, one expert ranks him second in category leagues and third in points leagues. He could reach first if his assists develop. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1283))
+- Minutes and usage on the Jazz are expected to change a lot early in the season. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1633))
+- Expect poor FG% and turnover problems this season, mostly early. His shooting should get better as the season goes on. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1849), [10-02](https://youtu.be/ZYllcj4o6_A?t=2788), [09-19](https://youtu.be/uarqbNA2dFk?t=1100), [09-10](https://youtu.be/W-R1dzem32s?t=1780), [09-03](https://youtu.be/OBwWCxG9SqM?t=1188), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298), [06-25](https://youtu.be/lOshTzDA4SA?t=569))
+- Utah plans to win this season and is not expected to tank or shut players down late. (verdict, 2026-10-06; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [10-06](https://youtu.be/eTsjuVu1trk?t=529))
+- Do not draft him inside the top 100. He is close to impossible to return that price, but he is fine as a late pick around 120 or later. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2788), [09-24](https://youtu.be/_vbAP5y182A?t=1367), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006), [09-19](https://youtu.be/uarqbNA2dFk?t=1100), [09-03](https://youtu.be/OBwWCxG9SqM?t=1204), [09-15](https://youtu.be/KPdD91Oo8-U?t=2174))
+- Experts disagree on his role. The Utah preview projects him as a starter next to Keyonte George, but a September note says he may not start. He may also play short, staggered stints like Lauri Markkanen does. (verdict, 2026-09-22; [08-05](https://youtu.be/CI4k8ofUXXk?t=401), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [06-25](https://youtu.be/lOshTzDA4SA?t=569), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006))
+- He shares the ball with Lauri Markkanen, Keyonte George and Jaren Jackson Jr., who already take a lot of usage. (fact, 2026-09-22; [06-25](https://youtu.be/lOshTzDA4SA?t=569), [07-21](https://youtu.be/RyzcCGChYgs?t=224), [09-22](https://youtu.be/QbdrhJd7LiA?t=1006), [06-23](https://youtu.be/-rgXhs5BHiw?t=122), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
+- He has a tight range: best case about 76th, worst case about 148th. One expert would take him over AJ Dybantsa in any format. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1916))
+- His assists this season are uncertain. He probably will not reach six per game right away, though one expert thinks Utah can get him more assists than he had at Kansas. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1780), [06-25](https://youtu.be/lOshTzDA4SA?t=569), [06-22](https://youtu.be/HxQjagSTTAM?t=209))
+- He is an upside rookie flyer. If his game comes together he could be a top 15 fantasy player. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1868), [08-02](https://youtu.be/TOn-D1SV7a8?t=1513))
+- Rookie. Utah took him with the number 2 pick in the draft. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=285), [06-22](https://youtu.be/HxQjagSTTAM?t=209))
+- In Summer League he averaged 20 points, 5 assists and 5 turnovers. He shot under 40% from the field and 78% from the line on 38% usage, with some explosive games and some bad ones. (fact, 2026-08-02; [07-21](https://youtu.be/RyzcCGChYgs?t=224), [08-02](https://youtu.be/TOn-D1SV7a8?t=1513))
+- He will not get anything close to his Summer League usage, so his shots and touches will be capped. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=224), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
 
 **Durable**
-- Lloyd sees some athletic limitations at times. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1849))
-- He relies on volume scoring, which makes him better in points leagues than in category leagues. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1006))
-- He had injury problems in college, missing games and playing lower minutes. (fact, 2026-09-19; [06-25](https://youtu.be/lOshTzDA4SA?t=505), [09-19](https://youtu.be/uarqbNA2dFk?t=1100))
-- At Kansas he had a 30% usage rate, huge three-point volume and strong scoring. His steals and blocks were strong for his position. (fact, 2026-06-28; [06-25](https://youtu.be/lOshTzDA4SA?t=505), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298))
-- His assist numbers at Kansas were poor, though he was a good passer in high school. (fact, 2026-06-28; [06-23](https://youtu.be/-rgXhs5BHiw?t=1385), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298))
-- One expert rates him as an electric shooter, near the top of his draft class. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1385))
+- He shows some athletic limitations at times. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1849))
+- He relies on volume scoring, so he is better in points leagues than in category leagues. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1006))
+- He missed games and played lower minutes in college because of injuries. (fact, 2026-09-19; [06-25](https://youtu.be/lOshTzDA4SA?t=505), [09-19](https://youtu.be/uarqbNA2dFk?t=1100))
+- He is a high-usage scoring guard. He had 30 usage at Kansas with big three-point volume. (fact, 2026-06-28; [06-25](https://youtu.be/lOshTzDA4SA?t=505), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298))
+- His category strengths are steals, blocks for a guard, scoring and three-point volume, with solid rebounds. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=1298), [06-25](https://youtu.be/lOshTzDA4SA?t=505))
+- His assist numbers at Kansas were poor, even though he was a good passer in high school. (fact, 2026-06-28; [06-23](https://youtu.be/-rgXhs5BHiw?t=1385), [06-28](https://youtu.be/RsjGTgJiKyI?t=1298))
+- One expert rates him near the top of the class as a shooter. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1385))
 
 **Tags**
-- Current: `rookie` (No. 2 pick in 2026), `usage competition` (Markkanen, Keyonte George, Jaren Jackson Jr.), `slow start` (bad early shooting and turnovers, should improve during the season), `bust candidate` (at ADP about 92 to 98 or round 6; fine around pick 120), `flyer` (upside rookie as a late pick), `low shutdown risk` (Jazz trying to win, no tank expected)
-- Durable: `usage dependent` (relies on volume scoring; doubts he pairs efficiency with enough usage), `points league player` (volume scorer with efficiency concerns)
+- Current: `rookie` (Number 2 pick in the 2026 draft), `usage competition` (Shares the ball with Markkanen, Keyonte George and Jaren Jackson Jr.), `unsettled rotation` (Jazz minutes and usage expected to move around early; his starting spot is not certain), `slow start` (Bad early shooting and turnovers expected, improving as the season goes on), `bust candidate` (Only when drafted inside the top 100 (ADP 92 to 98 in September notes)), `flyer` (Fine as a late pick around 120 or later; top 15 upside if it comes together), `low shutdown risk` (Utah is trying to win, not tank)
+- Durable: `points league player` (Volume scorer with efficiency and turnover concerns)
 
-**Note.** The market (Yahoo rank 114 at 4.7 USD, ESPN rank 126 at 2.2 USD) matches the experts' call of a late pick around 110 to 130, so he is fine for 2 to 5 USD as a bench upside piece and not worth more. His rookie projection is about average in every category with no category clearly weak, so he fits any build without carrying one, but expect poor FG% and turnovers early. Early in the season, check whether he starts and how many minutes he gets next to George, Markkanen and Jackson Jr. Also watch whether his shooting and assists improve as the experts expect.
+**Note.** The market already has him as a late pick: Yahoo rank 115 (value 2 USD, average cost 3.0 USD) and ESPN rank 126 (1 USD, 2.6 USD). In our 144-player auction he fits as a 1 to 3 USD flyer, so spend no more than that, since the experts see no path to top-100 value this season. No category is flagged weak in his projection. Steals (1.2) and points (18.2) are his best areas, while FG% (45.2% on about 14.5 shots) and 2.1 turnovers lean negative, so he fits builds that can absorb some FG% and TO risk. Early in the season, check whether he starts, how many minutes he gets next to George, Markkanen and Jackson Jr., and whether his FG% and turnovers get better.
 
-<sub>23 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>23 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

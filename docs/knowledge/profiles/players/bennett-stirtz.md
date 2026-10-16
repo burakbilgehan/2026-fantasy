@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 678 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 686 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -15,9 +15,9 @@
 |---|---|---|---|---|
 | FG% | 42.1% | -0.5 | -0.1 | - |
 | FT% | 83.9% | +0.2 | -0.3 | - |
-| 3PM | 0.6 | -1.0 | -1.4 | - |
-| PTS | 5.4 | -1.5 | -1.5 | league outlier, weak |
-| REB | 1.6 | -1.5 | -1.5 | - |
+| 3PM | 0.6 | -0.9 | -1.4 | - |
+| PTS | 5.4 | -1.5 | -1.5 | - |
+| REB | 1.6 | -1.5 | -1.6 | - |
 | AST | 1.8 | -0.8 | -1.1 | - |
 | STL | 0.6 | -0.9 | -1.1 | - |
 | BLK | 0.1 | -1.0 | -1.1 | - |
@@ -26,20 +26,24 @@
 </details>
 
 **Current**
-- OKC is expected to give more minutes to Ajay Mitchell and Jared McCain. That adds to the guard competition ahead of him. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=202))
-- Josh did not like the draft pick and still does not after Summer League. He dropped Stirtz from tier five to tier six in his dynasty rookie rankings. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=456))
-- Bennett Stirtz is a first-round rookie point guard for OKC. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
-- He is not in the OKC rotation. The guard minutes go to SGA, Ajay Mitchell, Cason Wallace and Topic. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1045), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- His Summer League play was fine but not great. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1045))
+- He is a first-round rookie point guard drafted by OKC. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1806), [10-12](https://youtu.be/NhLMyS7Ii5I?t=1789), [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
+- Expected to get some volume, but he is a long way from fantasy relevance. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1806))
+- OKC traded away Lu Dort, Aaron Wiggins and Isaiah Joe, its main shooters, and the rotation is still deep. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=98), [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758))
+- OKC could be one of the lowest-volume three-point teams unless players like Stirtz shoot more. That leaves a small opening for him as a shooter. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=104), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- He is behind Shai Gilgeous-Alexander, Ajay Mitchell, Cason Wallace and Nikola Topic in the guard rotation. OKC also has to find more minutes for Jared McCain. (fact, 2026-09-30; [07-21](https://youtu.be/RyzcCGChYgs?t=1045), [09-30](https://youtu.be/BjXP9JODDSg?t=202))
+- Josh dropped him from tier five to tier six in his dynasty rookie ranks. He still does not like the pick. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=456))
+- His Summer League was fine but not great: 14 points and 3 assists in 28 minutes, shooting 30% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1045))
 
 **Durable**
-- He projects as a very good three-point shooter off the ball. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
+- He is an older, undersized guard. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1806))
+- He runs the pick and roll well. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1806))
 - He was not asked to shoot much in college. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
+- He projects as a great three-point shooter off the ball. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1197))
 
 **Tags**
-- Current: `rookie` (First-round pick, point guard)
+- Current: `rookie` (First-round pick, older and undersized), `minutes competition` (Behind SGA, Ajay Mitchell, Cason Wallace and Nikola Topic, with Jared McCain also needing minutes), `deep rotation` (OKC rotation stays deep after losing Dort, Wiggins and Joe)
 - Durable: none
 
-**Note.** Stirtz is not a draft target in our 12-team, 144-player auction. Yahoo values him at 0 USD and ranks him 663, and his projection of 5.4 points in a small role helps no category. Leave him on waivers and only look again if injuries in the OKC backcourt (SGA, Mitchell, Wallace, Topic, McCain) give him real minutes.
+**Note.** Stirtz is not a draft option for our 144-player auction. Yahoo values him at 0 USD and ranks him 686th, and his projection of 5.4 points and 1.6 rebounds in a small role gives almost nothing outside low turnovers. He goes straight to waivers. Watch him early only if an injury among OKC guards gives him minutes, or if the team starts using him as a high-volume three-point shooter to replace the shooting it lost.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

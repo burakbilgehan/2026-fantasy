@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 37 | 37.4 | 19 | 20 | 34.2 | 37 | 31 |
+| 2026-27 | 37 | 37.4 | 19 | 20 | 32.6 | 37 | 31 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,40 +22,42 @@
 | 3PM | 1.9 | +0.4 | +0.1 | - |
 | PTS | 17.4 | +0.6 | +0.5 | - |
 | REB | 8.7 | +1.5 | +3.4 | - |
-| AST | 9.3 | +3.2 | +2.8 | league outlier, strong |
+| AST | 9.3 | +3.2 | +2.7 | league outlier, strong |
 | STL | 1.2 | +0.7 | +0.4 | - |
 | BLK | 0.6 | +0.0 | +1.1 | - |
-| TO | 3.6 | -2.6 | -2.4 | league outlier, weak, weak for his position (punt fit) |
+| TO | 3.6 | -2.7 | -2.4 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts see him as fair value in the 20s for category leagues, around the end of round two or the start of round three. One expert says pick 11 on ESPN is far too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=426), [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-24](https://youtu.be/_vbAP5y182A?t=599), [09-23](https://youtu.be/C4vlgpJ62NI?t=1926), [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-09](https://youtu.be/7BllEsdNLoM?t=1173))
-- In a 2026-10-05 auction mock draft he went for 29 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=548))
-- In that mock, Josh stopped bidding at 24 USD and did not see 29 USD as a bargain. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=548))
-- His free throw percentage and three-point shooting dropped last season. Experts disagree on a rebound: one says his shooting could bounce back, another says it is unclear. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=365), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [09-10](https://youtu.be/W-R1dzem32s?t=876))
-- He is projected to start at guard for Chicago. Nikola Vucevic and Coby White are gone, and Norman Powell has arrived. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=199))
+- In preseason his rebound rate, assist rate and usage rate are all down. (fact, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=543), [10-12](https://youtu.be/ENizLoE6pzI?t=990))
+- Experts are worried about his preseason. It is unclear how new coach Tiago Splitter will use him. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=543), [10-12](https://youtu.be/ENizLoE6pzI?t=990), [09-28](https://youtu.be/3Qm5wLjhvTw?t=172))
+- Experts value him as a second round pick in category leagues, fine around picks 18 to 25 but not earlier. ESPN's pick 11 is too high. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=543), [10-09](https://youtu.be/-DN4P92Wp8Y?t=426), [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-24](https://youtu.be/_vbAP5y182A?t=599), [09-23](https://youtu.be/C4vlgpJ62NI?t=1926), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2346), [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-09](https://youtu.be/7BllEsdNLoM?t=1173))
+- The Bulls are feeding usage to rookie Caleb Wilson in preseason. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1610))
+- In one mock auction he went for 29 USD. The expert bid up to 24 USD and passed, calling 29 USD no bargain. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=548))
+- His shooting dropped last season, including an odd fall in free throw percentage. Experts are unsure whether it bounces back. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=365), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [09-10](https://youtu.be/W-R1dzem32s?t=876))
+- He is in the projected starting five with Norman Powell, Matas Buzelis, Caleb Wilson and Nick Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- Experts disagree on his usage. Some say the exits of Nikola Vucevic and Coby White free up touches and he will be the offensive hub. Others expect his usage to drop, with Norman Powell possibly leading the team. (verdict, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
 - He dealt with ankle injuries last season. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=365))
-- Chicago has a new head coach, Tiago Splitter, who replaces Billy Donovan. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387))
-- Chicago is expected to be a bad team, probably bottom six, at about 32 wins. It should play fast and up-tempo, with poor spacing. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [08-18](https://youtu.be/FxaSnyk9g90?t=1679), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
-- Chicago has 10 games in our fantasy playoff weeks (3-3-4) and 15 back-to-backs this season. It also has one of the season's three five-game weeks. The first 20 games are a hard stretch. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-16](https://youtu.be/gf_6GveiAls?t=1310), [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
-- Experts project about 23 usage and 33 to 34 minutes. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=1173), [09-16](https://youtu.be/2A2JbUN-kc0?t=570))
-- His usage should drop because the Chicago roster is healthy. Norman Powell may lead the team in usage unless he is traded. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=876), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [08-24](https://youtu.be/g31YlwRe0XQ?t=1520))
-- He should be the offensive hub and reach about 10 assists per game. He still needs to score around 15 to 16 points because the team lacks shooting. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=570), [08-18](https://youtu.be/FxaSnyk9g90?t=1411), [07-07](https://youtu.be/ME-r173X5b0?t=1105), [08-18](https://youtu.be/FxaSnyk9g90?t=570))
-- He is the only Bulls player paid over 20 million USD per year, so he faces the most pressure if the season goes badly. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1479))
+- The Bulls are expected to be a bad team, around 32 wins. They lack shooting, and a lineup with Claxton, Wilson and Giddey has poor spacing. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=570), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
+- Chicago plays 10 games in our fantasy playoff weeks (3-3-4) and has 15 back-to-backs, one below the maximum. The first 20 games are a tough stretch. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [08-18](https://youtu.be/FxaSnyk9g90?t=1732))
+- Experts project about 33 to 34 minutes and around 10 assists per game. (verdict, 2026-09-16; [09-09](https://youtu.be/7BllEsdNLoM?t=1173), [09-16](https://youtu.be/2A2JbUN-kc0?t=570), [08-18](https://youtu.be/FxaSnyk9g90?t=1411), [07-07](https://youtu.be/ME-r173X5b0?t=1105))
+- He is the only Bulls player paid over 20 million USD per year and faces the most pressure if the season goes badly. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1479))
+- The Bulls should play a fast, up-tempo transition style. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
 
 **Durable**
-- He is worth more in points leagues than in 9-cat leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=269), [10-04](https://youtu.be/n4KkK-OJjqA?t=1322), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-16](https://youtu.be/2A2JbUN-kc0?t=570), [09-10](https://youtu.be/W-R1dzem32s?t=876))
-- He is reliable in points, rebounds and assists, with very high assists and rebounds for a guard. Rebounding and transition play are strengths. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [08-18](https://youtu.be/FxaSnyk9g90?t=1370), stats)
-- He is not a high-usage player. His weekly variance comes from his percentages and steals. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184))
-- He commits many turnovers, a clear weakness in the TO category. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1322), stats)
-- He made about 37% and 36.5% of his threes over the last two seasons, on low volume. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=578))
-- Availability is a concern. He needs to play more than 60 to 65 games. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1330))
+- Assists are a league outlier, and his rebounds are far above other guards. (fact, 2026-10-16; stats)
+- Experts rate him higher in points leagues than in category leagues, so points-based rankings overrate him for us. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=269), [09-28](https://youtu.be/3Qm5wLjhvTw?t=351), [09-16](https://youtu.be/2A2JbUN-kc0?t=570), [09-10](https://youtu.be/W-R1dzem32s?t=876), [10-04](https://youtu.be/n4KkK-OJjqA?t=1322))
+- He is a reliable source of points, rebounds and assists, with possible double digit assists. Rebounding and transition play are strengths. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [08-18](https://youtu.be/FxaSnyk9g90?t=1370))
+- Experts disagree on his usage profile. One calls him a low usage player whose variance comes from percentages and steals. Another calls him a high-usage passer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=376), [09-09](https://youtu.be/7BllEsdNLoM?t=1184), [08-18](https://youtu.be/FxaSnyk9g90?t=1322))
+- Turnovers are a league outlier on the weak side. He is a ball-dominant passer who needs to cut them. (fact, 2026-08-18; stats, [08-18](https://youtu.be/FxaSnyk9g90?t=1322))
+- He shot about 37% and 36.5% from three over the last two seasons, on low volume. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=578))
+- Availability is a concern. He needs to play over 60 to 65 games. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1330))
 
 **Tags**
-- Current: `usage competition` (Norman Powell may lead Chicago in usage), `injury last season` (Ankle injuries), `sites disagree on price` (Yahoo rank 18 or 19, ESPN rank 36 or 37), `new coach` (Tiago Splitter), `bottom team` (About 32 wins projected), `fast pace`, `thin rotation`, `many back-to-backs` (15 back-to-backs)
-- Durable: `AST specialist` (About 9 to 10 assists per game), `REB from a guard` (About 8 to 9 rebounds per game as a guard), `high TO` (About 3.6 turnovers per game), `punt TO fit`, `points league player` (Ranked higher in points formats than in 9-cat)
+- Current: `role down` (preseason usage, rebound and assist rates down; Bulls feeding usage to Caleb Wilson), `usage competition` (Norman Powell, Caleb Wilson and Matas Buzelis), `new coach` (Tiago Splitter replaces Billy Donovan), `injury last season` (ankle injuries, 54 games), `sites disagree on price` (Yahoo rank 19 and 37 USD value; ESPN rank 37 and 20 USD value), `bottom team` (about 32 wins projected), `fast pace`, `many back-to-backs` (15 back-to-backs)
+- Durable: `AST specialist` (about 9 to 10 assists per game), `REB from a guard` (8 to 9 rebounds per game as a guard), `high TO` (about 3.6 turnovers per game projected), `punt TO fit`, `points league player` (rated around picks 11 to 15 in points leagues versus about 20 to 25 in categories)
 
-**Note.** Experts value him as a pick in the 20s for category leagues. That is close to the 31 USD he cost in our league last season and the 29 USD from a recent mock auction, not his Yahoo value of 37 USD or his average cost of 34.6 to 37.4 USD. His assists (9.3 projected) and rebounds for a guard make him a top asset. His 3.6 turnovers hurt, so he fits a punt TO build best and fits weakly where turnovers matter. Early in the season, watch whether his FT% gets back near 78%, how much usage he shares with Norman Powell, whether his assists reach about 10, and whether he stays healthy after last season's 54 games.
+**Note.** He is a top assist source with guard-leading rebounds, but he costs you in turnovers and gives slightly below-average shooting percentages. That makes him a natural fit for punt TO builds. Yahoo prices him at 37 USD, ESPN's value is only 20 USD (average cost 32.6), he went for 31 USD in our league last season and 29 USD in a mock auction. With experts worried about his preseason role and calling him a category-league second rounder, about 28 to 32 USD is fair and the full Yahoo price is too much. Early in the season, check his usage and assist rates under Splitter next to Powell and Wilson, and whether his FT% recovers toward 78%.
 
-<sub>23 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

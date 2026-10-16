@@ -1,0 +1,165 @@
+{
+ "player": {
+  "name": "Nikola Topić",
+  "slug": "nikola-topic",
+  "pk": 558,
+  "team": "OKC",
+  "position": "G"
+ },
+ "prompt_version": 3,
+ "prompt_sha": "742ab7f0ba5d",
+ "input_sha": "534d94d3d454",
+ "note_count": 4,
+ "built_at": "2026-10-16T09:11:24+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "cost_usd_list": 0.1277182,
+  "duration_ms": 25071,
+  "turns": 2,
+  "denied": 0
+ },
+ "current": [
+  {
+   "text": "He has no clear path to minutes behind Ajay Mitchell, Cason Wallace, Shai Gilgeous-Alexander and Bennett Stirtz.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p35"
+   ]
+  },
+  {
+   "text": "His numbers in his two NBA starts were very strong.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p35"
+   ]
+  },
+  {
+   "text": "He is listed as questionable on Yahoo with a back problem.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "This season could be his first healthy one.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p30"
+   ]
+  },
+  {
+   "text": "He is eligible for a contract extension after this season.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p30"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "He has a long injury history: a torn ACL before his draft year, testicular cancer treatment and back surgery.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p34",
+    "75Sk_4fkgIM:p29"
+   ]
+  },
+  {
+   "text": "He is a pass-first, traditional point guard.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p29"
+   ]
+  },
+  {
+   "text": "He showed improved pull-up shooting in the G League.",
+   "kind": "fact",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p29"
+   ]
+  },
+  {
+   "text": "Ryland is not sure the improved pull-up shooting is real.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:p29"
+   ]
+  }
+ ],
+ "tags": [
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "torn ACL, back surgery, cancer treatment; now questionable with a back problem",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p34",
+    "75Sk_4fkgIM:p29",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Yahoo status Q (Back)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "back",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "behind Gilgeous-Alexander, Mitchell, Wallace and Stirtz at guard",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "strong numbers in two starts; only relevant if OKC guard injuries open minutes",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p35",
+    "stats"
+   ],
+   "new_meaning": ""
+  }
+ ],
+ "note": "Yahoo values him at 0 USD and ranks him 565th. ESPN gives no price, so he is far outside our 144 drafted players and should not be drafted. In 10 games he averaged 4.4 assists in only 16 minutes, along with 2.5 turnovers. Use him only as a waiver name if injuries to OKC guards open minutes, and check his back first.",
+ "rejected": []
+}

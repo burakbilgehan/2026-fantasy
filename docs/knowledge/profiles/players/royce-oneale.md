@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 209 | 0 | 0.0 | 157 | not drafted |
+| 2026-27 | 0 | - | 214 | 0 | 0.0 | 157 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- He is a bench player in Charlotte. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-27](https://youtu.be/CRLSsoGhb2w?t=1375), [07-01](https://youtu.be/W3THnI7wWdA?t=318))
-- He may get more power forward minutes, but he is not worth drafting. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
-- Charlotte has a deep roster and projects as a play-in team. That spreads the bench minutes. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
-- With the March 28 end date, Charlotte plays 4, 3 and 4 games in our playoff weeks. It has 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- He is a bench player in a small role. The projected bench is Allen, Schröder, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [07-01](https://youtu.be/W3THnI7wWdA?t=318))
+- Grayson Allen, not O'Neale, is projected to start while Kon Knueppel is out. (fact, 2026-09-27, until Knueppel returns; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- He may get more power forward minutes. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
+- He is not worth drafting. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1375))
+- Charlotte has a deep roster and is projected as a play-in team. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
+- Charlotte has 13 back-to-backs, the league minimum. Its playoff schedule is 4-3-4 games for a March 28 end. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
 - Charlotte plans to space the floor and take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
-- Charlotte got him from Phoenix in the Miles Bridges trade, along with Grayson Allen. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328))
+- Charlotte got him from Phoenix with Grayson Allen in the Miles Bridges trade. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=318), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [09-22](https://youtu.be/QbdrhJd7LiA?t=582))
 
 **Durable**
-- Threes are his only clear fantasy strength. He scores little and his FG% is below average. (verdict, 2026-10-11; stats)
-- He showed signs of decline, and teams around the league saw his contract as a negative asset. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=484))
-- He made corner threes all season long. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
+- He has shown signs of decline. Teams around the league saw him as a negative asset. (verdict, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=484))
+- He is a corner three shooter and hit corner threes all season long. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=425))
 
 **Tags**
-- Current: `new team` (Traded from Phoenix to Charlotte in the Bridges deal), `role down` (Small bench role in Charlotte), `deep rotation` (Deep Charlotte bench), `three-point heavy`, `few back-to-backs` (13 back-to-backs, league minimum)
-- Durable: `3PM from a big` (Corner three shooter at forward), `age decline watch` (Showed signs of decline)
+- Current: `new team` (traded from Phoenix to Charlotte in the Miles Bridges deal), `role down` (bench role in Charlotte after 28.4 minutes last season), `deep rotation` (deep Charlotte roster with many bench forwards), `three-point heavy` (Charlotte plans to space the floor and take many threes), `few back-to-backs` (13 back-to-backs, the league minimum)
+- Durable: `3PM from a big` (corner three shooter, about 2.3 threes per game projected as a forward), `plays every game` (75 or more games in each of the last three seasons), `age decline watch` (showed signs of decline)
 
-**Note.** Both Yahoo (rank 209) and ESPN (rank 157) value him at 0 USD. The only expert call says he is undraftable, so leave him out of our 144-player auction. His one real category is threes (about 2.3 per game as a forward), and he gives back FG% and points, so he is at most a short-term waiver add for a team that needs threes. Early on, check whether the absences of Coby White and Kon Knueppel or the open power forward minutes push him clearly above his projected 24.5 minutes.
+**Note.** O'Neale ranks 214 on Yahoo and 157 on ESPN, both sites value him at 0 USD, and he was not drafted in our league last season. Only 144 players get drafted, so leave him on waivers. He is projected for about 8.4 points on 41.8% FG, and his only real help is threes (2.3 per game) with few turnovers. If Charlotte's injuries to Coby White and Kon Knueppel drag on, or he picks up the power forward minutes the notes mention, check early in the season whether he gets near his 28 minutes from last season. Even then he is only a short-term streamer for threes.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

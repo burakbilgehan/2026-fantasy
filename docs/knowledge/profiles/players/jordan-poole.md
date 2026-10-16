@@ -11,14 +11,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 190 | 0 | 0.1 | 241 | 10 |
+| 2026-27 | 0 | 0.0 | 183 | 0 | 0.1 | 241 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 41.0% | -1.3 | -1.3 | - |
-| FT% | 87.6% | +0.7 | +0.5 | - |
+| FT% | 87.6% | +0.7 | +0.4 | - |
 | 3PM | 1.9 | +0.5 | +0.1 | - |
 | PTS | 12.1 | -0.3 | -0.4 | - |
 | REB | 1.8 | -1.4 | -1.4 | - |
@@ -30,20 +30,23 @@
 </details>
 
 **Current**
-- The New Orleans guard group includes Dejounte Murray, who is back, second-year Jeremiah Fears and new addition Bennedict Mathurin. The team also has a new coach, Jamahl Mosley. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
-- The experts say the Pelicans have too many players for 240 minutes and unclear guard roles, so roles are hard to project. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [08-11](https://youtu.be/OdDkXFhoKsc?t=882))
-- Poole is not named in any projected Pelicans starting lineup. Dejounte Murray is locked in at guard, and the last starting spot is between Jeremiah Fears and Herb Jones. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- The Pelicans have a crowded rotation, with about eight players who could all start. (fact, 2026-09-04; [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
-- Poole is probably out of the rotation in New Orleans. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1672))
-- The experts see New Orleans as a weak team that will not make the playoffs. One projects about 34 wins. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
+- The Pelicans roster is crowded with high-usage players. It is unclear how the 240 minutes will be split, and the guard roles are not settled. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [10-10](https://youtu.be/gsx_UDkVPd0?t=191), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [08-11](https://youtu.be/OdDkXFhoKsc?t=882), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- He is playing a lot of minutes in the Pelicans preseason. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1756))
+- The Pelicans preview speaker will not draft him. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1756))
+- With a March 28 end, New Orleans plays 4, 4 and 3 games in our fantasy playoff weeks. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- The Pelicans playoff schedule is good for a league ending March 28. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- New Orleans has a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- Jamahl Mosley is the new Pelicans head coach. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=101))
+- One expert expects him to fall out of the New Orleans rotation. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1672))
+- Experts see the Pelicans as a weak team that will not make the playoffs. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
 
 **Durable**
-- One expert admits that he often gets Poole wrong, so expert calls on him are less reliable. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=452))
+- He is hard to project. One expert says he gets Poole wrong all the time. (verdict, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=452))
 
 **Tags**
-- Current: `role down` (Probably out of the New Orleans rotation), `minutes competition` (Guard minutes go to Dejounte Murray, Jeremiah Fears, Herb Jones and Bennedict Mathurin), `deep rotation` (About eight possible starters on the Pelicans), `unsettled rotation` (Pelicans guard roles unclear), `bottom team` (Weak team near the bottom of the West, about 34 wins projected), `new coach` (Jamahl Mosley)
+- Current: `minutes competition` (Crowded Pelicans guard and wing group. One expert projects him out of the rotation, but he plays a lot in preseason.), `usage competition` (Roster crowded with high-usage players), `waiver watch` (Not drafted by the expert, but he gets heavy preseason minutes), `deep rotation` (About eight Pelicans who could start), `unsettled rotation` (Pelicans guard roles unclear), `new coach` (Jamahl Mosley), `bottom team` (About 34 wins projected, weak team in the West), `good playoff schedule` (4-4-3 in weeks 19 to 21 with a March 28 end), `many back-to-backs` (League-high 16 back-to-backs)
 - Durable: none
 
-**Note.** Poole is not a draft target for us. Both Yahoo and ESPN value him at 0 USD (ranks 190 and 241), and his projected line of about 41% FG on 10 shots does no real damage in any category but hurts FG% more than it helps elsewhere, so the 10 USD our league paid last season is not worth repeating. Leave him on waivers and check early whether injuries or a trade in the crowded New Orleans backcourt give him real minutes. Only then is he worth adding for FT% and threes.
+**Note.** Both sites give him a value of 0 USD and rank him outside our 144 drafted players (Yahoo 183, ESPN 241), so he does not justify the 10 USD our league paid last season. He should go undrafted. The projections are about 41% FG on roughly 10 shots, with little in rebounds, steals or blocks, so his value is limited to threes and FT%. Watch his minutes in the first weeks. If his heavy preseason role carries into a crowded Pelicans rotation, he is a short-term waiver pickup for teams that need threes and FT%.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -5,26 +5,24 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 701 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 709 | - | - | - | not drafted |
 
 **Current**
-- He is the third-string center for Detroit, behind Jalen Duren and Paul Reed. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
-- He is on a two-way contract. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
-- Isaiah Stewart is gone, so Detroit has less frontcourt depth behind Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=208))
-- He is a rookie from the 2026 draft class. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=156), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- An expert calls him a name to watch. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
+- Jalen Duren has not played in preseason and may be eased in. Paul Reed is the one expected to get the extra center minutes early. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1912))
+- He is the third-string center in Detroit and is on a two-way contract. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
+- Paul Reed is the backup center behind Jalen Duren, which puts Onyenso behind both of them. (fact, 2026-10-03; [07-17](https://youtu.be/NYTH7uQsPCM?t=2039), [06-26](https://youtu.be/CLsUc0Sevos?t=1091), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- He is a name to watch, not a player to draft now. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
 
 **Durable**
-- He has a very high block rate. He averaged 2 blocks a game in Summer League as a backup big. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033), [07-23](https://youtu.be/LUTYUdXBG1M?t=1459))
-- Josh says his fantasy potential is through the roof. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
-- His translated fantasy stats rank among the top three in his draft class. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He started taking threes in his last season before the NBA. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
-- He could build fantasy value from blocks, rebounds and FG%, in a profile like Walker Kessler's. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He blocks shots at a very high rate. He averaged 2 blocks a game in Summer League as a backup big. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1713), [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He could build fantasy value from blocks, rebounds and FG%, like Walker Kessler. Josh says his fantasy potential is through the roof. (verdict, 2026-08-02; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033), [08-02](https://youtu.be/TOn-D1SV7a8?t=156))
+- His translated fantasy stats ranked among the top three in his draft class. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1459), [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
+- He began taking threes in his last season before the NBA. (fact, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1033))
 
 **Tags**
-- Current: `two-way contract` (two-way deal with Detroit), `rookie` (2026 draft class), `waiver watch` (third-string center with a very high block rate; watch for injuries to Duren or Reed)
+- Current: `rookie` (2026 draft class), `two-way contract` (third-string center in Detroit), `waiver watch` (block rate makes him worth watching if he moves up the center depth chart)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD with a rank of 701, and ESPN has no price, so he should not be drafted in our 144-player auction. He is a third-string center on a two-way deal, and Detroit has thin depth behind Duren now that Stewart is gone. Keep him on the waiver watch list early in the season, and move fast if Duren or Reed misses time, because his blocks, rebounds and FG% upside could make him a cheap source of blocks.
+**Note.** With a Yahoo value of 0 USD, a Yahoo rank of 709 and no ESPN price, he is not one of the 144 players to draft in our league. Experts like his block rate and his translated stats, so he is a waiver name for teams that need blocks. Early in the season, check whether he gets a standard contract or whether an injury to Duren or Reed opens center minutes for him.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 236 | 0 | 0.0 | 283 | not drafted |
+| 2026-27 | 0 | - | 251 | 0 | 0.0 | 283 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,9 +19,9 @@
 |---|---|---|---|---|
 | FG% | 42.5% | -0.6 | -0.3 | - |
 | FT% | 84.1% | +0.2 | -0.2 | - |
-| 3PM | 1.5 | +0.0 | -0.3 | - |
+| 3PM | 1.5 | +0.0 | -0.4 | - |
 | PTS | 7.9 | -1.1 | -1.1 | - |
-| REB | 1.7 | -1.4 | -1.5 | - |
+| REB | 1.7 | -1.5 | -1.5 | - |
 | AST | 2.6 | -0.3 | -0.7 | - |
 | STL | 0.6 | -1.0 | -1.2 | - |
 | BLK | 0.2 | -0.9 | -0.8 | - |
@@ -30,23 +30,22 @@
 </details>
 
 **Current**
-- He is in Minnesota's 10-man rotation as a bench scoring option at about 15 minutes per game. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
-- He is a risky pick. Experts call him a roll of the dice, and a consistent role is hard for him to find. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
-- Minnesota plays a smaller, guard-heavy lineup after trading Julius Randle and Naz Reid for LaMelo Ball. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [10-09](https://youtu.be/cFV24VgxyCY?t=82))
-- With a March 28 end, Minnesota's playoff schedule goes 4, 2, 4 games, so the semifinal week has only two games. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006))
-- Minnesota has the league minimum of 13 back-to-backs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
-- Minnesota's bench is thin, with little scoring punch and no ball handlers in the bench unit. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
-- Minnesota is expected to be a winning team (Ben predicts 53 wins) and should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
-- He re-signed with Minnesota on a minimum contract and adds guard depth. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
-- He was solid enough when he had to start, so he can fill in if a starting guard misses time. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- With the season ending March 28, Minnesota plays 4, 2 and 4 games in the fantasy playoff weeks, so the semifinal week has only two games. The team has the league minimum of 13 back-to-backs. (fact, 2026-10-13; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [10-13](https://youtu.be/EogBYa24Gto?t=369), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/J1Eg3uaAICU?t=397))
+- He is in Minnesota's 10-man rotation at about 15 minutes per game. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704))
+- Experts call him a bench scoring option who can put up numbers. They also say a steady role is hard to find, so he is a roll of the dice. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- Minnesota's bench is thin. It has little scoring punch and no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Donte DiVincenzo will miss most of the season and Mike Conley is gone. Dosunmu, Shannon and Green are the other guards competing for backcourt minutes. (fact, 2026-08-19; [06-22](https://youtu.be/HxQjagSTTAM?t=883), [06-23](https://youtu.be/9tb1ARBEmQU?t=263), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [06-25](https://youtu.be/ya2VYRJ1BN0?t=542))
+- Ben expects Minnesota to win 53 games, and the team is not expected to rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- He re-signed with Minnesota on a minimum contract. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
+- He adds guard depth and is seen as good enough to fill in when a starter is out. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1421))
 
 **Durable**
-- He is a bench scorer who can put up numbers when he gets minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1704), [08-19](https://youtu.be/2mxpEpGU3H8?t=524))
+- He is a bench scoring guard whose value depends on how many minutes he gets. (verdict, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=524), [10-09](https://youtu.be/cFV24VgxyCY?t=1704))
 
 **Tags**
-- Current: `minutes competition` (Bench guard at about 15 minutes; a consistent role is hard to find), `waiver watch` (Ranked outside the 144 drafted players; watch if a Minnesota starting guard gets hurt), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21; two-game semifinal week), `few back-to-backs` (League minimum 13 back-to-backs), `winning team` (Ben predicts 53 wins), `low shutdown risk` (Competitive team, not expected to tank), `thin rotation` (Thin bench with no ball handlers and little scoring punch), `small-ball lineups` (Guard-heavy lineups after Randle and Reid left)
+- Current: `waiver watch` (Ranked well outside the 144 drafted players. Watch for a bigger bench role or a fill-in start.), `minutes competition` (Bench guard minutes shared with Dosunmu, Shannon and Green. About 15 minutes now.), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21. Two-game semifinal week.), `few back-to-backs` (League minimum of 13 back-to-backs.), `winning team` (Ben predicts 53 wins.)
 - Durable: none
 
-**Note.** At rank 236 on Yahoo and 283 on ESPN, both with 0 USD value, he falls well outside the 144 players drafted in our league, so do not spend on him in the auction. Projections of about 8 points and 1.5 threes in about 16 minutes give no category edge. He only matters if an injury to a Minnesota guard pushes him into a bigger role. His two-game semifinal week also hurts his playoff use, so treat him as a short-term waiver pickup only.
+**Note.** He is a waiver player for us. Yahoo ranks him 251 and ESPN 283, both value him at 0 USD, and our league did not draft him last season. In about 15 bench minutes he gives a thin line: some threes and low turnovers (0.8 per game projected), but little else. Early in the season, check whether Minnesota's thin bench, which has no ball handlers, pushes his minutes above 15, and whether an injury to Ball or Edwards opens starts for him. Even then, the two-game semifinal week caps his playoff use.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

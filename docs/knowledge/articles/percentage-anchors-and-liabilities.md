@@ -3,114 +3,113 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** FG% and FT% are team ratios, so the players who move them most combine an extreme percentage with high attempts. Low-volume efficiency barely counts. FT% is the least stable category from year to year, so price shooters on their norm, not on one season. Pick one percentage to protect before the 2026-10-18 auction instead of chasing both.
+**Summary.** FG% and FT% are team ratios, so a player's effect depends on his attempts as much as his percentage. A 41% shooter on 19 shots a game hurts you far more than a 59% free throw shooter on 3 attempts. Pick one percentage category to lean into rather than chasing both. Treat FT% as the shakiest projection of the nine categories, and never assume a percentage lead is safe in a low-volume week.
 
-## Volume moves the ratio
+## Attempts decide how much a shooter matters
 
-In our league, FG% and FT% are team ratios: total makes divided by total attempts for the week. A player's percentage counts in proportion to how many shots he takes. Good efficiency on low volume does not matter much. So judge a shooter by his gap from average multiplied by his attempts, not by his percentage alone. ([09-10](https://youtu.be/W-R1dzem32s?t=1120))
+In our league, FG% and FT% are team totals for the week: all makes divided by all attempts. A player who takes many shots moves that ratio a lot. A player who takes few barely moves it. Good efficiency on low volume does not matter much. When you rank shooters before the auction, read attempts per game next to the percentage. Never read the percentage alone. ([09-10](https://youtu.be/W-R1dzem32s?t=1120))
 
-Here is an example. A center who makes 72 percent of a few shots a game helps you less than a big man who makes 57 percent on 18 attempts. In the same way, a 41 percent foul shooter who takes 2 free throws a game does little harm, while a 64 percent shooter on 10 or more attempts sinks the category. Rate stats also have no floor. A bad volume shooter keeps pulling your team down every game he plays. ([09-10](https://youtu.be/W-R1dzem32s?t=1120), [07-16](https://youtu.be/-y6p5PYLf00?t=103))
+Shooting categories are rate stats with no floor. A high-volume bad shooter in your daily lineup keeps dragging the ratio down every night he plays. You can lose a category lead on the last day of a matchup. Check your FG% and FT% margins before the final day of each week. If a lead is narrow and you do not need a poor shooter's counting stats, consider benching him that day. ([07-16](https://youtu.be/-y6p5PYLf00?t=103))
 
 ## FT% is the least stable category
 
-Regress shooting percentages in your projections. Year-to-year correlations are 0.53 for two-point percentage, 0.52 for true shooting, 0.49 for free throw percentage and 0.45 for three-point percentage. FT% is now the least stable of the standard fantasy categories. FG% varies most from game to game and week to week. ([08-09](https://youtu.be/8d--aL_xxwE?t=1231), [10-01](https://youtu.be/aLP080hxizA?t=2135))
+Regress every shooting percentage in your projections. Year to year, two-point percentage correlates at 0.53, true shooting at 0.52, free throw percentage at 0.49 and three-point percentage at 0.45. Free throw percentage is now the least stable standard fantasy category. On draft day, do not pay extra for one season of unusually good free throw shooting. Do not write a player off for one bad season either. ([08-09](https://youtu.be/8d--aL_xxwE?t=1231))
 
-Surprise free throw swings in either direction usually fade and drift back toward the player's norm. You cannot predict them. So do not call a player a bad shooter as a fixed fact. Say how he shot last season. Only extreme cases, like Giannis at the free throw line, are close to certain. ([07-16](https://youtu.be/-y6p5PYLf00?t=2181), [07-16](https://youtu.be/-y6p5PYLf00?t=178))
+Free throw swings in either direction usually do not last. They drift back toward the player's norm, and you cannot predict them. A hot or cold free throw start in the first weeks is not, by itself, a reason to trade for or away a player before the 2027-03-04 deadline. Compare it with his usual level first. ([07-16](https://youtu.be/-y6p5PYLf00?t=2181))
 
-What to do at the auction: price FT% anchors and liabilities on their usual level, not on last season alone. Do not pay extra for a player whose FT% jumped. Do not write off one whose FT% dropped. During the season, do not spend FAB on a waiver player because of a hot free throw start. Do not drop a proven FT% anchor after a cold few weeks. ([08-09](https://youtu.be/8d--aL_xxwE?t=1231), [07-16](https://youtu.be/-y6p5PYLf00?t=2181))
+Describe a poor shooter by how he shot last season, not as a fixed fact. Only extreme cases are near certain. The notes name Giannis at the free throw line, projected at about 64% on over 10 attempts a game. That is high volume at a low rate, so a team built on him should plan to punt FT% rather than hope he improves. ([07-16](https://youtu.be/-y6p5PYLf00?t=178), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md))
 
-## Pick one percentage, not both
+The notes do not disagree, but they look at different time frames. One note says free throw percentage varies most from year to year. Field goal percentage varies most from game to game and week to week. So FT% is the shakiest category when you draft. FG% is the one more likely to swing in any single head-to-head week. ([10-01](https://youtu.be/aLP080hxizA?t=2135), [08-09](https://youtu.be/8d--aL_xxwE?t=1231))
 
-Being strong in both FG% and FT% is very hard. Barely winning both is fragile, and spending resources on both leaves you short in other categories. Decide before the 2026-10-18 auction which percentage you protect and which one you will give up. ([07-15](https://youtu.be/0geFVzSqOnA?t=1264))
+## Lean into one percentage, not both
 
-Most anchors here help one percentage and hurt the other. The tiers below mark each player as an FG% or FT% anchor or liability and, where it applies, as mixed. A punt FT% team can stack big men who are FG% anchors and FT% liabilities. A punt FG% team can stack volume guards whose FG% hurts but whose FT% helps. Ignore low-volume efficiency in either direction when you set prices. ([07-15](https://youtu.be/0geFVzSqOnA?t=1264), [09-10](https://youtu.be/W-R1dzem32s?t=1120))
+Being strong in both FG% and FT% is very hard. If you only barely win both, the edge is fragile, and the money you spend on it leaves you short in other categories. In our 200 USD auction, choose a side early. One option is high-volume FG% anchors, usually bigs, with a weak FT% you accept. The other is high-volume FT% guards and wings, with a weaker FG% you accept. Then stop paying for the category you have given up. ([07-15](https://youtu.be/0geFVzSqOnA?t=1264))
 
-Giannis is the clearest case. His FT% weakness on heavy volume is close to certain. If you buy him, commit to punting FT% and do not spend more money trying to save the category. ([07-16](https://youtu.be/-y6p5PYLf00?t=178), [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md))
+When you pass on a player because of his shooting, check his volume first. A poor free throw shooter on about 3 attempts a game does little damage. A poor field goal shooter on 17 to 20 attempts can sink the category on his own. ([09-10](https://youtu.be/W-R1dzem32s?t=1120), [07-16](https://youtu.be/-y6p5PYLf00?t=103))
 
-## Managing the weekly matchup
+## Low-volume weeks and our playoffs
 
-Percentages are not safe in low-volume weeks. With fewer attempts, each miss moves the ratio more, so results swing more. Check how many games your shooters play in each week, especially in playoff weeks 19 to 21. A two-game week for your key anchor makes the category less certain. ([10-01](https://youtu.be/aLP080hxizA?t=2135))
+Percentage categories are not safe in low-volume weeks. With fewer attempts, each miss moves the percentage more, so results swing more. Watch for weeks when your roster plays few games or injured players cut your attempts. In those weeks, do not count a percentage category as a sure win. Use your 6 weekly adds on categories you can control instead. ([10-01](https://youtu.be/aLP080hxizA?t=2135))
 
-Because shooting stats have no floor, you can lose a lead in FG% or FT% on the last day of a matchup. We set lineups daily. On the final day, if you hold a narrow lead in a percentage, think about benching a high-volume liability. First weigh what he would add in points, threes or assists. ([07-16](https://youtu.be/-y6p5PYLf00?t=103), [10-01](https://youtu.be/aLP080hxizA?t=2135))
+This matters most in playoff weeks 19, 20 and 21, which end Sunday 2027-03-28. A season-long FG% or FT% edge does not guarantee one playoff week. Check each player's games in those weeks. Keep the last-day rule in mind, because a single bad shooting night can flip a close ratio. ([10-01](https://youtu.be/aLP080hxizA?t=2135), [07-16](https://youtu.be/-y6p5PYLf00?t=103))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Two-way anchor
+### Two-way shooting anchor
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 67.0 | 3 | 72.7 | 81 | He is the rare player who lifts both FG% and FT% on big volume, so he fits any build. |
+| [Shai Gilgeous-Alexander](../profiles/players/shai-gilgeous-alexander.md) | OKC | G | 4 | 66.8 | 3 | 73.2 | 81 | He is projected at about 54% on 20 shots and 88% on 9 free throws, so he lifts both ratios on volume, though an off-ball role could pull his FG% toward 52%. |
 
-### FG% anchor
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 81.6 | 1 | 83.2 | 87 | About 57 percent on about 18 attempts makes him one of the biggest FG% movers, and FG% is not where he gives anything back. |
-| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 32 | 21.3 | 23 | 24.4 | 14 | About 66 percent on about 11 attempts lifts FG%, and his FT% does not hurt the way most centers' FT% does. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 26.0 | 32 | 38.7 | 41 | About 58 percent on 12 to 13 attempts makes FG% one of the two pillars of his value. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 72 | 3.9 | 51 | 7.5 | 13 | About 66 percent on high volume for a center gives a strong FG% lift, if he keeps his minutes next to Mobley. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.7 | 75 | 4.8 | 20 | About 62 percent on about 10 attempts lifts FG%, and his low free throw volume limits FT% damage. |
-| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 66 | 6.3 | 114 | 2.3 | 2 | Elite FG% on 9 to 10 attempts makes him a real FG% mover if his minutes hold. |
-| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 117 | 1.0 | 117 | 1.0 | 15 | An elite finisher projected around 66 percent who gives a big FG% boost but costs some FT%. |
-| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 130 | 1.0 | 115 | 0.6 | not drafted | About 69 percent projected helps FG%, but his volume depends on starting while Dallas centers are hurt. |
-
-### Mixed: FG% up, FT% down
+### Volume FG% anchors
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 60.8 | 19 | 64.1 | 62 | About 62 percent on 18 to 19 shots is elite, but about 64 percent on 10 to 11 free throws is the worst FT impact listed, so buy him only to punt FT%. |
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 81 | 2.9 | 94 | 6.8 | 21 | About 59 percent on about 15 shots is a big FG% lift, offset by about 70 percent on 7.6 free throws. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 38 | 18.2 | 48 | 8.9 | 15 | A strong FG% center whose FT% hurts, which makes him a natural punt FT% piece. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 78 | 5.1 | 56 | 5.5 | 10 | About 67 percent on 6 to 7 shots helps FG%, but 52.6 percent from the line last season was the second-worst FT impact listed. |
+| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 78.8 | 1 | 85.5 | 87 | About 57% on about 18 attempts a game makes him one of the biggest FG% lifts in the pool. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 62.0 | 19 | 64.3 | 62 | About 62% on about 19 shots lifts FG% a lot, but about 64% on over 10 free throws is the clearest FT% drag here, so build punt FT% around him. |
+| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 84 | 5.2 | 94 | 7.4 | 21 | About 59% on 14 to 15 shots helps FG% on real volume, while about 70% on 7.6 free throws hurts FT%, so he fits punt FT%. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 25.0 | 32 | 37.3 | 41 | About 58% on 12 to 13 attempts gives a high-volume FG% lift, and his FT% is weak. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 32 | 20.6 | 23 | 24.7 | 14 | About 65% on 11 attempts is elite FG% on volume, and his FT% does little harm for a center. |
 
-### FT% anchor
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 30 | 20.7 | 36 | 13.1 | 16 | About 89 percent on 5 to 6 attempts is strong FT% volume from a forward. |
-| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 31.7 | 42 | 21.1 | 25 | About 87 percent on 7.4 projected attempts makes him a real FT% mover. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 24 | 31.1 | 39 | 32.6 | 45 | About 88 percent on 7 to 8 attempts gives steady FT% volume. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 52 | 7.3 | 87 | 8.0 | 24 | 86 percent on 8 to 9 attempts is strong FT% from a center, but missed games leave empty weeks. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.7 | 34 | 24.6 | 42 | 92 to 93 percent is elite, though his 4.7 attempts limit how far he moves the ratio. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 3.8 | 70 | 6.2 | not drafted | About 92 percent on solid volume makes him a cheap FT% lift if his minutes hold. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 33 | 23.8 | 26 | 27.6 | 42 | Strong FT% on volume comes with weak FG%, so he fits a punt FG% build. |
-
-### FG% liability
+### Big-man FG% anchors
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 23 | 31.2 | 12 | 32.1 | 29 | About 41 percent on about 20 shots is one of the heaviest FG% drags, so he fits punt FG% builds. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 37.1 | 49 | 33.3 | 44 | About 42 percent on 17 projected shots hurts FG%, but his FT% helps a punt FG% team. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 122 | 1.9 | 103 | 2.0 | 9 | About 42 percent on 17 to 19 shots is a big FG% drag that only punt FG% builds can absorb. |
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 14.9 | 18 | 19.8 | 30 | Projected around 41 percent on about 14 shots, though his FT% helps a punt FG% team. |
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 150 | 1.0 | 74 | 2.3 | 1 | 39.4 percent projected FG hurts any team that keeps FG%, while his FT% helps a punt FG% build. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 38 | 17.0 | 48 | 9.9 | 15 | About 65% on 8 shots helps FG%, but a projected FT% near 59% (52% in 2024-25) makes him a punt FT% center. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 81 | 3.1 | 51 | 7.7 | 13 | He is projected at about 66% on 9 to 10 attempts, a strong FG% lift for a cheap center. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.6 | 75 | 6.0 | 20 | He shot 62% on about 10 attempts, and his low free throw volume of 2.8 attempts does little damage. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 80 | 5.0 | 56 | 6.0 | 10 | He is projected near 67% FG, but 52.6% from the line last season gave him the second-worst FT impact, so he belongs on punt FT% teams. |
+| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 71 | 5.0 | 114 | 3.2 | 2 | About 61% on 9 to 10 attempts gives real FG% help if his minutes rise. |
+| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 118 | 1.0 | 117 | 1.1 | 15 | About 66% on 7 to 8 shots helps FG%, while his roughly 62% FT is improving but still weak. |
+| [Daniel Gafford](../profiles/players/daniel-gafford.md) | DAL | C | 131 | 1.0 | 115 | 0.6 | not drafted | He is projected near 69% FG, but his volume depends on minutes while Lively is out. |
 
-### FT% liability
+### Volume FT% anchors
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 33.2 | 30 | 33.3 | 36 | About 69 percent on more than 5 attempts is a clear FT% drag that suits a punt FT% build. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 27.1 | 27 | 21.4 | 36 | About 61 percent last season with about 67 percent projected is his only real hole, and FT% instability could cut either way. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 73 | 2.6 | 79 | 3.3 | 16 | Free throws below 60 percent make him a clear punt FT% fit. |
-| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 110 | 1.9 | 121 | 1.1 | 4 | About 59 percent on only 3 attempts hurts FT% mildly, while his projected 59 percent FG helps. |
-| [RJ Barrett](../profiles/players/rj-barrett.md) | TOR | G,F | 132 | 1.1 | 139 | 1.6 | 1 | About 69 percent on 4 to 5 attempts makes him a last-dollar scorer for a punt FT% team only. |
-| [Jonathan Kuminga](../profiles/players/jonathan-kuminga.md) | MIN | F | 136 | 1.0 | 186 | 0.4 | 1 | About 69 percent on 3 to 4 attempts fits only a team that already ignores FT%. |
-| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 176 | 0.0 | 116 | 0.4 | not drafted | About 41 percent is very poor, but at 2 attempts the damage is small, so he is a waiver stream for punt FT%. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 29.1 | 42 | 23.5 | 25 | 87% on about 7.5 free throws a game is elite FT% on volume. |
+| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 24 | 31.1 | 39 | 30.4 | 45 | About 88% on 7 to 8 free throws a game gives a z-score of +2.7 in FT%. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 52 | 8.7 | 87 | 8.1 | 24 | About 86% on 8 to 9 free throws a game helps a lot, but only on the 49 to 54 nights he is projected to play. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 33 | 23.7 | 26 | 26.0 | 42 | He is projected at about 88% on 6 attempts, which suits a punt FG% guard core. |
+| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 30 | 21.4 | 36 | 13.9 | 16 | 89% on about 5.4 free throws a game, with no weak category that rules him out of a build. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.9 | 34 | 24.6 | 42 | Above 92% on about 5 attempts lifts FT%, but games played limit his total impact. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 63 | 3.5 | 70 | 6.6 | not drafted | About 92% on 5 to 6 free throws a game makes him a guard FT% anchor for punt FG% builds. |
+
+### Volume FG% liabilities
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 23 | 28.8 | 12 | 40.5 | 29 | About 41% on 19 to 20 shots is the heaviest FG% drag here, so he fits only punt FG% or punt TO teams. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 35.3 | 49 | 31.3 | 44 | About 42% on 17 projected attempts hurts FG% on volume, so pair him with a punt FG% build. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 122 | 1.6 | 103 | 2.4 | 9 | About 42% on 17 to 19 attempts drags FG%, and his FT% also needs to climb back toward 80%. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 13.0 | 18 | 20.2 | 30 | He is projected at about 41% on about 14 attempts, a real FG% cost that suits punt FG%. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 129 | 1.2 | 74 | 2.8 | 1 | His FG% is poor, worst on twos, but his 84.7% FT fits a punt FG% guard core. |
+
+### FT% liabilities
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 33.4 | 30 | 32.5 | 36 | About 69% on 5 to 6 free throws a game is a moderate FT% drag, and he fits punt FT% builds. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 26.7 | 27 | 21.9 | 36 | He is projected near 66% on 4.6 attempts after 60.6% last season, so check whether he gets back toward 70%. |
+| [RJ Barrett](../profiles/players/rj-barrett.md) | TOR | G,F | 134 | 1.4 | 139 | 1.8 | 1 | A projected 68.7% on about 4.6 free throws hurts FT% without much category help elsewhere. |
+
+### Low-volume FT% liabilities
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 67 | 3.1 | 79 | 3.8 | 16 | About 58% to 59% on close to 3 attempts is weak but low volume, so the damage is limited on punt FT% teams. |
+| [Nic Claxton](../profiles/players/nic-claxton.md) | CHI | C | 110 | 1.6 | 121 | 1.1 | 4 | About 59% on about 3 attempts costs little because of the low volume. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 173 | 0.0 | 116 | 0.6 | not drafted | About 41% on about 2 attempts is extreme but low volume, and his projected 70% FG suits only punt FT% teams. |
+| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 170 | - | 125 | 0.5 | not drafted | Under 50% from the line comes on low volume, while 67% shooting as a starter could help FG%. |
 
 ### Waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 115 | 1.0 | 170 | 0.2 | not drafted | About 61 percent FT projected and a foot injury make him a waiver option for punt FT% after he returns. |
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 183 | - | 144 | 0.1 | 3 | About 72 percent projected comes on low volume and after a broken foot, so watch waivers rather than bid. |
-| [Oso Ighodaro](../profiles/players/oso-ighodaro.md) | PHX | C | 178 | - | 125 | 0.5 | not drafted | About 48.6 percent FT projected is a heavy drag, so consider him only for punt FT% if he gets big minutes. |
+| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 212 | - | 144 | 0.2 | 3 | His projected 72% FG makes him a FAB target for FG% only if he wins the starting job after his foot injury. |
+| [Jusuf Nurkić](../profiles/players/jusuf-nurkic.md) | UTA | C | 159 | 1.0 | 170 | 0.1 | not drafted | His projected 61.6% FT makes him a punt FT% waiver option only if he regains the starting job after his foot injury. |
+| [Mark Williams](../profiles/players/mark-williams.md) | PHX | C | 221 | 4.3 | 313 | 0.0 | 9 | About 63% on 8 attempts could help FG% in our playoffs only if he returns healthy in March. |
 
-<details><summary>Left out</summary>
-
-- Mark Williams: Out with a torn labrum until about mid to late March, so at best he returns for the last playoff week as a backup and cannot move our team percentages this season.
-
-</details>
-
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

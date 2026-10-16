@@ -28,21 +28,18 @@
 </details>
 
 **Current**
-- Brooklyn is projected as one of the worst teams, at about 28 wins. Houston controls its pick, so the Nets have no reason to tank. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043), [07-13](https://youtu.be/Rqb5GdrSweY?t=622))
-- Brooklyn's projected depth chart has him in the bench rotation. Mikel Brown Jr. and Egor Demin are the projected starting guards. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=287), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- Second-half minutes are uncertain. The young players the expert expects to gain minutes are Brown, Demin, Clowney and Minott, not Traore. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
-- Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, it plays 3-4-3 games in our playoff weeks, which is 10 games with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- Coach Jordi Fernandez wants several ball handlers and connective playmakers instead of one traditional point guard. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1120))
-- Brooklyn drafted a point guard at pick 6 and added Julius Randle, who is expected to handle the ball a lot. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690), [06-25](https://youtu.be/lOshTzDA4SA?t=1160))
-- He will handle the ball less and has to fight for bench ball-handling minutes. The expert sees no real shot at fantasy value. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
+- He is projected to come off the bench as a rotation player. The projected Brooklyn starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=287), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- Brooklyn drafted a point guard at pick 6 and traded for Julius Randle. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385), [06-23](https://youtu.be/9tb1ARBEmQU?t=690))
+- Randle is expected to handle the ball a lot, so Traore will handle it less. He will have to fight for bench ball-handling minutes. (verdict, 2026-06-25; [06-23](https://youtu.be/9tb1ARBEmQU?t=690), [06-25](https://youtu.be/lOshTzDA4SA?t=1160), [06-25](https://youtu.be/lOshTzDA4SA?t=1385))
+- He has no real shot at fantasy value this season. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1385))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `role down` (started a big chunk of last season, now projected for the bench), `minutes competition` (fights for bench ball-handling minutes behind Brown Jr. and Demin), `usage competition` (Randle handles the ball a lot), `shared ball handling` (Fernandez wants multiple ball handlers), `bottom team` (about 28 wins projected), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3, only 10 games in weeks 19 to 21)
+- Current: `role down` (Started much of last season. Now projected as a bench rotation player behind Brown and Demin.), `minutes competition` (Fights the pick-6 rookie point guard for bench ball-handling minutes.), `usage competition` (Julius Randle will handle the ball a lot.), `shared ball handling` (Coach Jordi Fernandez wants multiple ball handlers, not one traditional point guard.)
 - Durable: none
 
-**Note.** Do not draft him in our league. He is ranked 380 on Yahoo and 244 on ESPN, both sites value him at 0 USD, and that is far outside our 144-player pool. His projected line (about 41% FG on 9 shots, 2.3 TO, 4.0 AST) helps no build, and as a bench guard behind Brown Jr. and Demin he will see less of the ball. Only look at him on waivers if Brown Jr. or Demin misses time early in the season.
+**Note.** He is not a draft target in our 144-player auction. Both sites give him a value of 0 USD, he ranks 380 on Yahoo and 244 on ESPN, and the experts see no real path to fantasy value. Last season he shot 38.0% on 8.6 attempts and had 2.3 TO in 22 minutes, with only 3.8 assists, so even a bigger role would hurt FG% and TO. Leave him on waivers and check early whether he holds bench ball-handling minutes against the rookie point guard.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

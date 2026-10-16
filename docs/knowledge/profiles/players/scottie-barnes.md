@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 42 | 46.3 | 15 | 48 | 44.3 | 13 | 31 |
+| 2026-27 | 42 | 47.0 | 15 | 48 | 43.0 | 13 | 31 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,37 +20,34 @@
 | FG% | 48.3% | +0.1 | -0.3 | - |
 | FT% | 79.2% | -0.0 | +0.4 | - |
 | 3PM | 1.1 | -0.5 | -0.1 | - |
-| PTS | 19.0 | +0.9 | +1.0 | - |
+| PTS | 19.0 | +0.8 | +1.0 | - |
 | REB | 7.7 | +1.1 | +0.6 | - |
 | AST | 5.5 | +1.2 | +2.0 | - |
 | STL | 1.4 | +1.5 | +2.0 | - |
-| BLK | 1.3 | +1.5 | +1.0 | - |
+| BLK | 1.3 | +1.5 | +1.1 | - |
 | TO | 2.7 | -1.5 | -1.8 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- He went for 35 USD in a mock auction. The expert expected a price above 30 USD and called 35 USD about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1491))
-- Toronto swapped Brandon Ingram for Kawhi Leonard. Kawhi is the better player and uses more possessions than Ingram did. (fact, 2026-09-19; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473), [09-19](https://youtu.be/uarqbNA2dFk?t=1716))
-- Most experts doubt a big step forward this season, because Kawhi Leonard now takes usage that could have gone to Barnes. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [09-10](https://youtu.be/dlo7L8Ru91A?t=450), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- Experts place him around 12th to 17th overall in 9-cat. They call ESPN's rank of 10 too high, and one expert passed on him at pick 10. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [09-10](https://youtu.be/dlo7L8Ru91A?t=450), [08-19](https://youtu.be/J1Eg3uaAICU?t=660), [08-16](https://youtu.be/gf_6GveiAls?t=1509))
-- An ADP in the 30s is too late for him. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2266))
-- He is a projected starter with Quickley, Barrett, Leonard and Poeltl, and part of the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Toronto is projected to win about 52 games. The roster is thin after a solid top seven. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), [08-20](https://youtu.be/s28HvC2grAk?t=2004))
-- The Raptors have 15 back-to-backs, three of them in the playoff weeks. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He should not lose many touches next to Kawhi, because his value comes from facilitation rather than usage. (verdict, 2026-06-30; [06-30](https://youtu.be/JMSLg6yz-M0?t=304))
+- Most experts doubt he takes a big step forward next to Leonard. They see him as about a top 17 to 18 player in categories and call picks 9 to 14 too high. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=398), [10-12](https://youtu.be/w66x_I_MaQ8?t=465), [10-10](https://youtu.be/hviT4hzYNME?t=462), [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-14](https://youtu.be/t4n9MAP2_14?t=346), [09-14](https://youtu.be/LM0cRCGoAUQ?t=495), [09-10](https://youtu.be/dlo7L8Ru91A?t=450), [08-16](https://youtu.be/gf_6GveiAls?t=1509), [08-19](https://youtu.be/J1Eg3uaAICU?t=660))
+- In an auction mock he went for 35 USD, which the expert called about right. An ESPN ADP of 31 is too late for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1491), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2266))
+- He is a round two option next to Giannis Antetokounmpo in a punt FT% build. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2197))
+- Toronto added Kawhi Leonard in a trade that sent out Brandon Ingram. Leonard is the better player and uses more possessions. (fact, 2026-09-19; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473), [09-19](https://youtu.be/uarqbNA2dFk?t=1716), [09-16](https://youtu.be/2A2JbUN-kc0?t=2139), [09-10](https://youtu.be/dlo7L8Ru91A?t=450))
+- He is a projected starter with Quickley, Barrett, Leonard and Poeltl. He is also in the expected closing five, a small and switchable group. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Toronto is projected to win about 52 games and could be a top four team in the East. The roster is thin after the top seven. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), [08-20](https://youtu.be/s28HvC2grAk?t=2004), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
+- Toronto has 15 back-to-backs, three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**
-- His shooting is a question mark, and he makes few threes. (verdict, 2026-10-05; [08-20](https://youtu.be/s28HvC2grAk?t=632), stats)
-- He fills many categories. He has guard-like assists for a forward or center, plus strong steals, blocks and rebounds. (fact, 2026-10-05; stats)
-- Turnovers are his weak category for his position. (fact, 2026-10-05; stats)
-- He is a second-round option next to Giannis in a punt FT% build. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2197))
-- He is one of the best help rim protectors in the league and anchors the Toronto defense. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=876))
+- He is a multi-category forward. His assists, steals and blocks are well above the pool, and his assists are rare for a frontcourt player. (fact, 2026-10-16; stats)
+- Turnovers are his weak category, high for his position. (fact, 2026-10-16; stats)
+- He is one of the best help rim protectors in the league and anchors Toronto's defense. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=876))
+- His shooting is a question mark. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=632))
 
 **Tags**
-- Current: `usage competition` (Kawhi Leonard replaces Brandon Ingram and uses more possessions), `winning team` (About 52 wins projected), `thin rotation` (Little depth after the top seven), `sites disagree on price` (ESPN value 55 USD and rank 10, Yahoo value 42 USD and rank 15)
-- Durable: `AST from a big` (About 5.5 assists projected as an F/C), `punt TO fit` (About 2.7 turnovers per game), `Giannis build fit` (Second-round option next to Giannis)
+- Current: `usage competition` (Kawhi Leonard arrives and uses more possessions), `bad playoff schedule` (Three Toronto back-to-backs in the fantasy playoffs), `winning team` (About 52 wins projected), `thin rotation` (Not deep after a solid top seven), `small-ball lineups` (Small, switchable closing five)
+- Durable: `AST from a big` (About 5.5 assists projected as an F/C), `punt TO fit` (About 2.7 turnovers per game), `elite defender` (One of the best help rim protectors in the league), `Giannis build fit` (Round two option next to Giannis), `category league player` (Called a category-league pick; too high at 12 in points leagues)
 
-**Note.** Experts see him as a 12th to 17th overall pick in 9-cat, not a top 10 player. Plan around a price between our league's 31 USD from last season and the 35 USD mock result, and not the 42 to 55 USD site values. He fits punt TO builds and Giannis punt FT% builds best, because his assists, steals and blocks are rare for an F/C. Early in the season, check whether his assists and shot volume hold up next to Kawhi Leonard.
+**Note.** Yahoo (42 USD value, 47 average cost) and ESPN (48 value, 43 cost) price him well above the 31 USD he cost in our league last season, and the experts think ranks 13 to 15 are a bit too high with Kawhi Leonard taking possessions. A fair price for us is around 35 to 40 USD. His assists from the frontcourt, steals and blocks fit most builds, including punt TO and punt FT% next to Giannis. Early in the season, check whether his usage and assists hold up next to Leonard, and plan for three Toronto back-to-backs in the playoff weeks.
 
-<sub>18 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

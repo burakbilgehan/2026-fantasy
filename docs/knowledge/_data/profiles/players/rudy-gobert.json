@@ -8,92 +8,79 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d56892e7b684",
- "note_count": 16,
- "built_at": "2026-10-11T09:23:05+00:00",
+ "input_sha": "c9bcd6d45107",
+ "note_count": 17,
+ "built_at": "2026-10-16T09:15:20+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21433419999999997,
-  "duration_ms": 56205,
+  "cost_usd_list": 0.2317942,
+  "duration_ms": 62599,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Minnesota traded Naz Reid and Julius Randle, and its big man depth is very thin. The only other bigs are Joan Beringer, Lyles, Freeman and Rocco Zikarsky, and Beringer may not be ready.",
+   "text": "Minnesota traded Naz Reid and Julius Randle and signed Jonathan Kuminga, who is a poor rebounder. The only bigs on the roster are Gobert, Joan Beringer, Lyles, Freeman and Rocco Zikarsky.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t4",
+    "cFV24VgxyCY:t0",
+    "n4KkK-OJjqA:p47",
+    "2mxpEpGU3H8:t0",
+    "gerS7ibpaJo:t3"
+   ]
+  },
+  {
+   "text": "Minnesota may start three guards with a poor-rebounding power forward, so the starting group has little size.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t0",
-    "cFV24VgxyCY:t4",
-    "n4KkK-OJjqA:p47",
-    "gerS7ibpaJo:t3",
-    "RyzcCGChYgs:t1"
+    "ZYllcj4o6_A:t5",
+    "2mxpEpGU3H8:t2"
    ]
   },
   {
-   "text": "With little depth behind him, he should get more minutes and rebounds. No backup is seen cutting into his playing time.",
+   "text": "With so little big man depth, he should get more minutes and rebounds. Backup Joan Beringer may not be ready, and no backup looks able to cut into his playing time.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p9",
-    "BiIZsSypx7Y:p42",
-    "n4KkK-OJjqA:p47"
-   ]
-  },
-  {
-   "text": "Minnesota added LaMelo Ball and Jonathan Kuminga. Kuminga is a poor rebounder, and both are poor defenders.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
     "n4KkK-OJjqA:p47",
-    "sTtFUy7IoJI:p18",
-    "2mxpEpGU3H8:p9"
+    "BiIZsSypx7Y:p42"
    ]
   },
   {
-   "text": "Ball should help him: lobs to Gobert are a plus, and his usage could go up slightly. He will also have to cover more on defense for Ball and Kuminga.",
+   "text": "His usage could go up slightly with LaMelo Ball throwing him lobs.",
    "kind": "verdict",
    "date": "2026-09-19",
    "until": "",
    "sources": [
     "2mxpEpGU3H8:p9",
-    "uarqbNA2dFk:p15",
+    "uarqbNA2dFk:p15"
+   ]
+  },
+  {
+   "text": "He will have to cover on defense for Kuminga and Ball, who are poor defenders.",
+   "kind": "verdict",
+   "date": "2026-08-26",
+   "until": "",
+   "sources": [
     "sTtFUy7IoJI:p18"
    ]
   },
   {
-   "text": "Rank him around 75 in category leagues and around 60 in points leagues. ESPN's rank of 55 is too high. He is better value than Donovan Clingan, who goes in the 40s.",
-   "kind": "verdict",
-   "date": "2026-10-09",
+   "text": "Gobert is one of four set starters with Ball, Edwards and McDaniels. Coach Finch rarely changes starters unless someone is hurt.",
+   "kind": "fact",
+   "date": "2026-08-19",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p9",
-    "cFV24VgxyCY:p11",
-    "n4KkK-OJjqA:p47"
-   ]
-  },
-  {
-   "text": "His range is tight for a round-six pick: best case about 59th, worst case about 116th.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p14"
-   ]
-  },
-  {
-   "text": "Experts disagree on how much age will cost him. One expects some loss of blocks, FG% and usage. Another expects only small drops in minutes and games, with double-digit rebounds, about two blocks and FG% above 60%.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p15",
-    "t4n9MAP2_14:p34"
+    "2mxpEpGU3H8:t1"
    ]
   },
   {
@@ -115,20 +102,7 @@
    ]
   },
   {
-   "text": "Minnesota's fantasy playoff schedule is 4, 2, 4 games, so the semifinal week (starting March 15) has only two games. The team has the league minimum of 13 back-to-backs.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:t5",
-    "gf_6GveiAls:t14",
-    "2mxpEpGU3H8:t4",
-    "J1Eg3uaAICU:t0",
-    "QbdrhJd7LiA:t4"
-   ]
-  },
-  {
-   "text": "Minnesota is expected to compete, with one prediction of 53 wins, so it should not rest players to tank.",
+   "text": "Minnesota is expected to compete, with one prediction of 53 wins, so tank rest is unlikely.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -138,55 +112,69 @@
    ]
   },
   {
-   "text": "Yahoo lists him as questionable (rest).",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "Rank him around 75 to 80 in category leagues. ESPN's rank in the mid 50s is too high. He has limited upside but his utility is fine.",
+   "kind": "verdict",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "stats"
+    "w66x_I_MaQ8:p31",
+    "cFV24VgxyCY:p9"
+   ]
+  },
+  {
+   "text": "He is decent value compared with Donovan Clingan, who goes far earlier.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p11",
+    "E-KmhvyZ2CU:p17",
+    "t4n9MAP2_14:p34"
+   ]
+  },
+  {
+   "text": "Experts disagree on his age decline this season. One expects small declines only, with double-digit rebounds, about two blocks and 60%+ FG. Another thinks he may lose blocks, FG% and usage.",
+   "kind": "verdict",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p34",
+    "uarqbNA2dFk:p15"
+   ]
+  },
+  {
+   "text": "With playoffs ending March 28, Minnesota plays 4, 2 and 4 games in weeks 19 to 21. The two-game week is the semifinal, the week starting March 15.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "gf_6GveiAls:t14",
+    "2mxpEpGU3H8:t4",
+    "EogBYa24Gto:t3",
+    "J1Eg3uaAICU:t0",
+    "QbdrhJd7LiA:t4"
+   ]
+  },
+  {
+   "text": "Minnesota has 13 back-to-backs, the league minimum.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a strong FG% and rebounds source with good blocks. He gives few assists and little scoring.",
+   "text": "He gives elite FG% on solid volume, plus big rebounds and blocks.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p10",
     "E-KmhvyZ2CU:p17",
-    "stats"
-   ]
-  },
-  {
-   "text": "His free throw shooting is very poor. He shot 52.6% last season, the second-worst FT impact in the league.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p10",
-    "ME-r173X5b0:p40",
-    "8d--aL_xxwE:p11",
-    "-y6p5PYLf00:p38"
-   ]
-  },
-  {
-   "text": "His poor FT% barely matters for managers who punt FT%.",
-   "kind": "verdict",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p38"
-   ]
-  },
-  {
-   "text": "He does not shoot from outside and makes no threes.",
-   "kind": "fact",
-   "date": "2026-08-19",
-   "until": "",
-   "sources": [
-    "2mxpEpGU3H8:p10",
     "stats"
    ]
   },
@@ -200,6 +188,38 @@
    ]
   },
   {
+   "text": "His free throw shooting is horrendous. He shot 52.6% last season, the second-worst FT impact in the league.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p10",
+    "ME-r173X5b0:p40",
+    "8d--aL_xxwE:p11",
+    "-y6p5PYLf00:p38"
+   ]
+  },
+  {
+   "text": "His poor FT% barely matters to managers who punt FT%.",
+   "kind": "verdict",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p38"
+   ]
+  },
+  {
+   "text": "He does not shoot from outside and makes no threes. He adds few assists and scores little.",
+   "kind": "fact",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p10",
+    "cFV24VgxyCY:p10",
+    "stats"
+   ]
+  },
+  {
    "text": "He is an elite defender, a great screener and offensive rebounder, and durable.",
    "kind": "verdict",
    "date": "2026-08-19",
@@ -209,7 +229,7 @@
    ]
   },
   {
-   "text": "He is 34.",
+   "text": "He is 34 years old.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -217,17 +237,27 @@
     "cFV24VgxyCY:p10",
     "2mxpEpGU3H8:p11"
    ]
+  },
+  {
+   "text": "He is worth more in points leagues than in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p9",
+    "n4KkK-OJjqA:p47"
+   ]
   }
  ],
  "tags": [
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 67% FG on 6 to 7 attempts",
+   "detail": "About 67% FG projected",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p10",
-    "stats"
+    "stats",
+    "cFV24VgxyCY:p10"
    ],
    "new_meaning": ""
   },
@@ -237,9 +267,8 @@
    "detail": "About 11 rebounds per game",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p10",
-    "E-KmhvyZ2CU:p17",
-    "stats"
+    "stats",
+    "ME-r173X5b0:p40"
    ],
    "new_meaning": ""
   },
@@ -249,42 +278,41 @@
    "detail": "About 1.6 blocks, under 2 in three of the last four seasons",
    "until": "",
    "sources": [
-    "E-KmhvyZ2CU:p17",
-    "stats"
+    "stats",
+    "cFV24VgxyCY:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "52.6% last season, second-worst FT impact",
+   "detail": "52.6% FT last season, second-worst FT impact",
    "until": "",
    "sources": [
-    "ME-r173X5b0:p40",
-    "cFV24VgxyCY:p10",
-    "stats"
+    "stats",
+    "ME-r173X5b0:p40"
    ],
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "",
+   "detail": "Does not shoot from outside",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p10",
-    "stats"
+    "stats",
+    "2mxpEpGU3H8:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "Poor FT% barely matters in punt FT",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p38",
-    "stats"
+    "stats",
+    "-y6p5PYLf00:p38"
    ],
    "new_meaning": ""
   },
@@ -301,7 +329,7 @@
   {
    "name": "Giannis build fit",
    "channel": "durable",
-   "detail": "Taken in a Giannis mock draft for rebounds, FG% and blocks",
+   "detail": "Taken in a Giannis punt FT mock for rebounds, FG% and blocks",
    "until": "",
    "sources": [
     "E-KmhvyZ2CU:p17",
@@ -310,9 +338,19 @@
    "new_meaning": ""
   },
   {
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "Called a walking top 10 defense",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "plays every game",
    "channel": "durable",
-   "detail": "",
+   "detail": "Called durable; 72 to 76 games in each of the last three seasons",
    "until": "",
    "sources": [
     "2mxpEpGU3H8:p10",
@@ -323,7 +361,7 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "34 years old",
+   "detail": "Age 34; may lose blocks, FG% and usage",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p10",
@@ -335,7 +373,7 @@
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "About 60 in points leagues vs about 75 in categories",
+   "detail": "Ranked about 60 in points and 75 in categories",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p9",
@@ -346,7 +384,7 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Thin frontcourt could mean more minutes and rebounds",
+   "detail": "Thin big man depth after Reid and Randle left; more minutes and rebounds",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p9",
@@ -358,7 +396,7 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Could be traded if the season goes badly",
+   "detail": "Extension eligible; could be traded if the season goes badly",
    "until": "",
    "sources": [
     "2mxpEpGU3H8:p11"
@@ -366,19 +404,20 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo Q (Rest)",
+   "detail": "ESPN rank 56 vs Yahoo rank 80; ESPN rank called too high",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "cFV24VgxyCY:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 2, 4 games; two-game semifinal week",
+   "detail": "4, 2, 4 games; two-game semifinal week starting March 15",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
@@ -390,7 +429,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "League minimum 13",
+   "detail": "13 back-to-backs, league minimum",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5"
@@ -398,20 +437,9 @@
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Very thin big man depth",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:t0",
-    "2mxpEpGU3H8:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "small-ball lineups",
    "channel": "current",
-   "detail": "",
+   "detail": "Three guards and a poor-rebounding four may start",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t0",
@@ -420,37 +448,47 @@
    "new_meaning": ""
   },
   {
-   "name": "winning team",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "One prediction of 53 wins",
+   "detail": "Only bigs: Gobert, Beringer, Lyles, Freeman, Zikarsky",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t3",
-    "Rqb5GdrSweY:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "low shutdown risk",
-   "channel": "current",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "Rqb5GdrSweY:t8"
+    "cFV24VgxyCY:t4",
+    "2mxpEpGU3H8:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "stable starters",
    "channel": "durable",
-   "detail": "Finch rarely changes starters unless someone is hurt",
+   "detail": "Finch rarely changes starters; Gobert is a set starter",
    "until": "",
    "sources": [
     "2mxpEpGU3H8:t1"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "53 wins predicted",
+   "until": "",
+   "sources": [
+    "2mxpEpGU3H8:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Competitive team, no tank rest expected",
+   "until": "",
+   "sources": [
+    "Rqb5GdrSweY:t8"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Gobert is a cheap source of FG%, rebounds and blocks. Yahoo values him at 12 USD but managers pay only about 5 USD on Yahoo and ESPN, and he went for 10 USD in our league last season, so 8 to 12 USD is a fair target. Experts put him around 75 in category leagues. He fits punt FT% and punt 3PM builds best, because his roughly 53 to 60% FT shooting hurts any other team. Early in the season, check whether the thin frontcourt gives him more minutes and rebounds. Also keep in mind the two-game semifinal week before you rely on him in the playoffs.",
+ "note": "Gobert's market price is low: Yahoo value 12 USD with a 5 USD average cost, ESPN value 8 USD with a 6 USD average cost, and he went for 10 USD in our league last season. Expert ranks of 75 to 80 suit a bid of about 8 to 12 USD for his FG%, rebounds and blocks, and he fits best in a punt FT% build, where his 52.6% FT shooting costs nothing. Early in the season, check that he plays more minutes with little big man depth behind him and that his blocks hold near 2 at age 34. Plan around the two-game semifinal week (week 20).",
  "rejected": []
 }

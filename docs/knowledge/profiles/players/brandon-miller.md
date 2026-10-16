@@ -4,14 +4,14 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 68 | 34.0 | 43.3 (17.9) | 88.5 (3.7) | 3.5 | 22.3 | 5.4 | 3.7 | 1.1 | 0.7 | 2.8 |
-| 2026-27 proj, Yahoo | 68 | - | 43.3 (17.5) | 87.5 (5.0) | 3.4 | 22.9 | 5.2 | 4.0 | 1.0 | 0.7 | 2.6 |
+| 2026-27 proj, Yahoo | 68 | - | 43.3 (17.5) | 87.5 (5.0) | 3.4 | 22.9 | 4.6 | 4.0 | 1.2 | 0.7 | 2.6 |
 | 2025-26 | 65 | 30.3 | 43.5 (16.1) | 89.2 (3.4) | 3.1 | 20.2 | 4.9 | 3.3 | 1.0 | 0.7 | 2.5 |
 | 2024-25 | 27 | 34.3 | 40.3 (18.2) | 86.1 (2.9) | 3.9 | 21.0 | 4.9 | 3.6 | 1.1 | 0.7 | 2.8 |
 | 2023-24 | 74 | 32.2 | 44.0 (14.6) | 82.7 (2.3) | 2.5 | 17.3 | 4.3 | 2.4 | 0.9 | 0.6 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 26 | 19.3 | 35 | 9 | 8.7 | 55 | 20 |
+| 2026-27 | 26 | 21.2 | 35 | 9 | 9.5 | 55 | 20 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,44 +19,45 @@
 |---|---|---|---|---|
 | FG% | 43.3% | -1.5 | -1.7 | weak for his position (punt fit) |
 | FT% | 87.9% | +1.5 | +1.7 | - |
-| 3PM | 3.4 | +2.2 | +2.6 | league outlier, strong |
+| 3PM | 3.4 | +2.1 | +2.6 | league outlier, strong |
 | PTS | 22.6 | +1.5 | +1.6 | - |
-| REB | 5.3 | +0.1 | +0.1 | - |
+| REB | 5.0 | -0.0 | -0.1 | - |
 | AST | 3.8 | +0.3 | +0.8 | - |
-| STL | 1.1 | +0.4 | +0.5 | - |
-| BLK | 0.7 | +0.2 | +0.3 | - |
+| STL | 1.1 | +0.6 | +0.7 | - |
+| BLK | 0.7 | +0.2 | +0.4 | - |
 | TO | 2.7 | -1.4 | -1.7 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt. Miller is the last healthy main player in Charlotte. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575))
-- While White is out, expect high volume, big minutes and more playmaking early in the season. His shooting may suffer. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=905), [10-08](https://youtu.be/6DnRWahYrFA?t=1275))
-- In an auction mock draft he was one of Josh's targets, and Josh bought him for 26 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2653))
-- He had no shoulder restrictions heading into training camp. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=244))
-- Experts see him as a clear third-round pick in category leagues. They call an ADP in the mid-40s too late, and an ESPN ADP near 107 far too late. A top-30 season is possible. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=244), [10-04](https://youtu.be/n4KkK-OJjqA?t=924), [09-24](https://youtu.be/_vbAP5y182A?t=729), [09-17](https://youtu.be/ahNxsoU8Hx4?t=526), [09-17](https://youtu.be/ahNxsoU8Hx4?t=550), [09-27](https://youtu.be/CRLSsoGhb2w?t=501), [08-11](https://youtu.be/OdDkXFhoKsc?t=1066), [09-30](https://youtu.be/BjXP9JODDSg?t=748))
-- Experts expect his usage to rise to about 29 or 30 percent, with more creation and more assists, though his efficiency may drop. (verdict, 2026-09-27; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1230), [09-27](https://youtu.be/CRLSsoGhb2w?t=509), [06-30](https://youtu.be/4GDfg2n2l8o?t=259))
-- He is a projected starter next to White, Knueppel, Reid and Diabaté. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- Charlotte has no single primary creator. Ball handling is expected to be split among White, Knueppel and Miller. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
-- With a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- LaMelo Ball was traded to Minnesota and Miles Bridges to Phoenix, so Charlotte's lead creation role is open. (fact, 2026-09-22; [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-30](https://youtu.be/4GDfg2n2l8o?t=178), [09-22](https://youtu.be/QbdrhJd7LiA?t=582))
-- Some improvement in his fourth season is expected but not guaranteed. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=785))
-- Charlotte's two-game week starting March 1 should not change decisions about him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1383), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
-- Charlotte is leaning fully into floor spacing and plans to take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
-- He could become a four-threes-a-game player in the new Charlotte setup. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=552))
+- Experts value him as a late round 2 to round 3 pick in 9-cat, around picks 25 to 34, and a top 30 season is possible. Mock drafters took him at 25 and 34 and called 28 to 30 a good spot. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=569), [10-13](https://youtu.be/DzQXaC2rsac?t=660), [10-12](https://youtu.be/w66x_I_MaQ8?t=568), [10-12](https://youtu.be/ENizLoE6pzI?t=693), [10-11](https://youtu.be/uI6umXsE7Vk?t=651), [10-04](https://youtu.be/n4KkK-OJjqA?t=244), [10-04](https://youtu.be/n4KkK-OJjqA?t=924))
+- His preseason injury flag is not a worry. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=651))
+- Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt, so Miller is the last healthy main player in Charlotte. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-08](https://youtu.be/6DnRWahYrFA?t=1269))
+- While White is out, Miller should get a high workload, big minutes and more playmaking, though he may shoot poorly. (verdict, 2026-10-08, until Coby White returns; [10-08](https://youtu.be/6DnRWahYrFA?t=1275), [10-08](https://youtu.be/WXO8MfQfzo0?t=905))
+- Josh named him a target in an auction mock and bought him for 26 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2653))
+- He had shoulder surgery after last season and had no shoulder restrictions heading into training camp. (fact, 2026-10-04; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [10-04](https://youtu.be/n4KkK-OJjqA?t=244))
+- Experts expect Miller to take on more of the creation role without LaMelo Ball. They see his usage rising from about 28 to 29 or 30, with more assists and possibly lower efficiency. (verdict, 2026-09-27; [06-25](https://youtu.be/ya2VYRJ1BN0?t=1230), [06-30](https://youtu.be/4GDfg2n2l8o?t=259), [09-27](https://youtu.be/CRLSsoGhb2w?t=509))
+- He is a projected starter for Charlotte with White, Knueppel, Reid and Diabaté. Ball handling is split among White, Knueppel and Miller, with no single primary creator. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
+- For a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Charlotte traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix, which leaves a lot of usage open. (fact, 2026-09-22; [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-30](https://youtu.be/4GDfg2n2l8o?t=178), [09-22](https://youtu.be/QbdrhJd7LiA?t=582), [07-13](https://youtu.be/Rqb5GdrSweY?t=1924))
+- Experts call his market price too low, especially on ESPN, where an ADP of 107 is called 'bonkers'. Going at pick 49 is called way too late. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=550), [08-11](https://youtu.be/OdDkXFhoKsc?t=1066), [10-04](https://youtu.be/n4KkK-OJjqA?t=244))
+- He should improve on last season, but that is not guaranteed. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=785))
+- Charlotte's two-game week starting March 1 falls before our playoffs and should not factor into decisions about him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1343), [08-16](https://youtu.be/gf_6GveiAls?t=1383))
+- Charlotte takes many threes and spaces the floor. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
+- He could become a four-threes-a-game player in the new Charlotte situation. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=552))
 
 **Durable**
-- Threes are his standout category. He makes far more than the pool, and even more so for a forward. (fact, 2026-10-11; stats)
-- His turnovers are high for a forward. (fact, 2026-10-11; stats)
-- Lloyd values him more in category leagues than in ESPN points leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1259))
-- He had shoulder surgery after the 2025-26 season. He gets injured often. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1761), [07-21](https://youtu.be/EB1Z_6n56-o?t=1402))
-- He is not a strong FG% player. His FG% on high volume is weak for a forward. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=510), stats)
+- Threes made are his standout category, far above the pool and very high for a forward. (fact, 2026-10-16; stats)
+- He is not a strong FG% player, and his FG% is weak for a forward on high volume. (fact, 2026-10-16; [09-27](https://youtu.be/CRLSsoGhb2w?t=510), stats)
+- He commits many turnovers for a forward. (fact, 2026-10-16; stats)
+- He is worth more in category leagues than in ESPN points leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1259))
+- He gets injured often. He had shoulder surgery after the 2025-26 season. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=1402), [09-27](https://youtu.be/CRLSsoGhb2w?t=1761))
 - His drives often stall, which leads to many mid-range shots. He finishes well at the rim but rarely gets there. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1402))
 
 **Tags**
-- Current: `role up` (usage expected to rise to about 29 or 30 percent after LaMelo Ball left), `usage freed` (LaMelo Ball and Miles Bridges traded away), `early-season value` (high workload early while Coby White (calf) and Kon Knueppel are out), `questionable` (Yahoo status Q (Leg)), `shared ball handling` (creation split among White, Knueppel and Miller), `three-point heavy` (Charlotte leans fully into spacing), `few back-to-backs` (13 back-to-backs, the league minimum), `sites disagree on price` (Yahoo value 26 USD and rank 35, ESPN value 9 USD and rank 55), `expert target` (seen as a round 3 pick with top-30 upside, going around ADP 46), `sleeper` (ESPN ADP near 107 called far too late)
-- Durable: `3PM specialist` (about 3.4 threes per game projected), `3PM from a big` (forward with guard-level threes), `punt FG fit` (about 43% FG on high volume), `punt TO fit` (about 2.7 turnovers per game projected), `category league player` (Lloyd values him more in categories than in ESPN points)
+- Current: `role up` (Usage and playmaking rise after LaMelo Ball and Miles Bridges left; bigger load while Coby White is out), `usage freed` (LaMelo Ball and Miles Bridges gone), `shared ball handling` (Ball handling split among White, Knueppel and Miller), `three-point heavy` (Charlotte leans fully into spacing and threes), `few back-to-backs` (13 back-to-backs, the league minimum), `breakout` (Top 30 season possible with the bigger role; improvement not guaranteed), `expert target` (Experts take him around picks 25 to 34; Josh paid 26 USD in an auction mock), `sleeper` (Market ADP well below expert value, mostly on ESPN), `sites disagree on price` (Yahoo value 26 USD, rank 35; ESPN value 9 USD, rank 55)
+- Durable: `3PM specialist` (About 3.4 threes per game projected), `3PM from a big` (Forward with guard-like three-point volume), `punt FG fit` (About 43% FG on high volume), `punt TO fit` (About 2.7 turnovers per game projected), `category league player` (Worth more in categories than in ESPN points)
 
-**Note.** Experts treat him as a third-round value with top-30 upside, which is above his Yahoo rank of 35 and well above ESPN's 9 USD value. A price between our league's 20 USD from last season and Yahoo's 26 USD value fits that view, and Josh paid 26 USD in a mock. He fits punt FG% and punt TO builds best: about 3.4 threes, strong FT% and points, but 43% FG on 16 to 18 shots and about 2.7 turnovers. Early on, check his Yahoo Q (Leg) status and the shoulder, and see whether the extra usage while Coby White is out drags his FG% and turnovers down further.
+**Note.** Experts treat Miller as a late round 2 to round 3 player, which is close to his Yahoo value (26 USD, rank 35). ESPN (9 USD, rank 55) and our league's 20 USD from last season both sit lower, so a price of about 20 to 26 USD fits. He brings elite threes for a forward, strong FT% (about 88%) and points, so he fits punt FG% and punt TO builds best, since about 43% FG on 17 to 18 shots and 2.7 turnovers are his costs. Early in the season, check that the shoulder holds up, and watch his usage, assists and FG% while Coby White is out.
 
-<sub>27 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>32 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

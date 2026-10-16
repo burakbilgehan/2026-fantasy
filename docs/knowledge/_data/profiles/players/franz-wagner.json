@@ -8,30 +8,83 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "31e4ede99990",
- "note_count": 9,
- "built_at": "2026-10-11T09:16:17+00:00",
+ "input_sha": "514307244be7",
+ "note_count": 16,
+ "built_at": "2026-10-16T08:55:08+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13735819999999999,
-  "duration_ms": 31617,
+  "cost_usd_list": 0.18202219999999997,
+  "duration_ms": 47565,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts see him as a top 35 to 60 player this season. His upside is about top 40. He only reaches top 30 if Paolo Banchero gets hurt.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "He ran a lot of point guard in the preseason and has the ball in his hands a lot.",
+   "kind": "fact",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p20",
+    "D4dP5JvX1oo:p13"
+   ]
+  },
+  {
+   "text": "Playing well in the preseason. The bigger ball handling role should bring extra assists.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p20"
+   ]
+  },
+  {
+   "text": "He goes around picks 53 to 60 in mock drafts.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p20",
+    "w66x_I_MaQ8:p21",
+    "ENizLoE6pzI:p21",
+    "LM0cRCGoAUQ:p38"
+   ]
+  },
+  {
+   "text": "Experts disagree on whether that price is a bargain. One speaker sees good value in the 60s and others call 55 to 60 a steal. Josh thinks 53 to 60 is about right.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p13",
+    "ENizLoE6pzI:p21",
+    "w66x_I_MaQ8:p21"
+   ]
+  },
+  {
+   "text": "Picks 47 to 49 are a bit early for him.",
+   "kind": "verdict",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p12",
+    "g31YlwRe0XQ:p18"
+   ]
+  },
+  {
+   "text": "His upside is about top 40, not top 30 or top 35. His floor is about rank 60. Taking him in rounds 4 to 6 makes sense.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p8",
     "BiIZsSypx7Y:p30",
     "LM0cRCGoAUQ:p38"
    ]
   },
   {
-   "text": "His main downside this season is his own injury risk.",
+   "text": "Josh says he only reaches the top 30 if Paolo Banchero gets hurt. His main downside is his own injury risk.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -40,7 +93,7 @@
    ]
   },
   {
-   "text": "In auction terms he is worth about 11 to 15 USD. 15 USD is about right.",
+   "text": "In an auction, 11 to 15 USD is a fair price. In one mock he went for 15 USD, which Josh called about right.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -49,73 +102,82 @@
    ]
   },
   {
-   "text": "His draft slot is about round 6. Picks 47 to 49 are a bit early for him.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p35",
-    "KPdD91Oo8-U:p12",
-    "g31YlwRe0XQ:p18"
-   ]
-  },
-  {
-   "text": "He is going around picks 54 to 60 in drafts. He has fallen because of injury.",
+   "text": "He is a projected starter next to Jalen Suggs, Desmond Bane, Paolo Banchero and Wendell Carter Jr. This group was very good when it played together.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p38",
-    "OdDkXFhoKsc:p39"
-   ]
-  },
-  {
-   "text": "A high ankle sprain and lower minutes hurt his last season.",
-   "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p38",
-    "FEcNjVRlj-U:p15"
-   ]
-  },
-  {
-   "text": "He is a projected starter next to Suggs, Bane, Banchero and Carter. That group was very good when it played together.",
-   "kind": "fact",
-   "date": "2026-08-01",
-   "until": "",
-   "sources": [
+    "zhXtLr_xYVg:t1",
     "FEcNjVRlj-U:t1"
    ]
   },
   {
-   "text": "Orlando has a new head coach, Sean Sweeney, so roles may change.",
+   "text": "New head coach Sean Sweeney replaces Jamahl Mosley. His effect on pace, offense and roles is unknown.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ]
   },
   {
-   "text": "Orlando is projected to win 47 or 48 games and finish as the 6th seed.",
-   "kind": "verdict",
-   "date": "2026-08-01",
+   "text": "Orlando plays 3, 4 and 4 games in our playoff weeks (11 games) and has 14 back-to-backs. The experts call the schedule unremarkable.",
+   "kind": "fact",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t4"
+    "zhXtLr_xYVg:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has no single standout strength but is good across the board.",
+   "text": "He has no single standout category but is good across the board. He does not add much in steals and blocks and is not a high-volume 3-point shooter.",
    "kind": "verdict",
-   "date": "2026-09-10",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "dlo7L8Ru91A:p28",
+    "zhXtLr_xYVg:p9"
+   ]
+  },
+  {
+   "text": "His 3-point shooting has been inconsistent.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p9"
+   ]
+  },
+  {
+   "text": "Points, FT% and assists for a forward are his best categories. Blocks and turnovers are his weakest, but neither is a real outlier.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Injuries ruined two straight seasons. In 2025-26 a high ankle sprain from contact cost him about 47 to 51 games. He came back too early, hurt the ankle again, then hurt his calf in the playoffs.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p15",
+    "zhXtLr_xYVg:p7",
     "dlo7L8Ru91A:p28"
+   ]
+  },
+  {
+   "text": "Phil sees the last two years of injuries as random. Before that he was reliable and played through ankle rolls.",
+   "kind": "verdict",
+   "date": "2026-08-01",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p15"
    ]
   },
   {
@@ -126,64 +188,45 @@
    "sources": [
     "g31YlwRe0XQ:p18"
    ]
-  },
-  {
-   "text": "He has had two seasons badly hurt by injury. Last season he missed about 47 to 51 games with a high ankle sprain from a contact injury. Before those seasons he was usually reliable and played through ankle rolls.",
-   "kind": "fact",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:p15",
-    "dlo7L8Ru91A:p28"
-   ]
-  },
-  {
-   "text": "Phil sees the injuries of the last two years as random, not a chronic problem.",
-   "kind": "verdict",
-   "date": "2026-08-01",
-   "until": "",
-   "sources": [
-    "FEcNjVRlj-U:p15"
-   ]
   }
  ],
  "tags": [
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no weak category; good across the board",
+   "detail": "No category flagged weak.",
    "until": "",
    "sources": [
-    "stats",
-    "dlo7L8Ru91A:p28"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "g31YlwRe0XQ:p18"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "high ankle sprain, missed about 47 to 51 games",
+   "detail": "High ankle sprain, reinjured after an early return, then a calf injury in the playoffs. Played 34 games.",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:p15",
-    "LM0cRCGoAUQ:p38"
+    "zhXtLr_xYVg:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "position change",
+   "channel": "current",
+   "detail": "Ran a lot of point guard in the preseason, so more assists are expected.",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p13",
+    "bd8GYKFOe8A:p20"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "shares the ball with Paolo Banchero",
+   "detail": "Paolo Banchero caps his ceiling. Top 30 only if Banchero gets hurt.",
    "until": "",
    "sources": [
     "BiIZsSypx7Y:p30"
@@ -191,20 +234,30 @@
    "new_meaning": ""
   },
   {
-   "name": "new coach",
-   "channel": "current",
-   "detail": "Sean Sweeney replaces Jamahl Mosley",
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Inconsistent 3-point shooting.",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Sean Sweeney replaces Jamahl Mosley.",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "projected 47 or 48 wins, 6th seed",
+   "detail": "Phil predicts 47 or 48 wins and the 6th seed.",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:t4"
@@ -214,7 +267,7 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 21 USD, ESPN value 6 USD",
+   "detail": "Yahoo value 21 USD (rank 50), ESPN value 6 USD (rank 68).",
    "until": "",
    "sources": [
     "stats"
@@ -222,6 +275,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Wagner went for 26 USD in our league last season. The market now sits near 8 to 10 USD (Yahoo average cost 10.2 USD, ESPN 8.3 USD), and experts put his value at 11 to 15 USD, so spending above 20 USD means paying for top 30 upside that the experts do not see. He has no weak category (his best are points and FT%, with a projected 84.8% on about 6 attempts), so he fits any build as a steady across-the-board forward. Early in the season, check his ankle and whether his usage holds next to Banchero under new coach Sweeney.",
+ "note": "The experts see Wagner as a fairly priced top 40 to top 60 player. Their auction range is 11 to 15 USD, close to the Yahoo average cost of 12.8 USD and the ESPN average cost of 8.9 USD, and far below the 26 USD our league paid last season. He has no weak category, so he fits any build, and his points, FT% and assists as a forward are what you pay for. Bid up to about 15 USD. Early in the season, check that he keeps the point guard role under new coach Sweeney and that his ankle holds up.",
  "rejected": []
 }

@@ -8,28 +8,28 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "757ba0e70035",
- "note_count": 23,
- "built_at": "2026-10-11T09:19:38+00:00",
+ "input_sha": "ff6748885a89",
+ "note_count": 25,
+ "built_at": "2026-10-16T09:04:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2221782,
-  "duration_ms": 63831,
+  "cost_usd_list": 0.2343742,
+  "duration_ms": 68696,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He joined Brooklyn from Minnesota in the Nic Claxton trade.",
+   "text": "Brooklyn acquired him from Minnesota in the Nic Claxton trade.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p8",
     "sTtFUy7IoJI:p28",
-    "Rqb5GdrSweY:p15",
-    "9tb1ARBEmQU:p0"
+    "9tb1ARBEmQU:p0",
+    "Rqb5GdrSweY:p15"
    ]
   },
   {
@@ -54,20 +54,29 @@
    ]
   },
   {
-   "text": "His usage should rise from about 27 to about 30, and his assists could go up. His defensive stats probably will not.",
+   "text": "He has several years left on his contract and is staying in Brooklyn.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p14"
+   ]
+  },
+  {
+   "text": "His usage should rise from about 27 to about 30, and his assists should go up. Sharing the ball with Michael Porter Jr. is seen as a better spot than playing second fiddle to Anthony Edwards.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p12",
     "egRrai3Ax38:p16",
+    "3UGI05PDvrE:p12",
     "sTtFUy7IoJI:p28",
     "Rqb5GdrSweY:p15",
     "9tb1ARBEmQU:p0"
    ]
   },
   {
-   "text": "His minutes are expected to drop to about 32 per game because Brooklyn has little to play for. Blowouts and minutes for Noah Clowney also lower his upside.",
+   "text": "His minutes are expected to drop to about 32 a night, from 34 to 35 last season. Blowouts and minutes for Noah Clowney may lower his upside.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -79,90 +88,33 @@
    ]
   },
   {
-   "text": "Houston controls Brooklyn's draft pick, so the Nets have no reason to tank.",
+   "text": "Brooklyn does not control its own pick (it goes to Houston), so it has no reason to tank. It is still projected to be one of the worst teams, at about 28 wins.",
    "kind": "fact",
-   "date": "2026-09-26",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t0",
     "Rqb5GdrSweY:t1",
-    "sfCe7fS9daM:t9",
-    "dlo7L8Ru91A:t3"
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8"
    ]
   },
   {
-   "text": "Brooklyn may still rest him or trim his minutes late in the season, mainly in March, to give young players time.",
+   "text": "Brooklyn has little to play for, so he may sit some games in March to give young players time. That overlaps with our fantasy playoffs.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p46",
     "3UGI05PDvrE:p10",
     "3UGI05PDvrE:p14",
+    "n4KkK-OJjqA:p46",
     "Rqb5GdrSweY:p17",
-    "sTtFUy7IoJI:t4"
+    "sTtFUy7IoJI:t4",
+    "uI6umXsE7Vk:t1"
    ]
   },
   {
-   "text": "He has several years left on his contract and is expected to stay in Brooklyn.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p14"
-   ]
-  },
-  {
-   "text": "Brooklyn is projected to be one of the worst teams, at about 28 wins.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:t4",
-    "sDzeYdUhJDI:t8",
-    "dlo7L8Ru91A:t3"
-   ]
-  },
-  {
-   "text": "The experts differ a little on his rank. One projects him 55 to 75 in category leagues, probably 65 to 70. Another says he can be top 50 again and calls him a value at 73.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p9",
-    "n4KkK-OJjqA:p46"
-   ]
-  },
-  {
-   "text": "His ESPN rank of 86 is great value and his Yahoo ADP near 68 is fine. In category leagues, take him a bit later than in points leagues.",
-   "kind": "verdict",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p11",
-    "egRrai3Ax38:p16"
-   ]
-  },
-  {
-   "text": "In a mock auction, the expert hoped to get him for about 10 USD. He went for 15 USD.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p45"
-   ]
-  },
-  {
-   "text": "His block rate could recover in Brooklyn now that he does not play next to Gobert.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p11"
-   ]
-  },
-  {
-   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. Its playoff schedule for a March 28 end is 3-4-3 games, with one back-to-back.",
+   "text": "Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. Its schedule in weeks 19 to 21 is 3-4-3, which is 10 games with one back-to-back.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -170,23 +122,80 @@
     "3UGI05PDvrE:t4",
     "gf_6GveiAls:t1"
    ]
+  },
+  {
+   "text": "Michael Porter Jr. is a trade candidate, and Brooklyn may move more minutes to Josh Minott, Noah Clowney and its young guards in the second half of the season.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Experts place him around pick 65 to 75 in category leagues. Mock drafts took him at 67 and 72. One expert sees upside to return to the top 50.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p9",
+    "n4KkK-OJjqA:p46",
+    "uI6umXsE7Vk:p40",
+    "w66x_I_MaQ8:p28"
+   ]
+  },
+  {
+   "text": "His ESPN rank near 86 is great value, and a Yahoo ADP near 68 is fine. In category leagues, take him a bit later than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p11"
+   ]
+  },
+  {
+   "text": "In an auction mock, the expert hoped to pay about 10 USD, but he went for 15 USD.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p45"
+   ]
+  },
+  {
+   "text": "His block conversion last season was 4.9%, well below his 9% career rate.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p11"
+   ]
+  },
+  {
+   "text": "His blocks might recover a little in Brooklyn without Rudy Gobert next to him.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p11"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is worth more in points leagues than in category leagues.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "text": "His value comes from points, rebounds and assists. His assists are high for a forward.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p45",
-    "sTtFUy7IoJI:p29"
+    "stats"
    ]
   },
   {
-   "text": "He turns the ball over a lot. Turnovers are his weakest category.",
+   "text": "He turns the ball over a lot, and that is his clearest weak category.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-07-13",
    "until": "",
    "sources": [
     "Rqb5GdrSweY:p16",
@@ -194,7 +203,7 @@
    ]
   },
   {
-   "text": "He gives little on defense. His blocks are poor and his steals are average.",
+   "text": "He gives little on defense in fantasy. His steals are average at best and his blocks are poor.",
    "kind": "fact",
    "date": "2026-08-26",
    "until": "",
@@ -205,16 +214,7 @@
    ]
   },
   {
-   "text": "His main strengths are points, rebounds and assists. His assists are high for a forward.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He shoots about 48% from the field and 80% from the line, so his percentages are close to neutral.",
+   "text": "He shoots about 48% from the field and 80% from the line, so his percentages are close to neutral. His reputation for hurting percentages is not accurate.",
    "kind": "fact",
    "date": "2026-07-13",
    "until": "",
@@ -224,7 +224,7 @@
    ]
   },
   {
-   "text": "His shooting percentages swing from season to season and are hard to trust.",
+   "text": "His shooting percentages are volatile.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -240,6 +240,16 @@
    "until": "",
    "sources": [
     "2mxpEpGU3H8:p23"
+   ]
+  },
+  {
+   "text": "He is a classic player who is worth more in points leagues than in category leagues, though category leagues underrate him.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p45",
+    "sTtFUy7IoJI:p29"
    ]
   }
  ],
@@ -258,12 +268,23 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Usage expected to rise from about 27 to about 30, but minutes to drop to about 32",
+   "detail": "Usage expected to rise from about 27 to about 30, with more assists, but minutes may drop to about 32",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p12",
     "egRrai3Ax38:p16",
-    "sTtFUy7IoJI:p28"
+    "3UGI05PDvrE:p12",
+    "Rqb5GdrSweY:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Noah Clowney and Josh Minott could take frontcourt minutes",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p40",
+    "LM0cRCGoAUQ:t7"
    ],
    "new_meaning": ""
   },
@@ -275,26 +296,15 @@
    "sources": [
     "3UGI05PDvrE:p10",
     "3UGI05PDvrE:p14",
-    "n4KkK-OJjqA:p46",
-    "Rqb5GdrSweY:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Noah Clowney and Josh Minott may get frontcourt minutes",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p40",
-    "LM0cRCGoAUQ:t7"
+    "Rqb5GdrSweY:p17",
+    "n4KkK-OJjqA:p46"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "About 28 wins projected",
+   "detail": "About 28 projected wins",
    "until": "",
    "sources": [
     "uRsfijpBPok:t4",
@@ -305,7 +315,7 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16 back-to-backs, tied for most in the league",
+   "detail": "16 back-to-backs, tied for the most in the league",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t4",
@@ -316,7 +326,7 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Only 10 games in weeks 19 to 21 (3-4-3), one back-to-back",
+   "detail": "3-4-3 (10 games) in weeks 19 to 21, with one back-to-back",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t4",
@@ -325,13 +335,13 @@
    "new_meaning": ""
   },
   {
-   "name": "points league player",
-   "channel": "durable",
-   "detail": "",
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Michael Porter Jr. is a trade candidate",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p45",
-    "sTtFUy7IoJI:p29"
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
    ],
    "new_meaning": ""
   },
@@ -359,7 +369,7 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "About 5 assists per game as a forward",
+   "detail": "About 5 assists per game as a forward and Brooklyn's main on-ball creator",
    "until": "",
    "sources": [
     "uRsfijpBPok:p12",
@@ -368,38 +378,17 @@
    "new_meaning": ""
   },
   {
-   "name": "streaky",
+   "name": "points league player",
    "channel": "durable",
-   "detail": "Shooting percentages are volatile",
+   "detail": "",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:p13",
-    "9tb1ARBEmQU:p1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "ESPN rank 86 called great value",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p46",
-    "3UGI05PDvrE:p11"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 15 USD, ESPN value 4 USD",
-   "until": "",
-   "sources": [
-    "stats"
+    "n4KkK-OJjqA:p45",
+    "sTtFUy7IoJI:p29"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Randle is a mid-round forward who gives points, rebounds and guard-like assists with neutral percentages. He costs you turnovers and defense, so he fits punt TO builds best. The experts rank him around 55 to 75 in category leagues, which matches his Yahoo rank of 71 and the 10 USD he cost in our league last season. Aim for about 10 to 12 USD and stop near the 15 USD he went for in the mock. Early on, check whether his usage really rises toward 30 and whether his minutes hold near 32. Plan for missed games in March and a thin 10-game playoff schedule.",
+ "note": "Randle is a mid-round forward who helps in points, rebounds and assists but costs you in turnovers and blocks. That makes him a natural fit for a punt TO build. The experts put him around picks 65 to 75, close to his Yahoo rank of 74 and ESPN rank of 84. In auctions he should cost about 10 to 15 USD (he went for 10 USD in our league last season and 15 USD in a mock). Early in the season, check that his minutes hold near 32 and his usage rises toward 30. Remember that Brooklyn may rest him in March, right in our playoff weeks, when the team has only 10 games.",
  "rejected": []
 }

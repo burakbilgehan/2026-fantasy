@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 144 | 0 | 0.3 | 160 | not drafted |
+| 2026-27 | 0 | 1.0 | 145 | 0 | 0.2 | 160 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,28 +30,26 @@
 </details>
 
 **Current**
+- Worth a late flyer outside the top 100, around round 10 or 11. He slid past round 12 in one mock draft but usually goes earlier. (verdict, 2026-10-13; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [10-13](https://youtu.be/OsbUAkSeVB4?t=1523))
 - He is expected to start at center for Charlotte on opening night. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1584), [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [07-21](https://youtu.be/EB1Z_6n56-o?t=840), [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- Josh would take him over Ryan Kalkbrenner about 90 times out of 100 because Diabaté has the starting job. Josh still thinks Kalkbrenner would produce more if both played the same minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1584))
-- Charlotte has several centers who compete for his minutes: the rookie center taken 14th, Ryan Kalkbrenner and Steinbach. Grant Williams also plays some small-ball five. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [09-14](https://youtu.be/t4n9MAP2_14?t=2216), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/lOshTzDA4SA?t=1097), [06-25](https://youtu.be/lOshTzDA4SA?t=1342))
-- The center plan is unclear. Coach Charles Lee is expected to try different frontcourt lineups, and closing lineups will change by matchup. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [07-21](https://youtu.be/EB1Z_6n56-o?t=1151))
-- Charlotte played better with him starting last season. In a stretch where he played about 28 minutes a game, the team had the top offensive rating and the fifth-best defensive rating. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [07-21](https://youtu.be/EB1Z_6n56-o?t=779))
-- He is a late flyer outside the top 100, around round 10 or 11. The rookie center threatens his role, and he is not a long-term answer as the starter. The extra competition caps his upside. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [06-25](https://youtu.be/lOshTzDA4SA?t=1342))
-- Charlotte plays 4-3-4 games in our playoff weeks and has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- Charlotte has a deep roster and projects as a play-in team. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
-- A Yahoo ADP of 99 against an expert rank of 177 was called far too high. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
-- One expert is not confident that he can keep up his shot blocking. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=708))
+- One expert would draft him over Ryan Kalkbrenner about 90 times out of 100 because he is expected to start, even though Kalkbrenner may produce more at equal minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1584))
+- Charlotte's center plan is not settled. Diabaté, the rookie taken 14th and Ryan Kalkbrenner compete for the job. Steinbach is also in the mix, and Grant Williams plays some small-ball five. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/lOshTzDA4SA?t=1097), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
+- The added competition at center is a threat to his role and caps his upside. One expert does not see him as a long-term starting solution. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1122), [06-25](https://youtu.be/lOshTzDA4SA?t=1342), [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
+- In a late-season stretch last season he played about 28 minutes a game, and Charlotte had the top offensive rating and the fifth-best defensive rating. He won Hustle Player of the Year. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=779), [09-27](https://youtu.be/CRLSsoGhb2w?t=315))
+- Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Charlotte's system stresses steals and offensive rebounds, which fits his game. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=450))
+- One expert is not confident that he keeps up his shot blocking. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=708))
 
 **Durable**
-- He makes no threes. His fantasy value comes from FG% and rebounds. (fact, 2026-10-11; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
-- He is an undersized center who cannot really protect the rim. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=353))
-- He is a good defender and hustle player who switches onto ball handlers and gets steals. He is one of the best offensive rebounders in the league. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=353), [07-21](https://youtu.be/EB1Z_6n56-o?t=472), [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
-- He is getting better as a passer on short rolls. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=472))
-- He won the Hustle Player of the Year award. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=779))
+- He makes no threes. His value comes from FG% on low volume and rebounds, and he gives few points. (fact, 2026-10-16; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=2216))
+- He is an undersized center who works as a hustle player and one of the best offensive rebounders in the league. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=353), [07-21](https://youtu.be/EB1Z_6n56-o?t=472))
+- He is a good defender who switches onto ball handlers, but he cannot really protect the rim, so his blocks are modest for a center. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=353), [07-21](https://youtu.be/EB1Z_6n56-o?t=472), stats)
+- He is improving as a passer on short rolls. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=472))
 
 **Tags**
-- Current: `minutes competition` (Rookie center taken 14th, Kalkbrenner, Steinbach and Grant Williams as a small-ball five), `flyer` (Round 10-11 flyer outside the top 100), `unsettled rotation` (Unclear center plan, and the coach is trying different frontcourt lineups), `deep rotation` (Deep Charlotte roster with a three-center rotation), `few back-to-backs` (13 back-to-backs, the league minimum)
-- Durable: `no 3PM` (0.0 3PM per game in every season)
+- Current: `minutes competition` (Rookie taken 14th, Kalkbrenner and Steinbach compete at center), `role down` (More center competition may cut his minutes from last season), `flyer` (Round 10 to 11 flyer outside the top 100), `few back-to-backs` (13 back-to-backs, league minimum)
+- Durable: `no 3PM` (0.0 threes per game every season)
 
-**Note.** Diabaté is on the edge of our 144-player pool. Yahoo ranks him 144 and ESPN 160, both value him at 0 to 0.2 USD, and he was not drafted last season. That makes him a 1 USD end-of-draft flyer for teams that want FG% (61.6% projected) and rebounds (8.0) from a starting center and do not need threes, though his FT% (65.2%) is a small drag. Early in the season, check whether he keeps the starting job and his 26 minutes a game against the rookie center and Kalkbrenner. If his minutes drop, he goes back to waivers.
+**Note.** Yahoo ranks him 145 and ESPN 160, and both price him at 0 to 1 USD, so in a 144-player draft he is a 1 USD endgame center or a waiver add. Experts call him a round 10 to 11 flyer because he should start, and he helps with FG% and rebounds. He gives no threes, few points and a weak FT% on low volume. In the first weeks, check that he keeps the starting job and about 25 minutes ahead of the rookie and Kalkbrenner. If he loses the job, drop him.
 
-<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

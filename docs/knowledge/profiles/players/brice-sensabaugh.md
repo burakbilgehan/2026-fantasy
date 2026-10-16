@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 237 | 0 | 0.1 | 228 | not drafted |
+| 2026-27 | 0 | - | 238 | 0 | 0.0 | 228 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,7 +21,7 @@
 | FT% | 85.1% | +0.5 | +0.4 | - |
 | 3PM | 1.9 | +0.4 | +0.3 | - |
 | PTS | 12.2 | -0.3 | -0.4 | - |
-| REB | 2.9 | -0.9 | -0.9 | - |
+| REB | 2.9 | -1.0 | -0.9 | - |
 | AST | 1.5 | -0.9 | -1.1 | - |
 | STL | 0.6 | -1.1 | -1.2 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a hip injury. (fact, 2026-10-11; stats)
-- Utah plans to win this season and is not tanking. Experts expect a playoff team, so the late-season minutes he got last season will not be there. (verdict, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973))
-- Utah has a crowded group of guards and wings: George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1689))
-- He will likely come off the bench this season. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1654))
-- His fantasy value is finished after Utah drafted Darryn Peterson. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1422))
-- Markkanen, Keyonte George, Jaren Jackson Jr. and Peterson take most of the usage, and everyone else will lose touches. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
+- Utah's minutes and usage are expected to be all over the place early in the season. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1633))
+- His strong finish to last season came from tank-period minutes. Utah is deeper now and plays to win, so experts expect those late-season minutes to be gone. (verdict, 2026-09-17; [07-14](https://youtu.be/xHRF06_E9HE?t=1654), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- Utah is not tanking this season. Experts expect a playoff-level team (Leaf projects 43 wins and a 7th or 8th seed). (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
+- He is likely to come off the bench. The projected Utah starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (verdict, 2026-08-05; [07-14](https://youtu.be/xHRF06_E9HE?t=1654), [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
+- Utah's roster is crowded at his spots: George, Peterson, Sensabaugh, Ace Bailey, Markkanen and Jackson all need minutes and touches. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [06-25](https://youtu.be/lOshTzDA4SA?t=541))
+- His fantasy value is seen as finished after Utah's draft moves. (verdict, 2026-07-14; [06-25](https://youtu.be/lOshTzDA4SA?t=1422), [07-14](https://youtu.be/xHRF06_E9HE?t=1654))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `questionable` (Yahoo status Q (hip)), `role down` (likely bench role after Utah drafted Peterson and got deeper), `minutes competition` (crowded with George, Peterson, Bailey, Markkanen and Jackson Jr.), `usage competition` (Markkanen, George, Jackson Jr. and Peterson take the usage), `deep rotation` (Utah got deeper this offseason), `winning team` (Leaf projects 43 wins and a 7th or 8th seed)
+- Current: `role down` (Likely bench role. Tank-period minutes from last season are gone.), `minutes competition` (Competes with George, Peterson, Bailey and Markkanen for wing minutes), `usage competition` (Markkanen, George, Jackson and Peterson take most of the usage), `deep rotation` (Utah is deeper after its offseason moves), `unsettled rotation` (Minutes and usage expected to be all over the place early), `winning team` (Projected 43 wins, 7th or 8th seed), `low shutdown risk` (Utah not tanking, so no late-season minutes boost for bench players)
 - Durable: none
 
-**Note.** Both Yahoo and ESPN value him at 0 USD and rank him 228 to 237. That is far outside the 144 players we draft, and the experts say his value is gone now that he will likely come off the bench. Do not draft him. His projected line has no strong category, so he does not fit a particular build. Check his hip status, and look at him on waivers only if injuries to Utah's guards and wings open real minutes.
+**Note.** Yahoo and ESPN both value him at 0 USD and rank him 238 and 228, far outside the 144 players we draft. The experts say his value is finished now that Utah is deep and trying to win, so do not draft him. His 95th-place finish after the trade deadline came from tank-period minutes that are expected to be gone. His projected line gives only threes, FT% and low turnovers, with little in rebounds, assists, steals or blocks. Early in the season, look at him on waivers only if injuries to Utah's wings or the unsettled early rotation give him starter minutes.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

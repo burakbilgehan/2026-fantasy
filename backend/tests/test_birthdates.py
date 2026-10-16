@@ -131,3 +131,36 @@ def test_nba_age_uses_latest_season(db):
     report = sync_birthdates.Report()
     sync_birthdates.write_nba_age(db, report)
     assert p.birth_date == birthdates.approx_birth_date("2025-26", 25)
+
+
+def test_sync_skips_network_without_new_missing(db, monkeypatch, tmp_path):
+    from contextlib import contextmanager
+
+    monkeypatch.setattr(sync_birthdates, "TRIED", tmp_path / "tried.json")
+    p = _player(db, "No", "Date")
+    p.team = "BOS"
+    db.flush()
+
+    @contextmanager
+    def same_session():
+        yield db
+
+    class Factory:
+        __call__ = staticmethod(same_session)
+        begin = staticmethod(same_session)
+
+    import app.db
+    monkeypatch.setattr(app.db, "SessionLocal", Factory())
+    monkeypatch.setattr(app.db, "init_db", lambda: None)
+    calls = []
+    monkeypatch.setattr(birthdates, "fetch_rosters", lambda: calls.append("rosters") or [])
+    monkeypatch.setattr(birthdates, "parse_rosters", lambda raw: [])
+
+    assert sync_birthdates.sync().fetched and calls == ["rosters"]
+    assert sync_birthdates.load_tried() == {p.id}
+    assert not sync_birthdates.sync().fetched and calls == ["rosters"]  # same player: no request
+    q = _player(db, "New", "Rookie")
+    q.team = "BOS"
+    db.flush()
+    assert sync_birthdates.sync().fetched and calls == ["rosters", "rosters"]
+    assert sync_birthdates.sync(fetch_all=True).fetched

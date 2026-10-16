@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 261 | 0 | 0.0 | 345 | not drafted |
+| 2026-27 | 0 | - | 264 | 0 | 0.0 | 345 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- He has a torn patellar tendon and is out. Yahoo lists him as out with a knee injury. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107), stats)
-- A return in March is likely. An earlier return would be a surprise. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
-- He was playing well before the injury and ranked 105th after last season's trade deadline. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [07-14](https://youtu.be/xHRF06_E9HE?t=1671))
-- He is not draftable this season. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601))
-- The Warriors are reportedly treating this season as a gap year. The team is worried about lottery odds and may rest veterans. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- The Warriors' schedule is good for fantasy playoffs that end March 28, which is when he is expected back. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [09-30](https://youtu.be/MUbNYdjpUDM?t=1601))
+- His role after his return is unclear. The Warriors rotation will shift again when he and Jimmy Butler come back. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1508))
+- He has a torn patellar tendon and is out. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
+- A return in March is likely. One expert would be pleasantly surprised if he returns before March. (verdict, 2026-09-30, until March 2027; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601), [08-22](https://youtu.be/LXZLrL90crE?t=1107))
+- He is not draftable. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1601))
+- The Warriors are reported to treat this season as a gap year. They are worried about lottery odds and may rest veterans. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- The Warriors schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
 
 **Durable**
-- He has had knee issues since college. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1071))
+- He has had knee problems since college. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1071))
 
 **Tags**
-- Current: `injured now` (Torn patellar tendon. Yahoo status O (Knee).; until expected return in March), `tank risk` (Warriors may treat the season as a gap year and care about lottery odds, which could slow his return in March.), `good playoff schedule` (Warriors' schedule is good for playoffs ending March 28.)
-- Durable: `injury prone` (Knee issues since college, now a torn patellar tendon.)
+- Current: `injured now` (Torn patellar tendon, Yahoo status O (Knee). March return likely.; until March 2027), `tank risk` (Warriors reported to treat the season as a gap year with an eye on lottery odds), `good playoff schedule` (Warriors schedule is good for playoffs ending March 28, which is when he is likely back)
+- Durable: `injury prone` (Knee problems since college, now a torn patellar tendon)
 
-**Note.** Moody is out with a torn patellar tendon and is not expected back before March. Both sites value him at 0 USD (Yahoo rank 261, ESPN rank 345), so he should not be one of the 144 players drafted. Last season he was trending up (25.7 minutes, 2.5 threes, 12.1 points, 105th after the deadline). Watch his recovery news in February. If he returns in March and the Warriors play him, he could be a waiver pickup for threes in our playoff weeks.
+**Note.** Both sites value him at 0 USD (Yahoo rank 264, ESPN rank 345) because a torn patellar tendon will likely keep him out until March. Leave him undrafted. Last season he made 2.5 threes in 25.7 minutes and ranked 105th after the deadline. In February, check his rehab news: a March return would line up with our playoff weeks and a good Warriors schedule to March 28, which could make him a late waiver add for 3PM.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

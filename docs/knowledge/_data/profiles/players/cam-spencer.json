@@ -8,61 +8,53 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a0941c87c4d9",
+ "input_sha": "83f3e84303df",
  "note_count": 3,
- "built_at": "2026-10-11T09:13:54+00:00",
+ "built_at": "2026-10-16T08:47:01+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13178220000000002,
-  "duration_ms": 28000,
+  "cost_usd_list": 0.1443542,
+  "duration_ms": 33385,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Spencer is projected to come off the bench. The projected bench is Pippen, Wells, Stewart, GG Jackson and Spencer.",
+   "text": "Ty Jerome is the projected starting point guard and has started both preseason games. Spencer is projected to come off the bench.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t4",
+    "lp11OAEpq4Y:t5",
+    "6DnRWahYrFA:t5",
+    "ENizLoE6pzI:t5"
+   ]
+  },
+  {
+   "text": "The Memphis guard group is crowded with Javon Small, Ty Jerome, Scotty Pippen Jr. and Campazzo. Coach Iisalo is expected to use an 11 or 12 man rotation.",
    "kind": "fact",
    "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t5"
-   ]
-  },
-  {
-   "text": "Ty Jerome has started both preseason games at point guard.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t5",
-    "lp11OAEpq4Y:t4"
-   ]
-  },
-  {
-   "text": "The Memphis guard group is crowded with Javon Small, Ty Jerome, Scotty Pippen Jr. and Campazzo, so his minutes are uncertain.",
-   "kind": "verdict",
-   "date": "2026-07-16",
    "until": "",
    "sources": [
     "-y6p5PYLf00:p6",
-    "-y6p5PYLf00:t1"
-   ]
-  },
-  {
-   "text": "Memphis is expected to use an 11 or 12 man rotation with short stints, which limits bench minutes.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
+    "-y6p5PYLf00:t1",
     "lp11OAEpq4Y:t2",
-    "lp11OAEpq4Y:t0",
-    "LcZcvk8s1xQ:t1",
     "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "He needs many players out of the way to matter in fantasy. Part of his value last season came from absences in Memphis.",
+   "text": "Last season he shot under 36% from three and 64% at the rim, and he gained from absences on the Memphis roster.",
+   "kind": "fact",
+   "date": "2026-07-16",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p6"
+   ]
+  },
+  {
+   "text": "His minutes are uncertain. Several players ahead of him would need to be out before he matters in fantasy.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -72,7 +64,7 @@
    ]
   },
   {
-   "text": "Memphis has 4 games in each of our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Memphis plays 4-4-4 games in our playoff weeks (season ending March 28) and has only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -83,8 +75,8 @@
  ],
  "durable": [
   {
-   "text": "He is a low-usage passer who adds assists and threes without many shots.",
-   "kind": "verdict",
+   "text": "He is a low-usage passer who adds assists but does not create much offense for himself.",
+   "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
@@ -92,7 +84,7 @@
    ]
   },
   {
-   "text": "Experts rate him as a very efficient mid-range and three-point shooter, but on low volume.",
+   "text": "He is a very efficient shooter from mid-range and three, but he takes few threes.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -100,25 +92,36 @@
     "lp11OAEpq4Y:p34",
     "LcZcvk8s1xQ:p24"
    ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo plays at a very high pace with short stints and keeps minutes down, which limits bench guards' totals.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t0",
+    "LcZcvk8s1xQ:t1"
+   ]
   }
  ],
  "tags": [
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded guard group with Jerome, Small, Pippen Jr. and Campazzo; projected bench role",
+   "detail": "Bench guard behind Ty Jerome, with Small, Pippen Jr. and Campazzo also in the mix",
    "until": "",
    "sources": [
     "-y6p5PYLf00:p6",
     "-y6p5PYLf00:t1",
-    "lp11OAEpq4Y:t5"
+    "lp11OAEpq4Y:t5",
+    "6DnRWahYrFA:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Iisalo runs an 11 or 12 man rotation with short stints",
+   "detail": "Iisalo expected to run 11 or 12 players",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t2",
@@ -129,7 +132,7 @@
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Matters only if injuries clear the Memphis guard group",
+   "detail": "Matters only if several Memphis guards miss time",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p34",
@@ -138,9 +141,19 @@
    "new_meaning": ""
   },
   {
+   "name": "fast pace",
+   "channel": "current",
+   "detail": "Iisalo plays at a very high pace",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21 with a March 28 end",
+   "detail": "4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
@@ -150,7 +163,7 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Memphis has 13 back-to-backs",
+   "detail": "13 back-to-backs, possibly fewest in the league",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
@@ -158,6 +171,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN put his value at 0 USD (Yahoo rank 226, ESPN rank 143). With 144 players drafted, he is not a draft target in our league. Last season he played 23.8 minutes and averaged 5.6 assists and 2.0 threes at 94% FT, but he projects as a bench guard behind Jerome in a deep, short-stint rotation. Leave him on waivers and watch Memphis guard injuries early. If he gets starter minutes, his assists, threes, FT% and low turnovers fit guard-heavy builds, and Memphis has a full 4-4-4 playoff schedule.",
+ "note": "Both sites give him 0 USD in value. He ranks 229 on Yahoo and 143 on ESPN, so he sits at the edge of our 144-player draft pool or outside it, and he should not be drafted. His value is assists (5.6 per game last season), strong FT% on low volume and few turnovers. He has no weak category, but his points, rebounds, steals and blocks are low. Watch him on waivers early in the season, in case Ty Jerome or other Memphis guards miss time and he moves into the 24-minute role he played last season.",
  "rejected": []
 }

@@ -3,6 +3,358 @@
 
 Factual claims our stats data can confirm or refute.
 
+## 2026-10-15 [San Antonio Spurs Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-15-c-WwNRgVxkI.md)
+
+- [4:36](https://youtu.be/c-WwNRgVxkI?t=276) Wembanyama ranked sixth in transformed head-to-head rankings last season and third in points leagues. His ESPN ADP is 3.
+  > "He was third in points leagues last season, though, and he's ESPN ADP is three."
+- [4:59](https://youtu.be/c-WwNRgVxkI?t=299) Wembanyama played 29 minutes a game last season.
+  > "But he played 29 minutes a game last season. Weama."
+- [5:38](https://youtu.be/c-WwNRgVxkI?t=338) Castle ranked 87th in categories and 52nd in points leagues last season.
+  > "He was 87th in categories last season and 52 in points league."
+- [6:18](https://youtu.be/c-WwNRgVxkI?t=378) Castle averaged over eight assists per game over the final third of last season.
+  > "over the final like third of the season, he averaged over eight assists per game."
+- [7:52](https://youtu.be/c-WwNRgVxkI?t=472) Fox ranked 74th last season and 55th in points leagues.
+  > "He was 74th last season. It was not a good season for Darren Fox"
+- [8:53](https://youtu.be/c-WwNRgVxkI?t=533) Fox's free throw percentage went from 74 to 83 to 76 over the last three seasons. His steals fell from 2 to 1.2.
+  > "he went from 74 at the line to 83 to 76."
+- [9:07](https://youtu.be/c-WwNRgVxkI?t=547) Fox averaged 6.2 assists last season and 6.3 the year before.
+  > "Averaged 6.2 last season, 6.3 the year before"
+- [12:59](https://youtu.be/c-WwNRgVxkI?t=779) Harper ranked 195th last season and played 22.5 minutes per game, with 51% FG and 76% FT.
+  > "so, okay, he only played 22 and 1/2 minutes, averaged 12, three, and four.8 78 steals, 51 and 76"
+- [13:37](https://youtu.be/c-WwNRgVxkI?t=817) Harper had a 66% true shooting percentage over the final 15 games and 57% for the full season.
+  > "he still had a true shooting of 57 for the season as a rookie."
+- [15:38](https://youtu.be/c-WwNRgVxkI?t=938) Vassell ranked 169th in category leagues and 150th in points leagues last season.
+  > "he was 169th in category leagues. That's not good. He was 150th in points leagues."
+- [16:02](https://youtu.be/c-WwNRgVxkI?t=962) Vassell's assists fell from 4.1 two years ago to 2.5. He played 30 minutes, made 2.5 threes and had usage of 18.
+  > "His assists went from 4.1 two years ago to 2.5. He played 30 minutes a game."
+- [17:48](https://youtu.be/c-WwNRgVxkI?t=1068) Champagnie ranked 163rd in categories and 177th in points leagues. He averaged 11 points and 6 rebounds in 28 minutes.
+  > "Not really. Not really. 163rd, 177 in points leagues. He's ranked at 112 in ESPN."
+- [19:34](https://youtu.be/c-WwNRgVxkI?t=1174) Harris ranked 148th in categories and 142nd in points leagues last season.
+  > "He was 148 in categories last season and 142 in points leagues."
+- [20:46](https://youtu.be/c-WwNRgVxkI?t=1246) Keldon Johnson shot 36% from three last season but under 32% over the final 40 games.
+  > "36% from three last season, but low volume and that just tailed off"
+- [22:01](https://youtu.be/c-WwNRgVxkI?t=1321) Carter Bryant averaged 0.3 steals in 11 minutes last season.
+  > "2 and.3 steals in 11 minutes is not very good."
+
+## 2026-10-15 [Fantasy Basketball Mock Draft Pick 9 - Copper Flagg Ascension](videos/2026-10-15-bd8GYKFOe8A.md)
+
+- [16:56](https://youtu.be/bd8GYKFOe8A?t=1016) Stephon Castle attempted 14 free throws and made 13 in a recent preseason game.
+  > "Steph Castle, who somehow attempted what 14 free throws yesterday and hit 13 of them."
+- [24:31](https://youtu.be/bd8GYKFOe8A?t=1471) Kevin Porter Jr. was a top-25ish fantasy player last season.
+  > "This was a top 25ish player last season"
+- [28:12](https://youtu.be/bd8GYKFOe8A?t=1692) Anthony Melton had seven steals in a recent preseason game.
+  > "The way Anthony Melton had seven steals yesterday"
+- [23:31](https://youtu.be/bd8GYKFOe8A?t=1411) Kevin Durant had about 38% usage on his return, and Reed Sheppard played about 18 minutes.
+  > "Yesterday we had Duran come back and had like a 38 usage, but Reed was still good enough in like 18 minutes."
+- [23:50](https://youtu.be/bd8GYKFOe8A?t=1430) There have been two torn Achilles and two plantar fascia tears (Nurkic and Struss) this preseason.
+  > "That is two torn Achilles already in this regular in this preseason. We've had two plantto fascia tears"
+- [22:31](https://youtu.be/bd8GYKFOe8A?t=1351) Jaden Ivey's usage was 27%, 17% and 26% over his last three games.
+  > "27 usage last game, 17 the game before, 26 the game before."
+
+## 2026-10-15 [Sacramento Kings Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-15-PrrgoTEcao4.md)
+
+- [5:43](https://youtu.be/PrrgoTEcao4?t=343) Sabonis was 61st in category leagues and 45th in points leagues last season.
+  > "he was 61st in category leagues, 45th in points leagues. ESPN's ADP has him at 19"
+- [8:44](https://youtu.be/PrrgoTEcao4?t=524) LaVine averaged 19 points with 39% from three and 61% true shooting last season.
+  > "he still had 19 points a game. He still shot 39% from three a true shooting of 61."
+- [14:38](https://youtu.be/PrrgoTEcao4?t=878) Murray's three-point percentage went 41, 36, 34, 28 over four seasons.
+  > "shooting 41% as a rookie down to 36, 34, and 28 last season."
+- [19:02](https://youtu.be/PrrgoTEcao4?t=1142) Simmons' free throw percentage went from 40% to 73% over his last two seasons.
+  > "He went from 40 to 73 his last two seasons."
+- [22:08](https://youtu.be/PrrgoTEcao4?t=1328) Hunter averaged 13.5 points and 4 rebounds on 42% shooting and 31% from three, after 41% from three the year before.
+  > "he averaged 13 and a half and four, two assists on 42%. Shot 31 from the from three"
+- [23:03](https://youtu.be/PrrgoTEcao4?t=1383) Raynaud started 56 games at 30 minutes and finished 156th in categories and 147th in points.
+  > "He started 56 games. He played 30 minutes a night. He averaged 14 and N."
+- [25:29](https://youtu.be/PrrgoTEcao4?t=1529) Achiuwa was 187th for the season and 164th in points leagues at 24 minutes.
+  > "He was still just 187th for the season and 164th in points leagues, playing 24 minutes a night."
+
+## 2026-10-15 [Portland Trail Blazers Fantasy Basketball Preview - Return Of Damian Lillard](videos/2026-10-15-8paKnhgNbLg.md)
+
+- [6:01](https://youtu.be/8paKnhgNbLg?t=361) Avdija was 18th in points leagues and 35th in category leagues last season.
+  > "He was 18th in points leagues and 35th in category leagues."
+- [6:33](https://youtu.be/8paKnhgNbLg?t=393) Avdija averaged 6.7 assists on 29% usage last season.
+  > "6.7 assists per game he did it on 29% usage"
+- [10:14](https://youtu.be/8paKnhgNbLg?t=614) In his last healthy season in Milwaukee, Lillard averaged 25 points, 5 rebounds, 7 assists, 1.2 steals and 3.4 threes, and finished seventh.
+  > "He averaged 25, five, and seven, 1.2 steals, 3.4 triples. He was seventh."
+- [14:04](https://youtu.be/8paKnhgNbLg?t=844) Clingan played 27 minutes per game and averaged 12 points, 12 rebounds and 1.7 blocks last season.
+  > "He played 27 minutes a night last season and averaged 12 and 12 with 1.7 blocks."
+- [16:48](https://youtu.be/8paKnhgNbLg?t=1008) Camara averaged 1.1 steals, down from 1.5, and hit 2.7 threes per game last season.
+  > "1.1 steals down from 1.5 the year before."
+- [18:20](https://youtu.be/8paKnhgNbLg?t=1100) Scoot Henderson averaged 14 points, 3 rebounds, 4 assists and 1 steal in 25 minutes over 30 games, shooting 84% FT and 35% from three.
+  > "in his 30 games played in only 25 minutes averaging 14 three and four with a steel game and shooting 84%"
+- [22:08](https://youtu.be/8paKnhgNbLg?t=1328) Morant played 28 minutes per game, averaged 20 points and 8 assists, shot 90% FT and 24% from three in 20 games last season.
+  > "He averaged 20 points and eight assists. He shot 90% from the free throw line."
+- [24:01](https://youtu.be/8paKnhgNbLg?t=1441) Jrue Holiday was 76th in 9-cat and 83rd in points leagues, averaging 16 points, 5 rebounds and 6 assists in 29 minutes.
+  > "76th in Durant, 83rd in points leagues. He played 29 minutes, averaged 16, five and six"
+- [25:51](https://youtu.be/8paKnhgNbLg?t=1551) Robert Williams played 17 minutes per game, averaged 7 points, 7 rebounds and 1.5 blocks, shot 71% FG and 60% FT, and played 59 games last season.
+  > "he played only 17 minutes a night last season, averaged seven and seven, and was 150th."
+
+## 2026-10-14 [Phoenix Suns Fantasy Basketball Preview - Fading Devin Booker?](videos/2026-10-14-MRzebgip23Y.md)
+
+- [3:56](https://youtu.be/MRzebgip23Y?t=236) Devin Booker finished 43rd in category leagues and 33rd in points leagues last season.
+  > "He ended up 43rd and 33rd in points leagues."
+- [4:08](https://youtu.be/MRzebgip23Y?t=248) Booker averaged 26.4 points and 6 assists with 0.8 steals and 45.6 FG% last season.
+  > "264 and six but point8 steals is terrible. His field goals went down to 45.6."
+- [5:13](https://youtu.be/MRzebgip23Y?t=313) Booker made 1.9 threes per game at 33% last season.
+  > "can he just go from 1.9 threes to 2.4 and hit 35 instead of 33?"
+- [6:53](https://youtu.be/MRzebgip23Y?t=413) Jalen Green played 32 games after playing all 82 in two straight seasons. He averaged 18 points, 2.2 threes and 2.8 assists in 26 minutes.
+  > "Mah played 82 games in two consecutive seasons and he played 32 last season."
+- [12:43](https://youtu.be/MRzebgip23Y?t=763) Miles Bridges averaged 17 points, 6 rebounds and 3 assists with 0.6 steals and 0.4 blocks.
+  > "He averaged 17 six and three with a combined one steal and block 6 steals point4 blocks"
+- [14:30](https://youtu.be/MRzebgip23Y?t=870) Dillon Brooks averaged 20 points on 29% usage last season.
+  > "He averaged 20 points a game on 29 usage"
+- [16:12](https://youtu.be/MRzebgip23Y?t=972) Ighodaro shot 39.6% from the line and averaged 8.6 rebounds in 24 starts.
+  > "Unfortunately, he shot 39.6% from the free throw line, which is disastrous."
+- [22:02](https://youtu.be/MRzebgip23Y?t=1322) Gillespie shot 40% from three and ranked 120th in category leagues and 125th in points leagues.
+  > "He was 120th in category leagues and 125th in points leagues."
+- [25:26](https://youtu.be/MRzebgip23Y?t=1526) Luke Kennard shot 48% from three on about three attempts in 22 minutes.
+  > "he shot 48% on threes, but he doesn't take any. Three attempts per game in 22 minutes."
+- [25:58](https://youtu.be/MRzebgip23Y?t=1558) Jordan Goodwin averaged 5 rebounds and 1.5 steals in 22 minutes.
+  > "He averaged five rebounds a game in 22 minutes with 1.5 steals."
+- [29:46](https://youtu.be/MRzebgip23Y?t=1786) Phoenix has the fewest back-to-backs in the league.
+  > "they have the fewest backtobacks in the entire league."
+
+## 2026-10-14 [Fantasy Basketball Mock Draft Pick 7 - Cade Cunningham Build](videos/2026-10-14-D4dP5JvX1oo.md)
+
+- [8:08](https://youtu.be/D4dP5JvX1oo?t=488) Haliburton had about 38% usage in the first half of a recent preseason game.
+  > "having that gigantic like 38 usage first half the other day, which is just not what he usually does."
+- [15:55](https://youtu.be/D4dP5JvX1oo?t=955) Michael Porter Jr. was much better per game last season than his draft slot around pick 66.
+  > "Porter obviously was way better than that per game last season."
+- [7:22](https://youtu.be/D4dP5JvX1oo?t=442) Cade Cunningham's free throw percentage last season was disappointing.
+  > "I'm annoyed a little bit about his free throw percentage from last season."
+- [19:52](https://youtu.be/D4dP5JvX1oo?t=1192) Podziemski has shot better than expected and is a good rebounder for his position.
+  > "He's a very good out of position rebounder. The shooting for him has been better than you expected"
+- [4:42](https://youtu.be/D4dP5JvX1oo?t=282) Kalshi gives Cameron Boozer and Caleb Wilson each a 24% chance to win Rookie of the Year.
+  > "Cameron Boozer and Caleb Wilson are both sitting with a 24% chance."
+
+## 2026-10-13 [Orlando Magic Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-13-zhXtLr_xYVg.md)
+
+- [4:40](https://youtu.be/zhXtLr_xYVg?t=280) Banchero ranked 119th per game in nine-cat last season and 26th in Yahoo points.
+  > "last season was allegedly the 119th ranked player per game on a nine-cat ranking, Durant heading 58th."
+- [7:04](https://youtu.be/zhXtLr_xYVg?t=424) Banchero shot 46% FG and 30% from three last season.
+  > "He shot 46% last season. And he did that by hitting 30% of his threes."
+- [7:40](https://youtu.be/zhXtLr_xYVg?t=460) Banchero's usage dropped from 34 to 27, and his true shooting was 57.
+  > "He also saw last season a big dip in usage, huge dip from 34 to 27."
+- [9:05](https://youtu.be/zhXtLr_xYVg?t=545) Franz Wagner ranked 86th overall and 60th in points last season, and 32nd two years ago.
+  > "So, therefore, he was quite bad, 86 overall, 60 in 15 points leagues."
+- [13:57](https://youtu.be/zhXtLr_xYVg?t=837) Bane played 82 games last season after 69, 42 and 58 in the previous seasons, and shot 39% from three.
+  > "he played 69 the year before he did 42 the year before that, 58 the year before that."
+- [15:51](https://youtu.be/zhXtLr_xYVg?t=951) Jalen Suggs ranked 60th in head-to-head category per game and 84th in points last season.
+  > "He was 60th in head-to-head category per game numbers last season, 84th in points."
+- [16:35](https://youtu.be/zhXtLr_xYVg?t=995) Suggs played 57 games at 28 minutes, with almost 6 assists and 2 steals, and shot 34% from three.
+  > "Suggs only played 57 games in 28 minutes"
+- [17:35](https://youtu.be/zhXtLr_xYVg?t=1055) Wendell Carter Jr. ranked 135th last season.
+  > "Last season, 135th. This is almost he is almost the new Harrison Barnes."
+- [22:53](https://youtu.be/zhXtLr_xYVg?t=1373) Anthony Black ranked 122nd in categories and 105th in points last season, averaging 1.4 steals and 15 points.
+  > "122nd in categories, 105th in points leagues. I just I'm not buying he plays 30 minutes a night."
+- [22:25](https://youtu.be/zhXtLr_xYVg?t=1345) As a starter, Black averaged 32 minutes, 16 points, 4 rebounds, 4 assists and 1.5 steals.
+  > "In the games that he started, 32 minutes a night, 16 four and four with 1.5 steals."
+- [24:25](https://youtu.be/zhXtLr_xYVg?t=1465) Vucevic ranked 67th in categories and 70th in points last season, playing 28 minutes, and is 36 years old.
+  > "He was 67th last season, 67. He was 70 15 points leagues."
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 6 - Must Draft Players Inside](videos/2026-10-13-OsbUAkSeVB4.md)
+
+- [11:12](https://youtu.be/OsbUAkSeVB4?t=672) Damian Lillard has been going in the 80s in drafts.
+  > "we're just deciding that he was going to go in the 80s"
+- [12:36](https://youtu.be/OsbUAkSeVB4?t=756) Zach Edey had never been injured before last season.
+  > "He's  never had injuries until last season"
+- [16:58](https://youtu.be/OsbUAkSeVB4?t=1018) Payton Pritchard just signed a contract extension.
+  > "Looks like  Pton Pritchard just signed a contract extension."
+
+## 2026-10-13 [Philadelphia 76ers Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-13-KqTKVExQGLo.md)
+
+- [4:54](https://youtu.be/KqTKVExQGLo?t=294) Maxey finished 4th in category value and 6th in fantasy points last season.
+  > "He was fourth in Durant and sixth in fantasy points."
+- [5:55](https://youtu.be/KqTKVExQGLo?t=355) Maxey was 17th two seasons ago and 32nd the season before that.
+  > "Like 2 years ago he was 17th in the rank, 32nd the year before."
+- [6:27](https://youtu.be/KqTKVExQGLo?t=387) Maxey averaged 28 points, 4 rebounds, 6.5 assists and 2 steals on 46% FG and 89% FT last season, with 0.8 blocks (double his career best).
+  > "Maxey, 28, four, and six and a half with two steals on 46 and 89"
+- [6:48](https://youtu.be/KqTKVExQGLo?t=408) Over Maxey's last 10 games he averaged 36 minutes and under 24 points, shot 47/88, took under 5 FTA, and had 0.7 steals and 0.6 blocks.
+  > "the last 10 games of last season, he played 36 minutes a night, averaged under 24 points"
+- [7:25](https://youtu.be/KqTKVExQGLo?t=445) Jaylen Brown was 34th in category leagues, 10th in Yahoo points and 62nd in 9-cat rankings last season.
+  > "34th in category leagues last season, 10th in Yahoo fantasy points leagues."
+- [9:19](https://youtu.be/KqTKVExQGLo?t=559) Brown played about 34 minutes last season. He averaged 5 assists and 7 FTA, and his usage was 28.9 the prior year.
+  > "He was at 28.9 the year before alongside Jason Tatum."
+- [13:36](https://youtu.be/KqTKVExQGLo?t=816) Embiid was 12th in per-game category value and 11th in points, and averaged 27 and 8 in 32 minutes.
+  > "Who was 12th in per game category league value last season, 11th in fantasy points value."
+- [13:59](https://youtu.be/KqTKVExQGLo?t=839) Embiid shot 85% FT and 49% FG last season.
+  > "He shot 85 from the field or from the line and 49 from the field."
+- [16:15](https://youtu.be/KqTKVExQGLo?t=975) LeBron was 23rd in points and 32nd in categories. He averaged 21 (20.9), 6 and 7 on 52% shooting.
+  > "He was 23rd in fantasy points and 32nd in category leagues."
+- [17:51](https://youtu.be/KqTKVExQGLo?t=1071) Edgecombe was 59th in categories and 70th in points, averaging 16 points, 4 assists, 5.6 rebounds and 1.4 steals with 20% usage.
+  > "He averaged 16 points, four assists, five 0.6 rebounds, 1.4 steals."
+- [21:49](https://youtu.be/KqTKVExQGLo?t=1309) Simons was 235th in categories and 208th in points, averaging 14 points in 25 minutes.
+  > "He was 235th in Durant, 208th in fantasy points."
+- [23:20](https://youtu.be/KqTKVExQGLo?t=1400) Bona averaged 17 minutes, 5 points, 4 rebounds and 1.2 blocks on 60% FG and 71% FT.
+  > "17 minutes, five points, four rebounds. He's still got 1.2 blocks,"
+- [18:52](https://youtu.be/KqTKVExQGLo?t=1132) Embiid and Paul George missed over 40 games each last season.
+  > "Last season, George and Embiid missed over 40 games each."
+- [28:00](https://youtu.be/KqTKVExQGLo?t=1680) The 76ers have 13 back-to-backs this season.
+  > "They have only 13 back-to-backs, which with this team does mean something."
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build](videos/2026-10-13-EogBYa24Gto.md)
+
+- [11:24](https://youtu.be/EogBYa24Gto?t=684) Dejounte Murray's ADP is around 70.
+  > "Murray's ADP still sits at like 70, but in a lot of these drafts you see he goes early."
+- [14:26](https://youtu.be/EogBYa24Gto?t=866) Shaedon Sharpe's ADP is 99.
+  > "He's got an ADP of 99."
+- [6:29](https://youtu.be/EogBYa24Gto?t=389) Minnesota, Cleveland, New Orleans and Charlotte have two-game weeks in the fantasy playoffs.
+  > "Cavs, Pelicans, Wolves, Hornets I believe have"
+- [22:37](https://youtu.be/EogBYa24Gto?t=1357) John Collins has small forward eligibility on Yahoo.
+  > "John Collins has small forward eligibility. Never played a second of small forward in his life"
+- [8:27](https://youtu.be/EogBYa24Gto?t=507) Kawhi Leonard is playing in a preseason game for the Raptors today. Check the team, since it may be a caption error.
+  > "Kawaii is playing in the preseason game for the Raptors today."
+- [10:57](https://youtu.be/EogBYa24Gto?t=657) Dylan Cardwell is out at least two weeks with a calf strain, and Maxime Raynaud is out two weeks.
+  > "The Kings lost Dylan Cardwell today for two weeks at least with a calf strain after losing Maxim Reno"
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 11 - [9 Cat H2H Tyrese Maxey]](videos/2026-10-13-DzQXaC2rsac.md)
+
+- [12:45](https://youtu.be/DzQXaC2rsac?t=765) Matas Buzelis played 29 minutes per game last season.
+  > "he played 29 minutes a game last season.  Pretty sure that'll improve."
+- [27:31](https://youtu.be/DzQXaC2rsac?t=1651) Tre Jones had big statistical improvements last season.
+  > "He  also had some outrageous improvements last season that I'm not 100% sure will stick."
+
+## 2026-10-12 [Fantasy Basketball Mock Draft - Category Pick 12](videos/2026-10-12-w66x_I_MaQ8.md)
+
+- [3:57](https://youtu.be/w66x_I_MaQ8?t=237) Yahoo's first round: Jokic, Wembanyama, Doncic, Shai Gilgeous-Alexander, Cade Cunningham, Giannis, Tatum, Maxey and Anthony Edwards, then Haliburton at 10 and Jalen Johnson at 12.
+  > "It's Yokic, it's Wimby, Donich, Shay, Cade, Giannis, Tatum, Maxi, Ant, but then a couple of guys"
+- [4:15](https://youtu.be/w66x_I_MaQ8?t=255) Yahoo ranks Donovan Mitchell 13th and Scottie Barnes 14th.
+  > "Yahoo's number 13 is Donovan Mitchell, who I also not confident"
+- [34:46](https://youtu.be/w66x_I_MaQ8?t=2086) His team projected a .500 winning percentage. The top projected team was at 51.8%.
+  > "I did project still with a 500 winning percentage and the top team was 51.8"
+
+## 2026-10-12 [Oklahoma City Thunder Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-12-NhLMyS7Ii5I.md)
+
+- [4:02](https://youtu.be/NhLMyS7Ii5I?t=242) Shai Gilgeous-Alexander was second in the Durant metric and fourth in Yahoo fantasy points last season. He is ranked 4th on Yahoo and 3rd on ESPN.
+  > "He was actually second in Durant last season. He was fourth in Yahoo Fantasy Points."
+- [4:44](https://youtu.be/NhLMyS7Ii5I?t=284) Shai is 28 and averaged about 31 points, 4 rebounds and 6.5 assists last season.
+  > "It is crazy though that Shay is still only 28. He averaged 31,4 and six and a half."
+- [5:02](https://youtu.be/NhLMyS7Ii5I?t=302) Shai shot 81% on free throws over his final 15 games.
+  > "his free throws actually were weirdly low at 81% of the final 15 games"
+- [5:21](https://youtu.be/NhLMyS7Ii5I?t=321) Shai's three-point attempts went from 5.7 to 4.4 per game.
+  > "like he went from 5.7 threes down to 4.4"
+- [6:18](https://youtu.be/NhLMyS7Ii5I?t=378) Shai averaged 6.5 assists last season, after 6.4 and 6.2 in the two seasons before.
+  > "Shay averaged 6 and a half assists last season, 6.4 and 6.2, to the two previous years."
+- [7:20](https://youtu.be/NhLMyS7Ii5I?t=440) Chet Holmgren was 46th in Yahoo points last season. He is ranked 52nd on ESPN and was 45th in the Durant metric.
+  > "Last season in Yahoo Points, he was 46. He's ranked 52 on ESPN"
+- [7:53](https://youtu.be/NhLMyS7Ii5I?t=473) Chet averaged over 2 blocks in each of the two previous seasons and 1.9 last season. His three-point attempts dropped from 4.5 to 3.5.
+  > "He'd been over two blocks each of the two previous seasons and he was down to 1.9."
+- [13:20](https://youtu.be/NhLMyS7Ii5I?t=800) Jalen Williams played 28 minutes per game in 33 games last season. He ranked 81st in categories and 69th in points.
+  > "28 minutes a night he played and he played just 33 games. That meant he was 81st in categories"
+- [15:23](https://youtu.be/NhLMyS7Ii5I?t=923) Isaiah Hartenstein ranked 78th last season and 106th in points leagues. Two years ago he played 28 minutes and averaged 11 points and 11 rebounds.
+  > "was 78 last season, 106 in points leagues."
+- [15:47](https://youtu.be/NhLMyS7Ii5I?t=947) Hartenstein played only 24 minutes per game last season.
+  > "and he only played 24 minutes last season"
+- [17:05](https://youtu.be/NhLMyS7Ii5I?t=1025) Cason Wallace played 27 minutes per game last season and started almost 60 games.
+  > "he played 27 minutes a night last season. and he started almost 60 games"
+- [17:14](https://youtu.be/NhLMyS7Ii5I?t=1034) Wallace averaged 9 points on 14% usage last season.
+  > "58 games with 28 minutes and had nine points on 14 usage"
+- [21:44](https://youtu.be/NhLMyS7Ii5I?t=1304) Ajay Mitchell played only 57 games and was 189th over the last three months of the season.
+  > "He only played 57 games, but like he was 189th over the last three months"
+- [22:33](https://youtu.be/NhLMyS7Ii5I?t=1353) Mitchell played 26 minutes per game last season. He ranked 128th, and 136th in points leagues.
+  > "He was 128th last season. Again, highly fueled by some really hot stuff early on."
+- [23:22](https://youtu.be/NhLMyS7Ii5I?t=1402) Mitchell shot about 48 to 49% from the field overall but 45% over his last 12 games.
+  > "In fact, he was down to 45 over the last 12 games."
+- [23:51](https://youtu.be/NhLMyS7Ii5I?t=1431) Alex Caruso played 18 minutes per game last season.
+  > "He played 18 minutes a night last season."
+- [25:09](https://youtu.be/NhLMyS7Ii5I?t=1509) Jared McCain played only 17 minutes per game in Philadelphia.
+  > "He was limited in their rotation. He only played 17 minutes a night"
+- [27:38](https://youtu.be/NhLMyS7Ii5I?t=1658) In two preseason games, Adimara averaged 17 points and 8 rebounds with 2 blocks on 100% shooting in 22 minutes.
+  > "In two games, he's played 22 minutes, averaging 17 and eight with two blocks on 100% shooting."
+- [32:24](https://youtu.be/NhLMyS7Ii5I?t=1944) Nikola Topic has played 10 career games. In a 39-minute game last season he averaged 16 points, 3 rebounds, 12.5 assists and 2 steals.
+  > "Played 39 minutes, averaged 16, three and 12 and a half with two steals."
+- [33:10](https://youtu.be/NhLMyS7Ii5I?t=1990) OKC has a league-minimum 13 back to backs.
+  > "And then they've got a league minimum 13 back to backs"
+
+## 2026-10-12 [Fantasy Basketball Mock Draft 9 cat Pick 3 | Shai Build](videos/2026-10-12-ENizLoE6pzI.md)
+
+- [12:01](https://youtu.be/ENizLoE6pzI?t=721) Lauri Markkanen's ADP range in tracked drafts is 24 to 48. James Harden's is 11 to 45.
+  > "Markin for example in the drafts that  we've been tracking 24 to 48."
+- [12:06](https://youtu.be/ENizLoE6pzI?t=726) Trae Young's ADP range is 14 to 35.
+  > "Trey Young, I'll give you his advanced range. 14 to 35."
+- [12:28](https://youtu.be/ENizLoE6pzI?t=748) Bam Adebayo's ADP range is about 19 to 39.
+  > "Bam's got a pretty tight range between like 19 and  39"
+- [12:34](https://youtu.be/ENizLoE6pzI?t=754) The earliest Paul George has gone in tracked drafts is pick 61.
+  > "Paul George, the earliest he's gone is 61."
+- [24:58](https://youtu.be/ENizLoE6pzI?t=1498) Miles Turner had five blocks in a preseason game yesterday.
+  > "Miles Turner had five blocks yesterday if you care about that sort of thing."
+- [9:10](https://youtu.be/ENizLoE6pzI?t=550) Cade Cunningham's free throw shooting last season was a concern.
+  > "There are concerns with what his free throws were like last season."
+- [23:12](https://youtu.be/ENizLoE6pzI?t=1392) Brandon Ingram has a partially torn Achilles in his injury history.
+  > "partially torn Achilles injury history not happening"
+
+## 2026-10-11 [Fantasy Basketball Mock Draft - 9 Cat H2H Pick 1 [Jokic Build]](videos/2026-10-11-uI6umXsE7Vk.md)
+
+- [18:45](https://youtu.be/uI6umXsE7Vk?t=1125) Coby White has had four calf strains in the last 12 months.
+  > "injured with his fourth calf strain in the last 12 months"
+- [18:38](https://youtu.be/uI6umXsE7Vk?t=1118) Ty Jerome is getting around 30% usage in preseason games.
+  > "They  are pumping 30 usage into Jerome every game"
+- [27:38](https://youtu.be/uI6umXsE7Vk?t=1658) Kyshawn George had three blocks in his last preseason game.
+  > "there  goes Keshan who what three blocks last game"
+- [27:22](https://youtu.be/uI6umXsE7Vk?t=1642) Paul Reed has started every Pistons preseason game while Duren hasn't played.
+  > "Reed has started all the Pistons games because old mate uh Duran hasn't  played yet"
+- [9:26](https://youtu.be/uI6umXsE7Vk?t=566) Maxime Raynaud has a patella subluxation and is out at least two weeks.
+  > "They was calling it a patella subluxation. So his patella slipped out.  They're saying at least two weeks"
+- [6:10](https://youtu.be/uI6umXsE7Vk?t=370) Tyrese Haliburton missed a preseason game with an ankle injury.
+  > "he missed yesterday's preseason game with  an ankle injury"
+- [19:35](https://youtu.be/uI6umXsE7Vk?t=1175) Alex Sarr is back playing after a broken foot.
+  > "he's back  playing. That's great. Off that broken foot"
+
+## 2026-10-11 [New York Knicks Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-11--dulgoyo_wo.md)
+
+- [6:43](https://youtu.be/-dulgoyo_wo?t=403) Brunson ranked 57th in 9-cat and 27th in Yahoo points last season. His Yahoo ADP is 21.
+  > "He was 57th in Durant last season. 57th for category leagues."
+- [8:58](https://youtu.be/-dulgoyo_wo?t=538) Towns ranked 24th last season and 28th in Yahoo points leagues.
+  > "Carl Anthony Towns who was 24th last season, 28th in points leagues, Yahoo."
+- [9:31](https://youtu.be/-dulgoyo_wo?t=571) Towns' scoring fell by four points per game and his blocks fell to half a game.
+  > "We saw him lose scoring four points per game. We saw his field goals drop."
+- [13:22](https://youtu.be/-dulgoyo_wo?t=802) Anunoby ranked 54th last season and 85th in points leagues. He played 67 games at 33 minutes a night.
+  > "who was 54th in Durant last season, 85th in points league."
+- [17:22](https://youtu.be/-dulgoyo_wo?t=1042) Bridges ranked 72nd per game and 103rd in points leagues.
+  > "103 per game versus 72 in categories."
+- [18:05](https://youtu.be/-dulgoyo_wo?t=1085) Hart's minutes dropped from 38 to 30 and his three-point percentage rose from 33% to 41%. He ranked 83rd per game.
+  > "he went from 38 minutes a night under Tibs to 30. And he somehow improved his three-point shooting from 33 to 41."
+- [21:22](https://youtu.be/-dulgoyo_wo?t=1282) McBride played 27 minutes a night and ranked 220th in categories. In 15 starts he averaged 16 points and 3.5 threes.
+  > "220th in categories, 213th in points leagues. He started 15 games and played 34 minutes."
+- [27:33](https://youtu.be/-dulgoyo_wo?t=1653) Drummond shot 36% from three, averaged 8 rebounds in 20 minutes, and shot 47% from the field.
+  > "He hit them at 36% last season. Um half a three a game and grabbed eight rebounds in 20 minutes"
+- [22:41](https://youtu.be/-dulgoyo_wo?t=1361) Shamet averaged 9 points in 23 minutes.
+  > "He averaged nine points in 23 minutes with under two assists"
+
+## 2026-10-10 [ESPN Points Mock Draft - Taking A Caleb Wilson Plunge](videos/2026-10-10-hviT4hzYNME.md)
+
+- [15:49](https://youtu.be/hviT4hzYNME?t=949) Ty Jerome has had 30-plus usage in every preseason game.
+  > "He's at 30 plus usage every preseason game."
+- [27:53](https://youtu.be/hviT4hzYNME?t=1673) Brandin Podziemski signed a 5-year, $110 million extension.
+  > "What do you think of Brandon Pajk's $110 million 5-year extension?"
+- [26:52](https://youtu.be/hviT4hzYNME?t=1612) Ankle problems limited Keegan Murray last season.
+  > "apparently had some ankle stuff going on through camp. So, and that obviously is what limited him last season."
+- [18:42](https://youtu.be/hviT4hzYNME?t=1122) Lillard was drafted at pick 63 in this mock.
+  > "I think he could be a top 50 player pretty comfortably. And I got him at 63."
+
+## 2026-10-10 [New Orleans Pelicans Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-10-gsx_UDkVPd0.md)
+
+- [6:03](https://youtu.be/gsx_UDkVPd0?t=363) Trey Murphy III was 22nd in category leagues and 43rd in points leagues last season.
+  > "Murphy was 22nd in category leagues, 43rd in points leagues."
+- [6:36](https://youtu.be/gsx_UDkVPd0?t=396) Dejounte Murray played 14 games last season.
+  > "Murray played 14 games last season."
+- [6:45](https://youtu.be/gsx_UDkVPd0?t=405) Trey Murphy was 12th in nine-category rankings and averaged 36 minutes.
+  > "Murphy on if you use the flawed nine-cat rankings, was 12th in those rankings."
+- [8:35](https://youtu.be/gsx_UDkVPd0?t=515) Dejounte Murray averaged 17 points, 5.5 rebounds, 6.5 assists and 1.6 steals in 28 minutes last season.
+  > "He averaged 17, five and a half, and six and a half with 1.6 steals."
+- [9:51](https://youtu.be/gsx_UDkVPd0?t=591) Zion Williamson had 34% usage in 2024-25 and played 30 minutes a night last season.
+  > "He was a guy that in 2024-25 had 34 usage."
+- [16:06](https://youtu.be/gsx_UDkVPd0?t=966) In 14 starts, Yves Missi averaged 24 minutes, 7.5 points, 6.5 rebounds and 2 blocks on 61% shooting.
+  > "in his 14 starts last season, Mici, he did play 24 minutes, 7 and 1/2 and 6 and 1/2."
+- [21:33](https://youtu.be/gsx_UDkVPd0?t=1293) Over the final 25 games, Saddiq Bey averaged 20 points, 5 rebounds and 2.5 assists with 23% usage, shooting 84% FT and 46% FG.
+  > "He averaged over the final 25 games, 20 points, five rebounds, two and a half assists."
+- [25:34](https://youtu.be/gsx_UDkVPd0?t=1534) Derik Queen averaged 12 points, 7 rebounds, 4 assists, 1 steal and 1 block in 25 minutes.
+  > "he played 25 minutes last season averaging 12, 7, and 4 with a steal and a block"
+- [28:10](https://youtu.be/gsx_UDkVPd0?t=1690) Bennedict Mathurin averaged 18 points, 5 rebounds and 2.5 assists with 26% usage in 30 minutes last season.
+  > "18 points a game, five rebounds, two and a half assists."
+- [33:52](https://youtu.be/gsx_UDkVPd0?t=2032) The Pelicans have the most back-to-backs in the league with 16.
+  > "They also played the league most 16 back-to-backs."
+
 ## 2026-10-09 [Minnesota Timberwolves Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-09-cFV24VgxyCY.md)
 
 - [4:48](https://youtu.be/cFV24VgxyCY?t=288) Anthony Edwards ranked 18th in 9-cat and 15th in Yahoo points leagues last season.

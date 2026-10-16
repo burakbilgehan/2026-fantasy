@@ -8,60 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "13cfd44feb82",
+ "input_sha": "4f1cba3d0641",
  "note_count": 4,
- "built_at": "2026-10-11T09:13:22+00:00",
+ "built_at": "2026-10-16T08:45:13+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.09016539999999999,
-  "duration_ms": 37088,
+  "cost_usd_list": 0.1542062,
+  "duration_ms": 34954,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Washington added Trae Young, Anthony Davis and AJ Dybantsa, and these three will take most of the usage. This cuts into the roles of the young players.",
-   "kind": "fact",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:t0",
-    "eTsjuVu1trk:t5",
-    "uarqbNA2dFk:t0"
-   ]
-  },
-  {
-   "text": "He is likely to get fewer minutes and fewer rim contests with Anthony Davis and Alex Sarr on the roster.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p8",
-    "NYTH7uQsPCM:t2"
-   ]
-  },
-  {
-   "text": "His block rate (26.2% of rim contests turned into blocks) could fall back toward average.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p8"
-   ]
-  },
-  {
-   "text": "The fifth starter spot is open, with many wings competing for it. A July projection named Kyshawn George as the fifth starter next to Young, Dybantsa, Davis and Sarr.",
+   "text": "He is not in the projected starting five (Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis, Alex Sarr). The fifth starter spot is not settled, and many wings compete for it.",
    "kind": "fact",
    "date": "2026-09-07",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:t1",
-    "UTE0dNIv8nY:t1"
+    "UTE0dNIv8nY:t1",
+    "gJUBAJaHzlU:t1"
    ]
   },
   {
-   "text": "His defense could make him a candidate to start at shooting guard. In past seasons the team always put him back in the lineup after injuries.",
+   "text": "His defense makes him a candidate to start at shooting guard. In past seasons the team always put him back in the lineup after injuries.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -70,7 +40,7 @@
    ]
   },
   {
-   "text": "Washington has a deep group of long wings and guards. A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes.",
+   "text": "Washington has a crowded group of wings and guards. A 10 or 11 man rotation is expected, with 12 or 13 players who could justify minutes.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
@@ -80,65 +50,66 @@
    ]
   },
   {
-   "text": "Washington is trying to compete and is projected near 40 wins and the play-in, so the late-season resting and minutes cuts of past years should not happen.",
+   "text": "Trae Young, Anthony Davis and AJ Dybantsa joined the team and will share most of the usage, which cuts into the roles of the young players.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t0",
+    "eTsjuVu1trk:t5"
+   ]
+  },
+  {
+   "text": "He blocked 26.2% of the rim shots he contested. With Anthony Davis and Alex Sarr around, he is likely to get fewer minutes and fewer rim contests, and his block rate could fall toward average.",
+   "kind": "verdict",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p8",
+    "NYTH7uQsPCM:t2"
+   ]
+  },
+  {
+   "text": "Washington is trying to compete this season, so the late-season rest and minutes cuts of past years should not return.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
    "sources": [
-    "UTE0dNIv8nY:t0",
-    "UTE0dNIv8nY:t4"
+    "UTE0dNIv8nY:t0"
    ]
   },
   {
-   "text": "Head coach Brian Keefe is under pressure to win this season.",
-   "kind": "fact",
+   "text": "Head coach Brian Keefe is under the most pressure to win games this season.",
+   "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:t5"
    ]
-  },
-  {
-   "text": "He is not a draft target in our 144-player auction. He is a waiver option to watch early in the season.",
-   "kind": "verdict",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a shot-blocking wing who shows some flashes as a passer.",
-   "kind": "fact",
-   "date": "2026-07-23",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:p10"
-   ]
-  },
-  {
-   "text": "Steals and blocks are his best categories, and his blocks are strong for a G,F. He is below the pool in FG%, FT%, 3PM, PTS, REB and AST.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a poor shooter. His three-point percentage fell from 34% as a rookie to 29% by the end of last season.",
+   "text": "He is a good shot-blocking wing and shows some flashes as a passer. His blocks are high for a guard or forward.",
    "kind": "fact",
    "date": "2026-07-23",
    "until": "",
    "sources": [
     "UTE0dNIv8nY:p10",
+    "stats"
+   ]
+  },
+  {
+   "text": "His three-point percentage fell from 34% as a rookie to 29% by the end of last season.",
+   "kind": "fact",
+   "date": "2026-07-23",
+   "until": "",
+   "sources": [
     "UTE0dNIv8nY:p11"
    ]
   },
   {
-   "text": "Shooting is what holds him back, and he has stalled on offense. One expert partly blames injuries for the shooting drop.",
+   "text": "Poor shooting is what holds him back. One expert thinks he has stalled on offense, and another partly blames injuries for the shooting drop.",
    "kind": "verdict",
    "date": "2026-07-23",
    "until": "",
@@ -159,124 +130,113 @@
  ],
  "tags": [
   {
+   "name": "BLK from a guard",
+   "channel": "durable",
+   "detail": "Projected 0.9 BLK, well above his position",
+   "sources": [
+    "UTE0dNIv8nY:p10",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Experts call him injury-prone; 56 to 63 games in each of the last three seasons",
+   "sources": [
+    "UTE0dNIv8nY:p10",
+    "stats"
+   ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "Davis, Sarr, Young and Dybantsa cut into his minutes and rim contests",
-   "until": "",
+   "detail": "Likely fewer minutes with Davis and Sarr in the frontcourt",
    "sources": [
     "NYTH7uQsPCM:p8",
     "NYTH7uQsPCM:t2",
     "gJUBAJaHzlU:t0"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "many wings compete for the open fifth starter spot",
-   "until": "",
+   "detail": "Many wings compete for the fifth starter spot",
    "sources": [
     "gJUBAJaHzlU:t1",
-    "UTE0dNIv8nY:t1"
+    "UTE0dNIv8nY:t2",
+    "LUTYUdXBG1M:t0"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
    "detail": "Trae Young, Anthony Davis and AJ Dybantsa take most of the usage",
-   "until": "",
    "sources": [
-    "eTsjuVu1trk:t5",
-    "uarqbNA2dFk:t0",
-    "gJUBAJaHzlU:t0"
+    "gJUBAJaHzlU:t0",
+    "eTsjuVu1trk:t5"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "concentrated usage",
-   "channel": "current",
-   "detail": "Young, Davis and Dybantsa",
    "until": "",
-   "sources": [
-    "eTsjuVu1trk:t5",
-    "uarqbNA2dFk:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "10 or 11 man rotation expected, crowded at wing and guard",
-   "until": "",
-   "sources": [
-    "UTE0dNIv8nY:t2",
-    "LUTYUdXBG1M:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "fifth starter spot not settled",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:t1"
-   ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "26.2% block rate on rim contests may fall toward average",
-   "until": "",
+   "detail": "26.2% block rate on rim contests could fall toward average",
    "sources": [
     "NYTH7uQsPCM:p8"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury prone",
-   "channel": "durable",
-   "detail": "experts call him injury-prone; 56 to 63 games in each of the last three seasons",
    "until": "",
-   "sources": [
-    "UTE0dNIv8nY:p10",
-    "stats"
-   ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "0 USD value, rank 208 Yahoo and 180 ESPN",
-   "until": "",
+   "detail": "10 or 11 man rotation expected",
    "sources": [
-    "stats"
+    "UTE0dNIv8nY:t2"
    ],
+   "until": "",
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Fifth starter spot unclear",
+   "sources": [
+    "gJUBAJaHzlU:t1"
+   ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Washington is trying to compete for the play-in",
-   "until": "",
+   "detail": "Team is trying to compete for the play-in",
    "sources": [
     "UTE0dNIv8nY:t0"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "coach hot seat",
    "channel": "current",
    "detail": "Brian Keefe",
-   "until": "",
    "sources": [
     "UTE0dNIv8nY:t5"
    ],
+   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (rank 208 Yahoo, 180 ESPN), and only 144 players get drafted, so do not draft him. He was not drafted in our league last season either. Without a starting role he is a steals and blocks wing (1.2 STL and 0.9 BLK projected) who hurts FG% at 42.6% and adds little else. Early in the season, check whether he wins the open fifth starter spot and plays more than about 24 minutes. Pick him up on waivers only if he does.",
+ "note": "Both sites value him at 0 USD. He ranks 211 on Yahoo and 180 on ESPN, well outside the 144 players drafted in our league, and the notes give no reason to draft him. His only plus categories are steals and blocks (projected 1.2 and 0.9). Shooting and points are below average, and his projected minutes drop to 24 from 26.2 because of the usage and frontcourt crowd. Leave him on waivers. Early in the season, check whether he wins the fifth starter spot and whether Anthony Davis misses games, since that would give him back minutes and rim contests.",
  "rejected": []
 }

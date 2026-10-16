@@ -3,161 +3,154 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Most site gaps in our pool point one way: ESPN values sit far above Yahoo for players like Mitchell, Barnes, Davis, White and Bam, and the experts usually side with Yahoo or go even lower. A second group, including Alexander-Walker, Rollins, Garland, Jaren Jackson Jr. and Lillard, has Yahoo and ESPN average costs well below expert value, and those are our best buys. Use expert value as the price cap, use average cost and ADP only to guess when a player will be nominated, and do not copy last season's prices from our room.
+**Summary.** Yahoo, ESPN and last season's prices in our room often point in different directions. For us, expert value is the anchor and the cheaper market is the floor. Let others pay up for the Yahoo-inflated names (Cade Cunningham, Chet Holmgren, Trae Young) and the ESPN-inflated ones (Anthony Davis, Derrick White, Mikal Bridges). Spend the saved budget on players the experts rate well above their market cost, such as Matas Buzelis, Dejounte Murray, Damian Lillard and Paul George.
 
-## How to read a site gap
+## Why the sites split
 
-A rank or projection tells you how good a player is. ADP and average cost are the market price. They tell you when he is likely to be available. If you rank a player 30th and his ADP is 70th, you can wait and take him in the 50s. In our auction that means your bid cap comes from your value, and the market tells you how hard you will have to fight for him. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579))
+Rankings differ a lot between Yahoo, ESPN and Fantrax. Whether a player is a bust or a steal depends on the platform and format. We draft on Yahoo, but our managers read ESPN too. So for every player, check three numbers: the Yahoo average cost, the ESPN value and cost, and what our room paid last season. ([09-28](https://youtu.be/3Qm5wLjhvTw?t=1113))
 
-ADP and average cost are averages, not medians. A player with ADP 50 goes after pick 50 in only about half of drafts, and he often goes earlier than the number suggests. So do not plan to wait until his average cost if you really want him. Bid up to your cap the first time he is nominated. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=575), [09-07](https://youtu.be/gJUBAJaHzlU?t=934))
+Yahoo auction price data currently differs a lot from snake-draft ADP data. Keep the two apart. In an auction, use average auction cost to predict the room. Use snake ADP only as a rough guide to who the room thinks is a first or second rounder. ([09-07](https://youtu.be/gJUBAJaHzlU?t=998))
 
-Yahoo, ESPN and Fantrax rank players very differently. Whether a player is a bust or a steal depends on platform and format. We are a Yahoo 9-cat auction room, so an ESPN rank or a points-league view is only a hint for us. Our own room's prices from last season are a third reference point, but several have aged badly. Booker went for 45 USD and Davis for 54 USD, and experts now price both far lower. ([09-28](https://youtu.be/3Qm5wLjhvTw?t=1113), [Devin Booker](../profiles/players/devin-booker.md), [Anthony Davis](../profiles/players/anthony-davis.md))
+The widest gaps show the problem. Anthony Davis has an ESPN value about twice his Yahoo value, and he cost far more than either in our room last season. Naz Reid is a mid-round player on ESPN and a late one on Yahoo. Trae Young is a top-20 player on Yahoo and close to a throw-in on ESPN. For players like these, expect the room to split, and set your own ceiling before the draft. ([Anthony Davis](../profiles/players/anthony-davis.md), [Naz Reid](../profiles/players/naz-reid.md), [Trae Young](../profiles/players/trae-young.md))
 
-## Which Yahoo numbers to trust
+## Rank is quality, cost is the market
 
-Yahoo auction price data differs a lot from snake-draft ADP data, so treat the two separately. For us, Yahoo auction average cost is the most relevant market signal. Snake ADP mainly tells you about hype. Castle is a clear case: his Yahoo ADP is about 56, but experts fade him there and his category value is much lower. ([09-07](https://youtu.be/gJUBAJaHzlU?t=998), [Stephon Castle](../profiles/players/stephon-castle.md))
+Rankings and projections measure quality. ADP and average cost show the market price. When you rate a player well above his market, buy him somewhere in between, not at your full rank. In auction terms: if the experts rate a player well above his average cost, bid above that cost but stop below the expert value. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579))
 
-A Yahoo ADP based on very few drafts can be inflated. Some Yahoo ADPs are also skewed by dynasty leagues where a player is drafted in only a small share of leagues, so ignore those. Before 2026-10-18, check the draft count behind any Yahoo ADP that looks odd. Edgecombe has a Yahoo ADP around 63 against an ESPN ADP of 112. Experts still price him near 10 USD, so do not chase his Yahoo ADP. ([10-03](https://youtu.be/_O9pc_u5vH0?t=1150), [09-07](https://youtu.be/gJUBAJaHzlU?t=1981), [VJ Edgecombe](../profiles/players/vj-edgecombe.md))
+This gives two groups. In one, the experts rate the player above every market, so he is a value at price. Matas Buzelis, Dejounte Murray, Damian Lillard and Paul George are examples. In the other, one market prices the player above the expert view. Let that price go to someone else. Cade Cunningham and Chet Holmgren on Yahoo, and Derrick White and Mikal Bridges on ESPN, are examples. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Dejounte Murray](../profiles/players/dejounte-murray.md), [Damian Lillard](../profiles/players/damian-lillard.md), [Paul George](../profiles/players/paul-george.md), [Cade Cunningham](../profiles/players/cade-cunningham.md), [Chet Holmgren](../profiles/players/chet-holmgren.md), [Derrick White](../profiles/players/derrick-white.md), [Mikal Bridges](../profiles/players/mikal-bridges.md))
 
-Yahoo's own value and Yahoo's average cost can also be far apart. Alexander-Walker has a 17 USD Yahoo value but a 4 USD average cost. Rollins has a 17 USD value but a 2 USD average cost. For these players the gap is a buying chance, not a warning. ([Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Ryan Rollins](../profiles/players/ryan-rollins.md))
+## Averages hide early buyers
 
-## ESPN is high: let others pay
+ADP is an average, not a median. A player with ADP 50 goes after pick 50 in only about half of drafts. Average auction cost works the same way. One manager who loves a player can pay well above it. Treat the average cost as the middle of the range, not as the ceiling. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=575), [09-07](https://youtu.be/gJUBAJaHzlU?t=934))
 
-The most common gap has ESPN well above Yahoo, with experts siding with Yahoo or going lower. ESPN values Mitchell at 59 USD, but experts see 31 to 40 USD. ESPN puts Barnes at 55 USD, but experts plan on 31 to 35 USD. ESPN puts Edwards at 60 USD, but experts say 40 to 45 USD. ESPN's rank of 15 for Davis is called too high because of his games played, so stop in the mid 20s USD. ([Donovan Mitchell](../profiles/players/donovan-mitchell.md), [Scottie Barnes](../profiles/players/scottie-barnes.md), [Anthony Edwards](../profiles/players/anthony-edwards.md), [Anthony Davis](../profiles/players/anthony-davis.md))
+The experts lean different ways on timing. One note says buy between your rank and the market price, which favours patience. Another says that when a player's ESPN ADP is far later than his rank, people keep passing on him, so grab him when that happens. A third warns that players often go earlier than their ADP suggests, so waiting can cost you the player. In our auction, wait on players whose market is still falling during the draft. For a player you rate far above his market, bid as soon as he is nominated rather than hoping he slips. Stop at the ceiling in his line. ([09-01](https://youtu.be/skKXe2CRl8Q?t=579), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2530), [09-07](https://youtu.be/gJUBAJaHzlU?t=934))
 
-The same pattern holds lower in the pool. Experts call ESPN's 43 USD for Bam far too high and price him in the mid 20s. White is 42 USD on ESPN but a mid 20s player to the experts. Kawhi is 40 USD on ESPN, but experts cap him at 24 USD. Siakam, Bridges and Allen are also ranked much higher on ESPN than experts see them. If a manager in our room bids from ESPN numbers, let him have these players. ([Bam Adebayo](../profiles/players/bam-adebayo.md), [Derrick White](../profiles/players/derrick-white.md), [Kawhi Leonard](../profiles/players/kawhi-leonard.md), [Pascal Siakam](../profiles/players/pascal-siakam.md), [Mikal Bridges](../profiles/players/mikal-bridges.md), [Jarrett Allen](../profiles/players/jarrett-allen.md))
+## Thin and distorted data
 
-## Yahoo is high: wait for the discount
+A Yahoo ADP based on very few drafts can be inflated and misleading. Some Yahoo ADPs are also distorted by dynasty leagues, where a player is drafted in only a small share of leagues. Ignore those numbers. Before the draft, check how many drafts stand behind a Yahoo number. Trust it less when the player has no average cost or when the sources disagree on his rank. ([10-03](https://youtu.be/_O9pc_u5vH0?t=1150), [09-07](https://youtu.be/gJUBAJaHzlU?t=1981))
 
-A smaller group has Yahoo above ESPN, and the experts lean toward ESPN. Holmgren is 29 USD on Yahoo against an expert price of 21 to 22 USD. Kessler is 25 USD on Yahoo, but experts aim for 12 to 15 USD. Clingan's Yahoo average cost is 16.2 USD, but experts say 7 to 10 USD. Sarr is 18 USD on Yahoo, but experts see a pick 80 to 90 player. Zubac is 18 USD on Yahoo, but experts cap him near 14 USD. Several of these are big men, so plan your center spot with a cheaper option in mind. ([Chet Holmgren](../profiles/players/chet-holmgren.md), [Walker Kessler](../profiles/players/walker-kessler.md), [Donovan Clingan](../profiles/players/donovan-clingan.md), [Alex Sarr](../profiles/players/alex-sarr.md), [Ivica Zubac](../profiles/players/ivica-zubac.md))
+Some players in our pool show these warning signs. Gui Santos and Danny Wolf have no Yahoo average cost. Russell Westbrook's ESPN rank differs between sources. Kelly Oubre Jr.'s Yahoo rank and his tag do not match. None of them should use one of our 144 draft spots. Leave them on waivers and watch their roles. ([10-03](https://youtu.be/_O9pc_u5vH0?t=1150), [Gui Santos](../profiles/players/gui-santos.md), [Danny Wolf](../profiles/players/danny-wolf.md), [Russell Westbrook](../profiles/players/russell-westbrook.md), [Kelly Oubre Jr.](../profiles/players/kelly-oubre.md))
 
-Some guards and forwards fit here too. Trae is 38 USD on Yahoo, and experts call the ESPN average cost of about 33 USD closer to fair. Durant's Yahoo average cost of 49.6 USD is a stretch, and a price in the low 40s is fair. Wagner's 21 USD Yahoo value is above the experts' 11 to 15 USD. ([Trae Young](../profiles/players/trae-young.md), [Kevin Durant](../profiles/players/kevin-durant.md), [Franz Wagner](../profiles/players/franz-wagner.md))
+## Do not anchor on last season's room
 
-## Both markets too low: plan to buy
+Last season our room paid far more than today's market and the experts suggest for several players. Examples are Anthony Davis, Devin Booker, Stephen Curry, Trae Young and Domantas Sabonis. Each of those prices bought a role or health picture that has changed, so do not repeat them. ([Anthony Davis](../profiles/players/anthony-davis.md), [Devin Booker](../profiles/players/devin-booker.md), [Stephen Curry](../profiles/players/stephen-curry.md), [Trae Young](../profiles/players/trae-young.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md))
 
-When a player's ESPN ADP is far later than his rank, drafters are passing on him round after round, so grab him when that happens in your draft. In our room, take these players as soon as the price drops below your cap. Alexander-Walker is supported up to about 20 USD. Garland is fair at 20 to 25 USD. Jaren Jackson Jr. is a strong buy in the high teens. Rollins is a top 50 player who costs about 2 USD on both sites. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=2530), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md), [Darius Garland](../profiles/players/darius-garland.md), [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md), [Ryan Rollins](../profiles/players/ryan-rollins.md))
+The reverse also happened. Naz Reid, Keyonte George, Zach Edey and Nickeil Alexander-Walker went for 1 or 2 USD last season. The experts now value each of them at 10 USD or more. Expect someone in our room to know this, and plan to pay the expert range given in their lines. ([Naz Reid](../profiles/players/naz-reid.md), [Keyonte George](../profiles/players/keyonte-george.md), [Zach Edey](../profiles/players/zach-edey.md), [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md))
 
-Other experts' buys at market price include Lillard at 5 to 10 USD, Paul George up to his 13 USD Yahoo value, Buzelis at 15 to 22 USD, Keyonte George at 15 to 20 USD and Daniels at 18 to 24 USD. Jamal Murray has the reverse gap: Yahoo buyers pay about 39 USD and ESPN buyers about 25 USD. Experts rank him above both sites, so the mid to high 30s is still fair. ([Damian Lillard](../profiles/players/damian-lillard.md), [Paul George](../profiles/players/paul-george.md), [Matas Buzelis](../profiles/players/matas-buzelis.md), [Keyonte George](../profiles/players/keyonte-george.md), [Dyson Daniels](../profiles/players/dyson-daniels.md), [Jamal Murray](../profiles/players/jamal-murray.md))
+## Draft-day checklist
 
-## Where the experts disagree
-
-The experts do not always agree on these prices. For Amen Thompson, most experts value him at 35 to 40 USD, but Lloyd calls him only a third-round pick if his blocks and FG% do not come back. Edey went for 20 USD in a mock while Josh capped him at 11 USD. Knueppel sold for 13 USD against Josh's limit of 8 USD. In each case, our cap sits at the lower expert number unless early-season news supports the higher one. Big gaps between sites also cut both ways. One view says a late ESPN ADP is a signal to grab the player. The other says platform data should be read separately, because rankings differ by platform and format. ([Amen Thompson](../profiles/players/amen-thompson.md), [Zach Edey](../profiles/players/zach-edey.md), [Kon Knueppel](../profiles/players/kon-knueppel.md), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2530), [09-07](https://youtu.be/gJUBAJaHzlU?t=998), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1113))
+For each split player, write down one ceiling before 2026-10-18 and stick to it. Clear up injury tags first: Bam Adebayo (groin, Q), Domantas Sabonis (Q) and Dejounte Murray (toe, Q). Near the end of the draft, the 144-player cutoff matters more than any site's rank. Players the experts rank around 120 to 165 are 1 USD picks at most, or waiver adds. Kristaps Porzingis and Andrew Nembhard are examples. ([Bam Adebayo](../profiles/players/bam-adebayo.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Dejounte Murray](../profiles/players/dejounte-murray.md), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md), [Andrew Nembhard](../profiles/players/andrew-nembhard.md))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Core targets
+### Pay the fair price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 60.8 | 19 | 64.1 | 62 | ESPN's rank of 19 is the low outlier, while Yahoo, the experts and our room agree on about 60 USD, so he is a buy at 60 to 62 USD for a punt FT% build. |
-| [Jamal Murray](../profiles/players/jamal-murray.md) | DEN | G | 17 | 39.2 | 22 | 24.8 | 27 | Yahoo buyers pay about 39 USD and ESPN buyers about 25 USD, and experts rank him above both sites, so he is a buy up to the mid to high 30s USD. |
-| [Amen Thompson](../profiles/players/amen-thompson.md) | HOU | G | 20 | 29.8 | 16 | 37.4 | 38 | ESPN buyers pay more than Yahoo buyers and experts sit between the two, so he is a buy up to the high 30s USD, less if his blocks and FG% do not return. |
-| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 49.6 | 28 | 34.0 | 44 | Yahoo is the high side and ESPN the low side, and experts call him a late first-round value, so he is a buy in the low 40s USD but not near 50 USD. |
-| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 23 | 31.2 | 12 | 32.1 | 29 | ESPN's 50 USD value is the high outlier and experts sit in the mid 30s, just above Yahoo, so he is a buy at any price up to the mid 30s USD. |
-| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 31.7 | 42 | 21.1 | 25 | Yahoo values him at more than twice ESPN's figure, and experts side with Yahoo, so he is a buy at 30 to 36 USD and an overpay at 40 USD. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 62.0 | 19 | 64.3 | 62 | Yahoo ranks him much higher than ESPN, but every price source sits near 60 USD, so he is a buy at about 60 USD for a punt FT% build. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 23 | 28.8 | 12 | 40.5 | 29 | ESPN values him far above Yahoo, and the experts sit in between, so he is a buy anywhere near 30 USD and fair up to the mid 30s. |
+| [Kevin Durant](../profiles/players/kevin-durant.md) | HOU | G,F | 14 | 46.1 | 28 | 32.6 | 44 | Yahoo and our room price him well above ESPN, so expect a fight near 40 to 46 USD and treat him as a buy only at about 40 USD or less. |
+| [Jamal Murray](../profiles/players/jamal-murray.md) | DEN | G | 17 | 37.0 | 22 | 25.7 | 27 | Yahoo's cost is far above ESPN's, and 34 to 38 USD is fair for a no-weakness guard, so anything below 34 USD is a bargain. |
+| [Austin Reaves](../profiles/players/austin-reaves.md) | LAL | G,F | 21 | 29.1 | 42 | 23.5 | 25 | Yahoo ranks him far above ESPN and recent mocks are rising, so he is a buy up to about 36 USD, and 40 USD is an overpay. |
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 27.4 | 17 | 27.1 | 26 | ESPN's value is far above both sites' average cost, so bid up to about 27 USD and ignore the ESPN value. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 25.0 | 32 | 37.3 | 41 | ESPN's cost and our room's old price sit well above Yahoo, so he is a buy at about 25 USD, the low 30s are fine, and 40 USD is not. |
+| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 30 | 21.4 | 36 | 13.9 | 16 | Yahoo drafters take him much earlier than ESPN drafters, so he is a buy in the mid 20s, though one mock already reached 30 USD. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 35 | 21.2 | 55 | 9.5 | 20 | The experts side with Yahoo over ESPN's low price, so he is a buy at about 20 to 26 USD. |
+| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 47 | 24.0 | 63 | 20.0 | 29 | Yahoo values him far above ESPN, and last season's room price was paid for a role he no longer has, so he is a buy at 20 to 24 USD. |
+| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 43 | 20.6 | 73 | 16.6 | 22 | Yahoo values him far above ESPN, and the experts' ceiling is near 25 USD, so he is a buy at 20 to 25 USD for punt TO. |
+| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 36 | 24.9 | 20 | 26.5 | 20 | ESPN values him well above Yahoo, but his knee caps the expert price, so he is a strong buy only near 20 to 24 USD. |
+| [Deni Avdija](../profiles/players/deni-avdija.md) | POR | G,F | 42 | 17.0 | 60 | 21.5 | 17 | Yahoo values him far above ESPN, and his assists shrink next to Lillard and Morant, so he is a buy near 17 USD with 24 USD as the ceiling. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 32 | 20.6 | 23 | 24.7 | 14 | ESPN ranks him above Yahoo, while the experts see picks 40 to 50, so he is a buy around 20 USD and not near either site's value. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 51 | 17.1 | 76 | 15.9 | 26 | His snake ADP reflects points-league appeal while 9-cat experts side with Yahoo's rank, so he is a buy at about 19 to 20 USD. |
+| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 81 | 3.1 | 51 | 7.7 | 13 | ESPN ranks him well above Yahoo, whose drafters pay very little, so he is a buy at 8 to 12 USD and not at his ESPN rank. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 80 | 5.0 | 56 | 6.0 | 10 | ESPN ranks him above Yahoo and the experts call that too high, so he is a buy at about 8 to 12 USD for a punt FT% build. |
 
-### Discount only
+### Let others overpay
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Anthony Edwards](../profiles/players/anthony-edwards.md) | MIN | G | 9 | 59.1 | 5 | 59.8 | 55 | ESPN's value is above Yahoo's and both are above the experts' 40 to 45 USD, so he becomes a buy only at 45 USD or less. |
-| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 13 | 47.8 | 6 | 49.7 | 40 | ESPN values him 15 USD above Yahoo and every expert says he is not first round, so he is a buy at 31 to 40 USD. |
-| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.3 | 13 | 44.1 | 31 | Both sites value him at 42 to 55 USD, well above the experts, so he becomes a buy at 31 to 35 USD. |
-| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 19.1 | 15 | 26.1 | 54 | ESPN ranks him 30 spots above Yahoo, and experts call ESPN too high because of his games played, so he is a buy only in the mid 20s USD. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 37.1 | 49 | 33.3 | 44 | Yahoo is the high side and ESPN ranks him only 49th, and experts see a round 3 player, so he is a buy near 33 USD, not at Yahoo's value. |
-| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 37.4 | 37 | 34.6 | 31 | Yahoo ranks him about 18 spots above ESPN and experts sit below Yahoo, so he is a buy near 29 to 31 USD for a punt TO team. |
-| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 36 | 27.9 | 20 | 26.1 | 20 | ESPN's 40 USD value is the high side, and experts cap him at 24 USD because of his knee and rest days, so he is a buy at 24 USD or less. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 24 | 31.1 | 39 | 32.6 | 45 | Yahoo is high and ESPN low, and experts lean low, so he is a buy around 22 USD, far below last year's room price. |
-| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 59 | 9.7 | 25 | 24.6 | 25 | ESPN ranks him 25th, but experts side with Yahoo's rank of 59, so he is a buy near Yahoo's 17 USD value and not at 25 to 29 USD. |
-| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 79 | 2.8 | 29 | 12.0 | 9 | ESPN values him above Yahoo, but experts put him near 2 USD, so he is a buy only at a few dollars. |
-| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 31 | 30.3 | 52 | 11.4 | 32 | Yahoo values him nearly three times higher than ESPN, and experts lean toward ESPN, so he is a buy at about 21 to 22 USD. |
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 38 | 18.2 | 48 | 8.9 | 15 | Yahoo values him at about twice ESPN's figure, and experts side with ESPN, so he is a buy at about 12 to 15 USD. |
-| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 63 | 9.5 | 40 | 15.4 | not drafted | ESPN buyers pay more than Yahoo buyers, and every expert ranks him lower than both markets, so he is a buy at 8 to 12 USD. |
-| [Deni Avdija](../profiles/players/deni-avdija.md) | POR | G,F | 42 | 16.1 | 60 | 21.3 | 17 | Yahoo's value is far above ESPN's, though ESPN buyers pay more, so he is a buy at about 20 to 23 USD and not in the mid 30s. |
-| [LeBron James](../profiles/players/lebron-james.md) | PHI | F | 43 | 20.8 | 73 | 16.8 | 22 | Yahoo ranks him 30 spots above ESPN, and experts see fair value in the 50s to 60s, so he is a buy at 25 USD or less. |
-| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 44 | 16.2 | 45 | 7.0 | 7 | Yahoo buyers pay more than twice the ESPN average cost, and experts side with ESPN, so he is a buy at 7 to 10 USD. |
-| [Franz Wagner](../profiles/players/franz-wagner.md) | ORL | F | 50 | 10.2 | 68 | 8.3 | 26 | Yahoo's value is far above ESPN's, and experts sit at 11 to 15 USD, so he is a buy in that range and not above 20 USD. |
-| [Jarrett Allen](../profiles/players/jarrett-allen.md) | CLE | C | 72 | 3.9 | 51 | 7.5 | 13 | ESPN ranks him about 21 spots above Yahoo, and experts side with Yahoo, so he is a buy near 13 to 14 USD. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 52 | 7.3 | 87 | 8.0 | 24 | Yahoo's value is far above ESPN's, and games played are the main risk, so treat Yahoo's 19 USD value as the most he is worth to us. |
-| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 70 | 4.3 | 53 | 10.2 | 21 | ESPN buyers pay more than twice the Yahoo average cost, and the newest expert calls see his rank as a best case, so he is a buy at 5 to 10 USD. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.7 | 75 | 4.8 | 20 | Yahoo's value is more than three times ESPN's, and experts cap him at about 14 USD, so he is a buy at 10 to 14 USD. |
-| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 56 | 5.2 | 66 | 4.0 | 9 | Yahoo's value is high, while experts see a pick 80 to 90 player, so he is a buy only near his 4 to 9 USD market prices. |
-| [Caleb Wilson](../profiles/players/caleb-wilson.md) | CHI | F | 82 | 2.4 | 57 | 5.5 | not drafted | ESPN ranks him 25 spots above Yahoo, and experts side with Yahoo, so he is a buy at about Yahoo's 11 USD value at most. |
-| [VJ Edgecombe](../profiles/players/vj-edgecombe.md) | PHI | G | 84 | 6.9 | 59 | 3.8 | not drafted | His Yahoo ADP is far earlier than his ESPN ADP, and experts price him near 10 USD, so he is a buy at 7 to 10 USD. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 77 | 4.3 | 92 | 10.3 | 1 | ESPN buyers pay more than twice the Yahoo average cost, and experts fade him, so he is a buy at a few USD and not at 15 USD or more. |
-| [Zion Williamson](../profiles/players/zion-williamson.md) | NOP | F,C | 81 | 2.9 | 94 | 6.8 | 21 | Yahoo's value is four times ESPN's, while Josh says about 6 USD, so he is a buy only below about 10 USD. |
+| [Cade Cunningham](../profiles/players/cade-cunningham.md) | DET | G | 5 | 65.2 | 11 | 57.2 | 55 | Yahoo's cost is far above ESPN and the experts, so let others pay the Yahoo price and buy only at about 45 to 50 USD. |
+| [Donovan Mitchell](../profiles/players/donovan-mitchell.md) | CLE | G | 13 | 45.4 | 6 | 49.4 | 40 | ESPN prices him like a first-rounder and every expert disagrees, so he is a buy only in the low to mid 30s. |
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 17.6 | 15 | 27.4 | 54 | ESPN's value and our room's old price sit far above Yahoo, and he will miss games, so he is a buy only at 26 to 30 USD. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 13.0 | 18 | 20.2 | 30 | ESPN values him far above Yahoo, and the experts side with Yahoo, so he is a buy at about 20 USD or less, never at 30 USD. |
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 35.3 | 49 | 31.3 | 44 | Yahoo and our room price him as a top-20 player while ESPN barely values him, so he is a buy only at a price that fits around pick 26. |
+| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 37.4 | 37 | 32.6 | 31 | Yahoo values him far above ESPN, and his preseason role worries the experts, so he is a buy at 28 to 32 USD and not at the full Yahoo price. |
+| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 24 | 31.1 | 39 | 30.4 | 45 | Our room and Yahoo price him well above ESPN and the experts, so he is a buy in the low 20s, with a hard stop at about 25 to 30 USD. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.9 | 34 | 24.6 | 42 | Our room's old price is far above both sites because his games played are uncertain, so he is a buy at 25 to 31 USD. |
+| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 28 | 21.3 | 47 | 10.3 | 20 | Yahoo values him far above ESPN, using a role that came with Murray out, so he is a buy in the low 20s and not above 25 USD. |
+| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 31 | 26.4 | 52 | 12.7 | 32 | The experts agree Yahoo prices him too high and side with ESPN, so he is a buy only at about 21 to 22 USD or less. |
+| [Pascal Siakam](../profiles/players/pascal-siakam.md) | IND | F,C | 61 | 9.9 | 25 | 23.2 | 25 | ESPN's value and our room's old price sit far above Yahoo, and the experts side with Yahoo, so he is a buy at about 17 USD or less. |
+| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 38 | 17.0 | 48 | 9.9 | 15 | The experts agree Yahoo overprices him and side with ESPN, so he is a buy only up to about 15 USD. |
+| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 44 | 14.5 | 45 | 7.9 | 7 | Every expert says Yahoo's value is too high, so he is a buy only near his ESPN value or Yahoo cost, about 13 to 15 USD. |
+| [Franz Wagner](../profiles/players/franz-wagner.md) | ORL | F | 50 | 12.8 | 68 | 8.9 | 26 | Yahoo values him well above ESPN, and our room paid far more last season, so he is a buy only up to about 15 USD. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.6 | 75 | 6.0 | 20 | Yahoo's value and our room's old price sit well above ESPN and the experts, so he is a buy at 10 to 14 USD. |
+| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 52 | 8.7 | 87 | 8.1 | 24 | Yahoo values him well above ESPN, and our room paid much more last season, but the games he misses cap him, so he is a buy at 10 to 15 USD. |
+| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 78 | 5.2 | 92 | 10.4 | 1 | Every expert says fade his Yahoo ADP and side with ESPN's low value, so he is a buy only in single digits. |
+| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 68 | 9.5 | 40 | 14.9 | not drafted | ESPN ranks him well above Yahoo, and the experts call both ADPs too early, so he is a buy at about 8 to 10 USD. |
+| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 56 | 4.6 | 66 | 4.7 | 9 | The experts say Yahoo ranks him too high and side with ESPN, so he is a buy up to about 10 USD for a blocks build. |
+| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 75 | 3.9 | 98 | 3.0 | 16 | Yahoo's value and our room's old price sit far above the market cost, which the experts trust, so he is a buy in single digits, ideally near 4 USD. |
+| [Mikal Bridges](../profiles/players/mikal-bridges.md) | NYK | F | 76 | 2.2 | 29 | 11.5 | 9 | ESPN prices him like a top-30 player, but every expert says fade him, so he is a buy only at a few USD. |
+| [De'Aaron Fox](../profiles/players/deaaron-fox.md) | SAS | G | 69 | 3.9 | 53 | 9.7 | 21 | ESPN's cost and our room's old price sit above Yahoo, while the experts rank him 70 to 90, so he is a buy at 10 to 14 USD. |
+| [Caleb Wilson](../profiles/players/caleb-wilson.md) | CHI | F | 79 | 4.0 | 57 | 6.4 | not drafted | The experts call ESPN's rank too high and side with Yahoo, so he is a buy near 4 to 6 USD. |
+| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 99 | 1.5 | 69 | 2.8 | not drafted | ESPN ranks him much higher than Yahoo, and the experts side with Yahoo, so he is a buy at 1 to 5 USD. |
+| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 142 | 1.2 | 62 | 2.1 | 4 | ESPN's rank is what the experts fade, and Yahoo barely values him, so he is a buy only at 1 to 3 USD as a last pick. |
+| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 129 | 1.2 | 74 | 2.8 | 1 | ESPN ranks him far above Yahoo and the experts, so he is a buy only at 1 to 3 USD as a late punt FG% guard. |
+| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 143 | 2.6 | 101 | 2.1 | 10 | ESPN ranks him far above Yahoo, but the experts put him at the edge of our pool, so he is a buy only at 1 to 3 USD. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.3 | 17 | 27.1 | 26 | ESPN's value is far above Yahoo's, and experts side with Yahoo, so he is a buy in the mid 20s USD. |
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 14.9 | 18 | 19.8 | 30 | ESPN's value is far above Yahoo's, and experts side with Yahoo, so he is fair in the mid 20s USD and a bargain in the mid teens. |
-| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 65 | 4.1 | 24 | 10.0 | 2 | ESPN ranks him 41 spots above Yahoo, and experts put him at 55 to 75, so he is a buy at 10 to 14 USD. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.7 | 34 | 24.6 | 42 | Yahoo is about 10 USD above ESPN, and his per-game value is near 40 USD but injury risk caps him, so he is a buy in the mid to high 20s USD. |
-| [Trey Murphy III](../profiles/players/trey-murphy.md) | NOP | G,F | 28 | 22.8 | 47 | 9.2 | 20 | Yahoo values him far above ESPN's average cost, and the points-league complaints do not apply to us, so he is a buy in the mid 20s USD. |
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 30 | 20.7 | 36 | 13.1 | 16 | Yahoo is the high side and his ESPN ADP is far later, so he is a buy in the low to mid 20s USD. |
-| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 58 | 4.0 | 33 | 11.3 | 1 | ESPN ranks him well above Yahoo, but both markets sit far below the experts' top 35 to 50 view, so he is a buy at any price up to about 20 USD. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 35 | 19.3 | 55 | 8.3 | 20 | Yahoo's value is nearly three times ESPN's, and experts side with the Yahoo end, so he is a buy at 20 to 26 USD. |
-| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 62 | 4.1 | 38 | 10.7 | 28 | ESPN ranks him well above Yahoo, and his Yahoo average cost is far below both site values, so he is a buy at 18 to 24 USD. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 40 | 15.3 | 72 | 6.3 | 29 | Yahoo's value is five times ESPN's, and experts rank him about 36th, so he is a strong buy in the high teens and fair up to the mid 20s USD. |
-| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 41 | 9.9 | 50 | 10.6 | not drafted | Yahoo's value is about twice ESPN's, and experts see top 20 per-game value, so he is a buy into the high teens USD. |
-| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 61 | 3.5 | 43 | 10.8 | 10 | ESPN buyers pay about three times the Yahoo average cost, and experts side with the site values, so he is a buy around 10 USD. |
-| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 46 | 14.7 | 88 | 6.6 | 2 | Yahoo's value is far above ESPN's, and experts think the market dropped him too far, so he is a buy at 15 to 20 USD. |
-| [Jaylen Brown](../profiles/players/jaylen-brown.md) | PHI | G,F | 47 | 22.9 | 63 | 20.5 | 29 | Yahoo's value is far above ESPN's, and experts side with Yahoo, so he is a buy at about 23 USD for a punt TO team. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 51 | 12.8 | 76 | 15.4 | 26 | Yahoo's value is four times ESPN's, and experts put him at picks 45 to 75, so he is a buy at 13 to 20 USD. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 53 | 7.0 | 54 | 13.7 | 11 | ESPN buyers pay almost twice the Yahoo average cost, and experts see a top 30 to 50 player, so he is a buy at about 20 to 25 USD. |
-| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 55 | 11.7 | 77 | 6.5 | not drafted | Yahoo's value is far above ESPN's, and experts see rank 60 to 65, so he is a buy near 12 to 15 USD. |
-| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 57 | 3.2 | 61 | 7.8 | not drafted | Yahoo's value is far above both average costs, and experts call him a round 4 value, so he is a buy up to about 18 USD for a punt TO team, but bids may reach 24 USD. |
-| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 88 | 1.4 | 58 | 4.5 | not drafted | ESPN ranks him 30 spots above Yahoo, but both value him at 8 USD, so he is a buy up to 8 USD. |
-| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 60 | 2.0 | 104 | 2.2 | not drafted | Yahoo's value is far above ESPN's, while both average costs sit near 2 USD and experts see a top 50 player, so he is a strong buy anywhere below 17 USD. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 64 | 6.0 | 64 | 5.3 | 12 | Both sites price him low, but experts see a top 50 player worth about 20 USD, so he is a buy at 15 to 22 USD. |
-| [Tyler Herro](../profiles/players/tyler-herro.md) | MIL | G | 68 | 3.8 | 65 | 8.0 | 14 | Yahoo's value is more than twice ESPN's, so he is a buy at 14 to 16 USD and a bargain near 7 USD. |
-| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 66 | 6.3 | 114 | 2.3 | 2 | Yahoo's value is eight times ESPN's, and a mock paid 20 USD against Josh's 11 USD cap, so he is a buy near 11 USD. |
-| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 67 | 3.8 | 70 | 6.2 | not drafted | Yahoo's value is more than twice ESPN's, while experts see about 20 USD per game, so he is a strong buy at 5 to 10 USD. |
-| [Norman Powell](../profiles/players/norman-powell.md) | CHI | G,F | 89 | 2.4 | 67 | 4.6 | 8 | ESPN ranks him 22 spots above Yahoo, and experts see about 80th overall, so he is a buy at 7 USD or less. |
-| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 69 | 3.7 | 71 | 4.7 | 15 | Yahoo's value is three times ESPN's, and experts side with Yahoo, so he is a buy at 15 to 18 USD. |
-| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 71 | 5.8 | 84 | 9.3 | 10 | Yahoo's value is far above ESPN's, though ESPN buyers pay more, so he is a buy at 10 to 12 USD with a stop near 15 USD. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 73 | 2.6 | 79 | 3.3 | 16 | Yahoo's value is far above ESPN's, and experts see upside above Yahoo, so he is a buy at 14 to 18 USD for punt FT% and punt 3PM builds. |
-| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 75 | 3.7 | 127 | 1.2 | not drafted | Yahoo's value is far above ESPN's, and Josh priced him at about 6 USD, so he is a buy at 4 to 8 USD. |
-| [Paul George](../profiles/players/paul-george.md) | BOS | F | 76 | 1.8 | 91 | 3.3 | 9 | Yahoo's value is four times ESPN's, and experts expect top 40 per-game value, so he is a buy up to 13 USD and still fine at 15 to 20 USD. |
-| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 90 | 4.0 | 135 | 0.7 | not drafted | Yahoo values him at 6 USD and ESPN near 0 USD, but a mock paid 10 USD and still called it under value, so he is a buy up to about 10 USD. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 40 | 14.6 | 72 | 7.3 | 29 | Both markets price him well below his Yahoo value and his expert rank, so he is a good buy anywhere near his Yahoo cost of about 15 USD. |
+| [Nickeil Alexander-Walker](../profiles/players/nickeil-alexander-walker.md) | ATL | G | 58 | 5.7 | 33 | 11.7 | 1 | ESPN ranks him well above Yahoo, and both average costs sit below both site values, so he is a clear buy at 15 to 20 USD. |
+| [Kyrie Irving](../profiles/players/kyrie-irving.md) | DAL | G | 41 | 12.7 | 50 | 11.6 | not drafted | The experts now draft him in round 3, far above his market cost on both sites, so he is a buy up to his Yahoo value of about 24 USD. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 53 | 8.0 | 54 | 13.7 | 11 | Yahoo values him far above his cost there and above ESPN, and the experts see a top-30 player, so he is a buy in the high teens with 25 USD as the ceiling. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 59 | 6.0 | 64 | 5.9 | 12 | The experts value him far above both markets, so he is a buy up to about 20 USD. |
+| [Dejounte Murray](../profiles/players/dejounte-murray.md) | NOP | G | 57 | 3.7 | 61 | 7.8 | not drafted | The experts like him far above his market cost, and an expert mock paid 24 USD, so he is a buy anywhere below his Yahoo value of 18 USD once the toe tag clears. |
+| [Damian Lillard](../profiles/players/damian-lillard.md) | POR | G | 63 | 3.5 | 70 | 6.6 | not drafted | Both markets price him low, while the newest expert calls put him in the top 50, so he is a strong buy at 10 to 17 USD. |
+| [Paul George](../profiles/players/paul-george.md) | BOS | F | 73 | 2.3 | 91 | 4.0 | 9 | Yahoo values him above ESPN and both costs are tiny, while the experts see a top-40 player, so he is a buy at 10 to 15 USD and fine up to 20 USD. |
+| [Ryan Rollins](../profiles/players/ryan-rollins.md) | MIL | G | 60 | 2.1 | 104 | 2.7 | not drafted | Yahoo values him far above ESPN, and both costs are near the minimum, while the experts draft him around picks 50 to 65, so he is a buy in the low to mid teens. |
+| [Keyonte George](../profiles/players/keyonte-george.md) | UTA | G | 46 | 12.3 | 88 | 7.3 | 2 | Yahoo values him far above ESPN, and the experts see a round 5 target, so he is a buy up to about 20 USD. |
+| [OG Anunoby](../profiles/players/og-anunoby.md) | NYK | F | 66 | 5.4 | 71 | 5.4 | 15 | Yahoo values him far above ESPN, and the experts think he is worth about 20 USD in categories, so he is a buy at 16 to 20 USD. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 67 | 3.1 | 79 | 3.8 | 16 | Yahoo and our room price him far above ESPN and his market cost, so he is a buy at 15 to 18 USD for punt FT%. |
+| [Ty Jerome](../profiles/players/ty-jerome.md) | MEM | G | 83 | 1.3 | 58 | 6.0 | not drafted | ESPN ranks him well above Yahoo, whose drafters pay almost nothing, and the experts see a top-100 player, so he is a buy up to about 11 USD. |
+| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 71 | 5.0 | 114 | 3.2 | 2 | Yahoo values him far above ESPN, and the experts draft him around picks 60 to 70, so he is a buy at 10 to 15 USD. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 70 | 4.0 | 24 | 13.0 | 2 | ESPN ranks him far above Yahoo, and the experts sit in between, so he is a buy at 10 to 14 USD. |
+| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 62 | 4.1 | 43 | 11.0 | 10 | ESPN drafters pay more than Yahoo drafters, and the experts value him around pick 60, so he is a buy at 10 to 15 USD. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 72 | 3.2 | 46 | 5.6 | 5 | ESPN ranks him above Yahoo, and both average costs sit far below both site values, so he is a buy up to about 10 USD. |
+| [Cameron Boozer](../profiles/players/cameron-boozer.md) | MEM | F | 55 | 10.2 | 77 | 7.3 | not drafted | Yahoo values him far above ESPN, and his value should rise toward the playoffs, so he is a buy at 10 to 15 USD but not above that. |
+| [Tyler Herro](../profiles/players/tyler-herro.md) | MIL | G | 65 | 5.8 | 65 | 8.3 | 14 | Both sites rank him the same but Yahoo values him much higher than ESPN, so he is a buy at 10 to 15 USD. |
+| [Day'Ron Sharpe](../profiles/players/dayron-sharpe.md) | BKN | C | 90 | 2.5 | 135 | 1.0 | not drafted | Yahoo ranks him far above ESPN, and an expert called a 10 USD mock price under value, so he is a buy at 5 to 8 USD. |
+| [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 103 | 1.9 | 171 | 1.0 | not drafted | Yahoo ranks him far above ESPN, and the experts see a top-100 player, so he is a buy at 5 to 9 USD for punt 3PM. |
+| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 95 | 2.9 | 143 | 0.8 | 1 | Yahoo ranks him far above ESPN, which prices in his injuries, so he is a buy at 5 to 9 USD if you plan for about 20 missed games. |
+| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 107 | 1.8 | 159 | 1.5 | 12 | Yahoo ranks him above ESPN, and his mock draft position is rising past both sites, so expect to pay and buy at 5 to 12 USD. |
+| [Cedric Coward](../profiles/players/cedric-coward.md) | MEM | G,F | 77 | 3.0 | 127 | 1.4 | not drafted | Yahoo values him far above ESPN, and the experts sit between the two, so he is a buy at about 6 USD. |
+| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 85 | 4.8 | 99 | 5.0 | not drafted | Yahoo values him above ESPN, but both costs are near 5 USD and the experts see top-60 upside, so he is a buy at 5 to 10 USD. |
+| [Coby White](../profiles/players/coby-white.md) | CHA | G | 87 | 2.8 | 106 | 2.8 | 15 | Yahoo values him above ESPN, and his calf strain pushes the experts into the 90s, so he is a buy at 5 to 10 USD. |
 
-### Late flyers
+### Last-dollar flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Reed Sheppard](../profiles/players/reed-sheppard.md) | HOU | G | 141 | 1.0 | 62 | 1.9 | 4 | ESPN ranks him far above Yahoo, and experts side with Yahoo because his role shrinks, so he is a buy at 1 to 5 USD. |
-| [Brandin Podziemski](../profiles/players/brandin-podziemski.md) | GSW | G | 105 | 1.0 | 69 | 2.5 | not drafted | ESPN ranks him far above Yahoo, and experts side with Yahoo, so he is a buy at 1 to 4 USD. |
-| [Fred VanVleet](../profiles/players/fred-vanvleet.md) | HOU | G | 150 | 1.0 | 74 | 2.3 | 1 | ESPN ranks him far above Yahoo, and Lloyd's 120 to 135 rank sides with Yahoo, so he is a buy at 1 USD. |
-| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 154 | 1.0 | 80 | 1.4 | 21 | ESPN ranks him far above Yahoo, and the market has dropped him to almost nothing, so he is a buy at 1 to 3 USD. |
-| [Payton Pritchard](../profiles/players/payton-pritchard.md) | BOS | G | 80 | 3.6 | 98 | 2.3 | 16 | Yahoo's value is far above ESPN's, and one expert caps him at 4 USD, so he is a buy at about 5 USD or less. |
-| [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 83 | 2.5 | 142 | 3.6 | 16 | Yahoo ranks him far above ESPN, but he is out with a partially torn Achilles, so he is a buy only as a 1 to 3 USD IL stash. |
-| [Dylan Harper](../profiles/players/dylan-harper.md) | SAS | G | 85 | 4.6 | 99 | 4.4 | not drafted | Yahoo's value is five times ESPN's, and experts call his mock spot too high, so he is a buy at about 5 USD. |
-| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 158 | 0.0 | 93 | 0.9 | 1 | ESPN ranks him far above Yahoo, and expert calls put him on our 144-player cutoff, so he is a buy at 1 USD only. |
-| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 95 | 2.3 | 143 | 0.6 | 1 | Yahoo ranks him far above ESPN, and experts see a top 70 to 80 per-game player, so he is a buy in the low single digits USD. |
-| [DeMar DeRozan](../profiles/players/demar-derozan.md) | DEN | F | 142 | 1.3 | 101 | 2.1 | 10 | ESPN ranks him far above Yahoo, and experts side with Yahoo, so he is a buy at 1 to 3 USD. |
-| [Collin Murray-Boyles](../profiles/players/collin-murray-boyles.md) | TOR | F,C | 102 | 1.0 | 171 | 0.6 | not drafted | Yahoo ranks him far above ESPN, and buzz pushed a mock price to 9 USD, so he is a buy at 2 to 5 USD. |
-| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 167 | 0.0 | 102 | 1.2 | 17 | ESPN ranks him far above Yahoo, but he is now a bench center, so he is a buy at 1 to 2 USD as a Carter handcuff. |
-| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 103 | 1.2 | 159 | 1.2 | 12 | Yahoo ranks him far above ESPN, with both average costs near 1 USD, so he is a buy at 1 to 5 USD. |
-| [Isaiah Hartenstein](../profiles/players/isaiah-hartenstein.md) | OKC | C | 104 | 1.1 | 132 | 0.8 | 11 | Yahoo ranks him above ESPN and both average costs sit near 1 USD, so he is a late-auction buy far below last year's room price. |
-| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 111 | 1.0 | 151 | 0.8 | 10 | Yahoo ranks him well above ESPN, and experts side with ESPN, so he is a buy at 1 USD at most. |
-| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 113 | 1.2 | 202 | 0.2 | not drafted | Yahoo ranks him far above ESPN, so he is a buy at 1 to 2 USD as a blocks flyer. |
-| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 185 | 1.0 | 120 | 0.8 | not drafted | ESPN ranks him well above Yahoo, so he is a buy at 1 USD as a Dejounte Murray handcuff. |
+| [Brandon Ingram](../profiles/players/brandon-ingram.md) | LAC | G,F | 92 | 2.7 | 142 | 2.0 | 16 | Yahoo ranks him far above ESPN and the experts while his Achilles keeps him out, so he is a buy only at 1 to 3 USD as an IL stash. |
+| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 114 | 1.2 | 202 | 0.4 | not drafted | Yahoo ranks him far above ESPN, but both prices are near zero, so he is a buy at 1 to 2 USD as a late blocks flyer. |
+| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 177 | 1.9 | 80 | 1.5 | 21 | ESPN ranks him far above Yahoo, but nobody knows when he will play, so he is at most a 1 USD IL stash, and leaving him on waivers is safer. |
+| [Andrew Nembhard](../profiles/players/andrew-nembhard.md) | IND | G | 111 | 1.0 | 151 | 0.8 | 10 | Yahoo ranks him above ESPN, but the experts put him around pick 164, so he is a buy at 1 USD at most, or a fast waiver add if Haliburton sits. |
+| [Tobias Harris](../profiles/players/tobias-harris.md) | SAS | F | 156 | 0.0 | 93 | 1.0 | 1 | ESPN ranks him far above Yahoo, but a calf strain and a likely bench role cap him, so pay 1 USD at most or leave him on waivers. |
+| [Mitchell Robinson](../profiles/players/mitchell-robinson.md) | BOS | C | 173 | 0.0 | 116 | 0.6 | not drafted | ESPN ranks him well above Yahoo, and recent mocks put him around pick 126, so he is a 1 USD final pick for punt FT% or a waiver add. |
+| [Jeremiah Fears](../profiles/players/jeremiah-fears.md) | NOP | G | 163 | 1.3 | 120 | 0.9 | not drafted | ESPN ranks him above Yahoo, but both prices are near the minimum, so he is a 1 USD final pick, best as a handcuff to Dejounte Murray. |
+| [Ajay Mitchell](../profiles/players/ajay-mitchell.md) | OKC | G | 128 | 1.0 | 243 | 0.4 | not drafted | Yahoo ranks him far above ESPN, and both prices are near zero, so he is a 1 USD final pick as an OKC handcuff. |
+| [Gui Santos](../profiles/players/gui-santos.md) | GSW | F | 138 | - | 249 | 0.1 | not drafted | Yahoo ranks him far above ESPN but has no average cost for him, so he is a 1 USD last-round flyer at most. |
 
 <details><summary>Left out</summary>
 
-- Russell Westbrook: Unsigned, expected to have no fantasy impact, and expected to go undrafted in our 144-player pool.
-- Danny Wolf: Both sites value him at 0 USD and rank him well outside our 144-player pool. He is not a draft target.
-- Kelly Oubre Jr.: Both sites value him at 0 USD, and the expert calls him a 14 to 16 team player who should go undrafted for us.
-- Paul Reed: Neither site puts a price on him and both rank him outside our pool, so there is no price gap to predict.
-- Alex Caruso: Both sites value him at 0 USD. He is a waiver option, not an auction price question.
-- Gui Santos: Both sites value him at 0 USD. At most he is a 1 USD bench flyer, with no price gap that matters.
-- Ajay Mitchell: Both sites value him at 0 USD, and experts call his value overblown. At most he is a 1 USD final pick.
-- Mitchell Robinson: Both ranks sit near or past our pool, and the better plan is to leave him on waivers and stream him.
+- Wendell Carter Jr.: An expert calls him undraftable in a 12-team league, and he fits no build. He belongs on waivers, not in a price-gap draft plan.
+- Danny Wolf: Both sites value him at 0 USD, and the experts call him inefficient. He is a waiver watch only if he wins center minutes.
+- Kelly Oubre Jr.: Both sites value him at 0 USD, and the experts call him a 14 to 16 team player, so he should go undrafted in our 12-team league.
+- Russell Westbrook: He is unsigned, and the experts expect no fantasy impact. His rank gap comes from conflicting data, not from a real price question in our draft.
 
 </details>
 
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

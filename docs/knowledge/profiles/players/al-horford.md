@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 211 | 0 | 0.0 | 199 | 1 |
+| 2026-27 | 0 | 0.0 | 216 | 0 | 0.0 | 199 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,23 +30,22 @@
 </details>
 
 **Current**
-- He is projected to start at center while Porzingis is out. (verdict, 2026-09-30, until Porzingis returns; [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- He is expected to sit back-to-backs and play about 60 games. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [08-22](https://youtu.be/LXZLrL90crE?t=937))
-- Golden State has 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Golden State schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Golden State may treat this as a gap year, worry about lottery odds and rest veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- One expert expects Warriors players to fade as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- He re-signed with Golden State for 2 years and 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
-- One expert says to ignore him in most fantasy leagues. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
+- In preseason the Warriors started Draymond Green at center. Their current plan does not have Horford in the starting lineup. (fact, 2026-10-14; [10-11](https://youtu.be/uI6umXsE7Vk?t=1249), [10-12](https://youtu.be/ENizLoE6pzI?t=1282), [10-14](https://youtu.be/D4dP5JvX1oo?t=1468))
+- Experts call the Warriors a bad team. The season may be a gap year, and the team may rest veterans to protect its lottery odds. (verdict, 2026-10-12; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718), [10-06](https://youtu.be/eTsjuVu1trk?t=481))
+- The Warriors have 15 back-to-backs this season, tied for second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- The Warriors schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- He is expected to play about 60 games because he skips back-to-backs. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=937))
+- He re-signed with Golden State on a 2-year deal worth 14 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
+- An expert says to ignore him in most fantasy leagues. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=918))
 
 **Durable**
-- He is a low-usage big. He gives some threes and blocks with few turnovers, but few points and few steals. (fact, 2026-10-11; stats)
-- He does not play back-to-backs because of his age. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=852), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610))
+- He is a floor-spacing big who makes threes and rarely turns the ball over. His FG% is low for a big, and none of his categories is a league outlier. (fact, 2026-10-16; stats)
+- Because of his age, he sits out back-to-backs. (verdict, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=852), [09-30](https://youtu.be/MUbNYdjpUDM?t=1610), [08-22](https://youtu.be/LXZLrL90crE?t=937))
 
 **Tags**
-- Current: `back-to-back risk` (expected to sit every back-to-back, about 60 games), `many back-to-backs` (GSW has 15 back-to-backs, tied for second most), `good playoff schedule` (good GSW schedule for playoffs ending March 28), `minutes competition` (starts at center only while Porzingis is out; until Porzingis returns), `early-season value` (starter role while Porzingis is out; Warriors expected to fade; until Porzingis returns), `tank risk` (GSW may treat the season as a gap year and rest veterans), `shutdown risk` (veteran on a team that may rest veterans for lottery odds), `unsettled rotation` (Kerr runs unpredictable rotations and changes starting lineups), `waiver watch` (ranked around 200; worth watching while he starts for Porzingis; until Porzingis returns)
-- Durable: `load management` (sits all back-to-backs because of age), `age decline watch` (team rests him on back-to-backs because of age)
+- Current: `back-to-back risk` (Expected to sit all back-to-backs; GSW has 15), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good for playoffs ending March 28), `minutes competition` (Draymond Green starts at center in the current plan), `unsettled rotation` (Kerr changes lineups often; Butler and Moody returns will reshape the rotation), `tank risk` (Possible gap year; team watches its lottery odds), `shutdown risk` (Team may rest veterans), `questionable` (Yahoo status Q (Rest))
+- Durable: `load management` (Skips back-to-backs because of his age), `age decline watch` (Rests on back-to-backs because of his age; expected to play about 60 games)
 
-**Note.** Horford is outside our 144-player draft pool. Yahoo ranks him 211 and ESPN 199, both value him at 0 USD, and he went for 1 USD in our league last season, so do not spend on him at the auction. He is a waiver watch for the start of the season while he starts at center in place of Porzingis. He sits every back-to-back on a team with 15 of them, so he is best used as a daily streamer on non-back-to-back days, and he loses value once Porzingis returns.
+**Note.** He ranks 216 on Yahoo and 199 on ESPN, with 0 USD value on both sites, and went for 1 USD in our last auction. That puts him outside the 144 players we draft, so leave him on waivers. He can give low-TO threes and a good FT% from a big, but he has low points and steals, and resting on 15 back-to-backs caps him at about 60 games. Early in the season, check whether Kerr moves Draymond Green off center and gives Horford starter minutes. That is the only path to waiver value.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

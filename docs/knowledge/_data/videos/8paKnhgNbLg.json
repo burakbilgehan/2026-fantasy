@@ -1,0 +1,530 @@
+{
+ "video": {
+  "id": "8paKnhgNbLg",
+  "title": "Portland Trail Blazers Fantasy Basketball Preview - Return Of Damian Lillard",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-15",
+  "duration": "32:00",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-16T08:38:34+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.5142836,
+  "duration_ms": 149569,
+  "turns": 5,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the Portland Trail Blazers for fantasy. The main question is who handles the ball now that Damian Lillard is back, Ja Morant has arrived, and Scoot Henderson is healthy alongside Deni Avdija and Jrue Holiday. He thinks Avdija's usage and assists have to drop, so he moves him to round three or four. Lillard is his best target: he says Lillard is a top 50 player who could reach top 35, and a pick in the 50s is fine. Donovan Clingan is his biggest fade. He calls Clingan a two-category player (rebounds and blocks) who belongs in the 60s or 70s, not the 30s or 40s. Scoot Henderson is his late-round swing, Robert Williams is a stash for formats that allow it, and he would not draft Toumani Camara in 12-team leagues.",
+ "rules": [
+  {
+   "text": "Do not draft strictly by rank order. Tiny projection differences, like a free throw percentage moving from 83.4 to 82.6, can shift a player from 30th to 39th, and that difference does not matter.",
+   "ts": "7:52",
+   "quote": "I've got this guy at 83.4 from the line, and what if he shoots 82.6?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 472
+  },
+  {
+   "text": "Look at the next 12 to 15 names on your projection list and pick for team fit and category needs, even if that means taking a player before where you projected him.",
+   "ts": "7:52",
+   "quote": "So I look at the first 12 names on my projection list, sometimes down to 15.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 488
+  },
+  {
+   "text": "Z-score rankings can overrate players who are elite in only one or two categories. Be wary of two-category bigs early in drafts.",
+   "ts": "16:04",
+   "quote": "because there are flaws in the way that a standard score, a Zed score shows value.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 964
+  },
+  {
+   "text": "Big men like Walker Kessler or Rudy Gobert should give a strong FG% to justify a high pick.",
+   "ts": "14:54",
+   "quote": "when you have this archetype, Walker Kesler, Rudy Gobert, you want field goals 52%.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 894
+  },
+  {
+   "text": "Steals are a fickle category year to year.",
+   "ts": "16:41",
+   "quote": "they just didn't come because they're a fickle c category.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1008
+  },
+  {
+   "text": "Threes are abundant in the NBA, so a player's three-point production should not be overvalued.",
+   "ts": "16:41",
+   "quote": "Tammani Kamar is hitting 2.7 a game. Threes are abundant in the NBA.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1023
+  },
+  {
+   "text": "Being named a starter matters for fantasy because it opens up more minutes.",
+   "ts": "3:28",
+   "quote": "when you start there's just more opportunities to play more minutes and that's important for us.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 228
+  },
+  {
+   "text": "Some players scale their usage up or down a lot with their role. Big numbers from a large role on a thin roster may not carry over when more ball handlers arrive.",
+   "ts": "24:29",
+   "quote": "he is a guy that can go from 24 to 16 usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1487
+  },
+  {
+   "text": "A backup big who would start if the starter got hurt is worth stashing in formats that allow it.",
+   "ts": "29:04",
+   "quote": "in stashable formats, Rob Williams, cuz if Klingan does get hurt and Rob is all right",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1744
+  },
+  {
+   "text": "A team with a few more back-to-backs than the minimum barely changes the outlook for a player who will rest on back-to-backs.",
+   "ts": "30:45",
+   "quote": "two extra backto-backs over the course of 23 weeks or however long your season goes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1836
+  },
+  {
+   "text": "A meniscus repair means a longer recovery than a meniscus trim.",
+   "ts": "29:40",
+   "quote": "repair, not the trim. So, that makes it a longer recovery.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1780
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Deni Avdija",
+   "said_as": "Denny Abdia",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Was the team's best player last season, but he expects Avdija to take a hit this season.",
+   "ts": "5:45",
+   "quote": "Denny Abdia who I think is almost certainly taking a hit this season to a degree.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 353
+  },
+  {
+   "player": "Deni Avdija",
+   "said_as": "Denny Abdia",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Says he cannot keep his assist rate and usage with Morant and Lillard on the roster.",
+   "ts": "6:48",
+   "quote": "I think it's impossible to maintain the same assist rate and the same usage.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 408
+  },
+  {
+   "player": "Deni Avdija",
+   "said_as": "ADA",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Projected around 46. Right spot is round three, more likely round four. He would not take him in round two. He calls ESPN's rank of 60 silly.",
+   "ts": "8:25",
+   "quote": "But round three, but more likely round four is the right spot.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 512
+  },
+  {
+   "player": "Deni Avdija",
+   "said_as": "ADA",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Profile is assists plus above average rebounds from a forward. Free throws are not his selling point.",
+   "ts": "7:52",
+   "quote": "I'm not caring about his free throws, but those assists are",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 496
+  },
+  {
+   "player": "Damian Lillard",
+   "said_as": "Damen Lillard",
+   "team": "POR",
+   "horizon": "current",
+   "text": "His best target on the team. Says Lillard is a top 50 player who could be top 35, and he will happily take him in the 50s.",
+   "ts": "9:29",
+   "quote": "I think he's a top 50 player this season. I think he could be a top 35 player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 578
+  },
+  {
+   "player": "Damian Lillard",
+   "said_as": "Damen Lillard",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Expects him to sit back-to-backs. Rejects the idea that he will be a 25-minute bench player.",
+   "ts": "8:58",
+   "quote": "I think he will sit back to backs. No question about that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 538
+  },
+  {
+   "player": "Damian Lillard",
+   "said_as": "Damian Lillard",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Preseason looks encouraging: 14 points in 21 minutes with 24 usage and two steals.",
+   "ts": "10:35",
+   "quote": "14 points in 21 minutes, 24 usage, two steals, two and a half assists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 635
+  },
+  {
+   "player": "Damian Lillard",
+   "said_as": "Damen Lillard",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Age 36. Tore his Achilles in April 2025 and is healthy now.",
+   "ts": "29:40",
+   "quote": "Damen Lillard who's fine now, but Tori's Achilles back in April of 25",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1804
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Donovan Cllingon",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "A two-category player: elite rebounds and good blocks, low points, few assists and steals, and a FG% that is weak for a center.",
+   "ts": "14:54",
+   "quote": "cuz he can't catch the ball and he can't finish. He's like a two category player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 901
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Don Klingan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "His biggest fade. He would take Clingan in the 60s or 70s, not at his current price in the 30s or 40s.",
+   "ts": "15:28",
+   "quote": "this is a pick in the 60s or 70s, not in the 30s or 40s.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 957
+  },
+  {
+   "player": "Donovan Clingan",
+   "said_as": "Klingan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Started hitting threes at 34% last season. He could hit more threes and get close to two blocks, but he is not projected for 30 minutes.",
+   "ts": "14:18",
+   "quote": "He did start to hit threes and he did it at 34% and that got better",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 858
+  },
+  {
+   "player": "Toumani Camara",
+   "said_as": "Tammani Kamar",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Should not be drafted in 12-team formats. His usage gets even smaller with Scoot, Dame and Ja around. Minutes are safe.",
+   "ts": "17:15",
+   "quote": "I don't think that Tammani Kamar should be drafted in 12 team formats I see no upside",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1058
+  },
+  {
+   "player": "Toumani Camara",
+   "said_as": "Tammani Kamar",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Elite defender. Steals dropped from 1.5 to 1.1 last season. Hit 2.7 threes per game.",
+   "ts": "16:41",
+   "quote": "1.1 steals down from 1.5 the year before. But he is elite as a defender",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1008
+  },
+  {
+   "player": "Scoot Henderson",
+   "said_as": "Scoot Henderson",
+   "team": "POR",
+   "horizon": "current",
+   "text": "His guess for the fifth starter, with low confidence. Late-round swing, but not a must-draft. He could get pulled early for Jrue or Morant.",
+   "ts": "18:52",
+   "quote": "considering in those late rounds if he does get the starting job. The problem's still going to be",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1132
+  },
+  {
+   "player": "Scoot Henderson",
+   "said_as": "Scoot",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Has never shot 50% on two-pointers. Assists are his main standout skill. Free throws improved to 84% last season.",
+   "ts": "18:20",
+   "quote": "He's never had a season at 50% over two, which is a big big problem.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1116
+  },
+  {
+   "player": "Ja Morant",
+   "said_as": "Morant",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Likely a bench player playing 27 to 28 minutes. Reasonable in the 80s in points leagues, but he would not take him in the top 90 in category leagues.",
+   "ts": "22:50",
+   "quote": "I don't think I would do it in the top 90 though for a category league",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1378
+  },
+  {
+   "player": "Ja Morant",
+   "said_as": "Morant",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Poor three-point shooter. Doubts his 90% free throw mark from last season will hold.",
+   "ts": "22:50",
+   "quote": "Do I feel good about 90% from the line absolutely not do I think he's still a bad three-point shooter yes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1361
+  },
+  {
+   "player": "Jrue Holiday",
+   "said_as": "Drew Holiday",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "A very scalable player whose usage can swing from 24 to 16 depending on his role.",
+   "ts": "24:29",
+   "quote": "Drew is an unbelievably scalable player.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1461
+  },
+  {
+   "player": "Jrue Holiday",
+   "said_as": "Drew",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Likely to scale way back this season. Reasonable at his 139 to 165 range. A good pick at 130 to 140 in 14-team leagues. Has upside if someone gets hurt.",
+   "ts": "25:02",
+   "quote": "If you're in a 14 team league, he's a really good draft pick in that 130 to 140 range.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1517
+  },
+  {
+   "player": "Robert Williams",
+   "said_as": "Robbie Williams",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Shot-blocker with an elite FG%, but his free throws swing wildly. He also has a long injury history.",
+   "ts": "25:40",
+   "quote": "He got you 1.5 blocks on a ridiculous 71%. His free throws are also very weird.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1564
+  },
+  {
+   "player": "Robert Williams",
+   "said_as": "Rob Williams",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Not draftable in 12-team leagues as a backup. He is a stash, with top 60ish upside if Clingan gets hurt and Williams stays healthy.",
+   "ts": "29:04",
+   "quote": "that is a top 60ish upside player. It's that's why it's only Stashy",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1744
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Shaden Sharp",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Had a torn meniscus repaired. Expected out until around March.",
+   "ts": "29:40",
+   "quote": "So, maybe maybe in March we see a return.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1780
+  },
+  {
+   "player": "Shaedon Sharpe",
+   "said_as": "Shaden Sharp",
+   "team": "POR",
+   "horizon": "durable",
+   "text": "Not a good fantasy player. Needs a lot of minutes and usage to produce.",
+   "ts": "29:40",
+   "quote": "he's not also a good fantasy player. He struggles in so many areas and he needs tons of minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1788
+  },
+  {
+   "player": "Yang Hansen",
+   "said_as": "Young Hansen",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Zero chance of being a regular rotation player. May not even be the third-string center.",
+   "ts": "27:56",
+   "quote": "I think there is zero shot that Young is a regular rotation player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1676
+  },
+  {
+   "player": "Jeremy Sochan",
+   "said_as": "Jeremy Sohan",
+   "team": "POR",
+   "horizon": "current",
+   "text": "Needs big minutes to be useful and is not getting them. Not worth worrying about.",
+   "ts": "27:56",
+   "quote": "Jeremy Sohan who needs big minutes to do anything and he's not getting big minutes",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1701
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Projected starters: Scoot Henderson, Damian Lillard, Toumani Camara, Deni Avdija and Donovan Clingan. Only the fifth spot is uncertain.",
+   "ts": "4:39",
+   "quote": "Lock in Dame, Kamar, Aia, and Klingan. They're starting.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 294
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Morant is likely a bench player. Jrue Holiday or Scoot Henderson starts most nights. A first-time coach may mix up the lineup.",
+   "ts": "5:10",
+   "quote": "I actually think that it's firming more that Morant is going to be a a bench player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 329
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "The rotation is thin after the eighth man, especially at forward.",
+   "ts": "21:07",
+   "quote": "after the eighth guy in the rotation, it's pretty rough.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1282
+  },
+  {
+   "team": "POR",
+   "horizon": "current",
+   "text": "Schedule: 10 games if your season ends March 28 (weak). 11 games if it ends April 4. The team has 15 back-to-backs.",
+   "ts": "30:13",
+   "quote": "If you end April 4th, Yahoo's default 434, a little bit better, 11 games, and they got 15 back to back.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1828
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Avdija was 18th in points leagues and 35th in category leagues last season.",
+   "ts": "5:45",
+   "quote": "He was 18th in points leagues and 35th in category leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 361
+  },
+  {
+   "text": "Avdija averaged 6.7 assists on 29% usage last season.",
+   "ts": "6:15",
+   "quote": "6.7 assists per game he did it on 29% usage",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 393
+  },
+  {
+   "text": "In his last healthy season in Milwaukee, Lillard averaged 25 points, 5 rebounds, 7 assists, 1.2 steals and 3.4 threes, and finished seventh.",
+   "ts": "9:59",
+   "quote": "He averaged 25, five, and seven, 1.2 steals, 3.4 triples. He was seventh.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 614
+  },
+  {
+   "text": "Clingan played 27 minutes per game and averaged 12 points, 12 rebounds and 1.7 blocks last season.",
+   "ts": "13:48",
+   "quote": "He played 27 minutes a night last season and averaged 12 and 12 with 1.7 blocks.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 844
+  },
+  {
+   "text": "Camara averaged 1.1 steals, down from 1.5, and hit 2.7 threes per game last season.",
+   "ts": "16:41",
+   "quote": "1.1 steals down from 1.5 the year before.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1008
+  },
+  {
+   "text": "Scoot Henderson averaged 14 points, 3 rebounds, 4 assists and 1 steal in 25 minutes over 30 games, shooting 84% FT and 35% from three.",
+   "ts": "18:20",
+   "quote": "in his 30 games played in only 25 minutes averaging 14 three and four with a steel game and shooting 84%",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1100
+  },
+  {
+   "text": "Morant played 28 minutes per game, averaged 20 points and 8 assists, shot 90% FT and 24% from three in 20 games last season.",
+   "ts": "21:40",
+   "quote": "He averaged 20 points and eight assists. He shot 90% from the free throw line.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1328
+  },
+  {
+   "text": "Jrue Holiday was 76th in 9-cat and 83rd in points leagues, averaging 16 points, 5 rebounds and 6 assists in 29 minutes.",
+   "ts": "23:54",
+   "quote": "76th in Durant, 83rd in points leagues. He played 29 minutes, averaged 16, five and six",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1441
+  },
+  {
+   "text": "Robert Williams played 17 minutes per game, averaged 7 points, 7 rebounds and 1.5 blocks, shot 71% FG and 60% FT, and played 59 games last season.",
+   "ts": "25:40",
+   "quote": "he played only 17 minutes a night last season, averaged seven and seven, and was 150th.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1551
+  }
+ ]
+}

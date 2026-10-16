@@ -11,13 +11,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 61 | 81.6 | 1 | 68 | 85.6 | 1 | 87 |
+| 2026-27 | 61 | 78.8 | 1 | 68 | 85.5 | 1 | 87 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 57.4% | +3.1 | +1.9 | league outlier, strong |
+| FG% | 57.4% | +3.2 | +1.9 | league outlier, strong |
 | FT% | 81.8% | +0.7 | +1.3 | - |
 | 3PM | 1.7 | +0.2 | +1.2 | - |
 | PTS | 28.1 | +2.4 | +2.7 | league outlier, strong |
@@ -30,32 +30,37 @@
 </details>
 
 **Current**
-- In a 2026-10-05 auction mock he sold for 80 USD to the manager who also bought Wembanyama. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=409))
-- Josh values him at 73 to 74 USD. If the room spends evenly and he sits at 55 USD, take him: that frees about 20 USD for other players. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=409), [09-29](https://youtu.be/XnIWJyBB0EM?t=2414))
-- Experts take him first overall in head-to-head category leagues, ahead of Victor Wembanyama. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321), [09-16](https://youtu.be/2A2JbUN-kc0?t=238), [09-14](https://youtu.be/t4n9MAP2_14?t=228), [08-11](https://youtu.be/OdDkXFhoKsc?t=267))
-- Experts expect about 35 minutes again and are not very worried about more regression in his threes, minutes or steals. He is projected for over 30 percent usage. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=396), [09-16](https://youtu.be/2A2JbUN-kc0?t=238))
-- Denver plays 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league. He plays four games in the week starting March 15, which is our week 20. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [08-16](https://youtu.be/gf_6GveiAls?t=1473))
-- He is healthy going into the season, and so is most of the Denver roster. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658), stats)
-- He has the tightest range of any first-round player. His best case is 1st overall and his worst case is 3rd. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=279))
-- He could become a free agent after this season. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1152))
-- Moore expects him to stay in Denver all season and re-sign, even though he has not been happy for two years. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1152))
-- Moore doubts Denver will rest Jokic, Murray or Gordon on purpose. He predicts about 50 wins. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377), [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
-- Among the assist leaders, he had the fewest potential assists. His assists could drop to about 10.1 per game if his teammates' shooting evens out. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
+- He has gone first overall in every expert mock draft. (fact, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=312), [10-11](https://youtu.be/uI6umXsE7Vk?t=275), [08-11](https://youtu.be/OdDkXFhoKsc?t=267))
+- The experts rank him the number one player in 9-cat head-to-head leagues and would take him first overall, ahead of Wembanyama. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=275), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321), [09-16](https://youtu.be/2A2JbUN-kc0?t=238), [09-14](https://youtu.be/t4n9MAP2_14?t=228), [08-19](https://youtu.be/J1Eg3uaAICU?t=318))
+- In an expert auction mock he went for 80 USD. The expert valued him at 73 to 74 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=409))
+- If the room spends evenly and he sits near 55 USD, buy him. That leaves about 20 USD to spend elsewhere. (verdict, 2026-09-29; [09-29](https://youtu.be/XnIWJyBB0EM?t=2414))
+- Expect about 35 minutes per game. The expert does not expect more regression in his threes, minutes or steals. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=396))
+- He is healthy heading into the season, and so is the rest of the Denver roster. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
+- He missed a lot of time last season with a knee injury. (fact, 2026-09-29; [08-09](https://youtu.be/8d--aL_xxwE?t=1817), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197))
+- Denver plays 43 games through March 28, one below the most of any team, and has only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- He has the tightest range in round one. Best case is 1st overall and worst case is 3rd. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=279))
+- He is projected for a usage rate over 30. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=238))
+- He plays four games in the week starting March 15, which is week 20 of our playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1473))
+- He could become a free agent. He has not been happy in Denver for two years, but the expert expects him to stay on the roster all season and re-sign. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1152))
+- The expert doubts Denver will rest Jokic on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
+- The expert projects Denver to win about 50 games and expects at least two of last year's starters, including Cam Johnson, to be traded by the deadline. The team is short on spacing around him. (verdict, 2026-07-31, until 2027-03-04; [07-31](https://youtu.be/keNupMSHp1Y?t=903), [07-31](https://youtu.be/keNupMSHp1Y?t=409), [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
+- Last season he had the fewest potential assists among the league's assist leaders. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
+- His assists could drop to about 10.1 per game if his teammates' shooting evens out. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1152))
 
 **Durable**
-- He is a league outlier in FG% on high volume, and also in points, rebounds and assists. (fact, 2026-10-05; stats)
-- Turnovers are his one clearly weak category. He projects for about 3.4 per game. (fact, 2026-10-05; stats)
-- He has been the best fantasy player of the last five or six years. He finished number one in both category and points leagues. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321))
-- He had a hamstring injury two seasons ago. Last season he had a somewhat fluky knee injury and missed significant time. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197), [08-09](https://youtu.be/8d--aL_xxwE?t=1817))
-- At 31 he may be getting slightly less durable, but experts are not worried. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197))
-- He has no significant weakness outside turnovers. Threes, blocks and free throws are only relative weaknesses, and his free throws are fine but not a strength. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1540))
-- He tires on defense in the middle of the season more than he admits. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1371))
-- He is a center who gives elite rebounds and assists. These two categories rarely come together, which adds to his value. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368), stats)
+- His steals are very high for a center. (fact, 2026-10-16; stats)
+- He commits many turnovers. TO is his one clearly weak category. (fact, 2026-10-16; stats)
+- He has been the best fantasy player of the last five or six years and finished number one in both category and points leagues. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=321))
+- Injury history: a hamstring injury two seasons ago and a knee injury last season that was partly bad luck. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197))
+- At 31 he is getting a little less durable, but the experts are not worried. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=345), [09-14](https://youtu.be/t4n9MAP2_14?t=197))
+- He has no significant weakness apart from turnovers. His relative weak spots are threes, blocks and free throws, and his free throws are fine but not a big strength. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1540))
+- He gets more tired on defense in the middle of the season than he admits. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1371))
+- He is a league outlier in FG% on high volume, points, rebounds and assists. Getting both rebounds and assists from one player is rare, and that is where his extra value comes from. (fact, 2026-07-15; stats, [07-15](https://youtu.be/0geFVzSqOnA?t=1368))
 
 **Tags**
-- Current: `contract year` (Could become a free agent. Moore expects him to re-sign.), `few back-to-backs` (14 back-to-backs, one of the lowest counts in the league), `winning team` (Moore predicts about 50 wins), `low shutdown risk` (Moore doubts Denver will rest him on purpose)
-- Durable: `elite per game` (Consensus number one fantasy player for five or six years), `AST from a big` (About 10 assists per game as a center), `AST specialist`, `REB specialist` (Led the league in rebounds last season), `PTS specialist`, `FG% anchor` (About 57 percent on about 18 attempts per game), `high TO` (About 3.4 turnovers per game), `punt TO fit` (Turnovers are his only weak category)
+- Current: `injury last season` (Knee injury, 65 games played), `few back-to-backs` (14 back-to-backs, one of the lowest counts in the league), `low shutdown risk` (The expert doubts Denver will rest him on purpose), `winning team` (Projected for about 50 wins), `trades likely` (Cam Johnson and another starter expected to be traded by the deadline; until 2027-03-04)
+- Durable: `elite per game` (Consensus number one fantasy player for the last five or six years), `FG% anchor` (About 57% on about 18 attempts per game), `PTS specialist`, `REB specialist`, `AST specialist`, `AST from a big` (About 10 assists per game from a center), `high TO` (About 3.4 turnovers per game), `punt TO fit` (TO is his only clearly weak category)
 
-**Note.** He is the consensus first pick for H2H categories. Prices are rising: Yahoo values him at 61 USD (average cost 71 USD), ESPN at 68 USD (average cost 81.4 USD), a recent mock sold him for 80 USD, and he went for 87 USD in our league last season. Expect to pay 80 to 90 USD, and grab him if the room lets him drop toward 55 USD. He fits any build and fits best in punt TO, because turnovers are his only weak category. Early in the season, check that he is playing about 35 minutes and getting about 10 assists, and watch the knee that cost him games last season.
+**Note.** Jokić is the consensus first overall pick, but auction prices run well above formula value. Yahoo values him at 61 USD while managers pay 78.8 USD on Yahoo and 85.5 USD on ESPN, and he cost 87 USD in our league last season. Expect a winning bid of 80 to 90 USD, and only treat it as a bargain below about 75 USD, which matches the expert's 73 to 74 USD value. He helps every build except one that needs turnovers, so he fits punt TO best. Early in the season, check that he plays about 35 minutes and that his assists hold near 10 per game.
 
-<sub>22 notes. Built 2026-10-05 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

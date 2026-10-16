@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "384debef8080",
+ "input_sha": "346fc1dfab89",
  "note_count": 5,
- "built_at": "2026-10-11T09:20:10+00:00",
+ "built_at": "2026-10-16T09:06:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1422622,
-  "duration_ms": 28615,
+  "cost_usd_list": 0.16161019999999998,
+  "duration_ms": 37082,
   "turns": 2,
   "denied": 0
  },
@@ -27,12 +27,22 @@
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p17",
-    "owlM6b8oUd0:p21",
-    "sDzeYdUhJDI:t3"
+    "sDzeYdUhJDI:t3",
+    "owlM6b8oUd0:p21"
    ]
   },
   {
-   "text": "Do not draft him inside the top 200, even as a projected starter.",
+   "text": "Milwaukee's starting lineup could change by December or March, and an August projection had Kel'el Ware starting instead of him.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t3",
+    "owlM6b8oUd0:t2"
+   ]
+  },
+  {
+   "text": "Do not draft him inside the top 200. He is a projected starter but a terrible fantasy option.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -46,38 +56,63 @@
    "date": "2026-06-23",
    "until": "",
    "sources": [
-    "nnWX_ObljOE:p17"
+    "nnWX_ObljOE:p17",
+    "4GDfg2n2l8o:t1"
    ]
   },
   {
-   "text": "Milwaukee's starting lineup could change by December or March. The team is expected to focus more on young players as the season goes on, which would cut veteran minutes.",
+   "text": "Power forward is Milwaukee's weakest position, and he is one of the weak options there.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-08-14",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t3",
+    "owlM6b8oUd0:p21",
+    "owlM6b8oUd0:t1"
+   ]
+  },
+  {
+   "text": "Milwaukee's roster needs trades to consolidate, and he is named as one of the players who do not fit well.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t5",
+    "nnWX_ObljOE:t0"
+   ]
+  },
+  {
+   "text": "Milwaukee is expected to focus more on developing young players as the season goes on, which would cut veteran minutes.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
     "sDzeYdUhJDI:t4",
     "-DN4P92Wp8Y:t4"
    ]
   },
   {
-   "text": "Milwaukee needs trades to consolidate its roster, and he is named as one of the players who do not fit well.",
-   "kind": "verdict",
-   "date": "2026-10-08",
+   "text": "Milwaukee has a new coach, Taylor Jenkins, who might use a deep rotation. Experts call the Bucks rotation very unclear.",
+   "kind": "fact",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t5"
+    "sDzeYdUhJDI:t2",
+    "sDzeYdUhJDI:t0",
+    "uI6umXsE7Vk:t3",
+    "KqTKVExQGLo:t4",
+    "WXO8MfQfzo0:t0"
    ]
   },
   {
-   "text": "Taylor Jenkins is Milwaukee's new head coach and might use a deep rotation. Experts have low confidence in how the Bucks will split minutes.",
-   "kind": "fact",
-   "date": "2026-10-08",
+   "text": "Milwaukee is expected to be a bad team. Its win total is 26.5.",
+   "kind": "verdict",
+   "date": "2026-08-14",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t0",
-    "sDzeYdUhJDI:t2",
-    "WXO8MfQfzo0:t0"
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0",
+    "LUTYUdXBG1M:t3"
    ]
   }
  ],
@@ -92,29 +127,32 @@
    ]
   },
   {
-   "text": "He is a mediocre role player.",
+   "text": "He was hyped early in his career but became a mediocre role player.",
    "kind": "verdict",
    "date": "2026-07-05",
    "until": "",
    "sources": [
     "4kKINkZhWls:p7"
    ]
-  },
-  {
-   "text": "His projected category line is close to the pool average everywhere and has no strong category. Blocks and FT% are his weakest.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "tags": [
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Starts at power forward for now. Kel'el Ware was projected there in August.",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t3",
+    "owlM6b8oUd0:t2",
+    "owlM6b8oUd0:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role up",
    "channel": "current",
-   "detail": "More frontcourt minutes after Giannis and Portis left",
+   "detail": "Giannis and Portis left the frontcourt",
    "until": "",
    "sources": [
     "nnWX_ObljOE:p17"
@@ -122,20 +160,9 @@
    "new_meaning": ""
   },
   {
-   "name": "early-season value",
-   "channel": "current",
-   "detail": "Opens as a starter, but the youth focus and lineup changes by December or March could cut his minutes",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t3",
-    "sDzeYdUhJDI:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "trade risk",
    "channel": "current",
-   "detail": "Named as a poor roster fit on a team that needs consolidation trades",
+   "detail": "Named as a poor fit on a roster that needs to consolidate",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t5"
@@ -143,13 +170,14 @@
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
+   "name": "trades likely",
    "channel": "current",
-   "detail": "Experts call it the hardest Bucks rotation to read",
+   "detail": "Milwaukee needs consolidation trades",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t0",
-    "WXO8MfQfzo0:t0"
+    "sDzeYdUhJDI:t5",
+    "4GDfg2n2l8o:t1",
+    "nnWX_ObljOE:t0"
    ],
    "new_meaning": ""
   },
@@ -159,11 +187,58 @@
    "detail": "Taylor Jenkins",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t2"
+    "sDzeYdUhJDI:t2",
+    "t4n9MAP2_14:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Experts call it one of the least clear rotations in the league",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t0",
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "WXO8MfQfzo0:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins might use a deep rotation on a crowded roster",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2",
+    "nnWX_ObljOE:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Win total 26.5",
+   "until": "",
+   "sources": [
+    "owlM6b8oUd0:t4",
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "At Yahoo rank 196 and ESPN rank 224, with 0 USD values on both sites, he is well outside the 144 players we draft, and the expert would not take him inside the top 200. Yahoo's projection is kinder than ESPN's: 1.1 steals and 1.2 TO against 0.6 and 1.8. ESPN's line matches last season's 0.7 steals and 1.7 TO in 26.2 minutes. Leave him on waivers and check early whether he keeps the starting power forward job and plays clearly more than 26 minutes.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 198, ESPN rank 224), and only 144 players are drafted. The expert would not take him inside the top 200, so leave him on waivers on draft day. His projected z-scores are below average in every category, so he does not fit a punt build. Early in the season, check whether he keeps the starting power forward job ahead of Ware and gets the frontcourt minutes Giannis and Portis left behind.",
  "rejected": []
 }

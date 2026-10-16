@@ -8,31 +8,58 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a76d95b15433",
- "note_count": 44,
- "built_at": "2026-10-11T09:24:37+00:00",
+ "input_sha": "5748e948ae30",
+ "note_count": 48,
+ "built_at": "2026-10-16T09:19:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2358382,
-  "duration_ms": 70017,
+  "cost_usd_list": 0.24691420000000003,
+  "duration_ms": 72068,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He has played in preseason and is reported healthy. He says he has no minutes restriction.",
+   "text": "He says he has no restrictions, and the GM expects him ready for opening night.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p7",
     "EGdhmUgPAWY:p9",
-    "sfCe7fS9daM:p1"
+    "sfCe7fS9daM:p1",
+    "-DN4P92Wp8Y:p7"
    ]
   },
   {
-   "text": "Experts expect early-season minutes limits from coach Rick Carlisle, plus some missed games and a ramp-up period. One note says this could last a month or two.",
+   "text": "He missed a preseason game with an ankle injury. The expert does not see the ankle as a worry.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p9"
+   ]
+  },
+  {
+   "text": "He had very high usage in the first half of a preseason game.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p3"
+   ]
+  },
+  {
+   "text": "The high preseason usage eases concerns about his recovery.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p3"
+   ]
+  },
+  {
+   "text": "Experts expect Rick Carlisle to manage his minutes early in the season, with some missed games and a ramp-up period.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
@@ -47,27 +74,39 @@
     "2A2JbUN-kc0:p27",
     "KPdD91Oo8-U:p3",
     "W-R1dzem32s:p7",
+    "7BllEsdNLoM:p7",
+    "E-KmhvyZ2CU:p6",
     "J1Eg3uaAICU:p15",
-    "sfCe7fS9daM:p3",
-    "E-KmhvyZ2CU:p6"
+    "sfCe7fS9daM:p3"
    ]
   },
   {
-   "text": "He is expected to sit some back-to-backs early, or play only one game of each. Tony expects about 30 minutes in games that are not part of a back-to-back.",
+   "text": "Experts expect him to sit or be limited in some back-to-backs early in the season.",
    "kind": "verdict",
    "date": "2026-10-09",
-   "until": "Thanksgiving or Christmas",
+   "until": "around Thanksgiving or Christmas",
    "sources": [
-    "sfCe7fS9daM:p2",
     "-DN4P92Wp8Y:p7",
+    "sfCe7fS9daM:p2",
+    "2A2JbUN-kc0:p27",
     "W-R1dzem32s:p7",
     "7BllEsdNLoM:p7",
-    "gf_6GveiAls:p7",
-    "2A2JbUN-kc0:p27"
+    "J1Eg3uaAICU:p15",
+    "gf_6GveiAls:p7"
    ]
   },
   {
-   "text": "Experts expect rust to lower his usage and efficiency early in the season. One speaker worries that his two-point percentage could drop from about 59 to 57 after the Achilles injury.",
+   "text": "About 30 minutes is expected in games without a back-to-back. One expert does not expect 34 minutes per game over the full season.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p2",
+    "EGdhmUgPAWY:p5"
+   ]
+  },
+  {
+   "text": "Experts expect rust early: lower efficiency on his percentages and possibly a little less usage. His two-point percentage could drop from about 59 to 57.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -82,17 +121,18 @@
    ]
   },
   {
-   "text": "Some experts worry about compensation injuries after the Achilles tear.",
+   "text": "Compensation injuries after the torn Achilles are the main health worry.",
    "kind": "verdict",
-   "date": "2026-09-24",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "uI6umXsE7Vk:p9",
     "_vbAP5y182A:p7",
     "7BllEsdNLoM:p7"
    ]
   },
   {
-   "text": "Experts expect him to reach full minutes and his best level later in the season. The estimates range from January to February, and all of them put it before the fantasy playoffs.",
+   "text": "Experts expect him to be back to full strength around January, and near his best by the fantasy playoffs.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -106,21 +146,26 @@
    ]
   },
   {
-   "text": "Experts say rank 10 on Yahoo is too early, even in category leagues. They put his fair range at 14 to 20: the middle of round 2 is fine, and the end of round 1 is acceptable.",
+   "text": "Experts call his Yahoo rank of 10 too early for category leagues. They see him as an end of round 1 to middle of round 2 pick, in the 14 to 20 range. His range of outcomes is the widest in round one, from 8th at best to 55th at worst.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p2",
+    "w66x_I_MaQ8:p1",
+    "uI6umXsE7Vk:p9",
     "-DN4P92Wp8Y:p7",
     "eTsjuVu1trk:p6",
     "EGdhmUgPAWY:p2",
     "EGdhmUgPAWY:p7",
     "BjXP9JODDSg:p3",
-    "_vbAP5y182A:p7"
+    "_vbAP5y182A:p7",
+    "DubdKKhMWHo:p2",
+    "OdDkXFhoKsc:p7"
    ]
   },
   {
-   "text": "In an auction mock, Josh would not pay more than 35 USD for him. He sold for 36 USD, which Josh called a little high.",
+   "text": "In an auction, Josh would not pay more than 35 USD for him.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -129,7 +174,17 @@
    ]
   },
   {
-   "text": "Indiana is projected as a playoff team, with about 46 to 48 wins.",
+   "text": "He is a projected starter next to Nembhard, Nesmith, Siakam and Zubac. McConnell and Nembhard can handle the ball when he is managed.",
+   "kind": "fact",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t2",
+    "2A2JbUN-kc0:p27"
+   ]
+  },
+  {
+   "text": "Indiana is projected to win 46 to 48 games and get a top-six seed in the East.",
    "kind": "verdict",
    "date": "2026-08-10",
    "until": "",
@@ -139,7 +194,7 @@
    ]
   },
   {
-   "text": "With a season ending March 28, Indiana plays 3, 4 and 3 games in the fantasy playoff weeks. The note calls that not ideal. The team has 15 back-to-backs.",
+   "text": "Indiana plays 3, 4 and 3 games in our playoff weeks with a March 28 end, which is not ideal. The team has 15 back-to-backs.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -150,7 +205,7 @@
  ],
  "durable": [
   {
-   "text": "He tore his Achilles in the June 2025 NBA Finals and missed all of the 2025-26 season. He also had a case of shingles.",
+   "text": "He tore his Achilles in the June 2025 NBA Finals and missed the whole 2025-26 season. He also had a case of shingles.",
    "kind": "fact",
    "date": "2026-10-06",
    "until": "",
@@ -160,8 +215,8 @@
    ]
   },
   {
-   "text": "His assists are elite, and he is always a threat to lead the league in assists. Draft him early if you want assists.",
-   "kind": "verdict",
+   "text": "His assists are elite. He is always a threat to lead the league in assists.",
+   "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
@@ -171,7 +226,7 @@
    ]
   },
   {
-   "text": "He is not a high scorer or a high-usage player. He is an assist source more than a points source, so drafting him early leans a team toward punting points.",
+   "text": "He is an assist source, not a high scorer or high usage player. Draft him early if you want assists. One expert says taking him in round one pushes a team toward punting points.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -190,8 +245,8 @@
    ]
   },
   {
-   "text": "His steals and FG% have been good, and two-point finishing is a strength.",
-   "kind": "verdict",
+   "text": "His steals and FG% have been good. Finishing at the rim on two-point shots is a strength.",
+   "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
@@ -200,23 +255,11 @@
   },
   {
    "text": "He picks apart confused defenses and commits very few turnovers for his playmaking load.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-08-10",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p7"
-   ]
-  },
-  {
-   "text": "Experts say he is not a top 10 player in Yahoo points leagues, even at his best. Points rankings underrate him for category leagues like ours.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p8",
-    "2A2JbUN-kc0:p28",
-    "QbdrhJd7LiA:p4",
-    "EGdhmUgPAWY:p8"
    ]
   },
   {
@@ -229,14 +272,26 @@
    ]
   },
   {
-   "text": "Coach Rick Carlisle keeps players' minutes low even when they are healthy, and he rests players on back-to-backs.",
-   "kind": "fact",
-   "date": "2026-10-01",
+   "text": "He is worth clearly more in category leagues than in Yahoo points leagues, where he is not a top 10 player even when healthy.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "EGdhmUgPAWY:t0",
-    "QbdrhJd7LiA:t0",
-    "2A2JbUN-kc0:t2"
+    "-DN4P92Wp8Y:p8",
+    "QbdrhJd7LiA:p4",
+    "2A2JbUN-kc0:p28",
+    "WXO8MfQfzo0:p0",
+    "g31YlwRe0XQ:p7",
+    "EGdhmUgPAWY:p8"
+   ]
+  },
+  {
+   "text": "None of his categories is weak, so he fits any build.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -244,7 +299,7 @@
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "About 9.4 assists projected, z +3.3 vs the pool",
+   "detail": "always a threat to lead the league in assists",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p4",
@@ -254,21 +309,32 @@
    "new_meaning": ""
   },
   {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Not top 10 in Yahoo points even at his best",
+   "detail": "weak fit for Yahoo points scoring",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p8",
+    "QbdrhJd7LiA:p4",
     "2A2JbUN-kc0:p28",
-    "QbdrhJd7LiA:p4"
+    "EGdhmUgPAWY:p8"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Torn Achilles, missed all of 2025-26",
+   "detail": "missed all of 2025-26 with a torn Achilles",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p0",
@@ -277,22 +343,42 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "slow start",
    "channel": "current",
-   "detail": "Yahoo status Q (Ankle)",
+   "detail": "ramp-up and rust after the Achilles; near his best by the fantasy playoffs",
    "until": "",
    "sources": [
-    "stats"
+    "W-R1dzem32s:p7",
+    "7BllEsdNLoM:p7",
+    "E-KmhvyZ2CU:p6",
+    "sfCe7fS9daM:p3",
+    "EGdhmUgPAWY:p5",
+    "C4vlgpJ62NI:p27",
+    "KPdD91Oo8-U:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "back-to-backs may be skipped or limited early",
+   "until": "around Thanksgiving or Christmas",
+   "sources": [
+    "sfCe7fS9daM:p2",
+    "-DN4P92Wp8Y:p7",
+    "2A2JbUN-kc0:p27",
+    "W-R1dzem32s:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "Early-season limits expected from Carlisle after the Achilles tear",
+   "detail": "Carlisle expected to manage his early minutes, about 30 in non-back-to-back games; he says he has no restrictions",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p7",
+    "EGdhmUgPAWY:p9",
+    "sfCe7fS9daM:p2",
     "C4vlgpJ62NI:t1",
     "QbdrhJd7LiA:p3",
     "2A2JbUN-kc0:p27"
@@ -300,79 +386,42 @@
    "new_meaning": ""
   },
   {
-   "name": "back-to-back risk",
-   "channel": "current",
-   "detail": "Back-to-backs may be monitored or limited to one game",
-   "until": "Thanksgiving or Christmas",
-   "sources": [
-    "sfCe7fS9daM:p2",
-    "-DN4P92Wp8Y:p7",
-    "7BllEsdNLoM:p7"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "slow start",
-   "channel": "current",
-   "detail": "Ramp-up and rust early, near his best from January to February",
-   "until": "",
-   "sources": [
-    "EGdhmUgPAWY:p5",
-    "W-R1dzem32s:p7",
-    "7BllEsdNLoM:p7",
-    "E-KmhvyZ2CU:p6",
-    "sfCe7fS9daM:p3",
-    "KPdD91Oo8-U:p3"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "At Yahoo rank 10 (average cost 48.6 USD); experts cap him near 35 USD and rank him 14 to 20",
+   "detail": "Yahoo rank 10 called too early; experts see a 14 to 20 range",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p2",
+    "w66x_I_MaQ8:p1",
+    "uI6umXsE7Vk:p9",
     "-DN4P92Wp8Y:p7",
     "eTsjuVu1trk:p6",
-    "EGdhmUgPAWY:p2",
-    "Q6YlQDvD-aY:p11"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "low starter minutes",
-   "channel": "current",
-   "detail": "Carlisle trims healthy players' minutes",
-   "until": "",
-   "sources": [
-    "EGdhmUgPAWY:t0",
-    "2A2JbUN-kc0:t2",
-    "QbdrhJd7LiA:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected 46 to 48 wins",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:t5",
-    "sfCe7fS9daM:t6"
+    "EGdhmUgPAWY:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21 with a March 28 end",
+   "detail": "3-4-3 games with a March 28 end",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "projected 46 to 48 wins",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "His average cost is 48.6 USD on Yahoo and 40.1 USD on ESPN, and our league did not draft him last season. Experts cap him near 35 USD and rank him 14 to 20, so let others pay the Yahoo price. He fits assist-heavy builds that can give up some points (about 9.4 AST, 2.8 3PM, 1.3 STL projected). Early in the season, check his minutes, how he handles back-to-backs, his efficiency and the Q (Ankle) status. Remember that his playoff schedule is only 3-4-3 games.",
+ "note": "His assists are elite (9.4 projected, z +3.3) and none of his categories is weak, so he fits any build. But the experts agree that Yahoo's rank of 10 and value of 49 USD are too high for a player coming off a torn Achilles who is likely to be managed early. Josh's ceiling is 35 USD and ESPN's average cost is 39.4 USD, so a price in the mid-to-high 30s matches the round 2 value the experts see. His playoff schedule is only 3-4-3 games, so his late-season ramp-up helps less in our format. Early in the season, check his minutes in games without a back-to-back, how Carlisle handles back-to-backs before Thanksgiving, and whether his FG% shows rust.",
  "rejected": []
 }

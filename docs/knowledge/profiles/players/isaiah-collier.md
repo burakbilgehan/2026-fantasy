@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 186 | 0 | 0.1 | 234 | not drafted |
+| 2026-27 | 0 | - | 182 | 0 | 0.1 | 234 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,21 +29,20 @@
 </details>
 
 **Current**
-- Utah is trying to win this season and is expected to make the playoffs. The late-season minutes he got last season should not open up again. (verdict, 2026-08-19; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
-- Utah's guard and wing rotation is crowded with Keyonte George, Darryn Peterson, Sensabaugh, Ace Bailey, Lauri Markkanen and Jaren Jackson Jr. That leaves little room for him. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- Experts see no real opportunity for him this season. His fantasy value is called finished after Utah drafted Peterson. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), [06-25](https://youtu.be/lOshTzDA4SA?t=1422))
-- He may play 20 minutes per game at most. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1604))
-- His strong late-season rank last season came from Keyonte George's injury and other players sitting. Experts say he cannot repeat it. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1604))
+- Experts expect Utah to try to win and make the playoffs. Late-season minutes from tanking or rest should not open up for him. (verdict, 2026-08-19; [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226))
+- He is not in the projected Utah starting lineup of Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
+- Utah's roster is crowded at his spots. George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson leave little room for him. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1689), [07-16](https://youtu.be/-y6p5PYLf00?t=1696))
+- Experts see no real opportunity for him this season. He may play 20 minutes at most. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), [07-14](https://youtu.be/xHRF06_E9HE?t=1604))
+- His late-season ranking last year came only because Keyonte George was injured and others sat. Experts say it will not repeat. (verdict, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1604))
+- An expert says his fantasy value ended with Utah's draft. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=1422))
 
 **Durable**
-- He scores well inside the arc but cannot shoot from outside. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696), stats)
+- He cannot shoot from outside. His scoring and FG% come from two-point shots. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1696))
 
 **Tags**
-- Current: `role down` (20 minutes max expected in a crowded Utah backcourt), `minutes competition` (Behind Keyonte George, Darryn Peterson and others), `deep rotation` (Utah is deeper after its summer moves), `low shutdown risk` (Utah is not tanking, so no late-season minutes open up)
+- Current: `role down` (Expected to play 20 minutes at most, down from about 26), `minutes competition` (Crowded Utah roster: George, Peterson, Sensabaugh, Bailey), `deep rotation` (Utah is deeper after the Kessler trade), `winning team` (Projected around 43 wins and a playoff spot), `low shutdown risk` (Utah is not expected to tank, so no late-season minutes open up)
 - Durable: none
 
-**Note.** He is not a draft target. He ranks 186 on Yahoo and 234 on ESPN with 0 USD value on both sites, well outside the 144 players our league drafts, and every expert note says Utah has no role for him. Assists are his only real skill: the projections range from 4.8 per game on Yahoo to 6.2 on ESPN. Leave him on waivers and look at him only if Keyonte George or Darryn Peterson gets hurt.
+**Note.** Collier is not worth a draft pick in our league. Yahoo values him at 0 USD and ranks him 182nd, and ESPN prices him at 0.1 USD and ranks him 234th, so he falls well outside the 144 players we draft. Leave him on waivers. Watch only for a long injury to Keyonte George or Darryn Peterson. Even then his value would rest on assists (5 to 6 per game projected), and he adds almost no threes.
 
-<sub>Tags removed by the category check: no 3PM (3PM 0.5 per game).</sub>
-
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

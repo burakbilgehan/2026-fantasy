@@ -11,43 +11,42 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 201 | 0 | 0.0 | 222 | 7 |
+| 2026-27 | 0 | - | 186 | 0 | 0.0 | 222 | 7 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 43.0% | -1.0 | -0.9 | - |
+| FG% | 43.0% | -1.0 | -1.0 | - |
 | FT% | 90.0% | +0.7 | +0.4 | - |
 | 3PM | 2.5 | +1.1 | +0.8 | - |
 | PTS | 14.1 | +0.0 | -0.1 | - |
 | REB | 2.3 | -1.2 | -1.1 | - |
-| AST | 3.1 | -0.1 | -0.4 | - |
-| STL | 0.5 | -1.3 | -1.4 | - |
+| AST | 3.1 | -0.0 | -0.4 | - |
+| STL | 0.5 | -1.3 | -1.5 | - |
 | BLK | 0.1 | -1.1 | -1.3 | - |
 | TO | 1.4 | +0.3 | +0.5 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-11; stats)
-- He is not a draft target in a 144-player league. He is worth watching on waivers when Embiid misses games or LeBron James sits. (verdict, 2026-10-11; stats, [09-17](https://youtu.be/ahNxsoU8Hx4?t=1654))
-- New arrivals, Simons among them, are expected to cut into Maxey's minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=760))
-- Philadelphia's usage is crowded with Maxey, Embiid, LeBron James and Jaylen Brown. That leaves few shots for a bench guard. (verdict, 2026-09-09; [08-26](https://youtu.be/sTtFUy7IoJI?t=1944), [09-09](https://youtu.be/7BllEsdNLoM?t=907), [08-09](https://youtu.be/8d--aL_xxwE?t=552))
-- Nick Nurse plays his starters, guards in particular, very heavy minutes. That caps the minutes left for a sixth man. (verdict, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
-- The 76ers have 13 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1148))
-- He is new in Philadelphia this season and is set to be the sixth man. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=169), [08-06](https://youtu.be/gTsfR5PxAMY?t=141))
-- Projected starting five: Maxey, Edgecombe, Jaylen Brown, LeBron James and Embiid. Simons comes off the bench behind them. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-06](https://youtu.be/gTsfR5PxAMY?t=169))
-- Last season his rim finishing jumped from 58 to 70 percent (88th percentile). Before that he was in the lower half of the league. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
-- As a backup in Philadelphia, his numbers should come down, and his rim finishing is not expected to hold. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
+- Yahoo lists him as questionable with a hamstring injury. (fact, 2026-10-16; stats)
+- Philadelphia's projected starters are Maxey, Edgecombe, Brown, LeBron and Embiid. That leaves little usage for a bench guard. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=264), [08-06](https://youtu.be/gTsfR5PxAMY?t=412), [08-26](https://youtu.be/sTtFUy7IoJI?t=1944))
+- He would need all the starters to go down to matter in fantasy. If one starter goes down, Dean Wade probably takes the spot instead of him. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1358))
+- Philadelphia has only 13 back-to-backs. With the March 28 end, it plays 3, 4 and 4 games in our playoff weeks. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1680), [08-16](https://youtu.be/gf_6GveiAls?t=1148))
+- Simons is new in Philadelphia. He is expected to be the sixth man and a backup, not a starter. (fact, 2026-08-06; [08-06](https://youtu.be/gTsfR5PxAMY?t=169), [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
+- Last season he finished 70 percent of his shots at the rim (88th percentile), well above his earlier level. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
+- His shooting numbers should come down this season, both because of that rim finishing jump and his backup role. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1058))
 
 **Durable**
-- He is a shooter. His value comes from threes and a high FT% on low volume, and he gives little in rebounds, steals and blocks. (fact, 2026-10-11; stats)
+- He gives little in the peripheral categories, so he needs heavy minutes and usage to have fantasy value. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1330))
+- He is one of the worst defenders and rebounders in the NBA. (verdict, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=1330))
+- Nick Nurse plays his starters, and his guards most of all, very heavy minutes. That limits bench minutes. (fact, 2026-09-09; [08-06](https://youtu.be/gTsfR5PxAMY?t=556), [09-09](https://youtu.be/7BllEsdNLoM?t=1956), [08-02](https://youtu.be/TOn-D1SV7a8?t=1033))
 
 **Tags**
-- Current: `new team` (joined Philadelphia), `role down` (sixth man behind a starting five of stars), `regression risk` (rim finishing jumped from 58 to 70 percent), `usage competition` (Maxey, Embiid, LeBron James and Jaylen Brown), `questionable` (Yahoo Q, undisclosed), `bad playoff schedule` (three back-to-backs in the fantasy playoffs), `waiver watch` (minutes can open when Embiid or LeBron James miss games)
-- Durable: `heavy starter minutes` (Nick Nurse leans on his starters, which caps bench minutes)
+- Current: `new team` (Joined Philadelphia), `role down` (Sixth man and backup behind five established starters), `usage competition` (Maxey, Edgecombe, Brown, LeBron and Embiid ahead of him), `regression risk` (Rim finishing jumped to 70 percent (88th percentile)), `injured now` (Hamstring), `questionable` (Yahoo Q, hamstring), `few back-to-backs` (13 back-to-backs)
+- Durable: `usage dependent` (Few peripheral stats, needs heavy minutes and usage), `defensive liability` (Called one of the worst defenders in the NBA), `heavy starter minutes` (Nick Nurse rides his starters, which shrinks bench minutes)
 
-**Note.** Yahoo ranks him 201 and ESPN ranks him 222, with both sites at 0 USD. Do not repeat the 7 USD our league paid last season: as the sixth man behind four high-usage stars under a coach who rides his starters, he is outside the 144 players worth drafting. His threes (2.5 per game) and 90% FT% can help a 3PM build off waivers, but 43% on about 12 shots, low steals and three playoff back-to-backs limit him. Early on, check his Q status, his bench minutes and whether he gets more of them when Embiid or LeBron James sit.
+**Note.** Yahoo and ESPN both value him at 0 USD and rank him 186 and 222, so he is outside the 144 players we draft. Do not pay anything near the 7 USD he cost in our league last season. As a bench guard he projects about 14 points and 2.5 threes with strong FT%, but he gives little FG%, rebounds, steals or blocks, and Dean Wade is the more likely fill-in when a starter misses time. Leave him on waivers and check his hamstring and his minutes only if several Philadelphia starters are out at once.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

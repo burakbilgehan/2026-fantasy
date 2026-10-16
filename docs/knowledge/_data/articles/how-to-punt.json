@@ -49,54 +49,49 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:48:07+00:00",
+ "built_at": "2026-10-16T12:46:38+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1160648,
-  "duration_ms": 42357,
+  "cost_usd_list": 0.10609679999999999,
+  "duration_ms": 36919,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "In our 12-team 9-cat league, draft and bid for value first, and let a punt come out of the players you actually land. Turnovers are the safest punt. Steals, blocks, threes and FT% are fine to punt. Points and assists are bad punts. Never pay a player's punt-ranked price in the auction, and do not punt so heavily that your weekly volume collapses before the 2027-03-28 finish.",
+ "summary": "In our 12-team 9-cat league, draft for value first and only lean into a punt once the auction gives you one. Turnovers are the easiest punt. Steals, blocks, threes and FT% are acceptable punts, while points and assists are bad ones. Never pay extra for a player just because he fits your punt, and do not punt so many categories that a low-volume, high-variance roster costs you the playoffs.",
  "sections": [
   {
-   "heading": "What punting is and when to do it",
+   "heading": "What punting is, and when to start",
    "paragraphs": [
     {
-     "text": "Punting only applies to category leagues like ours. It means ignoring one or more categories and acting as if they do not exist. You are not trying to be bad in them. You stop caring, move your resources to the other categories, and accept whatever happens. You will still win the punted category some weeks.",
+     "text": "Punting means ignoring one or more categories and acting as if they do not exist. It only works in category leagues like ours. It is not a points-league idea. Fantasy value is finite. If you spread it over fewer categories, you get stronger in each one you keep.",
      "sources": [
       "C4vlgpJ62NI:r0",
       "C4vlgpJ62NI:r1",
+      "C4vlgpJ62NI:r2"
+     ]
+    },
+    {
+     "text": "Punting is not trying to be bad. You stop caring about the category and move your resources elsewhere. You can still win the punted category in some weeks. That is a bonus, not a goal.",
+     "sources": [
       "C4vlgpJ62NI:r3",
       "ME-r173X5b0:r17",
       "E-KmhvyZ2CU:r1"
      ]
     },
     {
-     "text": "The logic is simple. Fantasy value is finite. If you spread it over eight categories instead of nine, you are stronger in each of the eight. A head-to-head week needs only 5 category wins out of 9, so even balanced teams end up giving up something in the playoffs.",
-     "sources": [
-      "C4vlgpJ62NI:r2",
-      "C4vlgpJ62NI:r5"
-     ]
-    },
-    {
-     "text": "Timing in our auction: do not open 2026-10-18 with a fixed punt plan. Early on, bid for value. Lean into a punt later if your first buys point to one. If a player goes well below his value, buy him and adjust the build afterwards. You can change your punt at any time: mid draft, mid season, or mid week on waivers and in trades before the 2027-03-04 deadline.",
+     "text": "Do not walk into the auction on 2026-10-18 with a fixed punt. Early on, nominate and bid for value. Lean into a punt later only if one appears. If a player goes well below his value, buy him and adjust the build afterwards. Punting is not the only way to win. Value buys and smart waiver moves win leagues too.",
      "sources": [
       "OdDkXFhoKsc:r7",
       "skKXe2CRl8Q:r25",
-      "C4vlgpJ62NI:r13"
+      "C4vlgpJ62NI:r6"
      ]
     },
     {
-     "text": "The experts disagree on how much punting matters. One side says punting wins leagues and becomes more viable with more teams, more categories and deeper leagues. The other side says people overindex on it, and that you win with big value picks and smart waiver moves. They also differ on Giannis. One note says that if you draft a bad FT shooter like Giannis, you should punt FT%. Another says taking Giannis does not mean you have to punt free throws. Both sides agree on one practical rule: the punt follows value. It does not drive your bids.",
+     "text": "A punt is never locked. You can change it mid draft, mid season or mid week. In our league, use the daily FAB waivers (max 6 adds per week) and trades before the 2027-03-04 deadline to shift the build if your roster points somewhere new.",
      "sources": [
-      "2A2JbUN-kc0:r11",
-      "OdDkXFhoKsc:r7",
-      "C4vlgpJ62NI:r6",
-      "ahNxsoU8Hx4:r3",
-      "aLP080hxizA:r2"
+      "C4vlgpJ62NI:r13"
      ]
     }
    ]
@@ -105,7 +100,14 @@
    "heading": "Which categories to punt",
    "paragraphs": [
     {
-     "text": "Turnovers are the easiest punt. Lloyd ignores turnovers in every head-to-head league, and his DURANT ranking for H2H leaves them out. Anyone buying high-usage, high-value players cannot avoid turnovers anyway. Working hard to keep turnovers low hurts the rest of the team. Use turnovers only as a tiebreaker between two otherwise identical players.",
+     "text": "High-variance categories are better to punt: steals, blocks, threes and FT%. You still steal some of them by surprise. Stable, high-volume categories like points and assists are bad to punt. Low-scoring players are hard to build around unless you are fine giving up points.",
+     "sources": [
+      "ME-r173X5b0:r18",
+      "OdDkXFhoKsc:r1"
+     ]
+    },
+    {
+     "text": "Turnovers are the easiest punt in head-to-head. Lloyd ignores turnovers in every H2H league, and his Durant ranking for H2H leaves them out. Anyone drafting high-usage, high-value players should punt turnovers because they cannot be avoided. Working hard to keep turnovers low, or to maximize FG%, hurts the rest of the team. Using turnovers as a tiebreaker between two otherwise identical players is fine.",
      "sources": [
       "C4vlgpJ62NI:r7",
       "0geFVzSqOnA:r15",
@@ -116,84 +118,69 @@
      ]
     },
     {
-     "text": "High-variance categories are good punts: steals, blocks, threes and FT%. You will still steal some of them by surprise in a given week. Stable high-volume categories like points and assists are bad punts, because when you are weak there you lose them almost every week. Low-scoring players are harder to build around unless you are comfortable punting points.",
-     "sources": [
-      "ME-r173X5b0:r18",
-      "OdDkXFhoKsc:r1"
-     ]
-    },
-    {
-     "text": "Do not decide on an FT% punt because of one bad season. Free throw percentage swings a lot in both directions. When checking a player before the auction, do not let a single poor FT year push you into a punt build.",
+     "text": "Do not decide to punt FT% because of one bad season from a player. Free throw percentage swings a lot in both directions. Check a longer track record before you treat a player as a punt-FT piece.",
      "sources": [
       "8d--aL_xxwE:r11"
      ]
+    }
+   ]
+  },
+  {
+   "heading": "Categories move together",
+   "paragraphs": [
+    {
+     "text": "Check correlations before you commit. High assists come with high turnovers. Low turnovers come with low points and low assists. High blocks come with high rebounds and high FG%. So if you chase low-block players to punt blocks, your rebounds and FG% will drop as well.",
+     "sources": [
+      "C4vlgpJ62NI:r8",
+      "C4vlgpJ62NI:r9"
+     ]
     },
     {
-     "text": "If a category is already too weak to recover, do not buy a one-category specialist to fix it. Also do not overindex on chasing a weak category like assists. Early two-category players leave holes you then have to fill.",
+     "text": "If you punt assists, check your threes, steals and FT%. Low-assist players often struggle there. The upside is that your turnovers fall on their own.",
      "sources": [
-      "KPdD91Oo8-U:r7",
+      "C4vlgpJ62NI:r10"
+     ]
+    },
+    {
+     "text": "In a punt-FT build, do not roster only bad free throw shooters. Free throws are tied to points, threes and assists, so a team of poor shooters is really punting four categories. After a big man who shoots free throws badly, Giannis being the experts' example, get guard stats (assists, threes, steals) early. Buy guards in two of your next three purchases. Your targets are still every player.",
+     "sources": [
+      "E-KmhvyZ2CU:r0",
+      "C4vlgpJ62NI:r12",
+      "C4vlgpJ62NI:r4",
+      "ahNxsoU8Hx4:r3",
+      "_vbAP5y182A:r0"
+     ]
+    },
+    {
+     "text": "Do not overreact to a weak category either. If assists are thin, do not overindex on chasing them. Do not spend on a one-category specialist to fix a category that is already too weak to recover. Buying a two-category player early also leaves holes you then have to fill.",
+     "sources": [
       "_vbAP5y182A:r3",
+      "KPdD91Oo8-U:r7",
       "gJUBAJaHzlU:r8"
      ]
     }
    ]
   },
   {
-   "heading": "Watch the correlations",
+   "heading": "Punt rankings mislead, so do not overpay",
    "paragraphs": [
     {
-     "text": "Categories move together. High assists go with high turnovers. Low turnovers go with low points and low assists. High blocks go with high rebounds and high FG%. A punt in one category therefore drags others along if you chase the wrong player type.",
+     "text": "Punt rankings lie. They remove your weak category but not everyone else's. That makes punt-fit players look better than they are against real opponents. Lloyd's Durant ranking tries to correct for this.",
      "sources": [
-      "C4vlgpJ62NI:r8"
+      "C4vlgpJ62NI:r11"
      ]
     },
     {
-     "text": "Punting blocks: do not chase low-block players, or your rebounds and FG% fall too. Punting assists: turnovers come down on their own, but check your threes, steals and FT%, because low-assist players often struggle there.",
+     "text": "Overall 9-cat rankings can mislead the other way. If you punt FT%, a player's FT% getting worse barely matters to you, even when his overall rank falls a lot. Read the category line, not just the rank.",
      "sources": [
-      "C4vlgpJ62NI:r9",
-      "C4vlgpJ62NI:r10"
-     ]
-    },
-    {
-     "text": "Punting FT%: free throws are linked to points, threes and assists. If you buy only bad FT shooters, you are really punting four categories. With a Giannis-type anchor, keep every player on your target list and buy guard stats early: assists, threes, steals. The rule from the notes is to draft guards in two of the next three rounds. In our auction, that means two of your next three significant buys should be guards. You do not need to chase low-FT players.",
-     "sources": [
-      "E-KmhvyZ2CU:r0",
-      "C4vlgpJ62NI:r4",
-      "C4vlgpJ62NI:r12",
-      "_vbAP5y182A:r0",
-      "ahNxsoU8Hx4:r3"
-     ]
-    },
-    {
-     "text": "Keep positional cover while punting. Our lineup has G, G, G, F, F, F, C and three Util slots, with daily changes. Have at least two to three eligible players at each position, or you give up games during the week.",
-     "sources": [
-      "skKXe2CRl8Q:r9"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Why punt rankings mislead and why not to overpay",
-   "paragraphs": [
-    {
-     "text": "Punt rankings lie. They remove your weak category but not everyone else's, so they overstate how much a player helps you. Lloyd's DURANT ranking tries to correct for this. Overall 9-cat ranks can mislead in the other direction. If you punt FT, a drop in a player's FT% barely matters to you, even when his overall rank falls a lot.",
-     "sources": [
-      "C4vlgpJ62NI:r11",
       "-y6p5PYLf00:r11"
      ]
     },
     {
-     "text": "In the auction, do not flip a punt toggle and pay the inflated punt value. Overpaying for a player because he fits your build is not value. Do not push up the bids on players who gain value in punt rankings, such as bad FT% shooters, just to secure them. Set your price limit from his standard value. Buy him only if he comes in at or below it.",
+     "text": "In our $200 auction, do not switch on a punt view and pay the inflated punt value. Overpaying for a player because he fits your build is not value. Do not push up bids on players who gain value in punt rankings, such as bad FT% shooters, just to secure them. Set your price from his standard value. Only win him at or below that number.",
      "sources": [
       "XnIWJyBB0EM:r6",
       "C4vlgpJ62NI:r22"
-     ]
-    },
-    {
-     "text": "The reason is practical. Other managers are usually not bidding on him for your punt, so the fit is a discount you collect, not a premium you pay. Every dollar you overspend from the 200 USD budget is a dollar missing from the value buys that win leagues.",
-     "sources": [
-      "XnIWJyBB0EM:r6",
-      "C4vlgpJ62NI:r6"
      ]
     }
    ]
@@ -202,26 +189,38 @@
    "heading": "Heavy punting adds variance",
    "paragraphs": [
     {
-     "text": "Heavy punting means low volume and more weekly variance. Depending on the format, that can cost you a playoff spot. If the top six of 12 make the playoffs, you can punt more heavily. If only the top four make it, punting four categories may keep you out.",
+     "text": "Heavy punting leaves you with low volume and more variance. That can cost you a playoff spot. With 12 teams, how deep you can punt depends on how many teams make the playoffs. If the top six get in, you can punt more. If only four of 12 get in, a four-category punt may keep you out. Check our playoff bracket size before going beyond one or two punts.",
      "sources": [
       "E-KmhvyZ2CU:r4",
       "skKXe2CRl8Q:r3"
      ]
     },
     {
-     "text": "For our league: our playoffs run weeks 19, 20 and 21 and end on 2027-03-28. Check in the league settings how many teams qualify before choosing a multi-category punt. Default to one punt, usually turnovers, plus at most one more from the high-variance group. That gives you enough categories to reach 5 wins most weeks.",
+     "text": "Head-to-head only needs 5 of 9 category wins. Even balanced teams end up punting something in the playoffs. For weeks 19, 20 and 21, ending 2027-03-28, it is fine to drop a category you are losing anyway and stream for the ones you can win.",
      "sources": [
-      "skKXe2CRl8Q:r3",
-      "C4vlgpJ62NI:r5",
-      "ME-r173X5b0:r18"
+      "C4vlgpJ62NI:r5"
      ]
     },
     {
-     "text": "Punting is more viable in deeper leagues with more teams. Ours drafts 144 players and leaves the rest on waivers. With up to 6 adds per week, use FAB and trades to steer the build in season, not to rescue a category that is already lost.",
+     "text": "Cover every position with at least two or three eligible players, even when punting. Our roster has G, G, G, F, F, F, C and three Util spots with daily lineups. If a punt leaves you with one C, you will lose games played during the week.",
      "sources": [
+      "skKXe2CRl8Q:r9"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the experts disagree",
+   "paragraphs": [
+    {
+     "text": "The experts differ on how central punting should be. One side says punting wins leagues, a weak category is acceptable, and punting gets more viable with more teams, more categories and deeper leagues. That side also says a Giannis-type pick should push you to punt FT%. The other side says people overindex on punting, value and waivers win just as well, and taking Giannis in round one does not force a punt-FT build. For us: let early value decide, and punt only when the roster already leans that way.",
+     "sources": [
+      "OdDkXFhoKsc:r7",
+      "2A2JbUN-kc0:r10",
       "2A2JbUN-kc0:r11",
-      "C4vlgpJ62NI:r13",
-      "KPdD91Oo8-U:r7"
+      "ahNxsoU8Hx4:r3",
+      "C4vlgpJ62NI:r6",
+      "aLP080hxizA:r2"
      ]
     }
    ]

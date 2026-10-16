@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 46 | 49.5 | 12 | 56 | 55.2 | 9 | 34 |
+| 2026-27 | 46 | 50.0 | 12 | 56 | 54.5 | 9 | 34 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,8 +21,8 @@
 | FT% | 78.8% | -0.1 | -0.0 | - |
 | 3PM | 1.7 | +0.2 | +0.2 | - |
 | PTS | 22.6 | +1.5 | +1.6 | - |
-| REB | 10.2 | +2.1 | +2.5 | league outlier, strong |
-| AST | 7.8 | +2.4 | +3.6 | league outlier, strong |
+| REB | 10.2 | +2.2 | +2.5 | league outlier, strong |
+| AST | 7.8 | +2.4 | +3.7 | league outlier, strong |
 | STL | 1.3 | +1.2 | +1.3 | - |
 | BLK | 0.6 | -0.1 | -0.0 | - |
 | TO | 3.3 | -2.2 | -2.5 | league outlier, weak, weak for his position (punt fit) |
@@ -30,27 +30,27 @@
 </details>
 
 **Current**
-- Experts do not see him as a first-round pick in category leagues. Lloyd would take him in the middle of round two. Others call him a bust at pick 11 and too high at picks 9 or 10. (verdict, 2026-10-08; [09-25](https://youtu.be/4gw4W4RTolY?t=585), [10-06](https://youtu.be/eTsjuVu1trk?t=1815), [09-24](https://youtu.be/_vbAP5y182A?t=408), [09-23](https://youtu.be/C4vlgpJ62NI?t=2206), [09-19](https://youtu.be/uarqbNA2dFk?t=1402), [09-16](https://youtu.be/2A2JbUN-kc0?t=2112), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539), [08-19](https://youtu.be/J1Eg3uaAICU?t=542), [08-11](https://youtu.be/OdDkXFhoKsc?t=353), [10-08](https://youtu.be/WXO8MfQfzo0?t=469))
-- Experts expect sharing the ball with McCollum to cut his assists, usage, steals and shooting a little. They think last season's numbers and first-round value will be hard to keep. (verdict, 2026-10-06; [09-25](https://youtu.be/4gw4W4RTolY?t=266), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [10-06](https://youtu.be/eTsjuVu1trk?t=1815), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539))
+- In category leagues experts put his fair value in round two, around picks 15 to 20. He should not fall past pick 20. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=534), [10-13](https://youtu.be/OsbUAkSeVB4?t=449), [10-13](https://youtu.be/EogBYa24Gto?t=639), [09-25](https://youtu.be/4gw4W4RTolY?t=585))
+- Most experts say he is not a first-round player in 9-cat and is overdrafted at picks 9 to 12. One speaker said pick 10 is slightly early but will not sink a team. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=255), [10-12](https://youtu.be/ENizLoE6pzI?t=553), [10-11](https://youtu.be/uI6umXsE7Vk?t=378), [10-06](https://youtu.be/eTsjuVu1trk?t=1815), [09-24](https://youtu.be/_vbAP5y182A?t=408), [09-23](https://youtu.be/C4vlgpJ62NI?t=2206), [09-19](https://youtu.be/uarqbNA2dFk?t=1402), [09-16](https://youtu.be/2A2JbUN-kc0?t=2112), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [08-19](https://youtu.be/J1Eg3uaAICU?t=542), [08-11](https://youtu.be/OdDkXFhoKsc?t=353), [09-25](https://youtu.be/4gw4W4RTolY?t=585))
+- Last season Johnson played about two-thirds of the games without Trae Young or McCollum. When McCollum played, Johnson's assists fell by about one per game. His time on the ball, steals, blocks and shooting efficiency also dropped, and he was not a top 30 player in that stretch. (fact, 2026-10-06; [09-25](https://youtu.be/4gw4W4RTolY?t=196), [09-25](https://youtu.be/4gw4W4RTolY?t=220), [08-19](https://youtu.be/J1Eg3uaAICU?t=477), [09-19](https://youtu.be/uarqbNA2dFk?t=1402), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [09-16](https://youtu.be/2A2JbUN-kc0?t=2112), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539), [08-11](https://youtu.be/OdDkXFhoKsc?t=353), [10-06](https://youtu.be/eTsjuVu1trk?t=1815))
+- Experts expect sharing creation with McCollum to cut his assists, usage, steals and FG% a bit. They think repeating last season's numbers will be hard. (verdict, 2026-10-06; [09-25](https://youtu.be/4gw4W4RTolY?t=266), [10-06](https://youtu.be/eTsjuVu1trk?t=1815), [09-10](https://youtu.be/dlo7L8Ru91A?t=534))
 - He went for 33 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1517))
-- He is a projected starter with CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels and Onyeka Okongwu. Each starter should play 30-plus minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428))
-- McCollum is on the roster for the full season. In the part of last season he played with McCollum, Johnson's assists fell by about one per game. His time on ball, steals, blocks and shooting also dropped, and he was not a top 30 player. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=196), [09-25](https://youtu.be/4gw4W4RTolY?t=220), [08-19](https://youtu.be/J1Eg3uaAICU?t=477), [09-19](https://youtu.be/uarqbNA2dFk?t=1402), [09-16](https://youtu.be/2A2JbUN-kc0?t=2112))
-- Atlanta plays 4-4-3 games in our playoff weeks (March 28 end). The team has 14 back-to-backs, but experts do not expect it to rest players, and it did not shut players down last season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
-- His steals, blocks and shooting efficiency dropped late last season, after a big jump in minutes. His shooting also dropped in the playoffs. (fact, 2026-09-23; [09-14](https://youtu.be/LM0cRCGoAUQ?t=598), [08-25](https://youtu.be/H9q2FT3LhNw?t=1227), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [09-23](https://youtu.be/C4vlgpJ62NI?t=2206))
-- Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- CJ McCollum is in Atlanta and is projected to start with Nickeil Alexander-Walker, Dyson Daniels, Johnson and Onyeka Okongwu. Each starter should play 30 or more minutes. The team has no true point guard, so McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- With a March 28 season end, Atlanta plays 4, 4 and 3 games in the fantasy playoff weeks. The team has 14 back-to-backs, but resting players is not a concern, and the team did not shut players down last season. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- 2025-26 was his first healthy season and came with a big jump in minutes. His shooting dropped in the second half and in the playoffs, and his defensive stats faded late in the season. (fact, 2026-09-19; [08-25](https://youtu.be/H9q2FT3LhNw?t=1227), [09-14](https://youtu.be/LM0cRCGoAUQ?t=598), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [09-19](https://youtu.be/uarqbNA2dFk?t=1402))
 
 **Durable**
-- He commits many turnovers. This is his clear weak category. (fact, 2026-10-11; stats)
-- Experts rate him clearly higher in points leagues than in category leagues. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=469), [09-25](https://youtu.be/4gw4W4RTolY?t=585), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539), [09-21](https://youtu.be/egRrai3Ax38?t=1120))
-- He was injured in every season before 2025-26, which was his first healthy season. His past injuries include wrist and shoulder injuries. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1104), [09-25](https://youtu.be/4gw4W4RTolY?t=476), [09-10](https://youtu.be/dlo7L8Ru91A?t=534), [09-19](https://youtu.be/uarqbNA2dFk?t=1402))
-- Experts disagree on his injury risk. Lloyd calls the past injuries fluky and is not concerned. Others say he has a checkered medical history and that one healthy season does not make him reliable. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=476), [09-16](https://youtu.be/2A2JbUN-kc0?t=2126), [08-19](https://youtu.be/J1Eg3uaAICU?t=509))
-- He is a strong playmaker and rebounder for a forward. His rebounds and assists are league outliers, and his assists are far above other forwards. He also scores a lot. (fact, 2026-09-23; stats, [08-25](https://youtu.be/H9q2FT3LhNw?t=364), [09-16](https://youtu.be/2A2JbUN-kc0?t=2126), [09-23](https://youtu.be/C4vlgpJ62NI?t=2216))
-- Experts call his percentages and three-point shooting iffy. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2216), [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- He commits many turnovers. TO is his clear weak category. (fact, 2026-10-16; stats)
+- He is excellent in points, rebounds and assists. His rebounds and assists are league outliers, and his playmaking is rare for a forward: about eight assists per game. (fact, 2026-10-13; stats, [09-23](https://youtu.be/C4vlgpJ62NI?t=2216), [09-16](https://youtu.be/2A2JbUN-kc0?t=2126), [08-25](https://youtu.be/H9q2FT3LhNw?t=364), [10-13](https://youtu.be/EogBYa24Gto?t=639))
+- He is worth more in points leagues, where experts rate him a fine pick at 8 to 12, than in 9-cat. Points-based ranks overrate him for us. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=469), [09-25](https://youtu.be/4gw4W4RTolY?t=585), [09-14](https://youtu.be/LM0cRCGoAUQ?t=539), [09-21](https://youtu.be/egRrai3Ax38?t=1120), [09-01](https://youtu.be/80kfLVnFQ_s?t=414))
+- He was injured in every season before 2025-26. The injuries included wrist and shoulder problems. (fact, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1104), [09-25](https://youtu.be/4gw4W4RTolY?t=476), [09-19](https://youtu.be/uarqbNA2dFk?t=1402), [09-10](https://youtu.be/dlo7L8Ru91A?t=534))
+- Experts disagree on his injury risk. Lloyd calls the past injuries fluky and is not concerned. Others call his medical history checkered and say the new narrative that he is reliable is ridiculous. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=476), [09-16](https://youtu.be/2A2JbUN-kc0?t=2126), [08-19](https://youtu.be/J1Eg3uaAICU?t=509))
+- Experts call his percentages and his three-point shooting iffy. Projections put his FG% and FT% near the pool average. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2216), [08-25](https://youtu.be/H9q2FT3LhNw?t=364), stats)
 
 **Tags**
-- Current: `bust candidate` (first-round price on Yahoo and ESPN; experts value him mid round two in 9-cat), `usage competition` (shares creation with CJ McCollum and Nickeil Alexander-Walker), `role down` (less usage and time on ball with McCollum there all season), `regression risk` (8 assists, 49% FG and steals expected to drop), `shared ball handling` (no true point guard in Atlanta), `low shutdown risk`
-- Durable: `REB specialist` (about 10 rebounds per game), `AST specialist` (about 8 assists per game), `AST from a big` (forward with about 8 assists per game), `high TO` (about 3.3 turnovers per game), `punt TO fit`, `points league player` (experts value him around picks 8 to 12 in points leagues but mid round two in category leagues)
+- Current: `bust candidate` (at a first-round price (Yahoo rank 12, ESPN rank 9)), `regression risk` (assists, FG% and steals expected to drop with McCollum), `role down` (shares creation with McCollum, less usage than last season), `usage competition` (CJ McCollum, Nickeil Alexander-Walker, Dyson Daniels), `shared ball handling` (no true point guard in Atlanta), `questionable` (Yahoo Q (Rest)), `low shutdown risk` (resting players not a concern in Atlanta)
+- Durable: `AST specialist` (about 7.8 assists per game projected), `REB specialist` (about 10 rebounds per game projected), `AST from a big` (forward with about eight assists per game), `high TO` (about 3.3 turnovers per game projected), `punt TO fit`, `points league player` (rated fine at picks 8 to 12 in points, round two in cats)
 
-**Note.** Yahoo (46 USD, rank 12) and ESPN (56 USD, rank 9) both price him as a first-rounder. Experts see him as a mid second-rounder in 9-cat, and he went for 34 USD in our league last season and 33 USD in an expert mock, so 35 to 40 USD looks like a fair ceiling for us. He fits a punt TO build best, where his elite rebounds and assists from a forward slot count fully. Early in the season, check whether his assists, steals and FG% hold up with McCollum on the floor.
+**Note.** Yahoo (46 USD value, 50 USD cost) and ESPN (56 USD value, 54.5 USD cost) price him as a first-rounder. Experts see him as a round-two player in 9-cat, closer to our league's 34 USD last season and the 33 USD mock result. He fits punt TO builds and teams that want rebounds and assists from a forward, so bid up to about 35 to 40 USD and let others pay first-round money. Early in the season, check his assists, FG% and steals next to McCollum, because experts expect those numbers to fall from last season's 7.9 assists and 48.9% FG.
 
-<sub>28 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>34 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

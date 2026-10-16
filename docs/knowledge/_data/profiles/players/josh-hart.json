@@ -8,18 +8,27 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f0f1ed2df11a",
- "note_count": 13,
- "built_at": "2026-10-11T09:19:32+00:00",
+ "input_sha": "4c4425ede106",
+ "note_count": 18,
+ "built_at": "2026-10-16T09:03:24+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2541056,
-  "duration_ms": 63497,
-  "turns": 3,
+  "cost_usd_list": 0.21582620000000002,
+  "duration_ms": 61521,
+  "turns": 2,
   "denied": 0
  },
  "current": [
+  {
+   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
   {
    "text": "He re-signed with the Knicks for 2 years and 9 million USD.",
    "kind": "fact",
@@ -30,12 +39,38 @@
    ]
   },
   {
-   "text": "He is a projected starter next to Brunson, Bridges, Anunoby and Towns.",
+   "text": "He is a projected Knicks starter next to Brunson, Bridges, Anunoby and Towns.",
    "kind": "fact",
-   "date": "2026-08-13",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "-dulgoyo_wo:t0",
     "okN3fbHJtlA:t2"
+   ]
+  },
+  {
+   "text": "Experts expect his minutes to stay near 30 per game. They see little chance of a return to 34 to 37 minute nights because the Knicks will be careful with his workload, so he has little upside.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:p9",
+    "uarqbNA2dFk:p48",
+    "dlo7L8Ru91A:p36",
+    "W-R1dzem32s:p38",
+    "okN3fbHJtlA:p2"
+   ]
+  },
+  {
+   "text": "Experts name him the Knicks starter most at risk of decline. They point to wear and tear and a long Finals run, and say he already showed signs of decline.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p2",
+    "uarqbNA2dFk:p48",
+    "eTsjuVu1trk:p30",
+    "dlo7L8Ru91A:t4"
    ]
   },
   {
@@ -48,74 +83,40 @@
    ]
   },
   {
-   "text": "The Knicks won the championship and beat the Spurs in the Finals.",
-   "kind": "fact",
-   "date": "2026-09-14",
+   "text": "One expert does not believe his three-point shooting near 41% will hold.",
+   "kind": "verdict",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t8",
-    "LM0cRCGoAUQ:t6"
+    "-dulgoyo_wo:p10"
    ]
   },
   {
-   "text": "Experts expect his minutes to stay around 30 per game. They see no return to 36 to 38 minute roles because the Knicks will be careful with workloads.",
+   "text": "Experts disagree a little on price. The Knicks preview calls an ADP around 100 about right for a late pick. Josh would only draft him if he falls to about 120 and would pay no more than 2 USD in an auction. Another speaker avoids him completely.",
    "kind": "verdict",
-   "date": "2026-09-22",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:p2",
-    "dlo7L8Ru91A:p36",
-    "W-R1dzem32s:p38",
-    "uarqbNA2dFk:p48",
-    "QbdrhJd7LiA:t3"
+    "-dulgoyo_wo:p9",
+    "w66x_I_MaQ8:p37",
+    "Q6YlQDvD-aY:p76",
+    "DzQXaC2rsac:p19"
    ]
   },
   {
-   "text": "The Knicks are expected to be conservative early, with starters' minutes trimmed and more rest on back-to-backs.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "first 30 or so games",
-   "sources": [
-    "okN3fbHJtlA:t1",
-    "W-R1dzem32s:t5",
-    "LM0cRCGoAUQ:t6"
-   ]
-  },
-  {
-   "text": "Experts worry about a championship hangover for the Knicks: a minute or two less per game and a small rise in injury risk.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "dlo7L8Ru91A:t4",
-    "7BllEsdNLoM:t8"
-   ]
-  },
-  {
-   "text": "He is called the Knicks starter most at risk of decline because of past wear and tear, and he showed signs of decline last season.",
-   "kind": "verdict",
-   "date": "2026-09-19",
-   "until": "",
-   "sources": [
-    "okN3fbHJtlA:p2",
-    "uarqbNA2dFk:p48"
-   ]
-  },
-  {
-   "text": "Experts see him as overpriced. In an auction mock the expert would pay no more than 2 USD for him (he went for 8 USD), and his ESPN and points-league draft spots are called too high.",
+   "text": "Experts call earlier ADPs of 61 to 83 far too high.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p76",
-    "eTsjuVu1trk:p30",
-    "QbdrhJd7LiA:p42",
     "uarqbNA2dFk:p48",
+    "QbdrhJd7LiA:p42",
+    "eTsjuVu1trk:p30",
     "80kfLVnFQ_s:p33"
    ]
   },
   {
-   "text": "His block rate fell last season and could move back up.",
+   "text": "His block rate fell last season. One analyst thinks it could move back up.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -124,28 +125,58 @@
    ]
   },
   {
-   "text": "The Knicks are projected to win about 50 to 54 games.",
-   "kind": "verdict",
-   "date": "2026-08-13",
+   "text": "The Knicks won the championship. They are projected to win about 50 to 54 games.",
+   "kind": "fact",
+   "date": "2026-08-27",
    "until": "",
    "sources": [
+    "LM0cRCGoAUQ:t6",
+    "ZAyie8lKyYc:t8",
     "okN3fbHJtlA:t1"
+   ]
+  },
+  {
+   "text": "The Knicks play a league-minimum 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
+   ]
+  },
+  {
+   "text": "The Knicks have a weak fantasy playoff schedule for a season that ends March 28.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a fantasy stat stuffer whose game relies on motor and athleticism.",
+   "text": "He is a stat stuffer. He gives good rebounds and assists for his position, average steals, and a good FG% on low volume.",
    "kind": "verdict",
-   "date": "2026-08-13",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "-dulgoyo_wo:p10",
     "W3THnI7wWdA:p30",
-    "okN3fbHJtlA:p3"
+    "stats"
    ]
   },
   {
-   "text": "He is historically a 31 to 33 percent three-point shooter.",
+   "text": "His 9-cat value looks better than his real worth.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:p10"
+   ]
+  },
+  {
+   "text": "Over his career he has been a 31 to 33 percent three-point shooter.",
    "kind": "fact",
    "date": "2026-08-13",
    "until": "",
@@ -154,97 +185,146 @@
    ]
   },
   {
-   "text": "Rebounds are his strongest category, clearly above other guards and forwards. Assists and steals are also above the pool. No category is a real outlier either way.",
+   "text": "His game relies on motor and athleticism.",
+   "kind": "fact",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:p3"
+   ]
+  },
+  {
+   "text": "He has a badly damaged finger. He has said that surgery on it would end his career.",
    "kind": "fact",
    "date": "2026-10-11",
    "until": "",
    "sources": [
-    "stats"
+    "-dulgoyo_wo:p11"
    ]
   }
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no weak category flagged; best in REB, AST, STL",
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q, ankle",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Yahoo Q, ankle",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "REB from a guard",
+   "channel": "durable",
+   "detail": "G eligible, about 7.8 REB projected",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:p10",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "9-cat fluff",
+   "channel": "durable",
+   "detail": "value comes from FG% on low volume",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "3P% near 41% not trusted; wear and tear decline",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:p10",
+    "okN3fbHJtlA:p2",
+    "uarqbNA2dFk:p48"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "expected around 30 minutes; Knicks careful with workloads",
+   "detail": "about 30 minutes expected, Knicks careful with workloads",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:p2",
+    "-dulgoyo_wo:p9",
     "W-R1dzem32s:p38",
-    "dlo7L8Ru91A:p36",
-    "uarqbNA2dFk:p48"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "low starter minutes",
-   "channel": "current",
-   "detail": "Knicks trimming starters' minutes early",
-   "until": "first 30 or so games",
-   "sources": [
-    "okN3fbHJtlA:t1",
-    "LM0cRCGoAUQ:t6",
-    "W-R1dzem32s:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "back-to-back risk",
-   "channel": "current",
-   "detail": "more rest on back-to-backs early in the season",
-   "until": "first 30 or so games",
-   "sources": [
-    "okN3fbHJtlA:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "wear and tear, signs of decline last season",
-   "until": "",
-   "sources": [
     "okN3fbHJtlA:p2",
-    "uarqbNA2dFk:p48"
+    "okN3fbHJtlA:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "called too high at ESPN and points-league ADP; mock auction value 2 USD, went for 8 USD",
+   "detail": "above about 2 USD or before pick 100 to 120",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:p30",
     "Q6YlQDvD-aY:p76",
-    "QbdrhJd7LiA:p42",
-    "uarqbNA2dFk:p48"
+    "w66x_I_MaQ8:p37",
+    "uarqbNA2dFk:p48",
+    "eTsjuVu1trk:p30"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "defending champions, projected 50 to 54 wins",
+   "detail": "defending champion, 50 to 54 wins projected",
    "until": "",
    "sources": [
     "okN3fbHJtlA:t1",
     "LM0cRCGoAUQ:t6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "weak with a March 28 end",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13, the league minimum",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Hart ranks about 97 to 98 on both sites, with values of 4 USD (Yahoo) and 3 USD (ESPN). He sold for 6 USD in our league last season, and experts would pay no more than about 2 USD. He fits any build as a late filler for rebounds, assists and steals (REB z +1.9 vs his position), but his minutes are expected to stay near 30. Pay 1 to 3 USD at most, and check early whether the Knicks hold him under 30 minutes and rest him on back-to-backs over the first 30 or so games.",
+ "note": "Hart is a cheap filler for any build. He helps in rebounds, assists, steals and FG% without a weak category, but the experts say his 9-cat rank (Yahoo 98, ESPN 97) overstates him and he has little upside at about 30 minutes. Do not pay more than the market cost of 2 to 3 USD, well below the 6 USD our league paid last season, and the Knicks' weak schedule for our March 28 playoff end lowers him further. Early on, check his ankle (Yahoo Q), whether his minutes stay near 30 and whether his three-point shooting drops back toward his career 31 to 33 percent.",
  "rejected": []
 }

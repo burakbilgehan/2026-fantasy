@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 222 | 0 | 0.0 | 235 | not drafted |
+| 2026-27 | 0 | - | 226 | 0 | 0.0 | 235 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,21 +28,23 @@
 </details>
 
 **Current**
-- Both sites value him at 0 USD and rank him well outside the 144 players our league drafts. He is a waiver option, not a draft target. (verdict, 2026-10-11; stats)
-- Trae Young, Anthony Davis and AJ Dybantsa are expected to take most of the usage. The experts say this squeezes the roles of the young players. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-03](https://youtu.be/OBwWCxG9SqM?t=1271), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
-- He is not among the projected Wizards starters (Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis, Alex Sarr). The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [09-07](https://youtu.be/gJUBAJaHzlU?t=1586))
-- Washington has a deep, crowded group of wings and guards. A 10 or 11 man rotation is expected. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
-- Washington is trying to compete this season, so the experts do not expect late-season rest or minutes cuts. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
-- Head coach Brian Keefe is under heavy pressure to win games this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
+- Experts say these additions cut into the roles of the young players and leave little usage for others. (verdict, 2026-10-06; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [06-23](https://youtu.be/-rgXhs5BHiw?t=112), [10-06](https://youtu.be/eTsjuVu1trk?t=2539))
+- Washington has a crowded group of wings and guards. The fifth starter spot is open, with many wings competing for it. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1586), [07-23](https://youtu.be/LUTYUdXBG1M?t=248))
+- Washington added Anthony Davis, Trae Young and AJ Dybantsa. (fact, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [09-17](https://youtu.be/DubdKKhMWHo?t=1436))
+- He is not in the projected Washington starting five of Trae Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Experts expect a 10 or 11 man rotation, with 12 or 13 players who could justify minutes. That spreads minutes thin. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2098))
+- Washington says the rebuild is over and is trying to compete. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- Because the team is trying to compete, experts do not expect the late-season resting and minutes cuts of past years. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185))
+- He scored 25 points on 20 shots in his one Summer League game. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
 
 **Durable**
-- He is probably the best shooter on the Wizards. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=526))
-- He is a one-dimensional scorer. One expert worries that he does nothing besides score. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
+- An expert calls him probably the best shooter on the Wizards. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=526))
+- An expert worries that he does nothing besides score. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=219))
 
 **Tags**
-- Current: `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the usage), `minutes competition` (many wings competing for the open fifth starter spot), `deep rotation` (10 or 11 man rotation expected, crowded at wing and guard), `concentrated usage` (Young, Davis and Dybantsa), `coach hot seat` (Brian Keefe), `low shutdown risk` (Wizards are trying to compete for the play-in), `waiver watch` (0 USD value, Yahoo rank 222, ESPN rank 235)
+- Current: `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa take most of the touches), `minutes competition` (many wings compete for the open fifth starter spot), `role down` (veteran additions cut into the young players' roles), `deep rotation` (10 or 11 man rotation expected), `low shutdown risk` (Washington is trying to compete)
 - Durable: none
 
-**Note.** Yahoo ranks him 222 and ESPN ranks him 235, and both value him at 0 USD, so he should not be drafted in our 144-player auction. His projection gives about 2.0 threes, 86.8% FT and only 1.2 turnovers a game, but 43.4% FG and little in rebounds, steals and blocks. That makes him a scorer and shooter, and that kind of player rarely holds a roster spot. Watch him on waivers early. Check whether he wins the open fifth starter spot and plays clearly more than last season's 24 minutes, even with Young, Davis and Dybantsa taking the usage.
+**Note.** Both sites value him at 0 USD and rank him 226 (Yahoo) and 235 (ESPN), far outside the 144 players we draft, so do not draft him. He offers about 2.0 threes per game and a good FT% on low volume, but rates below average in FG%, REB, STL and BLK, and he is not projected to start on a crowded Washington wing group. Early in the season, check whether he wins the open fifth starter spot or a steady 24 plus minutes. Only then is he worth a waiver look as a three-point streamer.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

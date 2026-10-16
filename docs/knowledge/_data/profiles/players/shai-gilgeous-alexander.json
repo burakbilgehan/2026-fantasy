@@ -8,63 +8,70 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c0d2f0518e6d",
- "note_count": 12,
- "built_at": "2026-10-11T09:23:35+00:00",
+ "input_sha": "731104c48f47",
+ "note_count": 21,
+ "built_at": "2026-10-16T09:16:35+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1840302,
-  "duration_ms": 48003,
+  "cost_usd_list": 0.1859342,
+  "duration_ms": 44056,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts rank him a top-4 pick in 9-cat. Yahoo's rank of 4 is called reasonable.",
+   "text": "Experts rate him a top 2 to 4 pick in 9-cat leagues and are fine taking him at pick 2 or 3. One expert would still take Luka Doncic over him at pick 3 about 75% of the time.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p3",
-    "2A2JbUN-kc0:p7"
+    "NhLMyS7Ii5I:p0",
+    "ENizLoE6pzI:p0",
+    "uI6umXsE7Vk:p2",
+    "2A2JbUN-kc0:p7",
+    "J1Eg3uaAICU:p3"
    ]
   },
   {
-   "text": "Tier 1 point guard. In category leagues it is worth considering him over Luka Doncic because of his efficiency edge.",
+   "text": "In an auction mock, Josh would not pay more than 60 USD for him. He went for 68 USD.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p1",
-    "2A2JbUN-kc0:p7"
+    "Q6YlQDvD-aY:p6"
    ]
   },
   {
-   "text": "Projected at about 33 percent usage and 33 minutes per game.",
+   "text": "He ranks higher in category leagues than in points leagues because of his efficiency. In points leagues experts put him behind Doncic, Jokic and Wembanyama.",
    "kind": "verdict",
-   "date": "2026-09-09",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "NhLMyS7Ii5I:p1",
+    "2A2JbUN-kc0:p7",
+    "g31YlwRe0XQ:p1",
     "7BllEsdNLoM:p1"
    ]
   },
   {
-   "text": "Josh would not pay more than 60 USD for him in an auction.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "Late last season his scoring, three-point shooting and minutes all dropped off.",
+   "kind": "fact",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p6"
+    "NhLMyS7Ii5I:p2"
    ]
   },
   {
-   "text": "He went for 68 USD in an expert auction mock draft.",
+   "text": "OKC traded away the shooters Lu Dort, Isaiah Joe and Aaron Wiggins and must give more minutes to Ajay Mitchell and Jared McCain.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p6"
+    "NhLMyS7Ii5I:t0",
+    "BjXP9JODDSg:t0",
+    "75Sk_4fkgIM:t0"
    ]
   },
   {
@@ -77,58 +84,66 @@
    ]
   },
   {
-   "text": "The off-ball work could mean fewer assists, fewer shots or more threes, or no change at all. It may be tied to OKC giving more minutes to Ajay Mitchell and Jared McCain. Worth watching early.",
+   "text": "One expert expects him to take more threes with the shooters gone, so his FG% should fall from about 55% to about 52%. He also expects fewer assists next to Wallace and Mitchell, not above six per game, and is a little soft on him this season.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p0",
-    "BjXP9JODDSg:t0"
+    "NhLMyS7Ii5I:p3",
+    "NhLMyS7Ii5I:p4",
+    "BjXP9JODDSg:p0"
    ]
   },
   {
-   "text": "With our March 28 end date, OKC plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21. That is a better playoff schedule than Doncic's.",
+   "text": "He is projected at about 33% usage and 33 minutes per game.",
+   "kind": "verdict",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p1"
+   ]
+  },
+  {
+   "text": "OKC plays 4, 3 and 4 games in our playoff weeks with the March 28 end. That is better than Doncic's schedule.",
    "kind": "fact",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "sFelMKWcqyI:p42"
+    "sFelMKWcqyI:p42",
+    "NhLMyS7Ii5I:t5"
    ]
   },
   {
-   "text": "OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins and replaced them with rookies and unproven young players.",
+   "text": "OKC has a league-minimum 13 back-to-backs.",
    "kind": "fact",
-   "date": "2026-09-07",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:t0",
-    "-KS_AZjZnw4:t7",
-    "gJUBAJaHzlU:t4"
+    "NhLMyS7Ii5I:t5"
    ]
   },
   {
-   "text": "OKC may lean more on offense through him, Ajay Mitchell and Jalen Williams. The team is expected to push its core players to shoot more threes.",
-   "kind": "verdict",
-   "date": "2026-07-26",
-   "until": "",
-   "sources": [
-    "75Sk_4fkgIM:t4",
-    "75Sk_4fkgIM:t5"
-   ]
-  },
-  {
-   "text": "OKC is projected to win about 62 games and be a top-two seed in the West.",
+   "text": "OKC is projected for about 57 to 62 wins and should be a top two seed in the West.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t3"
    ]
+  },
+  {
+   "text": "Yahoo lists him as point guard only, which is G in our league.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p1"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "Back-to-back MVP. He has improved every year, including a big jump as a playmaker last season.",
+   "text": "He is a back-to-back MVP. He has improved every year, including a big playmaking leap last season.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -137,7 +152,7 @@
    ]
   },
   {
-   "text": "Takes few threes. He scores with elite contested mid-range jumpers, which OKC counts as efficient shots for him.",
+   "text": "He takes few threes. He is elite at contested mid-range jumpers.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
@@ -146,28 +161,19 @@
    ]
   },
   {
-   "text": "He is an outlier in FG% and FT% on high volume. His free throw impact is among the best in the league.",
+   "text": "He is a league outlier in FG%, FT%, points and steals. His FG% and FT% come on high volume, so he lifts both team ratios clearly.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "ME-r173X5b0:p41",
-    "stats"
+    "stats",
+    "ME-r173X5b0:p41"
    ]
   },
   {
-   "text": "Points and steals are also league outliers.",
+   "text": "Rebounds, blocks and threes are his weakest categories, but none of them is weak for a guard.",
    "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His weakest categories are rebounds, blocks and threes. None of them is weak enough to hurt a build.",
-   "kind": "verdict",
-   "date": "2026-09-23",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "C4vlgpJ62NI:p12",
@@ -175,11 +181,21 @@
    ]
   },
   {
-   "text": "Injuries were a concern earlier in his career, but he has stayed healthy the last couple of seasons.",
+   "text": "He has stayed healthy the last couple of years.",
    "kind": "fact",
    "date": "2026-09-10",
    "until": "",
    "sources": [
+    "W-R1dzem32s:p1"
+   ]
+  },
+  {
+   "text": "Experts call his old injury concerns overblown and see him as a safe pick.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p5",
     "W-R1dzem32s:p1"
    ]
   }
@@ -188,18 +204,18 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "Top-4 9-cat per game line",
+   "detail": "Top 4 9-cat per game line",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p7",
-    "stats"
+    "stats",
+    "2A2JbUN-kc0:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 54% on about 20 attempts",
+   "detail": "About 54% on 20 attempts",
    "until": "",
    "sources": [
     "stats"
@@ -209,11 +225,11 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "About 88% on about 9 attempts",
+   "detail": "About 88% on 9 attempts",
    "until": "",
    "sources": [
-    "ME-r173X5b0:p41",
-    "stats"
+    "stats",
+    "ME-r173X5b0:p41"
    ],
    "new_meaning": ""
   },
@@ -240,28 +256,17 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category. Weakest are REB, BLK and 3PM",
+   "detail": "No category flagged weak",
    "until": "",
    "sources": [
-    "C4vlgpJ62NI:p12",
     "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "good playoff schedule",
-   "channel": "current",
-   "detail": "4-3-4 games in weeks 19 to 21 with the March 28 end",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p42"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "OKC projected about 62 wins",
+   "detail": "About 57 to 62 wins projected",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:t3"
@@ -269,16 +274,27 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Yahoo status Q (Rest)",
+   "detail": "League-minimum 13",
    "until": "",
    "sources": [
-    "stats"
+    "NhLMyS7Ii5I:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-3-4 games with the March 28 end",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p42",
+    "NhLMyS7Ii5I:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He is a top-4 pick for 9-cat. He lifts both FG% and FT% on big volume and adds outlier points and steals, so he fits every build. Market prices are 58 to 64 USD in value and 67 to 73 USD in average cost, and our league paid 81 USD for him last season. The expert cap is 60 USD, so a bid in the high 60s is about the limit. Early in the season, check whether the reported off-ball role cuts his assists and shots or adds threes. Also check that the Yahoo Q (Rest) tag is just preseason rest.",
+ "note": "He is a top 4 pick in 9-cat who helps every build. He is a league outlier in FG%, FT%, points and steals, and he has no weak category. Prices: Yahoo average cost is 66.8 USD and ESPN is 73.2 USD, against 81 USD in our league last season, while Josh caps him at 60 USD. That suggests he could cost more than his 58 to 64 USD site values, so set a ceiling near 70 USD. Early in the season, watch whether the reported off-ball role shows up. It could mean more threes, an FG% closer to 52% and assists under six.",
  "rejected": []
 }

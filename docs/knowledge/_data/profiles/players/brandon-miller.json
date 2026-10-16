@@ -8,42 +8,43 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "405d29e96bd7",
- "note_count": 27,
- "built_at": "2026-10-11T09:14:04+00:00",
+ "input_sha": "7b3c9bfaefbb",
+ "note_count": 32,
+ "built_at": "2026-10-16T08:46:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2644142,
-  "duration_ms": 78834,
+  "cost_usd_list": 0.2488502,
+  "duration_ms": 72821,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "LaMelo Ball was traded to Minnesota and Miles Bridges to Phoenix, so Charlotte's lead creation role is open.",
+   "text": "Charlotte traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix, which leaves a lot of usage open.",
    "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "RsjGTgJiKyI:t0",
     "4GDfg2n2l8o:t0",
-    "QbdrhJd7LiA:t2"
+    "QbdrhJd7LiA:t2",
+    "Rqb5GdrSweY:t7"
    ]
   },
   {
-   "text": "Experts expect his usage to rise to about 29 or 30 percent, with more creation and more assists, though his efficiency may drop.",
+   "text": "Experts expect Miller to take on more of the creation role without LaMelo Ball. They see his usage rising from about 28 to 29 or 30, with more assists and possibly lower efficiency.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "ya2VYRJ1BN0:p14",
-    "CRLSsoGhb2w:p4",
-    "4GDfg2n2l8o:p0"
+    "4GDfg2n2l8o:p0",
+    "CRLSsoGhb2w:p4"
    ]
   },
   {
-   "text": "He could become a four-threes-a-game player in the new Charlotte setup.",
+   "text": "He could become a four-threes-a-game player in the new Charlotte situation.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -52,81 +53,73 @@
    ]
   },
   {
-   "text": "Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt. Miller is the last healthy main player in Charlotte.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:t4",
-    "6DnRWahYrFA:t6",
-    "BiIZsSypx7Y:p17"
-   ]
-  },
-  {
-   "text": "While White is out, expect high volume, big minutes and more playmaking early in the season. His shooting may suffer.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:p13",
-    "6DnRWahYrFA:p19"
-   ]
-  },
-  {
-   "text": "He had no shoulder restrictions heading into training camp.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p6"
-   ]
-  },
-  {
-   "text": "He is a projected starter next to White, Knueppel, Reid and Diabaté.",
+   "text": "He is a projected starter for Charlotte with White, Knueppel, Reid and Diabaté. Ball handling is split among White, Knueppel and Miller, with no single primary creator.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t3"
-   ]
-  },
-  {
-   "text": "Charlotte has no single primary creator. Ball handling is expected to be split among White, Knueppel and Miller.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
+    "CRLSsoGhb2w:t3",
     "CRLSsoGhb2w:t1",
     "EB1Z_6n56-o:t3"
    ]
   },
   {
-   "text": "Charlotte is leaning fully into floor spacing and plans to take a lot of threes.",
+   "text": "Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt, so Miller is the last healthy main player in Charlotte.",
    "kind": "fact",
-   "date": "2026-07-21",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "EB1Z_6n56-o:t0"
+    "BiIZsSypx7Y:t4",
+    "BiIZsSypx7Y:p17",
+    "6DnRWahYrFA:t6"
    ]
   },
   {
-   "text": "Experts see him as a clear third-round pick in category leagues. They call an ADP in the mid-40s too late, and an ESPN ADP near 107 far too late. A top-30 season is possible.",
+   "text": "While White is out, Miller should get a high workload, big minutes and more playmaking, though he may shoot poorly.",
    "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "Coby White returns",
+   "sources": [
+    "6DnRWahYrFA:p19",
+    "WXO8MfQfzo0:p13"
+   ]
+  },
+  {
+   "text": "He had shoulder surgery after last season and had no shoulder restrictions heading into training camp.",
+   "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p6",
-    "n4KkK-OJjqA:p7",
-    "_vbAP5y182A:p18",
-    "ahNxsoU8Hx4:p9",
-    "ahNxsoU8Hx4:p10",
-    "CRLSsoGhb2w:p3",
-    "OdDkXFhoKsc:p33",
-    "BjXP9JODDSg:p17"
+    "CRLSsoGhb2w:p6",
+    "n4KkK-OJjqA:p6"
    ]
   },
   {
-   "text": "In an auction mock draft he was one of Josh's targets, and Josh bought him for 26 USD.",
+   "text": "His preseason injury flag is not a worry.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p22"
+   ]
+  },
+  {
+   "text": "Experts value him as a late round 2 to round 3 pick in 9-cat, around picks 25 to 34, and a top 30 season is possible. Mock drafters took him at 25 and 34 and called 28 to 30 a good spot.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p11",
+    "DzQXaC2rsac:p6",
+    "w66x_I_MaQ8:p10",
+    "ENizLoE6pzI:p8",
+    "uI6umXsE7Vk:p22",
+    "n4KkK-OJjqA:p6",
+    "n4KkK-OJjqA:p7"
+   ]
+  },
+  {
+   "text": "Josh named him a target in an auction mock and bought him for 26 USD.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -135,7 +128,18 @@
    ]
   },
   {
-   "text": "Some improvement in his fourth season is expected but not guaranteed.",
+   "text": "Experts call his market price too low, especially on ESPN, where an ADP of 107 is called 'bonkers'. Going at pick 49 is called way too late.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p10",
+    "OdDkXFhoKsc:p33",
+    "n4KkK-OJjqA:p6"
+   ]
+  },
+  {
+   "text": "He should improve on last season, but that is not guaranteed.",
    "kind": "verdict",
    "date": "2026-09-07",
    "until": "",
@@ -144,7 +148,16 @@
    ]
   },
   {
-   "text": "With a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has 13 back-to-backs, the league minimum.",
+   "text": "Charlotte takes many threes and spaces the floor.",
+   "kind": "fact",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:t0"
+   ]
+  },
+  {
+   "text": "For a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has only 13 back-to-backs, the league minimum.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -153,25 +166,43 @@
    ]
   },
   {
-   "text": "Charlotte's two-game week starting March 1 should not change decisions about him.",
+   "text": "Charlotte's two-game week starting March 1 falls before our playoffs and should not factor into decisions about him.",
    "kind": "verdict",
    "date": "2026-08-16",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p24",
-    "gf_6GveiAls:t12"
+    "gf_6GveiAls:t12",
+    "gf_6GveiAls:p24"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He had shoulder surgery after the 2025-26 season. He gets injured often.",
+   "text": "Threes made are his standout category, far above the pool and very high for a forward.",
    "kind": "fact",
-   "date": "2026-09-27",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p6",
-    "EB1Z_6n56-o:p23"
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a strong FG% player, and his FG% is weak for a forward on high volume.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He commits many turnovers for a forward.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   },
   {
@@ -184,35 +215,17 @@
    ]
   },
   {
-   "text": "Threes are his standout category. He makes far more than the pool, and even more so for a forward.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is not a strong FG% player. His FG% on high volume is weak for a forward.",
+   "text": "He gets injured often. He had shoulder surgery after the 2025-26 season.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p5",
-    "stats"
+    "EB1Z_6n56-o:p23",
+    "CRLSsoGhb2w:p6"
    ]
   },
   {
-   "text": "His turnovers are high for a forward.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Lloyd values him more in category leagues than in ESPN points leagues.",
+   "text": "He is worth more in category leagues than in ESPN points leagues.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -225,7 +238,7 @@
   {
    "name": "3PM specialist",
    "channel": "durable",
-   "detail": "about 3.4 threes per game projected",
+   "detail": "About 3.4 threes per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -235,7 +248,7 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "forward with guard-level threes",
+   "detail": "Forward with guard-like three-point volume",
    "until": "",
    "sources": [
     "stats"
@@ -245,7 +258,7 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "about 43% FG on high volume",
+   "detail": "About 43% FG on high volume",
    "until": "",
    "sources": [
     "stats",
@@ -256,7 +269,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "about 2.7 turnovers per game projected",
+   "detail": "About 2.7 turnovers per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -266,7 +279,7 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Lloyd values him more in categories than in ESPN points",
+   "detail": "Worth more in categories than in ESPN points",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p20"
@@ -276,53 +289,32 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "usage expected to rise to about 29 or 30 percent after LaMelo Ball left",
+   "detail": "Usage and playmaking rise after LaMelo Ball and Miles Bridges left; bigger load while Coby White is out",
    "until": "",
    "sources": [
     "ya2VYRJ1BN0:p14",
+    "4GDfg2n2l8o:p0",
     "CRLSsoGhb2w:p4",
-    "4GDfg2n2l8o:p0"
+    "6DnRWahYrFA:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage freed",
    "channel": "current",
-   "detail": "LaMelo Ball and Miles Bridges traded away",
+   "detail": "LaMelo Ball and Miles Bridges gone",
    "until": "",
    "sources": [
-    "RsjGTgJiKyI:t0",
+    "Rqb5GdrSweY:t7",
     "4GDfg2n2l8o:t0",
-    "QbdrhJd7LiA:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "early-season value",
-   "channel": "current",
-   "detail": "high workload early while Coby White (calf) and Kon Knueppel are out",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:p13",
-    "6DnRWahYrFA:p19",
-    "BiIZsSypx7Y:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (Leg)",
-   "until": "",
-   "sources": [
-    "stats"
+    "ya2VYRJ1BN0:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "creation split among White, Knueppel and Miller",
+   "detail": "Ball handling split among White, Knueppel and Miller",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t1",
@@ -333,7 +325,7 @@
   {
    "name": "three-point heavy",
    "channel": "current",
-   "detail": "Charlotte leans fully into spacing",
+   "detail": "Charlotte leans fully into spacing and threes",
    "until": "",
    "sources": [
     "EB1Z_6n56-o:t0"
@@ -351,40 +343,55 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "breakout",
    "channel": "current",
-   "detail": "Yahoo value 26 USD and rank 35, ESPN value 9 USD and rank 55",
+   "detail": "Top 30 season possible with the bigger role; improvement not guaranteed",
    "until": "",
    "sources": [
-    "stats"
+    "n4KkK-OJjqA:p6",
+    "gJUBAJaHzlU:p4",
+    "ME-r173X5b0:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "seen as a round 3 pick with top-30 upside, going around ADP 46",
+   "detail": "Experts take him around picks 25 to 34; Josh paid 26 USD in an auction mock",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p6",
-    "n4KkK-OJjqA:p7",
+    "OsbUAkSeVB4:p11",
+    "w66x_I_MaQ8:p10",
+    "ENizLoE6pzI:p8",
     "Q6YlQDvD-aY:p50",
-    "OdDkXFhoKsc:p33"
+    "uI6umXsE7Vk:p22"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ESPN ADP near 107 called far too late",
+   "detail": "Market ADP well below expert value, mostly on ESPN",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p10",
-    "n4KkK-OJjqA:p6"
+    "n4KkK-OJjqA:p6",
+    "n4KkK-OJjqA:p7",
+    "OdDkXFhoKsc:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 26 USD, rank 35; ESPN value 9 USD, rank 55",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts treat him as a third-round value with top-30 upside, which is above his Yahoo rank of 35 and well above ESPN's 9 USD value. A price between our league's 20 USD from last season and Yahoo's 26 USD value fits that view, and Josh paid 26 USD in a mock. He fits punt FG% and punt TO builds best: about 3.4 threes, strong FT% and points, but 43% FG on 16 to 18 shots and about 2.7 turnovers. Early on, check his Yahoo Q (Leg) status and the shoulder, and see whether the extra usage while Coby White is out drags his FG% and turnovers down further.",
+ "note": "Experts treat Miller as a late round 2 to round 3 player, which is close to his Yahoo value (26 USD, rank 35). ESPN (9 USD, rank 55) and our league's 20 USD from last season both sit lower, so a price of about 20 to 26 USD fits. He brings elite threes for a forward, strong FT% (about 88%) and points, so he fits punt FG% and punt TO builds best, since about 43% FG on 17 to 18 shots and 2.7 turnovers are his costs. Early in the season, check that the shoulder holds up, and watch his usage, assists and FG% while Coby White is out.",
  "rejected": []
 }

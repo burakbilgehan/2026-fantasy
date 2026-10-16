@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 169 | 0 | 0.1 | 233 | 1 |
+| 2026-27 | 0 | - | 158 | 0 | 0.1 | 233 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,35 +21,36 @@
 | FT% | 66.0% | -1.1 | -0.3 | - |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak |
 | PTS | 7.4 | -1.1 | -1.0 | - |
-| REB | 5.7 | +0.3 | -0.8 | - |
+| REB | 5.7 | +0.3 | -0.7 | - |
 | AST | 1.1 | -1.1 | -0.8 | - |
-| STL | 0.7 | -0.8 | -0.4 | - |
+| STL | 0.7 | -0.8 | -0.3 | - |
 | BLK | 1.0 | +0.9 | -0.1 | - |
-| TO | 1.1 | +0.7 | +0.6 | - |
+| TO | 1.1 | +0.8 | +0.6 | - |
 
 </details>
 
 **Current**
-- He is set to start at center for the Clippers over Brook Lopez. He started over Lopez in preseason scrimmages and has basically told reporters he is starting. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2350), [10-04](https://youtu.be/tnzmsYUA4yQ?t=382), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
-- He should be drafted late in every 12-team league as a late-round flier. One expert took him with his last pick in a mock draft and sees a longer leash for him than for Jalen Smith. (verdict, 2026-10-08; [10-04](https://youtu.be/tnzmsYUA4yQ?t=786), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1844), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-08](https://youtu.be/WXO8MfQfzo0?t=2350))
-- Yanic Konan Niederhauser is out injured. Brook Lopez is projected as the backup center. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=1268), [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018))
-- Experts doubt the starting job will last all season. He likely starts only until Yanic Konan Niederhauser returns, so his value should fade later in the year. (verdict, 2026-10-04, until Yanic Konan Niederhauser returns; [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-04](https://youtu.be/tnzmsYUA4yQ?t=821), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
-- His upside is a 25-minute starter who gives a big FG% boost, blocks and solid rebounds. He could be a top 150 player early in the season. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=786), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204))
+- He is worth a late flyer in every 12-team league and can be top 150 early in the season. One expert sees a longer leash for him than for Jalen Smith. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1849), [10-08](https://youtu.be/WXO8MfQfzo0?t=2350), [10-04](https://youtu.be/tnzmsYUA4yQ?t=786), [10-04](https://youtu.be/tnzmsYUA4yQ?t=1844), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
+- Jackson is set to start at center for the Clippers over Brook Lopez. He started over Lopez in preseason scrimmages and told reporters he is starting. (fact, 2026-10-08; [10-04](https://youtu.be/tnzmsYUA4yQ?t=382), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-01](https://youtu.be/EGdhmUgPAWY?t=867), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-08](https://youtu.be/WXO8MfQfzo0?t=2350))
+- Yanic Konan Niederhauser, another Clippers center, is out injured. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2018), [06-30](https://youtu.be/4GDfg2n2l8o?t=1059))
+- The starting job may not last all season. It likely lasts only until Konan Niederhauser returns, so his value should fade later in the year. (verdict, 2026-10-04, until Yanic Konan Niederhauser returns; [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-04](https://youtu.be/tnzmsYUA4yQ?t=821), [10-01](https://youtu.be/EGdhmUgPAWY?t=867))
+- His upside is a starter at about 25 minutes with a big FG% boost, blocks and solid rebounds. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=786))
 - Foul trouble is a risk to his minutes as a starter. (verdict, 2026-10-04; [10-02](https://youtu.be/ZYllcj4o6_A?t=1204), [10-04](https://youtu.be/tnzmsYUA4yQ?t=750))
-- Ty Lue makes odd rotation choices and then changes them. The projected Clippers starting five is not certain. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=239), [10-04](https://youtu.be/tnzmsYUA4yQ?t=360))
-- The Clippers play 4, 3 and 4 games in our fantasy playoff weeks and have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
+- The Clippers expect a trial season with long rotations and many players tested. Coach Ty Lue often changes his rotation choices. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=335), [10-04](https://youtu.be/tnzmsYUA4yQ?t=239))
+- The Clippers play 4, 3 and 4 games in our playoff weeks and have one of the lowest back-to-back totals in the league with 13. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=2040))
 
 **Durable**
-- Josh says the Clippers coach never gives his centers heavy minutes. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2628))
+- Clippers coach Ty Lue never gives his centers heavy minutes. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2628))
 - He is highly foul-prone. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), [10-02](https://youtu.be/ZYllcj4o6_A?t=1204))
-- He never developed a three-point shot and makes no threes. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), stats)
-- He tore his Achilles about two years ago. He also got hurt at the end of last season. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), [08-22](https://youtu.be/KLogvUwv_d8?t=1935))
-- One expert does not rate him as a very good player. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750))
+- He makes no threes and never became a three-point shooter. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), stats)
+- He tore his Achilles two years ago. (fact, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750))
+- He is not a very good NBA player. His fantasy value depends on starter minutes. (verdict, 2026-10-04; [10-04](https://youtu.be/tnzmsYUA4yQ?t=750), [10-04](https://youtu.be/tnzmsYUA4yQ?t=786))
+- He got hurt at the end of last season after a strong late run. (fact, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=1935))
 
 **Tags**
-- Current: `role up` (projected starter at center, upside of about 25 minutes), `minutes competition` (Brook Lopez now, Yanic Konan Niederhauser when healthy), `early-season value` (starts while Konan Niederhauser is out; could be top 150 early; until Yanic Konan Niederhauser returns), `flyer` (last-round pick in 12-team leagues), `sleeper` (market value 0 USD on Yahoo and ESPN, expert says draft him in every 12-team league), `minutes limit` (Josh says the Clippers coach never plays his centers heavy minutes), `unsettled rotation` (Ty Lue changes rotations often; projected starters uncertain), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, one of the lowest totals)
-- Durable: `foul prone` (highly foul-prone, and foul trouble can cut his starter minutes), `no 3PM` (0.0 threes per game in every season)
+- Current: `flyer` (late pick in every 12-team league), `early-season value` (starting job likely lasts until Konan Niederhauser returns; until Yanic Konan Niederhauser returns), `role up` (starts at center over Brook Lopez), `minutes competition` (Brook Lopez now, Yanic Konan Niederhauser when healthy), `minutes limit` (Ty Lue never plays his centers heavy minutes), `unsettled rotation` (trial season with long rotations; Ty Lue changes rotations often), `good playoff schedule` (4-3-4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Durable: `foul prone`, `no 3PM` (0.0 3PM per game)
 
-**Note.** He costs nothing: Yahoo and ESPN both value him at 0 USD, and he went for 1 USD in our league last season. That makes him a 1 USD end-of-auction flier for FG% (projected 62.6% with z +1.3 against the pool) and blocks, if he holds the starting center job. He gives you no threes and costs a little in FT%, so his value depends on his minutes. Early on, check whether he keeps starting over Brook Lopez, whether his minutes climb from 16.5 toward 25 despite fouls, and when Konan Niederhauser returns, since that is the likely point to drop him.
+**Note.** Yahoo and ESPN both value him at 0 USD (Yahoo rank 158, ESPN rank 233), and he went for 1 USD in our league last season. Take him for 1 USD as one of the last picks or bench spots. His value is FG% (62.6% projected, +1.3 z vs pool), blocks and rebounds from a starting center. He makes no threes, so he suits builds that already give up 3PM. Early in the season, check that he keeps starting, gets close to 25 minutes, and stays out of foul trouble. Also watch for news on when Konan Niederhauser returns, because that is the likely point to drop him.
 
-<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

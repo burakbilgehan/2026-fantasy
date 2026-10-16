@@ -8,94 +8,95 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "2125203712e0",
- "note_count": 19,
- "built_at": "2026-10-11T09:22:51+00:00",
+ "input_sha": "39865060245e",
+ "note_count": 21,
+ "built_at": "2026-10-16T09:13:44+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2093862,
-  "duration_ms": 57146,
+  "cost_usd_list": 0.2152462,
+  "duration_ms": 59090,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Jaylen Brown is gone from Boston. Jayson Tatum and Paul George take his place.",
+   "text": "Jaylen Brown is gone from Boston. Jayson Tatum and Paul George take his place, and Paul George is the clear number two option behind Tatum.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:t3",
     "eTsjuVu1trk:t3",
-    "eTsjuVu1trk:p28",
-    "DubdKKhMWHo:p17",
     "DubdKKhMWHo:t3",
-    "7BllEsdNLoM:t7"
+    "J1Eg3uaAICU:t4",
+    "Alwse2uXzD4:t1"
    ]
   },
   {
-   "text": "Experts expect him to be the third usage option at best, maybe the fourth, behind Tatum, George and Derrick White. His usage path is more crowded than last season.",
+   "text": "He came off the bench in a preseason game.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p29"
+   ]
+  },
+  {
+   "text": "Experts project him as the sixth man and main backup ball handler, not a starter. One expert says a 29-minute bench role may suit him better than a 32-minute starting role. He could start if Mike Conley handles the backup point guard job.",
    "kind": "verdict",
-   "date": "2026-10-06",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p10",
+    "TiiaNZCJNs8:t1",
+    "Bi1cEM03k9Y:p19",
+    "Bi1cEM03k9Y:t1",
+    "uarqbNA2dFk:p20",
+    "7BllEsdNLoM:p49",
+    "ENizLoE6pzI:p29"
+   ]
+  },
+  {
+   "text": "Experts see him as the third usage option at best, and maybe the fourth, behind Tatum, George and Derrick White. His usage path is more crowded than last season.",
+   "kind": "verdict",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p28",
     "eTsjuVu1trk:p29",
-    "Bi1cEM03k9Y:p19",
     "uarqbNA2dFk:p20",
     "uarqbNA2dFk:t4",
-    "7BllEsdNLoM:p49",
-    "7BllEsdNLoM:t7",
-    "DubdKKhMWHo:t3"
-   ]
-  },
-  {
-   "text": "Experts project him as the sixth man and main backup ball handler, not a starter. He could start and play about 32 minutes if Mike Conley takes the backup point guard role.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
     "Bi1cEM03k9Y:p19",
-    "Bi1cEM03k9Y:t1",
-    "TiiaNZCJNs8:p10",
-    "TiiaNZCJNs8:t1",
-    "uarqbNA2dFk:p20",
-    "7BllEsdNLoM:p49"
+    "7BllEsdNLoM:t7",
+    "ENizLoE6pzI:p29"
    ]
   },
   {
-   "text": "One expert thinks a 29-minute bench role may suit him better than a 32-minute starting role, because as a starter he would be the third usage player.",
-   "kind": "verdict",
-   "date": "2026-09-25",
+   "text": "Experts reject the idea of a Jalen Brunson-style breakout. He had about 21 to 22 percent usage last season even with few teammates around. He turns 29 soon.",
+   "kind": "fact",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p19"
+    "BiIZsSypx7Y:p55",
+    "eTsjuVu1trk:p29",
+    "TiiaNZCJNs8:p11"
    ]
   },
   {
-   "text": "If Paul George plays only about 30 games, he would step back into the bigger role he had last season.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:p20"
-   ]
-  },
-  {
-   "text": "Experts reject the breakout and new Jalen Brunson talk. He had only about 21 to 22 percent usage last season with few teammates around, he turns 29 soon and has basically peaked. One projection is 17 to 18 points a game, a likely step back.",
+   "text": "Experts expect a step back from last season, at around 17 to 18 points per game. They say he has basically peaked.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "BiIZsSypx7Y:p55",
     "TiiaNZCJNs8:p11",
+    "BiIZsSypx7Y:p55",
     "7BllEsdNLoM:p49",
     "DubdKKhMWHo:p17"
    ]
   },
   {
-   "text": "His strong numbers without Jaylen Brown came without Tatum and George on the floor, so experts say they do not matter now.",
+   "text": "His strong numbers without Jaylen Brown last season came without Tatum and George on the floor, so experts say they do not carry over.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -105,9 +106,9 @@
    ]
   },
   {
-   "text": "Experts call him a bust and a fade at his ADP and rank of about 74 to 81. One expert will have him on zero teams. Another sees a worst case of 171st and would not be surprised if he finishes outside the top 110 to 120.",
+   "text": "Most experts call him a bust or a fade at his ADP of about 75 to 81. One worst case puts him at 171st, and he could finish outside the top 110 to 120. In auctions, Josh sees him as worth no more than 4 USD.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p28",
@@ -117,30 +118,31 @@
     "OdDkXFhoKsc:p49",
     "DubdKKhMWHo:p17",
     "7BllEsdNLoM:p49",
-    "WXO8MfQfzo0:p29",
-    "g31YlwRe0XQ:p33"
-   ]
-  },
-  {
-   "text": "At pick 95 in a 9-cat mock draft, one expert called him a good pick, not an early one.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "E-KmhvyZ2CU:p33"
-   ]
-  },
-  {
-   "text": "In an auction mock he went for 6 USD. The expert sees him as no more than a 4 USD player.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
     "Q6YlQDvD-aY:p83"
    ]
   },
   {
-   "text": "One expert expects his 2P% to recover to about 59 percent, and thinks Tatum and George sharing the ball more could help his shot quality.",
+   "text": "His draft spot in mock drafts ranges from the 70s to 100. He went for 6 USD in one auction mock.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "EogBYa24Gto:p22",
+    "Q6YlQDvD-aY:p83",
+    "ENizLoE6pzI:p29"
+   ]
+  },
+  {
+   "text": "If Paul George only plays about 30 games, Pritchard would step back into last season's bigger role.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "Bi1cEM03k9Y:p20"
+   ]
+  },
+  {
+   "text": "One expert expects his two-point percentage to recover to about 59 percent. He also thinks Tatum and George, who share the ball more than Jaylen Brown did, could help his shot quality.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -150,47 +152,43 @@
    ]
   },
   {
-   "text": "Boston is very deep, with at least 12 rotation-level players for a 10-man rotation.",
+   "text": "Boston has 16 back-to-backs, tied for the most in the league, with three of them in our playoff window. Its playoff schedule through March 28 is 4-3-4 games, one short of the maximum.",
    "kind": "fact",
-   "date": "2026-09-25",
+   "date": "2026-09-26",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:t2"
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t5",
+    "Bi1cEM03k9Y:t4",
+    "gf_6GveiAls:t0"
    ]
   },
   {
-   "text": "Boston's playoff schedule is 4-3-4 games in weeks 19 to 21, one game short of the maximum.",
-   "kind": "fact",
+   "text": "Boston is very deep, with at least 12 rotation-level players, and is projected to win about 48 games.",
+   "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:t4"
+    "Bi1cEM03k9Y:t0",
+    "Bi1cEM03k9Y:t2",
+    "TiiaNZCJNs8:t0"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a streaky bucket-getter. He can score 40 on a hot night but also has cold nights.",
-   "kind": "verdict",
-   "date": "2026-07-30",
-   "until": "",
-   "sources": [
-    "TiiaNZCJNs8:p12"
-   ]
-  },
-  {
-   "text": "He is elite on two-pointers in the paint outside the restricted area.",
-   "kind": "verdict",
-   "date": "2026-07-30",
-   "until": "",
-   "sources": [
-    "TiiaNZCJNs8:p12"
-   ]
-  },
-  {
-   "text": "Blocks are his weakest category, even for a guard, so a punt BLK team loses little with him.",
+   "text": "He is a streaky bucket-getter who can score 40 on a hot night but also has cold nights. He is elite on two-pointers in the paint outside the restricted area.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-07-30",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p12"
+   ]
+  },
+  {
+   "text": "He blocks almost no shots, even for a guard.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -199,9 +197,39 @@
  ],
  "tags": [
   {
+   "name": "punt BLK fit",
+   "channel": "durable",
+   "detail": "about 0.1 blocks per game, low even for a guard",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "hot and cold scoring nights",
+   "until": "",
+   "sources": [
+    "TiiaNZCJNs8:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "79 to 82 games in each of the last three seasons",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts fade him at ADP and rank of about 74 to 81",
+   "detail": "called a bust or fade at ADP 75 to 81",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p28",
@@ -215,13 +243,12 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Projected sixth man and third or fourth usage option after Tatum and George arrived",
+   "detail": "projected sixth man with a step back from last season",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p19",
     "TiiaNZCJNs8:p10",
     "TiiaNZCJNs8:p11",
-    "eTsjuVu1trk:p28",
+    "Bi1cEM03k9Y:p19",
     "7BllEsdNLoM:p49"
    ],
    "new_meaning": ""
@@ -229,7 +256,7 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Behind Jayson Tatum, Paul George and Derrick White",
+   "detail": "third or fourth option behind Tatum, George and Derrick White",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p28",
@@ -240,22 +267,9 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Starter or sixth man not settled; may start only if Mike Conley backs up point guard",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p20",
-    "7BllEsdNLoM:p49",
-    "Bi1cEM03k9Y:t1",
-    "TiiaNZCJNs8:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Bigger role if Paul George misses a lot of games",
+   "detail": "steps back into a bigger role if Paul George misses a lot of time",
    "until": "",
    "sources": [
     "Bi1cEM03k9Y:p20"
@@ -263,9 +277,19 @@
    "new_meaning": ""
   },
   {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 13 USD and rank 75, ESPN value 2 USD and rank 98",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "At least 12 rotation-level players in Boston",
+   "detail": "at least 12 rotation-level players in Boston",
    "until": "",
    "sources": [
     "Bi1cEM03k9Y:t2"
@@ -273,46 +297,29 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "winning team",
    "channel": "current",
-   "detail": "Yahoo value 12 USD and rank 80, ESPN value 2 USD and rank 98",
+   "detail": "about 48 wins projected",
    "until": "",
    "sources": [
-    "stats"
+    "TiiaNZCJNs8:t0",
+    "Bi1cEM03k9Y:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "streaky",
-   "channel": "durable",
-   "detail": "Hot and cold scoring nights",
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "16, tied for most in the league",
    "until": "",
    "sources": [
-    "TiiaNZCJNs8:p12"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt BLK fit",
-   "channel": "durable",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "plays every game",
-   "channel": "durable",
-   "detail": "79 to 82 games in each of the last three seasons",
-   "until": "",
-   "sources": [
-    "stats"
+    "3UGI05PDvrE:t5",
+    "Bi1cEM03k9Y:t5",
+    "gf_6GveiAls:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Our league paid 16 USD for him last season. The market has cooled a lot: Yahoo average cost is 3.6 USD, ESPN value is 2 USD, and one expert says he is worth no more than 4 USD, so do not pay more than about 5 USD. Threes are his best category (about 2.8 per game, +1.5 z), and he adds solid FT%, assists and low turnovers, so he fits punt BLK builds as a cheap bench or Util guard. Early in the season, check whether he starts or comes off the bench, whether he gets about 30 minutes, and whether Paul George stays healthy.",
+ "note": "The market price looks right and our league's old price looks too high. Average costs are 3.9 USD on Yahoo and 3.0 USD on ESPN, and Josh caps him at 4 USD. Our league paid 16 USD last season, and Yahoo values him at 13 USD, so bid in the single digits and do not chase him near those numbers. He fits punt BLK guard builds: his projections show about 2.8 threes, good FT% and assists, and few turnovers. He has also played 79 to 82 games in each of the last three seasons. Early in the season, check whether he starts or comes off the bench, whether his minutes stay near 30, and how much usage he keeps next to Tatum and George. If Paul George misses time, his value goes up.",
  "rejected": []
 }

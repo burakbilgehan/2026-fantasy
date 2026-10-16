@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3bb2900a07aa",
+ "input_sha": "f4ea89edcca7",
  "note_count": 4,
- "built_at": "2026-10-11T09:10:21+00:00",
+ "built_at": "2026-10-16T08:42:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.173708,
-  "duration_ms": 39008,
+  "cost_usd_list": 0.1793422,
+  "duration_ms": 48323,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with Golden State for 2 years and 14 million USD.",
+   "text": "He re-signed with Golden State on a 2-year deal worth 14 million USD.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,27 +30,18 @@
    ]
   },
   {
-   "text": "He is projected to start at center while Porzingis is out.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "Porzingis returns",
-   "sources": [
-    "MUbNYdjpUDM:p27",
-    "MUbNYdjpUDM:t3"
-   ]
-  },
-  {
-   "text": "He is expected to sit back-to-backs and play about 60 games.",
-   "kind": "verdict",
-   "date": "2026-09-30",
+   "text": "In preseason the Warriors started Draymond Green at center. Their current plan does not have Horford in the starting lineup.",
+   "kind": "fact",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:p27",
-    "LXZLrL90crE:p22"
+    "uI6umXsE7Vk:t2",
+    "ENizLoE6pzI:t0",
+    "D4dP5JvX1oo:t0"
    ]
   },
   {
-   "text": "Golden State has 15 back-to-backs, tied for second most in the league.",
+   "text": "The Warriors have 15 back-to-backs this season, tied for second most in the league.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -60,58 +51,62 @@
    ]
   },
   {
-   "text": "The Golden State schedule is good for fantasy playoffs that end March 28.",
+   "text": "He is expected to play about 60 games because he skips back-to-backs.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:t4"
+    "LXZLrL90crE:p22"
    ]
   },
   {
-   "text": "Golden State may treat this as a gap year, worry about lottery odds and rest veterans.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t0",
-    "LXZLrL90crE:t0"
-   ]
-  },
-  {
-   "text": "One expert expects Warriors players to fade as the season goes on.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
-    "E-KmhvyZ2CU:t1"
-   ]
-  },
-  {
-   "text": "One expert says to ignore him in most fantasy leagues.",
+   "text": "An expert says to ignore him in most fantasy leagues.",
    "kind": "verdict",
    "date": "2026-07-01",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p22"
    ]
+  },
+  {
+   "text": "Experts call the Warriors a bad team. The season may be a gap year, and the team may rest veterans to protect its lottery odds.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0",
+    "w66x_I_MaQ8:t0",
+    "-DN4P92Wp8Y:t6",
+    "eTsjuVu1trk:t1"
+   ]
+  },
+  {
+   "text": "The Warriors schedule is good for fantasy playoffs that end on March 28.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t4"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He does not play back-to-backs because of his age.",
-   "kind": "fact",
+   "text": "Because of his age, he sits out back-to-backs.",
+   "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "gf_6GveiAls:p11",
-    "MUbNYdjpUDM:p27"
+    "MUbNYdjpUDM:p27",
+    "LXZLrL90crE:p22"
    ]
   },
   {
-   "text": "He is a low-usage big. He gives some threes and blocks with few turnovers, but few points and few steals.",
+   "text": "He is a floor-spacing big who makes threes and rarely turns the ball over. His FG% is low for a big, and none of his categories is a league outlier.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -122,7 +117,7 @@
   {
    "name": "load management",
    "channel": "durable",
-   "detail": "sits all back-to-backs because of age",
+   "detail": "Skips back-to-backs because of his age",
    "until": "",
    "sources": [
     "gf_6GveiAls:p11",
@@ -132,23 +127,24 @@
    "new_meaning": ""
   },
   {
-   "name": "back-to-back risk",
-   "channel": "current",
-   "detail": "expected to sit every back-to-back, about 60 games",
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Rests on back-to-backs because of his age; expected to play about 60 games",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p27",
-    "LXZLrL90crE:p22",
-    "gf_6GveiAls:p11"
+    "LXZLrL90crE:p22"
    ],
    "new_meaning": ""
   },
   {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "team rests him on back-to-backs because of age",
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Expected to sit all back-to-backs; GSW has 15",
    "until": "",
    "sources": [
+    "gf_6GveiAls:p11",
+    "gf_6GveiAls:t4",
     "MUbNYdjpUDM:p27"
    ],
    "new_meaning": ""
@@ -156,7 +152,7 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "GSW has 15 back-to-backs, tied for second most",
+   "detail": "15 back-to-backs, tied for second most",
    "until": "",
    "sources": [
     "gf_6GveiAls:t4",
@@ -167,7 +163,7 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "good GSW schedule for playoffs ending March 28",
+   "detail": "Good for playoffs ending March 28",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
@@ -177,29 +173,31 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "starts at center only while Porzingis is out",
-   "until": "Porzingis returns",
+   "detail": "Draymond Green starts at center in the current plan",
+   "until": "",
    "sources": [
-    "MUbNYdjpUDM:p27",
-    "LXZLrL90crE:p22"
+    "D4dP5JvX1oo:t0",
+    "ENizLoE6pzI:t0",
+    "uI6umXsE7Vk:t2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "early-season value",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "starter role while Porzingis is out; Warriors expected to fade",
-   "until": "Porzingis returns",
+   "detail": "Kerr changes lineups often; Butler and Moody returns will reshape the rotation",
+   "until": "",
    "sources": [
-    "MUbNYdjpUDM:p27",
-    "E-KmhvyZ2CU:t1"
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2",
+    "w66x_I_MaQ8:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "tank risk",
    "channel": "current",
-   "detail": "GSW may treat the season as a gap year and rest veterans",
+   "detail": "Possible gap year; team watches its lottery odds",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0",
@@ -210,7 +208,7 @@
   {
    "name": "shutdown risk",
    "channel": "current",
-   "detail": "veteran on a team that may rest veterans for lottery odds",
+   "detail": "Team may rest veterans",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0"
@@ -218,28 +216,16 @@
    "new_meaning": ""
   },
   {
-   "name": "unsettled rotation",
+   "name": "questionable",
    "channel": "current",
-   "detail": "Kerr runs unpredictable rotations and changes starting lineups",
+   "detail": "Yahoo status Q (Rest)",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "ranked around 200; worth watching while he starts for Porzingis",
-   "until": "Porzingis returns",
-   "sources": [
-    "stats",
-    "MUbNYdjpUDM:p27"
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Horford is outside our 144-player draft pool. Yahoo ranks him 211 and ESPN 199, both value him at 0 USD, and he went for 1 USD in our league last season, so do not spend on him at the auction. He is a waiver watch for the start of the season while he starts at center in place of Porzingis. He sits every back-to-back on a team with 15 of them, so he is best used as a daily streamer on non-back-to-back days, and he loses value once Porzingis returns.",
+ "note": "He ranks 216 on Yahoo and 199 on ESPN, with 0 USD value on both sites, and went for 1 USD in our last auction. That puts him outside the 144 players we draft, so leave him on waivers. He can give low-TO threes and a good FT% from a big, but he has low points and steals, and resting on 15 back-to-backs caps him at about 60 games. Early in the season, check whether Kerr moves Draymond Green off center and gives Horford starter minutes. That is the only path to waiver value.",
  "rejected": []
 }

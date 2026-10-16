@@ -4,14 +4,14 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 73 | 32.1 | 44.8 (11.3) | 78.7 (2.5) | 2.0 | 14.1 | 6.8 | 1.6 | 0.6 | 0.8 | 1.2 |
-| 2026-27 proj, Yahoo | 73 | - | 44.7 (12.7) | 79.1 (2.8) | 2.2 | 15.7 | 7.3 | 1.7 | 0.7 | 0.9 | 1.4 |
+| 2026-27 proj, Yahoo | 73 | - | 44.8 (12.4) | 79.2 (2.7) | 2.2 | 15.4 | 6.4 | 1.7 | 0.7 | 0.9 | 1.3 |
 | 2025-26 | 77 | 35.1 | 44.9 (12.7) | 77.5 (2.7) | 2.3 | 15.8 | 6.9 | 1.9 | 0.7 | 0.9 | 1.4 |
 | 2024-25 | 57 | 30.1 | 43.8 (9.9) | 82.5 (2.2) | 1.7 | 12.2 | 7.0 | 1.1 | 0.4 | 0.7 | 1.1 |
 | 2023-24 | 76 | 31.9 | 45.4 (11.0) | 81.1 (2.4) | 1.8 | 13.7 | 8.1 | 1.6 | 0.7 | 0.8 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.7 | 96 | 2 | 1.4 | 111 | 1 |
+| 2026-27 | 5 | 1.9 | 96 | 2 | 1.5 | 111 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,38 +20,40 @@
 | FG% | 44.8% | -0.7 | -1.1 | weak for his position (punt fit) |
 | FT% | 78.9% | -0.0 | +0.4 | - |
 | 3PM | 2.1 | +0.7 | +1.3 | - |
-| PTS | 14.9 | +0.1 | +0.3 | - |
-| REB | 7.0 | +0.8 | +0.3 | - |
+| PTS | 14.8 | +0.1 | +0.2 | - |
+| REB | 6.6 | +0.6 | +0.1 | - |
 | AST | 1.7 | -0.8 | -0.6 | - |
-| STL | 0.7 | -0.9 | -0.7 | - |
+| STL | 0.6 | -0.9 | -0.7 | - |
 | BLK | 0.8 | +0.5 | +0.0 | - |
 | TO | 1.3 | +0.5 | +0.4 | - |
 
 </details>
 
 **Current**
-- The experts call him a safe pick with little upside. Drafting him around rank 96 is reasonable, and ESPN's rank of about 120 is a better price. Josh believes he can deliver as a late pick. (verdict, 2026-10-08; [10-01](https://youtu.be/aLP080hxizA?t=938), [10-02](https://youtu.be/ZYllcj4o6_A?t=1787), [10-08](https://youtu.be/WXO8MfQfzo0?t=1811))
-- He is a locked-in starter at forward. Tari Eason has not passed him on the depth chart. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=398), [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- His minutes are stable and higher than Alperen Sengun's. Coach Ime Udoka plays his starters heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=990), [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- Experts call him too early in the 90s or inside the top 100. They see fair value around pick 115 or later, where he can deliver as a late pick. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1375), [10-12](https://youtu.be/ENizLoE6pzI?t=1347), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2397), [10-01](https://youtu.be/aLP080hxizA?t=938), [10-02](https://youtu.be/ZYllcj4o6_A?t=1787))
+- He is a rock-solid pick with little upside. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1811), [10-12](https://youtu.be/ENizLoE6pzI?t=1347))
+- He is a locked-in starter at forward. Tari Eason has not passed him on the depth chart. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=398), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [10-01](https://youtu.be/aLP080hxizA?t=328))
+- His minutes are stable and higher than Alperen Sengun's. Coach Ime Udoka plays his starters very heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=990), [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
 - Lloyd sees no reason to expect more blocks, more steals or higher usage this season. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=990))
-- Houston has a weak fantasy playoff schedule for a March 28 end: 3, 3 and 4 games in weeks 19 to 21, so 10 games in total. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- With a March 28 end, the Rockets play 3-3-4 in the fantasy playoff weeks, 10 games over three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- That fantasy playoff schedule is weak. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
 - He is not a high-usage player on this team. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
-- Houston is projected to win about 54 games. The team is expected to stay conservative in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
-- Steven Adams is back, so Smith plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- The Rockets are predicted to win 54 games. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- With Steven Adams back, he plays more power forward than center. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 
 **Durable**
-- He makes many threes for a forward or center. (fact, 2026-10-11; stats, [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
-- His FG% is low for a forward or center, and he takes enough shots for it to hurt a team. (fact, 2026-10-11; stats)
-- He is a boring fantasy pick. (verdict, 2026-10-01; [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-01](https://youtu.be/aLP080hxizA?t=938))
-- He is a 3-and-D role player who is around average in many categories. He will never be a star. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497))
-- He shot only about 35% on open and wide-open threes, which is below league average. He needs to become a more reliable shooter. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=591))
-- His interior defense, rim deterrence and weak-side shot blocking have grown a lot. Smaller, quick guards can still beat him on the perimeter. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=537))
+- He makes many threes for a forward or center. (fact, 2026-10-16; stats, [08-12](https://youtu.be/yoCTTlJ_tPQ?t=464))
+- His FG% is weak for his position. (fact, 2026-10-16; stats)
+- He is a 3-and-D role player who is around average in many areas. He will never be a star, and he is a boring fantasy pick. (verdict, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497), [08-11](https://youtu.be/OdDkXFhoKsc?t=1902), [10-01](https://youtu.be/aLP080hxizA?t=938))
+- His interior defense, rim deterrence and weak-side shot blocking have grown a lot. Smaller, quick guards can beat him on the perimeter. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=497), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=537))
+- He shot only about 35% on open and wide-open threes, which is below league average. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=591))
+- He needs to become a more reliable shooter. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=591))
 
 **Tags**
-- Current: `bad playoff schedule` (3-3-4 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (Only 14 back-to-backs), `winning team` (Projected 54 wins)
-- Durable: `3PM from a big` (About 2 threes per game as a F,C), `punt FG fit` (About 45% FG on 11 to 13 attempts, low for a forward or center), `heavy starter minutes` (Udoka plays starters heavy minutes; Smith's minutes are stable), `defense-first` (Udoka is a defense-first coach with a basic offense)
+- Current: `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Predicted 54 wins)
+- Durable: `3PM from a big` (About 2 threes per game as a F,C), `punt FG fit` (About 44.8% FG, weak for a F,C), `heavy starter minutes` (Udoka plays starters heavy minutes; Smith's minutes are stable), `defense-first` (Udoka's defense-first team with a basic offense)
 
-**Note.** He is a stable starter on heavy minutes. He is a cheap, low-upside pick at the end of our 144-player draft. Yahoo values him at 5 USD, but he costs about 1.7 USD there and about 1.2 USD on ESPN, and he went for 1 USD in our league last season. Aim for 1 to 3 USD. His 3PM (+1.3 z vs his position) and his rebounds and blocks help a punt FG% build, since his 44.8% FG on real volume is his weak spot. Early in the season, check that he stays near 35 minutes and that his open-three shooting improves. Also remember that Houston's 3-3-4 playoff schedule makes him less useful in weeks 19 to 21.
+**Note.** At Yahoo rank 96 (5 USD value, 1.9 USD average cost) and ESPN rank 111 (1.5 USD average cost), he is a 1 to 3 USD late pick in our league, and he went for 1 USD in our last auction. The experts want him around pick 115, not in the 90s. He gives about 2.1 threes from the frontcourt on steady starter minutes and fits punt FG% builds best. Early in the season, check that his 35 minutes hold with Eason and Adams around and whether his three-point shooting improves. Remember the weak 10-game playoff schedule.
 
-<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

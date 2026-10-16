@@ -97,7 +97,7 @@ How to add a source (example: Hashtag Basketball):
 
 ## Automatic refresh
 - `app/jobs/refresh.py`. The backend runs stale jobs on start and then every hour (thread started in the FastAPI lifespan). A job is stale when its last success is older than its TTL. A failed job waits 1 hour before the next try. One failed job does not stop the others.
-- Jobs and TTL: `hashtag` 6 h, `darko` 12 h, `fantasypros` 12 h, `vegas` 24 h, `game_logs_current` 6 h (stats.nba.com, preseason and regular season of `CURRENT_SEASON`), `espn` 12 h (ESPN player feed: projections and projected minutes), `fantrax` 12 h (Fantrax ADP), `birthdates` 7 days.
+- Jobs and TTL: `hashtag` 6 h, `darko` 12 h, `fantasypros` 12 h, `vegas` 24 h, `game_logs_current` 6 h (stats.nba.com, preseason and regular season of `CURRENT_SEASON`), `espn` 12 h (ESPN player feed: projections and projected minutes), `fantrax` 12 h (Fantrax ADP), `birthdates` 1 day, but it fetches only when a rostered player without an exact date is new (ids tried before are in `data/birthdates_tried.json`).
 - Not in the loop: the Yahoo player feed (on demand only). Run `make players-sync SOURCE=yahoo` by hand, also on draft morning. `make refresh-all` runs every refresh job (forced) and then the Yahoo feed.
 - `GET /api/sync/status` (last run, last success, stale), `POST /api/sync/refresh?force=`. `make refresh` (`ARGS=--force` runs all). `AUTO_REFRESH=0` in `.env` stops the loop. Tests set it to 0 (`tests/conftest.py`).
 - Add a job: a function that returns a one-line summary, then one `Job(...)` line in `JOBS`.

@@ -8,75 +8,76 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c167442f89bb",
- "note_count": 16,
- "built_at": "2026-10-11T09:15:55+00:00",
+ "input_sha": "c7b12a9dfa2f",
+ "note_count": 23,
+ "built_at": "2026-10-16T08:52:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.29273760000000004,
-  "duration_ms": 74259,
-  "turns": 3,
+  "cost_usd_list": 0.20715419999999998,
+  "duration_ms": 56554,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Portland added Ja Morant and Jrue Holiday, has Damian Lillard back and gets a full season of Scoot Henderson. All are on-ball guards.",
+   "text": "Portland brought back Damian Lillard, added Ja Morant and Jrue Holiday, and gets a full season of Scoot Henderson. The team also has a new, first-time head coach.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p1",
     "n4KkK-OJjqA:p42",
+    "-DN4P92Wp8Y:p1",
     "LM0cRCGoAUQ:p13",
     "dlo7L8Ru91A:p9",
     "W-R1dzem32s:p20",
-    "YJk7ZFKFqnI:p8",
     "bHA-JoW3reE:p6",
-    "-DN4P92Wp8Y:t0",
-    "n4KkK-OJjqA:t6",
-    "Rqb5GdrSweY:t6"
-   ]
-  },
-  {
-   "text": "Portland has a new head coach this season.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p42",
+    "8paKnhgNbLg:t1",
     "n4KkK-OJjqA:t6"
    ]
   },
   {
-   "text": "He is in the projected starting five with Lillard, Morant, Camara and Clingan. Portland is short on forwards, and he and Camara are basically its only forwards.",
-   "kind": "fact",
-   "date": "2026-08-11",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:t0",
-    "YJk7ZFKFqnI:t1",
-    "bHA-JoW3reE:t0"
-   ]
-  },
-  {
-   "text": "Experts agree his usage and assists will drop. He becomes the third distributor in the starting group. Projections put his usage at about 24 to 26% and his scoring at about 20 points per game.",
+   "text": "Experts agree his usage and assists will drop with Lillard, Morant, Holiday and Henderson handling the ball. He is no longer the main point forward and becomes the third distributor in the starting group.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p42",
+    "8paKnhgNbLg:p0",
+    "8paKnhgNbLg:p1",
+    "YJk7ZFKFqnI:p8",
+    "bHA-JoW3reE:p6",
     "LM0cRCGoAUQ:p13",
     "dlo7L8Ru91A:p9",
     "W-R1dzem32s:p20",
-    "YJk7ZFKFqnI:p8",
-    "YJk7ZFKFqnI:p9",
-    "bHA-JoW3reE:p6",
-    "sTtFUy7IoJI:t9"
+    "n4KkK-OJjqA:p42",
+    "OdDkXFhoKsc:p27",
+    "OsbUAkSeVB4:p12"
    ]
   },
   {
-   "text": "His minutes and starting role are seen as safe even as his usage falls.",
+   "text": "Projections put his usage at about 24 to 26 percent and his scoring at around 20 points per game. His assists should fall below 7 per game.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p9",
+    "dlo7L8Ru91A:p9"
+   ]
+  },
+  {
+   "text": "He is a projected starter at forward. Portland is short on forwards, and the rotation is thin after the eighth man.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:t0",
+    "8paKnhgNbLg:t2",
+    "bHA-JoW3reE:t0",
+    "YJk7ZFKFqnI:t0"
+   ]
+  },
+  {
+   "text": "His minutes and role are seen as safe even with the drop in usage.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -85,51 +86,93 @@
    ]
   },
   {
-   "text": "Minutes and usage across Portland's rotation are expected to swing from game to game.",
+   "text": "Shaedon Sharpe is out.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p12",
+    "OsbUAkSeVB4:t1"
+   ]
+  },
+  {
+   "text": "Sharpe being out should help Avdija, but a full repeat of last season is not expected.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "Shaedon Sharpe returns",
+   "sources": [
+    "OsbUAkSeVB4:p12",
+    "OsbUAkSeVB4:t1"
+   ]
+  },
+  {
+   "text": "The newest call projects him around 46th. The right spot is round three, more likely round four, and never round two. Mock drafts agree: round 4 or picks 44 to 49 are fair, and pick 34 to 36 is too early. ESPN's rank of 60 is too low.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p2",
+    "OsbUAkSeVB4:p12",
+    "w66x_I_MaQ8:p18",
+    "hviT4hzYNME:p15",
+    "n4KkK-OJjqA:p42",
+    "BjXP9JODDSg:p14",
+    "ahNxsoU8Hx4:p59",
+    "W-R1dzem32s:p20",
+    "OdDkXFhoKsc:p27"
+   ]
+  },
+  {
+   "text": "In an auction mock draft, an expert who is lower on him than others bought him for 23 USD and did not see it as an overpay.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p39"
+   ]
+  },
+  {
+   "text": "He shot under 32 percent from three last season and got worse late in the season, partly because of a back injury.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "YJk7ZFKFqnI:p10",
+    "W-R1dzem32s:p20"
+   ]
+  },
+  {
+   "text": "Lower usage might bring his three-point shooting back up.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
    "sources": [
-    "YJk7ZFKFqnI:t5"
-   ]
-  },
-  {
-   "text": "Experts flag iffy shooting percentages. Lower usage might help his three-point shooting recover.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p13",
-    "W-R1dzem32s:p20",
     "YJk7ZFKFqnI:p10"
    ]
   },
   {
-   "text": "Experts see fair value around rank 45 to 60 and about 23 USD in an auction. A pick in the mid-30s is too early, and ESPN's 5th place in its category-league ranking makes no sense.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p1",
-    "Q6YlQDvD-aY:p39",
-    "n4KkK-OJjqA:p42",
-    "BjXP9JODDSg:p14",
-    "ahNxsoU8Hx4:p59",
-    "OdDkXFhoKsc:p27",
-    "bHA-JoW3reE:p7"
-   ]
-  },
-  {
-   "text": "Portland has three back-to-backs in the fantasy playoffs.",
+   "text": "Portland plays 10 games in our fantasy playoff weeks, a weak total, with three back-to-backs in those weeks. The team has 15 back-to-backs this season and a five-game week starting February 8.",
    "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t6"
+    "8paKnhgNbLg:t3",
+    "gf_6GveiAls:t6",
+    "gf_6GveiAls:t10"
    ]
   }
  ],
  "durable": [
+  {
+   "text": "His fantasy profile is assists plus above-average rebounds for a forward. Free throws are not his selling point.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p3",
+    "stats"
+   ]
+  },
   {
    "text": "At his best he is a relentless downhill driver and passer.",
    "kind": "verdict",
@@ -140,27 +183,28 @@
    ]
   },
   {
-   "text": "His value has depended on huge usage.",
+   "text": "His value depends on high usage. His percentages are iffy, and his line needed a huge on-ball role.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p13"
+    "LM0cRCGoAUQ:p13",
+    "bHA-JoW3reE:p6"
    ]
   },
   {
-   "text": "Turnovers are his clear weak category. They are a league outlier, so they fit a punt TO build.",
+   "text": "Turnovers are his clear weak category, far worse than the league pool and his position.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He had a back injury late in the 2025-26 season. His play and his three-point shooting dropped after it.",
+   "text": "He had a back injury last season, and he played poorly after it.",
    "kind": "fact",
-   "date": "2026-09-10",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "W-R1dzem32s:p20",
@@ -171,9 +215,59 @@
  ],
  "tags": [
   {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Usage and assists expected to drop with Lillard, Morant, Holiday and Henderson on the roster",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p0",
+    "8paKnhgNbLg:p1",
+    "YJk7ZFKFqnI:p8",
+    "YJk7ZFKFqnI:p9",
+    "bHA-JoW3reE:p6",
+    "dlo7L8Ru91A:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Lillard, Morant, Holiday and Scoot Henderson",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p13",
+    "W-R1dzem32s:p20",
+    "n4KkK-OJjqA:p42",
+    "sTtFUy7IoJI:t9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Needed huge usage to post last season's line",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p13",
+    "bHA-JoW3reE:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "Point-forward assists plus above-average rebounds for a forward",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p3",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "high TO",
    "channel": "durable",
-   "detail": "about 3.3 TO per game projected",
+   "detail": "About 3.3 turnovers per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -191,107 +285,50 @@
    "new_meaning": ""
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "needed huge usage for his value",
+   "name": "new coach",
+   "channel": "current",
+   "detail": "First-time head coach may mix up the lineup",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p13"
+    "8paKnhgNbLg:t1",
+    "n4KkK-OJjqA:t6"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "Morant, Lillard, Holiday and Henderson handle the ball",
+   "detail": "Thin after the eighth man, especially at forward",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p13",
-    "dlo7L8Ru91A:p9",
-    "W-R1dzem32s:p20",
-    "YJk7ZFKFqnI:p8",
-    "bHA-JoW3reE:p6"
+    "8paKnhgNbLg:t2",
+    "bHA-JoW3reE:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "lower usage and fewer assists expected",
+   "detail": "10 games in weeks 19 to 21 with three back-to-backs",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p42",
-    "dlo7L8Ru91A:p9",
-    "YJk7ZFKFqnI:p9",
-    "bHA-JoW3reE:p6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "at a mid-30s pick or ESPN's 5th category-league rank",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p1",
-    "BjXP9JODDSg:p14",
-    "W-R1dzem32s:p20"
+    "8paKnhgNbLg:t3",
+    "gf_6GveiAls:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 24 USD, ESPN value 7 USD",
+   "detail": "Yahoo value 24 USD and rank 42, ESPN value 7 USD and rank 60",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "new coach",
-   "channel": "current",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "shared ball handling",
-   "channel": "current",
-   "detail": "Morant, Lillard, Holiday, Avdija and Henderson share playmaking",
-   "until": "",
-   "sources": [
-    "ME-r173X5b0:t3",
-    "sTtFUy7IoJI:t9"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "minutes and usage expected to swing from game to game",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "small-ball lineups",
-   "channel": "current",
-   "detail": "guard-heavy roster, short on forwards",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:t0",
-    "bHA-JoW3reE:t0"
+    "stats",
+    "8paKnhgNbLg:p2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 24 USD and ranks him 42nd. ESPN values him at only 7 USD, and he went for 17 USD in our league last season. The experts' price of about 20 to 23 USD, around rank 45 to 60, looks right, so do not chase him into the mid-30s. He fits a punt TO build best: his points, rebounds and assists for a G/F stay useful while his 3.3 projected turnovers hurt. Early in the season, check how much usage and how many assists he keeps next to Morant and Lillard, and whether his shooting recovers now that the back injury is behind him.",
+ "note": "Experts agree he loses usage and assists to Lillard, Morant, Holiday and Henderson. The newest call puts him around 46th, a round three to four player, which fits a price near our league's 17 USD from last season and the Yahoo average cost of 17. A mock auction paid 23 USD, and Yahoo's 24 USD value is the ceiling. With about 3.3 turnovers per game he fits punt TO builds best, and he still gives frontcourt assists and rebounds. Early in the season, check his assist and usage numbers next to Lillard and Morant, whether his three-point shooting recovers, and how long Sharpe is out. Portland's weak 10-game playoff schedule is a reason to sell him before the 2027-03-04 deadline if his value holds.",
  "rejected": []
 }

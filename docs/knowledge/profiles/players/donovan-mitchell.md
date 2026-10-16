@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 44 | 47.8 | 13 | 59 | 50.1 | 6 | 40 |
+| 2026-27 | 44 | 45.4 | 13 | 59 | 49.4 | 6 | 40 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,40 +25,40 @@
 | AST | 5.6 | +1.3 | +0.9 | - |
 | STL | 1.5 | +1.9 | +1.5 | - |
 | BLK | 0.3 | -0.6 | -0.4 | - |
-| TO | 2.6 | -1.2 | -1.0 | weak for his position (punt fit) |
+| TO | 2.6 | -1.3 | -1.0 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Cleveland has James Harden for a full season and added Peyton Watson. The projected starting lineup is Harden, Mitchell, Watson, Evan Mobley and Jarrett Allen. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [10-09](https://youtu.be/-DN4P92Wp8Y?t=608), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-10](https://youtu.be/W-R1dzem32s?t=428))
-- His two-point shooting last season was the best of his career. Experts expect it to regress, along with his steals. His free throw shooting late last season (about 93 to 95%) also propped up his value. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-29](https://youtu.be/NmdNvAz08oE?t=147), [10-06](https://youtu.be/eTsjuVu1trk?t=440), [09-09](https://youtu.be/7BllEsdNLoM?t=972), [08-19](https://youtu.be/J1Eg3uaAICU?t=584), [08-19](https://youtu.be/J1Eg3uaAICU?t=625), [09-16](https://youtu.be/2A2JbUN-kc0?t=1292), [09-07](https://youtu.be/E-KmhvyZ2CU?t=472), [09-10](https://youtu.be/W-R1dzem32s?t=484))
-- Experts agree he is not a first-round pick this season. They call Yahoo rank 13 too high and ESPN's top-10 rank far too high. One expert would rank him slightly behind his Yahoo rank, and another ranks him 15th in 9-cat. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-29](https://youtu.be/NmdNvAz08oE?t=411), [09-29](https://youtu.be/NmdNvAz08oE?t=455), [09-23](https://youtu.be/C4vlgpJ62NI?t=2257), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [09-22](https://youtu.be/QbdrhJd7LiA?t=1293), [09-10](https://youtu.be/W-R1dzem32s?t=428), [08-16](https://youtu.be/gf_6GveiAls?t=1543), [09-16](https://youtu.be/2A2JbUN-kc0?t=1292), [09-30](https://youtu.be/BjXP9JODDSg?t=398), [09-09](https://youtu.be/7BllEsdNLoM?t=972))
-- He went for 31 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1695))
-- The expert called 31 USD about the right price for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1695))
-- With Harden on the team, Mitchell's assists, touches and usage dropped. His assists per 36 minutes fell from about 6.1 to about 5, his usage fell from 32 to 30, and his scoring fell by 1.5 to 2 points. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=125), [08-24](https://youtu.be/rnq3118kfhY?t=539), [08-19](https://youtu.be/J1Eg3uaAICU?t=584), [08-19](https://youtu.be/J1Eg3uaAICU?t=584), [09-07](https://youtu.be/E-KmhvyZ2CU?t=472), [09-09](https://youtu.be/7BllEsdNLoM?t=972), [09-19](https://youtu.be/uarqbNA2dFk?t=1749))
-- Much of last season's line came without Harden for about two thirds of the year, with Darius Garland missing or limited and Max Strus out. (fact, 2026-09-29; [09-22](https://youtu.be/QbdrhJd7LiA?t=364), [09-29](https://youtu.be/NmdNvAz08oE?t=233), [08-19](https://youtu.be/J1Eg3uaAICU?t=625), [09-19](https://youtu.be/uarqbNA2dFk?t=1749))
-- How much he plays with Harden decides his value. A hard stagger would help him keep it. Heavy shared minutes would hurt it. Cleveland's second unit has no clear point guard, so a stagger is possible. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=272), [09-29](https://youtu.be/NmdNvAz08oE?t=250))
-- He has no current injury concerns. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808))
+- With a March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoffs. That means only two games in the finals week starting March 22. (fact, 2026-10-13; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1543), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [10-13](https://youtu.be/EogBYa24Gto?t=389))
+- The experts agree he is not a first-round pick. They call Yahoo rank 13 too high and ESPN's top-10 rank far too high. One expert calls a rank of about 14 reasonable but would put him a bit lower. He also says taking him in round 1 will not sink a draft. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=524), [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-29](https://youtu.be/NmdNvAz08oE?t=411), [09-29](https://youtu.be/NmdNvAz08oE?t=455), [09-23](https://youtu.be/C4vlgpJ62NI?t=2257), [08-16](https://youtu.be/gf_6GveiAls?t=1543), [09-10](https://youtu.be/W-R1dzem32s?t=428), [09-09](https://youtu.be/7BllEsdNLoM?t=972), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [09-22](https://youtu.be/QbdrhJd7LiA?t=1293), [09-16](https://youtu.be/2A2JbUN-kc0?t=1292))
+- His assists and usage are lower when James Harden plays. With Harden he averaged about 5 assists per 36 minutes, against about 6.1 without him, and his usage was 30% instead of 32%. Harden is now with Cleveland for a full season. (fact, 2026-10-09; [09-29](https://youtu.be/NmdNvAz08oE?t=125), [08-19](https://youtu.be/J1Eg3uaAICU?t=584), [08-24](https://youtu.be/rnq3118kfhY?t=539), [09-07](https://youtu.be/E-KmhvyZ2CU?t=472), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [08-19](https://youtu.be/J1Eg3uaAICU?t=584), [09-22](https://youtu.be/QbdrhJd7LiA?t=408), [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-09](https://youtu.be/7BllEsdNLoM?t=972))
+- Much of his strong 2025-26 line came while Darius Garland was out or limited and Max Strus was out, so he carried most of the load alone. (fact, 2026-10-09; [09-29](https://youtu.be/NmdNvAz08oE?t=233), [09-22](https://youtu.be/QbdrhJd7LiA?t=364), [08-19](https://youtu.be/J1Eg3uaAICU?t=625), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [10-09](https://youtu.be/-DN4P92Wp8Y?t=608))
+- Cleveland added Peyton Watson. The projected starters are Harden, Mitchell, Watson, Evan Mobley and Jarrett Allen, and Watson will also take touches. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-29](https://youtu.be/NmdNvAz08oE?t=397), [08-24](https://youtu.be/rnq3118kfhY?t=510), [09-22](https://youtu.be/QbdrhJd7LiA?t=364))
+- His two-point percentage was the best of his career last season, and the experts expect it to come down. They also doubt he keeps his 1.5 steals. They do not expect him to repeat last season's level. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=616), [09-29](https://youtu.be/NmdNvAz08oE?t=147), [10-06](https://youtu.be/eTsjuVu1trk?t=440), [09-09](https://youtu.be/7BllEsdNLoM?t=972), [09-07](https://youtu.be/E-KmhvyZ2CU?t=472), [09-16](https://youtu.be/2A2JbUN-kc0?t=1292), [08-19](https://youtu.be/J1Eg3uaAICU?t=625))
+- In an auction mock draft he went for 31 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1695))
+- The expert calls 31 USD about the right price for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1695))
+- One expert would take Jamal Murray and Austin Reaves ahead of him. Another is lower on him than his draft cost. (verdict, 2026-09-30; [09-24](https://youtu.be/_vbAP5y182A?t=455), [09-30](https://youtu.be/BjXP9JODDSg?t=398))
+- The second unit has no clear point guard, so Harden and Mitchell may stagger. A hard stagger would protect Mitchell's value. If they share most of their minutes, his value drops. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=272), [09-29](https://youtu.be/NmdNvAz08oE?t=250))
+- He has no current injury and was fairly healthy last season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1808), [09-29](https://youtu.be/NmdNvAz08oE?t=1909))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
-- With a March 28 season end, Cleveland plays 4, 3 and 2 games in fantasy playoff weeks 19 to 21. The finals week, starting March 22, has only two games. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [08-16](https://youtu.be/gf_6GveiAls?t=1543))
-- One expert would take Jamal Murray and Austin Reaves before him. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=455))
-- Experts expect a smaller role this season. One projection has him just under 30% usage and about 33 minutes, and he could lose 20 to 25% of his assists next to Harden. Watson will also take some touches. (verdict, 2026-09-22; [09-10](https://youtu.be/W-R1dzem32s?t=428), [09-16](https://youtu.be/2A2JbUN-kc0?t=1292), [09-22](https://youtu.be/QbdrhJd7LiA?t=364))
-- He dropped off later last season. Minutes and injury are both concerns this season. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1292))
-- Cleveland is projected to win about 51 to 53 games. Coach Kenny Atkinson is under pressure. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
-- He is signed to a contract extension. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=677))
+- He is expected to lose 20 to 25% of his assists with Harden there. One projection has him at just under 30% usage and 33 minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1292), [09-10](https://youtu.be/W-R1dzem32s?t=428))
+- One expert has concerns about his minutes and his health. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1292))
+- Cleveland is projected to win about 51 to 53 games. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1832))
+- He has signed a contract extension with Cleveland. (fact, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=677))
 
 **Durable**
-- Points are his standout category. His threes, steals, FT% and assists are also clearly above the pool. (fact, 2026-10-11; stats)
-- He has had persistent knee problems, though he was fairly healthy last season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1909))
+- Points are a league outlier strength. Threes, steals, FT% and assists are also clearly above the top 250 pool. (fact, 2026-10-16; stats)
+- Turnovers are his weakest category and are high for a guard. (fact, 2026-10-16; stats)
+- He has had persistent knee problems. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1909))
 - He is 30 and has carried a heavy load over the last couple of years. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=477))
-- Turnovers are his weakest category for a guard. His blocks, rebounds and FG% are not strong. (fact, 2026-09-23; stats, [09-23](https://youtu.be/C4vlgpJ62NI?t=2263))
-- For most of his career he has been roughly a 30th to 40th ranked fantasy player. Last season was the only time he played at a first-round level. (fact, 2026-09-22; [09-10](https://youtu.be/W-R1dzem32s?t=484), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [09-22](https://youtu.be/QbdrhJd7LiA?t=1293))
-- Two-point percentage has always been his weak spot. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=484))
+- Two-point percentage has always been his weak spot. His FG%, rebounds and blocks are not strong categories. (fact, 2026-09-23; [09-10](https://youtu.be/W-R1dzem32s?t=484), [09-23](https://youtu.be/C4vlgpJ62NI?t=2263), stats)
+- He was ranked about 30 to 40 for most of his career. Last season was the only time he played at a top-10 level. (fact, 2026-09-22; [09-10](https://youtu.be/W-R1dzem32s?t=484), [09-19](https://youtu.be/uarqbNA2dFk?t=1749), [09-22](https://youtu.be/QbdrhJd7LiA?t=1293))
 
 **Tags**
-- Current: `role down` (full season next to Harden, with less usage and fewer assists), `usage competition` (James Harden full time, plus Peyton Watson), `regression risk` (career-best two-point %, steals and a late-season FT% spike), `bust candidate` (too high at Yahoo rank 13 and ESPN top 10; not a first-round pick), `sites disagree on price` (Yahoo value 44 USD, rank 13; ESPN value 59 USD, rank 6), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3, then 2 games in weeks 19 to 21; finals week has two games), `winning team` (projected 51 to 53 wins), `coach hot seat` (Kenny Atkinson under pressure)
-- Durable: `PTS specialist` (about 26.5 points per game projected), `punt TO fit` (about 2.6 turnovers per game, his weakest category), `injury prone` (persistent knee problems)
+- Current: `usage competition` (full season of James Harden, plus Peyton Watson), `role down` (expected to lose 20 to 25% of his assists and some usage), `regression risk` (career-best two-point percentage and 1.5 steals), `bust candidate` (too high at Yahoo rank 13 and ESPN top 10), `sites disagree on price` (Yahoo value 44 USD at rank 13, ESPN value 59 USD at rank 6), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3 and 2 games, with only two games in the finals week), `winning team` (projected 51 to 53 wins)
+- Durable: `PTS specialist` (about 26.5 points per game projected), `punt TO fit` (about 2.6 turnovers per game projected), `injury prone` (persistent knee problems), `usage dependent` (assists and usage drop when he shares the ball with Harden)
 
-**Note.** Every expert says Mitchell is not a first-round player this season. A full year of Harden should cut his usage and assists, and his two-point shooting and steals are expected to regress. Yahoo prices him at 44 USD (average cost 47.8) and ESPN at 59 USD, while our league paid 40 USD last season and an expert mock found 31 USD about right, so aim for roughly 31 to 40 USD and let others pay the ESPN price. He fits punt TO builds that want points, threes, steals and FT%. Early in the season, check how much he staggers with Harden, his assist rate, his steals and his two-point %. Also note that Cleveland has the most back-to-backs in the league and only two games in our finals week.
+**Note.** Every expert says he is not a first-round pick, and the market prices him like one: Yahoo 44 USD (average cost 45.4), ESPN 59 USD. In our league he went for 40 USD last season, while an expert mock auction had him at 31 USD and called that fair. Aim for the low to mid 30s and let others pay 45 or more. He adds points, threes, steals and FT% and costs you turnovers, so he fits punt TO builds best. A two-game finals week hurts him. Early in the season, check how much he plays alongside Harden, whether his assists hold near 5 or more, and whether his steals and two-point shooting come down.
 
-<sub>32 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>33 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

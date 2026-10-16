@@ -22,12 +22,12 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:45:08+00:00",
+ "built_at": "2026-10-16T12:43:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.177248,
-  "duration_ms": 53008,
+  "cost_usd_list": 0.165428,
+  "duration_ms": 49575,
   "turns": 2,
   "denied": 0
  },
@@ -44,86 +44,53 @@
   "pascal-siakam",
   "rudy-gobert",
   "scottie-barnes",
-  "scotty-pippen",
   "stephon-castle",
   "walker-kessler",
   "zion-williamson"
  ],
- "summary": "Punt FT% works in our league only if you keep buying assists, threes and steals after the big men. Giannis is the anchor at about 60 to 62 USD. Barnes, Sengun, Daniels and Mobley are the core, and the cheap centers (Kessler, Gobert, Claxton) fill rebounds, blocks and FG%. None of the listed targets brings threes, so you must buy 3PTM from guards outside this list, or the build quietly punts four categories.",
+ "summary": "Punt FT% works in our league only if you pair bad free throw shooters with players who bring assists, threes and steals. If you stack only poor shooters, you also give up points, threes and assists. Anchor around Giannis or Barnes plus a frontcourt piece like Mobley, then buy Daniels, Ausar Thompson, Siakam and Gobert at fair prices. None of the punt FT% targets in this pool is a source of threes, so you must buy threes from other players.",
  "sections": [
   {
-   "heading": "The trap: punting four categories",
+   "heading": "Punt one category, not four",
    "paragraphs": [
     {
-     "text": "The experts agree on the main risk. Free throws are linked to points, threes and assists. If you draft only bad free throw shooters, you effectively punt four categories, not one. In a 12-team H2H league, losing FT%, 3PTM, AST and PTS most weeks loses the matchup.",
+     "text": "Free throws are linked to points, threes and assists. A roster of only bad free throw shooters ends up punting four categories, not one. In a 9-cat H2H matchup that loses most weeks.",
+     "sources": [
+      "E-KmhvyZ2CU:r0"
+     ]
+    },
+    {
+     "text": "The fix is guard stats bought early. If you take a poor shooter like Giannis, you still need assists or threes in the early rounds. Our draft is an auction, so think of it this way: of your next three big buys after the anchor, two should be guards or players who bring assists, threes or steals. Do not chase more low free throw players with that money.",
+     "sources": [
+      "C4vlgpJ62NI:r12",
+      "_vbAP5y182A:r0",
+      "ahNxsoU8Hx4:r3",
+      "C4vlgpJ62NI:r4"
+     ]
+    },
+    {
+     "text": "Every player line below notes the guard stats he brings. Use that note to check your build. After each purchase, count how many of AST, 3PTM, ST and PTS your roster still covers.",
      "sources": [
       "E-KmhvyZ2CU:r0",
       "ahNxsoU8Hx4:r3"
      ]
-    },
-    {
-     "text": "The rule for our auction: after you buy a guard-stat-poor anchor like Giannis, two of your next three buys should be players who bring assists, threes or steals. The original advice is 'guards in two of the next three rounds'. In an auction, that means checking your roster after every purchase in the first hour. If you are missing assists or threes, raise your bids on guards, not on another big man.",
-     "sources": [
-      "C4vlgpJ62NI:r12",
-      "_vbAP5y182A:r0",
-      "ahNxsoU8Hx4:r3"
-     ]
-    },
-    {
-     "text": "Check this list before the draft. No player below is credited with threes in the notes. Daniels, Ausar Thompson, Zion, Gobert and Claxton actively hurt 3PTM. So every three you need has to come from players outside this target list. Plan to buy 3PTM with real money in the early and middle rounds.",
-     "sources": [
-      "player:dyson-daniels",
-      "player:ausar-thompson",
-      "player:zion-williamson",
-      "player:rudy-gobert",
-      "player:nic-claxton"
-     ]
     }
    ]
   },
   {
-   "heading": "Do you have to punt FT% with Giannis?",
+   "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "The experts disagree here. One side says taking Giannis in round one does not force you to punt free throws or to target other bad shooters. Your targets after him are still every player. The other side says that if you draft a bad free throw shooter like Giannis, you should punt FT% and get guard stats early. His profile note also says to build around punting FT% and accept the turnovers.",
+     "text": "Experts split on whether Giannis forces the punt. One side says that if you draft a bad free throw shooter like Giannis, you should punt FT% and build around it. The other side says taking Giannis in round one does not mean you must punt free throws or target other bad shooters, and that every player is still a target. Both sides agree on one thing: do not fill the team with bad free throw players.",
      "sources": [
-      "aLP080hxizA:r2",
-      "C4vlgpJ62NI:r4",
       "ahNxsoU8Hx4:r3",
-      "player:giannis-antetokounmpo"
-     ]
-    },
-    {
-     "text": "Both sides agree on what to do in practice. Do not chase low free throw players for their own sake. Buy the best player at a fair price, and treat poor FT% as a discount you can absorb, not a reason to bid.",
-     "sources": [
       "_vbAP5y182A:r0",
-      "C4vlgpJ62NI:r22"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Pricing rules for punt targets",
-   "paragraphs": [
-    {
-     "text": "Do not push up players who gain value in punt rankings just to secure them. Other managers in our league will also see that Sengun or Kessler rank higher with FT% removed. Set a ceiling before the draft and walk away when it is passed. For example, the notes say not to go above about 30 USD for Sengun, about 12 to 15 USD for Kessler and about 10 USD for Zion.",
-     "sources": [
-      "C4vlgpJ62NI:r22",
-      "player:alperen-sengun",
-      "player:walker-kessler",
-      "player:zion-williamson"
+      "aLP080hxizA:r2",
+      "C4vlgpJ62NI:r4"
      ]
     },
     {
-     "text": "Overall 9-cat ranks can mislead you. If you punt FT%, a drop in a player's free throw shooting barely matters to you, even if his overall rank falls a lot. That is why Siakam (about 72% FT) and Mobley look better to a punter than to a balanced team. Mobley is worth less in a build that keeps FT%.",
-     "sources": [
-      "-y6p5PYLf00:r11",
-      "player:pascal-siakam",
-      "player:evan-mobley"
-     ]
-    },
-    {
-     "text": "Do not choose the punt because of one bad season. FT% swings a lot in both directions, and it is the most variable fantasy category. Price a poor shooter as if his free throws will stay bad, and treat any improvement as a bonus. Mobley is the test case: experts are watching whether his FT% climbs back toward 70%.",
+     "text": "There is a second, smaller split on how to treat free throw history. One note warns against punting FT% because of one bad season, since FT% swings both ways. Another says to draft a poor shooter expecting bad free throws, so any improvement is a bonus. For us, that means you should not let one bad FT season push a player into the punt pool. Mobley's FT% is the case to watch.",
      "sources": [
       "8d--aL_xxwE:r11",
       "OdDkXFhoKsc:r3",
@@ -133,34 +100,85 @@
    ]
   },
   {
-   "heading": "Late centers, waivers and minutes",
+   "heading": "Price discipline at the auction",
    "paragraphs": [
     {
-     "text": "The cheap centers in this pool all give the same package: FG%, rebounds and blocks. Buy one or two late instead of paying middle-round prices. Gobert, Kessler and Claxton cover this. Robinson and Nurkic are better left on waivers in our 144-player draft.",
+     "text": "Do not bid up players just because they rise in punt FT% rankings. Other managers can see those rankings too. Stop at fair value and let the rest go. Several of these players went for much more in our league last season than experts now think they are worth, including Mobley, Kessler and Banchero.",
      "sources": [
-      "player:rudy-gobert",
+      "C4vlgpJ62NI:r22",
+      "player:evan-mobley",
       "player:walker-kessler",
-      "player:nic-claxton",
-      "player:mitchell-robinson",
-      "player:jusuf-nurkic"
+      "player:paolo-banchero"
      ]
     },
     {
-     "text": "A poor free throw shooter who starts is partly protected from hack-a-player fouling, because there are no team fouls early in the game. So in the first weeks, check starting jobs: Claxton ahead of Jalen Smith and Zach Collins, Robinson versus Queta, and Nurkic versus Jaxson Hayes after his return. Use your FAB and the six weekly adds on the one who wins the job.",
+     "text": "A workable spend: about 60 USD on Giannis and about 35 to 40 USD on Barnes, leaving roughly 100 USD for ten spots. Mobley at 25 to 30 USD and Daniels at up to 20 USD add frontcourt and steals. Fill the rest with Gobert at 8 to 12 USD, Zion at about 6 USD and Claxton at 1 to 2 USD.",
      "sources": [
-      "TiiaNZCJNs8:r5",
-      "player:nic-claxton",
-      "player:mitchell-robinson",
-      "player:jusuf-nurkic"
+      "player:giannis-antetokounmpo",
+      "player:scottie-barnes",
+      "player:evan-mobley",
+      "player:dyson-daniels",
+      "player:rudy-gobert",
+      "player:zion-williamson",
+      "player:nic-claxton"
      ]
     },
     {
-     "text": "Check playoff schedules for weeks 19 to 21 before the trade deadline on 2027-03-04. Miami (Giannis) and Houston (Sengun) have weak 10-game playoff schedules, though Miami has no back-to-backs in those weeks. Mobley faces a 2-game finals week. Gobert has a two-game semifinal week. If you hold several of them, plan a deadline trade or streaming adds to cover those weeks.",
+     "text": "Overall 9-cat rankings undersell these players for you. If a target's FT% falls and his rank drops, that barely matters in a punt FT% build. Judge him on the other eight categories.",
+     "sources": [
+      "-y6p5PYLf00:r11"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The gap in this pool: threes",
+   "paragraphs": [
+    {
+     "text": "No player in the punt FT% pool is flagged as a source of threes. Daniels, Zion and Claxton are listed as punt 3PM fits too. Ausar Thompson projects no threes. Daniels shot 18% from three last season. Kessler's threes from last season look unlikely to repeat.",
+     "sources": [
+      "player:dyson-daniels",
+      "player:zion-williamson",
+      "player:nic-claxton",
+      "player:ausar-thompson",
+      "player:walker-kessler"
+     ]
+    },
+    {
+     "text": "So you have to buy threes from players outside this list. Budget for at least two guards who bring 3PTM. Otherwise you slide into a punt FT% plus 3PTM build without meaning to. Assists are easier to find here: Giannis, Barnes, Sengun, Banchero, Castle and Daniels all bring them.",
+     "sources": [
+      "C4vlgpJ62NI:r12",
+      "_vbAP5y182A:r0",
+      "player:scottie-barnes",
+      "player:alperen-sengun",
+      "player:stephon-castle",
+      "player:paolo-banchero"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Early season and playoff checks",
+   "paragraphs": [
+    {
+     "text": "Check minutes and roles in the first weeks. Is Giannis getting 32 to 33 minutes and running point? Is Barnes keeping his usage next to Leonard? Does Ausar Thompson reach 28 minutes? Is Gobert getting more minutes? Is Castle losing assists to Dylan Harper? Daily lineups help here. Starting a poor free throw shooter early in games can also protect him from hack-a-player tactics, because there are no team fouls early on.",
+     "sources": [
+      "player:giannis-antetokounmpo",
+      "player:scottie-barnes",
+      "player:ausar-thompson",
+      "player:rudy-gobert",
+      "player:stephon-castle",
+      "TiiaNZCJNs8:r5"
+     ]
+    },
+    {
+     "text": "Weeks 19 to 21 are thin for several of these players. Miami plays a weak 4-3-3. Houston plays only 10 games. Indiana plays 3-4-3. Gobert has a two-game semifinal in week 20. Boston has three back-to-backs in our playoff weeks. Plan trades before the 2027-03-04 deadline with this in mind.",
      "sources": [
       "player:giannis-antetokounmpo",
       "player:alperen-sengun",
-      "player:evan-mobley",
-      "player:rudy-gobert"
+      "player:pascal-siakam",
+      "player:rudy-gobert",
+      "player:mitchell-robinson"
      ]
     }
    ]
@@ -169,85 +187,80 @@
  "players": [
   {
    "slug": "giannis-antetokounmpo",
-   "tier": "Anchor",
-   "line": "He is the anchor of the build: elite FG%, points, rebounds and assists from a forward. The notes credit him with no threes or steals, so you must buy those right after him."
+   "tier": "Core targets",
+   "line": "He anchors the build with FG%, rebounds, points and assists, so he covers PTS and AST, but you must still buy threes and steals elsewhere."
   },
   {
    "slug": "scottie-barnes",
    "tier": "Core targets",
-   "line": "He is the best second piece next to Giannis because his assists and steals, plus blocks, are rare for an F/C. Check that his assists and shot volume hold next to Kawhi Leonard."
-  },
-  {
-   "slug": "alperen-sengun",
-   "tier": "Core targets",
-   "line": "Removing FT% leaves strong points, rebounds and center-spot assists, but he adds no threes or steals per the notes, and his turnovers hurt."
-  },
-  {
-   "slug": "dyson-daniels",
-   "tier": "Core targets",
-   "line": "He is a steals outlier with real assists, rebounds and FG%, so he covers two guard stats. His threes are weak, which makes 3PTM a hole you must fill elsewhere."
+   "line": "His frontcourt assists, steals and blocks make him the best round-two partner for Giannis, covering AST and ST if his usage holds next to Leonard."
   },
   {
    "slug": "evan-mobley",
    "tier": "Core targets",
-   "line": "FT% is his only real hole, so in this build he is a clean blocks, rebounds and FG% asset. He brings little in assists, steals or points by the notes, and his threes depend on 3P% recovering toward 33%."
+   "line": "His blocks, rebounds and FG% carry value without free throws, but he brings little guard help unless his three-point shooting recovers toward 33%."
   },
   {
-   "slug": "walker-kessler",
+   "slug": "dyson-daniels",
    "tier": "Value at price",
-   "line": "He is a pure three-category center (blocks, rebounds, FG%). Experts call his recent gains in threes, steals and assists noise, so count on no guard stats from him."
-  },
-  {
-   "slug": "paolo-banchero",
-   "tier": "Value at price",
-   "line": "Punt FT and punt TO builds give up little on his weak spots and keep his points, rebounds and forward assists. The notes do not credit him with threes or steals."
+   "line": "As a steals specialist who also gives assists, he covers ST and AST, but he brings no threes after shooting 18% from deep last season."
   },
   {
    "slug": "ausar-thompson",
    "tier": "Value at price",
-   "line": "He is a steals anchor with good blocks and FG%, but his threes are near zero. His assist upside depends on 28 or more minutes."
+   "line": "His elite steals plus blocks and rebounds fit well, and his assists may climb toward 4, but he projects no threes."
   },
   {
    "slug": "pascal-siakam",
    "tier": "Value at price",
-   "line": "He is a solid punt FT piece with F and C eligibility. His assists and usage, his guard-stat contribution, should drop with Haliburton back, so pay only his lower value."
+   "line": "He brings points and FG% on volume with steady weekly output, though his assists may drop next to Haliburton."
+  },
+  {
+   "slug": "paolo-banchero",
+   "tier": "Value at price",
+   "line": "He covers PTS and AST along with rebounds, but his 3.1 turnovers also make him a punt TO piece."
   },
   {
    "slug": "rudy-gobert",
    "tier": "Value at price",
-   "line": "He is cheap FG%, rebounds and blocks that only a punt FT team can use. He gives no guard stats and hurts threes."
-  },
-  {
-   "slug": "stephon-castle",
-   "tier": "Late flyers",
-   "line": "He is an assist source whose FT% and turnovers matter less in this build. His threes and minutes next to Fox and Harper are the early checks, so pay only a few USD."
+   "line": "He is a cheap source of FG%, rebounds and blocks whose bad FT% costs nothing here, but he adds no guard stats."
   },
   {
    "slug": "zion-williamson",
-   "tier": "Late flyers",
-   "line": "He gives a big FG% lift and good scoring but no threes. Rest and health risk cap what he is worth."
+   "tier": "Value at price",
+   "line": "At a low price he gives FG% on real volume plus points, but no threes, and he may sit in many back-to-backs."
+  },
+  {
+   "slug": "alperen-sengun",
+   "tier": "Avoid at price",
+   "line": "His assists from center, rebounds and FG% fit perfectly, but the market pays above the roughly 30 USD experts suggest, and he brings no threes or steals."
+  },
+  {
+   "slug": "walker-kessler",
+   "tier": "Avoid at price",
+   "line": "He is a clear rebounds, blocks and FG% center, but Yahoo overprices him and his threes and steals from last season are not projected to last."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Avoid at price",
+   "line": "His elite assists and guard rebounding fit punt FT% and TO, but experts say fade him at his Yahoo ADP and bid only single digits."
   },
   {
    "slug": "nic-claxton",
    "tier": "Late flyers",
-   "line": "He is a last-round center for FG% and blocks with no guard stats. His value depends on his hamstring and on holding the starting job in Chicago."
-  },
-  {
-   "slug": "scotty-pippen",
-   "tier": "Waiver watch",
-   "line": "His steals and assists are exactly the guard stats this build needs. He is a 1 USD last pick at most and becomes a must-add if he starts."
+   "line": "He is a last-dollar flyer for FG%, rebounds and blocks once his hamstring heals, with no guard stats."
   },
   {
    "slug": "mitchell-robinson",
-   "tier": "Waiver watch",
-   "line": "He brings FG%, rebounds and blocks but no guard stats. Stream him from waivers and add him quickly if Queta gets hurt."
-  },
-  {
-   "slug": "jusuf-nurkic",
-   "tier": "Waiver watch",
-   "line": "He is out at least four weeks, so let him go undrafted. If he regains the starting job, he offers rebounds and center passing for punt FT teams."
+   "tier": "Late flyers",
+   "line": "He is only worth a final 1 USD pick in punt FT% builds that want FG%, rebounds and blocks, with no guard stats and three playoff back-to-backs."
   }
  ],
- "excluded": [],
+ "excluded": [
+  {
+   "slug": "jusuf-nurkic",
+   "reason": "Out at least four weeks with a foot injury, ranked outside our 144 drafted players, and dropped as a target by experts. Watch him on waivers instead."
+  }
+ ],
  "rejected": []
 }

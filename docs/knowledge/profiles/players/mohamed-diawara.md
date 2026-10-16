@@ -15,7 +15,7 @@
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 43.9% | -0.2 | -0.2 | - |
-| FT% | 76.2% | -0.0 | +0.0 | - |
+| FT% | 76.2% | -0.0 | +0.1 | - |
 | 3PM | 0.7 | -0.9 | -1.2 | - |
 | PTS | 3.6 | -1.8 | -1.9 | league outlier, weak |
 | REB | 1.4 | -1.6 | -1.8 | league outlier, weak |
@@ -27,20 +27,19 @@
 </details>
 
 **Current**
-- He is not a draft target in a 12-team league. Both sites value him at 0 USD. (verdict, 2026-10-04; stats)
-- He has no starting role. The projected Knicks starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- He had a very poor Summer League: 2 points per game, 7% from the field and no made two-pointers. (fact, 2026-08-13; [07-23](https://youtu.be/LUTYUdXBG1M?t=881), [08-13](https://youtu.be/okN3fbHJtlA?t=1352))
-- He is a wing to watch this season who may need to step up for the Knicks. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1352))
-- He signed a 4-year, 10 million dollar contract with the Knicks. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=796))
+- He has no starting role. The projected Knicks starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-10-11; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [10-11](https://youtu.be/-dulgoyo_wo?t=345), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- He projects as about the fifth man in the bench rotation. No fantasy impact is expected this season. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1466))
+- He had a very poor Summer League. He averaged 2 points, shot 7% from the field and made no two-pointers. (fact, 2026-08-13; [07-23](https://youtu.be/LUTYUdXBG1M?t=881), [08-13](https://youtu.be/okN3fbHJtlA?t=1352))
 
 **Durable**
-- In his small role he gives very little in points, rebounds and steals, far below the top 250 pool. (fact, 2026-10-04; stats)
-- The expert sees him as a future starting-caliber wing and still likes him long term. He must be rostered in very deep dynasty leagues. (verdict, 2026-07-23; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [07-23](https://youtu.be/LUTYUdXBG1M?t=881))
+- In his small bench role he gives very little in points, rebounds and steals. (fact, 2026-10-16; stats)
+- Experts like him long term and see him as a possible future starting-caliber wing. That view matters for very deep dynasty leagues, not for this season. (verdict, 2026-07-23; [07-01](https://youtu.be/W3THnI7wWdA?t=796), [07-23](https://youtu.be/LUTYUdXBG1M?t=881))
+- He signed a 4-year contract worth 10 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=796))
 
 **Tags**
-- Current: `waiver watch` (Bench wing with no starting role. Watch his minutes early in the season.)
+- Current: `out of rotation` (about fifth in the Knicks bench rotation, around 9 minutes per game)
 - Durable: none
 
-**Note.** Diawara is not draftable in our league. Yahoo ranks him 424 and ESPN 338, both sites value him at 0 USD, and he played only 9.2 minutes per game for 3.6 points last season. Leave him on waivers. Early in the season, check whether the Knicks' plan to trim starters' minutes over the first 30 or so games gives him a real bench role.
+**Note.** Skip him in our auction. Both Yahoo and ESPN value him at 0 USD, his ranks (424 on Yahoo, 338 on ESPN) are far outside the 144 players we draft, and his projection is about 9 minutes with 3.6 points per game. Only check the waiver wire if injuries to the Knicks wings push him into real minutes. Even then, his poor Summer League means he has to show it on the court first.
 
-<sub>3 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

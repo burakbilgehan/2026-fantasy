@@ -8,20 +8,42 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "6112ae382fba",
- "note_count": 21,
- "built_at": "2026-10-11T09:24:24+00:00",
+ "input_sha": "e6d62392bac9",
+ "note_count": 25,
+ "built_at": "2026-10-16T09:19:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1877862,
-  "duration_ms": 50196,
+  "cost_usd_list": 0.2065302,
+  "duration_ms": 51933,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts value him at about 70 USD in auctions. A price of 80 USD is a little high but not outrageous.",
+   "text": "Experts rank him pick 1 or 2 in 9-cat drafts. The newest call is to take him at 1 or 2 in basically every format.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p0",
+    "uI6umXsE7Vk:p1",
+    "J1Eg3uaAICU:p0",
+    "OdDkXFhoKsc:p0",
+    "gJUBAJaHzlU:p0"
+   ]
+  },
+  {
+   "text": "His best case is the number 1 finish and his downside is around 5th, so he is a safe pick at the top.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "DubdKKhMWHo:p1"
+   ]
+  },
+  {
+   "text": "Experts value him at about 70 USD in auctions. A mock price of 80 USD was called a little high but not outrageous.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -31,29 +53,35 @@
    ]
   },
   {
-   "text": "Experts see him as a safe top pick. His best case is 1st overall and his downside is around 5th. Nearly every draft takes him or Jokic first.",
-   "kind": "verdict",
-   "date": "2026-09-17",
+   "text": "He played about 29 minutes a game last season. His usage rose to 35 over the final 13 games.",
+   "kind": "fact",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:p1",
-    "gJUBAJaHzlU:p0",
-    "J1Eg3uaAICU:p0",
-    "OdDkXFhoKsc:p0"
+    "c-WwNRgVxkI:p2"
    ]
   },
   {
-   "text": "His minutes are expected to be managed somewhat, so he will not play 35 a night.",
+   "text": "He has room to grow from that late-season usage.",
    "kind": "verdict",
-   "date": "2026-09-16",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:p2"
+   ]
+  },
+  {
+   "text": "His minutes are expected to be managed somewhat, with no 35 a night. The Spurs are deep and could keep minutes low after their long playoff run.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p2",
-    "2A2JbUN-kc0:p1"
+    "c-WwNRgVxkI:t1"
    ]
   },
   {
-   "text": "Fears about his durability are overblown, because the blood clot that shortened one season is not a repeatable injury.",
+   "text": "Fears about his durability are overblown. His one shortened season came from a blood clot, which is not expected to repeat.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -62,47 +90,85 @@
    ]
   },
   {
-   "text": "Last season his blocks fell to a career low, but he still led the league. Opponents stopped challenging him at the rim, so he defended fewer shots there.",
+   "text": "Opponents avoid shooting at the rim against him. That cut his contests and his blocks to a career low of 3.1 last season.",
    "kind": "fact",
    "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p28",
+    "ME-r173X5b0:p30",
     "NYTH7uQsPCM:p1",
-    "ME-r173X5b0:p30"
+    "ZAyie8lKyYc:p28"
    ]
   },
   {
-   "text": "Teams are expected to keep avoiding shots at the rim against him in the regular season.",
+   "text": "One expert expects teams to keep avoiding the rim against him this regular season. Another sees his blocks landing anywhere from below 3 back up to 3.5.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p29"
+    "ZAyie8lKyYc:p29",
+    "ME-r173X5b0:p30"
+   ]
+  },
+  {
+   "text": "Good round two partners for him include LaMelo Ball, Stephen Curry, Alperen Sengun and Anthony Davis.",
+   "kind": "verdict",
+   "date": "2026-09-23",
+   "until": "",
+   "sources": [
+    "C4vlgpJ62NI:p2"
+   ]
+  },
+  {
+   "text": "The Spurs are projected as a top team in the West, with one prediction of 63 wins.",
+   "kind": "verdict",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:t7",
+    "75Sk_4fkgIM:t6"
+   ]
+  },
+  {
+   "text": "With a March 28 end, the Spurs play 3, 4 and 3 games in fantasy playoff weeks 19 to 21. They have only 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
+   ]
+  },
+  {
+   "text": "The fantasy playoff schedule is okay but not great.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Blocks are his biggest outlier, far above the top 250 pool. Points and rebounds are also league outliers.",
+   "text": "Blocks are his biggest edge by far. Points and rebounds are also league outliers.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Turnovers are his one weak category. He commits many more than the pool and more than other centers.",
+   "text": "Turnovers are his one weak category, at about 2.8 per game.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He helps in almost every category: points, rebounds, blocks, threes, both percentages and assists. Assists, threes and steals are his weakest positive categories.",
+   "text": "He helps in every category except turnovers. Assists, threes and steals are his weakest positive categories.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -112,16 +178,25 @@
    ]
   },
   {
-   "text": "He makes many threes for a center.",
+   "text": "He makes about two threes a game, which is a lot for a center.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He does not win blocks by himself. A team still needs at least one other shot blocker.",
+   "text": "He is one of the Spurs' best free throw shooters.",
+   "kind": "fact",
+   "date": "2026-08-27",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p27"
+   ]
+  },
+  {
+   "text": "He does not win blocks on his own. You need at least one other shot blocker.",
    "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
@@ -139,7 +214,7 @@
    ]
   },
   {
-   "text": "He is called the best defender in the league.",
+   "text": "He is the best defender in the league.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -148,16 +223,7 @@
    ]
   },
   {
-   "text": "He is one of the Spurs' best free throw shooters, though he missed many in the Finals.",
-   "kind": "fact",
-   "date": "2026-08-27",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:p27"
-   ]
-  },
-  {
-   "text": "He is still learning to score one-on-one when given the ball. It is not yet a strength.",
+   "text": "He is still learning to score one-on-one. That is not yet a strength of his game.",
    "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
@@ -166,7 +232,7 @@
    ]
   },
   {
-   "text": "He played about 65 games in two of the last three seasons. A blood clot caused the one shortened season.",
+   "text": "One of his shortened seasons was caused by a blood clot.",
    "kind": "fact",
    "date": "2026-09-16",
    "until": "",
@@ -180,18 +246,18 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "Blocks far above the top 250 pool, his biggest outlier",
+   "detail": "about 3.4 blocks per game projected, by far his biggest edge",
    "until": "",
    "sources": [
     "stats",
-    "NYTH7uQsPCM:p0"
+    "ME-r173X5b0:p30"
    ],
    "new_meaning": ""
   },
   {
-   "name": "REB specialist",
+   "name": "PTS specialist",
    "channel": "durable",
-   "detail": "",
+   "detail": "about 26 points per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -199,9 +265,9 @@
    "new_meaning": ""
   },
   {
-   "name": "PTS specialist",
+   "name": "REB specialist",
    "channel": "durable",
-   "detail": "",
+   "detail": "about 12 rebounds per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -211,7 +277,7 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 2 threes per game, well above other centers",
+   "detail": "about 2 threes per game as a center",
    "until": "",
    "sources": [
     "stats"
@@ -221,7 +287,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 2.8 turnovers per game",
+   "detail": "about 2.8 turnovers per game projected",
    "until": "",
    "sources": [
     "stats"
@@ -231,7 +297,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "Turnovers are his only weak category",
+   "detail": "turnovers are his only weak category",
    "until": "",
    "sources": [
     "stats"
@@ -241,38 +307,81 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "Consensus top 2 pick, best case 1st overall",
+   "detail": "consensus top 2 pick; the main questions are minutes and games played",
    "until": "",
    "sources": [
     "stats",
-    "DubdKKhMWHo:p1",
-    "J1Eg3uaAICU:p0"
+    "c-WwNRgVxkI:p0",
+    "2A2JbUN-kc0:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "called the best defender in the league",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes limit",
    "channel": "current",
-   "detail": "Minutes managed somewhat, no 35 a night",
+   "detail": "about 29 minutes last season; expected to be managed with no 35 a night",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p2",
-    "2A2JbUN-kc0:p1"
+    "c-WwNRgVxkI:p2",
+    "c-WwNRgVxkI:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low starter minutes",
+   "channel": "current",
+   "detail": "deep Spurs roster may keep minutes low after the long playoff run",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Spurs are very deep at guard and forward",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t1",
+    "ZAyie8lKyYc:t5",
+    "P6TNP-g0wzY:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Spurs projected for 63 wins and a shot at the West's top seed",
+   "detail": "one prediction of 63 wins; could take the top seed in the West",
    "until": "",
    "sources": [
     "ZAyie8lKyYc:t7",
     "75Sk_4fkgIM:t6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
+   "until": "",
+   "sources": [
+    "c-WwNRgVxkI:t4"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Expect him to cost about 80 USD, close to the Yahoo and ESPN average costs. Our league paid 85 USD last season. The site values are only 60 to 65 USD and the experts' value is about 70 USD, so anything near 80 USD is a little high but defensible for a top 2 player who stands out in blocks, rebounds and points. He fits any build, especially punt TO, but you still need a second shot blocker to lock up blocks. Early in the season, check whether his minutes stay near 30 and whether his blocks climb back above last season's career low of 3.1.",
+ "note": "He is a consensus top 2 pick in 9-cat, with elite blocks, points and rebounds, and only turnovers hurt. That makes him a natural anchor for a punt TO build, though you still need a second shot blocker. Experts value him at about 70 USD, but the market runs hotter: 77.4 USD average on Yahoo, 81.7 USD on ESPN, and 85 USD in our league last season. Above about 80 USD, the extra has to come out of the rest of your roster. Early in the season, check whether his minutes climb above last season's 29 and whether opponents keep avoiding the rim, which held his blocks to 3.1.",
  "rejected": []
 }

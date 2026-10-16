@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 158 | 3 | 1.0 | 93 | 1 |
+| 2026-27 | 0 | 0.0 | 156 | 3 | 1.0 | 93 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,28 +30,29 @@
 </details>
 
 **Current**
-- He has a calf strain. Yahoo lists him as questionable. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619), stats)
-- His starting spot is not secure. Notes see him as the likely starting power forward, but San Antonio may start Harper, Castle, Vassell and Fox instead. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619), [10-06](https://youtu.be/eTsjuVu1trk?t=2377), [08-27](https://youtu.be/ZAyie8lKyYc?t=524), [08-27](https://youtu.be/ZAyie8lKyYc?t=524))
-- His ESPN rank of about 94 and a round 9 or 10 pick are too high. Avoid him at that price. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577))
-- The Spurs are very deep at guard and forward. The team plans more three-guard lineups. (fact, 2026-10-08; [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312), [10-08](https://youtu.be/WXO8MfQfzo0?t=2532))
-- He has limited upside and is not a flyer. Take him late only if you need a steady scorer and rebounder. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-23](https://youtu.be/C4vlgpJ62NI?t=2590))
-- He is fair value as a late pick, around pick 142 to 164. Round 14 is the best spot. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=2269), [09-15](https://youtu.be/KPdD91Oo8-U?t=2376), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577))
-- The Spurs' depth caps his minutes and his fantasy value. (verdict, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
-- The Spurs are expected to consolidate the roster through trades, but not right away. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
-- The Spurs are projected to be one of the best teams in the West. One expert predicts 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
-- He signed with the Spurs in free agency and replaces Harrison Barnes in the forward rotation. (fact, 2026-08-24; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [08-24](https://youtu.be/g31YlwRe0XQ?t=2577), [07-05](https://youtu.be/4kKINkZhWls?t=3529), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055))
-- His rim finishing fell from 68 percent to 58 percent last season. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
-- His rim finishing might recover in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
+- He strained his calf early in preseason and may not be ready for the start of the season. Yahoo lists him as questionable. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1563), [10-12](https://youtu.be/ENizLoE6pzI?t=1884), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619), stats)
+- The Spurs started three guards (Fox, Harper and Castle) in the preseason. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1037), [10-15](https://youtu.be/c-WwNRgVxkI?t=76))
+- He projects as a bench forward, not a starter. The projected starters are Fox, Harper, Castle, Vassell and Wembanyama. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1156), [10-15](https://youtu.be/c-WwNRgVxkI?t=1417), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [10-12](https://youtu.be/ENizLoE6pzI?t=1884))
+- The Spurs are very deep at forward, so his minutes are likely to be limited. Team minutes may also stay low after their long playoff run. (verdict, 2026-10-15; [09-19](https://youtu.be/uarqbNA2dFk?t=2513), [09-19](https://youtu.be/uarqbNA2dFk?t=1601), [10-15](https://youtu.be/c-WwNRgVxkI?t=140), [08-27](https://youtu.be/ZAyie8lKyYc?t=1306), [08-27](https://youtu.be/ZAyie8lKyYc?t=1491), [07-02](https://youtu.be/P6TNP-g0wzY?t=2312))
+- With a March 28 end, the Spurs play 3, 4 and 3 games in the fantasy playoff weeks. They have only 13 back-to-backs. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1598))
+- Experts disagree on him as a late pick. One says do not draft him because of the calf and the Spurs' depth. Another says he is still value around pick 150. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1563), [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [10-12](https://youtu.be/ENizLoE6pzI?t=1884))
+- His ESPN rank (about 93) is too high. Avoid him at that price. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1563), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2250), [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
+- He has limited upside and is not a flyer. He is a late pick only if you need a steady scorer and rebounder. (verdict, 2026-09-24; [09-23](https://youtu.be/C4vlgpJ62NI?t=2590), [09-24](https://youtu.be/_vbAP5y182A?t=2269))
+- He signed with the San Antonio Spurs this offseason. (fact, 2026-09-19; [07-02](https://youtu.be/P6TNP-g0wzY?t=2336), [09-19](https://youtu.be/uarqbNA2dFk?t=2513))
+- The front office is expected to consolidate its forward depth through trades in the near future. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1306))
+- His rim finishing fell to 58 percent last season, down from 68. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
+- His rim finishing might bounce back in the Spurs offense. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1207))
 
 **Durable**
-- He is a very good defensive rebounder for a forward. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))
-- He is a strong isolation and post scorer whom the team can hand the ball to when the offense stalls. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=395))
-- He is streaky from three, but defenses still have to respect his shot. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=436))
+- His category profile is flat. His FT% is good and he has few turnovers, but no category is weak and none is a league outlier. (fact, 2026-10-16; stats)
+- He is a very good defensive rebounder for a power forward. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=321))
+- He is a strong isolation and post scorer whom the team can hand the ball to when the offense bogs down. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=395))
+- He is streaky from three, but defenses still have to respect his shot. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=436))
 
 **Tags**
-- Current: `new team` (Signed with San Antonio, replaces Harrison Barnes), `injured now` (Calf strain), `questionable` (Yahoo Q (calf)), `minutes competition` (May lose the starting spot to a Harper, Castle, Vassell and Fox lineup), `deep rotation` (Spurs very deep at guard and forward), `small-ball lineups` (More three-guard lineups planned), `trades likely` (Roster consolidation expected, not right away), `winning team` (One expert projects 63 wins), `bust candidate` (ESPN rank 94 and a round 9 pick are too high), `sites disagree on price` (ESPN rank 93, Yahoo rank 158)
-- Durable: `streaky` (Three-point shooting), `fits every build` (No weak category, but no strong one either)
+- Current: `new team` (signed with San Antonio), `injured now` (calf strain from early preseason), `questionable` (Yahoo Q (Calf)), `minutes competition` (likely a bench forward behind a three-guard starting lineup, with Champagnie, Keldon Johnson and others), `deep rotation` (Spurs very deep at forward), `trades likely` (consolidation of forward depth expected), `winning team` (63 wins predicted; could take the top seed in the West), `few back-to-backs` (13 back-to-backs), `bust candidate` (at ESPN rank 93), `sites disagree on price` (Yahoo rank 156 and 0 USD; ESPN rank 93 and 3 USD)
+- Durable: `streaky` (three-point shooting), `fits every build` (no weak category, but no strong one either)
 
-**Note.** Harris is a 1 USD end-of-draft pick or a waiver player for us. Yahoo values him at 0 USD and ranks him 158, ESPN values him at 3 USD, and he went for 1 USD in our league last season. With 144 players drafted, expert calls of pick 142 to 164 put him right on the cutoff. He has no weak category, and his good FT% and low turnovers (z +0.7 and +0.9) let him fill a spot in any build, but nothing in his line moves a category much. Early in the season, check that the calf strain has healed and that he starts at power forward over a three-guard lineup with Harper.
+**Note.** He is a fringe player for our 144-player draft. Yahoo has him at 0 USD and rank 156, ESPN at 3 USD and rank 93, and he went for 1 USD in our league last season. Pay 1 USD at most, or leave him for waivers, since a calf strain and a likely bench role behind the Spurs' three-guard lineup cap his minutes. His flat profile (good FT%, few turnovers) fits any build as filler. Early in the season, check when the calf heals and whether he gets the starting power forward spot or regular 28 plus minutes.
 
-<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

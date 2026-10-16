@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 210 | 0 | 0.1 | 153 | not drafted |
+| 2026-27 | 0 | - | 201 | 0 | 0.1 | 153 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,26 +23,34 @@
 | PTS | 9.4 | -0.8 | -0.7 | - |
 | REB | 6.6 | +0.6 | +0.1 | - |
 | AST | 1.3 | -1.0 | -0.8 | - |
-| STL | 1.0 | +0.0 | +0.3 | - |
+| STL | 1.0 | +0.1 | +0.4 | - |
 | BLK | 0.7 | +0.2 | -0.3 | - |
 | TO | 0.9 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- His strong run late last season, including a rank of 73rd after the trade deadline, came while Domantas Sabonis, Keegan Murray, DeAndre Hunter and Cardwell were out. All of them are back. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- The experts say his late-season production was not real. Do not draft him off that run. His ESPN categories rank of 111 is too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, with nobody pushing that group for a spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- He re-signed with Sacramento on a 2-year, 11.5 million deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
-- He is expected to be a reserve big with a smaller role than his late-season starting run. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-16; stats)
+- He is projected as a bench big behind starter Domantas Sabonis. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1201), [10-15](https://youtu.be/PrrgoTEcao4?t=1549), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- Dylan Cardwell (calf strain) and Maxime Raynaud are both out at least two weeks to start the season. Achiuwa and a two-way big get the backup center minutes. (fact, 2026-10-15, until Cardwell and Raynaud return; [10-15](https://youtu.be/PrrgoTEcao4?t=1706), [10-14](https://youtu.be/D4dP5JvX1oo?t=1564), [10-13](https://youtu.be/EogBYa24Gto?t=657))
+- He is a short-term target in deep leagues only, as the backup center while Cardwell and Raynaud are out. (verdict, 2026-10-15, until Cardwell and Raynaud return; [10-15](https://youtu.be/PrrgoTEcao4?t=1549))
+- Experts call the Kings one of the worst teams in the NBA, with poor coaching and front office, which makes their rotations hard to predict. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=68), [10-08](https://youtu.be/6DnRWahYrFA?t=407))
+- The Kings play 4-4-3 games in our playoff weeks 19 to 21, 11 games in total. They have 14 back-to-backs this season. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1824))
+- The Kings may also play small ball with Ben Simmons at center, which can take backup center minutes. (fact, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=657))
+- His strong late-season stretch came while Sabonis, Keegan Murray, DeAndre Hunter and Cardwell were out. All of them are back. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- Do not draft him off his late-season run. Experts say his post-deadline rank was not real and that an ESPN rank of 111 was too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2342), [07-14](https://youtu.be/xHRF06_E9HE?t=1622), [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
+- He re-signed with Sacramento for 2 years and 11.5 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1338))
 
 **Durable**
-- none
+- He makes very few threes and adds few points or assists. (fact, 2026-10-16; stats)
+- His fantasy value comes from rebounds and FG%. His free throw shooting is poor, but on low volume. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1549), stats)
 
 **Tags**
-- Current: `role down` (Expected to go back to a reserve big role now that Sabonis, Murray and Hunter are healthy), `handcuff` (Produced as a starter late last season when Sabonis, Murray and Hunter were out), `bust candidate` (At the ESPN categories rank of 111)
+- Current: `role down` (He started late last season only because of injuries. Now a reserve big behind Sabonis.), `minutes competition` (Backup center minutes are shared with Cardwell, Raynaud, a two-way big and small ball with Simmons at center), `waiver watch` (Backup center while Cardwell and Raynaud are out. Deep-league target only.; until Cardwell and Raynaud return), `injured now` (Yahoo status Q (ankle)), `questionable` (Ankle), `bottom team`, `unsettled rotation` (Experts call the Kings' rotations unpredictable)
 - Durable: none
 
-**Note.** Do not draft him in our league. Yahoo ranks him 210th, ESPN ranks him 153rd and both sites value him at 0 USD, which puts him outside the 144 players we draft. The experts say his late-season numbers only came because the Kings starters were hurt. His profile is modest anyway: about 9 to 10 points and 6.6 rebounds, with weak FT%, threes and assists. Keep him on the waiver radar in case Sabonis, Murray or Hunter misses time or gets traded, because that is when he got starter minutes.
+**Note.** Do not draft him. Both Yahoo and ESPN value him at 0 USD (Yahoo rank 201, ESPN rank 153), and he went undrafted in our league last season, so he is well outside our 144-player pool. In the first weeks, watch the waiver wire: if his ankle is fine and he gets steady backup center minutes while Cardwell and Raynaud are out, he can be a short-term streamer for rebounds and FG%. His FT% is poor but on low volume. Drop him once both are back.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
+
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,116 +8,106 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3f33a0ca1432",
- "note_count": 35,
- "built_at": "2026-10-11T09:21:21+00:00",
+ "input_sha": "c083b57ad000",
+ "note_count": 38,
+ "built_at": "2026-10-16T09:09:11+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2396262,
-  "duration_ms": 69907,
+  "cost_usd_list": 0.2476862,
+  "duration_ms": 73961,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yahoo lists him as questionable with an ankle injury.",
+   "text": "He enters his third season. Nikola Vucevic, Coby White and coach Billy Donovan are gone, and Tiago Splitter is the new head coach.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Tiago Splitter is the new Bulls head coach. Billy Donovan, who pulled him early after mistakes, is gone.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
+    "DzQXaC2rsac:p9",
+    "gJUBAJaHzlU:p11",
     "3Qm5wLjhvTw:t1",
-    "FxaSnyk9g90:t2",
-    "FxaSnyk9g90:p0",
-    "egRrai3Ax38:t2",
-    "gJUBAJaHzlU:t3"
+    "3Qm5wLjhvTw:t2",
+    "FxaSnyk9g90:t2"
    ]
   },
   {
-   "text": "Splitter is expected to give him more ball handling and point forward duties. How much Splitter will empower him is still an open question.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p2",
-    "3Qm5wLjhvTw:p0",
-    "3Qm5wLjhvTw:t1"
-   ]
-  },
-  {
-   "text": "He is in the projected starting five with Josh Giddey, Norman Powell, Caleb Wilson and Nick Claxton. On a big-focused roster he plays small forward, out of position.",
+   "text": "He is in the projected starting five with Josh Giddey, Norman Powell, Caleb Wilson and Nick Claxton. With Claxton at center and Wilson at the four, he moves down to small forward on a big-focused roster.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t3",
     "3Qm5wLjhvTw:t6",
-    "9tb1ARBEmQU:p17"
+    "9tb1ARBEmQU:p17",
+    "xHRF06_E9HE:p27"
    ]
   },
   {
-   "text": "Nikola Vucevic and Coby White have left Chicago, which frees usage. Norman Powell and Caleb Wilson have arrived.",
+   "text": "When he got more minutes late last season, he ranked about 50th in 9-cat, with 19 points, 7 rebounds, 3 threes and almost 2 blocks in 31 minutes.",
    "kind": "fact",
-   "date": "2026-09-28",
+   "date": "2026-08-18",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t2",
-    "gJUBAJaHzlU:p11",
-    "gJUBAJaHzlU:t3"
+    "xHRF06_E9HE:p25",
+    "xHRF06_E9HE:p26",
+    "3Qm5wLjhvTw:p0",
+    "FxaSnyk9g90:p1"
    ]
   },
   {
-   "text": "Most experts expect his usage and shot volume to rise as the first or second option, possibly second on the team ahead of Giddey and Wilson. They expect it to land below his late-season 25% but above his season-long 22%. One expert disagrees and expects Powell to lead the team in usage, with Buzelis lower.",
+   "text": "Experts expect his minutes to rise to about 32 a game and see no playing-time worry. They expect his usage to land below his late-season peak but above his early-season level.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p9",
+    "BiIZsSypx7Y:p28",
+    "egRrai3Ax38:p10",
+    "sTtFUy7IoJI:p31",
+    "FxaSnyk9g90:p3",
+    "FxaSnyk9g90:p4",
+    "3Qm5wLjhvTw:p1"
+   ]
+  },
+  {
+   "text": "Splitter is expected to give him more ball handling and point forward duties, so his assists should go up. How much Splitter will empower him is still an open question.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p1",
+    "FxaSnyk9g90:p2",
     "sTtFUy7IoJI:p31",
+    "3Qm5wLjhvTw:p0",
+    "3Qm5wLjhvTw:t1"
+   ]
+  },
+  {
+   "text": "In preseason he has shown almost no rebounds and very low usage, while the Bulls feed usage to Caleb Wilson.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p16",
+    "ENizLoE6pzI:t2"
+   ]
+  },
+  {
+   "text": "Experts disagree on his share of the ball. One sees him second on the team in usage, ahead of Giddey and Wilson. Another expects Norman Powell to lead the team in usage, with Buzelis lower.",
+   "kind": "verdict",
+   "date": "2026-09-21",
+   "until": "",
+   "sources": [
     "egRrai3Ax38:p9",
     "egRrai3Ax38:t2",
-    "FxaSnyk9g90:p3",
-    "FxaSnyk9g90:p4",
-    "OBwWCxG9SqM:t2",
     "W-R1dzem32s:t0",
     "g31YlwRe0XQ:t2"
    ]
   },
   {
-   "text": "Experts see no playing-time worry and expect about 32 minutes a game.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p28",
-    "egRrai3Ax38:p10",
-    "sTtFUy7IoJI:p31"
-   ]
-  },
-  {
-   "text": "Experts expect a big third-year breakout.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p1",
-    "gJUBAJaHzlU:p11",
-    "gerS7ibpaJo:p1",
-    "FxaSnyk9g90:p5",
-    "skKXe2CRl8Q:p5"
-   ]
-  },
-  {
-   "text": "His blocks may drop next to Caleb Wilson and at small forward, even with more minutes. His assists should go up.",
+   "text": "Several experts think his blocks may drop next to Caleb Wilson and at small forward, even with more minutes.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
@@ -129,55 +119,76 @@
    ]
   },
   {
-   "text": "Experts rank him as a top-50 player in 9-cat, finishing around 50. They say his Yahoo rank is still too low even after it rose to 64.",
+   "text": "He hurt his ankle in preseason. It does not appear serious, and he has no Yahoo injury status.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "hviT4hzYNME:p22"
+   ]
+  },
+  {
+   "text": "Experts rank him as a top-50 player in 9-cat, in a range of about 40 to 60. They expect him to finish around 50 and call him more polished than Caleb Wilson.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p9",
+    "6DnRWahYrFA:p27",
+    "BiIZsSypx7Y:p29",
+    "n4KkK-OJjqA:p25",
+    "3Qm5wLjhvTw:p2",
+    "gJUBAJaHzlU:p10",
+    "sTtFUy7IoJI:p30",
+    "J1Eg3uaAICU:p45",
+    "xHRF06_E9HE:p28",
+    "80kfLVnFQ_s:p27",
+    "ahNxsoU8Hx4:p13"
+   ]
+  },
+  {
+   "text": "The experts say the market still underrates him, even after his Yahoo rank rose into the 60s. He is the best fantasy target on the Bulls and should be the first player taken from his draft class.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p27",
     "BiIZsSypx7Y:p28",
-    "BiIZsSypx7Y:p29",
     "n4KkK-OJjqA:p25",
-    "3Qm5wLjhvTw:p2",
-    "gJUBAJaHzlU:p10",
-    "sTtFUy7IoJI:p30",
-    "xHRF06_E9HE:p28",
-    "ahNxsoU8Hx4:p13",
-    "J1Eg3uaAICU:p45",
-    "80kfLVnFQ_s:p27"
-   ]
-  },
-  {
-   "text": "Draft advice: do not take him around pick 40. The 60s are a good spot, and the late 40s and 50s are acceptable to experts who want him.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
     "3Qm5wLjhvTw:p3",
-    "BiIZsSypx7Y:p29",
-    "sTtFUy7IoJI:p32",
-    "OdDkXFhoKsc:p38",
-    "dlo7L8Ru91A:p11"
+    "gJUBAJaHzlU:p11",
+    "FxaSnyk9g90:p5"
    ]
   },
   {
-   "text": "His auction price should be about 20 USD. He went for 22 USD in an expert mock auction, and Josh, a big fan, would only pay value.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "gJUBAJaHzlU:p10",
-    "Q6YlQDvD-aY:p16"
-   ]
-  },
-  {
-   "text": "Experts project Chicago as a bad team, probably bottom ten, with about 32 wins.",
+   "text": "Draft advice: do not take him around pick 40. Around pick 60 is good value and around 80 would be a steal. His auction price should be about 20 USD.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t0",
+    "3Qm5wLjhvTw:p3",
+    "sTtFUy7IoJI:p32",
+    "dlo7L8Ru91A:p11",
+    "gJUBAJaHzlU:p10"
+   ]
+  },
+  {
+   "text": "In an expert auction mock he went for 22 USD. The expert is a big fan but would only pay value.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p16"
+   ]
+  },
+  {
+   "text": "Chicago is expected to be a bad team, probably bottom ten in the league. One prediction is 32 wins.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
     "P6TNP-g0wzY:t5",
+    "3Qm5wLjhvTw:t0",
     "FxaSnyk9g90:t4"
    ]
   },
@@ -191,7 +202,7 @@
    ]
   },
   {
-   "text": "Chicago has 15 back-to-backs, one below the maximum. Its fantasy playoff schedule is 3-3-4 games (10) with our March 28 end.",
+   "text": "Chicago has 15 back-to-backs, one below the maximum. With a March 28 end, they play 3, 3 and 4 games (10) in our playoff weeks.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -203,42 +214,24 @@
  ],
  "durable": [
   {
-   "text": "Blocks are his standout category. He blocks shots at a league-outlier rate, especially for a forward.",
+   "text": "Blocks are his standout category, far above the top 250 pool and even further above other forwards.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He makes many threes for a forward, but at a modest percentage (about 35% last season).",
+   "text": "He makes many threes for a forward, but his three-point percentage is modest (about 35%). His threes come from volume, not accuracy.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "stats",
     "3Qm5wLjhvTw:p4",
-    "xHRF06_E9HE:p26"
-   ]
-  },
-  {
-   "text": "In a big-minutes role he produces both blocks and threes.",
-   "kind": "fact",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p1",
-    "xHRF06_E9HE:p26"
-   ]
-  },
-  {
-   "text": "He has missed few games in his first two seasons.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
+    "xHRF06_E9HE:p26",
+    "FxaSnyk9g90:p1"
    ]
   }
  ],
@@ -246,7 +239,7 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "1.6 blocks projected. Experts warn the number may dip next to Caleb Wilson.",
+   "detail": "About 1.6 blocks projected; experts think the blocks may drop at small forward",
    "until": "",
    "sources": [
     "stats",
@@ -257,21 +250,11 @@
   {
    "name": "3PM from a big",
    "channel": "durable",
-   "detail": "About 2.3 threes per game as a forward",
+   "detail": "About 2.4 threes projected as a forward, on about 35% from three",
    "until": "",
    "sources": [
     "stats",
     "FxaSnyk9g90:p1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No category flagged weak",
-   "until": "",
-   "sources": [
-    "stats"
    ],
    "new_meaning": ""
   },
@@ -286,59 +269,39 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "role up",
    "channel": "current",
-   "detail": "Yahoo Q, ankle",
+   "detail": "Minutes expected to rise to about 32, more usage and point forward duties",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "Ankle, Yahoo status Q",
-   "until": "",
-   "sources": [
-    "stats"
+    "egRrai3Ax38:p10",
+    "sTtFUy7IoJI:p31",
+    "FxaSnyk9g90:p2",
+    "DzQXaC2rsac:p9"
    ],
    "new_meaning": ""
   },
   {
    "name": "breakout",
    "channel": "current",
-   "detail": "Third-year step expected under the new coach",
+   "detail": "Third-year step expected after a strong late season",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p1",
     "gJUBAJaHzlU:p11",
-    "gerS7ibpaJo:p1",
     "FxaSnyk9g90:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role up",
-   "channel": "current",
-   "detail": "About 32 minutes expected, and higher usage as the first or second option",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p10",
-    "sTtFUy7IoJI:p31",
-    "FxaSnyk9g90:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Experts rank him around top 50, against a Yahoo and ESPN rank of 64",
+   "detail": "Experts rank him top 50 while the market has him in the 60s",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p27",
+    "BiIZsSypx7Y:p28",
     "3Qm5wLjhvTw:p3",
-    "BiIZsSypx7Y:p29",
     "FxaSnyk9g90:p5"
    ],
    "new_meaning": ""
@@ -346,7 +309,7 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo average cost 6 USD, while experts say about 20 USD",
+   "detail": "Average auction cost about 6 USD; experts say about 20 USD",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p25",
@@ -357,12 +320,26 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "position change",
    "channel": "current",
-   "detail": "Yahoo value 16 USD, ESPN value 7 USD",
+   "detail": "Moves to small forward next to Caleb Wilson and Nick Claxton, which may cut his blocks",
    "until": "",
    "sources": [
-    "stats"
+    "9tb1ARBEmQU:p17",
+    "xHRF06_E9HE:p27",
+    "3Qm5wLjhvTw:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Norman Powell and Caleb Wilson; Bulls feed Wilson in preseason",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t0",
+    "ENizLoE6pzI:t2",
+    "g31YlwRe0XQ:t2"
    ],
    "new_meaning": ""
   },
@@ -380,11 +357,11 @@
   {
    "name": "usage freed",
    "channel": "current",
-   "detail": "Vucevic and Coby White gone",
+   "detail": "Nikola Vucevic and Coby White are gone",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t2",
-    "gJUBAJaHzlU:t3"
+    "gJUBAJaHzlU:t3",
+    "3Qm5wLjhvTw:t2"
    ],
    "new_meaning": ""
   },
@@ -394,8 +371,8 @@
    "detail": "Projected bottom ten, about 32 wins",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t0",
     "P6TNP-g0wzY:t5",
+    "3Qm5wLjhvTw:t0",
     "FxaSnyk9g90:t4"
    ],
    "new_meaning": ""
@@ -419,8 +396,18 @@
     "3Qm5wLjhvTw:t8"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 17 USD, ESPN value 7 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "The experts see him as a top-50 9-cat player who costs about 20 USD. He fits any build because no category is flagged weak, and his blocks and threes from the forward spot are the main draw. Yahoo (average cost 6 USD, value 16 USD) and ESPN (7 USD) price him low, but he went for 12 USD in our league last year and for 22 USD in an expert mock auction, so expect to pay about 15 to 22 USD. Early in the season, check his Q ankle status, whether Splitter gives him about 32 minutes and the usage the experts expect, and whether his blocks hold next to Caleb Wilson and Claxton.",
+ "note": "Experts agree he is a top-50 9-cat player and say his auction price should be about 20 USD. That is well above the market's average cost of about 6 USD and the 12 USD he went for in our league last season, and an expert mock sold him for 22 USD. He has no weak category flags, and his blocks plus threes from the forward spot make him an easy fit for most builds. Paying up to about 20 USD is fine, but do not go far past it. Early in the season, check that his minutes reach about 32 and his usage holds next to Powell and Wilson, since he showed few rebounds and low usage in preseason. Also watch whether his blocks hold at small forward.",
  "rejected": []
 }

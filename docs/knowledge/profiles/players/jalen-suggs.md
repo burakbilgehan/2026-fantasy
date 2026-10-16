@@ -4,54 +4,55 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 62 | 26.3 | 43.9 (10.7) | 83.1 (2.2) | 2.0 | 13.2 | 3.4 | 4.0 | 1.5 | 0.7 | 2.3 |
-| 2026-27 proj, Yahoo | 64 | - | 43.1 (11.6) | 84.6 (2.3) | 2.1 | 14.1 | 3.8 | 5.0 | 1.7 | 0.8 | 2.5 |
+| 2026-27 proj, Yahoo | 60 | - | 43.1 (11.6) | 84.3 (2.3) | 2.1 | 14.1 | 3.8 | 5.0 | 1.7 | 0.8 | 2.5 |
 | 2025-26 | 57 | 27.5 | 43.5 (11.4) | 85.5 (2.1) | 2.1 | 13.8 | 3.9 | 5.5 | 1.8 | 0.7 | 2.7 |
 | 2024-25 | 35 | 28.7 | 41.0 (13.7) | 88.2 (3.1) | 2.2 | 16.2 | 4.1 | 3.7 | 1.5 | 0.9 | 2.9 |
 | 2023-24 | 75 | 27.0 | 47.1 (9.5) | 75.6 (2.1) | 2.0 | 12.6 | 3.1 | 2.7 | 1.4 | 0.6 | 1.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 2.3 | 95 | 0 | 0.7 | 143 | 1 |
+| 2026-27 | 5 | 2.9 | 95 | 0 | 0.8 | 143 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 43.5% | -0.9 | -0.7 | - |
-| FT% | 83.8% | +0.4 | +0.0 | - |
+| FT% | 83.7% | +0.4 | +0.0 | - |
 | 3PM | 2.1 | +0.6 | +0.3 | - |
 | PTS | 13.7 | -0.1 | -0.2 | - |
 | REB | 3.6 | -0.6 | -0.2 | - |
 | AST | 4.5 | +0.7 | +0.3 | - |
 | STL | 1.6 | +2.0 | +1.6 | league outlier, strong |
-| BLK | 0.7 | +0.2 | +1.6 | - |
+| BLK | 0.7 | +0.3 | +1.6 | - |
 | TO | 2.4 | -1.0 | -0.8 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an illness. (fact, 2026-10-11; stats)
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
+- Experts say drafts have him far too low. He could be a top 70 to 80 player if he plays about 65 games, and ESPN's rank of 143 is called silly. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1217), [10-13](https://youtu.be/zhXtLr_xYVg?t=1009), [09-30](https://youtu.be/BjXP9JODDSg?t=1640), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1296), [09-09](https://youtu.be/7BllEsdNLoM?t=2417), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
+- Experts disagree on whether to draft him. Most call him worth the shot at his price, but one would pass because of his injury history, and another is not confident he will reach 65 games. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1217), [10-13](https://youtu.be/zhXtLr_xYVg?t=1009), [10-08](https://youtu.be/WXO8MfQfzo0?t=1613), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1296))
+- He is a projected starter at guard, next to Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- Orlando has a new head coach, Sean Sweeney, so his role and minutes may change. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Orlando plays 11 games in our playoff weeks (3-4-4) and has 14 back-to-backs. The schedule is called unremarkable. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1741))
 - He went for 9 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4306))
-- Drafts have him far too low. Experts see him as a top 70 to 80 player per game and worth the shot despite the injury risk. (verdict, 2026-10-02; [09-30](https://youtu.be/BjXP9JODDSg?t=1640), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1296), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
-- He is a tier 8 guard. If he plays 65 to 70 games, he would rank ahead of nearly all of tier 8. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2417))
-- He is projected to start at guard next to Bane, Franz Wagner, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Black. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
-- He shot under 30% from the field and in the low 20s from three in the playoffs. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
-- One expert thinks he is the likely trade sacrifice so Orlando can keep Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
-- A healthy offseason could unlock another level after his career-high assists last season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=661))
+- Orlando is 2.5 million USD under the second apron and will likely have to choose between keeping Suggs and keeping Anthony Black. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1259))
+- One expert thinks Suggs is the likely trade sacrifice to keep Black. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1273))
+- Plan for him to miss about 20 games this season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202))
+- A healthy offseason could unlock another level after his career high in assists last season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=661))
+- One expert projects Orlando for 47 or 48 wins and the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
 
 **Durable**
-- Steals are his standout category, far above the pool. His blocks are also high for a guard. (fact, 2026-10-11; stats)
-- He is injury prone. His physical, all-out style gets his body beaten up, and availability is his main issue. (verdict, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202), [09-09](https://youtu.be/7BllEsdNLoM?t=2423), [09-10](https://youtu.be/W-R1dzem32s?t=1961), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [10-08](https://youtu.be/WXO8MfQfzo0?t=1613))
-- His per game numbers are strong when he plays. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4306), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
-- Plan for him to miss about 20 games a season. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1202))
-- His three-point shooting is streaky. When it is on, he takes about six threes a game. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2060))
+- Steals are a league outlier. He is projected for about 1.6 per game. (fact, 2026-10-16; stats, [10-13](https://youtu.be/zhXtLr_xYVg?t=1000))
+- Availability is his main issue. Experts say he would rank much higher without the injury concerns. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1217), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-10](https://youtu.be/W-R1dzem32s?t=1961), [10-02](https://youtu.be/ZYllcj4o6_A?t=2443))
+- His all-out, physical playing style gets his body beaten up and leads to repeated injuries and missed games. Experts compare him to Alex Caruso. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=943), [09-09](https://youtu.be/7BllEsdNLoM?t=2423), [08-01](https://youtu.be/FEcNjVRlj-U?t=1202), [09-30](https://youtu.be/BjXP9JODDSg?t=1734), [09-10](https://youtu.be/W-R1dzem32s?t=1961))
+- His per-game line is strong, led by steals and assists. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1000), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4306))
+- His three-point shooting is streaky. When it is on, he takes about six threes a game. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2060))
 
 **Tags**
-- Current: `questionable` (Yahoo Q (Illness)), `trade risk` (Orlando near the second apron; may be moved to keep Black), `sleeper` (Experts see top 70 to 80 per game; market ranks him far lower), `expert target` (Drafts have him way too low), `sites disagree on price` (Yahoo rank 95, ESPN rank 143), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Projected 47 to 48 wins and the 6th seed)
-- Durable: `STL specialist` (About 1.6 steals per game projected), `injury prone` (Physical, all-out style; plan for about 20 missed games), `streaky` (Three-point shooting runs hot and cold)
+- Current: `sleeper` (top 70 to 80 if healthy; market rank 95 to 143), `sites disagree on price` (Yahoo rank 95 and 5 USD; ESPN rank 143 and 0 USD), `trade risk` (Orlando near the second apron; may choose Anthony Black over Suggs), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (projected 47 or 48 wins and the 6th seed)
+- Durable: `injury prone` (physical, all-out style leads to repeated injuries; plan for about 20 missed games), `STL specialist` (about 1.6 steals per game projected), `streaky` (three-point shooting comes and goes)
 
-**Note.** Experts in 9-cat see him as a top 70 to 80 player per game. The market is far lower: Yahoo rank 95 at 2.3 USD average cost, ESPN rank 143 at 0.6 USD, and he went for 1 USD in our league last auction. One expert mock paid 9 USD, so a bid in the low single digits is a good price for elite steals plus threes and assists, if you can live with weak FG% and turnovers and plan around 20 missed games. Early on, check the illness status, his role under new coach Sweeney, and any trade talk tied to Orlando's choice between him and Black.
+**Note.** Experts rate him a top 70 to 80 player per game if he stays healthy, but the market is pricing him for his injuries: Yahoo has him at 5 USD (rank 95), ESPN at 0 USD (rank 143), and he went for 1 USD in our league last season. At 5 to 9 USD he is a cheap source of steals, assists and threes for guard-heavy builds, but his FG% (43.5 on about 11 attempts) and turnovers are slightly below average, and you should plan for him to miss about 20 games. Early in the season, check how new coach Sean Sweeney uses him and whether Orlando's apron squeeze leads to a Suggs trade.
 
-<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>17 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

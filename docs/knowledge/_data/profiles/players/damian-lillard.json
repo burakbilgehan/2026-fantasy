@@ -8,179 +8,182 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f1053aedb380",
- "note_count": 13,
- "built_at": "2026-10-11T09:15:05+00:00",
+ "input_sha": "b9a039358555",
+ "note_count": 24,
+ "built_at": "2026-10-16T08:50:12+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2095062,
-  "duration_ms": 61896,
+  "cost_usd_list": 0.2368782,
+  "duration_ms": 69122,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is 36 and is coming back from a torn Achilles.",
+   "text": "He is healthy now after the Achilles tear.",
    "kind": "fact",
-   "date": "2026-09-24",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p5",
-    "YJk7ZFKFqnI:p6",
-    "7BllEsdNLoM:p37",
-    "ahNxsoU8Hx4:p40",
-    "_vbAP5y182A:p37"
+    "8paKnhgNbLg:p7"
    ]
   },
   {
-   "text": "Portland traded for Ja Morant and reportedly plans to start Lillard and Morant together. The projected starting five is Lillard, Morant, Camara, Avdija and Clingan.",
+   "text": "The newest team preview projects him to start next to Scoot Henderson, with Toumani Camara, Deni Avdija and Donovan Clingan. Ja Morant is likely a bench player, and Jrue Holiday or Henderson starts most nights.",
    "kind": "fact",
-   "date": "2026-08-11",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p5",
-    "bHA-JoW3reE:t2",
-    "YJk7ZFKFqnI:t1"
+    "8paKnhgNbLg:t0",
+    "8paKnhgNbLg:t1"
    ]
   },
   {
-   "text": "Portland's guard group is crowded. Morant and Jrue Holiday were added, Scoot Henderson is back for a full season, and Deni Avdija and Shaedon Sharpe also need the ball.",
-   "kind": "fact",
-   "date": "2026-10-09",
+   "text": "Experts reject the idea that he will be a 25-minute bench player. They cannot see him coming off the bench and expect him to start with about 30 to 31 minutes.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:t0",
-    "n4KkK-OJjqA:t6",
+    "8paKnhgNbLg:p5",
+    "hviT4hzYNME:p21",
+    "_vbAP5y182A:p37",
+    "YJk7ZFKFqnI:p6"
+   ]
+  },
+  {
+   "text": "Expected to sit back-to-backs this season. Early-season back-to-backs are the main worry.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p5",
+    "gf_6GveiAls:p8"
+   ]
+  },
+  {
+   "text": "In the preseason he scored 14 points in 21 minutes, with a 24 usage rate and two steals.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p6"
+   ]
+  },
+  {
+   "text": "The expert calls his preseason encouraging.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:p6"
+   ]
+  },
+  {
+   "text": "Portland is crowded with on-ball guards: Lillard, Morant, Holiday and Henderson, plus Avdija, all share the playmaking.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:t1",
     "Rqb5GdrSweY:t6",
     "ME-r173X5b0:t3",
     "sTtFUy7IoJI:t9"
    ]
   },
   {
-   "text": "The crowded guard group lowers his value and adds risk. The guards' combined usage from last season cannot all hold, and minutes and usage should swing from game to game.",
+   "text": "The crowded guard group adds risk to his usage and touches. Not all of the guards can match last season's numbers.",
    "kind": "verdict",
    "date": "2026-09-01",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p5",
-    "sTtFUy7IoJI:t9",
     "80kfLVnFQ_s:p21",
     "80kfLVnFQ_s:t0",
+    "sTtFUy7IoJI:t9"
+   ]
+  },
+  {
+   "text": "Portland has a first-time head coach who may mix up the lineup. Minutes and usage are expected to swing from game to game.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:t1",
+    "n4KkK-OJjqA:t6",
     "YJk7ZFKFqnI:t5"
    ]
   },
   {
-   "text": "Portland is expected to stagger Lillard and Morant but close games with both on the floor.",
+   "text": "Experts call him a top 50 player who could reach the top 35, and one projection sees a possible top-30 season. They see good value anywhere after pick 50 and call an ADP in the 80s too low. His draft position is rising.",
    "kind": "verdict",
-   "date": "2026-08-11",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "YJk7ZFKFqnI:t2"
+    "8paKnhgNbLg:p4",
+    "DzQXaC2rsac:p7",
+    "OsbUAkSeVB4:p13",
+    "uI6umXsE7Vk:p39",
+    "hviT4hzYNME:p21",
+    "_vbAP5y182A:p38",
+    "EogBYa24Gto:p15",
+    "w66x_I_MaQ8:p27"
    ]
   },
   {
-   "text": "Portland has a new head coach.",
+   "text": "Expected to beat his ADP on a per-game basis.",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p40"
+   ]
+  },
+  {
+   "text": "Portland plays 10 games in our playoff weeks (season ending March 28), with three back-to-backs in those weeks. The team has 15 back-to-backs over the season.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:t6"
-   ]
-  },
-  {
-   "text": "He is expected to play about 30 to 31 minutes as a low-minute starter, with some minutes uncertainty. Josh rejects the view that he is washed or will play only about 25 minutes.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p6",
-    "ahNxsoU8Hx4:p40",
-    "_vbAP5y182A:p37"
-   ]
-  },
-  {
-   "text": "Experts disagree on back-to-backs. One preview does not expect Portland to keep him out of them, while a schedule breakdown sees some worry about back-to-backs early in the season.",
-   "kind": "verdict",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p6",
-    "gf_6GveiAls:p8"
-   ]
-  },
-  {
-   "text": "Portland has three back-to-backs in the fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
+    "8paKnhgNbLg:t3",
     "gf_6GveiAls:p9",
     "gf_6GveiAls:t6"
    ]
   },
   {
-   "text": "Three back-to-backs in the fantasy playoffs is not ideal for him.",
+   "text": "His playoff schedule is weak.",
    "kind": "verdict",
-   "date": "2026-08-16",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "8paKnhgNbLg:t3",
     "gf_6GveiAls:p9"
-   ]
-  },
-  {
-   "text": "Experts like his per-game value. Josh sees a possible top 50 player per game, worth about 20 USD on a per-game basis, and another expert expects him to beat his ADP per game.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p38",
-    "ahNxsoU8Hx4:p40",
-    "Q6YlQDvD-aY:p77"
-   ]
-  },
-  {
-   "text": "Experts still pass on him because of his age, the Achilles, possible compensation injuries and missed time. One ranks him Tier 7 among point guards, and in recent mocks experts skipped him even where he was a real option.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "7BllEsdNLoM:p37",
-    "BjXP9JODDSg:p31",
-    "Q6YlQDvD-aY:p77"
-   ]
-  },
-  {
-   "text": "Teammates who finish poorly (Camara, Clingan, Avdija) may lower how many of the Portland guards' passes become assists.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite free throw shooter on solid volume and clearly lifts a team's FT%.",
+   "text": "Tore his Achilles in April 2025.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "stats"
+    "8paKnhgNbLg:p7"
    ]
   },
   {
-   "text": "His FG% is low for a guard, so a punt FG% team loses little with him.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "At age 36 and after an Achilles tear, age-related decline and missed time are the main risks. Re-injury is a smaller worry.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "stats"
+    "bd8GYKFOe8A:p19",
+    "8paKnhgNbLg:p7",
+    "7BllEsdNLoM:p37",
+    "BjXP9JODDSg:p30"
    ]
   },
   {
-   "text": "He is a very good shooter when he plays off the ball.",
+   "text": "A very good shooter when playing off the ball.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
@@ -189,13 +192,21 @@
    ]
   },
   {
-   "text": "He carries injury risk: a torn Achilles at an older age, plus concern about compensation injuries.",
-   "kind": "verdict",
-   "date": "2026-09-30",
+   "text": "An elite FT% shooter on real volume (about 92%). FT% is his clearest category edge.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p30",
-    "7BllEsdNLoM:p37"
+    "stats"
+   ]
+  },
+  {
+   "text": "FG% is his weak category for a guard (about 44% on 15 attempts per game), so he fits a punt FG% build.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -203,7 +214,7 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "about 92% FT on solid volume",
+   "detail": "About 92% FT on 5 to 6 attempts per game",
    "until": "",
    "sources": [
     "stats"
@@ -213,7 +224,7 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "about 43.7% FG projected",
+   "detail": "About 44% FG on 15 attempts per game",
    "until": "",
    "sources": [
     "stats"
@@ -223,137 +234,138 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "36 years old, coming off a torn Achilles",
+   "detail": "Age 36, coming back from an Achilles tear",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p37",
-    "80kfLVnFQ_s:p21",
-    "YJk7ZFKFqnI:p6",
-    "ahNxsoU8Hx4:p40"
+    "bd8GYKFOe8A:p19",
+    "8paKnhgNbLg:p7",
+    "7BllEsdNLoM:p37"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "torn Achilles",
+   "detail": "Torn Achilles in April 2025",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p5",
+    "8paKnhgNbLg:p7",
     "LM0cRCGoAUQ:t1"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage competition",
+   "name": "back-to-back risk",
    "channel": "current",
-   "detail": "Morant, Holiday, Henderson, Avdija and Sharpe",
+   "detail": "Expected to sit back-to-backs, mostly early in the season",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:t9",
-    "Rqb5GdrSweY:t6",
-    "80kfLVnFQ_s:t0",
-    "bHA-JoW3reE:p5"
+    "8paKnhgNbLg:p5",
+    "gf_6GveiAls:p8"
    ],
    "new_meaning": ""
   },
   {
-   "name": "role down",
+   "name": "expert target",
    "channel": "current",
-   "detail": "value down with Morant arriving; projected as a low-minute starter",
+   "detail": "Experts see top 50 with top 30 to 35 upside; market ranks are 63 (Yahoo) and 70 (ESPN)",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p5",
-    "YJk7ZFKFqnI:p6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "minutes limit",
-   "channel": "current",
-   "detail": "expected about 30 to 31 minutes",
-   "until": "",
-   "sources": [
-    "YJk7ZFKFqnI:p6",
-    "ahNxsoU8Hx4:p40"
+    "8paKnhgNbLg:p4",
+    "DzQXaC2rsac:p7",
+    "OsbUAkSeVB4:p13"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "expected to beat his ADP per game",
+   "detail": "Expected to beat his ADP per game",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p40",
-    "_vbAP5y182A:p38"
+    "w66x_I_MaQ8:p27"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Yahoo value 16 USD vs ESPN value 6 USD",
+   "detail": "Shares the ball with Morant, Holiday, Henderson and Avdija",
    "until": "",
    "sources": [
-    "stats"
+    "sTtFUy7IoJI:t9",
+    "80kfLVnFQ_s:p21",
+    "Rqb5GdrSweY:t6"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bad playoff schedule",
+   "name": "role down",
    "channel": "current",
-   "detail": "three back-to-backs in the fantasy playoffs",
+   "detail": "About 30 to 31 minutes expected, below his 36 in 2024-25",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p9",
-    "gf_6GveiAls:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "new coach",
-   "channel": "current",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:t6"
+    "YJk7ZFKFqnI:p6",
+    "bHA-JoW3reE:p5"
    ],
    "new_meaning": ""
   },
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "Morant, Lillard, Holiday, Avdija and Henderson share playmaking",
+   "detail": "Several on-ball guards share playmaking in Portland",
    "until": "",
    "sources": [
-    "ME-r173X5b0:t3"
+    "ME-r173X5b0:t3",
+    "sTtFUy7IoJI:t9"
    ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "minutes and usage expected to swing game to game",
+   "detail": "First-time coach may mix lineups; minutes and usage expected to swing",
    "until": "",
    "sources": [
+    "8paKnhgNbLg:t1",
     "YJk7ZFKFqnI:t5"
    ],
    "new_meaning": ""
   },
   {
-   "name": "small-ball lineups",
+   "name": "new coach",
    "channel": "current",
-   "detail": "guard-heavy roster, thin at forward, undersized Lillard and Morant backcourt",
+   "detail": "First-time head coach in Portland",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:t0",
-    "bHA-JoW3reE:t2",
-    "YJk7ZFKFqnI:t0"
+    "n4KkK-OJjqA:t6",
+    "8paKnhgNbLg:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "10 games and three back-to-backs in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "8paKnhgNbLg:t3",
+    "gf_6GveiAls:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 17 USD vs ESPN value 6 USD",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The market prices him cheap: 3.8 USD average cost on Yahoo, 6.2 USD on ESPN, ranks 67 and 70, and he was not drafted in our league last season. Experts value his per-game line at about 20 USD, so in our 144-player auction he is a strong value bid at 5 to 10 USD, mainly for FT%, threes and assists. He fits punt FG% builds best. Early in the season, check whether he really plays 30 or more minutes, how much usage he keeps next to Morant, and whether he plays back-to-backs, because Portland has three back-to-backs in our playoff weeks.",
+ "note": "Lillard's market prices are low: Yahoo rank 63 at a 3.5 USD average cost and ESPN rank 70 at 6.6 USD. The newest expert calls put him in the top 50 with top 30 upside, so he is a strong value target in the 10 to 17 USD range. His best fit is a punt FG% build that wants FT%, threes and assists from a guard. In the first weeks, check that he gets about 30 minutes as a starter, whether he sits back-to-backs and how much of the ball he gets next to Morant and Henderson. Also note that Portland has a weak 10-game playoff schedule, which makes him a possible sell before the deadline.",
  "rejected": []
 }

@@ -1,0 +1,564 @@
+{
+ "video": {
+  "id": "MRzebgip23Y",
+  "title": "Phoenix Suns Fantasy Basketball Preview - Fading Devin Booker?",
+  "channel": "Locked On Fantasy Basketball",
+  "upload_date": "2026-10-14",
+  "duration": "30:54",
+  "auto_captions": true
+ },
+ "prompt_version": 3,
+ "prompt_sha": "8e1c9ae26d80",
+ "extracted_at": "2026-10-16T08:38:48+00:00",
+ "llm": {
+  "model": "claude-opus-5-5",
+  "effort": "medium",
+  "cost_usd_list": 0.4517898,
+  "duration_ms": 163891,
+  "turns": 4,
+  "denied": 0
+ },
+ "summary": "Josh Lloyd previews the Phoenix Suns for fantasy basketball. The big question is center: Mark Williams tore his labrum and will miss most of the season, so Oso Ighodaro and Khaman Maluach are competing for the job. His projected starters are Jalen Green, Devin Booker, Dillon Brooks, Miles Bridges and Ighodaro, with Green playing point guard in preseason. Booker is his biggest fade at his ADP of about 24 to 25, because his shooting has slipped and he made fewer plays last season. He sees no clear target on the team. Maluach is his late-round swing, and Collin Gillespie is a stash only for stash-friendly formats. He says Dillon Brooks should not be drafted in standard leagues. Phoenix has the best fantasy schedule in the league and the fewest back-to-backs.",
+ "rules": [
+  {
+   "text": "For elite free throw shooters, a small drop in FT% (89 to 87) takes away a lot of the extra value their profile depends on.",
+   "ts": "4:25",
+   "quote": "when everything is based on that 89 in the extra value you get and it moves to 87",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 273
+  },
+  {
+   "text": "Games played cannot be predicted, so judge players on their per-game profile and role.",
+   "ts": "6:41",
+   "quote": "Games played are impossible to predict. So what do we look at with him?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 413
+  },
+  {
+   "text": "Find out how a breakout happened. Big numbers that came from teammate injuries and unusually high usage tend to fade when those players return.",
+   "ts": "13:20",
+   "quote": "But the reason again this is where understanding how things happen is important. How did he do this?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 814
+  },
+  {
+   "text": "Around round 10 you are in flyer territory, so take upside players there and don't worry much about exact rankings.",
+   "ts": "17:49",
+   "quote": "if you're in round 10 and you're in a flyer zone, have a crack, man",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1084
+  },
+  {
+   "text": "Hold a late-round flyer for 2 to 3 weeks. Drop him early only if his minutes collapse or someone passes him in the rotation.",
+   "ts": "18:56",
+   "quote": "weeks unless I see him playing 10 minutes and Dwreath making the roster and getting ahead of him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1136
+  },
+  {
+   "text": "Non-shooting specialists hitting around 45% from three should be treated as unsustainable. Sell high, because those numbers almost always fall off.",
+   "ts": "22:19",
+   "quote": "And when we talk buy lows, sell highs, unsustainability. When we see guys that aren't Luke Canon",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1357
+  },
+  {
+   "text": "Nine-cat per-game rankings can inflate low-usage players. Be careful about trusting those ranks.",
+   "ts": "22:52",
+   "quote": "He's also a victim of the nine cat fluffing. He was 90th in nine cat numbers",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1391
+  },
+  {
+   "text": "Separate late-round swings, who can win a role on merit, from stashes, who need injuries to have value. Stashes belong in stash-friendly formats: games caps, weekly leagues, deep benches, best ball and draft-only leagues.",
+   "ts": "27:59",
+   "quote": "So stashy formats, games caps, weekly leagues, deep benches, best balls, draft onlyies.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1700
+  },
+  {
+   "text": "The speaker recommends a fantasy regular season end date of March 28 for schedule analysis. Back-to-back counts also matter.",
+   "ts": "29:36",
+   "quote": "If you use my recommended end date of March 28th, it's the full Moses Malone, 444.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1786
+  }
+ ],
+ "player_notes": [
+  {
+   "player": "Devin Booker",
+   "said_as": "Deon Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Booker was a big disappointment last season. The speaker had him as an early second-rounder, but he finished 43rd in category leagues and 33rd in points leagues.",
+   "ts": "3:49",
+   "quote": "I had him as a early second round player and he was nowhere near that. It was a big miss.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 229
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Booker",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Booker is an elite free throw shooter on more than six attempts a game, but he slipped from 89% to 87% last season. His steals (0.8) are terrible and his FG% fell to 45.6.",
+   "ts": "3:49",
+   "quote": "point8 steals is terrible. His field goals went down to 45.6.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 248
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "His assists fell from about 7 to 6 because he played off the ball next to Collin Gillespie. His three-point volume dropped under two per game at 33%. If he gets back to 2.4 threes at 35%, he could be roughly a 28th to 30th ranked player.",
+   "ts": "4:59",
+   "quote": "can he just go from 1.9 threes to 2.4 and hit 35 instead of 33?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Booker is his biggest fade on the team. His ADP is 25, his Yahoo rank is 24, and his ESPN ADP is 23. The speaker would only take him in round three, not in round two or early round three in category leagues. He would take him around picks 35 to 38.",
+   "ts": "5:34",
+   "quote": "But I'm not going back into round two for him and I'm not going into early round three",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 351
+  },
+  {
+   "player": "Devin Booker",
+   "said_as": "Deon Booker",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Booker is expected to be the best fantasy player on the Suns by a wide margin. The team may play him off the ball more.",
+   "ts": "3:16",
+   "quote": "I am confident that Deon Booker is going to be the best",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 220
+  },
+  {
+   "player": "Jalen Green",
+   "said_as": "Jaylen Green",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Green has been playing point guard in preseason. The speaker thinks it's a strange choice because Green lacks vision and passing skills.",
+   "ts": "2:39",
+   "quote": "One of the other rotation questions I think that we can have is Jaylen Green at point guard.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 159
+  },
+  {
+   "player": "Jalen Green",
+   "said_as": "Jaylen Green",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Green's game is empty: bad FG%, poor FT%, no steals, no blocks and poor rebounding. He can score in the high 20s, though, and that is hard to find.",
+   "ts": "6:41",
+   "quote": "He's a bad field goal percentage, pretty bad free throw percentage, no steals, no blocks, poor rebounding player",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 421
+  },
+  {
+   "player": "Jalen Green",
+   "said_as": "Jaylen Gray",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Last season he ranked 164th in category leagues and 118th in points leagues, playing 32 games at 26 minutes because of hamstring injuries. His Yahoo ADP is 102. The speaker would take him in the top 100 in points leagues. In category leagues he fits around 100 to 110 if he reaches about 21 points and 4 assists.",
+   "ts": "7:20",
+   "quote": "Would I take him in the top 100 in a points league? Yeah, just because I think he's playing",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 447
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Bridges finished 107th in category leagues and 94th in points leagues last season. His ADP is about 100, but he goes around 120 to 130 in mock drafts. The speaker projects him around 120, which he thinks is about right.",
+   "ts": "11:33",
+   "quote": "I actually have him projected around that 120 mark.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 709
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Bridges doesn't play well when he isn't the number one option. He has lost athleticism and no longer gets steals or blocks. Last season he averaged 17, 6 and 3 with 0.6 steals and 0.4 blocks.",
+   "ts": "12:07",
+   "quote": "He's lost any ability to get steals and blocks. His rebounding numbers are okay. They're not great.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 741
+  },
+  {
+   "player": "Miles Bridges",
+   "said_as": "Miles Bridges",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "His usage is expected to drop, and he had only 20% usage in preseason. He sprained his ankle in preseason but seems okay.",
+   "ts": "29:02",
+   "quote": "Miles Bridges has hurt his ankle. It seems like he is okay",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1759
+  },
+  {
+   "player": "Dillon Brooks",
+   "said_as": "Dylan Brooks",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Brooks finished 158th in category leagues and 110th in points leagues. He averaged 20 points on 29% usage, boosted by injuries and hot shooting, and both faded as players returned. His Yahoo ADP is 114. The speaker would not draft him in standard formats and sees him closer to 200 than 100.",
+   "ts": "14:26",
+   "quote": "I would not be touching Dylan Brooks in a standard format. To me, someone may be closer to 200",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 886
+  },
+  {
+   "player": "Dillon Brooks",
+   "said_as": "Dylan Brooks",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Brooks is a good defender but doesn't produce many defensive stats. He averages under two assists and about one steal a game.",
+   "ts": "13:52",
+   "quote": "for a guy that's as good of a defender as he is, he's not a big defensive stat generator.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 841
+  },
+  {
+   "player": "Oso Ighodaro",
+   "said_as": "Osgodaro",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "The speaker projects Ighodaro as the opening night starting center, with little confidence. He doubts Ighodaro will get starter-level minutes.",
+   "ts": "3:16",
+   "quote": "I'm going with Igdaro as the opening night starter without much confidence.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 220
+  },
+  {
+   "player": "Oso Ighodaro",
+   "said_as": "Igodaro",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "He is a low-usage big. His value comes from FG% and assists, plus a few rebounds and steals; the speaker calls him a tall TJ McConnell. He shot 39.6% from the line. Across 24 starts he averaged 27 minutes, 8.6 rebounds and 3 assists on 67% shooting.",
+   "ts": "16:08",
+   "quote": "his appeal is an incredibly high field goal percentage and assist player. That's like tall TJ McConnell",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 980
+  },
+  {
+   "player": "Oso Ighodaro",
+   "said_as": "Igodaro",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "He is a last-pick option at best and doesn't have much upside. The speaker would need to see about 29 minutes to get excited.",
+   "ts": "16:40",
+   "quote": "I'd need to see 29 minutes maybe to get really excited about it",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1000
+  },
+  {
+   "player": "Khaman Maluach",
+   "said_as": "Kaman Malawatch",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Maluach barely played as a rookie. He now has a Yahoo rank of 113 and an ADP of 118, and he goes in round 10 of mock drafts. The speaker ranks him around 130 to 155 and is fine taking him as a round 10 flyer.",
+   "ts": "17:49",
+   "quote": "He is going routinely in round 10 of my mockdrafts and I'm okay with that.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1069
+  },
+  {
+   "player": "Khaman Maluach",
+   "said_as": "Malwatch",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "He profiles as a FG%, rebounds and blocks player who can add some threes. He averaged 18 and 13 in Summer League. He has had some bad free throws.",
+   "ts": "18:19",
+   "quote": "mainly a rebounds, blocks, and some threes player. But the upside for Malwatch is way higher than it is for Igodaro.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1116
+  },
+  {
+   "player": "Khaman Maluach",
+   "said_as": "Malwatch",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Maluach is the speaker's late-round swing on the Suns. He would draft Maluach over Ighodaro because Maluach can win the starting job on merit.",
+   "ts": "28:32",
+   "quote": "Whereas Mwatch, he can just gain the starting spot in more minutes on merit.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1712
+  },
+  {
+   "player": "Collin Gillespie",
+   "said_as": "Colin Gillespie",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Gillespie is projected as the sixth man. His 120th-ranked season was driven by injuries, and he was 228th over the last 15 games. The speaker sees him only as a stash in stash-friendly formats, not a draftable player in 12-team leagues.",
+   "ts": "23:26",
+   "quote": "I don't know that he's a 12 team draftable player outside of stashy formats",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1406
+  },
+  {
+   "player": "Collin Gillespie",
+   "said_as": "Gillespie",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "He is not assertive and his shooting is up and down. He shot 40% from three for the season but only 30% over the final 15 games, and under 46% on two-pointers.",
+   "ts": "22:19",
+   "quote": "he also was at 30% over the final 15 games and 35% over the final 25 games",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1348
+  },
+  {
+   "player": "Luke Kennard",
+   "said_as": "Lukani",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Kennard is one of the best three-point shooters by percentage ever (48% last season) but takes too few, about three a game in 22 minutes. He is a three-point streamer who sometimes adds assists.",
+   "ts": "24:34",
+   "quote": "Lukani is one of the best three-point shooters percentage-wise that we've seen ever. He just does not take enough",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1489
+  },
+  {
+   "player": "Jordan Goodwin",
+   "said_as": "Jordan Goodwin",
+   "team": "PHX",
+   "horizon": "durable",
+   "text": "Goodwin is a great rebounder for a guard, with 5 rebounds and 1.5 steals in 22 minutes. Give him 25 minutes and he will have fantasy value, but he is the eighth or ninth man here.",
+   "ts": "25:42",
+   "quote": "Jordan Goodwin is one of these guys that just give him 25 minutes and you will get fantasy appeal.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1542
+  },
+  {
+   "player": "Rasheer Fleming",
+   "said_as": "Rashia Fleming",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Fleming may get minutes as Miles Bridges' backup. He is a big who rebounds and can shoot. The speaker calls him an under-the-radar player in dynasty leagues.",
+   "ts": "26:16",
+   "quote": "just one of those players in dice leagues that I think is a bit under the radar",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1592
+  },
+  {
+   "player": "Mark Williams",
+   "said_as": "Mark Williams",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Williams is out for basically the season with a torn labrum and should not be drafted. If he returns in March, it could disrupt the center situation during fantasy playoffs. The speaker thinks this season may turn him into a full-time backup.",
+   "ts": "29:02",
+   "quote": "Maybe he's back in March, but we're obviously not drafting him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1742
+  },
+  {
+   "player": "Pat Spencer",
+   "said_as": "Pat Spencer",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Spencer is on a two-way contract and stuck behind a lot of guards.",
+   "ts": "26:47",
+   "quote": "But Booker, Green, Gillespie, Canard, Goodwin, a lot of guys in front of him.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1614
+  },
+  {
+   "player": "Ryan Dunn",
+   "said_as": "Ryan Dunn",
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Dunn cannot shoot and has fallen off the fantasy radar.",
+   "ts": "27:20",
+   "quote": "Dunn seems to have completely fallen off the radar and we're not",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1632
+  }
+ ],
+ "team_notes": [
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "The center rotation is unclear. Mark Williams is out, Ighodaro and Maluach have both started in preseason, and minutes could be split.",
+   "ts": "1:36",
+   "quote": "It's the center position because Mark Williams has now suffered a torn labroom in his shoulder",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 105
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Projected starters: Jalen Green, Devin Booker, Dillon Brooks, Miles Bridges, Oso Ighodaro.",
+   "ts": "8:28",
+   "quote": "It's Green Booker Brooks Bridges. A lot of bees and also Igodaro.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 508
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Bench: Gillespie, Maluach, Kennard, Goodwin and Rasheer Fleming.",
+   "ts": "19:28",
+   "quote": "which includes Gillespie, Malwatch, Luke Canard, the Spiral, Jordan Goodwin, and I think Rashia Fleming",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1175
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "Phoenix has the best fantasy schedule in the league: 4-4-4 in the playoff weeks under both end dates, plus the fewest back-to-backs.",
+   "ts": "29:36",
+   "quote": "they have the fewest backtobacks in the entire league. It is the best schedule that exists.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1786
+  },
+  {
+   "team": "PHX",
+   "horizon": "current",
+   "text": "The speaker sees no strong fantasy target on the team, with Green in points leagues as a possible exception.",
+   "ts": "27:20",
+   "quote": "In terms of the best target on this team, I don't really think there is one.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1654
+  }
+ ],
+ "claims_to_check": [
+  {
+   "text": "Devin Booker finished 43rd in category leagues and 33rd in points leagues last season.",
+   "ts": "3:49",
+   "quote": "He ended up 43rd and 33rd in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 236
+  },
+  {
+   "text": "Booker averaged 26.4 points and 6 assists with 0.8 steals and 45.6 FG% last season.",
+   "ts": "3:49",
+   "quote": "264 and six but point8 steals is terrible. His field goals went down to 45.6.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 248
+  },
+  {
+   "text": "Booker made 1.9 threes per game at 33% last season.",
+   "ts": "4:59",
+   "quote": "can he just go from 1.9 threes to 2.4 and hit 35 instead of 33?",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 313
+  },
+  {
+   "text": "Jalen Green played 32 games after playing all 82 in two straight seasons. He averaged 18 points, 2.2 threes and 2.8 assists in 26 minutes.",
+   "ts": "6:41",
+   "quote": "Mah played 82 games in two consecutive seasons and he played 32 last season.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 413
+  },
+  {
+   "text": "Miles Bridges averaged 17 points, 6 rebounds and 3 assists with 0.6 steals and 0.4 blocks.",
+   "ts": "12:07",
+   "quote": "He averaged 17 six and three with a combined one steal and block 6 steals point4 blocks",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 763
+  },
+  {
+   "text": "Dillon Brooks averaged 20 points on 29% usage last season.",
+   "ts": "14:26",
+   "quote": "He averaged 20 points a game on 29 usage",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 870
+  },
+  {
+   "text": "Ighodaro shot 39.6% from the line and averaged 8.6 rebounds in 24 starts.",
+   "ts": "16:08",
+   "quote": "Unfortunately, he shot 39.6% from the free throw line, which is disastrous.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 972
+  },
+  {
+   "text": "Gillespie shot 40% from three and ranked 120th in category leagues and 125th in points leagues.",
+   "ts": "22:19",
+   "quote": "He was 120th in category leagues and 125th in points leagues.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1322
+  },
+  {
+   "text": "Luke Kennard shot 48% from three on about three attempts in 22 minutes.",
+   "ts": "25:10",
+   "quote": "he shot 48% on threes, but he doesn't take any. Three attempts per game in 22 minutes.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1526
+  },
+  {
+   "text": "Jordan Goodwin averaged 5 rebounds and 1.5 steals in 22 minutes.",
+   "ts": "25:42",
+   "quote": "He averaged five rebounds a game in 22 minutes with 1.5 steals.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1558
+  },
+  {
+   "text": "Phoenix has the fewest back-to-backs in the league.",
+   "ts": "29:36",
+   "quote": "they have the fewest backtobacks in the entire league.",
+   "verified": true,
+   "match_ratio": 1.0,
+   "seconds": 1786
+  }
+ ]
+}

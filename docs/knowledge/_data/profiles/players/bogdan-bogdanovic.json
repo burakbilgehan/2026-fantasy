@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "cb904938bdd0",
+ "input_sha": "a4aa51da49cd",
  "note_count": 3,
- "built_at": "2026-10-11T09:13:25+00:00",
+ "built_at": "2026-10-16T08:45:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1945002,
-  "duration_ms": 39570,
-  "turns": 3,
+  "cost_usd_list": 0.1542622,
+  "duration_ms": 37411,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He signed with Houston on a minimum contract this offseason.",
+   "text": "He signed with Houston on a minimum contract.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "text": "The experts think he might be washed. One of them still sees him as an upgrade over Aaron Holiday.",
+   "text": "Experts, Lloyd among them, think he might be washed.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -41,18 +41,16 @@
    ]
   },
   {
-   "text": "Houston's guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart and Reed Sheppard. He is part of a full bench with Smart, Sheppard and Steven Adams.",
-   "kind": "fact",
-   "date": "2026-09-15",
+   "text": "He is seen as an upgrade over Aaron Holiday on the Houston bench.",
+   "kind": "verdict",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:t2",
-    "xHRF06_E9HE:t5",
-    "KPdD91Oo8-U:t0"
+    "yoCTTlJ_tPQ:p8"
    ]
   },
   {
-   "text": "He will probably get the last rotation spot, so his minutes will be small.",
+   "text": "He will probably get the last spot in the rotation.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -61,31 +59,33 @@
    ]
   },
   {
-   "text": "Coach Ime Udoka is defense-first and plays his starters very heavy minutes. This leaves few minutes for a bench guard like him.",
+   "text": "Houston's guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart and Reed Sheppard.",
+   "kind": "fact",
+   "date": "2026-09-15",
+   "until": "",
+   "sources": [
+    "gJUBAJaHzlU:t2",
+    "KPdD91Oo8-U:t0",
+    "xHRF06_E9HE:t5"
+   ]
+  },
+  {
+   "text": "Coach Ime Udoka plays his starters very heavy minutes.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "aLP080hxizA:t0",
-    "7BllEsdNLoM:t9",
-    "yoCTTlJ_tPQ:t2"
+    "7BllEsdNLoM:t9"
    ]
   },
   {
-   "text": "With our March 28 end date, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over three weeks.",
+   "text": "With our March 28 end date, Houston plays 3, 3 and 4 games in fantasy playoff weeks 19 to 21, 10 games in total. The team has only 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "aLP080hxizA:t4"
-   ]
-  },
-  {
-   "text": "Houston has only 14 back-to-backs this season.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
+    "aLP080hxizA:t4",
     "aLP080hxizA:t5"
    ]
   }
@@ -106,11 +106,12 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded Houston guard rotation. Projected as the last rotation player.",
+   "detail": "Crowded Houston guard rotation with VanVleet, Thompson, Smart and Sheppard; likely the last rotation spot",
    "until": "",
    "sources": [
     "aLP080hxizA:p31",
     "gJUBAJaHzlU:t2",
+    "KPdD91Oo8-U:t0",
     "xHRF06_E9HE:t5"
    ],
    "new_meaning": ""
@@ -118,7 +119,7 @@
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Experts think he might be washed",
+   "detail": "Experts say he might be washed",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p22",
@@ -129,7 +130,7 @@
   {
    "name": "heavy starter minutes",
    "channel": "durable",
-   "detail": "Udoka plays his starters very heavy minutes, which limits bench roles",
+   "detail": "Udoka plays his starters heavy minutes, so a bench guard gets little",
    "until": "",
    "sources": [
     "aLP080hxizA:t0",
@@ -138,20 +139,9 @@
    "new_meaning": ""
   },
   {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Udoka gives little room for error to players who struggle on defense",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:t2",
-    "aLP080hxizA:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with the March 28 end",
    "until": "",
    "sources": [
     "aLP080hxizA:t4"
@@ -161,24 +151,14 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "14 back-to-backs",
+   "detail": "Houston has 14 back-to-backs",
    "until": "",
    "sources": [
     "aLP080hxizA:t5"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected 54 wins",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:t3"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Bogdanović should not be drafted in our league. Yahoo ranks him 408th and ESPN 277th, both sites value him at 0 USD, and only 144 players get drafted. He projects for about 18 minutes as Houston's last rotation player under a coach who gives his starters heavy minutes. His projections help only in FT% on tiny volume and in turnovers, and they are low in points, rebounds, steals and blocks. Watch him on waivers only if Houston's guards get hurt early in the season.",
+ "note": "Both sites give him 0 USD of value and rank him 408 (Yahoo) and 277 (ESPN), far outside the 144 players we draft, so do not draft him. He projects for about 18 minutes as the last man in a deep Houston guard group under a coach who plays his starters heavy minutes. His only categories that are not negative are FT% and low turnovers, and they come on tiny volume. Early in the season, check only whether a guard injury gives him real minutes and whether his shooting has recovered from 38.8% FG last season.",
  "rejected": []
 }

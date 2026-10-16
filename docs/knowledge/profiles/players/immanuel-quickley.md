@@ -4,53 +4,52 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 65 | 31.4 | 43.8 (13.3) | 83.7 (3.3) | 2.6 | 17.0 | 4.0 | 5.8 | 1.1 | 0.1 | 1.5 |
-| 2026-27 proj, Yahoo | 71 | - | 43.2 (12.1) | 84.1 (2.7) | 2.5 | 15.3 | 3.9 | 5.7 | 1.1 | 0.1 | 1.5 |
+| 2026-27 proj, Yahoo | 71 | - | 43.2 (12.7) | 83.8 (2.9) | 2.6 | 16.0 | 4.1 | 5.9 | 1.1 | 0.1 | 1.6 |
 | 2025-26 | 70 | 32.0 | 44.3 (12.9) | 82.1 (3.0) | 2.5 | 16.4 | 4.0 | 5.9 | 1.3 | 0.1 | 1.5 |
 | 2024-25 | 33 | 27.7 | 42.0 (13.3) | 86.7 (3.9) | 2.6 | 17.1 | 3.5 | 5.8 | 0.7 | 0.1 | 1.8 |
 | 2023-24 | 68 | 29.2 | 43.4 (13.1) | 85.3 (3.6) | 2.5 | 17.0 | 3.8 | 4.9 | 0.7 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 9 | 1.4 | 87 | 3 | 2.4 | 90 | 13 |
+| 2026-27 | 8 | 1.4 | 88 | 3 | 2.5 | 90 | 13 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 43.5% | -1.0 | -0.9 | - |
-| FT% | 83.9% | +0.5 | +0.2 | - |
-| 3PM | 2.6 | +1.2 | +0.9 | - |
-| PTS | 16.2 | +0.4 | +0.3 | - |
-| REB | 3.9 | -0.5 | +0.1 | - |
-| AST | 5.7 | +1.3 | +1.0 | - |
-| STL | 1.1 | +0.5 | +0.2 | - |
+| FT% | 83.8% | +0.5 | +0.2 | - |
+| 3PM | 2.6 | +1.3 | +0.9 | - |
+| PTS | 16.5 | +0.4 | +0.3 | - |
+| REB | 4.0 | -0.5 | +0.1 | - |
+| AST | 5.9 | +1.4 | +1.0 | - |
+| STL | 1.1 | +0.6 | +0.3 | - |
 | BLK | 0.1 | -1.1 | -1.3 | weak for his position (punt fit) |
-| TO | 1.5 | +0.2 | +0.4 | - |
+| TO | 1.5 | +0.1 | +0.3 | - |
 
 </details>
 
 **Current**
-- Kawhi takes usage away from Quickley. He should take fewer shots but still have the ball a lot. Without Kawhi he would be a tier higher. (verdict, 2026-10-08; [06-30](https://youtu.be/JMSLg6yz-M0?t=308), [09-10](https://youtu.be/W-R1dzem32s?t=1835), [10-08](https://youtu.be/6DnRWahYrFA?t=1875), [06-30](https://youtu.be/JMSLg6yz-M0?t=566))
-- Lloyd thinks he can return about 15 spots of value over his draft position, even with Kawhi there. This call is based on points-league ranks. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1875), [09-21](https://youtu.be/egRrai3Ax38?t=1949))
-- He was 58th per game last season. His ESPN ADP is 114, which is bench range in a standard ESPN league. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1949))
+- His draft position varies a lot. Experts have seen him go anywhere from pick 73 to the 90s, and his ESPN ADP was 114. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1043), [10-11](https://youtu.be/uI6umXsE7Vk?t=1083), [10-13](https://youtu.be/EogBYa24Gto?t=1158), [09-21](https://youtu.be/egRrai3Ax38?t=1949))
+- Experts call him good value around pick 96 and early at 73. Lloyd thinks you can gain about 15 spots of value on him. (verdict, 2026-10-15; [10-13](https://youtu.be/EogBYa24Gto?t=1158), [10-11](https://youtu.be/uI6umXsE7Vk?t=1083), [10-15](https://youtu.be/bd8GYKFOe8A?t=1043), [10-08](https://youtu.be/6DnRWahYrFA?t=1875))
+- Kawhi Leonard's arrival is expected to cost Quickley usage and shots. He should still have the ball a lot. Without Kawhi he would rank a tier higher. (verdict, 2026-10-08; [06-30](https://youtu.be/JMSLg6yz-M0?t=308), [09-10](https://youtu.be/W-R1dzem32s?t=1835), [10-08](https://youtu.be/6DnRWahYrFA?t=1875))
 - Toronto traded for Kawhi Leonard, and Brandon Ingram left in the deal. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- Tier 7 point guard in both formats. Solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
-- Quickley is a projected starter. He is also in the expected closing five with Barrett, Kawhi, Barnes and Murray-Boyles. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Sean expects the highest-volume three-point season of his career, mostly playing off the ball. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
-- His pull-up and transition three-point shooting was poor last season. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
-- Those pull-up and transition threes need to get back to his career averages. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
-- When Kawhi misses time, he should run more on-ball pick and roll. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
-- He stayed healthier last season than in earlier years. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=521))
-- Sean predicts 52 wins for Toronto, or 56 to 57 if Kawhi plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- He is a tier 7 point guard: solid, with limited upside. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2098))
+- Quickley is a projected starter for Toronto and part of the expected closing five with Barrett, Leonard and Barnes. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Sean expects the highest-volume three-point season of his career, with Quickley playing mostly off the ball. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
+- His pull-up and transition three-point shooting needs to return to his career averages for him to hit his value. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=563))
+- When Kawhi misses games, Quickley should run more on-ball pick and roll. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=600))
+- Toronto is projected to win about 52 games, or 56 to 57 if Kawhi plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- Toronto is not deep. After a solid top seven, the next players are Shead, Graves, Anderson, Elijah Martin and Trayce Jackson-Davis. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004))
 
 **Durable**
-- He blocks very few shots, even for a guard. A punt BLK team loses little with him. (fact, 2026-10-11; stats)
-- He is not a classic point guard or a perfect on-ball creator. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
+- He blocks almost no shots, even for a guard. (fact, 2026-10-16; stats)
+- He is not a classic point guard and not a perfect on-ball creator. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=617))
 
 **Tags**
-- Current: `usage competition` (Kawhi Leonard takes shots and touches from him), `role down` (fewer shots and more off-ball play next to Kawhi), `sleeper` (Lloyd sees about 15 spots of value over his ESPN points rank and ADP), `winning team` (Sean predicts 52 wins)
+- Current: `usage competition` (Shares the ball with Kawhi Leonard, Scottie Barnes and RJ Barrett), `role down` (Expected to take fewer shots after Kawhi Leonard's arrival), `position change` (Expected to play mostly off the ball with high three-point volume), `sleeper` (ADP ranges into the 90s and beyond; experts see value there), `expert target` (Lloyd sees about 15 spots of value over his market rank), `winning team` (About 52 projected wins), `thin rotation` (Solid top seven, little depth behind it)
 - Durable: `punt BLK fit` (0.1 blocks per game, weak even for a guard)
 
-**Note.** He goes cheap: 1.4 USD average cost on Yahoo and 2.1 USD on ESPN, with ranks of 87 and 90. Our league paid 13 USD for him last season, so he looks like a value pick at single digits (Yahoo value 9, ESPN 3). He fits punt BLK builds best and helps most in threes (2.6) and assists (5.7), while his 43.5% FG% is a small drag. Early in the season, check his shot volume next to Kawhi, whether his three-point volume rises as Sean expects, and whether his pull-up threes get back to his career level.
+**Note.** Quickley is a threes and assists guard (z +1.3 and +1.4 vs the pool) with a below-average FG% (43.5%) and almost no blocks. That makes him a natural fit for punt BLK builds. Both sites rank him around 88 to 90, but they price him low (Yahoo value 8 USD, ESPN 3 USD, average costs under 3 USD). Our league paid 13 USD last season, so a bid of about 5 to 10 USD looks fair. Early in the season, check his shot volume next to Kawhi, whether his three-point attempts really go up, and whether his pull-up shooting recovers.
 
-<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -150,7 +150,7 @@ flowchart LR
       <tr><td>Vegas</td><td>Team win totals</td><td><span class="pill p-auto">script</span> <code>roles/vegas.py</code></td><td>1 day</td><td>{{vegas}}</td><td>LLM input</td></tr>
       <tr><td>NBA.com</td><td>Rosters: the only team source</td><td><span class="pill p-auto">script</span> <code>nba_index.py</code></td><td>1 day</td><td>{{nba_rosters}}</td><td>decides who is on a team</td></tr>
       <tr><td>stats.nba.com</td><td>4 seasons of totals, game logs, usage</td><td><span class="pill p-auto">script</span> <code>nba_stats.py</code>, <code>nba_gamelog.py</code></td><td>past: once; current: 6 hours</td><td>{{game_logs_current}}</td><td>stat model, splits, LLM tables</td></tr>
-      <tr><td>ESPN rosters</td><td>Birth dates, NBA experience</td><td><span class="pill p-auto">script</span> <code>birthdates.py</code></td><td>7 days</td><td>{{birthdates}}</td><td>age curve, LLM tables</td></tr>
+      <tr><td>ESPN rosters</td><td>Birth dates, NBA experience</td><td><span class="pill p-auto">script</span> <code>birthdates.py</code></td><td>once per player (checked daily)</td><td>{{birthdates}}</td><td>age curve, LLM tables</td></tr>
       <tr><td>Locked On videos</td><td>Expert notes (96 videos)</td><td><span class="pill p-llm">LLM</span> <code>make expert-digest</code></td><td>when you add videos</td><td>{{videos}}</td><td>profiles, articles, LLM input</td></tr>
     </table>
   </div>

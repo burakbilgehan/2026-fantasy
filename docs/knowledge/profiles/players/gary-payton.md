@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 266 | 0 | 0.0 | 196 | not drafted |
+| 2026-27 | 0 | - | 270 | 0 | 0.0 | 196 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,19 +29,16 @@
 </details>
 
 **Current**
-- He is not in the projected Warriors starting lineups. The projected starters are Curry, Podziemski, Lendeborg, Green and Horford or Porzingis. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=270))
-- Steve Kerr runs unpredictable rotations and often changes his starting lineup a few games after announcing it, with lots of mixing among the wings. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301))
-- The Warriors may treat this season as a gap year. They are worried about lottery odds and may rest veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- Golden State's depth is very poor and the team struggles to field a 10-man rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- The expert expects minutes to go up across the Warriors rotation because of the thin depth. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- He scores by slipping screens and cutting to the basket off Curry's gravity. He does not create his own shot. (fact, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=798), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
+- He scores by slipping screens and cutting to the basket, using the attention Steph Curry draws. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=798))
 
 **Tags**
-- Current: `thin rotation` (Warriors struggle to field 10 players; Butler and Moody out early), `unsettled rotation` (Kerr changes lineups often and mixes the wings), `tank risk` (possible gap year; team may rest veterans)
-- Durable: `needs playmaker` (scores off cuts and screen slips created by Curry's gravity)
+- Current: `thin rotation` (Warriors struggle to field a 10-man rotation)
+- Durable: `needs playmaker` (Scores off screens and cuts created by Curry's gravity)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 266, ESPN 196), and nobody drafted him in our league last season. In about 15 to 16 minutes a game he gives an efficient but low-volume FG% (58% on 5 to 6 attempts) and few turnovers, and very little anywhere else, so he is not one of our 144 auction players. Early in the season, check whether the thin Warriors depth and the absences of Butler and Moody push his minutes clearly above 16. Only then is he worth a waiver look.
+**Note.** At Yahoo rank 270 and ESPN rank 196, with a 0 USD value on both sites, he will not be one of the 144 players drafted on 2026-10-18. Do not bid on him. In about 15 minutes a game he shoots 58% on roughly 5 attempts with few turnovers, but he gives little in threes, points, assists or blocks, so he is waiver depth at most. Early in the season, check whether the Warriors' thin rotation gives him more minutes. If it does, he becomes a short-term FG% and low TO streamer.
 
-<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

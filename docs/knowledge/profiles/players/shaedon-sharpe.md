@@ -11,14 +11,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 218 | 0 | 0.0 | 331 | 4 |
+| 2026-27 | 0 | - | 228 | 0 | 0.0 | 331 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.0% | -0.7 | -0.5 | - |
-| FT% | 78.8% | -0.1 | -0.6 | - |
+| FG% | 45.0% | -0.8 | -0.5 | - |
+| FT% | 78.8% | -0.1 | -0.5 | - |
 | 3PM | 1.8 | +0.3 | -0.1 | - |
 | PTS | 17.0 | +0.5 | +0.4 | - |
 | REB | 3.7 | -0.6 | -0.1 | - |
@@ -30,22 +30,19 @@
 </details>
 
 **Current**
-- Portland's backcourt is crowded. Damian Lillard, Ja Morant, Jrue Holiday, Scoot Henderson and Deni Avdija all compete for on-ball minutes, and Sharpe is listed off the bench. (fact, 2026-10-09; [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
-- Portland has a new head coach, and minutes and usage are expected to swing from game to game across the rotation. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- He has a meniscus injury in his knee and is expected to be out for basically the whole season. Yahoo lists him as out with a knee injury. (fact, 2026-08-26, until most of the 2026-27 season; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), stats)
-- Josh says there is almost no chance he starts. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=495))
-- It is unclear whether his scoring from last season, which came in a high-volume bench role, was empty or whether he can keep that volume. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1709))
-- His jump in steals came from a 71% deflection-to-steal conversion. The speaker calls this luck, so his steals should come back down. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1307))
-- His potential assists converted at only 47.2%. The speaker blames teammates who finish poorly (Camara, Clingan, Avdija) more than luck. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1892), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- His value has cratered in the crowded Portland backcourt, and he cannot be drafted as the roster stands. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=1011))
+- He had a torn meniscus repaired and is expected to be out until around March. Yahoo lists him as out with a knee injury. (fact, 2026-10-15, until around March; [10-15](https://youtu.be/8paKnhgNbLg?t=1780), [08-26](https://youtu.be/sTtFUy7IoJI?t=2137), stats)
+- He is not in Portland's projected starting five of Scoot Henderson, Damian Lillard, Toumani Camara, Deni Avdija and Donovan Clingan. The backcourt is crowded with Lillard, Ja Morant, Jrue Holiday and Henderson. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294), [10-15](https://youtu.be/8paKnhgNbLg?t=329), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
+- Portland plays 10 games in our fantasy playoff weeks, which is a weak count, and has three back-to-backs in those weeks. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Experts disagree on drafting him. One will not draft him because he is out for most of the year. Another mock drafter took him at pick 77, ahead of his ADP of 99. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1146), [10-13](https://youtu.be/EogBYa24Gto?t=856))
+- His jump in steals came from a 71% deflection-to-steal conversion, which the expert calls luck. Expect his steals to come down. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1307))
 
 **Durable**
-- His injury history includes a knee meniscus injury that is expected to cost most of the 2026-27 season. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=2137))
+- He is not a good fantasy player. He needs a lot of minutes and usage to produce. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1788))
 
 **Tags**
-- Current: `injured now` (Knee meniscus injury, Yahoo status O, expected out for basically the whole season; until most of the 2026-27 season), `usage competition` (Shares the ball with Lillard, Morant, Holiday, Henderson and Avdija), `minutes competition` (Crowded guard group, listed off the bench), `role down` (Almost no chance to start after Portland added Morant, Lillard and Holiday), `regression risk` (Steals rose on a lucky 71% deflection-to-steal conversion), `new coach`, `unsettled rotation` (Minutes and usage expected to swing from game to game)
-- Durable: none
+- Current: `injured now` (Torn meniscus repaired, Yahoo status O (Knee); until around March), `usage competition` (Crowded backcourt with Lillard, Morant, Holiday and Henderson), `regression risk` (Steals jump came from a lucky 71% deflection-to-steal conversion), `bad playoff schedule` (10 games in weeks 19 to 21, three playoff back-to-backs), `new coach` (First-time head coach may mix up the lineup)
+- Durable: `usage dependent` (Needs a lot of minutes and usage to produce)
 
-**Note.** Both sites give him a value of 0 USD (Yahoo rank 218, ESPN rank 331). Projections cover only 27 to 30 games, which fits a meniscus injury that is expected to cost most of the season. Do not spend a draft pick on him, not even the 4 USD he cost in our league last season. Even when healthy he is a bench scorer in a crowded backcourt, and his categories show no strength. Watch for a return timeline and leave him on waivers until then. Two September notes call him a starter and a round-nine flyer, but they do not fit the facts we have. One says he played 19 minutes last season, while the table shows 29.4. The other names Danny Wolf and Mo Wagner as his minutes rivals. Neither mentions the injury, so they were not used.
+**Note.** Yahoo and ESPN both value him at 0 USD (Yahoo rank 228, ESPN rank 331), and the projections give him only 27 to 30 games. He cost 4 USD in our league last season. He is out until around March after meniscus surgery, he has no starting job in a crowded backcourt, and Portland plays only 10 games in our playoff weeks, so leave him off our 144-player draft board. Check his recovery news in February and March, and treat him as a waiver option only if he comes back with real minutes before week 19.
 
-<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>13 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

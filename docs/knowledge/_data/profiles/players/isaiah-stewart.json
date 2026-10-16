@@ -8,62 +8,29 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "28a552b0beeb",
- "note_count": 9,
- "built_at": "2026-10-11T09:17:18+00:00",
+ "input_sha": "7682a7a372d7",
+ "note_count": 10,
+ "built_at": "2026-10-16T08:57:16+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1637942,
-  "duration_ms": 39663,
+  "cost_usd_list": 0.16670619999999997,
+  "duration_ms": 39190,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Stewart was traded to Memphis. He is the backup center behind Zach Edey and is projected to come off the bench.",
+   "text": "He was traded to Memphis, where he is the backup center behind Zach Edey.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p4",
     "4GDfg2n2l8o:p15",
-    "LcZcvk8s1xQ:p26",
     "p9XE5jFqhvs:p18",
-    "lp11OAEpq4Y:p30",
-    "lp11OAEpq4Y:t5"
-   ]
-  },
-  {
-   "text": "He could start or make spot starts if Zach Edey misses time. He would have fantasy value as a starter.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:p4",
-    "4GDfg2n2l8o:p15",
     "LcZcvk8s1xQ:p26",
-    "KPdD91Oo8-U:p42",
-    "lp11OAEpq4Y:p29"
-   ]
-  },
-  {
-   "text": "The expert treats him as a stash pick and insurance for Edey. He calls the Yahoo rank of 174 fair and the ESPN rank of about 146 aggressive.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
     "lp11OAEpq4Y:p30"
-   ]
-  },
-  {
-   "text": "He sprained his ankle two minutes into a preseason game. The severity is unknown. Yahoo lists him as out (ankle).",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p31",
-    "stats"
    ]
   },
   {
@@ -76,19 +43,53 @@
    ]
   },
   {
-   "text": "Memphis coach Tuomas Iisalo plays at a very high pace, uses short stints and keeps minutes down. The team runs an 11-man rotation, possibly 12.",
+   "text": "He can start when Zach Edey misses time. He would have fantasy value as a starter and could be a great late pick if Edey is out longer.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "W3THnI7wWdA:p4",
+    "4GDfg2n2l8o:p15",
+    "LcZcvk8s1xQ:p26",
+    "KPdD91Oo8-U:p42",
+    "lp11OAEpq4Y:p29"
+   ]
+  },
+  {
+   "text": "He sprained his ankle two minutes into a preseason game and is not healthy now. The severity is unknown. Yahoo lists him as out (ankle).",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p31",
+    "EogBYa24Gto:p33",
+    "stats"
+   ]
+  },
+  {
+   "text": "The experts disagree on drafting him. One calls him a late stash as insurance for Edey and finds his rankings fair on Yahoo (174) and aggressive on ESPN (146). A newer note questions drafting him at all while he is hurt.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p30",
+    "EogBYa24Gto:p33"
+   ]
+  },
+  {
+   "text": "Memphis has a crowded frontcourt and expects an 11 or 12 man rotation. Coach Tuomas Iisalo uses short stints and keeps minutes down, which limits a backup's minutes.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
+    "RyzcCGChYgs:t2",
+    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2",
-    "lp11OAEpq4Y:t0",
-    "lp11OAEpq4Y:t2"
+    "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "Memphis plays the maximum 4-4-4 schedule in our playoff weeks through March 28. It has only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Memphis has a maxed 4-4-4 schedule in our playoff weeks and only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -99,8 +100,8 @@
  ],
  "durable": [
   {
-   "text": "He is a good rim protector and a solid rebounder who can hit some threes.",
-   "kind": "verdict",
+   "text": "He is a good rim protector and a solid rebounder who has added some three-point shooting.",
+   "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
@@ -108,18 +109,19 @@
    ]
   },
   {
-   "text": "Blocks are his standout category, well above the top 250 pool.",
+   "text": "Blocks are his standout category, far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "lp11OAEpq4Y:p29"
    ]
   },
   {
-   "text": "Steals are a clear weakness, far below both the pool and his position.",
+   "text": "Steals are a clear weakness, among the lowest for his position.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -140,136 +142,137 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "About 1.6 blocks projected per game",
+   "detail": "About 1.6 blocks per game projected",
+   "until": "",
    "sources": [
     "stats",
     "lp11OAEpq4Y:p29"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt STL fit",
    "channel": "durable",
    "detail": "About 0.3 steals per game",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Repeated ankle injuries. Has not finished a season healthy in three or four years.",
+   "detail": "Repeated ankle injuries; has not finished a season healthy in three or four years",
+   "until": "",
    "sources": [
     "p9XE5jFqhvs:p17",
     "lp11OAEpq4Y:p31"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "Preseason ankle sprain, severity unknown. Yahoo status O.",
+   "detail": "Preseason ankle sprain, severity unknown; Yahoo status O",
+   "until": "",
    "sources": [
     "lp11OAEpq4Y:p31",
+    "EogBYa24Gto:p33",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "new team",
    "channel": "current",
    "detail": "Traded from Detroit to Memphis",
+   "until": "",
    "sources": [
     "W3THnI7wWdA:p4",
     "p9XE5jFqhvs:p18"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Backup center behind Zach Edey",
+   "detail": "Backup center who starts when Zach Edey is out",
+   "until": "",
    "sources": [
     "W3THnI7wWdA:p4",
     "4GDfg2n2l8o:p15",
     "LcZcvk8s1xQ:p26",
-    "KPdD91Oo8-U:p42",
-    "lp11OAEpq4Y:p30"
+    "lp11OAEpq4Y:p30",
+    "KPdD91Oo8-U:p42"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Memphis frontcourt with Edey, Boozer, Prosper and Hendricks",
    "until": "",
+   "sources": [
+    "RyzcCGChYgs:t2",
+    "lp11OAEpq4Y:t4",
+    "lp11OAEpq4Y:t5"
+   ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Ranked outside the 144 drafted players. Add if Edey misses time.",
-   "sources": [
-    "lp11OAEpq4Y:p30",
-    "KPdD91Oo8-U:p42",
-    "stats"
-   ],
+   "detail": "Watch if Edey misses time",
    "until": "",
+   "sources": [
+    "EogBYa24Gto:p33",
+    "KPdD91Oo8-U:p42"
+   ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Iisalo runs an 11 or 12 man rotation",
-   "sources": [
-    "LcZcvk8s1xQ:t2",
-    "lp11OAEpq4Y:t2"
-   ],
+   "detail": "11 or 12 man rotation expected",
    "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "low starter minutes",
-   "channel": "current",
-   "detail": "Iisalo uses short stints and keeps minutes down",
    "sources": [
-    "LcZcvk8s1xQ:t1",
-    "lp11OAEpq4Y:t0"
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t2"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "fast pace",
    "channel": "current",
    "detail": "Iisalo plays at a very high pace",
+   "until": "",
    "sources": [
     "LcZcvk8s1xQ:t1"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21 through March 28",
+   "detail": "4-4-4 in weeks 19 to 21",
+   "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Only 13 back-to-backs",
+   "detail": "13 back-to-backs",
+   "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
    ],
-   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD. His ranks (Yahoo 174, ESPN 147) put him outside the 144 players drafted in our league, and he is out now with an ankle sprain, so leave him for waivers. His value depends on Zach Edey missing time. As a starter, his blocks (about 1.6 per game) and solid FG% would help punt STL builds, and Memphis has a full 4-4-4 playoff schedule. Early in the season, check how bad the ankle is and whether Edey is healthy, and be ready to spend FAB if Stewart moves into the starting lineup.",
+ "note": "Both sites value him at 0 USD, and his ranks (Yahoo 194, ESPN 147) are outside our 144 drafted players. He is mainly a blocks source with a good FG% (about 1.6 BLK on 54% shooting projected) and fits punt STL builds, but as Edey's backup he only matters when Edey is out. Skip him in the auction or take him only as a 1 USD last pick. Early in the season, check his ankle and Edey's health, and pick him up off waivers if Edey misses time.",
  "rejected": []
 }

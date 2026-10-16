@@ -11,18 +11,18 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 38 | 37.1 | 18 | 11 | 32.7 | 49 | 44 |
+| 2026-27 | 38 | 35.3 | 18 | 11 | 31.3 | 49 | 44 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 42.1% | -1.8 | -2.1 | league outlier, weak, weak for his position (punt fit) |
-| FT% | 86.4% | +2.0 | +2.1 | - |
-| 3PM | 2.8 | +1.4 | +1.2 | - |
-| PTS | 23.4 | +1.6 | +1.5 | - |
+| FT% | 86.4% | +2.0 | +2.0 | - |
+| 3PM | 2.8 | +1.4 | +1.1 | - |
+| PTS | 23.4 | +1.6 | +1.4 | - |
 | REB | 2.8 | -1.0 | -0.7 | - |
-| AST | 10.4 | +3.8 | +3.4 | league outlier, strong |
+| AST | 10.4 | +3.8 | +3.3 | league outlier, strong |
 | STL | 1.2 | +0.7 | +0.4 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
 | TO | 4.2 | -3.5 | -3.1 | league outlier, weak, weak for his position (punt fit) |
@@ -30,32 +30,33 @@
 </details>
 
 **Current**
-- He should play about 33 to 35 minutes, around 7 more per night than last season, so he should beat last season's finish. Experts doubt he gets back to 36 minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=581), [10-06](https://youtu.be/eTsjuVu1trk?t=369), [10-06](https://youtu.be/eTsjuVu1trk?t=1877), [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [07-07](https://youtu.be/ME-r173X5b0?t=956))
-- Experts call him a bust at his Yahoo rank of 18 and do not see him as a top-24 player in category leagues. They would take him in round 3, around picks 24 to 27, or later. Range given: best case 13th, worst case 78th. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=581), [10-06](https://youtu.be/eTsjuVu1trk?t=1877), [09-19](https://youtu.be/uarqbNA2dFk?t=324), [09-17](https://youtu.be/DubdKKhMWHo?t=504), [09-15](https://youtu.be/KPdD91Oo8-U?t=582), [09-22](https://youtu.be/QbdrhJd7LiA?t=1246), [08-19](https://youtu.be/J1Eg3uaAICU?t=778))
-- Experts expect his usage to drop, because Anthony Davis and AJ Dybantsa share the ball with him. One projection is about 29% usage, and he will not get back to the 37 to 38% of his peak. Experts still expect double-digit assists. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=369), [09-17](https://youtu.be/DubdKKhMWHo?t=504), [07-23](https://youtu.be/UTE0dNIv8nY?t=1290), [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=894))
-- Josh sees good value at pick 26 in mock drafts. In those mocks Young went at pick 26 and early in round 3. (verdict, 2026-09-30; [09-24](https://youtu.be/_vbAP5y182A?t=618), [08-11](https://youtu.be/OdDkXFhoKsc?t=680), [09-30](https://youtu.be/BjXP9JODDSg?t=550), [08-24](https://youtu.be/g31YlwRe0XQ?t=614))
-- He is Washington's starting point guard and handles the ball the most. Carrington is not the starter. His role is secure. Projected starters are Young, Kyshawn George, AJ Dybantsa, Anthony Davis and Alex Sarr. (fact, 2026-09-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=854), [07-23](https://youtu.be/UTE0dNIv8nY?t=1252), [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Experts call him a bust at his Yahoo rank of 18 and ESPN rank of 14. They put him outside the top 24 for categories and see him as fair around pick 26 at best, mainly for teams that badly need assists. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=543), [10-11](https://youtu.be/uI6umXsE7Vk?t=602), [10-09](https://youtu.be/-DN4P92Wp8Y?t=581), [10-06](https://youtu.be/eTsjuVu1trk?t=1877), [09-19](https://youtu.be/uarqbNA2dFk?t=324), [09-15](https://youtu.be/KPdD91Oo8-U?t=582), [09-22](https://youtu.be/QbdrhJd7LiA?t=1246), [09-17](https://youtu.be/DubdKKhMWHo?t=504))
+- Experts expect about 33 to 35 minutes a night, clearly more than last season, but doubt he gets back to 36. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=581), [10-06](https://youtu.be/eTsjuVu1trk?t=369), [10-06](https://youtu.be/eTsjuVu1trk?t=1877), [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [07-07](https://youtu.be/ME-r173X5b0?t=956))
+- He should finish clearly better than last season's rank in the 80s thanks to more minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=581), [07-20](https://youtu.be/-KS_AZjZnw4?t=954))
+- He shares usage with Anthony Davis and AJ Dybantsa. Experts project about 29% usage, well below his career peak, which caps his scoring. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=369), [09-17](https://youtu.be/DubdKKhMWHo?t=504), [07-23](https://youtu.be/UTE0dNIv8nY?t=1290), [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [10-06](https://youtu.be/eTsjuVu1trk?t=2539))
+- His range is wide: best case about 13th, worst case about 78th. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=504), [07-16](https://youtu.be/-y6p5PYLf00?t=1408))
+- He is the Wizards' starting point guard and offensive engine. He handles the ball the most, and his role is secure. (fact, 2026-09-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=854), [07-23](https://youtu.be/UTE0dNIv8nY?t=1252), [09-09](https://youtu.be/7BllEsdNLoM?t=1287))
+- Last season's numbers came in only about 25 to 26 minutes a game because of injuries, so they understate him. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1287), [07-20](https://youtu.be/-KS_AZjZnw4?t=893), [07-16](https://youtu.be/-y6p5PYLf00?t=1408), [09-22](https://youtu.be/QbdrhJd7LiA?t=1246))
 - Experts are not worried about his health. They warn against overreacting to one injury year. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=614), [08-19](https://youtu.be/J1Eg3uaAICU?t=778))
-- In his 5 games with Washington, his usage went down and his assist rate went up. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1252))
-- Washington is trying to compete, with a play-in target of about 40 wins. Late-season rest and minutes cuts should not happen this season. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
-- His FT% dip had no clear cause, and he is projected back at about 86%. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=931), [07-20](https://youtu.be/-KS_AZjZnw4?t=944))
-- His efficiency in his short season (69% at the rim, 62 true shooting) is not expected to hold. If it did hold over 35 minutes, he would be close to a top-15 player. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1408))
-- With more minutes, his rebounds could rise to about three per game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=956))
-- He re-signed with Washington on a 4-year, 213 million deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=782))
+- Washington is trying to compete for the play-in at about 40 wins, so late-season rest and minutes cuts are not expected. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
+- Head coach Brian Keefe is under the most pressure to win games this season. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
+- His FT% should return to about 86%, and his rebounds could rise to about three with more minutes. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=931), [07-20](https://youtu.be/-KS_AZjZnw4?t=944), [07-07](https://youtu.be/ME-r173X5b0?t=956))
+- His improved efficiency from last season (69% at the rim, 62 true shooting) is not expected to hold. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1408))
+- Trae Young re-signed with Washington on a 4 year, 213 million deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=782), [06-23](https://youtu.be/-rgXhs5BHiw?t=112))
 
 **Durable**
-- His FG% is low on high volume and he commits many turnovers. Both hurt clearly in category leagues. (fact, 2026-10-11; stats)
-- He is one of the best passers in the NBA. Experts call him a top-five passer. Assists are his standout category. (fact, 2026-10-09; [07-23](https://youtu.be/UTE0dNIv8nY?t=299), [07-20](https://youtu.be/-KS_AZjZnw4?t=830), [10-09](https://youtu.be/-DN4P92Wp8Y?t=586), stats)
-- In category leagues his weak spots outweigh his strong assists. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=586))
-- He is closer to a 35% three-point shooter than a 38% one. Other concerns are his low rebounds and blocks. (verdict, 2026-09-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=921), [09-09](https://youtu.be/7BllEsdNLoM?t=1294))
-- He is not injury prone. Last season is the only one where he missed real time, and that time was overstated. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1084))
-- He is one of the worst defenders in the NBA. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=299), [07-20](https://youtu.be/-KS_AZjZnw4?t=830))
-- He is a multiple-time All-Star and has consistently put up 20 points and 10 assists. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=830))
+- Assists are a league outlier. FG% on real volume and turnovers are his weak categories. (fact, 2026-10-16; stats)
+- In categories, his downsides outweigh his very good assists. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=586))
+- He is closer to a 35% three-point shooter than a 38% one. Rebounds, steals and blocks are low. (verdict, 2026-09-09; [07-20](https://youtu.be/-KS_AZjZnw4?t=921), [09-09](https://youtu.be/7BllEsdNLoM?t=1294))
+- He is not injury prone. Last season was his only real missed time, and much of it was overstated. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1084))
+- He is one of the best passers in the NBA, a top five passer. (verdict, 2026-07-23; [07-20](https://youtu.be/-KS_AZjZnw4?t=830), [07-23](https://youtu.be/UTE0dNIv8nY?t=299))
+- He is one of the worst defenders in the NBA. (verdict, 2026-07-23; [07-20](https://youtu.be/-KS_AZjZnw4?t=830), [07-23](https://youtu.be/UTE0dNIv8nY?t=299))
+- He is a multiple-time All-Star who has consistently put up 20 points and 10 assists. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=830))
 
 **Tags**
-- Current: `usage competition` (shares usage with Anthony Davis and AJ Dybantsa), `role up` (about 33 to 35 minutes expected, up from 25.5), `bounce-back` (should beat last season's finish with more minutes), `bust candidate` (at Yahoo rank 18; experts prefer round 3), `injury last season` (15 games at 25.5 minutes), `regression risk` (short-season efficiency at the rim and on twos not expected to hold), `sites disagree on price` (Yahoo value 38 and rank 18, ESPN value 11 and rank 49), `low shutdown risk` (Washington is trying to compete), `coach hot seat` (Brian Keefe under pressure to win), `deep rotation` (10 or 11 man rotation expected)
-- Durable: `AST specialist` (top-five passer, about 10 to 11 assists projected), `FG% liability` (about 42% on 17 shots per game projected), `high TO` (about 4.2 turnovers per game projected), `punt FG fit`, `punt TO fit`
+- Current: `bust candidate` (at Yahoo rank 18 and ESPN rank 14), `bounce-back` (more minutes after an injury year), `injury last season` (15 games at about 25 minutes), `role up` (minutes up to about 33 to 35), `usage competition` (Anthony Davis and AJ Dybantsa), `regression risk` (last season's rim and two-point efficiency), `sites disagree on price` (Yahoo value 38 USD, ESPN value 11 USD), `low shutdown risk` (Washington is pushing for the play-in), `coach hot seat` (Brian Keefe)
+- Durable: `AST specialist` (about 10.4 assists projected), `FG% liability` (about 42% on 17 attempts projected), `high TO` (about 4.2 turnovers projected), `punt FG fit`, `punt TO fit`, `defensive liability` (one of the worst defenders in the NBA)
 
-**Note.** Experts see him as a round-3 player, about picks 24 to 27, so the Yahoo value of 38 USD and the 44 USD our league paid last season are too high. The ESPN average cost of about 33 USD is closer to fair. He fits best in punt FG% and punt TO builds, where his assists (z +3.8), FT% (+2.0), points and threes count fully. Early in the season, check that he plays 33 or more minutes and keeps double-digit assists next to Davis and Dybantsa, and watch whether his FG% falls back to about 42%.
+**Note.** He went for 44 USD in our league last season, and Yahoo values him at 38 USD. ESPN values him at only 11 USD, and the experts say he is a bust at rank 18, so he is only worth a price that fits around pick 26. His 10.4 projected assists are elite, but his 42% FG% and 4.2 turnovers hurt, so he fits punt FG% and punt TO builds that need assists. Early in the season, check that he reaches 33 or more minutes and see how much usage he keeps next to Davis and Dybantsa.
 
-<sub>29 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>31 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

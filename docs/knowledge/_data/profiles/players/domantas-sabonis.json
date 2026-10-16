@@ -8,61 +8,90 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "393121e1985c",
- "note_count": 31,
- "built_at": "2026-10-11T09:16:38+00:00",
+ "input_sha": "caa1968f7452",
+ "note_count": 39,
+ "built_at": "2026-10-16T08:54:00+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2641462,
-  "duration_ms": 81701,
+  "cost_usd_list": 0.2901982,
+  "duration_ms": 86041,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "DeMar DeRozan, Russell Westbrook and Dennis Schroder are no longer on the Kings. That leaves the ball mostly with Sabonis and Zach LaVine.",
+   "text": "Yahoo lists him as questionable with an undisclosed issue. The newest note says he is healthy and has played in the preseason.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is the projected starting center, with Acuff, LaVine, Murray and Ben Simmons. Simmons starts instead of DeAndre Hunter.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t1",
+    "D4dP5JvX1oo:t1",
+    "ENizLoE6pzI:t1"
+   ]
+  },
+  {
+   "text": "DeRozan, Westbrook and Schroder are gone from Sacramento. They took shots and assists away from him.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p5",
     "6DnRWahYrFA:t0",
+    "2A2JbUN-kc0:p16",
+    "LM0cRCGoAUQ:p28",
     "DubdKKhMWHo:p9",
     "DubdKKhMWHo:t1",
-    "LM0cRCGoAUQ:p28",
-    "LM0cRCGoAUQ:t5",
-    "2A2JbUN-kc0:p16",
-    "2A2JbUN-kc0:t0",
     "-KS_AZjZnw4:t4"
    ]
   },
   {
-   "text": "Experts expect his usage, minutes and assists to rise. They see his assists going back to about 6 and his minutes to about 33.",
+   "text": "Experts expect his usage to rise and his assists and minutes to return to about 6 assists and 33 minutes.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:p3",
     "6DnRWahYrFA:p5",
     "DubdKKhMWHo:p9",
-    "2A2JbUN-kc0:p16",
+    "ahNxsoU8Hx4:p36",
     "LM0cRCGoAUQ:p28",
-    "ahNxsoU8Hx4:p36"
+    "2A2JbUN-kc0:p16"
    ]
   },
   {
-   "text": "He is the projected starting center next to Acuff, LaVine, Hunter and Murray. Nobody is pushing that group for a starting spot. Ham calls him the Kings' best player.",
-   "kind": "fact",
-   "date": "2026-07-31",
+   "text": "Simmons starting next to him makes one expert a bit more cautious, because another ball handler shares the offense.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1",
-    "oEywzBZfAvY:p10",
-    "W3THnI7wWdA:t8"
+    "PrrgoTEcao4:p0"
    ]
   },
   {
-   "text": "Maxime Raynaud should not take his starting job or hold him to about 28 minutes.",
+   "text": "Raynaud and Cardwell are both out at least two weeks. Sabonis and Precious Achiuwa form the center rotation, with possible small ball using Simmons at center.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "Raynaud and Cardwell return",
+   "sources": [
+    "PrrgoTEcao4:t3",
+    "D4dP5JvX1oo:t1",
+    "EogBYa24Gto:t0"
+   ]
+  },
+  {
+   "text": "Experts do not expect Maxime Raynaud to cut his minutes or take his starting job.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
@@ -73,29 +102,26 @@
    ]
   },
   {
-   "text": "Mike Miller runs the Kings offense this season.",
+   "text": "Mike Miller runs the Kings offense this season. It is unclear whether he will run it through Sabonis.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t3",
-    "oEywzBZfAvY:p13"
+    "oEywzBZfAvY:p13",
+    "oEywzBZfAvY:t3"
    ]
   },
   {
-   "text": "Some experts pass on him because his role and the Kings' direction are unclear. It is not known yet whether the offense will run through him.",
-   "kind": "verdict",
-   "date": "2026-10-08",
+   "text": "Coach Ham calls him the Kings' best player.",
+   "kind": "fact",
+   "date": "2026-07-31",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:p4",
-    "_vbAP5y182A:p19",
-    "_vbAP5y182A:t1",
-    "oEywzBZfAvY:p13"
+    "oEywzBZfAvY:p10"
    ]
   },
   {
-   "text": "Toronto has talked to the Kings about him before. Sacramento might try to move his contract at some point.",
+   "text": "Toronto has talked to the Kings about him before, and Sacramento might try to dump his contract.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
@@ -105,91 +131,49 @@
    ]
   },
   {
-   "text": "Experts disagree on the trade risk. Most call a trade the main risk. Lloyd (October 8) thinks his contract makes a trade unlikely. They also disagree on what a trade would do: one expert says he would keep most of his value, another says he could become a 23-minute backup on a good team because he cannot defend or shoot.",
+   "text": "Experts disagree on the trade risk. Most call a trade the main risk, since on a contender he could become a 23-minute backup. Lloyd thinks a trade is unlikely because of his contract, and another expert thinks he would keep most of his value after a trade.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:p5",
+    "PrrgoTEcao4:p4",
+    "t4n9MAP2_14:p15",
     "ahNxsoU8Hx4:p36",
     "DubdKKhMWHo:p9",
     "2A2JbUN-kc0:p16",
     "LM0cRCGoAUQ:p28",
-    "t4n9MAP2_14:p15",
-    "egRrai3Ax38:p2",
-    "-KS_AZjZnw4:p45"
+    "6DnRWahYrFA:p5",
+    "egRrai3Ax38:p2"
    ]
   },
   {
-   "text": "The Kings are projected near the bottom of the league. Vegas has them at about 21.5 to 22.5 wins.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t7",
-    "6DnRWahYrFA:t0",
-    "0AptxcRW0RE:t8"
-   ]
-  },
-  {
-   "text": "Experts disagree on whether the Kings will rest veterans. Lloyd expects them to trade or sit veterans. Others expect them to play Sabonis whenever he is available so they stay out of the relegation zone.",
+   "text": "His FG% and three-point percentage should bounce back from last season's lows.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-07-20",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "n4KkK-OJjqA:t5",
-    "ahNxsoU8Hx4:t4",
-    "egRrai3Ax38:t0",
-    "2A2JbUN-kc0:t0",
-    "-KS_AZjZnw4:t5"
-   ]
-  },
-  {
-   "text": "Doug Christie is under the most pressure on the Kings and may lean on veterans to win games.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t6"
-   ]
-  },
-  {
-   "text": "Yahoo lists him as questionable with an undisclosed injury.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Experts expect him to miss fewer games than last season. They also expect his FG% and 3P% to bounce back from last season's lows.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p36",
     "-KS_AZjZnw4:p43",
     "-y6p5PYLf00:p7"
    ]
   },
   {
-   "text": "In category leagues he is about a round 3 pick (round 3 to 4 for some), with top-20 upside. He is not a first-rounder. One best/worst-case ranking puts him between 13th and 55th.",
+   "text": "Experts value him around round three in category leagues, as roughly a top 25 to 30 player with top 20 upside. One expert thinks taking him in round one is wrong.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:p1",
+    "PrrgoTEcao4:p3",
     "6DnRWahYrFA:p6",
+    "bd8GYKFOe8A:p12",
     "_vbAP5y182A:p19",
+    "ahNxsoU8Hx4:p36",
     "t4n9MAP2_14:p15",
-    "-KS_AZjZnw4:p41",
-    "DubdKKhMWHo:p9",
-    "ahNxsoU8Hx4:p36"
+    "-KS_AZjZnw4:p41"
    ]
   },
   {
-   "text": "Lloyd thinks his Yahoo rank of 34 is too low.",
+   "text": "Lloyd says his Yahoo rank of 34 is too low.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -198,46 +182,82 @@
    ]
   },
   {
-   "text": "In a mock auction, about 25 USD was called a reasonable price. He went for 24 USD.",
+   "text": "In an auction mock, 25 USD was called a reasonable price. He went for 24 USD.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p24"
    ]
+  },
+  {
+   "text": "Some drafters pass on him or push him back a few slots because of uncertainty about his role and the Kings' direction.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "hviT4hzYNME:p8",
+    "WXO8MfQfzo0:p4",
+    "_vbAP5y182A:p19"
+   ]
+  },
+  {
+   "text": "Experts disagree on the Kings' plans. Lloyd expects them to trade or sit veterans and finish near the bottom. Others expect them to try to win to stay out of the relegation zone, so Sabonis plays when available.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
+    "ahNxsoU8Hx4:t4",
+    "egRrai3Ax38:t0",
+    "n4KkK-OJjqA:t5",
+    "-KS_AZjZnw4:t5"
+   ]
+  },
+  {
+   "text": "The Kings play 4, 4 and 3 games in our playoff weeks 19 to 21, so 11 games. They have 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t4"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite, unselfish passer and the best player at assists and rebounds combined. He piles up assists and rebounds when the offense runs through him.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "He is an elite, unselfish passer and rebounder. He is the best in the league at assists plus rebounds combined, and the numbers pile up when the offense runs through him.",
+   "kind": "fact",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p12",
-    "BiIZsSypx7Y:p13"
+    "BiIZsSypx7Y:p13",
+    "bd8GYKFOe8A:p12",
+    "stats"
    ]
   },
   {
-   "text": "He needs the ball to pile up assists. Many of them come from dribble handoffs, so he creates less than his assist totals suggest.",
+   "text": "He needs the ball to rack up assists, many of them from dribble handoffs, so his value depends on a big offensive role.",
    "kind": "verdict",
-   "date": "2026-07-20",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p40"
+    "-KS_AZjZnw4:p40",
+    "t4n9MAP2_14:p15"
    ]
   },
   {
-   "text": "His category profile is a high FG% on real volume, league-leading rebounds and big assists for a frontcourt player. His turnovers are high.",
+   "text": "His rebounds and his FG% on high volume are league outliers. His turnovers are high and hurt the TO category.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He has never been a steals or blocks player. He is a very poor shot blocker.",
+   "text": "He has never been a steals or blocks player and is a very poor shot blocker.",
    "kind": "fact",
    "date": "2026-07-20",
    "until": "",
@@ -247,8 +267,8 @@
    ]
   },
   {
-   "text": "He is not a good 3-point shooter.",
-   "kind": "verdict",
+   "text": "He is not a good three-point shooter and is a poor defender.",
+   "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
@@ -257,64 +277,54 @@
    ]
   },
   {
-   "text": "He is worth much more in points leagues than in category leagues. His game is hard to build around in categories when you take him early.",
+   "text": "He is a much better points league player than category league player. His game is hard to build around in category leagues when taken early.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:p1",
     "g31YlwRe0XQ:p8",
-    "t4n9MAP2_14:p16",
-    "LM0cRCGoAUQ:p28"
+    "LM0cRCGoAUQ:p28",
+    "t4n9MAP2_14:p16"
    ]
   },
   {
-   "text": "Last season he pulled his hamstring before the season, then had a rib injury and then knee problems. He played only about 19 games.",
+   "text": "In 2025-26 he pulled his hamstring before the season, then had a rib injury, then a meniscus issue that ended in knee surgery.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:p2",
     "oEywzBZfAvY:p11"
    ]
   }
  ],
  "tags": [
   {
-   "name": "FG% anchor",
-   "channel": "durable",
-   "detail": "About 58% FG on about 12 to 13 attempts",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "About 13.7 rebounds per game projected",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "AST from a big",
-   "channel": "durable",
-   "detail": "Projected 6 to 7 assists; best at assists plus rebounds combined",
+   "detail": "13.7 rebounds projected",
    "until": "",
    "sources": [
     "stats",
-    "BiIZsSypx7Y:p13",
     "oEywzBZfAvY:p12"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FG% anchor",
+   "channel": "durable",
+   "detail": "about 58% on 12 to 13 attempts",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3 turnovers per game",
+   "detail": "about 3 turnovers a game",
    "until": "",
    "sources": [
     "stats"
@@ -332,14 +342,27 @@
    "new_meaning": ""
   },
   {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "best at assists plus rebounds combined",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p12",
+    "BiIZsSypx7Y:p13",
+    "bd8GYKFOe8A:p12",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "usage dependent",
    "channel": "durable",
-   "detail": "Needs the offense to run through him; could become a 23-minute backup on a good team",
+   "detail": "needs the ball for handoff assists; could be a 23-minute backup on a contender",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p40",
     "t4n9MAP2_14:p15",
-    "oEywzBZfAvY:p12"
+    "PrrgoTEcao4:p4"
    ],
    "new_meaning": ""
   },
@@ -356,15 +379,107 @@
    "new_meaning": ""
   },
   {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "t4n9MAP2_14:p15"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (undisclosed); the 10-15 note says he is healthy and played in the preseason",
+   "until": "",
+   "sources": [
+    "stats",
+    "PrrgoTEcao4:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "hamstring, rib, then meniscus surgery; 19 games",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p2",
+    "oEywzBZfAvY:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bounce-back",
+   "channel": "current",
+   "detail": "FG%, assists and minutes expected to recover",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p43",
+    "DubdKKhMWHo:p9",
+    "ahNxsoU8Hx4:p36",
+    "2A2JbUN-kc0:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role up",
    "channel": "current",
-   "detail": "DeRozan, Westbrook and Schroder gone; assists and minutes expected to rise",
+   "detail": "DeRozan, Westbrook and Schroder gone",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p5",
-    "DubdKKhMWHo:p9",
     "2A2JbUN-kc0:p16",
-    "LM0cRCGoAUQ:p28"
+    "LM0cRCGoAUQ:p28",
+    "DubdKKhMWHo:p9"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Ben Simmons starts next to him",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trade risk",
+   "channel": "current",
+   "detail": "Toronto talks; a contender could make him a backup; Lloyd thinks his contract makes a trade unlikely",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p4",
+    "oEywzBZfAvY:p14",
+    "t4n9MAP2_14:p15",
+    "t4n9MAP2_14:t5",
+    "6DnRWahYrFA:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Lloyd calls Yahoo rank 34 too low",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p5",
+    "egRrai3Ax38:p2",
+    "80kfLVnFQ_s:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 25 USD vs ESPN 37.3 USD",
+   "until": "",
+   "sources": [
+    "stats",
+    "PrrgoTEcao4:p1"
    ],
    "new_meaning": ""
   },
@@ -374,103 +489,56 @@
    "detail": "DeRozan, Westbrook and Schroder gone",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:t5",
     "-KS_AZjZnw4:t4",
+    "LM0cRCGoAUQ:t5",
     "2A2JbUN-kc0:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bounce-back",
-   "channel": "current",
-   "detail": "After an injury-hit season with low FG% and 3P%",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:p43",
-    "ahNxsoU8Hx4:p36",
-    "6DnRWahYrFA:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Hamstring, rib and knee problems; about 19 games",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:p11"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trade risk",
-   "channel": "current",
-   "detail": "Most experts call a trade the main risk; Lloyd thinks his contract makes it unlikely",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p36",
-    "DubdKKhMWHo:p9",
-    "t4n9MAP2_14:p15",
-    "oEywzBZfAvY:p14",
-    "6DnRWahYrFA:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q, undisclosed",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "Yahoo status Q, undisclosed injury",
-   "until": "",
-   "sources": [
-    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Vegas about 21.5 to 22.5 wins",
+   "detail": "Vegas about 22 wins",
    "until": "",
    "sources": [
     "oEywzBZfAvY:t7",
-    "6DnRWahYrFA:t0",
-    "0AptxcRW0RE:t8"
+    "PrrgoTEcao4:t0",
+    "6DnRWahYrFA:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "tank risk",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Lloyd expects the Kings to trade or sit veterans; others expect them to try to avoid relegation",
+   "detail": "poor coaching and front office make rotations unpredictable",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
-    "n4KkK-OJjqA:t5",
-    "ahNxsoU8Hx4:t4"
+    "PrrgoTEcao4:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "coach hot seat",
    "channel": "current",
-   "detail": "Doug Christie under the most pressure; may lean on veterans",
+   "detail": "Doug Christie under the most pressure",
    "until": "",
    "sources": [
     "oEywzBZfAvY:t6"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "tank risk",
+   "channel": "current",
+   "detail": "Lloyd expects veterans traded or sat; others expect the Kings to play to avoid relegation",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:t0",
+    "ahNxsoU8Hx4:t4"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Experts put him in round 3 for categories, close to his Yahoo value of 26 USD and the 24 to 25 USD mock auction price. ESPN's average cost of 38.7 USD and our league's 41 USD last season look too high for a player whose value rests on FG% and rebounds while he gives back turnovers, threes and blocks. He fits punt TO builds best and suits teams that want FG%, rebounds and frontcourt assists. Early on, check his Yahoo Q status, whether his minutes reach about 33 and his assists about 6, and any trade news.",
+ "note": "He costs 25 USD on Yahoo and 37.3 USD on ESPN, and went for 41 USD in our league last season. Experts call 25 USD reasonable and see round-three value (rank about 25 to 34), so paying low 30s is fine but 40 USD is not. His elite rebounds, high-volume FG% and big-man assists fit punt TO builds best, but his 3 turnovers and weak FT%, threes and blocks make him hard to build around early. Early in the season, check whether his minutes climb back toward 33 and his assists toward 6 with Simmons starting next to him. Also watch for any trade news and clear up the Yahoo Q tag before the draft.",
  "rejected": []
 }

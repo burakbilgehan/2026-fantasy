@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 345 | 0 | 0.0 | 251 | not drafted |
+| 2026-27 | 0 | - | 208 | 0 | 0.0 | 251 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | 3PM | 0.8 | -0.8 | -1.1 | - |
 | PTS | 5.7 | -1.4 | -1.5 | - |
 | REB | 4.7 | -0.2 | +0.1 | - |
-| AST | 0.9 | -1.2 | -1.5 | - |
+| AST | 0.9 | -1.2 | -1.4 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
 | BLK | 0.4 | -0.5 | -0.3 | - |
 | TO | 0.8 | +1.2 | +1.3 | - |
@@ -28,19 +28,22 @@
 </details>
 
 **Current**
-- He could get a solid role if Payton Pritchard comes off the bench. Two Boston previews project Pritchard as a bench player. (verdict, 2026-09-25; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194), [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
-- Boston has at least 12 rotation-level players. The newest preview's 10-man rotation does not include him, so he has to compete for minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
-- He could have a double-digit scoring season if Derrick White bounces back. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1719))
-- He averaged 16 points, 8 rebounds, 6 assists and 2 threes in Summer League, but shot 26% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
-- He is not expected to start for Boston. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
+- Jayson Tatum and Paul George take the top usage roles in Boston, which leaves less usage for the rest of the roster. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1262), [08-19](https://youtu.be/J1Eg3uaAICU?t=1755), [08-30](https://youtu.be/Alwse2uXzD4?t=1671))
+- Boston has 16 back-to-backs, tied for the most in the league. (fact, 2026-09-26; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1837), [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=901))
+- Neither Boston preview lists him in the projected starting five or the main bench rotation. Pritchard comes off the bench in both. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=848), [07-30](https://youtu.be/TiiaNZCJNs8?t=472))
+- Boston is very deep, with at least 12 rotation-level players for about 10 spots, so some players miss out most nights. (fact, 2026-09-25; [09-25](https://youtu.be/Bi1cEM03k9Y?t=1133))
+- He could have a double-digit season if Derrick White bounces back. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=1719))
+- Boston is projected to win about 48 games. (verdict, 2026-07-30; [07-30](https://youtu.be/TiiaNZCJNs8?t=2194))
+- He averaged 16 points, 8 rebounds and 6 assists with 2 threes per game in Summer League, but shot 26% from three. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
+- He is not expected to start. He could get a solid role if Payton Pritchard comes off the bench. (verdict, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=2194))
 
 **Durable**
-- none
+- He is a low-volume role player. He takes very few free throws, so his low FT% barely moves a team ratio. (fact, 2026-10-16; stats)
 
 **Tags**
-- Current: `minutes competition` (Deep Boston roster with at least 12 rotation-level players. Not in the projected 10-man rotation.), `waiver watch` (Could reach double-digit scoring if Pritchard comes off the bench or Derrick White bounces back.)
+- Current: `minutes competition` (Outside the projected 10-man rotation behind White, Scheierman, Hauser, Pritchard, Walsh and others), `deep rotation` (At least 12 rotation-level players in Boston), `usage competition` (Tatum and George take the top usage), `waiver watch` (Ranked outside our 144 drafted players; role could grow if Pritchard comes off the bench), `winning team` (Projected about 48 wins), `many back-to-backs` (16 back-to-backs, tied for most in the league)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD, with ranks of 345 on Yahoo and 249 on ESPN. That is far outside the 144 players we draft, so do not spend a pick on him. His projected line of about 5.7 points, 0.9 assists and 0.8 threes has no strong category, and his low turnovers come from his small role. Watch him on waivers early. The things to check are whether he gets into Boston's 10-man rotation and gets close to ESPN's projected 21.7 minutes, mainly if Pritchard stays on the bench or White struggles.
+**Note.** Do not draft him. Yahoo ranks him 208, ESPN ranks him 251, both sites value him at 0 USD, and we only draft 144 players. His projected line is about 22 minutes for 5.7 points and 0.9 assists, with no category that stands out. Watch the first weeks for minutes: if he gets into Boston's 10-man rotation, or Derrick White struggles, he is a waiver pickup for rebounds and low turnovers.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

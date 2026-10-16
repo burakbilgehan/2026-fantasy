@@ -8,31 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f2c071eab0ea",
- "note_count": 19,
- "built_at": "2026-10-11T09:21:01+00:00",
+ "input_sha": "de80816476fb",
+ "note_count": 22,
+ "built_at": "2026-10-16T09:08:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21227820000000003,
-  "duration_ms": 61716,
+  "cost_usd_list": 0.27367420000000003,
+  "duration_ms": 87570,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He left the Lakers and joined Philadelphia. He is in the projected starting five with Maxey, Edgecombe, Jaylen Brown and Embiid.",
+   "text": "He joined Philadelphia after leaving the Lakers in free agency.",
    "kind": "fact",
    "date": "2026-08-06",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p0",
-    "gTsfR5PxAMY:t0",
-    "gTsfR5PxAMY:t1"
+    "gTsfR5PxAMY:t1",
+    "W3THnI7wWdA:p0"
    ]
   },
   {
-   "text": "Nick Nurse calls him an offense creator. His job is to set up everyone else, and he is reported to play point guard.",
+   "text": "He is a projected starter next to Maxey, Edgecombe, Jaylen Brown and Embiid.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t0",
+    "gTsfR5PxAMY:t0"
+   ]
+  },
+  {
+   "text": "Nick Nurse calls him an offense creator. Reports say he will play point guard and his job is to set up everyone else.",
    "kind": "fact",
    "date": "2026-08-06",
    "until": "",
@@ -41,79 +50,68 @@
    ]
   },
   {
-   "text": "Josh expects a modest rise in his on-ball role, with maybe 8 assists per game instead of about 6.9. He does not expect a big change in how LeBron plays.",
-   "kind": "verdict",
-   "date": "2026-08-06",
+   "text": "Philadelphia has very few backup bigs. Hukporti is out for the season, and Adem Bona and Tacko Fall are injured. It is an open question whether LeBron plays small-ball center.",
+   "kind": "fact",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "KqTKVExQGLo:t1",
+    "eTsjuVu1trk:t0"
+   ]
+  },
+  {
+   "text": "He shares the ball with Maxey, Embiid and Jaylen Brown, so the team's stars will cut into each other's usage.",
+   "kind": "fact",
+   "date": "2026-09-14",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t10",
+    "LM0cRCGoAUQ:t2",
+    "8d--aL_xxwE:t0"
+   ]
+  },
+  {
+   "text": "Experts project lower usage and under 20 points, but more assists. Josh expects a small rise in his on-ball role, with maybe 8 assists a game. One expert is a little worried about his efficiency.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p16",
+    "LM0cRCGoAUQ:p34",
     "gTsfR5PxAMY:p8"
    ]
   },
   {
-   "text": "Usage is crowded in Philadelphia with Maxey, Embiid and Jaylen Brown. Experts expect the stars to cut into each other's shots, and his usage should be lower.",
+   "text": "Experts expect about 65 games, with planned games off. Mark expects load management for Philadelphia's stars.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p34",
-    "sTtFUy7IoJI:t10",
-    "8d--aL_xxwE:t0",
-    "7BllEsdNLoM:t3"
-   ]
-  },
-  {
-   "text": "He is expected to sit some games and pace himself. The projection is about 65 games.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
     "gTsfR5PxAMY:p6",
     "LM0cRCGoAUQ:p34",
-    "Rqb5GdrSweY:p14",
-    "ahNxsoU8Hx4:t5",
     "gTsfR5PxAMY:t4"
    ]
   },
   {
-   "text": "He has always wanted to play big minutes, and Nick Nurse, who gives his starters heavy minutes, may let him.",
+   "text": "He has always wanted to play big minutes, and Nurse may let him.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:p9",
-    "gTsfR5PxAMY:t2"
+    "gTsfR5PxAMY:p9"
    ]
   },
   {
-   "text": "Yahoo lists him as questionable for rest.",
+   "text": "Yahoo lists him as questionable (rest).",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Philadelphia has only 13 back-to-backs, which helps a little with his rest days. Three of them fall in the fantasy playoffs.",
-   "kind": "fact",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p23",
-    "gf_6GveiAls:t8"
-   ]
-  },
-  {
-   "text": "Philadelphia is projected to win about 51 to 52 games. The expert expects growing pains in October and November and load management for the stars.",
-   "kind": "verdict",
-   "date": "2026-08-06",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:t4"
-   ]
-  },
-  {
-   "text": "He should be about a top 30 player per game.",
+   "text": "Expected to be a top 30 player per game.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -122,31 +120,83 @@
    ]
   },
   {
-   "text": "Experts call a draft spot in the 40s too high. The 50s to 60s is fair value, and the 50s is fine if you are not focused on turnovers.",
+   "text": "Draft range: one expert says he is fine at pick 50 in category leagues and would go in the 40s in points leagues. Another says the 60s are fine, and the 50s too if you are not focused on turnovers.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "BiIZsSypx7Y:p34",
-    "dlo7L8Ru91A:p24",
-    "LM0cRCGoAUQ:p34",
-    "_vbAP5y182A:p31",
-    "E-KmhvyZ2CU:p16",
-    "ahNxsoU8Hx4:p57",
-    "uarqbNA2dFk:p33"
+    "KqTKVExQGLo:p16",
+    "BiIZsSypx7Y:p34"
    ]
   },
   {
-   "text": "In auctions, do not pay more than 25 USD. He went for 22 USD in an expert mock.",
+   "text": "His ESPN rank of 73 is called foolish, and going at 78 is far too low.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p17"
+   ]
+  },
+  {
+   "text": "In auctions, Josh would not pay more than 25 USD. He went for 22 USD in an expert mock auction.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p36"
    ]
+  },
+  {
+   "text": "Philadelphia has only 13 back-to-backs, but three of them fall in the fantasy playoffs. The playoff schedule is 3-4-4 games with the March 28 end.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:t8",
+    "KqTKVExQGLo:t3"
+   ]
+  },
+  {
+   "text": "The low back-to-back total helps a little with his rest risk.",
+   "kind": "verdict",
+   "date": "2026-08-16",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p23"
+   ]
+  },
+  {
+   "text": "Mark projects Philadelphia for about 51 to 52 wins.",
+   "kind": "verdict",
+   "date": "2026-08-06",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
+   ]
   }
  ],
  "durable": [
+  {
+   "text": "He has sciatica and arthritis in his foot (arthritic toes). Sciatica bothered him last season.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p15",
+    "BiIZsSypx7Y:p34",
+    "dlo7L8Ru91A:p24"
+   ]
+  },
+  {
+   "text": "These back and foot issues will cost him games off.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p15"
+   ]
+  },
   {
    "text": "He is 41 and turns 42 this season.",
    "kind": "fact",
@@ -158,17 +208,7 @@
    ]
   },
   {
-   "text": "He has arthritic toes and had sciatica last season.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p34",
-    "dlo7L8Ru91A:p24"
-   ]
-  },
-  {
-   "text": "His numbers are about the same every season. His scoring slowly drops, but he keeps the ball in his hands at a similar rate.",
+   "text": "Josh says his numbers stay about the same every season. His scoring drops, but he keeps the ball in his hands at a similar rate.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
@@ -177,22 +217,22 @@
    ]
   },
   {
-   "text": "He gives guard-like assists from the forward spot, far above other forwards.",
+   "text": "His assists are far above other forwards. His turnovers are a league outlier on the weak side.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He commits many turnovers. This is his one weak category.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "He is worth more in points leagues than in 9-cat category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "stats",
-    "BiIZsSypx7Y:p34"
+    "KqTKVExQGLo:p16",
+    "Rqb5GdrSweY:p14"
    ]
   }
  ],
@@ -200,80 +240,44 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Left the Lakers for Philadelphia",
+   "detail": "Lakers to 76ers",
    "until": "",
    "sources": [
-    "W3THnI7wWdA:p0",
-    "gTsfR5PxAMY:t1"
+    "gTsfR5PxAMY:t1",
+    "W3THnI7wWdA:p0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "AST from a big",
-   "channel": "durable",
-   "detail": "About 6.8 assists projected as a forward, reported to play point guard",
+   "name": "position change",
+   "channel": "current",
+   "detail": "Reported to play point guard as lead creator; small-ball center also possible",
    "until": "",
    "sources": [
-    "stats",
-    "gTsfR5PxAMY:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "high TO",
-   "channel": "durable",
-   "detail": "About 2.9 turnovers per game projected",
-   "until": "",
-   "sources": [
-    "stats",
-    "BiIZsSypx7Y:p34"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt TO fit",
-   "channel": "durable",
-   "detail": "Turnovers are his only weak category",
-   "until": "",
-   "sources": [
-    "stats",
-    "BiIZsSypx7Y:p34"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "Turns 42; expected to pace himself with lower usage",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p34",
-    "Rqb5GdrSweY:p14",
-    "dlo7L8Ru91A:p24"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "load management",
-   "channel": "durable",
-   "detail": "Expected to sit games; about 65 games projected",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p34",
-    "ahNxsoU8Hx4:t5",
-    "gTsfR5PxAMY:t4",
-    "gTsfR5PxAMY:p6"
+    "gTsfR5PxAMY:p5",
+    "KqTKVExQGLo:t1"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Maxey, Embiid and Jaylen Brown",
+   "detail": "Maxey, Embiid, Jaylen Brown",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t10",
-    "8d--aL_xxwE:t0",
+    "LM0cRCGoAUQ:t2",
+    "8d--aL_xxwE:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Lower usage, projected under 20 points",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p16",
     "LM0cRCGoAUQ:p34"
    ],
    "new_meaning": ""
@@ -289,58 +293,126 @@
    "new_meaning": ""
   },
   {
-   "name": "few back-to-backs",
-   "channel": "current",
-   "detail": "Philadelphia has 13 back-to-backs",
+   "name": "load management",
+   "channel": "durable",
+   "detail": "Expected to pace himself and have games off at 41",
    "until": "",
    "sources": [
-    "gf_6GveiAls:p23",
-    "gf_6GveiAls:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "Three back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected about 51 to 52 wins",
-   "until": "",
-   "sources": [
+    "LM0cRCGoAUQ:p34",
+    "Rqb5GdrSweY:p14",
     "gTsfR5PxAMY:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "heavy starter minutes",
+   "name": "injury prone",
    "channel": "durable",
-   "detail": "Nick Nurse plays starters heavy minutes and may let LeBron play big minutes",
+   "detail": "Sciatica and arthritis in his foot and toes",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:t2",
-    "gTsfR5PxAMY:p9"
+    "KqTKVExQGLo:p15",
+    "BiIZsSypx7Y:p34",
+    "dlo7L8Ru91A:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "Turns 42 this season",
+   "until": "",
+   "sources": [
+    "LM0cRCGoAUQ:p34",
+    "dlo7L8Ru91A:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "high TO",
+   "channel": "durable",
+   "detail": "About 2.9 TO per game projected",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt TO fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 6.8 AST per game projected as a forward",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Goes in the 40s in points leagues; ranked 23rd in points vs 34th last season",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p16",
+    "Rqb5GdrSweY:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 24 USD, rank 43; ESPN value 5 USD, rank 73",
+   "detail": "Yahoo rank 43 and value 24 USD, ESPN rank 73 and value 5 USD",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "KqTKVExQGLo:p17"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Versus ESPN: rank 73 called foolish, fine at pick 50",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p17",
+    "KqTKVExQGLo:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs, but three in the fantasy playoffs",
+   "until": "",
+   "sources": [
+    "gf_6GveiAls:p23",
+    "gf_6GveiAls:t8",
+    "KqTKVExQGLo:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "About 51 to 52 wins projected",
+   "until": "",
+   "sources": [
+    "gTsfR5PxAMY:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts cap him at 25 USD, which fits his Yahoo average cost of 20.8 USD and the 22 USD he cost in our league last season. Do not pay up to his Yahoo rank of 43, because the experts see fair value in the 50s to 60s. He fits best in punt TO builds, where his high assist total from a forward spot, his FG% on real volume and his scoring count fully and his 2.9 turnovers do not hurt. Early in the season, check whether he really plays point guard and gets near 8 assists, how often he rests (he is listed questionable for rest now), and how the shots are split with Maxey, Embiid and Brown.",
+ "note": "The sites disagree on his price. Yahoo values him at 24 USD (average cost 20.6 USD), ESPN at only 5 USD (average cost 16.6 USD), and he cost 22 USD in our league last season. Experts put the ceiling near 25 USD, so a price around 20 to 25 USD is fair, and he fits punt TO builds best because his turnovers (2.9 per game) are his one weak category and his forward-slot assists (6.8) are rare. Early on, check whether he really plays point guard and gets close to 8 assists, how many minutes Nurse gives him, and how often he sits for rest. Philadelphia has three back-to-backs in our playoff weeks.",
  "rejected": []
 }

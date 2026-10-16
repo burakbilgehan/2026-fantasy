@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ad9615133343",
+ "input_sha": "8d1780de0ea5",
  "note_count": 10,
- "built_at": "2026-10-04T17:48:13+00:00",
+ "built_at": "2026-10-16T09:15:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.15067019999999998,
-  "duration_ms": 38363
+  "cost_usd_list": 0.1699142,
+  "duration_ms": 39120,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Aldama moved from Memphis to Dallas.",
+   "text": "Aldama moved from Memphis to Dallas this offseason.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -30,7 +32,7 @@
    ]
   },
   {
-   "text": "He had knee surgery at the end of last season and is not fully cleared. He will only take part in camp partly. His Yahoo status is questionable (undisclosed).",
+   "text": "He is not fully cleared after knee surgery and was set to take only partial part in camp. Yahoo lists him as questionable with a knee issue.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -40,30 +42,27 @@
    ]
   },
   {
-   "text": "The Dallas frontcourt is crowded with forwards and bigs, so many players compete for his minutes.",
+   "text": "Dallas has a crowded frontcourt, with many forwards who fit best at power forward. That limits his minutes.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t7",
-    "sTtFUy7IoJI:p41",
     "Rqb5GdrSweY:p37",
-    "XSPJL_mlFXo:t1"
+    "XSPJL_mlFXo:t0"
    ]
   },
   {
-   "text": "His strong finish last season came from about 28 minutes a night on a Memphis team that was tanking.",
+   "text": "Dusty May is the new Dallas head coach. It is not yet known how he will split minutes among the centers and forwards, Aldama included.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "XSPJL_mlFXo:p17",
-    "sTtFUy7IoJI:p41",
-    "OdDkXFhoKsc:p62"
+    "XSPJL_mlFXo:t1"
    ]
   },
   {
-   "text": "Experts expect him to be the seventh man, with minutes in the low 20s. They do not expect the 28 minutes of last season to repeat. He would need to start and play about 28 minutes to matter.",
+   "text": "Josh projects him as the seventh man, playing in the low 20s in minutes. The 28 minutes a night he got on a Memphis team that was not trying to win should not repeat. He needs to start and play about 28 minutes to matter.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -74,7 +73,7 @@
    ]
   },
   {
-   "text": "Experts rank him around or outside the top 200 and give him almost no draft value. Josh does not understand his Yahoo ADP of 109.",
+   "text": "Josh ranks him close to 200 and does not understand a Yahoo ADP of 109. He has almost no draft value.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -85,7 +84,7 @@
    ]
   },
   {
-   "text": "Dallas has a 4-4-4 schedule in the fantasy playoffs, one of the best. It also has the league-high 16 back-to-backs.",
+   "text": "Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has a league-high 16 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -97,8 +96,8 @@
  ],
  "durable": [
   {
-   "text": "His category line is close to average in most categories, with above-average rebounds.",
-   "kind": "fact",
+   "text": "He is close to average in most categories, with above-average rebounds.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
@@ -107,8 +106,8 @@
    ]
   },
   {
-   "text": "He is a weak free throw shooter for a shooter, in the 60s for three straight seasons. He is only a middling three-point shooter. His free throw volume is low, so the damage to FT% is limited.",
-   "kind": "fact",
+   "text": "He is a weak free throw shooter for a player who shoots, and only a middling three-point shooter. His low free throw volume limits the damage to team FT%.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
@@ -118,12 +117,30 @@
    ]
   },
   {
-   "text": "Lloyd sees him as a backup-quality big man.",
+   "text": "He commits few turnovers for his role.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Lloyd calls him a backup-quality big man.",
    "kind": "verdict",
    "date": "2026-07-02",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p6"
+   ]
+  },
+  {
+   "text": "He had knee surgery at the end of the 2025-26 season.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p20"
    ]
   }
  ],
@@ -131,7 +148,7 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Traded from Memphis to Dallas",
+   "detail": "Memphis to Dallas",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p17",
@@ -140,30 +157,9 @@
    "new_meaning": ""
   },
   {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "Not fully cleared after knee surgery at the end of last season. Yahoo status Q.",
-   "until": "",
-   "sources": [
-    "XSPJL_mlFXo:p20",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q (Undisclosed)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "role down",
    "channel": "current",
-   "detail": "Projected as the seventh man with minutes in the low 20s, down from about 28",
+   "detail": "From 28 minutes to the low 20s as the seventh man",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p17",
@@ -174,7 +170,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded Dallas frontcourt of forwards and bigs",
+   "detail": "Crowded Dallas frontcourt full of power forwards",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t7",
@@ -184,9 +180,52 @@
    "new_meaning": ""
   },
   {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Dallas is overloaded with forwards and bigs",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:t7",
+    "0AptxcRW0RE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Not fully cleared after knee surgery",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Knee)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "43 games and knee surgery at season end",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:p20",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Yahoo ADP 109; Josh has him closer to 200",
+   "detail": "At a Yahoo ADP of 109; Josh has him near 200",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:p19"
@@ -194,17 +233,48 @@
    "new_meaning": ""
   },
   {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Dusty May",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Dallas plays 4-4-4 in the fantasy playoffs",
+   "detail": "Dallas plays 4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
     "XSPJL_mlFXo:t4",
     "gf_6GveiAls:t3"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "League-high 16 back-to-backs",
+   "until": "",
+   "sources": [
+    "XSPJL_mlFXo:t4",
+    "gf_6GveiAls:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low TO",
+   "channel": "durable",
+   "detail": "About 1.0 TO per game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo and ESPN both value him at 0 USD (ranks 176 and 171), and the experts put him near or outside the top 200. He should not be drafted in our 144-player auction, even at the 3 USD he cost last season. Leave him on waivers. Early in the season, check whether his knee is cleared and whether injuries in the Dallas frontcourt give him 25 to 28 minutes. His line is about average across the board with a weak FT%, so his value depends almost fully on playing time.",
+ "note": "Both Yahoo and ESPN value him at 0 USD (Yahoo rank 254, ESPN rank 173), and the experts see a bench role in the low 20s in minutes. With only 144 players drafted, he is not worth drafting. At most he is a 1 USD bench pick, even though our league paid 3 USD for him last season. Early in the season, check whether his knee is cleared and whether Dusty May gives him starter minutes. Dallas plays 4-4-4 in the playoff weeks, so he becomes a waiver add if injuries open up the frontcourt.",
  "rejected": []
 }

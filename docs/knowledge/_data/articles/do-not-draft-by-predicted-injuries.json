@@ -61,48 +61,50 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:47:25+00:00",
+ "built_at": "2026-10-16T12:46:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.12183279999999999,
-  "duration_ms": 45095,
+  "cost_usd_list": 0.1240288,
+  "duration_ms": 46173,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Games played barely repeats from one season to the next, so do not pay extra for \"iron men\" and do not cut a player's price just because he has an \"injury-prone\" label. Lower your bid only for chronic cases: repeated injuries or surgeries to the same lower-body spot, big men with foot problems, and degenerative injuries. Then limit yourself to one such player per roster, because in 9-cat head-to-head a missed week costs you more than it would in roto.",
+ "summary": "Do not set auction prices from games-played totals or injury-prone labels. Games played barely carries over from one season to the next. Do lower your price on chronic cases: repeated injuries or surgeries to the same lower-body spot, big men with foot problems, and degenerative conditions. In our 9-cat H2H league with 6 adds per week, missed games cost more than in roto, so never put more than one of these risks on your roster.",
  "sections": [
   {
    "heading": "Why games played and labels mislead",
    "paragraphs": [
     {
-     "text": "Games played from one season to the next has a correlation of only about 0.3. Using two years of history only raises it to 0.35. Among the top 250 players by minutes it drops to 0.2. That is too weak to price. Totals rankings and labels like \"injury prone\" or \"iron man\" carry little signal.",
+     "text": "Injuries are mostly unpredictable. A player called injury prone can stay healthy, and a player called durable can get hurt. Drafting players because you think they will not get hurt does not work.",
+     "sources": [
+      "W-R1dzem32s:r4",
+      "7BllEsdNLoM:r4"
+     ]
+    },
+    {
+     "text": "The numbers back this up. Games played from one season to the next correlates at only about 0.3. Adding a second year of history only raises that to 0.35. Among the top 250 players by minutes, it drops to 0.2. Those are the players we actually draft, since our auction takes 144. So labels like injury prone or iron man, and rankings built on season totals, should not set your bids.",
      "sources": [
       "8d--aL_xxwE:r5",
       "8d--aL_xxwE:r7"
      ]
     },
     {
-     "text": "Injuries are largely unpredictable. A player seen as fragile can stay healthy, and a durable player can get hurt. Being healthy last season says little about this season. Drafting a player because you expect him not to get hurt does not work.",
+     "text": "Do not pay extra for availability alone. Many low-value players played 82 games. Playing every game adds nothing if the per-game production is not worth a roster spot. A healthy season last year also does not mean a healthy season this year. Avoid one-year blindness. Do not let one season flip a long-term story in either direction.",
      "sources": [
-      "W-R1dzem32s:r4",
-      "7BllEsdNLoM:r4",
-      "dlo7L8Ru91A:r1"
-     ]
-    },
-    {
-     "text": "Availability alone has no value. Many low-value players played 82 games. If a player's per-game line would not make one of our 144 rosters, playing every game does not change that. Do not bid more on a player just because he played a full season.",
-     "sources": [
+      "dlo7L8Ru91A:r1",
       "dlo7L8Ru91A:r2",
-      "uarqbNA2dFk:r4"
+      "uarqbNA2dFk:r4",
+      "J1Eg3uaAICU:r6"
      ]
     },
     {
-     "text": "Avoid one-year blindness. The consensus often calls a player injury prone or healthy after one season. That label is weak evidence, but it moves auction prices. Expect the room to overreact, and do not let one season flip a long-term view.",
+     "text": "Most of the market labels a player after a single season. That label is often wrong, but it still moves auction prices. When the room's opinion of an injured player drops a lot and your valuation does not, you can get him cheaply. Experts also say drafters are too scared of players coming back from injuries that cost them last season.",
      "sources": [
       "uarqbNA2dFk:r5",
-      "J1Eg3uaAICU:r6"
+      "dlo7L8Ru91A:r11",
+      "egRrai3Ax38:r10"
      ]
     }
    ]
@@ -111,7 +113,7 @@
    "heading": "Check the context behind missed games",
    "paragraphs": [
     {
-     "text": "Before you lower a bid, find out why the games were missed. Games sat out while a team was tanking do not show injury risk. On a team out of contention, minor injuries can look worse than they are. On a good team, the same player might play through them.",
+     "text": "Before you mark a player down, look at why he missed games. Games he sat out while his team was tanking are not proof that he is injury prone. On a team out of contention, small injuries can turn into missed games that a contender's player would have played through.",
      "sources": [
       "ahNxsoU8Hx4:r10",
       "Rqb5GdrSweY:r6",
@@ -120,24 +122,16 @@
      ]
     },
     {
-     "text": "A games-played total can also overstate how healthy a player really was. Many of Jalen Williams' 40 games came on limited minutes while he recovered. Check minutes, not just games.",
+     "text": "The games-played number can also make a player's healthy sample look bigger than it was. Jalen Williams played 40 games, but many were limited-minute games while he recovered. Check minutes per game as well as the game count. Some players lose production for a long time after even a minor injury.",
      "sources": [
-      "75Sk_4fkgIM:r0"
+      "75Sk_4fkgIM:r0",
+      "KLogvUwv_d8:r2"
      ]
     },
     {
-     "text": "Some context supports availability. A player close to a contract extension has a reason to reach the 65-game threshold. A back problem that recurred during a season can improve with a full offseason of rest. Worry again only if it flares up in training camp, which you can check before our 2026-10-18 auction.",
+     "text": "Contract situation also matters. Players close to an extension have a reason to reach the 65-game threshold, and that supports their availability.",
      "sources": [
-      "LcZcvk8s1xQ:r1",
-      "sTtFUy7IoJI:r6",
-      "s28HvC2grAk:r2"
-     ]
-    },
-    {
-     "text": "Short-term injuries at the start of the season deserve some caution. But the season is 25 weeks long, so do not drop the price too far. One exception: hamstring injuries tend to come back. A long early ruling on a hamstring can mean the team is being careful, or that the injury is serious.",
-     "sources": [
-      "CRLSsoGhb2w:r0",
-      "CRLSsoGhb2w:r1"
+      "LcZcvk8s1xQ:r1"
      ]
     }
    ]
@@ -146,60 +140,65 @@
    "heading": "The chronic cases that should lower a price",
    "paragraphs": [
     {
-     "text": "Lower your bid when a player has repeated injuries or surgeries to the same lower-body part, especially the knees, or an ongoing mystery illness. Problems that keep returning to the same spot make future missed time more likely. Bid below his per-game value. Hand, finger, shoulder and oblique injuries matter little. Concussions matter a little.",
+     "text": "Some cases are exceptions to the rule above. Be careful with repeated injuries or surgeries to the same lower-body part, especially knees, and with an ongoing mystery illness. Repeated problems in the same spot make future missed time more likely. Bid below the player's per-game value. Hand, finger, shoulder and oblique injuries do not matter much. Concussions matter a little.",
      "sources": [
       "8d--aL_xxwE:r6",
       "JMSLg6yz-M0:r3"
      ]
     },
     {
-     "text": "Big men with foot problems are the clearest case. Very large players with repeated foot and ankle problems are a risky mix. Foot injuries can change the path of a seven-footer's career. Big men jump, contest and land on bodies, so a slow recovery can push them past opening night. Their repeated lower-body problems rarely go away.",
+     "text": "Big men with foot problems are the clearest case. They jump, contest and land on other bodies, so lower-body and foot injuries hurt them more. Slow recoveries can push them past opening night. Seven-footers with foot injuries are a risk because a foot injury can change a big man's career. Very large players with repeated foot and ankle problems are a risky mix. Repeated lower-body injuries in big men rarely go away.",
      "sources": [
-      "LcZcvk8s1xQ:r4",
-      "UTE0dNIv8nY:r4",
       "0AptxcRW0RE:r2",
+      "UTE0dNIv8nY:r4",
+      "LcZcvk8s1xQ:r4",
       "75Sk_4fkgIM:r2"
      ]
     },
     {
-     "text": "A degenerative injury stays priced in even after a healthy year. One good season does not remove the risk. Injuries caused by a player's own all-out style are also more likely to return than random contact injuries.",
+     "text": "For degenerative injuries, one good season does not remove the risk. Keep pricing in the chronic risk even after a healthy year. Injuries that come from a player's all-out style are also more likely to come back than random contact injuries. Hamstring injuries tend to recur. A long early ruling on one can mean the team is being careful or that the injury is serious.",
      "sources": [
       "JMSLg6yz-M0:r2",
-      "FEcNjVRlj-U:r0"
+      "FEcNjVRlj-U:r0",
+      "CRLSsoGhb2w:r1"
      ]
     },
     {
-     "text": "The cost can last longer than the missed games. Some players lose production for a long time after even a minor injury. For these chronic cases, one expert drops the player a tier or more and will not take Kawhi Leonard before pick 40. In our 12-team league, pick 40 is around each team's fourth player. Treat a chronic case as a mid-roster buy, not a core purchase.",
+     "text": "Back injuries are harder to read. Sometimes they clear up and sometimes they are permanent. A back problem that kept coming back during last season can improve with a full offseason of rest. Only worry again if it flared up in training camp, so check camp reports before October 18.",
      "sources": [
-      "KLogvUwv_d8:r2",
-      "dlo7L8Ru91A:r9",
-      "7BllEsdNLoM:r5"
+      "s28HvC2grAk:r2",
+      "sTtFUy7IoJI:r6"
+     ]
+    },
+    {
+     "text": "Short-term injuries are different. Avoid players who start the season injured. But the season is 25 weeks long, so do not drop a player with a short-term injury too far down your sheet.",
+     "sources": [
+      "CRLSsoGhb2w:r0"
      ]
     }
    ]
   },
   {
-   "heading": "Do not stack risk",
+   "heading": "Do not stack risky players",
    "paragraphs": [
     {
-     "text": "As a general rule, do not roster several players you have injury worries about. Pairing two injury-risk stars, such as Anthony Davis and Kawhi Leonard, on one team is very risky. This holds even when each one looks like good value at his price. Be extra careful with old players who have repeated lower-body injuries early in the draft.",
+     "text": "As a general rule, do not put several players you worry about on one roster. This holds even when each one looks like good value on his own. Pairing two injury-risk stars, such as Anthony Davis and Kawhi Leonard, is very risky. Before every bid on a risky player, count the big risks you already own. One is the limit.",
      "sources": [
       "8d--aL_xxwE:r17",
-      "_vbAP5y182A:r2",
       "80kfLVnFQ_s:r3",
-      "OdDkXFhoKsc:r2",
-      "BjXP9JODDSg:r8"
+      "_vbAP5y182A:r2",
+      "_vbAP5y182A:r8"
      ]
     },
     {
-     "text": "Before you raise your bid on a risky player, count the big risks already on your roster. Take a high-risk player late only if you have not already bought anything very risky earlier. A practical rule for our 12-man rosters: one chronic case at most, and none if your early buys already carry health questions.",
+     "text": "Timing matters too. Avoid stacking old players with repeated lower-body injuries early in the draft. Only take a high-risk player late if you have not already bought anything very risky earlier. In our auction, that means two things. If you spent big on a chronic case, skip the cheap late flyers on other chronic cases. If you stayed clean early, one late flyer is fine.",
      "sources": [
-      "_vbAP5y182A:r8",
+      "OdDkXFhoKsc:r2",
       "t4n9MAP2_14:r5"
      ]
     },
     {
-     "text": "Injury risk also works the other way. If a teammate is injury prone, his missed games can open up usage for your player. Factor that in when you weigh a risky teammate pair.",
+     "text": "Remember that injury risk also works the other way. If a player's teammates are injury prone, their missed games can give him more usage. Factor that into his price.",
      "sources": [
       "xHRF06_E9HE:r8"
      ]
@@ -207,28 +206,27 @@
    ]
   },
   {
-   "heading": "Why risk costs more in head-to-head",
+   "heading": "Why head-to-head punishes injury risk more than roto",
    "paragraphs": [
     {
-     "text": "Several experts agree that injuries matter less in roto than in head-to-head. Injury-prone stars like Kawhi Leonard and Joel Embiid worked in roto. In head-to-head they should be pushed down. In roto, a missed stretch is spread over a full season of totals. In our league, each week is its own matchup across 9 categories.",
+     "text": "Experts agree that roto and H2H are very different here. Injury-prone stars like Kawhi Leonard and Joel Embiid worked in roto, where only season totals count. In H2H they should be pushed down. Each week is a separate matchup. A player who plays only about two games in a week can cost you categories, even when his per-game numbers are good.",
      "sources": [
-      "2A2JbUN-kc0:r12",
       "OdDkXFhoKsc:r6",
       "t4n9MAP2_14:r4",
       "LM0cRCGoAUQ:r6",
-      "skKXe2CRl8Q:r2"
-     ]
-    },
-    {
-     "text": "A player who plays only about two games in a week can lose you categories even when his per-game line is strong. In a deep league, a missed game means a much worse replacement has to start. With 144 players drafted and a limit of 6 acquisitions per week, our waiver wire cannot fully cover a missing star. Limited streaming is exactly when experts say to avoid players who miss games often.",
-     "sources": [
       "7BllEsdNLoM:r6",
-      "KPdD91Oo8-U:r8",
-      "skKXe2CRl8Q:r2"
+      "2A2JbUN-kc0:r12"
      ]
     },
     {
-     "text": "Availability is the biggest threat to a top player's value. In one review, 54% of exits from the top 25 came from injury-shortened seasons, not from worse play. Our playoffs are weeks 19 to 21 and end 2027-03-28. A chronic case who goes down in March can cost you a playoff matchup.",
+     "text": "Our league makes this worse. We allow only 6 adds per week, so you cannot stream around every absence. With limited streaming, avoid players who miss games often. With 144 players drafted, the waiver replacement is weak. An injury-prone player bought late in a deep league is a big risk because a much worse player has to start for you. Our playoffs are weeks 19 to 21 and end March 28. One missed week from a fragile star in that window can end your season.",
+     "sources": [
+      "skKXe2CRl8Q:r2",
+      "KPdD91Oo8-U:r8"
+     ]
+    },
+    {
+     "text": "Availability is the biggest threat to a top player's value. 54% of the players who fell out of the top 25 did so because injury kept them under 50 games or 1500 minutes, not because they played worse.",
      "sources": [
       "2A2JbUN-kc0:r5"
      ]
@@ -236,21 +234,28 @@
    ]
   },
   {
-   "heading": "Where the experts disagree",
+   "heading": "Where the experts disagree, and what to do on draft day",
    "paragraphs": [
     {
-     "text": "The experts split on how much discount the market already applies. One side says to push risky players down a tier or more and warns against being comfortable with injury risk. The other side says drafters are too scared of players returning from last season's injuries. On this view, the market overprices risk for some veterans. If your valuation holds while public opinion drops, you get value. A health-risk player like Kristaps Porzingis is worth a late-middle-round pick. One expert adds that the new IL rule, which lets injured players go on IL as soon as they are ruled out, may mean injury-prone players should not drop further. We have 4 IL slots. Against this, another expert warns that an injury-prone player taken around pick 110 in a deep league is a big risk. Our approach: let the room push these players down, then bid only when the price is clearly below your per-game value and you hold no other big risk.",
+     "text": "The experts disagree on how hard to discount risk. One side moves injury-risk players down a tier or more, even when their per-game numbers say they belong higher. One of them will not take Kawhi Leonard before pick 40 or in round two. Another warns against being comfortable with injury risk at all. The other side says the market overreacts to risk on some veterans, and that creates value. They add that injury-risk players can still hold fantasy value, and that a player like Kristaps Porzingis is worth a late-middle pick because the upside is high and the cost is low. A third view is that the new IL rule may not justify a bigger discount, since a player can now go on IL as soon as he is ruled out.",
      "sources": [
+      "7BllEsdNLoM:r5",
       "dlo7L8Ru91A:r9",
       "sTtFUy7IoJI:r5",
-      "egRrai3Ax38:r10",
       "BjXP9JODDSg:r8",
-      "dlo7L8Ru91A:r11",
-      "80kfLVnFQ_s:r8",
-      "egRrai3Ax38:r2",
-      "KPdD91Oo8-U:r8",
       "LXZLrL90crE:r4",
-      "g31YlwRe0XQ:r8"
+      "80kfLVnFQ_s:r8",
+      "egRrai3Ax38:r2"
+     ]
+    },
+    {
+     "text": "The practical answer for our auction is to wait. Players with health questions can be strong per game, but it is better to let a few rounds pass before buying them. Keep early money for players without a chronic flag. Buy a chronic case only once his price has fallen to late-middle levels, and only if no other big risk is on your roster. Use our 4 IL slots to hold him when he is out. Do not bid against the room just because a player played every game last year.",
+     "sources": [
+      "g31YlwRe0XQ:r8",
+      "80kfLVnFQ_s:r8",
+      "_vbAP5y182A:r8",
+      "egRrai3Ax38:r2",
+      "dlo7L8Ru91A:r2"
      ]
     }
    ]

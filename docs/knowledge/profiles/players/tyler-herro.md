@@ -11,15 +11,15 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 16 | 3.8 | 68 | 7 | 8.3 | 65 | 14 |
+| 2026-27 | 16 | 5.8 | 65 | 7 | 8.3 | 65 | 14 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.1% | -0.3 | +0.3 | - |
+| FG% | 47.1% | -0.2 | +0.3 | - |
 | FT% | 89.3% | +1.7 | +1.7 | - |
-| 3PM | 3.0 | +1.7 | +1.5 | - |
+| 3PM | 3.0 | +1.7 | +1.4 | - |
 | PTS | 23.1 | +1.6 | +1.4 | - |
 | REB | 5.1 | -0.0 | +0.9 | - |
 | AST | 4.8 | +0.8 | +0.5 | - |
@@ -30,28 +30,27 @@
 </details>
 
 **Current**
-- He could be traded again. Justin expects him to stay until at least the trade deadline, where he could be moved because Burries is the long-term shooting guard. The roster needs trades to consolidate, and Herro is one of the players who do not fit well. (verdict, 2026-10-09; [08-14](https://youtu.be/owlM6b8oUd0?t=1542), [06-30](https://youtu.be/4GDfg2n2l8o?t=336), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
-- Guard depth, plus a focus on developing young players that should grow as the season goes on, may keep his minutes below 34 to 35. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=518), [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486))
-- Experts disagree on his price. Most call an ADP of 58 to 70 fair or a strong pick in round 6, and they say his production in Milwaukee is relatively safe. The newest note says rank 56 in ESPN points leagues may be his best case and calls that slightly scary. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=494), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [10-05](https://youtu.be/BiIZsSypx7Y?t=2471), [09-24](https://youtu.be/_vbAP5y182A?t=1232), [09-10](https://youtu.be/W-R1dzem32s?t=1379), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486))
-- Milwaukee got him in the Giannis Antetokounmpo trade. He is set to start, and his role is settled. (fact, 2026-10-08; [06-23](https://youtu.be/nnWX_ObljOE?t=207), [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
-- He is probably the best player on the Bucks and should be their leading scorer and main creator. He was Miami's top offensive option, so the trade does not change much for him. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=416), [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [06-23](https://youtu.be/nnWX_ObljOE?t=285), [06-23](https://youtu.be/nnWX_ObljOE?t=374), [06-30](https://youtu.be/4GDfg2n2l8o?t=336))
-- Milwaukee's guard group is crowded, with Rollins, Porter, Jakucionis, Burries, Trent and Green. Herro, Rollins and Porter will compete for creation. Herro will not play point guard. (fact, 2026-10-08; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [06-30](https://youtu.be/4GDfg2n2l8o?t=330), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
-- He missed many games with injuries last season. Even so, he finished around 53rd to 56th in 9-cat. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=416), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
-- Durability is a concern after last season's missed games. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=518))
-- If he plays 35 minutes, he would be a top 35 player. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=494))
-- Milwaukee has a new coach, Taylor Jenkins, who might use a deep rotation. Experts expect the Bucks to be bad: their win total is 26.5, and Justin expects about 33 wins. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
-- Milwaukee plays 334 games through March 28 and has 14 back-to-backs. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=2000))
-- He is on an expiring 33 million USD contract. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1542))
+- His Yahoo status is questionable (Rest). (fact, 2026-10-16; stats)
+- The Bucks have a crowded guard group, and the rotation under new coach Taylor Jenkins is very unclear. One expert says guard depth and a growing focus on young players may keep his minutes below 34 to 35. Another notes he will not play point guard. (verdict, 2026-10-13; [10-08](https://youtu.be/sDzeYdUhJDI?t=518), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486), [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=508))
+- Experts disagree on his price. Most call a draft spot in rounds 6 to 7 (around picks 58 to 70) fair or strong, and one says he seems locked into that range. One 2026-10-09 note lists him among players to avoid and says ESPN points rank 56 may be his best case. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1186), [10-08](https://youtu.be/sDzeYdUhJDI?t=494), [10-05](https://youtu.be/BiIZsSypx7Y?t=2471), [09-24](https://youtu.be/_vbAP5y182A?t=1232), [09-09](https://youtu.be/7BllEsdNLoM?t=1782), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486))
+- He could be traded. Experts expect him to stay at least until the trade deadline, when he could be moved because Burries is the long-term shooting guard. The roster needs trades to consolidate, and Herro does not fit well on it. (verdict, 2026-10-09; [08-14](https://youtu.be/owlM6b8oUd0?t=1542), [06-30](https://youtu.be/4GDfg2n2l8o?t=336), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1486), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
+- Milwaukee got him from Miami in the Giannis Antetokounmpo trade. He is a lock to start, in a projected opening lineup of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-08; [06-23](https://youtu.be/nnWX_ObljOE?t=207), [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
+- Experts call him the best player on the Bucks and their top offensive option. He should lead the team in scoring and take on part of the creation role. Moving to Milwaukee does not change his value much. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=416), [08-14](https://youtu.be/owlM6b8oUd0?t=1570), [06-23](https://youtu.be/nnWX_ObljOE?t=285), [06-23](https://youtu.be/nnWX_ObljOE?t=374), [06-30](https://youtu.be/4GDfg2n2l8o?t=336))
+- At 35 minutes per game he would be a top 35 player. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=494))
+- Injuries limited him to 33 games last season, which raises durability concerns. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=416), [10-08](https://youtu.be/sDzeYdUhJDI?t=518), [07-13](https://youtu.be/Rqb5GdrSweY?t=1632))
+- The Bucks are expected to be bad, at about 33 wins. They do not own their draft pick, so they have no reason to tank. Still, the focus on young players is expected to grow during the season, which would cut veteran minutes. (verdict, 2026-10-08; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [10-08](https://youtu.be/sDzeYdUhJDI?t=508))
+- He is on a 33 million USD expiring contract. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1542))
 
 **Durable**
-- He is an elite free throw shooter and a decent passer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=538), stats)
+- His category value comes from FT%, threes and points. Steals, blocks and turnovers are below the pool, but none of them is a real weakness. (fact, 2026-10-16; stats)
+- He is an elite free throw shooter and a decent passer. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=538))
 - His defense is very poor. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=538))
 - He has a long injury history that could come back. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1379))
 
 **Tags**
-- Current: `new team` (Traded from Miami to Milwaukee in the Giannis deal.), `contract year` (Expiring 33 million USD deal.), `trade risk` (Could be moved at the deadline. Burries is the long-term shooting guard.), `injury last season` (Many injury problems last season.), `usage competition` (Rollins and Porter compete with him for creation.), `early-season value` (Focus on young players should grow during the season and cut veteran minutes. He could also be traded at the deadline.), `deep rotation` (Too many guards fighting for minutes. Jenkins might use a deep rotation.), `new coach` (Taylor Jenkins.), `unsettled rotation` (Experts cannot figure out the Bucks rotation. The lineup could change by December or March.), `trades likely` (The roster needs trades to consolidate.), `bottom team` (Win total 26.5. Experts expect the Bucks to be bad.), `sites disagree on price` (Yahoo value 16 USD vs ESPN value 7 USD. Average costs are 3.8 USD on Yahoo and 8.0 USD on ESPN.)
-- Durable: `fits every build` (No category is flagged weak. Strong in FT%, 3PM and PTS.), `injury prone` (Long injury history that could come back.)
+- Current: `new team` (traded from Miami to Milwaukee in the Giannis deal), `contract year` (33 million USD expiring deal), `trade risk` (could be moved at the deadline; Burries is the long-term shooting guard; until 2027-03-04), `minutes competition` (crowded guard group; minutes may stay below 34 to 35), `questionable` (Yahoo Q (Rest)), `injury last season` (33 games played), `sites disagree on price` (Yahoo value 16 USD vs ESPN value 7 USD), `new coach` (Taylor Jenkins), `unsettled rotation` (Milwaukee backcourt and rotation very unclear), `deep rotation` (Jenkins might use a deep rotation), `trades likely` (roster needs consolidation trades), `usage freed` (Giannis and Portis gone; Herro, Rollins and Porter compete for creation), `bottom team` (about 33 wins expected)
+- Durable: `injury prone` (long injury history), `defensive liability`, `fits every build`
 
-**Note.** Herro's 9-cat line is strong: projected 89% FT on good volume, 3.0 threes and 23 points, with no weak category. That makes him an easy fit in any build. Both sites rank him around 65 to 68, and he went for 14 USD in our league last season. Paying about 14 to 16 USD (Yahoo value 16) is fair, and anything near ESPN's 7 USD is a bargain. Early in the season, check whether he plays about 34 minutes in the crowded Bucks backcourt and how healthy he stays, and plan for trade talk before the March 4 deadline.
+**Note.** Both sites rank him 65th, and he cost 14 USD in our auction last season. Yahoo values him at 16 USD and ESPN at 7 USD, so a bid around 10 to 15 USD fits the round 6 to 7 range most experts accept. He helps in FT%, threes and points with no weak category, so he fits any build. Early in the season, check whether his minutes reach 34 to 35 in Milwaukee's crowded guard group, whether the rest tag turns into missed games, and any trade talk before the 2027-03-04 deadline.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>17 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

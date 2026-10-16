@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 202 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 196 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -27,18 +27,20 @@
 </details>
 
 **Current**
-- His Yahoo status is questionable (Rest). (fact, 2026-10-11; stats)
-- He is likely an energy big off the bench behind Raynaud, at about 18 minutes per game. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576))
+- He has a calf strain and is out at least two weeks. Yahoo lists him as out. (fact, 2026-10-15, until at least two weeks from 2026-10-13; [10-15](https://youtu.be/PrrgoTEcao4?t=1805), [10-14](https://youtu.be/D4dP5JvX1oo?t=1556), [10-13](https://youtu.be/EogBYa24Gto?t=657), [10-14](https://youtu.be/D4dP5JvX1oo?t=1564))
+- He is the third or fourth string center. Sabonis starts, and Raynaud and Achiuwa are also ahead of him for backup minutes. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1805), [10-15](https://youtu.be/PrrgoTEcao4?t=315), [10-15](https://youtu.be/PrrgoTEcao4?t=1201), [10-15](https://youtu.be/PrrgoTEcao4?t=1706))
+- Do not draft or stash him. The experts say to avoid him. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1805), [10-14](https://youtu.be/D4dP5JvX1oo?t=1556))
+- The Kings are projected near the bottom of the league, and their poor coaching and front office make the rotation hard to predict. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=68), [10-08](https://youtu.be/6DnRWahYrFA?t=407))
 
 **Durable**
-- He makes no threes and scores very little. Threes and points are both weak at league level. (fact, 2026-10-11; stats)
-- He is a defensive-minded energy big. His value comes from rebounds and blocks. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354), [07-21](https://youtu.be/RyzcCGChYgs?t=576))
-- He is a poor free throw shooter. He shot 40% from the line in Summer League. He takes few free throws, so the damage to team FT% is limited. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
+- He makes no threes and scores very little. (fact, 2026-10-16; stats)
+- He is a defensive-minded energy big whose value comes from rebounds and blocks. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1354), [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
+- He is a poor free throw shooter. He shot 40% from the line in Summer League. His low volume limits the damage to team FT%. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=576), stats)
 
 **Tags**
-- Current: `questionable` (Yahoo status Q (Rest))
-- Durable: `no 3PM` (0.0 threes per game last season and in the projection)
+- Current: `injured now` (calf strain, Yahoo status O; until at least two weeks from 2026-10-13), `minutes competition` (behind Sabonis, Raynaud and Achiuwa at center), `bottom team`, `unsettled rotation`
+- Durable: `no 3PM` (0.0 threes per game)
 
-**Note.** Yahoo values him at 0 USD and ranks him 202. ESPN gives no price, and he was not drafted in our league last season. That puts him well outside our 144-player draft. In about 18 to 20 bench minutes, his useful categories are blocks, rebounds, FG% and low turnovers. He gives nothing in threes or points. Leave him on waivers, and only look at him early in the season if the Kings' frontcourt minutes open up.
+**Note.** Yahoo values him at 0 USD and ranks him 196th, and ESPN has no price, so he will not be among our 144 drafted players. He is hurt and third or fourth on the center depth chart, so leave him on waivers. Check him only if injuries to the Kings bigs open real minutes. His 1.5 blocks and 7.5 rebounds in 20.7 minutes last season, with few turnovers, could help a blocks build as a short-term pickup.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

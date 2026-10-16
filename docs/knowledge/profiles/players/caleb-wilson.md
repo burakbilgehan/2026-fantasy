@@ -4,57 +4,58 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 71 | 32.1 | 48.9 (13.7) | 77.0 (4.9) | 0.7 | 17.9 | 8.1 | 1.9 | 1.1 | 1.4 | 2.1 |
-| 2026-27 proj, Yahoo | 75 | - | 48.0 (12.2) | 72.0 (4.0) | 1.5 | 16.0 | 7.4 | 2.5 | 1.1 | 1.1 | 2.0 |
+| 2026-27 proj, Yahoo | 72 | - | 47.9 (12.2) | 71.9 (4.0) | 1.4 | 16.0 | 7.4 | 2.5 | 1.1 | 1.1 | 2.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 11 | 2.4 | 82 | 8 | 5.9 | 57 | not drafted |
+| 2026-27 | 12 | 4.0 | 79 | 8 | 6.4 | 57 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 48.5% | +0.1 | +0.2 | - |
-| FT% | 74.8% | -0.8 | -0.8 | - |
+| FT% | 74.7% | -0.8 | -0.8 | - |
 | 3PM | 1.1 | -0.5 | -0.6 | - |
 | PTS | 17.0 | +0.5 | +0.6 | - |
 | REB | 7.7 | +1.1 | +1.3 | - |
 | AST | 2.2 | -0.5 | -0.3 | - |
 | STL | 1.1 | +0.5 | +0.6 | - |
-| BLK | 1.3 | +1.4 | +1.8 | - |
+| BLK | 1.2 | +1.4 | +1.8 | - |
 | TO | 2.1 | -0.5 | -0.8 | - |
 
 </details>
 
 **Current**
-- Experts disagree on his draft spot in the 80s. One calls pick 89 good value and a perfect spot. Another is uneasy taking him at pick 84, and a third has not drafted him anywhere because of the uncertainty. (verdict, 2026-10-05; [09-30](https://youtu.be/BjXP9JODDSg?t=1463), [10-05](https://youtu.be/BiIZsSypx7Y?t=2972))
-- He is in Chicago's projected starting five with Josh Giddey, Norman Powell, Matas Buzelis and Nic Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [06-28](https://youtu.be/RsjGTgJiKyI?t=740))
-- Experts expect him to be the second-best rookie this season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-03](https://youtu.be/OBwWCxG9SqM?t=1111), [08-18](https://youtu.be/FxaSnyk9g90?t=1781), [08-11](https://youtu.be/OdDkXFhoKsc?t=1597))
-- Experts call his ESPN rank (56 to 66) too high. A top 100 season would be a good result, and the 80s is a fair range for him in category leagues. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-22](https://youtu.be/QbdrhJd7LiA?t=1749), [09-03](https://youtu.be/OBwWCxG9SqM?t=1111), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2122))
-- Chicago is projected to be a bad team. One expert predicts 32 wins and another calls it probably a bottom-six team. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764))
-- Tiago Splitter is Chicago's new head coach. He replaces Billy Donovan and is expected to push young players out of their comfort zones. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [08-18](https://youtu.be/FxaSnyk9g90?t=387), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152))
-- Chicago has 15 back-to-backs, one below the maximum. Its fantasy playoff schedule is 3-3-4 games (10 total) with our March 28 end date. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024))
-- Pairing him with Zach Edey takes away much of Wilson's upside. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1339))
-- He is expected to be a low-usage option as a rookie, at about 30 minutes and 20 percent usage or less. Powell, Giddey and Buzelis are expected to use more of the ball, and the Bulls are not expected to push his offensive role. (verdict, 2026-09-21; [09-03](https://youtu.be/OBwWCxG9SqM?t=1111), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2122), [08-18](https://youtu.be/FxaSnyk9g90?t=1107), [09-21](https://youtu.be/egRrai3Ax38?t=588), [09-10](https://youtu.be/W-R1dzem32s?t=1509), [09-03](https://youtu.be/OBwWCxG9SqM?t=1146), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458))
-- One expert thinks he should take more threes this season. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2122))
-- Caleb Wilson is a rookie. The Bulls drafted him with the No. 4 overall pick. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1072))
-- The Bulls should play a fast, up-tempo transition style. A lineup with Claxton, Wilson and Giddey is expected to have terrible spacing. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679), [08-18](https://youtu.be/FxaSnyk9g90?t=570), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
-- His summer league shooting is seen as partly fool's gold. He may shoot only about 30 percent from three this season, his early efficiency is expected to be rocky, and his early value should come from defense. (verdict, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1671), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458), [06-23](https://youtu.be/-rgXhs5BHiw?t=1117))
-- In summer league he averaged 22 points and 7 rebounds on 37 percent usage and shot 42 percent on 8 threes per game, but his shooting fell off as summer league went on. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1671), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458), [08-18](https://youtu.be/FxaSnyk9g90?t=1072))
+- Experts expect him to be the second-best rookie this season. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1058), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-03](https://youtu.be/OBwWCxG9SqM?t=1111), [08-18](https://youtu.be/FxaSnyk9g90?t=1781), [08-11](https://youtu.be/OdDkXFhoKsc?t=1597))
+- Experts call a pick in the 80s a fair price and take him around picks 86 to 89. His ESPN rank in the 50s and 60s is too high. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1058), [10-12](https://youtu.be/ENizLoE6pzI?t=1006), [10-10](https://youtu.be/hviT4hzYNME?t=1417), [09-30](https://youtu.be/BjXP9JODDSg?t=1463), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-22](https://youtu.be/QbdrhJd7LiA?t=1749))
+- Nikola Vucevic and Coby White have left Chicago, which frees up usage for the young players. (fact, 2026-10-13; [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [09-07](https://youtu.be/gJUBAJaHzlU?t=1152), [10-13](https://youtu.be/DzQXaC2rsac?t=768))
+- The Bulls are giving him a lot of usage, while the usage rates of Giddey and Buzelis are down. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1006), [10-12](https://youtu.be/ENizLoE6pzI?t=1610), [10-10](https://youtu.be/hviT4hzYNME?t=1417))
+- Expect rough moments and shaky efficiency early. His early value should come from defensive stats. (verdict, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1417), [06-23](https://youtu.be/-rgXhs5BHiw?t=1117), [07-23](https://youtu.be/LUTYUdXBG1M?t=1671))
+- Not all experts are comfortable with him. One is uneasy taking him at pick 84 and another has avoided him because of the rookie uncertainty. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2972))
+- He is in the projected Bulls starting five with Josh Giddey, Norman Powell, Matas Buzelis and Nic Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [06-28](https://youtu.be/RsjGTgJiKyI?t=740))
+- New head coach Tiago Splitter replaces Billy Donovan and is expected to push young players out of their comfort zones. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=387), [09-28](https://youtu.be/3Qm5wLjhvTw?t=172))
+- The Bulls project as a bad team. The team lacks shooting, and a lineup with Claxton, Wilson and Giddey will have poor spacing. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=570), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [06-25](https://youtu.be/lOshTzDA4SA?t=815))
+- The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
+- Pairing him with Zach Edey on a fantasy roster takes away much of his upside. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1339))
+- He is a rookie, taken No. 4 overall by the Bulls. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1072))
+- The Bulls should play a fast, up-tempo transition style. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
+- In summer league he took many threes, about 8 a game, and averaged 22 points and 7 rebounds on 37% usage. His shooting fell off as summer league went on. (fact, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1671), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458), [08-18](https://youtu.be/FxaSnyk9g90?t=1072))
+- His summer league shooting is partly fool's gold. He may shoot only about 30 percent from three this season. (verdict, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1671), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458))
 
 **Durable**
-- His fantasy value comes from defensive stats and rebounding: blocks, steals and rebounds. Blocks are his best category for a forward. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1074), [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [06-25](https://youtu.be/lOshTzDA4SA?t=837), [06-28](https://youtu.be/RsjGTgJiKyI?t=735), [06-23](https://youtu.be/-rgXhs5BHiw?t=1129), stats)
-- Shooting is his weakness. He is a poor free throw shooter, and his percentages are uncertain. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1074), [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [06-28](https://youtu.be/RsjGTgJiKyI?t=735), [06-25](https://youtu.be/lOshTzDA4SA?t=837))
-- He is worth more in category leagues than in points leagues because his value comes from defensive stats. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-03](https://youtu.be/OBwWCxG9SqM?t=1111), [09-01](https://youtu.be/80kfLVnFQ_s?t=1550))
-- He was not a high-usage player in college and rarely shot threes there. (fact, 2026-09-22; [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [09-22](https://youtu.be/QbdrhJd7LiA?t=1749), [08-02](https://youtu.be/TOn-D1SV7a8?t=1458))
-- He is not expected to help in assists. One expert worries about tunnel vision and does not think he can pass. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [07-23](https://youtu.be/LUTYUdXBG1M?t=1667))
-- Over the long term his game probably leans more to defense than offense, though the gap should narrow. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1195))
+- His fantasy value comes from rebounds, blocks and steals. Blocks and rebounds are his best categories for a forward. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1074), [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [06-28](https://youtu.be/RsjGTgJiKyI?t=735), [06-25](https://youtu.be/lOshTzDA4SA?t=837), [06-23](https://youtu.be/-rgXhs5BHiw?t=1129), stats)
+- Shooting is his weak point. He is a poor free throw shooter, and his three-point shot is a concern. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1074), [06-28](https://youtu.be/RsjGTgJiKyI?t=735), [06-25](https://youtu.be/lOshTzDA4SA?t=837), [06-23](https://youtu.be/-rgXhs5BHiw?t=1129), [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), stats)
+- He is worth more in category leagues than in points leagues, because his defensive stats count less in points formats. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1046), [09-01](https://youtu.be/80kfLVnFQ_s?t=1550), [09-03](https://youtu.be/OBwWCxG9SqM?t=1111))
+- He was a low-usage player in college and entered the NBA seen as a defensive prospect. (fact, 2026-09-22; [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), [09-22](https://youtu.be/QbdrhJd7LiA?t=1749), [08-18](https://youtu.be/FxaSnyk9g90?t=1072))
+- He is not a passer and has tunnel vision. Assists are not part of his value. (verdict, 2026-09-03; [07-23](https://youtu.be/LUTYUdXBG1M?t=1667), [09-03](https://youtu.be/OBwWCxG9SqM?t=1157), stats)
+- Long term he should lean more defensive than offensive, though the gap should narrow. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1195))
 - He is a good finisher and athlete. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=837))
 
 **Tags**
-- Current: `rookie` (No. 4 overall pick, expected second-best rookie), `usage competition` (Powell, Giddey and Buzelis expected to use more of the ball), `bust candidate` (at ESPN rank 56 to 66), `sites disagree on price` (Yahoo rank 82 vs ESPN rank 57), `bottom team` (about 32 wins projected), `new coach` (Tiago Splitter replaces Billy Donovan), `fast pace` (up-tempo transition style expected), `many back-to-backs` (15 back-to-backs)
-- Durable: `category league player` (value from blocks, steals and rebounds)
+- Current: `rookie` (No. 4 overall pick, projected starter), `sites disagree on price` (ESPN rank 57 vs Yahoo rank 79; experts call ESPN too high), `bust candidate` (ESPN rank in the 50s and 60s too high), `new coach` (Tiago Splitter replaces Billy Donovan), `usage freed` (Vucevic and Coby White gone), `bottom team` (projected bottom 10, about 32 wins), `fast pace` (up-tempo transition style)
+- Durable: `category league player` (value from rebounds, blocks and steals)
 
-**Note.** Wilson is a defense-first rookie forward. His blocks (+1.8 z vs forwards) and rebounds (+1.3) carry him, and his FT% (74.8 percent) and threes are mild drags. Experts put him in the 80s overall, which fits a mid-to-late pick in our 144-player draft at about Yahoo's 11 USD value. ESPN's 5.5 USD average cost and rank 57 are seen as too high, and our league did not draft him last season. He suits blocks-and-rebounds builds that can absorb a weak FT%. Early in the season, check his usage next to Powell, Giddey and Buzelis, and whether his summer league three-point volume carries over.
+**Note.** Experts take him around picks 86 to 89. With 144 players drafted, that makes him a mid-to-late auction target near his Yahoo average cost of 4.0 USD and ESPN's 6.4 USD. Do not chase him at ESPN's rank 57. His rebounds, blocks (z +1.8 vs forwards) and steals help teams that need frontcourt defensive stats, and his weak FT% (74.7%) and assists hurt least in builds that already give those up. Early in the season, check whether the Bulls keep feeding him usage under Splitter, how many threes he takes, and whether his efficiency settles.
 
-<sub>24 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>27 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

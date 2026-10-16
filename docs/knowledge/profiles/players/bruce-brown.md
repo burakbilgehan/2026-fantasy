@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 267 | 0 | 0.0 | 236 | not drafted |
+| 2026-27 | 0 | - | 271 | 0 | 0.0 | 236 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,17 +29,19 @@
 </details>
 
 **Current**
-- The Knicks are expected to trim their starters' minutes and rest more on back-to-backs over the first 30 or so games, after their long championship run. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
-- Bruce Brown is not among the Knicks' projected starters. The projected starting five is Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- Under coach Mike Brown, the Knicks play their bench more than the previous coach did. (fact, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=990))
+- Both Yahoo and ESPN rank him well outside the 144 players drafted in our league, and both value him at 0 USD. He is not a draft target. (verdict, 2026-10-16; stats)
+- Bruce Brown is not in the Knicks' projected starting five. The projected starters are Brunson, Bridges, Hart, Anunoby and Towns. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=345), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- The Knicks play a league-minimum 13 back-to-backs. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
+- The Knicks' fantasy playoff schedule is weak for a season that ends March 28, which is our end date. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
+- The experts project the Knicks to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- none
+- He has no standout category. His projected line is below the top 250 pool in every category except FT%, where he is about average. (fact, 2026-10-16; stats)
 
 **Tags**
-- Current: none
+- Current: `bad playoff schedule` (The Knicks' schedule is weak for a season that ends March 28), `few back-to-backs` (League-minimum 13 back-to-backs), `winning team` (Defending champions, projected for 50 to 54 wins)
 - Durable: none
 
-**Note.** Brown is not a draft target in our league. Yahoo ranks him 267 and ESPN ranks him 236, both sites value him at 0 USD, and his projection of 6.5 points with 0.6 threes gives him no standout category for any build. He comes off the bench behind a set starting five, and no expert note covers him. The one thing to check early is whether New York's plan to trim starters' minutes over the first 30 or so games gives him clearly more than his 24.3 minutes from last season.
+**Note.** Brown is a bench guard on the Knicks. He ranks 271 on Yahoo and 236 on ESPN, and both sites value him at 0 USD, so he should not be drafted in our 144-player auction. No category is strong enough to make him a fit for any build. His team also has a weak playoff schedule for our March 28 end. Only look at him on waivers if an injury to a Knicks starter gives him clearly more minutes.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>0 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

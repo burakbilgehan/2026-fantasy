@@ -8,91 +8,64 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f5e722ba17aa",
- "note_count": 13,
- "built_at": "2026-10-11T09:18:34+00:00",
+ "input_sha": "a9b2f0884027",
+ "note_count": 15,
+ "built_at": "2026-10-16T09:01:30+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1789982,
-  "duration_ms": 44660,
+  "cost_usd_list": 0.2080302,
+  "duration_ms": 56133,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Grant is in the projected Memphis starting five at small forward, with Ty Jerome, Cedric Coward, Cameron Boozer and Zach Edey. He gets the spot as a trusted veteran.",
+   "text": "Experts disagree on whether he starts. One preview has him tentatively starting as a trusted veteran. The two newest notes expect him not to start, with Wells starting instead, and one preview warns Memphis may go younger and bring him off the bench.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:p52",
+    "hviT4hzYNME:p44",
+    "lp11OAEpq4Y:p18",
+    "lp11OAEpq4Y:p20",
+    "dlo7L8Ru91A:p46"
+   ]
+  },
+  {
+   "text": "He is not worth even a last-round pick in 10- or 12-team leagues. ESPN's rank near 147 is about right. Yahoo's rank is too low.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p21",
+    "w66x_I_MaQ8:p52"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo plays at a very high pace, uses short stints and keeps minutes down. Memphis runs an 11- or 12-man rotation.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p18",
-    "lp11OAEpq4Y:t4",
-    "LcZcvk8s1xQ:p2",
-    "LcZcvk8s1xQ:t6"
-   ]
-  },
-  {
-   "text": "His starting role is not secure. Memphis may go younger and bring him off the bench more often.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p20",
-    "dlo7L8Ru91A:p46",
-    "bHA-JoW3reE:p13"
-   ]
-  },
-  {
-   "text": "Coach Tuomas Iisalo uses an 11 or 12 man rotation and keeps minutes down. Only Boozer and Coward are expected to play more than 30 minutes, so Grant's minutes are capped.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t1",
+    "lp11OAEpq4Y:t0",
+    "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "The newest expert call says he is not worth even a last-round pick in 12-team leagues. It also calls ESPN's rank of about 147 about right.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p21"
-   ]
-  },
-  {
-   "text": "Memphis has three first-round picks in the 2027 draft, which gives it room to make trades.",
-   "kind": "fact",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t5"
-   ]
-  },
-  {
-   "text": "Grant is a possible trade chip at the deadline or on draft night. A trade could change his role.",
+   "text": "Only Cameron Boozer and Cedric Coward are expected to top 30 minutes, so his minutes are likely capped below that.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p2",
-    "LcZcvk8s1xQ:t5"
+    "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "He is expected to be motivated this season because he wants another big NBA contract.",
-   "kind": "verdict",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:p3"
-   ]
-  },
-  {
-   "text": "His 2P% rose from 38 to 52 last season. The expert expects it to settle at about 48 to 49, which would lower his FG%.",
+   "text": "His 2P% is expected to come back down to about 48 to 49 percent after last season's jump to 52.",
    "kind": "verdict",
    "date": "2026-07-16",
    "until": "",
@@ -101,28 +74,37 @@
    ]
   },
   {
-   "text": "Memphis plays 4 games in each of our playoff weeks 19, 20 and 21 (season ending March 28). It has only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "He is a possible trade chip at the deadline. Memphis holds three first-round picks in the 2027 draft, which gives it room to make trades.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p2",
+    "LcZcvk8s1xQ:t5"
+   ]
+  },
+  {
+   "text": "He wants another big NBA contract, so one expert expects him to be motivated to prove his value.",
+   "kind": "verdict",
+   "date": "2026-08-17",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p3"
+   ]
+  },
+  {
+   "text": "Memphis plays 4 games in each of our playoff weeks (19, 20 and 21) with a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
    ]
-  },
-  {
-   "text": "Memphis is expected to be a below-average team of around 10th seed. One expert says it is not trying to tank because of the new tanking rules.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t1",
-    "LcZcvk8s1xQ:t4"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a scoring-only player. He brings threes, points and a good FT%, but his rebounds, assists and steals are low for a forward, and his FG% is weak.",
+   "text": "He is a scoring-only player. His value comes from points, threes and a good FT%. His rebounds, assists and steals are low for a forward.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -133,7 +115,17 @@
    ]
   },
   {
-   "text": "His profile has little room to improve. The expert compares him to Harrison Barnes.",
+   "text": "FG% is his weakest category and is weak for a forward.",
+   "kind": "fact",
+   "date": "2026-06-29",
+   "until": "",
+   "sources": [
+    "bHA-JoW3reE:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "His profile has little room to improve. One expert compares him to Harrison Barnes.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -142,7 +134,7 @@
    ]
   },
   {
-   "text": "His rim finishing usually sits in the mid-to-high 50s percent.",
+   "text": "His rim finishing has mostly been in the mid-to-high 50s. His one season at 44 percent looks like the outlier.",
    "kind": "fact",
    "date": "2026-07-16",
    "until": "",
@@ -159,23 +151,13 @@
     "LcZcvk8s1xQ:p0",
     "bHA-JoW3reE:p13"
    ]
-  },
-  {
-   "text": "Coach Tuomas Iisalo plays at a very high pace and uses short, hard stints.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t0",
-    "LcZcvk8s1xQ:t1"
-   ]
   }
  ],
  "tags": [
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "FG% is his weakest category; he adds threes, points and FT%",
+   "detail": "FG% is his weakest category, about 43 to 44 percent projected",
    "until": "",
    "sources": [
     "stats",
@@ -184,11 +166,23 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Memphis may go younger and move him to the bench",
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "About 2.4 threes per game as a forward",
    "until": "",
    "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Wells and younger players may take the starting spot",
+   "until": "",
+   "sources": [
+    "hviT4hzYNME:p44",
+    "w66x_I_MaQ8:p52",
     "lp11OAEpq4Y:p20",
     "dlo7L8Ru91A:p46"
    ],
@@ -197,7 +191,7 @@
   {
    "name": "trade risk",
    "channel": "current",
-   "detail": "possible trade chip at the deadline; Memphis holds three 2027 firsts",
+   "detail": "Possible trade chip at the deadline",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:p2",
@@ -216,9 +210,20 @@
    "new_meaning": ""
   },
   {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Around the edge of the 144-player pool; watch if he wins a starting job",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:p21",
+    "w66x_I_MaQ8:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "11 or 12 man rotation",
+   "detail": "11- or 12-man rotation",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t2",
@@ -229,11 +234,12 @@
   {
    "name": "low starter minutes",
    "channel": "current",
-   "detail": "only Boozer and Coward expected above 30 minutes",
+   "detail": "Iisalo uses short stints and keeps minutes down",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2"
+    "LcZcvk8s1xQ:t2",
+    "lp11OAEpq4Y:t0"
    ],
    "new_meaning": ""
   },
@@ -250,7 +256,7 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21",
+   "detail": "4-4-4 in weeks 19 to 21 with a March 28 end",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
@@ -260,25 +266,14 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, possibly the league low",
+   "detail": "13 back-to-backs, possibly the fewest in the league",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "overcrowded roster with cuts still pending",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t5",
-    "lp11OAEpq4Y:t6"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Grant sits right at our 144-player cutoff: Yahoo has him at rank 168 and ESPN at 146, both sites value him at 0 USD, and he was not drafted in our league last season. The newest expert call says to skip him in 12-team leagues. Bid 1 USD at most, and only for a punt FG% build that needs about 2.4 threes, 17 points and an 82% FT%. The 4-4-4 playoff schedule is a plus. Early in the season, check whether he keeps the starting job and gets close to 30 minutes in Iisalo's deep rotation, and whether his FG% stays near the 43 to 44% projected.",
+ "note": "Grant sits right at the edge of our 144-player pool (Yahoo rank 168, ESPN rank 146, both valued at 0 USD). The newest expert notes doubt he starts, so he is a waiver name, not an auction target. If he does start, he fits a punt FG% build that wants points, threes and FT% from a forward, and Memphis has a 4-4-4 playoff schedule. In the first weeks, check whether he starts over Wells and whether his minutes stay near 30 under Iisalo's short stints.",
  "rejected": []
 }

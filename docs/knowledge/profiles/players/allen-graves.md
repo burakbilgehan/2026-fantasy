@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 244 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 241 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 | FG% | 42.5% | -0.5 | -0.5 | - |
 | FT% | 75.0% | -0.2 | -0.1 | - |
-| 3PM | 0.6 | -1.1 | -1.3 | - |
+| 3PM | 0.6 | -1.0 | -1.3 | - |
 | PTS | 5.4 | -1.5 | -1.6 | - |
 | REB | 3.2 | -0.8 | -0.9 | - |
 | AST | 1.4 | -0.9 | -0.9 | - |
@@ -42,9 +42,11 @@
 - He could become an impactful defender in the mold of Robert Covington or OG Anunoby. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1427))
 
 **Tags**
-- Current: `rookie` (Pick 19 in 2026, Toronto), `questionable` (Yahoo Q (groin)), `injured now` (Groin, Yahoo status Q), `waiver watch` (Projected eighth or ninth man. Yahoo value 0 USD, rank 249. Watch his minutes and steals early.)
+- Current: `rookie` (Pick 19 in 2026, Toronto), `questionable` (Yahoo Q (groin)), `waiver watch` (Projected eighth or ninth man. Yahoo value 0 USD, rank 249. Watch his minutes and steals early.)
 - Durable: none
 
 **Note.** Yahoo values him at 0 USD and ranks him 249. Its projection is 5.4 points and 0.7 steals, so he is well outside the 144 players our auction drafts and should not be bought. He belongs on the early-season waiver watch list. Check that the groin injury clears, whether he really gets bench minutes as the eighth or ninth man or the backup four, and whether the steals, rebounds and threes he showed in Summer League carry over.
+
+<sub>Tags removed by the category check: injured now (no injury status and no note).</sub>
 
 <sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>

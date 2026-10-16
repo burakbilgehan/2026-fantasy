@@ -5,29 +5,25 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 655 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 662 | - | - | - | not drafted |
 
 **Current**
-- Giannis may run point for Miami, which can take ball handling from the guards. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309), [10-07](https://youtu.be/cvhcheoKdbo?t=262))
-- He is a 22-year-old rookie. Miami drafted him 37th in the 2026 draft. (fact, 2026-10-07; [06-26](https://youtu.be/CLsUc0Sevos?t=1034), [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
-- He is not in Miami's projected starting five of Mitchell, Thompson, Wiggins, Giannis and Bam. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=372))
-- Experts expect him to get rotation minutes early in the season because Miami is thin at guard. (verdict, 2026-10-07; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
-- Dru Smith is injured. He could play ahead of Smith to start the season. (verdict, 2026-10-07, until Dru Smith returns; [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
-- One expert would not be surprised if he becomes better than Davion Mitchell by the second half of the season. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
-- Experts call him a name to watch, mainly in deeper and dynasty leagues. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1720), [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
-- With the March 28 end, Miami plays 4-3-3 in the fantasy playoffs, 10 games, a weak schedule. Miami has the league-minimum 13 back-to-backs and none in the fantasy playoffs. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Experts say he looked good in Summer League. (verdict, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
-- Miami lost guard depth and ball handlers in trades. Davion Mitchell is the starting point guard. (fact, 2026-08-02; [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [08-02](https://youtu.be/TOn-D1SV7a8?t=318))
-- Dynasty rookie rank 33. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=325))
-- He scored 17.5 points per game in Summer League before Miami sent him home early. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
+- He could play as many minutes as Davion Mitchell this season. One expert would not be surprised if he is better than Mitchell by the second half. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1583), [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
+- He is only worth a pick in deep and dynasty leagues. In standard leagues he is a name to watch. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1583), [10-07](https://youtu.be/cvhcheoKdbo?t=1720), [10-07](https://youtu.be/cvhcheoKdbo?t=1971))
+- Davion Mitchell is Miami's projected starting point guard. It is still open whether Miami starts a traditional point guard or lets Giannis Antetokounmpo run point. (fact, 2026-10-09; [08-02](https://youtu.be/TOn-D1SV7a8?t=325), [10-07](https://youtu.be/cvhcheoKdbo?t=372), [10-07](https://youtu.be/cvhcheoKdbo?t=262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
+- Ryan Conwell is a rookie. The Heat drafted him 37th in the 2026 draft. He is an older rookie at 22. (fact, 2026-10-07; [06-26](https://youtu.be/CLsUc0Sevos?t=1034), [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
+- Dru Smith is injured. Conwell could play ahead of him to start the season. (verdict, 2026-10-07, until Dru Smith returns; [10-07](https://youtu.be/cvhcheoKdbo?t=1720))
+- Using the March 28 end date, Miami has a weak 4-3-3 playoff schedule (10 games) with no back-to-backs in those weeks. Miami has the league-minimum 13 back-to-backs this season. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- He averaged 17.5 points in Summer League before Miami sent him home early. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251))
+- Miami lost guard depth and ball handlers in offseason trades, which opens possible rotation minutes for him. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1251), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757))
 
 **Durable**
-- An expert wants him to take more threes. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
+- His three-point volume is a question. Experts hope he starts taking more threes. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1034))
 
 **Tags**
-- Current: `rookie` (22 years old, pick 37 in 2026), `waiver watch` (watch for early rotation minutes; experts point to deeper leagues), `minutes competition` (guard minutes with Davion Mitchell and Dru Smith), `thin rotation` (Miami lost guard depth and ball handlers), `bad playoff schedule` (4-3-3, 10 games with the March 28 end), `few back-to-backs` (league-minimum 13, none in the fantasy playoffs)
+- Current: `rookie` (2026 draft, pick 37, age 22), `waiver watch` (deep league and dynasty only; watch his minutes early), `minutes competition` (competes with Davion Mitchell and Dru Smith for guard minutes), `bad playoff schedule` (Miami plays 4-3-3, 10 games in weeks 19 to 21), `few back-to-backs` (Miami has the league-minimum 13)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD (rank 655). ESPN gives no value and nobody drafted him in our league, so he is not a pick in a 12-team, 144-player auction. The early case is minutes: check whether he plays ahead of Dru Smith while Smith is out and whether he takes threes. Add him only if he earns a steady rotation role on a Miami team that is thin at guard.
+**Note.** Yahoo ranks him 662 with a value of 0 USD, ESPN does not price him, and nobody drafted him in our league last season, so he should not be one of our 144 auction picks. Check his minutes in the first weeks while Dru Smith is out. If he matches or passes Davion Mitchell, he is a cheap FAB add, but Miami's 10-game playoff schedule limits his late value.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

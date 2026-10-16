@@ -8,18 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "254caa3cf782",
- "note_count": 11,
- "built_at": "2026-10-04T17:22:54+00:00",
+ "input_sha": "debcc9c6f97e",
+ "note_count": 14,
+ "built_at": "2026-10-16T08:43:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.13629419999999998,
-  "duration_ms": 36022
+  "cost_usd_list": 0.17009419999999997,
+  "duration_ms": 42684,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "Tyrese Haliburton is back. Indiana's projected starting five has Nembhard in the backcourt next to Haliburton.",
+   "text": "He is projected to start at guard next to Tyrese Haliburton, with Nesmith, Siakam and Zubac.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -29,81 +31,113 @@
    ]
   },
   {
-   "text": "From January 1 to the end of last season he was top five in assists per game.",
-   "kind": "fact",
-   "date": "2026-08-10",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:p17"
-   ]
-  },
-  {
-   "text": "With Haliburton back, the experts expect a lower-usage role and fewer assists. They see little upside or blow-up potential unless Haliburton is out.",
+   "text": "With Haliburton back, he moves into a lower-usage role and his assists should drop.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p19",
     "7BllEsdNLoM:p46",
-    "EGdhmUgPAWY:p27",
-    "BjXP9JODDSg:p54",
-    "_vbAP5y182A:p54"
+    "EGdhmUgPAWY:p27"
    ]
   },
   {
-   "text": "Josh found him slightly underwhelming as the lead point guard.",
-   "kind": "verdict",
-   "date": "2026-08-10",
-   "until": "",
-   "sources": [
-    "sfCe7fS9daM:p19"
-   ]
-  },
-  {
-   "text": "He is the expert's biggest fade on the Pacers at Yahoo's rank of 108. ESPN's rank of 149 is called reasonable. Tier 8 among point guards.",
+   "text": "His only real upside comes if Haliburton misses time.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "EGdhmUgPAWY:p29",
-    "EGdhmUgPAWY:p27",
+    "EGdhmUgPAWY:p26",
+    "EGdhmUgPAWY:p27"
+   ]
+  },
+  {
+   "text": "Experts see him as a safe veteran with little or no upside. They would rather take upside fliers at the same spot.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:p43",
+    "BjXP9JODDSg:p54",
+    "_vbAP5y182A:p54",
     "7BllEsdNLoM:p46"
    ]
   },
   {
-   "text": "Do not draft him in standard formats. Take him only in the late rounds or in deeper leagues. The experts prefer an upside flier over him at around pick 112.",
+   "text": "Experts call him a fade at his Yahoo rank of about 108. They see his ESPN rank of about 149 as reasonable.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p27",
-    "EGdhmUgPAWY:p28",
-    "BjXP9JODDSg:p54",
-    "_vbAP5y182A:p54"
+    "EGdhmUgPAWY:p29"
    ]
   },
   {
-   "text": "With a March 28 season end, Indiana plays 3, 4 and 3 games in our playoff weeks 19 to 21, which is not ideal. The team has 15 back-to-backs.",
+   "text": "Experts think pick 120 is too early. They put his fair spot in rounds 13 to 14, around pick 164. One expert would not draft him in standard leagues but sees him as fine in deeper leagues.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p30",
+    "uI6umXsE7Vk:p58",
+    "BjXP9JODDSg:p54",
+    "EGdhmUgPAWY:p28"
+   ]
+  },
+  {
+   "text": "His Yahoo injury status is questionable, with an undisclosed reason.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5"
    ]
-  }
- ],
- "durable": [
+  },
   {
-   "text": "He is a low-usage player with weak defensive stats and shooting percentages that go up and down.",
+   "text": "Coach Rick Carlisle keeps minutes low even for healthy players and rests players on back-to-backs.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
-    "EGdhmUgPAWY:p26"
+    "EGdhmUgPAWY:t0",
+    "2A2JbUN-kc0:t2",
+    "QbdrhJd7LiA:t0"
    ]
   },
   {
-   "text": "His assist value depends on Haliburton being out.",
+   "text": "Experts project Indiana to win 46 to 48 games and finish as a top-six seed in the East.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6"
+   ]
+  }
+ ],
+ "durable": [
+  {
+   "text": "Assists are his one strong category. His assist value depends on Haliburton being out.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p26",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a low-usage player with up and down shooting percentages and weak defensive stats.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
@@ -112,12 +146,21 @@
    ]
   },
   {
-   "text": "He shoots threes badly in the regular season but has shot about 40% from three in the playoffs.",
+   "text": "He is a poor three-point shooter in the regular season but has shot about 40% from three in the playoffs.",
    "kind": "fact",
    "date": "2026-08-10",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p18"
+   ]
+  },
+  {
+   "text": "He gives almost no blocks.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -125,19 +168,41 @@
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Lower usage and fewer assists with Haliburton back",
+   "detail": "lower usage and fewer assists with Haliburton back",
    "until": "",
    "sources": [
     "sfCe7fS9daM:p19",
     "7BllEsdNLoM:p46",
+    "EGdhmUgPAWY:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "shares the ball with Haliburton",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:p19",
     "EGdhmUgPAWY:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "assist value depends on Haliburton being out",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p26",
+    "sfCe7fS9daM:p19"
    ],
    "new_meaning": ""
   },
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Upside only when Haliburton is out",
+   "detail": "upside only if Haliburton misses time",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p26",
@@ -148,18 +213,19 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Biggest Pacers fade at Yahoo rank 108",
+   "detail": "at Yahoo rank of about 108",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p29",
-    "EGdhmUgPAWY:p27"
+    "EGdhmUgPAWY:p27",
+    "DzQXaC2rsac:p30"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 108 and 4 USD vs ESPN rank 149 and 0 USD",
+   "detail": "Yahoo rank about 108 to 111, ESPN about 149 to 151",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p29",
@@ -168,16 +234,70 @@
    "new_meaning": ""
   },
   {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "fair spot around pick 164, outside our 144-player draft",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p30",
+    "uI6umXsE7Vk:p58",
+    "EGdhmUgPAWY:p28"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "up and down shooting percentages",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q, undisclosed",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21 with a March 28 end",
+   "detail": "3-4-3 games for a March 28 end",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "back-to-back risk",
+   "channel": "current",
+   "detail": "Carlisle rests players on back-to-backs; 15 back-to-backs",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:t2",
+    "EGdhmUgPAWY:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "projected 46 to 48 wins",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He went for 10 USD in our league last season. This year Yahoo values him at 4 USD (1.0 average cost, rank 108) and ESPN at 0 USD (rank 149), and the experts side with ESPN. With 144 players drafted, he is at most a 1 USD bench pick: a Haliburton handcuff whose only plus is assists (6.0 projected, his one category clearly above the pool), with nothing else to help a build. Early in the season, check his usage and assists next to a healthy Haliburton and whether Carlisle limits Haliburton's minutes. If Haliburton misses time, pick him up from waivers.",
+ "note": "With Haliburton back, he is an assists-only guard (6.1 projected assists, z +1.5) with no other real strength, and his playoff schedule is weak. His prices are near the minimum (Yahoo value 3 USD at an average cost of 1.0 USD, ESPN 0 USD), and experts put his fair spot around pick 164, so do not repeat last season's 10 USD price. At most, take him for 1 USD late. Better, leave him on waivers, check his Q status, and add him fast if Haliburton's minutes are limited or he misses time.",
  "rejected": []
 }

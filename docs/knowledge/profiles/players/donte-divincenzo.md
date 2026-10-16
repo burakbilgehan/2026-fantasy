@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 252 | 0 | 0.0 | 348 | 1 |
+| 2026-27 | 0 | - | 255 | 0 | 0.0 | 348 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,24 +25,23 @@
 | AST | 2.9 | -0.2 | -0.2 | - |
 | STL | 1.0 | +0.2 | +0.0 | - |
 | BLK | 0.3 | -0.7 | -0.7 | - |
-| TO | 1.2 | +0.6 | +0.6 | - |
+| TO | 1.2 | +0.6 | +0.7 | - |
 
 </details>
 
 **Current**
-- He is out with a torn Achilles until at least about March, so he will miss most of the season. (fact, 2026-10-09, until about March 2027; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), [06-22](https://youtu.be/HxQjagSTTAM?t=883))
-- He is expected to return around March on a minutes limit. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741))
-- Do not draft him. He will not matter in any fantasy league this season. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741))
-- With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoff weeks, so the semifinal week has only two games. This falls in the only part of the season he may play. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635))
+- He tore his Achilles in the playoffs. He is out until at least about March and may come back on a minutes limit. (fact, 2026-10-09, until around March 2027; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [08-19](https://youtu.be/2mxpEpGU3H8?t=517), [06-23](https://youtu.be/9tb1ARBEmQU?t=753), stats)
+- He will miss most of the season and will not matter in any fantasy league. Do not draft him. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [08-19](https://youtu.be/2mxpEpGU3H8?t=517))
 
 **Durable**
-- He tore his Achilles in the 2026 NBA playoffs. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741), [06-23](https://youtu.be/9tb1ARBEmQU?t=753))
-- His fantasy value depends on getting minutes and decent usage. He shoots well fairly consistently. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
+- Torn Achilles in the playoffs before the 2026-27 season. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1741))
+- His fantasy value depends on getting minutes and decent usage. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
+- One expert says he shoots well fairly consistently. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=859))
 
 **Tags**
-- Current: `injured now` (Torn Achilles, Yahoo status O; until about March 2027), `minutes limit` (Expected on his return from the Achilles tear around March), `bad playoff schedule` (Minnesota plays 4, 2, 4 in weeks 19 to 21, with a two-game semifinal week)
-- Durable: `usage dependent` (Needs minutes and decent usage to hold value)
+- Current: `injured now` (Torn Achilles, Yahoo status O; until around March 2027), `minutes limit` (Expected to be on a minutes limit when he returns around March)
+- Durable: none
 
-**Note.** Do not spend a pick or a dollar on him in our 144-player auction. Both sites value him at 0 USD (Yahoo rank 252, ESPN rank 348), and he went for 1 USD in our league last season. Watch the news around March: if he comes back, it will be on a minutes limit and right before a two-game semifinal week, so at most he is a late waiver pickup for 3PM and steals in deep weeks.
+**Note.** Do not spend any of our 144 draft spots on him. Yahoo and ESPN both value him at 0 USD (ranks 255 and 348), and he went for 1 USD in our last auction, before the Achilles tear. If he comes back around March, it will be on a minutes limit, just before our playoff weeks 19 to 21. His FG% was only 40.6% on 10.2 attempts last season, so all he offers is threes. Track his recovery news in February as a waiver option, not as a draft pick.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

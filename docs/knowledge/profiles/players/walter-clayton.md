@@ -9,17 +9,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 319 | 0 | 0.0 | 200 | not drafted |
+| 2026-27 | 0 | - | 320 | 0 | 0.0 | 200 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 41.7% | -0.8 | -0.7 | - |
+| FG% | 41.7% | -0.9 | -0.7 | - |
 | FT% | 89.0% | +0.8 | +0.5 | - |
 | 3PM | 1.4 | -0.1 | -0.5 | - |
 | PTS | 9.6 | -0.8 | -0.8 | - |
-| REB | 2.3 | -1.2 | -1.0 | - |
+| REB | 2.3 | -1.2 | -1.1 | - |
 | AST | 3.2 | -0.0 | -0.4 | - |
 | STL | 0.8 | -0.5 | -0.8 | - |
 | BLK | 0.3 | -0.7 | -0.4 | - |
@@ -28,17 +28,18 @@
 </details>
 
 **Current**
-- He is the fifth point guard on the Memphis depth chart. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599))
-- He has shown nothing so far. Memphis still needs two more roster cuts, and he is a likely one. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599), [10-07](https://youtu.be/lp11OAEpq4Y?t=1636))
-- Memphis has a deep roster and is expected to use an 11 or 12 man rotation, so there are few minutes left for a fifth point guard. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Ty Jerome is the starting point guard in Memphis. Clayton is projected as only the fifth point guard. (fact, 2026-10-12; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599), [10-08](https://youtu.be/6DnRWahYrFA?t=1780), [10-12](https://youtu.be/ENizLoE6pzI?t=1231))
+- Memphis still has to make two more roster cuts, and Clayton is one of the likely names. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1636), [10-07](https://youtu.be/lp11OAEpq4Y?t=1599))
+- Coach Tuomas Iisalo runs an 11 or 12 man rotation with short stints and keeps minutes down. This leaves little room for a fifth point guard. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- He has shown nothing so far. He is not a draft target in a 12-team league. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1599), stats)
 
 **Durable**
 - none
 
 **Tags**
-- Current: `cut candidate` (Fifth point guard. Named as a likely cut from an overcrowded Memphis roster.), `minutes competition` (Ranks behind four other point guards on the depth chart.), `deep rotation` (Memphis is expected to use 11 or 12 players.)
+- Current: `cut candidate` (Named as a likely cut while Memphis trims an overcrowded roster), `minutes competition` (Fifth point guard behind Ty Jerome and a crowded guard group), `deep rotation` (Memphis plays 11 or 12 players in short stints)
 - Durable: none
 
-**Note.** He is not a draft target in our 144 player auction. Both Yahoo and ESPN value him at 0 USD (Yahoo rank 319, ESPN rank 200), and he went undrafted in our league last season. He shot 38.4% from the field in 20 minutes last season, and as the fifth point guard and a likely roster cut, he only matters if Memphis keeps him and injuries open up minutes.
+**Note.** Both Yahoo and ESPN value him at 0 USD, and his ranks (320 Yahoo, 200 ESPN) are well outside the 144 players we draft, so skip him in the auction. ESPN projects 25 minutes and 5.0 assists, but that does not fit a fifth point guard who may be cut. His good FT% (89% on about 2 attempts) is too low in volume to matter. Early in the season, check only whether he survives the Memphis cuts and gets real minutes if guards ahead of him get hurt.
 
-<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

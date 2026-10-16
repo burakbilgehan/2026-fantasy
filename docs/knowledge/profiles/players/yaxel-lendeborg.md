@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 133 | 0 | 0.9 | 175 | not drafted |
+| 2026-27 | 0 | 1.4 | 124 | 0 | 1.3 | 175 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,42 +19,37 @@
 | 3PM | 0.8 | -0.8 | -1.1 | weak for his position (punt fit) |
 | PTS | 11.0 | -0.5 | -0.5 | - |
 | REB | 5.3 | +0.1 | +0.1 | - |
-| AST | 2.3 | -0.5 | -0.3 | - |
-| STL | 1.0 | +0.2 | +0.2 | - |
+| AST | 2.3 | -0.5 | -0.2 | - |
+| STL | 1.0 | +0.2 | +0.3 | - |
 | BLK | 0.8 | +0.5 | +0.7 | - |
 | TO | 1.4 | +0.4 | +0.3 | - |
 
 </details>
 
 **Current**
-- Experts call the Warriors bad this season. The team is reportedly treating it as a gap year, worries about lottery odds and may rest veterans. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718), [10-06](https://youtu.be/eTsjuVu1trk?t=481), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- He is a rookie. He started the Warriors' preseason opener. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
-- Draft him as a round 10 to 11 flier. One expert would take him as high as pick 100 in category leagues and around 125 in points leagues. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276), [09-30](https://youtu.be/MUbNYdjpUDM?t=803))
-- Apart from Steph Curry, no one on the roster really creates his own shot or gets much usage. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274))
-- Golden State's projected starters are Curry, Podziemski, Lendeborg, Green and Horford. The more Draymond Green plays center, the more minutes open up for Lendeborg and Santos. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-22](https://youtu.be/LXZLrL90crE?t=270))
-- The Porzingis news gives him a usage boost, but not necessarily more minutes unless Green plays more center. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=788))
-- Steve Kerr rarely starts rookies, has little patience for them and often changes his announced starting lineup after a few games. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301), [08-22](https://youtu.be/LXZLrL90crE?t=415))
-- The Warriors' schedule is good for fantasy playoffs that end March 28, but it includes 15 back-to-backs. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- His numbers are expected to drop when Moody and Butler return, and Warriors players are expected to fade as the season goes on. (verdict, 2026-09-14, until Moody and Butler return; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- He is expected to be okay as a starter but to have rookie struggles. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1779))
-- He won Summer League MVP averaging 13 points. That line was boosted by 48% three-point shooting, which experts expect to regress. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=407), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [07-21](https://youtu.be/RyzcCGChYgs?t=2072))
-- Golden State's depth is very poor. They struggle to field a 10-man rotation, so minutes should go up across the rotation. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- He started the preseason opener and is in the Warriors' expected starting lineup with Podziemski and Gui Santos, with Draymond Green at center. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1473), [10-11](https://youtu.be/uI6umXsE7Vk?t=1244), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [10-12](https://youtu.be/ENizLoE6pzI?t=1282), [10-11](https://youtu.be/uI6umXsE7Vk?t=1249))
+- Jimmy Butler and Moses Moody are out at the start of the season. Butler is out for at least half the season. (fact, 2026-10-12; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508))
+- Experts expect his role and numbers to drop when Butler and Moody return, and expect Warriors players in general to fade as the season goes on. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1473), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2276), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
+- Experts now take him around picks 98 to 106 in 9-cat mocks and say to move him up because he will start. Josh says he has real redraft value with the Warriors this season. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1473), [10-11](https://youtu.be/uI6umXsE7Vk?t=1244), [10-12](https://youtu.be/w66x_I_MaQ8?t=1482), [09-30](https://youtu.be/MUbNYdjpUDM?t=803))
+- The Porzingis news gives him a usage boost. His minutes go up the more Draymond Green plays center. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=788), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
+- Steve Kerr rarely starts rookies, has little patience with them and often changes his starting lineup a few games in, so the starting job is not secure. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=237), [08-22](https://youtu.be/LXZLrL90crE?t=301), [08-22](https://youtu.be/LXZLrL90crE?t=415))
+- The Warriors' schedule is good for fantasy playoffs ending March 28. The team has 15 back-to-backs, tied for second most. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- He is a 24-year-old NBA rookie. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=901))
+- Experts expect rookie struggles and a drop in shooting from his Summer League, where a 48% three-point rate boosted his numbers. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1779), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [07-21](https://youtu.be/RyzcCGChYgs?t=2072))
 
 **Durable**
-- Threes are his weakest category for a forward. Projections differ a lot here: Yahoo has 1.3 threes per game and ESPN has 0.3. (fact, 2026-10-11; stats)
-- He fits in around others and is not a high-usage creator, so his usage will be low. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
-- His fantasy appeal is a spread of rebounds, assists, steals and blocks. He is versatile and can grab a rebound and push the ball himself. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [08-22](https://youtu.be/LXZLrL90crE?t=903))
-- His shooting is inconsistent and his jumper is iffy. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [06-25](https://youtu.be/lOshTzDA4SA?t=1934))
-- Experts disagree on his free throws. One calls him a poor free throw shooter, and he shot under 70% FT in Summer League. A pre-draft note listed free throws as a college strength. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [07-21](https://youtu.be/RyzcCGChYgs?t=2072), [06-22](https://youtu.be/HxQjagSTTAM?t=692))
-- He is an older rookie. He is 24 at the start of his first NBA season. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
-- Experts disagree on his defense. One calls him good defensively, and others expect defensive problems. (verdict, 2026-08-02; [06-25](https://youtu.be/lOshTzDA4SA?t=1934), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [07-21](https://youtu.be/RyzcCGChYgs?t=2072))
-- He has no clear position. He was a 20-usage player on a strong college team. (fact, 2026-06-25; [06-23](https://youtu.be/-rgXhs5BHiw?t=693), [06-25](https://youtu.be/lOshTzDA4SA?t=1934))
+- Threes are his weakest category for a forward. (fact, 2026-10-16; stats)
+- He is a low-usage player who fits in around others, not a creator of his own shot. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562))
+- He is a versatile forward who adds rebounds, assists, steals and blocks, can grab a rebound and push the ball himself, and passes well. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [08-22](https://youtu.be/LXZLrL90crE?t=903))
+- His shooting is inconsistent. (verdict, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=538), [10-02](https://youtu.be/ZYllcj4o6_A?t=562), [06-25](https://youtu.be/lOshTzDA4SA?t=1934))
+- One expert calls him a poor free throw shooter. Site projections put him near 80% on low volume. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=873), stats)
+- Experts disagree on his defense. Some call him good defensively, others expect defensive problems in the NBA. (verdict, 2026-08-22; [06-25](https://youtu.be/lOshTzDA4SA?t=1934), [08-22](https://youtu.be/LXZLrL90crE?t=903), [08-02](https://youtu.be/TOn-D1SV7a8?t=901), [07-21](https://youtu.be/RyzcCGChYgs?t=2072))
+- He has no clear NBA position. (verdict, 2026-06-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=693))
 
 **Tags**
-- Current: `rookie` (24-year-old rookie, 2026 Summer League MVP), `flyer` (round 10 to 11 flier), `early-season value` (numbers expected to drop when Moody and Butler return; until Moody and Butler return), `minutes competition` (Santos and Melton on the wings now; Butler and Moody return later), `unsettled rotation` (Kerr often changes the announced starting lineup, with lots of mixing among the wings), `thin rotation` (Warriors struggle to field a 10-man rotation), `concentrated usage` (Curry is the only shot creator), `tank risk` (gap year, worried about lottery odds, may rest veterans), `bottom team` (several experts call the Warriors bad), `good playoff schedule` (good for playoffs ending March 28)
-- Durable: `rookie-averse coach` (Steve Kerr rarely starts rookies and has little patience for them), `category league player` (one expert would take him up to pick 100 in categories and around 125 in points), `punt 3PM fit` (threes are his weakest category; Yahoo and ESPN 3PM projections differ a lot)
+- Current: `rookie` (24-year-old rookie), `minutes competition` (Butler and Moody return later; Santos and Melton on the wing), `early-season value` (starts while Butler and Moody are out), `expert target` (taken at 98 to 106 in mocks vs Yahoo rank 124 and ESPN rank 175), `flyer` (round 10 to 11 flier), `unsettled rotation` (Kerr changes lineups often; Butler and Moody returns), `thin rotation`, `tank risk` (possible gap year, may rest veterans), `good playoff schedule` (good for a March 28 end), `many back-to-backs` (15 back-to-backs)
+- Durable: `punt 3PM fit`, `rookie-averse coach` (Steve Kerr)
 
-**Note.** Yahoo ranks him 133 and ESPN ranks him 175. Both sites value him at about 1 USD, and he was not drafted in our league last season, so he is a 1 to 2 USD end-of-auction flier, worth it only for his spread of rebounds, assists, steals and blocks as a starter on a thin roster. He fits punt 3PM builds, but his projected 3PM swings from 0.3 (ESPN) to 1.3 (Yahoo) and his free throws are disputed. Early on, check whether Kerr keeps him in the starting lineup, his minutes and his FT%. Plan to move on or trade him before Butler and Moody return.
+**Note.** He is a late, cheap target. Yahoo's average cost is 1.4 USD and ESPN's is 1.3 USD, his ranks are 124 and 175, and experts now take him around picks 98 to 106 as a starter. He gives a little of everything (BLK +0.7 vs forwards) and is a natural punt 3PM fit, but the sites split hard on threes (Yahoo 1.3, ESPN 0.3 per game). Early on, check that he keeps the starting job under Kerr and what his minutes are. Plan to sell or replace him before Butler and Moody return.
 
-<sub>17 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

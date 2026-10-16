@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 200 | 0 | 0.2 | 136 | not drafted |
+| 2026-27 | 0 | 0.0 | 202 | 0 | 0.2 | 136 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 1.2 | -0.3 | -0.6 | - |
 | PTS | 7.7 | -1.1 | -1.1 | weak for his position (punt fit) |
 | REB | 3.3 | -0.8 | -0.7 | - |
-| AST | 2.5 | -0.4 | -0.4 | - |
+| AST | 2.5 | -0.3 | -0.4 | - |
 | STL | 1.6 | +1.9 | +1.8 | - |
 | BLK | 0.5 | -0.2 | +0.1 | - |
 | TO | 1.0 | +0.9 | +0.9 | - |
@@ -30,18 +30,19 @@
 </details>
 
 **Current**
-- Guard minutes are expected to go to Shai Gilgeous-Alexander, Ajay Mitchell, Cason Wallace and Topic. Cason Wallace is almost certain to start. (verdict, 2026-08-30; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
-- OKC traded Lu Dort, Aaron Wiggins and Isaiah Joe to save salary. Apart from Jalen Williams and Caruso, the team has no true wings left who can guard bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [07-26](https://youtu.be/75Sk_4fkgIM?t=390))
+- Caruso is projected as OKC's seventh man. He is not expected to play enough minutes to matter in fantasy and is only worth using as a steals streamer. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1419))
+- OKC traded away Lu Dort, Aaron Wiggins and Isaiah Joe this offseason. Caruso and Jalen Williams are the only wings left on the roster who can guard bigger forwards. (fact, 2026-10-12; [07-26](https://youtu.be/75Sk_4fkgIM?t=390), [10-12](https://youtu.be/NhLMyS7Ii5I?t=98))
+- OKC has a league-minimum 13 back-to-backs. Its schedule is good for a season that ends March 28. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- OKC is projected to win about 57 to 62 games and to be a top two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- Steals are his best category and clearly above the top 250 pool. He also keeps turnovers low. (fact, 2026-10-04; stats)
-- Points are his weakest category for his position. (fact, 2026-10-04; stats)
-- He can defend bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=407))
+- Steals are his main fantasy asset, and he commits few turnovers. He scores very little, even for his position. (fact, 2026-10-16; stats)
+- Caruso can defend bigger forwards. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=407))
 
 **Tags**
-- Current: `sites disagree on price` (Yahoo rank 196, ESPN rank 137; ESPN projects 69 games and more minutes than Yahoo's 58 games)
-- Durable: `punt PTS fit` (projected 7.7 points per game)
+- Current: `waiver watch` (Steals streamer only), `winning team` (Projected 57 to 62 wins), `few back-to-backs` (League-minimum 13 back-to-backs), `good playoff schedule` (Schedule is good with a March 28 end date)
+- Durable: `punt PTS fit` (About 7.7 projected points per game)
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 196, ESPN rank 137), and he went undrafted in our league last season, so he is a last-dollar pick or waiver option at most. His value is steals (about 1.6 per game projected) with few turnovers. He fits a punt PTS build and gives little elsewhere after averaging 18.2 minutes last season. Early in the season, check whether OKC's loss of Dort, Wiggins and Joe pushes his minutes toward ESPN's 24.3-minute projection. If it does, his steals become worth a roster spot.
+**Note.** Caruso should go undrafted in our 144-player auction. Both sites price him at 0 USD, Yahoo ranks him 202 and ESPN ranks him 136, and he was not drafted in our league last season. As a seventh man, he is a waiver streamer for steals (projected 1.6 per game, z +1.9 against the pool) and low turnovers, and he fits punt PTS builds best. Early in the season, watch whether OKC's thin wing depth gets him more than his 2025-26 average of 18 minutes.
 
-<sub>1 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

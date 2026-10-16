@@ -22,7 +22,7 @@
 | 3PM | 1.1 | -0.4 | -0.7 | - |
 | PTS | 13.8 | -0.0 | -0.1 | - |
 | REB | 4.3 | -0.3 | -0.1 | - |
-| AST | 1.8 | -0.8 | -0.9 | - |
+| AST | 1.8 | -0.7 | -0.9 | - |
 | STL | 0.6 | -1.1 | -1.2 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
 | TO | 1.7 | -0.0 | +0.0 | - |
@@ -30,23 +30,27 @@
 </details>
 
 **Current**
-- The Pelicans have a new head coach, Jamahl Mosley. (fact, 2026-10-09; [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- The Pelicans have more players than they have minutes for, so roles on the team are hard to project. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
-- He is not in the projected Pelicans starting lineup. Dejounte Murray, Trey Murphy and Zion Williamson are locked in, Yves Missi likely starts, and the last spot goes to Jeremiah Fears or Herb Jones. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- He signed with the New Orleans Pelicans and joins them as a bench player. (fact, 2026-09-04; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- He is projected for about eight fewer minutes per game than last season. He would compete for shots with Fears, Murphy, Murray and Zion. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641))
-- The Pelicans may need to trade someone to make room for him, possibly Jordan Hawkins or Micah Peavy. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1577))
-- Experts see the Pelicans as a weak team near the bottom of the West, at about 34 wins. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
+- The Pelicans roster is crowded with high-usage players, and it is unclear how the team will split its 240 minutes. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [10-10](https://youtu.be/gsx_UDkVPd0?t=191), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- He signed a one-year prove-it deal with the Pelicans and comes off the bench. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1666), [08-26](https://youtu.be/sTtFUy7IoJI?t=1641), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- Last season he finished 119th in category leagues and 114th in points leagues. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1666))
+- The expert ranks him 160th, well below his ADP of 116. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1666))
+- Up to 10 Pelicans could get drafted, but probably only 4 or 5 will hold fantasy value. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=191))
+- Jamahl Mosley is the new head coach and brings a defense-first identity. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=101), [08-03](https://youtu.be/5QU-jta-lWM?t=1459))
+- The Pelicans have a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- With a March 28 end, the Pelicans play 4, 4 and 3 games in our playoff weeks, which is a good schedule. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- He is projected for eight fewer minutes per game than last season. Fears, Murphy, Murray and Zion could take his shots. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1641))
+- Experts see the Pelicans as a weak team near the bottom of the West, with about 34 wins projected. (verdict, 2026-08-03; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765))
 
 **Durable**
-- He drives well and gets to the rim and the free throw line. FT% is his best category. (fact, 2026-10-11; [08-26](https://youtu.be/sTtFUy7IoJI?t=1614), stats)
-- He does not defend, pass or shoot well, and his defensive and shooting numbers are bad. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1614), [08-26](https://youtu.be/sTtFUy7IoJI?t=1651))
-- He has improved as a rebounder. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1651))
+- He is a volume scorer who needs usage. He is much less useful in a smaller role. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1692))
+- He drives well and gets to the rim and the free throw line often. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1692), [08-26](https://youtu.be/sTtFUy7IoJI?t=1614))
+- He is worth more in points leagues than in category leagues, and his production is inconsistent. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1692))
+- He does not defend, pass or shoot well. His defensive and shooting numbers are bad. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1614), [08-26](https://youtu.be/sTtFUy7IoJI?t=1651))
 
 **Tags**
-- Current: `new team` (Signed with New Orleans), `role down` (Bench role, projected about eight fewer minutes per game), `minutes competition` (Crowded wing and guard group: Murray, Murphy, Fears, Herb Jones, Bey), `usage competition` (Shots shared with Fears, Murphy, Murray and Zion), `deep rotation` (About eight Pelicans who could start), `unsettled rotation` (Guard and frontcourt roles unclear), `new coach` (Jamahl Mosley), `bottom team` (About 34 wins projected), `trades likely` (Pelicans may trade Jordan Hawkins or Micah Peavy to fit him)
-- Durable: none
+- Current: `new team` (Signed with the Pelicans), `contract year` (One-year prove-it deal), `role down` (Bench role, projected for eight fewer minutes per game), `usage competition` (Fears, Murphy, Murray and Zion), `minutes competition` (Crowded Pelicans wing and guard rotation), `bust candidate` (Expert rank 160 against ADP 116), `waiver watch` (Ranked outside the 144 players drafted in our league), `deep rotation`, `new coach` (Jamahl Mosley), `many back-to-backs` (League-high 16), `good playoff schedule` (4-4-3 for a March 28 end), `bottom team` (About 34 wins projected)
+- Durable: `usage dependent` (Volume scorer, bad in a smaller role), `points league player`, `streaky` (Described as inconsistent), `defensive liability`
 
-**Note.** Both sites price him at 0 USD (Yahoo rank 160, ESPN rank 189). That puts him outside our 144-player draft, though our league paid 4 USD for him last season. Yahoo projects only 11.2 points on 8.2 shots as a bench player, while ESPN still projects 16.5 points in 29 minutes. Do not draft him. Watch him on waivers early. If New Orleans clears its crowded rotation with a trade, or Zion or a starting guard misses time, his FT% (86.9% on 6.2 attempts last season) and his points could return.
+**Note.** Yahoo and ESPN both value him at 0 USD and rank him 160 and 189. That is outside the 144 players we draft, even though he cost 4 USD in our league last season. As a bench scorer on a crowded Pelicans team, his projected volume falls to 8.2 FGA on Yahoo. He is no more than a 1 USD flier and fits no particular build. Leave him on waivers and watch his minutes early, especially if Zion, Murphy or Murray miss time. The Pelicans' 4-4-3 playoff schedule is good, but the team has a league-high 16 back-to-backs.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

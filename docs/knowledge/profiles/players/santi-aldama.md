@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 234 | 0 | 0.1 | 173 | 3 |
+| 2026-27 | 0 | - | 254 | 0 | 0.1 | 173 | 3 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 46.9% | -0.2 | -0.1 | - |
 | FT% | 66.5% | -0.8 | -0.8 | - |
 | 3PM | 1.5 | +0.0 | -0.0 | - |
-| PTS | 11.0 | -0.5 | -0.6 | - |
+| PTS | 11.0 | -0.5 | -0.5 | - |
 | REB | 5.5 | +0.2 | +0.2 | - |
 | AST | 2.4 | -0.4 | -0.2 | - |
 | STL | 0.7 | -0.7 | -0.7 | - |
@@ -30,23 +30,27 @@
 </details>
 
 **Current**
-- Aldama moved from Memphis to Dallas. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1284), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019), [07-27](https://youtu.be/0AptxcRW0RE?t=1121))
-- He had knee surgery at the end of last season and is not fully cleared. He will only take part in camp partly. His Yahoo status is questionable (undisclosed). (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1875), stats)
-- The Dallas frontcourt is crowded with forwards and bigs, so many players compete for his minutes. (fact, 2026-09-29; [08-26](https://youtu.be/sTtFUy7IoJI?t=1733), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019), [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- His strong finish last season came from about 28 minutes a night on a Memphis team that was tanking. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1284), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [08-11](https://youtu.be/OdDkXFhoKsc?t=2676))
-- Experts expect him to be the seventh man, with minutes in the low 20s. They do not expect the 28 minutes of last season to repeat. He would need to start and play about 28 minutes to matter. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1284), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019))
-- Experts rank him around or outside the top 200 and give him almost no draft value. Josh does not understand his Yahoo ADP of 109. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1325), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019))
-- Dallas has a 4-4-4 schedule in the fantasy playoffs, one of the best. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Aldama moved from Memphis to Dallas this offseason. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1284), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019), [07-27](https://youtu.be/0AptxcRW0RE?t=1121))
+- He is not fully cleared after knee surgery and was set to take only partial part in camp. Yahoo lists him as questionable with a knee issue. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1875), stats)
+- Dallas has a crowded frontcourt, with many forwards who fit best at power forward. That limits his minutes. (fact, 2026-09-29; [08-26](https://youtu.be/sTtFUy7IoJI?t=1733), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019), [09-29](https://youtu.be/XSPJL_mlFXo?t=134))
+- Dusty May is the new Dallas head coach. It is not yet known how he will split minutes among the centers and forwards, Aldama included. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
+- Josh projects him as the seventh man, playing in the low 20s in minutes. The 28 minutes a night he got on a Memphis team that was not trying to win should not repeat. He needs to start and play about 28 minutes to matter. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1284), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019))
+- Josh ranks him close to 200 and does not understand a Yahoo ADP of 109. He has almost no draft value. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1325), [08-26](https://youtu.be/sTtFUy7IoJI?t=1741), [07-13](https://youtu.be/Rqb5GdrSweY?t=2019))
+- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
 
 **Durable**
-- His category line is close to average in most categories, with above-average rebounds. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1306), stats)
-- He is a weak free throw shooter for a shooter, in the 60s for three straight seasons. He is only a middling three-point shooter. His free throw volume is low, so the damage to FT% is limited. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1306), [08-26](https://youtu.be/sTtFUy7IoJI?t=1756), stats)
-- Lloyd sees him as a backup-quality big man. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=775))
+- He commits few turnovers for his role. (fact, 2026-10-16; stats)
+- He is close to average in most categories, with above-average rebounds. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1306), stats)
+- He is a weak free throw shooter for a player who shoots, and only a middling three-point shooter. His low free throw volume limits the damage to team FT%. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1306), [08-26](https://youtu.be/sTtFUy7IoJI?t=1756), stats)
+- He had knee surgery at the end of the 2025-26 season. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1875))
+- Lloyd calls him a backup-quality big man. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=775))
 
 **Tags**
-- Current: `new team` (Traded from Memphis to Dallas), `injured now` (Not fully cleared after knee surgery at the end of last season. Yahoo status Q.), `questionable` (Yahoo Q (Undisclosed)), `role down` (Projected as the seventh man with minutes in the low 20s, down from about 28), `minutes competition` (Crowded Dallas frontcourt of forwards and bigs), `bust candidate` (Yahoo ADP 109; Josh has him closer to 200), `good playoff schedule` (Dallas plays 4-4-4 in the fantasy playoffs)
+- Current: `new team` (Memphis to Dallas), `role down` (From 28 minutes to the low 20s as the seventh man), `minutes competition` (Crowded Dallas frontcourt full of power forwards), `deep rotation` (Dallas is overloaded with forwards and bigs), `injured now` (Not fully cleared after knee surgery), `questionable` (Yahoo Q (Knee)), `injury last season` (43 games and knee surgery at season end), `bust candidate` (At a Yahoo ADP of 109; Josh has him near 200), `new coach` (Dusty May), `good playoff schedule` (Dallas plays 4-4-4 in weeks 19 to 21), `many back-to-backs` (League-high 16 back-to-backs)
 - Durable: none
 
-**Note.** Yahoo and ESPN both value him at 0 USD (ranks 176 and 171), and the experts put him near or outside the top 200. He should not be drafted in our 144-player auction, even at the 3 USD he cost last season. Leave him on waivers. Early in the season, check whether his knee is cleared and whether injuries in the Dallas frontcourt give him 25 to 28 minutes. His line is about average across the board with a weak FT%, so his value depends almost fully on playing time.
+**Note.** Both Yahoo and ESPN value him at 0 USD (Yahoo rank 254, ESPN rank 173), and the experts see a bench role in the low 20s in minutes. With only 144 players drafted, he is not worth drafting. At most he is a 1 USD bench pick, even though our league paid 3 USD for him last season. Early in the season, check whether his knee is cleared and whether Dusty May gives him starter minutes. Dallas plays 4-4-4 in the playoff weeks, so he becomes a waiver add if injuries open up the frontcourt.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: low TO (TO z +0.9 vs pool, needs +2.0).</sub>
+
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

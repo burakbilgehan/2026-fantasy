@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 31 | 31.7 | 25 | 21 | 25.4 | 34 | 42 |
+| 2026-27 | 31 | 31.9 | 25 | 21 | 24.6 | 34 | 42 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,44 +19,38 @@
 |---|---|---|---|---|
 | FG% | 45.3% | -0.9 | -0.7 | - |
 | FT% | 92.6% | +2.4 | +2.6 | league outlier, strong |
-| 3PM | 4.6 | +3.5 | +3.3 | league outlier, strong |
-| PTS | 25.8 | +2.0 | +1.9 | league outlier, strong |
+| 3PM | 4.6 | +3.4 | +3.3 | league outlier, strong |
+| PTS | 25.8 | +2.0 | +1.8 | league outlier, strong |
 | REB | 4.1 | -0.4 | +0.2 | - |
 | AST | 5.2 | +1.0 | +0.6 | - |
 | STL | 1.0 | +0.2 | -0.1 | - |
-| BLK | 0.4 | -0.5 | +0.1 | - |
+| BLK | 0.4 | -0.5 | +0.0 | - |
 | TO | 2.7 | -1.5 | -1.2 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts call the Warriors a bad team. One worries the team is bad enough to cut his minutes or rest veterans for lottery odds, and another expects Warriors players to fade as the season goes on. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718), [10-06](https://youtu.be/eTsjuVu1trk?t=508), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [09-30](https://youtu.be/MUbNYdjpUDM?t=212), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- Experts keep worrying about his knee, and that worry is the main reason they rank him below his per game level. (verdict, 2026-10-06; [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-09](https://youtu.be/7BllEsdNLoM?t=836), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [10-06](https://youtu.be/eTsjuVu1trk?t=508))
-- Experts disagree on his draft price. One finds a rank of 25 fair in category leagues if his knee is fine. One would not pay more than 25 USD in an auction. Another would not take him that early in a normal 9-cat draft. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=508), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [10-05](https://youtu.be/BiIZsSypx7Y?t=975))
-- One expert expects he could miss 30 games this season. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=975))
-- Experts see him as a top 10 to 13 player per game in category leagues. One values his per game line at about 40 USD. (verdict, 2026-10-05; [08-30](https://youtu.be/Alwse2uXzD4?t=1030), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063))
-- He is the only player on the Warriors who really creates his own shot. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
-- The Warriors have 15 back-to-backs this season, tied for the second most. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Warriors schedule is good for fantasy playoffs that end on March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Curry has said publicly that his knee issue is a new normal. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1662))
-- Experts still call him one of the best players in the league at age 38. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1734))
-- He is expected to carry a huge offensive load because the roster lacks creators. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=678))
-- The Warriors are reportedly treating this season as a gap year. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- His knee is the experts' main worry this season. Josh thinks the knee problem is getting worse, and Dan expects he could miss 30 games. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=581), [10-13](https://youtu.be/OsbUAkSeVB4?t=530), [10-12](https://youtu.be/w66x_I_MaQ8?t=498), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [10-05](https://youtu.be/BiIZsSypx7Y?t=975), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [09-15](https://youtu.be/KPdD91Oo8-U?t=459), [09-09](https://youtu.be/7BllEsdNLoM?t=836))
+- In recent expert mock drafts he went between pick 18 and pick 23. In one auction mock he went for 26 USD. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=581), [10-13](https://youtu.be/OsbUAkSeVB4?t=530), [10-12](https://youtu.be/w66x_I_MaQ8?t=498), [10-12](https://youtu.be/ENizLoE6pzI?t=647), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063))
+- The newest expert calls say not to take him around pick 23 because of his knee and the bad Warriors team. Josh values him at about 40 USD per game but would not pay more than 25 USD. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=581), [10-13](https://youtu.be/OsbUAkSeVB4?t=530), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [10-05](https://youtu.be/BiIZsSypx7Y?t=975))
+- When he plays, experts see him as a top 10 to top 12 per game player in category leagues. He is still one of the best players in the league at age 38. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=498), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2151), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [08-30](https://youtu.be/Alwse2uXzD4?t=1030), [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [08-22](https://youtu.be/LXZLrL90crE?t=1734))
+- The Warriors are seen as a bad team this season. Experts worry they could cut his minutes and rest veterans to protect their lottery odds. (verdict, 2026-10-12; [09-30](https://youtu.be/MUbNYdjpUDM?t=306), [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [10-06](https://youtu.be/eTsjuVu1trk?t=508), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063))
+- He is the only player on the Warriors who really creates his own shot, so he is expected to carry a huge offensive load. (verdict, 2026-10-02; [08-22](https://youtu.be/LXZLrL90crE?t=678), [10-02](https://youtu.be/ZYllcj4o6_A?t=551), [09-16](https://youtu.be/2A2JbUN-kc0?t=2222), [09-09](https://youtu.be/7BllEsdNLoM?t=2274))
+- Curry has runner's knee. He has said publicly that the knee issue is a new normal. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=1662), [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
+- The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs that end March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
 
 **Durable**
-- Turnovers are his weak category for a guard, at about 2.7 per game. (fact, 2026-10-11; stats)
-- He is much more valuable in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=299), [08-24](https://youtu.be/g31YlwRe0XQ?t=689), [09-16](https://youtu.be/2A2JbUN-kc0?t=2206), [08-30](https://youtu.be/Alwse2uXzD4?t=1030))
-- He has runner's knee, a wear-and-tear issue that cost him games late last season. Injury is the main fantasy risk with him. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625), [08-22](https://youtu.be/LXZLrL90crE?t=1772))
-- Expect maintenance rest days because of the knee. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1625))
-- His three-point volume is a league outlier and steady, with 4.4 threes per game in each of the last two seasons. (fact, 2026-09-23; [07-07](https://youtu.be/ME-r173X5b0?t=458), [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
-- His scoring is a league outlier. (fact, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
-- His assists and steals are not particularly good. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481))
-- He is a consistent 92 to 93 percent free throw shooter on real volume, which lifts a team's FT%. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2258), stats)
+- Turnovers are his weakest category for a guard. (fact, 2026-10-16; stats)
+- Injury is the main fantasy risk with him. His runner's knee is a wear-and-tear issue, so expect maintenance rest days. (verdict, 2026-10-13; [08-22](https://youtu.be/LXZLrL90crE?t=1772), [09-30](https://youtu.be/MUbNYdjpUDM?t=1625), [10-13](https://youtu.be/EogBYa24Gto?t=500))
+- He is worth much more in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=299), [08-24](https://youtu.be/g31YlwRe0XQ?t=689), [08-30](https://youtu.be/Alwse2uXzD4?t=1030))
+- He gives strong points. His assists and steals are not special. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
+- He is an elite three-point shooter, with steady volume of more than 4 threes a game. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=458), [09-23](https://youtu.be/C4vlgpJ62NI?t=1481), stats)
+- He is an elite free throw shooter at above 92 percent, and he is consistent at that level. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2258), stats)
 
 **Tags**
-- Current: `injury last season` (runner's knee late last season), `back-to-back risk` (knee rest days plus 15 team back-to-backs), `many back-to-backs` (15, tied for second most), `good playoff schedule` (good for a March 28 end), `tank risk` (gap year; team may chase lottery odds), `shutdown risk` (team may rest veterans for lottery odds), `bottom team` (experts call the Warriors bad), `sites disagree on price` (Yahoo 31 USD and rank 25, ESPN 21 USD and rank 34)
-- Durable: `3PM specialist` (about 4.4 to 4.8 threes per game), `FT% anchor` (92 to 93 percent on about 4.7 attempts), `PTS specialist` (about 26 points per game), `punt TO fit` (about 2.7 turnovers per game), `elite per game` (top 10 to 13 per game in categories; games played is the question), `category league player` (7th per game in 9-cat last season, 34th in fantasy points), `injury prone` (runner's knee, called a new normal by Curry), `load management` (maintenance rest days expected for the knee), `age decline watch` (age 38)
+- Current: `injury last season` (missed games late last season with runner's knee), `back-to-back risk` (15 team back-to-backs and maintenance rest for the knee), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (good for playoffs ending March 28), `tank risk` (Warriors reportedly treat this as a gap year and care about lottery odds), `shutdown risk` (Warriors may rest veterans and cut his minutes), `sites disagree on price` (Yahoo 31 USD and rank 25, ESPN 21 USD and rank 34)
+- Durable: `3PM specialist` (more than 4 threes a game, year after year), `FT% anchor` (above 92 percent on about 5 attempts), `PTS specialist`, `punt TO fit`, `elite per game` (top 10 to 12 per game in categories), `category league player`, `injury prone` (runner's knee, a wear-and-tear issue he calls a new normal), `load management` (maintenance rest days expected for the knee), `age decline watch` (age 38)
 
-**Note.** Experts value Curry's per game line near 40 USD, and his threes, points and FT% are true league outliers. The knee, his age of 38 and a gap-year Warriors team drag his price down to Yahoo 31 USD and ESPN 21 USD, well below the 42 USD he cost in our league last season, and one auction expert caps him at 25 USD. He fits punt TO and threes-heavy guard builds. A bid in the mid to high 20s makes sense if you accept the risk of 15 to 30 missed games. Early in the season, watch his knee, any rest days on the 15 back-to-backs, and whether the Warriors start to look like a lottery team.
+**Note.** Healthy, Curry is a top 10 to 12 per game player in our format. He carries 3PM, FT% and PTS, and his only weak spot is turnovers, so he fits punt TO builds best. The price question is games played: he played 43 games last season, the knee is a new normal and the Warriors may rest veterans. Our league paid 42 USD for him last season, but Yahoo (31 USD) and ESPN (21 USD) are well below that and Josh would cap him at 25 USD, so bid in the 25 to 31 USD range and do not chase him to last year's price. Early in the season, watch how often he sits back-to-backs (the team has 15) and whether his minutes stay near 32. The schedule for our playoff weeks is good.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>27 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "eed5bb10c672",
+ "input_sha": "7d103aa829c5",
  "note_count": 4,
- "built_at": "2026-10-11T09:18:02+00:00",
+ "built_at": "2026-10-16T09:00:34+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1303822,
-  "duration_ms": 25860,
+  "cost_usd_list": 0.1341222,
+  "duration_ms": 26981,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Wells is projected to come off the bench, possibly as the first reserve, for about 20 to 25 minutes a game.",
+   "text": "Expected to come off the bench, possibly as the first player off it, playing 20 to 25 minutes.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -31,7 +31,7 @@
    ]
   },
   {
-   "text": "The projected Memphis starters are Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey.",
+   "text": "Projected starters ahead of him are Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -41,17 +41,19 @@
    ]
   },
   {
-   "text": "Memphis is expected to use an 11 or 12 man rotation. Only Boozer and Coward are expected to play more than 30 minutes, which caps the bench's minutes.",
+   "text": "Memphis is expected to use an 11 or 12 man rotation, and coach Tuomas Iisalo uses short stints and keeps minutes down. This caps bench minutes.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t2",
-    "LcZcvk8s1xQ:t2"
+    "LcZcvk8s1xQ:t2",
+    "LcZcvk8s1xQ:t1",
+    "lp11OAEpq4Y:t0"
    ]
   },
   {
-   "text": "Probably not even a 16-team player. A rank in the 200s is about right, and Yahoo and ESPN ADP should be ignored.",
+   "text": "Probably not even a 16-team player. A rank in the 200s is about right.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -60,7 +62,7 @@
    ]
   },
   {
-   "text": "Memphis has the maximum 4-4-4 schedule in weeks 19 to 21 for a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Memphis has a 4-4-4 schedule in our playoff weeks and only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -71,7 +73,7 @@
  ],
  "durable": [
   {
-   "text": "Poor fantasy profile: few rebounds, assists, steals and blocks, and weak shooting percentages.",
+   "text": "Poor fantasy profile: he adds little in rebounds, assists, steals or blocks, and his shooting percentages are weak.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -80,7 +82,7 @@
    ]
   },
   {
-   "text": "He makes threes at only 35%.",
+   "text": "Makes his threes at only about 35%.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -89,22 +91,12 @@
    ]
   },
   {
-   "text": "He lacks athleticism and scores inconsistently, but he is a sturdy defender.",
+   "text": "Lacks athleticism and scores inconsistently, but is a sturdy defender.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:p22"
-   ]
-  },
-  {
-   "text": "Coach Tuomas Iisalo plays at a very high pace and uses short, hard stints of about five minutes. He keeps players' minutes down.",
-   "kind": "fact",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t0",
-    "LcZcvk8s1xQ:t1"
    ]
   }
  ],
@@ -112,23 +104,33 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Projected bench wing behind Jerome, Coward and Grant on a crowded roster",
+   "detail": "Bench wing in a crowded Memphis rotation behind Jerome, Coward, Grant and Boozer",
    "until": "",
    "sources": [
+    "LcZcvk8s1xQ:p21",
     "lp11OAEpq4Y:t5",
-    "lp11OAEpq4Y:t4",
-    "LcZcvk8s1xQ:p21"
+    "lp11OAEpq4Y:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Memphis expected to use 11 or 12 players",
+   "detail": "11 or 12 man rotation expected",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "streaky",
+   "channel": "durable",
+   "detail": "Inconsistent scorer",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p22"
    ],
    "new_meaning": ""
   },
@@ -145,7 +147,7 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21 for a March 28 end",
+   "detail": "4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
@@ -161,18 +163,8 @@
     "lp11OAEpq4Y:t7"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "streaky",
-   "channel": "durable",
-   "detail": "Inconsistent scorer",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:p22"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Wells is not a draft target in our 144-player auction. Yahoo ranks him 175 and ESPN 230, both price him at 0 USD, and the expert says even 16-team leagues can skip him. His projected 44% FG with few rebounds, assists and blocks gives no build a reason to take him, and a bench role of 20 to 25 minutes in an 11 or 12 man rotation caps his volume. Early in the season, only watch whether an injury in front of him pushes his minutes clearly above that range.",
+ "note": "Wells is not a draft target in our league. Yahoo ranks him 179 and ESPN 230, both price him at 0 USD, and the expert says he is not even a 16-team player. Only 144 players get drafted here. His only category above average is turnovers (few of them), and he gives little else on a bench role of 20 to 25 minutes. Early in the season, check whether an injury or a trade (for example Jerami Grant) moves him into the starting lineup. Even then, he would only be a short-term streamer for threes.",
  "rejected": []
 }

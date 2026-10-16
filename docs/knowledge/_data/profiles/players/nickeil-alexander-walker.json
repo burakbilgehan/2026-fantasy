@@ -8,49 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "18a1e1ee4407",
- "note_count": 29,
- "built_at": "2026-10-11T09:22:03+00:00",
+ "input_sha": "9257e8831f6d",
+ "note_count": 33,
+ "built_at": "2026-10-16T09:12:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.20872619999999997,
-  "duration_ms": 52406,
+  "cost_usd_list": 0.2924542,
+  "duration_ms": 98213,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Trae Young is gone from Atlanta and the Hawks added no one to replace him, so the conditions behind his big role are still in place.",
-   "kind": "fact",
-   "date": "2026-07-14",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:p2",
-    "xHRF06_E9HE:t0"
-   ]
-  },
-  {
-   "text": "He is projected to start in the Atlanta backcourt with CJ McCollum and Dyson Daniels, at 30-plus minutes.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t1",
-    "H9q2FT3LhNw:t0",
-    "H9q2FT3LhNw:p3"
-   ]
-  },
-  {
-   "text": "Experts expect him to keep his starting spot. Lu Dort is the threat to Atlanta guard minutes, but if Dort starts it would likely be in place of McCollum, not Alexander-Walker.",
+   "text": "Experts expect him to keep his starting spot next to McCollum, Daniels, Johnson and Okongwu. If Lu Dort starts, he would likely replace McCollum, not Alexander-Walker. Kingston Flemings is not expected to start over him.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p17",
     "n4KkK-OJjqA:t1",
+    "H9q2FT3LhNw:p3",
+    "H9q2FT3LhNw:t0",
+    "4gw4W4RTolY:t1",
     "egRrai3Ax38:t5",
-    "H9q2FT3LhNw:p3"
+    "xHRF06_E9HE:p2"
    ]
   },
   {
@@ -63,89 +45,118 @@
    ]
   },
   {
-   "text": "His role, minutes and time on the ball are seen as unchanged from last season and repeatable.",
+   "text": "Trae Young is gone from Atlanta, and the Hawks added no one to replace him. Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p2",
+    "xHRF06_E9HE:t0",
+    "H9q2FT3LhNw:t2"
+   ]
+  },
+  {
+   "text": "Experts see his role, minutes and time on the ball as unchanged from last season.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p15",
     "BiIZsSypx7Y:p20",
+    "n4KkK-OJjqA:p17",
     "W-R1dzem32s:p19",
     "7BllEsdNLoM:p21"
    ]
   },
   {
-   "text": "His second-half shooting run last season (about 70% true shooting, about 95% FT, mid-40s from three) will not hold. His pre All-Star level (about 20 points, 58% true shooting) is the better baseline, and that is still very good.",
+   "text": "His second-half shooting last season (about 70% true shooting, about 95% FT, 46 to 48% from three) will not hold. Experts use his pre All-Star line (about 20 points, 58% true shooting) as the baseline. About 81% FT and about 40% from three would still be fine.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "n4KkK-OJjqA:p17",
     "4gw4W4RTolY:p9",
+    "H9q2FT3LhNw:p0",
+    "H9q2FT3LhNw:p2",
+    "xHRF06_E9HE:p1",
+    "n4KkK-OJjqA:p17",
     "W-R1dzem32s:p19",
     "7BllEsdNLoM:p21",
-    "H9q2FT3LhNw:p0",
-    "xHRF06_E9HE:p1",
-    "egRrai3Ax38:p40"
+    "-y6p5PYLf00:p33",
+    "8d--aL_xxwE:p1",
+    "egRrai3Ax38:p40",
+    "ahNxsoU8Hx4:p22"
    ]
   },
   {
-   "text": "With McCollum on the roster for the full season and ball handling shared among several starters, his usage and ball handling may shift.",
-   "kind": "verdict",
-   "date": "2026-08-25",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:p1",
-    "H9q2FT3LhNw:t2"
-   ]
-  },
-  {
-   "text": "Lloyd projects him 35th in category leagues, well above his Yahoo rank of about 58, and calls him free real estate. Josh also says he goes 20 to 30 spots too low.",
+   "text": "Experts rank him inside the top 50 in category leagues, probably inside the top 40. Lloyd projects him 35th. They say he is going too low in drafts and call him free money.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:p15",
+    "4gw4W4RTolY:p8",
     "4gw4W4RTolY:p10",
+    "xHRF06_E9HE:p4",
     "BiIZsSypx7Y:p20",
     "BiIZsSypx7Y:t0",
     "n4KkK-OJjqA:p17",
-    "xHRF06_E9HE:p4"
+    "W-R1dzem32s:p19",
+    "7BllEsdNLoM:p21",
+    "ahNxsoU8Hx4:p22"
    ]
   },
   {
-   "text": "In auction terms, Josh values him in the mid 20s USD. He got him for 14 USD in a mock auction.",
+   "text": "His points league value matches his ADP. His extra value is in category leagues.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p10",
+    "7BllEsdNLoM:p21"
+   ]
+  },
+  {
+   "text": "In October mock drafts he went anywhere from the early 40s to the 60s, and 50th in one.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p11",
+    "OsbUAkSeVB4:p14"
+   ]
+  },
+  {
+   "text": "Experts call him good value around pick 49 and in rounds 4 to 5.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "EogBYa24Gto:p12",
+    "uI6umXsE7Vk:p28",
+    "_vbAP5y182A:p27",
+    "4gw4W4RTolY:p10"
+   ]
+  },
+  {
+   "text": "In one auction mock he went for 14 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p65"
+   ]
+  },
+  {
+   "text": "Josh values him as a mid 20s USD auction player.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p65",
-    "XnIWJyBB0EM:p8"
+    "Q6YlQDvD-aY:p65"
    ]
   },
   {
-   "text": "In snake drafts, round four or five is good value for him in 9-cat.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p10",
-    "_vbAP5y182A:p27"
-   ]
-  },
-  {
-   "text": "In points leagues his value only matches his ADP. That is why points rankings understate him for category leagues.",
-   "kind": "verdict",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p10",
-    "7BllEsdNLoM:p21",
-    "80kfLVnFQ_s:p25"
-   ]
-  },
-  {
-   "text": "He turned more of his deflections into steals and got more deflections last season, so there may be room for more steals.",
+   "text": "He may have room for more steals. He turned 36.7% of his deflections into steals, up from 29%, and got more deflections in his bigger offensive role.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -154,39 +165,28 @@
    ]
   },
   {
-   "text": "Atlanta is projected around 46 wins and fourth to eighth in the East. The team was not shutting players down late last season, and resting players is not a concern.",
+   "text": "Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs, and resting players is not a concern.",
+   "kind": "fact",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:t6"
+   ]
+  },
+  {
+   "text": "Atlanta is projected to win about 46 games and finish fourth to eighth in the East.",
    "kind": "verdict",
-   "date": "2026-09-25",
+   "date": "2026-08-25",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:t7",
-    "xHRF06_E9HE:t0",
-    "4gw4W4RTolY:t6"
-   ]
-  },
-  {
-   "text": "Atlanta plays 4-4-3 games in our playoff weeks 19 to 21 and has 14 back-to-backs.",
-   "kind": "fact",
-   "date": "2026-09-25",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:t6"
-   ]
-  },
-  {
-   "text": "Yahoo lists him as questionable (rest).",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
+    "H9q2FT3LhNw:t7"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has been one of the better catch-and-shoot three-point shooters in the NBA for three seasons. About 40% from three on high volume is a reasonable expectation.",
-   "kind": "verdict",
+   "text": "He has been one of the better catch-and-shoot three-point shooters in the NBA for three seasons.",
+   "kind": "fact",
    "date": "2026-08-25",
    "until": "",
    "sources": [
@@ -194,40 +194,79 @@
    ]
   },
   {
-   "text": "His career FT% sat around 77 to 78% before he shot about 90% last season.",
+   "text": "Before his jump to about 90% last season, he shot 77 to 80% from the line on low volume.",
    "kind": "fact",
    "date": "2026-08-09",
    "until": "",
    "sources": [
+    "-y6p5PYLf00:p33",
     "8d--aL_xxwE:p1",
-    "-y6p5PYLf00:p33"
+    "stats"
    ]
   },
   {
-   "text": "Experts treat the FT% jump as partly random. About 81% at the line would still be fine.",
-   "kind": "verdict",
-   "date": "2026-08-09",
-   "until": "",
-   "sources": [
-    "8d--aL_xxwE:p1",
-    "-y6p5PYLf00:p33"
-   ]
-  },
-  {
-   "text": "His best categories are threes, FT% and points. Rebounds and FG% are slightly below the pool, and no category is a weakness.",
+   "text": "He rarely misses games.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "Coach Quin Snyder runs an egalitarian, high-movement offense that wants lots of threes and five-out spacing.",
+   "kind": "fact",
+   "date": "2026-08-25",
+   "until": "",
+   "sources": [
+    "H9q2FT3LhNw:t3"
    ]
   }
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "no category flagged weak; strongest in 3PM, FT% and PTS",
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Yahoo average cost 5.7 USD against a Yahoo value of 17 USD. Experts call him free money.",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p17",
+    "6DnRWahYrFA:p15",
+    "ahNxsoU8Hx4:p22",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Lloyd projects him 35th against a Yahoo rank of 58.",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p15",
+    "4gw4W4RTolY:p8",
+    "4gw4W4RTolY:p10",
+    "OsbUAkSeVB4:p14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Second-half shooting last season (about 95% FT, 46 to 48% from three) is not expected to hold.",
+   "until": "",
+   "sources": [
+    "4gw4W4RTolY:p9",
+    "H9q2FT3LhNw:p0",
+    "xHRF06_E9HE:p1",
+    "-y6p5PYLf00:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 58, ESPN rank 33.",
    "until": "",
    "sources": [
     "stats"
@@ -237,7 +276,7 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "top 35 to 50 in cats, but points value only matches ADP",
+   "detail": "Points league value matches his ADP; top 40 to 50 value in categories.",
    "until": "",
    "sources": [
     "4gw4W4RTolY:p10",
@@ -246,35 +285,9 @@
    "new_meaning": ""
   },
   {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Lloyd projects 35th vs Yahoo rank 58; Josh values him in the mid 20s USD",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:p15",
-    "4gw4W4RTolY:p10",
-    "Q6YlQDvD-aY:p65",
-    "BiIZsSypx7Y:p20"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "called free money and free real estate at market ADP in the 50s to 60s",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p17",
-    "6DnRWahYrFA:p15",
-    "ahNxsoU8Hx4:p22",
-    "W-R1dzem32s:p19"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo rank 58 and avg cost 4 USD vs ESPN rank 33 and avg cost 11.3 USD",
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -282,34 +295,9 @@
    "new_meaning": ""
   },
   {
-   "name": "regression risk",
-   "channel": "current",
-   "detail": "second-half shooting run (about 95% FT, mid-40s from three) will not hold",
-   "until": "",
-   "sources": [
-    "4gw4W4RTolY:p9",
-    "H9q2FT3LhNw:p0",
-    "xHRF06_E9HE:p1",
-    "-y6p5PYLf00:p33",
-    "n4KkK-OJjqA:p17"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "shares the ball with CJ McCollum, Jalen Johnson and Dyson Daniels",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:p1",
-    "H9q2FT3LhNw:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (rest)",
+   "name": "plays every game",
+   "channel": "durable",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -319,28 +307,17 @@
   {
    "name": "shared ball handling",
    "channel": "current",
-   "detail": "no true point guard; ball handling split among McCollum, Alexander-Walker, Johnson and Daniels",
+   "detail": "No true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball.",
    "until": "",
    "sources": [
-    "H9q2FT3LhNw:t2",
-    "4gw4W4RTolY:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "five-out offense",
-   "channel": "durable",
-   "detail": "Quin Snyder's high-movement offense wants many threes",
-   "until": "",
-   "sources": [
-    "H9q2FT3LhNw:t3"
+    "H9q2FT3LhNw:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "three-point heavy",
    "channel": "current",
-   "detail": "Snyder's offense wants lots of threes",
+   "detail": "Quin Snyder wants lots of threes.",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t3"
@@ -350,7 +327,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "about 46 wins, fourth to eighth in the East",
+   "detail": "About 46 wins, fourth to eighth in the East.",
    "until": "",
    "sources": [
     "H9q2FT3LhNw:t7"
@@ -360,27 +337,25 @@
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "not shutting players down last season; resting not a concern",
+   "detail": "Resting players is not a concern in Atlanta.",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:t0",
-    "4gw4W4RTolY:t6"
+    "4gw4W4RTolY:t6",
+    "xHRF06_E9HE:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
+   "name": "good playoff schedule",
    "channel": "current",
-   "detail": "10-man rotation with Dort and Wiggins able to take starter minutes",
+   "detail": "4-4-3 games in weeks 19 to 21.",
    "until": "",
    "sources": [
-    "4gw4W4RTolY:t2",
-    "4gw4W4RTolY:t4",
-    "W3THnI7wWdA:t6"
+    "4gw4W4RTolY:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts see him as a top 35 to 50 category player. The market prices him far lower: Yahoo average cost is 4 USD against a Yahoo value of 17 USD and an ESPN value of 22 USD, and he went for 1 USD in our league last year. That makes him one of the best value buys in the auction. Bidding up to about 20 USD is supported, and Josh landed him at 14 USD in a mock. He has no weak category, so he fits any build, and he helps 3PM, FT% and PTS most. Early in the season, check three things: whether Dort cuts into his minutes, how his usage holds next to McCollum, and whether his FT% settles nearer 85 to 88% (projected) or drops back toward 80%.",
+ "note": "He averages 5.7 USD on Yahoo and 11.7 USD on ESPN. His site values are 17 and 22 USD, and Josh puts him in the mid 20s, so he is a clear value target near 15 to 20 USD. Even with his shooting coming down, the projections (3.0 threes, about 88% FT on 3.5 attempts, 19 points, 1.1 steals) carry no weak category, so he fits any build and helps 3PM and FT% most. Early in the season, check that his FT% stays well above his old 77 to 80% level, that he keeps about 32 minutes, and whether Dort ends up starting in place of McCollum, which would give him more shots.",
  "rejected": []
 }

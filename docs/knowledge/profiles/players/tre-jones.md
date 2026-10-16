@@ -4,24 +4,24 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 68 | 22.3 | 54.9 (7.6) | 83.7 (2.7) | 0.5 | 11.1 | 2.6 | 4.5 | 1.0 | 0.1 | 1.1 |
-| 2026-27 proj, Yahoo | 61 | - | 54.1 (8.0) | 84.5 (2.5) | 0.6 | 11.4 | 3.1 | 5.2 | 1.0 | 0.2 | 1.3 |
+| 2026-27 proj, Yahoo | 65 | - | 53.9 (8.0) | 83.8 (2.6) | 0.6 | 11.4 | 3.1 | 5.2 | 1.0 | 0.2 | 1.3 |
 | 2025-26 | 65 | 27.0 | 55.3 (9.5) | 84.1 (3.5) | 0.6 | 14.1 | 3.1 | 5.4 | 1.2 | 0.2 | 1.4 |
 | 2024-25 | 46 | 19.7 | 53.8 (5.2) | 82.1 (1.5) | 0.4 | 7.2 | 2.5 | 4.2 | 0.8 | 0.2 | 0.8 |
 | 2023-24 | 77 | 27.7 | 50.5 (7.8) | 85.6 (1.5) | 0.8 | 10.0 | 3.8 | 6.2 | 1.0 | 0.1 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 138 | 0 | 0.1 | 179 | not drafted |
+| 2026-27 | 0 | - | 140 | 0 | 0.1 | 179 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 54.5% | +0.9 | +2.1 | - |
-| FT% | 84.1% | +0.5 | +0.2 | - |
+| FG% | 54.4% | +0.9 | +2.1 | - |
+| FT% | 83.8% | +0.5 | +0.1 | - |
 | 3PM | 0.6 | -1.0 | -1.5 | weak for his position (punt fit) |
-| PTS | 11.3 | -0.5 | -0.5 | - |
-| REB | 2.9 | -0.9 | -0.7 | - |
+| PTS | 11.3 | -0.5 | -0.6 | - |
+| REB | 2.9 | -1.0 | -0.7 | - |
 | AST | 4.9 | +0.9 | +0.5 | - |
 | STL | 1.0 | +0.3 | -0.0 | - |
 | BLK | 0.1 | -1.0 | -1.1 | weak for his position (punt fit) |
@@ -30,24 +30,24 @@
 </details>
 
 **Current**
-- He is projected as the Bulls' sixth man, behind starting guards Josh Giddey and Norman Powell. Isaac Okoro and Buddy Hield come after him off the bench. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1438), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-27](https://youtu.be/CRLSsoGhb2w?t=159), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-09](https://youtu.be/7BllEsdNLoM?t=2533))
-- Experts do not expect him to start often this season. They expect about 23 to 25 bench minutes, and no more. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1438), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-15](https://youtu.be/KPdD91Oo8-U?t=2140), [09-15](https://youtu.be/KPdD91Oo8-U?t=2152))
-- In his bench games last season he played about 24 minutes and ranked about 160th. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1438))
-- Experts say a draft position around 109 to 115 is too high. He is a last pick at best, and ESPN's rank of 179 goes a little too far the other way. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1526), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-09](https://youtu.be/7BllEsdNLoM?t=2533))
-- His upside depends on an injury to Powell or a Powell trade. He would be a great pickup if a guard ahead of him gets hurt. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1526), [09-09](https://youtu.be/7BllEsdNLoM?t=2533))
-- The Bulls front office signs older players in the hope of trading them later. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746))
-- His high FG% from last season is likely to drop. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471))
-- The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
+- His efficiency gains from last season, mainly his high field goal percentage, are expected to come back down. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1651), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471))
+- His upside depends on an injury to Giddey or an injury to or trade of Powell. If one of them goes down, he becomes a great waiver pickup. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1651), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1526), [09-09](https://youtu.be/7BllEsdNLoM?t=2533))
+- Tre Jones is expected to be the Bulls' sixth man and backup point guard. Josh Giddey and Norman Powell start ahead of him. Isaac Okoro and Buddy Hield come off the bench behind him. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1438), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-15](https://youtu.be/KPdD91Oo8-U?t=2140), [09-15](https://youtu.be/KPdD91Oo8-U?t=2152), [09-09](https://youtu.be/7BllEsdNLoM?t=2533), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
+- Experts expect a smaller role than last season, when he started only because of injuries and departures. They see about 23 to 25 minutes a game off the bench at most. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1438), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-15](https://youtu.be/KPdD91Oo8-U?t=2140))
+- The market drafts him too high. Experts put him in the last-pick range, a tier 9 point guard, and call an ADP of about 110 too high. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1526), [09-19](https://youtu.be/uarqbNA2dFk?t=1273), [09-09](https://youtu.be/7BllEsdNLoM?t=2533))
+- The Bulls front office signs veterans on short deals, Powell among them, and hopes to trade them. That could open a starting role for Jones. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- The Bulls are projected to be one of the worse teams in the league. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629))
+- With a March 28 end, the Bulls play 3, 3 and 4 games in fantasy playoff weeks 19 to 21 (10 games). They have 15 back-to-backs, one below the maximum. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
 
 **Durable**
-- His threes and blocks are weak even for a guard. His value comes from assists, FG% and low turnovers. (fact, 2026-10-04; stats)
-- He is a poor three-point shooter and adds few rebounds. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471), stats)
-- Hayes calls him a really good facilitator. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1339))
+- His category value comes from FG%, which is high for a guard, plus assists and few turnovers. He gives little in threes and blocks. (fact, 2026-10-16; stats)
+- He is a poor three-point shooter and gets few rebounds. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1471), stats)
+- He is a really good facilitator. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1339))
 
 **Tags**
-- Current: `role down` (Started about two-thirds to 70% of his games last season because of injuries and departures. Now the sixth man with about 23 to 25 minutes.), `handcuff` (His value rises if Norman Powell is injured or traded, or if another Bulls guard gets hurt.), `waiver watch` (Last pick range. A great pickup if a Bulls guard gets hurt.), `bust candidate` (Experts call a draft position of 109 to 115 too high.)
-- Durable: `punt 3PM fit` (About 0.6 threes per game.), `punt BLK fit` (About 0.1 to 0.2 blocks per game.)
+- Current: `role down` (Moves from a frequent starter to sixth man, 23 to 25 minutes), `regression risk` (Last season's high FG% expected to drop), `handcuff` (Backup to Josh Giddey and Norman Powell), `waiver watch` (Add if Giddey or Powell is hurt, or if Powell is traded), `bust candidate` (At a draft-site ADP of about 110 or Yahoo's earlier rank of 115), `bottom team` (Bulls projected bottom 10, around 32 wins), `trades likely` (Front office signs veterans to trade them; a Powell trade would help Jones), `many back-to-backs` (15 back-to-backs)
+- Durable: `punt 3PM fit` (About 0.6 threes per game, weak for a guard), `punt BLK fit` (About 0.1 blocks per game)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD (Yahoo average cost 1.0 USD, ranks 148 and 179). In a 144-player draft he is a 1 USD last pick at most and more likely a waiver player. He fits punt 3PM and punt BLK builds that want assists, a guard's FG% (54.5% projected) and few turnovers. Early in the season, check whether his minutes stay around 23 to 25 and whether Powell or Giddey miss time or Powell is traded. Any of those would make him worth an add.
+**Note.** Yahoo ranks him 140 and ESPN 179, and both sites value him at 0 USD. That puts him at the edge of our 144-player draft, and experts see him as a bench player with only last-pick value, so pay no more than 1 USD or leave him on waivers. His projected 54% FG and about 5 assists with few turnovers fit punt 3PM builds. Early in the season, watch Giddey's and Powell's health and any Powell trade: either one would make him an immediate FAB add.
 
-<sub>7 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -20,7 +20,7 @@
 | FT% | 80.6% | +0.1 | -0.0 | - |
 | 3PM | 1.3 | -0.2 | -0.5 | - |
 | PTS | 10.2 | -0.7 | -0.7 | - |
-| REB | 2.4 | -1.1 | -1.2 | - |
+| REB | 2.4 | -1.2 | -1.2 | - |
 | AST | 1.7 | -0.8 | -0.9 | - |
 | STL | 0.6 | -1.0 | -1.1 | - |
 | BLK | 0.2 | -0.9 | -1.0 | - |
@@ -29,21 +29,22 @@
 </details>
 
 **Current**
-- He is projected as Minnesota's seventh man. He would be a bench scorer with an outside chance at a starting spot. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1458), [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
-- He is often overhyped. He is a low-usage scorer who adds little else. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1458))
-- With our season ending March 28, Minnesota plays 4, 2 and 4 games in our playoff weeks. That puts a two-game week in the semifinal. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
+- With the season ending March 28, Minnesota's playoff schedule goes 4, 2, 4 games, so the semifinal week (starting March 15) has only two games. (fact, 2026-10-13; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [10-13](https://youtu.be/EogBYa24Gto?t=369), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
+- He is expected to come off the bench as a scorer, likely as the seventh man. One earlier note also named him an outside option for the open fifth starting spot. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1458), [08-19](https://youtu.be/2mxpEpGU3H8?t=539))
+- Experts call him often overhyped: a low-usage scorer who adds little else. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1458))
 - Minnesota has 13 back-to-backs, the league minimum. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
-- Ball, Edwards, McDaniels and Gobert are set as starters. The fifth spot is open, and the newly signed Jonathan Kuminga may take it. (fact, 2026-10-05; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-05](https://youtu.be/BiIZsSypx7Y?t=3081), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
-- Minnesota's bench is thin. It has little scoring punch and no ball handlers. (fact, 2026-10-02; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323))
+- Four Minnesota starters are set: Ball, Edwards, McDaniels and Gobert. The fifth spot is open, and Kuminga and Josh Green are both named for it. (fact, 2026-08-26; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
+- Minnesota's bench is thin, with little scoring punch, which leaves room for a bench scorer. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
+- Minnesota is expected to compete (one expert predicts 53 wins), so it should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
 
 **Durable**
-- He is an efficient shooter. He hits 41% from three with a 60% true shooting rate. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1511))
-- He brings almost no rebounds, assists or blocks. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1511))
+- He is an efficient shooter, with 41% from three and 60% true shooting. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1511))
+- He is a low-usage scorer who adds almost no rebounds, assists or blocks. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1458), [10-09](https://youtu.be/cFV24VgxyCY?t=1511))
 
 **Tags**
-- Current: `minutes competition` (Competes with Jonathan Kuminga for the open fifth starter spot. Otherwise he is projected as the seventh man.), `bad playoff schedule` (Two-game week in week 20, our semifinal (4, 2, 4).), `few back-to-backs` (13 back-to-backs, the league minimum.), `small-ball lineups` (Minnesota may start three guards.), `thin rotation` (Thin bench with little scoring punch.), `winning team` (53 wins predicted.), `low shutdown risk`
-- Durable: `stable starters` (Finch rarely changes starters unless someone is hurt.)
+- Current: `waiver watch` (Yahoo rank 199, ESPN rank 292, both value 0; outside the 144 players we draft), `minutes competition` (Kuminga and Josh Green are also named for the open fifth starting spot), `bad playoff schedule` (4, 2, 4 games; two-game semifinal week starting March 15), `few back-to-backs` (13 back-to-backs, the league minimum), `winning team` (One expert predicts 53 wins), `low shutdown risk`, `thin rotation` (Thin bench with little scoring punch)
+- Durable: `stable starters` (Finch rarely changes starters unless someone is hurt)
 
-**Note.** Yahoo ranks him 199 and ESPN ranks him 292, and both value him at 0 USD. That puts him outside our 144-player auction, and the newest note calls him overhyped. Even at 20.7 minutes, ESPN projects only about 9 points, 1.2 threes and weak rebounds, assists, steals and blocks, so he only fits a team chasing threes and efficiency off the bench. Early in the season, check whether he wins the fifth starter spot over Kuminga. Also note Minnesota's two-game week in our semifinal (week 20).
+**Note.** At Yahoo rank 199 and ESPN rank 292, both with 0 USD value, he falls outside the 144 players drafted in our league. Leave him for waivers. His projected line (10.2 PTS, 1.3 3PM, 2.4 REB per game) has no strong category beyond efficient scoring and few turnovers, and the two-game semifinal week hurts his playoff value. Early in the season, check whether he wins the open fifth starting spot or gets 20 or more minutes off the thin bench. That would be the moment to spend FAB on him.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,62 +8,52 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4b9dd48b8c4d",
- "note_count": 22,
- "built_at": "2026-10-11T09:24:26+00:00",
+ "input_sha": "dbef59b5c33e",
+ "note_count": 27,
+ "built_at": "2026-10-16T09:19:19+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21909420000000002,
-  "duration_ms": 62520,
+  "cost_usd_list": 0.29653820000000003,
+  "duration_ms": 98179,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Ja Morant was traded to Portland. Jerome started both of Memphis's preseason games at point guard.",
+   "text": "Ja Morant was traded to Portland. Jerome is Memphis's starting point guard and has started in the preseason. Memphis is giving him a big role.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
     "bHA-JoW3reE:p15",
+    "4GDfg2n2l8o:p6",
     "NYTH7uQsPCM:p29",
     "6DnRWahYrFA:p29",
-    "6DnRWahYrFA:t5"
-   ]
-  },
-  {
-   "text": "Experts expect him to be Memphis's starting point guard. Projected starters are Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey, with Scotty Pippen Jr. on the bench.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
+    "6DnRWahYrFA:t5",
     "lp11OAEpq4Y:t4",
-    "lp11OAEpq4Y:t5",
     "LcZcvk8s1xQ:t6",
-    "LcZcvk8s1xQ:p17",
-    "W-R1dzem32s:p39",
-    "4GDfg2n2l8o:p6",
-    "BjXP9JODDSg:p46"
+    "ENizLoE6pzI:p24",
+    "ENizLoE6pzI:t5"
    ]
   },
   {
-   "text": "In preseason he shot 50% on about 32% usage, but in only about 17 minutes a game.",
+   "text": "He has had about 30 usage or more in every preseason game. In the first two preseason games he shot 50% but played only about 17 minutes a game.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "hviT4hzYNME:p19",
+    "uI6umXsE7Vk:p44",
     "6DnRWahYrFA:p29"
    ]
   },
   {
-   "text": "He should play more than last season's 23 minutes. One projection is 27 to 28 minutes a game. Coach Tuomas Iisalo uses short stints, keeps minutes down and runs an 11 or 12 man rotation, and only Boozer and Coward are expected to top 30 minutes.",
-   "kind": "verdict",
+   "text": "Coach Tuomas Iisalo uses short, hard stints, keeps minutes down and runs an 11 or 12 man rotation. Joe expects only Cameron Boozer and Cedric Coward to top 30 minutes.",
+   "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p10",
-    "LcZcvk8s1xQ:p17",
     "LcZcvk8s1xQ:t1",
     "LcZcvk8s1xQ:t2",
     "lp11OAEpq4Y:t0",
@@ -71,22 +61,45 @@
    ]
   },
   {
-   "text": "Last season's per-game line came with about 30 to 33% usage, about 70% true shooting and heavy rest on a team that was not trying to win. Experts expect his usage to drop clearly and his efficiency to fall. His 70% potential assist conversion is also unlikely to last.",
+   "text": "He should play more than last season's 23 minutes. Joe projects 27 to 28 minutes. The newest worry is high usage in only about 24 minutes. At 27 minutes his value could take off.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:p17",
+    "lp11OAEpq4Y:p10",
+    "bd8GYKFOe8A:p24"
+   ]
+  },
+  {
+   "text": "Last season's efficiency (about 70% true shooting and a 70% potential assist conversion) is not expected to last. His efficiency should fall, and last season's numbers came with heavy rest.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p10",
     "QbdrhJd7LiA:p38",
-    "7BllEsdNLoM:p36",
-    "LcZcvk8s1xQ:p16",
-    "LcZcvk8s1xQ:p19",
     "NYTH7uQsPCM:p29",
-    "bHA-JoW3reE:p15"
+    "lp11OAEpq4Y:p10",
+    "bHA-JoW3reE:p15",
+    "LcZcvk8s1xQ:p19"
    ]
   },
   {
-   "text": "He is healthy now. A calf injury cost him about three months last season, and his late-season missed games were tank rest.",
+   "text": "Experts take him around picks 74 to 80 and call him a target and possibly one of the best sleepers, unless he comes off the bench for 20 minutes. A Yahoo ADP of 115 is far too low. A top 15 category rank, as ESPN once gave him, is far too high.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p11",
+    "ENizLoE6pzI:p24",
+    "uI6umXsE7Vk:p44",
+    "6DnRWahYrFA:p29",
+    "lp11OAEpq4Y:p12",
+    "-DN4P92Wp8Y:p6"
+   ]
+  },
+  {
+   "text": "He is healthy now. A calf injury cost him about three months last season. His missed games late in the season were tank rest.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -95,29 +108,16 @@
    ]
   },
   {
-   "text": "Experts disagree on his price. Lloyd calls him one of the best sleepers and the best target on Memphis, is happy to take him in the 70s or 80s, and still sees value at Yahoo rank 88. Others say ESPN's price removes the upside and that a top 13 ESPN ranking is far too high even with 30 minutes.",
-   "kind": "verdict",
-   "date": "2026-10-09",
+   "text": "He has forward eligibility.",
+   "kind": "fact",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p12",
-    "6DnRWahYrFA:p29",
-    "-DN4P92Wp8Y:p6",
-    "uarqbNA2dFk:p44",
-    "QbdrhJd7LiA:p38"
+    "DzQXaC2rsac:p11"
    ]
   },
   {
-   "text": "His value drops sharply if he comes off the bench for about 20 minutes.",
-   "kind": "verdict",
-   "date": "2026-10-07",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p12"
-   ]
-  },
-  {
-   "text": "At 29 he does not fit Memphis's young core, and the team could move off him. Memphis has three 2027 first-round picks to use in trades.",
+   "text": "At 29 he does not fit Memphis's young core, and Memphis could move off him. The team holds three 2027 first-round picks, which gives it room to make trades.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -127,21 +127,12 @@
    ]
   },
   {
-   "text": "Memphis has a 4-4-4 schedule in weeks 19 to 21 and only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Memphis has a maxed 4-4-4 schedule in our playoff weeks 19 to 21 and only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
-   ]
-  },
-  {
-   "text": "Iisalo plays at a very high pace.",
-   "kind": "fact",
-   "date": "2026-08-17",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t1"
    ]
   }
  ],
@@ -156,7 +147,7 @@
    ]
   },
   {
-   "text": "He is roughly a 40 to 41% three-point shooter, not a 44% one.",
+   "text": "His true level is roughly a 40 to 41% three-point shooter, not 44%.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -165,13 +156,14 @@
    ]
   },
   {
-   "text": "Injuries ruined two of his last three seasons, including about three months lost to a calf injury last season.",
+   "text": "Injuries ruined two of his last three seasons, and he has a concerning injury history.",
    "kind": "fact",
-   "date": "2026-10-07",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "KPdD91Oo8-U:p46",
-    "lp11OAEpq4Y:p13"
+    "uI6umXsE7Vk:p44",
+    "bd8GYKFOe8A:p24"
    ]
   },
   {
@@ -182,81 +174,46 @@
    "sources": [
     "g31YlwRe0XQ:p34"
    ]
+  },
+  {
+   "text": "Blocks are his weak category, even for a guard.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "tags": [
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No weak category flagged. Projected strengths are AST, 3PM, STL and FT% for a guard.",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "category league player",
-   "channel": "durable",
-   "detail": "",
-   "until": "",
-   "sources": [
-    "g31YlwRe0XQ:p34"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury prone",
-   "channel": "durable",
-   "detail": "Two of his last three seasons ruined by injury, including a calf injury last season",
-   "until": "",
-   "sources": [
-    "KPdD91Oo8-U:p46",
-    "lp11OAEpq4Y:p13"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Calf injury cost about three months; played 15 games",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p13",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "role up",
    "channel": "current",
-   "detail": "Starting point guard with Morant gone and more minutes, but usage expected to drop",
+   "detail": "Starting point guard with Morant gone, more minutes than last season's 23",
    "until": "",
    "sources": [
     "bHA-JoW3reE:p15",
     "lp11OAEpq4Y:p10",
-    "LcZcvk8s1xQ:p17",
-    "6DnRWahYrFA:p29"
+    "ENizLoE6pzI:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "About 70% true shooting and 30%+ usage last season not expected to repeat",
+   "detail": "About 70% true shooting and 70% potential assist conversion last season not expected to last",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p38",
-    "lp11OAEpq4Y:p10",
     "NYTH7uQsPCM:p29",
-    "LcZcvk8s1xQ:p19"
+    "lp11OAEpq4Y:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Lloyd: Yahoo ADP around 115 is far too low; take him in the 70s or 80s",
+   "detail": "Yahoo ADP 115 called nonsense; take in the 70s or 80s",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p12",
@@ -267,32 +224,34 @@
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Lloyd calls him the best target on Memphis and still sees value at Yahoo rank 88",
+   "detail": "Targeted around picks 74 to 80",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p12",
-    "6DnRWahYrFA:p29"
+    "DzQXaC2rsac:p11",
+    "ENizLoE6pzI:p24",
+    "lp11OAEpq4Y:p12"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "At ESPN's price; a top 13 ESPN ranking is called far too high",
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Two of his last three seasons ruined by injury",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p6",
-    "uarqbNA2dFk:p44",
-    "QbdrhJd7LiA:p38"
+    "KPdD91Oo8-U:p46",
+    "uI6umXsE7Vk:p44",
+    "bd8GYKFOe8A:p24"
    ],
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "injury last season",
    "channel": "current",
-   "detail": "Yahoo rank 88 and average cost 1.4 USD vs ESPN rank 58 and average cost 4.5 USD",
+   "detail": "Calf injury cost about three months",
    "until": "",
    "sources": [
+    "lp11OAEpq4Y:p13",
     "stats"
    ],
    "new_meaning": ""
@@ -308,32 +267,21 @@
    "new_meaning": ""
   },
   {
-   "name": "trades likely",
-   "channel": "current",
-   "detail": "Three 2027 first-round picks give Memphis room to trade",
-   "until": "",
-   "sources": [
-    "LcZcvk8s1xQ:t5",
-    "lp11OAEpq4Y:p14"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "low starter minutes",
    "channel": "current",
-   "detail": "Iisalo keeps minutes down with short stints; only Boozer and Coward expected above 30 minutes",
+   "detail": "Iisalo uses short stints and keeps minutes down; worry he plays about 24 minutes",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:t1",
     "LcZcvk8s1xQ:t2",
-    "lp11OAEpq4Y:t0"
+    "bd8GYKFOe8A:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "11 or 12 man rotation expected",
+   "detail": "11 or 12 man rotation",
    "until": "",
    "sources": [
     "LcZcvk8s1xQ:t2",
@@ -352,6 +300,16 @@
    "new_meaning": ""
   },
   {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
    "detail": "4-4-4 in weeks 19 to 21",
@@ -362,16 +320,48 @@
    "new_meaning": ""
   },
   {
-   "name": "few back-to-backs",
+   "name": "trades likely",
    "channel": "current",
-   "detail": "Only 13 back-to-backs, possibly the fewest in the league",
+   "detail": "Three 2027 first-round picks and an overcrowded roster",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:t7"
+    "LcZcvk8s1xQ:t5",
+    "bHA-JoW3reE:t4",
+    "lp11OAEpq4Y:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "g31YlwRe0XQ:p34"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt BLK fit",
+   "channel": "durable",
+   "detail": "About 0.2 blocks a game",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo average cost 1.3 USD and rank 83; ESPN average cost 6.0 USD and rank 58",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 8 USD. Yahoo drafters pay only 1.4 USD at rank 88, while ESPN has him at rank 58. That is mid-round value in our 144-player pool. He has no weak category and projects to help AST, 3PM, STL and FT%, so he fits any build, and Memphis's 4-4-4 playoff schedule is a bonus. Bid up to about his 8 USD value, not ESPN-level hype. Early in the season, check that he holds the starting job, reaches 27 or more minutes under Iisalo's short stints, and keeps his efficiency as his usage falls from last season's 30% or more.",
+ "note": "Experts take him around picks 74 to 80. That makes him a top 100 player in our 144-player auction, yet Yahoo's average cost is only 1.3 USD (ESPN 6.0 USD), so a bid up to his Yahoo value of 11 USD looks fine. His projections give a guard with plus 3PM, AST, STL and FT% and almost no blocks, so he fits punt BLK and guard-heavy builds, and Memphis has a 4-4-4 playoff schedule. Early on, check whether he gets 27 or more minutes under Iisalo's short stints, whether his usage stays near 30, and whether he stays healthy.",
  "rejected": []
 }

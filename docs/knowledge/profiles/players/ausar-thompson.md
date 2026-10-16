@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 14 | 2.6 | 73 | 4 | 3.8 | 79 | 16 |
+| 2026-27 | 16 | 3.1 | 67 | 4 | 3.8 | 79 | 16 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,35 +30,36 @@
 </details>
 
 **Current**
-- Experts do not trust Bickerstaff's comments on his minutes, because Bickerstaff has misled about Thompson's minutes and health before. They still expect more minutes, most often two to four more a game. Dan says the staff can no longer keep such a disruptive defender off the floor. (verdict, 2026-10-05; [10-03](https://youtu.be/_O9pc_u5vH0?t=304), [10-03](https://youtu.be/_O9pc_u5vH0?t=304), [10-04](https://youtu.be/n4KkK-OJjqA?t=584), [10-04](https://youtu.be/n4KkK-OJjqA?t=589), [10-05](https://youtu.be/BiIZsSypx7Y?t=2544), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1728), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), [09-10](https://youtu.be/W-R1dzem32s?t=1531), [08-12](https://youtu.be/p9XE5jFqhvs?t=1423))
-- Most experts expect his scoring and assists to rise, with about one more assist a game and around 4 assists. One hopeful line is 6 rebounds, 4.5 assists, 2 steals and 1 block on 54% shooting, with no threes and low scoring. Dan does not expect him to improve much as a player and rests the case on minutes. (verdict, 2026-10-05; [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1728), [10-03](https://youtu.be/_O9pc_u5vH0?t=968), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539))
-- He went for 17 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1220))
-- Josh could see him going for up to 20 USD in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1220))
-- Experts call him underpriced and a steal in category leagues. They would draft him in the 50s or 60s, above an ADP in the 80s, and name him the top fantasy target on the Pistons. (verdict, 2026-10-04; [10-03](https://youtu.be/_O9pc_u5vH0?t=929), [10-03](https://youtu.be/_O9pc_u5vH0?t=1755), [10-04](https://youtu.be/n4KkK-OJjqA?t=1019), [09-21](https://youtu.be/egRrai3Ax38?t=1928), [09-01](https://youtu.be/80kfLVnFQ_s?t=1369), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539))
-- He is projected to start for Detroit next to Cade Cunningham, Duncan Robinson, John Collins and Jalen Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
-- Coach J.B. Bickerstaff says he will play more than 26 minutes a game. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=304))
-- The front office wants him on the ball more. Some of Tobias Harris's old usage is meant to go to him, and Detroit lost creation with Harris gone. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=1047), [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
-- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs this season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- No rest risk is expected for Detroit players in back-to-backs. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- He signed a new contract this offseason. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1928))
-- At 26 minutes he may not beat his ADP. At 28 to 30 minutes he should beat it easily. Better three-point shooting plus more usage, assists and minutes would give him top 50 upside. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=696), [09-07](https://youtu.be/gJUBAJaHzlU?t=822), [08-12](https://youtu.be/p9XE5jFqhvs?t=2006))
-- His best case is about 28th overall, likely from a big steals season. The downside includes his free throws staying dreadful. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1543))
-- Josh still has concerns about his fit next to Jalen Duren. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1531))
-- He averaged 32 minutes over Detroit's last 12 playoff games, and all sides agreed he must play a lot. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1423))
+- Experts disagree on draft spot. Early October previews would take him in the 50s or 60s in category leagues, while the newest mock (October 14) calls pick 60 early and a September mock called pick 72 too early. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=900), [10-04](https://youtu.be/n4KkK-OJjqA?t=1019), [10-03](https://youtu.be/_O9pc_u5vH0?t=929), [09-15](https://youtu.be/KPdD91Oo8-U?t=1318))
+- Experts do not trust Bickerstaff's minutes comments, because he has misled about Thompson's minutes and health before. They still expect about 2 to 4 more minutes a game than last season. (verdict, 2026-10-05; [10-03](https://youtu.be/_O9pc_u5vH0?t=304), [10-03](https://youtu.be/_O9pc_u5vH0?t=304), [10-04](https://youtu.be/n4KkK-OJjqA?t=584), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539), [10-05](https://youtu.be/BiIZsSypx7Y?t=2544), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1728), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), [09-10](https://youtu.be/W-R1dzem32s?t=1531), [08-12](https://youtu.be/p9XE5jFqhvs?t=1423))
+- At about 26 minutes he may only match his draft price. At 28 to 30 minutes he should beat it easily, and at 30 minutes he would be very good. (verdict, 2026-10-05; [09-17](https://youtu.be/ahNxsoU8Hx4?t=696), [09-07](https://youtu.be/gJUBAJaHzlU?t=822), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539))
+- Experts expect more usage, a scoring rise and about one more assist a game, for about 4 to 4.5 assists. One expert hopes for 6 rebounds, 2 steals and a block on 54% shooting, with no threes. Another does not expect him to improve much as a player and sees the gain coming from minutes. (verdict, 2026-10-05; [10-04](https://youtu.be/n4KkK-OJjqA?t=584), [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1728), [10-03](https://youtu.be/_O9pc_u5vH0?t=968), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539))
+- In an auction mock he went for 17 USD. Josh could see him going for up to 20 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1220))
+- Thompson is in Detroit's projected starting five, with Cunningham, Robinson, Collins and Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
+- Coach J.B. Bickerstaff says Thompson will play more than 26 minutes a game. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=304))
+- Experts call him underpriced and the best Pistons target. Upside is top 50, best case about 28th, if he adds usage, assists, minutes and a little three-point shooting. The downside is that his free throws stay dreadful. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=929), [10-03](https://youtu.be/_O9pc_u5vH0?t=1755), [08-12](https://youtu.be/p9XE5jFqhvs?t=2006), [09-17](https://youtu.be/DubdKKhMWHo?t=1543), [09-21](https://youtu.be/egRrai3Ax38?t=1928), [09-01](https://youtu.be/80kfLVnFQ_s?t=1369))
+- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- He has just signed a new contract. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1928))
+- One expert still worries about how he fits next to Jalen Duren. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1531))
+- The front office wants him on the ball more. Some of the usage Tobias Harris had is meant to go to him. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1047), [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
 - His jump shot was rebuilt. The team expects about three three-point attempts a game and more midrange shots from him. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1658))
-- If the plan to put him and Duren on the ball is failing by January, Detroit may trade for a secondary playmaker at the deadline, which would cut his usage. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1738))
+- If the plan to put Thompson and Duren on the ball is failing by January, Detroit may trade for a secondary playmaker at the deadline. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1738))
+- Detroit is projected to win 50 to 51 games and finish third or fourth in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
 
 **Durable**
-- He is an elite defender. His fantasy value comes mainly from steals, backed by good blocks for a wing. He is a consistent steals producer with a high deflection rate. (verdict, 2026-10-04; [08-12](https://youtu.be/p9XE5jFqhvs?t=1447), [10-03](https://youtu.be/_O9pc_u5vH0?t=886), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), [07-07](https://youtu.be/ME-r173X5b0?t=1551), stats)
-- He is a solid rebounder for his position. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), stats)
-- He is a very poor free-throw shooter and makes almost no threes. His two-point shooting is okay. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=886), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), stats)
-- He is worth more in category leagues than in points leagues. (verdict, 2026-10-03; [08-24](https://youtu.be/g31YlwRe0XQ?t=1696), [10-03](https://youtu.be/_O9pc_u5vH0?t=929), [10-03](https://youtu.be/_O9pc_u5vH0?t=952), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1728))
-- His efficiency on self-created plays is well below league average. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1287))
+- His fantasy value comes from defensive stats, mainly steals. He is a consistently good steals player, with the most deflections in his group, and his steals are a league outlier. (fact, 2026-10-16; [10-03](https://youtu.be/_O9pc_u5vH0?t=886), [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), [07-07](https://youtu.be/ME-r173X5b0?t=1551), [08-12](https://youtu.be/p9XE5jFqhvs?t=1447), stats)
+- He adds good blocks and rebounds for a wing. (fact, 2026-10-16; [10-04](https://youtu.be/n4KkK-OJjqA?t=1096), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), [08-12](https://youtu.be/p9XE5jFqhvs?t=1447), stats)
+- He is a very poor free throw shooter, and his FT% is a league outlier on the weak side. He makes almost no threes. (fact, 2026-10-16; [10-03](https://youtu.be/_O9pc_u5vH0?t=886), [09-10](https://youtu.be/dlo7L8Ru91A?t=1316), stats)
+- His two-point shooting is okay, so his FG% helps a little for his position. (fact, 2026-10-16; [10-03](https://youtu.be/_O9pc_u5vH0?t=886), stats)
+- He is worth more in category leagues than in points leagues. (verdict, 2026-10-03; [08-24](https://youtu.be/g31YlwRe0XQ?t=1696), [10-03](https://youtu.be/_O9pc_u5vH0?t=929), [10-03](https://youtu.be/_O9pc_u5vH0?t=952))
+- He is an elite NBA defender. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1447), [10-05](https://youtu.be/BiIZsSypx7Y?t=2539))
+- He creates more of his own shots now, but his efficiency on those plays is well below league average. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1287))
+- Detroit is built on defense. The front office wants only enough offense, not an offensive superstar. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1189))
 
 **Tags**
-- Current: `role up` (More minutes and on-ball usage expected; coach's minutes comments distrusted), `breakout` (Jump expected mostly from extra minutes and assists; Dan does not expect skill growth), `sleeper` (ADP in the 80s, experts call him underpriced), `expert target` (Draft in the 50s to 60s in category leagues), `sites disagree on price` (Yahoo value 14 USD, ESPN value 4 USD), `usage freed` (Some of Tobias Harris's old usage is meant to go to him), `winning team` (Projected 50 to 51 wins)
-- Durable: `STL specialist` (About 2.0 steals per game projected), `FT% liability` (Free throws below 60%), `punt FT fit`, `punt 3PM fit`, `no 3PM` (About 0.1 to 0.2 threes per game), `category league player`, `defense-first`
+- Current: `role up` (Experts expect 2 to 4 more minutes and more on-ball usage), `breakout` (Year-three jump expected, mostly from minutes and assists), `sleeper`, `expert target` (Best Pistons target, 50s to 60s in category leagues), `sites disagree on price` (Yahoo value 16 USD, ESPN value 4 USD), `usage freed` (Some of Tobias Harris's usage is meant to go to him), `winning team`
+- Durable: `STL specialist` (About 2 steals a game, the most deflections in his group), `FT% liability` (About 58% to 59% FT on close to 3 attempts a game), `punt FT fit`, `punt 3PM fit`, `no 3PM` (About 0.2 threes a game; the team hopes for about 3 attempts a game after the rebuilt jumper), `elite defender`, `category league player`, `defense-first`
 
-**Note.** He is a steals anchor (2.0 per game, z +3.4) with good blocks and solid FG%, but his FT% (about 59%) and near-zero threes make him a clear punt FT% and punt 3PM fit. Yahoo values him at 14 USD and ESPN at 4 USD, he cost 16 USD in our league last season and 17 USD in an expert mock, so about 14 to 18 USD is fair and the experts see upside above that. Early in the season, check whether he plays 28 or more minutes and whether his assists and three-point attempts rise, because the case for him rests on that.
+**Note.** He went for 16 USD in our league last season, the same as his Yahoo value, while ESPN values him at only 4 USD. A mock auction had him at 17 USD with talk of up to 20 USD. Around 15 to 18 USD is fair for a punt FT% build that wants elite steals, solid blocks and rebounds, and no threes. Early in the season, check whether he plays 28 or more minutes despite Bickerstaff's track record, and whether his assists move toward 4 and he takes about 3 threes a game.
 
-<sub>30 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>31 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

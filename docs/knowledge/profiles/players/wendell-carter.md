@@ -11,13 +11,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 5 | 1.1 | 125 | 0 | 0.1 | 174 | not drafted |
+| 2026-27 | 5 | 2.7 | 123 | 0 | 0.1 | 174 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 50.2% | +0.3 | -0.6 | - |
+| FG% | 50.2% | +0.3 | -0.5 | - |
 | FT% | 75.6% | -0.4 | +0.3 | - |
 | 3PM | 0.8 | -0.7 | +0.1 | - |
 | PTS | 10.5 | -0.6 | -0.4 | - |
@@ -30,17 +30,20 @@
 </details>
 
 **Current**
-- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley, so player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
-- He is Orlando's projected starting center. Vucevic is the backup and Goga Bitadze will still get some minutes. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Vucevic is expected to take 21 to 22 minutes a night, so experts expect Carter to stay under 30 minutes. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=537), [07-02](https://youtu.be/P6TNP-g0wzY?t=1801))
+- Wendell Carter Jr. is projected as Orlando's starting center, next to Jalen Suggs, Desmond Bane, Franz Wagner and Paolo Banchero. Nikola Vucevic is the backup center. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=140), [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [08-01](https://youtu.be/FEcNjVRlj-U?t=557), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
+- He is expected to stay under 30 minutes a game. Vucevic should take about 21 to 22 minutes and Goga Bitadze will also get some minutes at center. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=140), [08-01](https://youtu.be/FEcNjVRlj-U?t=537), [07-02](https://youtu.be/P6TNP-g0wzY?t=1801), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307))
+- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. His rotation preferences are not known yet. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- He is not draftable in leagues of 12 teams or fewer. His Yahoo rank of about 125 is too high, and ESPN's rank of 174 is fair. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1094))
 
 **Durable**
-- His value is defense that does not show up on the stat sheet. He does not help fantasy teams much and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
+- No category stands out. His best categories are rebounds and turnovers, and both are only a little above the pool. His blocks are low for a center. (fact, 2026-10-16; stats)
+- His shot-blocking, three-point volume and passing have disappeared. He is a boring player with no upside. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1047))
+- His real value is defense that does not show up on the stat sheet. He does not help fantasy teams and needs to become a more reliable shooter. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=489))
 
 **Tags**
-- Current: `minutes competition` (Vucevic expected to take 21 to 22 minutes as backup center; Bitadze also gets some minutes), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil predicts 47 or 48 wins and the 6th seed)
-- Durable: `fits every build` (No weak category flagged, but no category stands out either)
+- Current: `minutes competition` (Nikola Vucevic (about 21 to 22 minutes) and Goga Bitadze share the center minutes), `new coach` (Sean Sweeney replaces Jamahl Mosley), `bust candidate` (Yahoo rank of about 125 is too high; not draftable in 12-team leagues), `sites disagree on price` (Yahoo rank 123 and 5 USD value; ESPN rank 174 and 0 USD value), `winning team` (Orlando projected for 47 or 48 wins and the 6th seed)
+- Durable: none
 
-**Note.** He is priced at the very end of the draft: Yahoo values him at 5 USD with an average cost of 1.1 USD and rank 125, ESPN at 0 USD and rank 174, and nobody in our league drafted him last season. He has no weak category, so he fits any build as a late center or Util filler, but his projected line (10.5 PTS, 7.1 REB, 0.6 BLK) has no standout category and the experts say he does not help fantasy teams. Do not pay more than 1 or 2 USD. Early in the season, check how Sweeney splits the center minutes between him and Vucevic. If he stays under 30 minutes, he is replaceable from waivers.
+**Note.** Yahoo puts his value at 5 USD (average cost 2.7 USD, rank 123), and ESPN puts it at 0 USD (rank 174). The expert calls him undraftable in a 12-team league, so let him go to waivers instead of using one of the 144 draft spots on him. He has no weak category flag and no category he is strong in, so he fits no build. Early in the season, check whether new coach Sean Sweeney gives him clearly more than the expected 25 to 29 minutes over Vucevic and Bitadze.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

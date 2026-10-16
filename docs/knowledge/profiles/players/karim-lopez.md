@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 712 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 721 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -26,22 +26,22 @@
 </details>
 
 **Current**
-- He is a rookie. He is not listed among the projected Memphis starters (Jerome, Coward, Grant, Boozer, Edey) or the projected bench (Pippen, Wells, Stewart, GG Jackson, Spencer). (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- The Memphis forward group is crowded, with Boozer starting and Prosper, Hendricks, Edey, Stewart and Grant also in the mix. The roster still needs cuts. (fact, 2026-10-07; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [06-29](https://youtu.be/bHA-JoW3reE?t=953), [10-07](https://youtu.be/lp11OAEpq4Y?t=1636))
-- Coach Tuomas Iisalo runs an 11 or 12 man rotation with short stints and keeps minutes down. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28 and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- His Summer League was very good, but an expert thinks it overrated him. In dynasty rookie ranks he sits around 20th, and Cameron Carr should probably rank ahead of him. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
-- An expert thinks he probably cannot play alongside Cameron Boozer. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
+- The October team preview does not list him among the projected Memphis starters (Jerome, Coward, Grant, Boozer, Edey) or the projected bench (Pippen, Wells, Stewart, GG Jackson, Spencer). (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
+- The Memphis roster is overcrowded, mostly at forward, and more cuts are still needed. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1636), [06-29](https://youtu.be/bHA-JoW3reE?t=953), [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- Coach Tuomas Iisalo is expected to use an 11 or 12 man rotation. Only Cameron Boozer and Cedric Coward are expected to top 30 minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- One expert thinks he probably cannot play alongside Cameron Boozer, who is projected to start. That limits his path to minutes. (verdict, 2026-09-03; [06-25](https://youtu.be/lOshTzDA4SA?t=2046), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- His Summer League was very good but overrated. He is ranked 20th in dynasty rookie ranks, and Josh thinks Cameron Carr should probably rank ahead of him. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=769))
+- Karim Lopez is a rookie. He was the 21st pick and went to Memphis with Isaiah Stewart in a trade for pick 17. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
 
 **Durable**
-- He was the 21st pick of the 2026 draft. He went to Memphis with Isaiah Stewart in exchange for pick 17. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
-- Experts see him as a solid rotation player without much upside and not a strong rebounder. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
-- He has no clear standout skill. One expert says he cannot really shoot, defend or pass. (verdict, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
+- Coach Iisalo plays short, hard stints of about five minutes and keeps individual minutes down. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- Experts see a low ceiling. One calls him a solid rotation player without much upside. Another says he does not know what Lopez does well. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1629), [06-25](https://youtu.be/lOshTzDA4SA?t=2046))
+- Experts say he cannot really shoot, defend or pass, and he is not a strong rebounder. (verdict, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=2046), [06-26](https://youtu.be/CLsUc0Sevos?t=1629))
 
 **Tags**
-- Current: `rookie` (21st pick of the 2026 draft), `minutes competition` (Crowded forward group behind Boozer and Grant, with Prosper, Hendricks, Stewart and GG Jackson), `deep rotation` (Iisalo uses 11 or 12 players with short stints), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
+- Current: `rookie` (21st pick in 2026, acquired by Memphis with Isaiah Stewart for pick 17), `minutes competition` (Crowded Memphis forward group (Boozer, Grant, Stewart, GG Jackson and others). He is not in the projected top 10.), `deep rotation` (Iisalo is expected to run 11 or 12 players. Only Boozer and Coward are projected over 30 minutes.)
 - Durable: none
 
-**Note.** Yahoo ranks him 712th with a value of 0 USD, ESPN gives him no price, and he projects for only 6.7 points with no strong category. He is not a pick in our 144-player auction. Early in the season, check only whether he gets regular minutes in Iisalo's 11 or 12 man rotation. Until then he is not worth a roster spot.
+**Note.** Yahoo values him at 0 USD and ranks him 721st. ESPN gives no price. He should not be one of the 144 players drafted in our auction. His Yahoo projection (6.7 points, 3.2 rebounds, 0.5 steals, 0.2 blocks) is below the top 250 pool in every category except turnovers, and those are low only because his usage is low, so no build needs him. Early in the season, the only thing to check is whether he makes Iisalo's 11 or 12 man rotation. Even then, the short stints would cap his counting stats.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

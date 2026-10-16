@@ -4,53 +4,56 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 66 | 23.9 | 46.5 (5.7) | 72.8 (1.4) | 1.1 | 7.4 | 5.4 | 2.4 | 0.8 | 0.3 | 1.3 |
-| 2026-27 proj, Yahoo | 68 | - | 48.4 (5.5) | 70.1 (1.4) | 1.0 | 7.3 | 3.7 | 2.1 | 0.8 | 0.2 | 1.0 |
+| 2026-27 proj, Yahoo | 68 | - | 48.5 (7.6) | 69.9 (2.0) | 1.3 | 10.1 | 5.1 | 3.0 | 1.1 | 0.3 | 1.4 |
 | 2025-26 | 68 | 20.6 | 50.0 (6.8) | 72.5 (1.8) | 1.1 | 9.2 | 3.9 | 2.3 | 0.9 | 0.3 | 1.5 |
 | 2024-25 | 56 | 13.6 | 45.8 (3.2) | 69.0 (0.8) | 0.6 | 4.1 | 3.1 | 1.4 | 0.4 | 0.2 | 0.8 |
 | 2023-24 | 23 | 8.4 | 50.9 (2.4) | 94.1 (0.7) | 0.4 | 3.6 | 2.1 | 0.6 | 0.2 | 0.1 | 0.3 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 149 | 0 | 0.0 | 249 | not drafted |
+| 2026-27 | 0 | - | 138 | 0 | 0.1 | 249 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.5% | -0.0 | +0.0 | - |
-| FT% | 71.4% | -0.4 | -0.4 | - |
-| 3PM | 1.0 | -0.5 | -0.7 | - |
-| PTS | 7.4 | -1.2 | -1.2 | - |
-| REB | 4.5 | -0.2 | -0.3 | - |
-| AST | 2.3 | -0.5 | -0.3 | - |
-| STL | 0.8 | -0.4 | -0.3 | - |
-| BLK | 0.3 | -0.7 | -0.8 | - |
-| TO | 1.2 | +0.7 | +0.6 | - |
+| FG% | 47.6% | -0.0 | +0.0 | - |
+| FT% | 71.1% | -0.5 | -0.5 | - |
+| 3PM | 1.2 | -0.3 | -0.5 | - |
+| PTS | 8.7 | -0.9 | -1.0 | - |
+| REB | 5.2 | +0.0 | +0.1 | - |
+| AST | 2.7 | -0.3 | -0.0 | - |
+| STL | 1.0 | +0.1 | +0.2 | - |
+| BLK | 0.3 | -0.7 | -0.7 | - |
+| TO | 1.4 | +0.4 | +0.3 | - |
 
 </details>
 
 **Current**
-- He might still start, and rest days for Golden State veterans should give him enough minutes either way. Josh still prefers Podziemski and Lendeborg. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1073))
-- He competes with Yaxel Lendeborg for the same starting forward minutes. Recent preseason projections start Lendeborg and have Santos coming off the bench. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=278), [08-22](https://youtu.be/LXZLrL90crE?t=270), [08-24](https://youtu.be/g31YlwRe0XQ?t=2430), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Kerr often changes his announced starting lineup a few games in. The starting wing and guard spots among Podziemski, Melton, Lendeborg and Santos are not settled. (fact, 2026-09-30; [09-10](https://youtu.be/W-R1dzem32s?t=1810), [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
-- The more Draymond Green plays center, the more minutes open up for Santos and Lendeborg. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- Draft him in rounds 11 to 13 as a late flyer. He could be top 70 after the trade deadline, and a usage rate above 20 is possible with Porzingis out. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1306), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Golden State may treat this season as a gap year. The team is worried about lottery odds and may rest veterans, which opens minutes for younger players. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- Golden State has 15 back-to-backs, tied for second most. Its schedule is good for fantasy playoffs that end March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- After last season's trade deadline he played 31 minutes a game, averaged 15 points, 6 rebounds, 4 assists and 1.5 steals, and ranked 72nd. Before the deadline he ranked 302nd. (fact, 2026-09-10; [07-14](https://youtu.be/xHRF06_E9HE?t=1405), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Draft him late together with Lendeborg as a hedge, and keep whichever one wins the role. (verdict, 2026-09-10; [08-24](https://youtu.be/g31YlwRe0XQ?t=2430), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Some of his shooting last season was fluky. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
-- Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Jimmy Butler is out for at least half the season. His return could reshuffle the wing rotation and cut into Santos's role. (fact, 2026-07-17, until Jimmy Butler returns; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-14](https://youtu.be/xHRF06_E9HE?t=1562))
+- He is expected to start on opening night. The Warriors look set to start Podziemski, Santos and Lendeborg, with Draymond Green at center. (fact, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1480), [10-12](https://youtu.be/ENizLoE6pzI?t=1282))
+- Experts call him a late flyer, worth a pick around 122 or in rounds 11 to 13. He could be top 70 after the trade deadline. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1480), [09-30](https://youtu.be/MUbNYdjpUDM?t=1306), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- The rotation could change when Butler and Moody return, and that could cut into his role. (verdict, 2026-10-12, until Butler and Moody return; [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [07-14](https://youtu.be/xHRF06_E9HE?t=1562))
+- The Warriors seem to leave Porzingis out of the starting lineup. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1249))
+- Josh still prefers Podziemski and Lendeborg to him. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1073))
+- Rest days for the veterans should give him enough minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1073))
+- With Porzingis out, a usage rate above 20 is possible for him. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1306))
+- The Warriors are reportedly treating this season as a gap year and are worried about lottery odds. They may rest veterans. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=140), [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs that end March 28. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- After last season's trade deadline he ranked 72nd, up from 302nd before it. In that stretch he played 31 minutes and averaged 15 points, 6 rebounds, 4 assists and 1.5 steals. (fact, 2026-09-10; [07-14](https://youtu.be/xHRF06_E9HE?t=1405), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- Some of his shooting last season was fluky and may not hold. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- Draft him together with Yaxel Lendeborg as a hedge for the same minutes, and keep whichever one wins the role. (verdict, 2026-09-10; [08-24](https://youtu.be/g31YlwRe0XQ?t=2430), [09-10](https://youtu.be/dlo7L8Ru91A?t=1791))
+- Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- Warriors depth is very poor. They struggle to field a 10-man rotation, so minutes go up across the rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
 
 **Durable**
-- He can create his own shot and has size. Outside of Steph Curry, almost nobody else on Golden State can do that. (fact, 2026-10-02; [09-30](https://youtu.be/MUbNYdjpUDM?t=1289), [09-10](https://youtu.be/W-R1dzem32s?t=1810), [10-02](https://youtu.be/ZYllcj4o6_A?t=551))
-- He scored big when Curry was out last season and did much less when he played alongside Curry. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=756))
+- He can create his own shot, which almost nobody on the Warriors besides Curry can do. He also has size. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1289), [09-10](https://youtu.be/W-R1dzem32s?t=1810))
+- Steve Kerr runs unpredictable rotations. He often announces a starting lineup and changes it a few games later, with a lot of mixing among the wings. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=301), [09-30](https://youtu.be/MUbNYdjpUDM?t=237))
+- He scores much more when Curry is out than when he plays alongside him. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=756))
 
 **Tags**
-- Current: `minutes competition` (Competes with Yaxel Lendeborg for the starting forward job. Podziemski and Melton are also in the wing mix.), `flyer` (Late flyer in rounds 11 to 13. Hedge him with Lendeborg.), `sleeper` (Yahoo rank 149, ESPN rank 249. Experts like him late.), `slow start` (Could be top 70 after the trade deadline, when Golden State may rest veterans), `regression risk` (Some of his shooting last season was fluky), `sites disagree on price` (Yahoo rank 149, ESPN rank 249), `tank risk` (Gap year talk and worries about lottery odds, so veterans may rest), `thin rotation` (Struggles to field a 10-man rotation), `unsettled rotation` (Kerr changes starting lineups often. Butler's return will shake up the wings.), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good for playoffs ending March 28)
-- Durable: `usage dependent` (Scored big with Curry out, much less next to him)
+- Current: `sleeper` (Yahoo rank 138, ESPN rank 249, experts like him as a late target), `flyer` (late flyer in rounds 11 to 13), `role up` (expected to start on opening night; usage above 20 possible with Porzingis out), `minutes competition` (shares the wing minutes with Yaxel Lendeborg; Butler and Moody return later), `usage competition` (produces much less alongside Steph Curry), `regression risk` (some of last season's shooting was fluky), `unsettled rotation` (Kerr changes lineups often; Butler and Moody returns will reshape the wing rotation), `tank risk` (gap year; resting veterans could open minutes for him), `thin rotation` (Warriors struggle to field a 10-man rotation), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (good for playoffs ending March 28), `sites disagree on price` (Yahoo rank 138, ESPN rank 249)
+- Durable: none
 
-**Note.** Yahoo and ESPN both value him at 0 USD (ranks 149 and 249), and experts put him in rounds 11 to 13. That is near the end of our 144-player pool, so he is a 1 USD bench flyer at most, ideally paired with Lendeborg as a role hedge. His projected line has no strong category and no punt flag, so his value comes from minutes, like the 31-minute, rank-72 stretch after last year's deadline. Early on, check whether he starts over Lendeborg, how often Draymond plays center and how his minutes hold up before Butler returns.
+**Note.** Both sites give him 0 USD in value. Yahoo ranks him 138 and ESPN 249, and nobody drafted him in our league last season, so in a 144-player draft he is a 1 USD last-round flyer at most. His projected category line has no strong or weak outlier (PTS z -0.9 is his worst), so he fits any build as filler rather than as a category target. If you draft him, pair him with Lendeborg as a hedge. In the first two weeks, check that he is still starting and playing near the 31 minutes he played after last year's deadline, and watch for changes when Butler and Moody return.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

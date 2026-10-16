@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 229 | 0 | 0.1 | 231 | not drafted |
+| 2026-27 | 0 | - | 231 | 0 | 0.0 | 231 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,17 +30,20 @@
 </details>
 
 **Current**
-- He gets real minutes only when the centers ahead of him are out, so Hartenstein's role looks secure. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- He is in a crowded OKC frontcourt with Chet Holmgren, Isaiah Hartenstein, Al Horford and Thomas Sorber. (fact, 2026-07-21; [06-28](https://youtu.be/RsjGTgJiKyI?t=446), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
-- He is the third center in the rotation, behind Hartenstein and Holmgren. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
+- Yahoo lists him as questionable with a heel injury. (fact, 2026-10-16; stats)
+- He is a backup big behind Chet Holmgren and Isaiah Hartenstein. He barely played unless one of those centers was out. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1861), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
+- OKC's frontcourt is crowded. Al Horford re-signed, and Adimara and Thomas Sorber also compete for big man minutes. (fact, 2026-10-12; [06-28](https://youtu.be/RsjGTgJiKyI?t=446), [10-12](https://youtu.be/NhLMyS7Ii5I?t=1746))
+- He is the expert's preferred stash among OKC's backup bigs, ahead of Adimara. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1861))
+- OKC has a league-minimum 13 back-to-backs. Its schedule is good with a March 28 end date. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
 
 **Durable**
-- none
+- He is a very good passer for a big man and has become a good shooter. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1603))
+- He put up several triple-doubles when Chet Holmgren and Isaiah Hartenstein were out. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1603))
 
 **Tags**
-- Current: `minutes competition` (Third center behind Hartenstein and Holmgren, with Horford and Sorber also in the frontcourt), `handcuff` (Gets minutes when Hartenstein or Holmgren is out)
+- Current: `handcuff` (Big role and triple-double upside when Chet Holmgren or Isaiah Hartenstein is out), `minutes competition` (Behind Holmgren and Hartenstein; Horford, Adimara and Sorber also compete for big minutes), `waiver watch` (Ranked 231 on Yahoo and ESPN; add if an OKC starting big gets hurt), `questionable` (Yahoo Q (Heel)), `few back-to-backs` (OKC has a league-minimum 13 back-to-backs), `good playoff schedule` (OKC schedule is good with a March 28 end date)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD and rank him 223 (Yahoo) and 232 (ESPN), well outside the 144 players our league drafts, so do not draft him. His projected line of about 6.7 points and 0.4 blocks in 19 minutes has no strong category. His only edge is low turnovers. Watch waivers only if Hartenstein or Holmgren misses time.
+**Note.** Yahoo and ESPN both rank him 231 with 0 USD value. Our league drafts only 144 players, so he should go undrafted. His projection is a low-volume bench line: about 6.7 points and 5.4 rebounds on 42% FG, with few turnovers as the only plus. Leave him on waivers, check his heel early, and pick him up right away if Chet Holmgren or Isaiah Hartenstein misses time, because his passing then gives him real value.
 
-<sub>0 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

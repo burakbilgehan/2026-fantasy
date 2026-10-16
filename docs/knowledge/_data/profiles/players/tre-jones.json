@@ -8,92 +8,100 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ca91318fcda3",
- "note_count": 7,
- "built_at": "2026-10-04T17:50:15+00:00",
+ "input_sha": "aa1b8e5f5302",
+ "note_count": 8,
+ "built_at": "2026-10-16T09:17:54+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.223076,
-  "duration_ms": 56718
+  "cost_usd_list": 0.1720662,
+  "duration_ms": 40458,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is projected as the Bulls' sixth man, behind starting guards Josh Giddey and Norman Powell. Isaac Okoro and Buddy Hield come after him off the bench.",
+   "text": "Tre Jones is expected to be the Bulls' sixth man and backup point guard. Josh Giddey and Norman Powell start ahead of him. Isaac Okoro and Buddy Hield come off the bench behind him.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p20",
-    "3Qm5wLjhvTw:t5",
     "3Qm5wLjhvTw:t3",
-    "CRLSsoGhb2w:t6",
-    "uarqbNA2dFk:p26",
-    "7BllEsdNLoM:p56"
-   ]
-  },
-  {
-   "text": "Experts do not expect him to start often this season. They expect about 23 to 25 bench minutes, and no more.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p20",
+    "3Qm5wLjhvTw:t5",
     "uarqbNA2dFk:p26",
     "KPdD91Oo8-U:p30",
-    "KPdD91Oo8-U:t1"
+    "KPdD91Oo8-U:t1",
+    "7BllEsdNLoM:p56",
+    "CRLSsoGhb2w:t6"
    ]
   },
   {
-   "text": "In his bench games last season he played about 24 minutes and ranked about 160th.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p20"
-   ]
-  },
-  {
-   "text": "Experts say a draft position around 109 to 115 is too high. He is a last pick at best, and ESPN's rank of 179 goes a little too far the other way.",
+   "text": "Experts expect a smaller role than last season, when he started only because of injuries and departures. They see about 23 to 25 minutes a game off the bench at most.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p22",
+    "3Qm5wLjhvTw:p20",
     "uarqbNA2dFk:p26",
-    "7BllEsdNLoM:p56"
+    "KPdD91Oo8-U:p30"
    ]
   },
   {
-   "text": "His upside depends on an injury to Powell or a Powell trade. He would be a great pickup if a guard ahead of him gets hurt.",
+   "text": "His efficiency gains from last season, mainly his high field goal percentage, are expected to come back down.",
    "kind": "verdict",
-   "date": "2026-09-28",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:p22",
-    "7BllEsdNLoM:p56"
-   ]
-  },
-  {
-   "text": "The Bulls front office signs older players in the hope of trading them later.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:t4"
-   ]
-  },
-  {
-   "text": "His high FG% from last season is likely to drop.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
+    "DzQXaC2rsac:p28",
     "3Qm5wLjhvTw:p21"
    ]
   },
   {
-   "text": "The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs, one below the maximum.",
+   "text": "The market drafts him too high. Experts put him in the last-pick range, a tier 9 point guard, and call an ADP of about 110 too high.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p22",
+    "uarqbNA2dFk:p26",
+    "7BllEsdNLoM:p56"
+   ]
+  },
+  {
+   "text": "His upside depends on an injury to Giddey or an injury to or trade of Powell. If one of them goes down, he becomes a great waiver pickup.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p28",
+    "3Qm5wLjhvTw:p22",
+    "7BllEsdNLoM:p56"
+   ]
+  },
+  {
+   "text": "The Bulls front office signs veterans on short deals, Powell among them, and hopes to trade them. That could open a starting role for Jones.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ]
+  },
+  {
+   "text": "The Bulls are projected to be one of the worse teams in the league.",
+   "kind": "verdict",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4"
+   ]
+  },
+  {
+   "text": "With a March 28 end, the Bulls play 3, 3 and 4 games in fantasy playoff weeks 19 to 21 (10 games). They have 15 back-to-backs, one below the maximum.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -105,8 +113,17 @@
  ],
  "durable": [
   {
-   "text": "He is a poor three-point shooter and adds few rebounds.",
+   "text": "He is a really good facilitator.",
    "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:p30"
+   ]
+  },
+  {
+   "text": "He is a poor three-point shooter and gets few rebounds.",
+   "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
@@ -115,75 +132,20 @@
    ]
   },
   {
-   "text": "His threes and blocks are weak even for a guard. His value comes from assists, FG% and low turnovers.",
+   "text": "His category value comes from FG%, which is high for a guard, plus assists and few turnovers. He gives little in threes and blocks.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
-   ]
-  },
-  {
-   "text": "Hayes calls him a really good facilitator.",
-   "kind": "verdict",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:p30"
    ]
   }
  ],
  "tags": [
   {
-   "name": "role down",
-   "channel": "current",
-   "detail": "Started about two-thirds to 70% of his games last season because of injuries and departures. Now the sixth man with about 23 to 25 minutes.",
-   "until": "",
-   "sources": [
-    "uarqbNA2dFk:p26",
-    "KPdD91Oo8-U:p30",
-    "3Qm5wLjhvTw:p20"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "handcuff",
-   "channel": "current",
-   "detail": "His value rises if Norman Powell is injured or traded, or if another Bulls guard gets hurt.",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p22",
-    "7BllEsdNLoM:p56"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Last pick range. A great pickup if a Bulls guard gets hurt.",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p22",
-    "7BllEsdNLoM:p56"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "Experts call a draft position of 109 to 115 too high.",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p22",
-    "uarqbNA2dFk:p26",
-    "7BllEsdNLoM:p56"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "punt 3PM fit",
    "channel": "durable",
-   "detail": "About 0.6 threes per game.",
+   "detail": "About 0.6 threes per game, weak for a guard",
    "until": "",
    "sources": [
     "stats",
@@ -194,14 +156,105 @@
   {
    "name": "punt BLK fit",
    "channel": "durable",
-   "detail": "About 0.1 to 0.2 blocks per game.",
+   "detail": "About 0.1 blocks per game",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "role down",
+   "channel": "current",
+   "detail": "Moves from a frequent starter to sixth man, 23 to 25 minutes",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p20",
+    "uarqbNA2dFk:p26",
+    "KPdD91Oo8-U:p30"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "regression risk",
+   "channel": "current",
+   "detail": "Last season's high FG% expected to drop",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p28",
+    "3Qm5wLjhvTw:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Backup to Josh Giddey and Norman Powell",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p28",
+    "3Qm5wLjhvTw:p22",
+    "7BllEsdNLoM:p56"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Add if Giddey or Powell is hurt, or if Powell is traded",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p56",
+    "3Qm5wLjhvTw:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bust candidate",
+   "channel": "current",
+   "detail": "At a draft-site ADP of about 110 or Yahoo's earlier rank of 115",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:p22",
+    "uarqbNA2dFk:p26",
+    "7BllEsdNLoM:p56"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "Bulls projected bottom 10, around 32 wins",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Front office signs veterans to trade them; a Powell trade would help Jones",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t4",
+    "FxaSnyk9g90:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "15 back-to-backs",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t8"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD (Yahoo average cost 1.0 USD, ranks 148 and 179). In a 144-player draft he is a 1 USD last pick at most and more likely a waiver player. He fits punt 3PM and punt BLK builds that want assists, a guard's FG% (54.5% projected) and few turnovers. Early in the season, check whether his minutes stay around 23 to 25 and whether Powell or Giddey miss time or Powell is traded. Any of those would make him worth an add.",
+ "note": "Yahoo ranks him 140 and ESPN 179, and both sites value him at 0 USD. That puts him at the edge of our 144-player draft, and experts see him as a bench player with only last-pick value, so pay no more than 1 USD or leave him on waivers. His projected 54% FG and about 5 assists with few turnovers fit punt 3PM builds. Early in the season, watch Giddey's and Powell's health and any Powell trade: either one would make him an immediate FAB add.",
  "rejected": []
 }

@@ -4,48 +4,50 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 68 | 25.7 | 48.0 (10.3) | 71.2 (2.7) | 1.2 | 13.0 | 4.6 | 2.6 | 0.6 | 0.4 | 1.8 |
-| 2026-27 proj, Yahoo | 71 | - | 45.2 (12.1) | 78.4 (2.9) | 1.5 | 14.8 | 5.1 | 2.5 | 1.1 | 0.3 | 1.2 |
+| 2026-27 proj, Yahoo | 65 | - | 45.3 (10.5) | 78.4 (2.5) | 1.3 | 12.8 | 4.4 | 2.2 | 0.7 | 0.2 | 1.1 |
 | 2025-26 | 69 | 26.2 | 49.2 (10.0) | 72.6 (2.7) | 1.2 | 13.0 | 4.5 | 2.7 | 0.7 | 0.4 | 1.7 |
 | 2024-25 | 65 | 29.8 | 43.6 (13.0) | 63.4 (3.1) | 1.5 | 14.8 | 5.7 | 2.3 | 0.6 | 0.3 | 2.2 |
 | 2023-24 | 70 | 32.6 | 46.3 (18.8) | 77.5 (3.4) | 2.2 | 22.2 | 6.6 | 4.2 | 0.5 | 0.7 | 2.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 196 | 0 | 0.1 | 224 | not drafted |
+| 2026-27 | 0 | 0.0 | 198 | 0 | 0.1 | 224 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 46.5% | -0.3 | -0.3 | - |
-| FT% | 74.9% | -0.5 | -0.4 | - |
-| 3PM | 1.4 | -0.1 | -0.2 | - |
-| PTS | 13.9 | -0.0 | -0.0 | - |
-| REB | 4.9 | -0.1 | -0.1 | - |
-| AST | 2.6 | -0.3 | -0.1 | - |
-| STL | 0.8 | -0.3 | -0.3 | - |
-| BLK | 0.3 | -0.6 | -0.6 | - |
-| TO | 1.5 | +0.2 | +0.0 | - |
+| FG% | 46.6% | -0.2 | -0.2 | - |
+| FT% | 74.6% | -0.5 | -0.4 | - |
+| 3PM | 1.3 | -0.2 | -0.4 | - |
+| PTS | 12.9 | -0.2 | -0.2 | - |
+| REB | 4.5 | -0.2 | -0.3 | - |
+| AST | 2.4 | -0.4 | -0.2 | - |
+| STL | 0.7 | -0.8 | -0.8 | - |
+| BLK | 0.3 | -0.6 | -0.7 | - |
+| TO | 1.4 | +0.3 | +0.2 | - |
 
 </details>
 
 **Current**
-- Milwaukee's starting lineup could change by December or March. The team is expected to focus more on young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
-- He is projected to start at power forward for Milwaukee to open the season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168), [08-14](https://youtu.be/owlM6b8oUd0?t=553), [10-08](https://youtu.be/sDzeYdUhJDI?t=901))
-- Do not draft him inside the top 200, even as a projected starter. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168))
-- Milwaukee needs trades to consolidate its roster, and he is named as one of the players who do not fit well. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845))
-- Taylor Jenkins is Milwaukee's new head coach and might use a deep rotation. Experts have low confidence in how the Bucks will split minutes. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
-- Milwaukee lost Giannis Antetokounmpo and Bobby Portis from the frontcourt, which should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346))
+- Milwaukee has a new coach, Taylor Jenkins, who might use a deep rotation. Experts call the Bucks rotation very unclear. (fact, 2026-10-13; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- He is projected to start at power forward for Milwaukee to open the season. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [08-14](https://youtu.be/owlM6b8oUd0?t=553))
+- Milwaukee's starting lineup could change by December or March, and an August projection had Kel'el Ware starting instead of him. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [08-14](https://youtu.be/owlM6b8oUd0?t=536))
+- Do not draft him inside the top 200. He is a projected starter but a terrible fantasy option. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1168))
+- Milwaukee's roster needs trades to consolidate, and he is named as one of the players who do not fit well. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [06-23](https://youtu.be/nnWX_ObljOE?t=94))
+- Milwaukee is expected to focus more on developing young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423))
+- Power forward is Milwaukee's weakest position, and he is one of the weak options there. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=553), [08-14](https://youtu.be/owlM6b8oUd0?t=511))
+- Milwaukee is expected to be a bad team. Its win total is 26.5. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [07-23](https://youtu.be/LUTYUdXBG1M?t=919))
+- Milwaukee lost Giannis Antetokounmpo and Bobby Portis from the frontcourt, which should give him more minutes. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=346), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
 
 **Durable**
-- His projected category line is close to the pool average everywhere and has no strong category. Blocks and FT% are his weakest. (fact, 2026-10-11; stats)
 - He is a poor free throw shooter with poor steals and blocks. He does not make threes at high volume or a high percentage. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1174))
-- He is a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
+- He was hyped early in his career but became a mediocre role player. (verdict, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=2159))
 
 **Tags**
-- Current: `role up` (More frontcourt minutes after Giannis and Portis left), `early-season value` (Opens as a starter, but the youth focus and lineup changes by December or March could cut his minutes), `trade risk` (Named as a poor roster fit on a team that needs consolidation trades), `unsettled rotation` (Experts call it the hardest Bucks rotation to read), `new coach` (Taylor Jenkins)
+- Current: `minutes competition` (Starts at power forward for now. Kel'el Ware was projected there in August.), `role up` (Giannis and Portis left the frontcourt), `trade risk` (Named as a poor fit on a roster that needs to consolidate), `trades likely` (Milwaukee needs consolidation trades), `new coach` (Taylor Jenkins), `unsettled rotation` (Experts call it one of the least clear rotations in the league), `deep rotation` (Jenkins might use a deep rotation on a crowded roster), `bottom team` (Win total 26.5), `questionable` (Yahoo status Q (Rest))
 - Durable: none
 
-**Note.** At Yahoo rank 196 and ESPN rank 224, with 0 USD values on both sites, he is well outside the 144 players we draft, and the expert would not take him inside the top 200. Yahoo's projection is kinder than ESPN's: 1.1 steals and 1.2 TO against 0.6 and 1.8. ESPN's line matches last season's 0.7 steals and 1.7 TO in 26.2 minutes. Leave him on waivers and check early whether he keeps the starting power forward job and plays clearly more than 26 minutes.
+**Note.** Both sites value him at 0 USD (Yahoo rank 198, ESPN rank 224), and only 144 players are drafted. The expert would not take him inside the top 200, so leave him on waivers on draft day. His projected z-scores are below average in every category, so he does not fit a punt build. Early in the season, check whether he keeps the starting power forward job ahead of Ware and gets the frontcourt minutes Giannis and Portis left behind.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

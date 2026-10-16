@@ -8,39 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "580370a166ea",
+ "input_sha": "1a461c4c49f4",
  "note_count": 3,
- "built_at": "2026-10-11T09:16:56+00:00",
+ "built_at": "2026-10-16T08:56:41+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16194019999999998,
-  "duration_ms": 28863,
+  "cost_usd_list": 0.1819402,
+  "duration_ms": 34778,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie from the 2026 draft class.",
-   "kind": "fact",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p6",
-    "HxQjagSTTAM:p14"
-   ]
-  },
-  {
-   "text": "His dynasty rookie rank is 31. His Summer League play did not change it.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p6"
-   ]
-  },
-  {
-   "text": "If he gets a role, he could make about 2.5 threes in 20 minutes but add almost nothing in other categories.",
+   "text": "If he earns a role, he could make about 2.5 threes in 20 minutes and add little else.",
    "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
@@ -49,7 +30,16 @@
    ]
   },
   {
-   "text": "Minnesota's bench is thin, with little scoring punch, and the team needs wing depth in case of injuries.",
+   "text": "His dynasty rookie rank is 31. It did not change after Summer League.",
+   "kind": "verdict",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p6"
+   ]
+  },
+  {
+   "text": "Minnesota's bench is thin with little scoring punch, and the team needs wing depth.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -57,35 +47,56 @@
     "2mxpEpGU3H8:t2",
     "W3THnI7wWdA:t1"
    ]
+  },
+  {
+   "text": "Yahoo projects only a small bench role for him. He is not a draft target in a 12-team league.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a pure volume three-point shooter. In Summer League, 10 of his 14 shots were threes, and he made 21% of them.",
+   "text": "He is an older prospect from the 2026 draft class.",
+   "kind": "fact",
+   "date": "2026-08-02",
+   "until": "",
+   "sources": [
+    "HxQjagSTTAM:p14",
+    "TOn-D1SV7a8:p6"
+   ]
+  },
+  {
+   "text": "He takes a very large share of his shots from three. In Summer League, 10 of his 14 shots were threes.",
    "kind": "fact",
    "date": "2026-08-02",
    "until": "",
    "sources": [
     "RyzcCGChYgs:p19",
-    "TOn-D1SV7a8:p6"
-   ]
-  },
-  {
-   "text": "He is an older prospect. Before the draft he took a huge number of threes and made them at a high rate.",
-   "kind": "fact",
-   "date": "2026-06-22",
-   "until": "",
-   "sources": [
+    "TOn-D1SV7a8:p6",
     "HxQjagSTTAM:p14"
    ]
   },
   {
-   "text": "Outside of threes his projected line is very thin. Points, rebounds and steals are clear weak spots.",
+   "text": "Before the draft he made his threes at a high rate. In Summer League he shot 21%.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-07-21",
    "until": "",
    "sources": [
-    "stats"
+    "HxQjagSTTAM:p14",
+    "RyzcCGChYgs:p19"
+   ]
+  },
+  {
+   "text": "He is a pure volume shooter who gives little outside of threes.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p19"
    ]
   }
  ],
@@ -93,25 +104,26 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "2026 draft class, dynasty rookie rank 31",
+   "detail": "2026 draft class, older prospect",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p6"
+    "TOn-D1SV7a8:p6",
+    "HxQjagSTTAM:p14"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "Only worth adding if he earns about 20 minutes. Then he is a threes-only streamer.",
+   "detail": "Minnesota bench is thin and short on scoring and wing depth",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p19",
-    "stats"
+    "2mxpEpGU3H8:t2",
+    "W3THnI7wWdA:t1"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 709th with a value of 0 USD, and ESPN gives no price. That puts him far outside the 144 players our league drafts, so do not draft him. His Yahoo projection is only 0.6 threes and 3.7 points per game, and his only possible fantasy use is as a three-point streamer. Early in the season, check whether Minnesota's thin bench gives him about 20 minutes a night. If it does, he can be a short-term pickup for teams that need threes.",
+ "note": "Yahoo ranks him 718 with a value of 0 and projects 3.7 points and 0.6 threes a game, so he should not be drafted in our 144-player auction. He is a three-only shooter, and even with a role the experts expect about 2.5 threes in 20 minutes and nothing else. Early in the season, check whether Minnesota's thin bench gives him real minutes. Even then, he would only be a short-term waiver add for threes.",
  "rejected": []
 }

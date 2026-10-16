@@ -8,41 +8,51 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ee00989a5b7f",
+ "input_sha": "8dd0e66cf7c5",
  "note_count": 6,
- "built_at": "2026-10-11T09:15:15+00:00",
+ "built_at": "2026-10-16T08:51:37+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.17146219999999998,
-  "duration_ms": 44108,
+  "cost_usd_list": 0.1763302,
+  "duration_ms": 41709,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "The starting guard spot next to Curry is not settled. Podziemski, Melton and Santos compete for it.",
+   "text": "He is projected to come off the bench.",
    "kind": "fact",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:t3"
-   ]
-  },
-  {
-   "text": "Experts project him to come off the bench. He has an outside shot to start.",
-   "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
     "LXZLrL90crE:p19",
-    "LXZLrL90crE:t1",
-    "MUbNYdjpUDM:t3",
+    "LXZLrL90crE:t1"
+   ]
+  },
+  {
+   "text": "The Warriors' latest reported starting lineups use Curry, Podziemski, Green, Lendeborg and Santos. Melton is not in them.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:t0",
+    "ENizLoE6pzI:t0",
+    "uI6umXsE7Vk:t2"
+   ]
+  },
+  {
+   "text": "The starting guard spot among Podziemski, Melton and Santos was called unclear. He has an outside shot to start.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:t3",
     "7BllEsdNLoM:p57"
    ]
   },
   {
-   "text": "If he starts and plays about 28 minutes, he is worth drafting or adding in 12-team leagues. In that case he can beat last season's rank of 179.",
+   "text": "If he starts and plays about 28 minutes, he is worth drafting or adding in every league. In that case he can beat last season's rank of 179. He is worth considering in 12-team leagues but not in 10-team leagues.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -53,21 +63,12 @@
    ]
   },
   {
-   "text": "His recovery from the ACL injury is still a concern.",
+   "text": "His knee recovery is a concern.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p18"
-   ]
-  },
-  {
-   "text": "Tier 9 in point guard tier rankings.",
-   "kind": "verdict",
-   "date": "2026-09-09",
-   "until": "",
-   "sources": [
-    "7BllEsdNLoM:p57"
    ]
   },
   {
@@ -80,39 +81,49 @@
    ]
   },
   {
-   "text": "Golden State's depth is very poor. Jimmy Butler is out for at least half the season and Moses Moody is out early, so minutes should go up across the rotation.",
-   "kind": "fact",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:t4",
-    "NYTH7uQsPCM:t6",
-    "OBwWCxG9SqM:t4"
-   ]
-  },
-  {
-   "text": "Steve Kerr runs unpredictable rotations and often changes his starting lineup a few games into the season.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
-   ]
-  },
-  {
-   "text": "The Warriors may treat this as a gap year with an eye on lottery odds. Experts expect them to rest veterans, and expect Warriors players to fade as the season goes on.",
+   "text": "Ranked in tier 9 of point guards.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-09-09",
+   "until": "",
+   "sources": [
+    "7BllEsdNLoM:p57"
+   ]
+  },
+  {
+   "text": "Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t4"
+   ]
+  },
+  {
+   "text": "Jimmy Butler and Moses Moody are out early in the season. Their return could change the rotation.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "Butler and Moody return",
+   "sources": [
+    "OBwWCxG9SqM:t4",
+    "w66x_I_MaQ8:t0",
+    "NYTH7uQsPCM:t6"
+   ]
+  },
+  {
+   "text": "Experts call the Warriors a bad team. The season may be a gap year, and the team may rest veterans to protect its lottery odds.",
+   "kind": "verdict",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0",
     "LXZLrL90crE:t0",
-    "E-KmhvyZ2CU:t1"
+    "w66x_I_MaQ8:t0",
+    "-DN4P92Wp8Y:t6",
+    "eTsjuVu1trk:t1"
    ]
   },
   {
-   "text": "The Warriors have 15 back-to-backs this season, tied for second most.",
+   "text": "The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs that end March 28.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
@@ -120,21 +131,12 @@
     "MUbNYdjpUDM:t4",
     "gf_6GveiAls:t4"
    ]
-  },
-  {
-   "text": "The Warriors' playoff schedule is good for a season ending March 28.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t4"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a steals specialist. Steals are his clear best category.",
-   "kind": "verdict",
+   "text": "He is a steals specialist. His projected 1.6 steals per game is a league outlier.",
+   "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
@@ -143,13 +145,22 @@
    ]
   },
   {
-   "text": "He is a career above-average three-point shooter, at 36 to 39% before his slump last season after returning from injury.",
+   "text": "He is a career above-average three-point shooter. He hit 36 to 39% from three before last season's slump after his injury return.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p19",
     "LXZLrL90crE:p18"
+   ]
+  },
+  {
+   "text": "His FG% is low for a guard, about 41% projected.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   },
   {
@@ -162,21 +173,22 @@
    ]
   },
   {
-   "text": "His FG% is low for a guard.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He has had an ACL injury.",
+   "text": "He is coming back from an ACL injury.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p18"
+   ]
+  },
+  {
+   "text": "Steve Kerr often names a starting lineup and changes it a few games later. His rotations are hard to predict, with a lot of mixing among the wings.",
+   "kind": "fact",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
    ]
   }
  ],
@@ -184,114 +196,101 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "About 1.6 steals per game in about 23 minutes",
-   "until": "",
+   "detail": "About 1.6 steals per game projected",
    "sources": [
     "MUbNYdjpUDM:p19",
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "Projected about 41% FG on about 11 attempts",
-   "until": "",
+   "detail": "About 41% FG on roughly 11 attempts",
    "sources": [
     "stats"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Starting guard spot open between Podziemski, Melton and Santos",
-   "until": "",
+   "detail": "Competes with Podziemski and Santos for a starting guard spot. Butler and Moody return later.",
    "sources": [
     "W-R1dzem32s:t3",
     "LXZLrL90crE:t1",
-    "MUbNYdjpUDM:t3"
+    "w66x_I_MaQ8:t0"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
    "detail": "Pickup everywhere if he starts and plays about 28 minutes",
-   "until": "",
    "sources": [
     "7BllEsdNLoM:p57",
     "MUbNYdjpUDM:p18"
    ],
-   "new_meaning": ""
-  },
-  {
-   "name": "flyer",
-   "channel": "current",
-   "detail": "0 USD on Yahoo and ESPN; upside if he wins the starting job",
    "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p20",
-    "stats"
-   ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Kerr runs unpredictable rotations and changes lineups early",
-   "until": "",
+   "detail": "Kerr often changes the starting lineup and mixes the wings",
    "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
+    "LXZLrL90crE:t2",
+    "MUbNYdjpUDM:t2"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "Butler out at least half the season, Moody out early",
-   "until": "",
+   "detail": "Warriors struggle to field a 10-man rotation",
    "sources": [
-    "LXZLrL90crE:t4",
-    "NYTH7uQsPCM:t6",
-    "OBwWCxG9SqM:t4"
+    "LXZLrL90crE:t4"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "tank risk",
    "channel": "current",
-   "detail": "Possible gap year, may rest veterans",
-   "until": "",
+   "detail": "Gap year, and the team may rest veterans for lottery odds",
    "sources": [
     "MUbNYdjpUDM:t0",
     "LXZLrL90crE:t0"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "15 back-to-backs",
-   "until": "",
+   "detail": "15 back-to-backs, tied for second most",
    "sources": [
-    "MUbNYdjpUDM:t4",
-    "gf_6GveiAls:t4"
+    "gf_6GveiAls:t4",
+    "MUbNYdjpUDM:t4"
    ],
+   "until": "",
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "Good for a March 28 end",
-   "until": "",
+   "detail": "Good schedule for playoffs ending March 28",
    "sources": [
     "MUbNYdjpUDM:t4"
    ],
+   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "Both sites price him at 0 USD (Yahoo rank 250, ESPN 181), and our league drafts only 144 players, so he is a 1 USD flyer at most and more likely an early waiver add. His value comes from steals (about 1.6 per game, z +2.1 vs the pool), so he fits steals-chasing and punt FG% builds, since his roughly 41% FG on 11 attempts hurts. In the first weeks, check whether he wins the open starting guard spot and plays about 28 minutes, and watch how his knee holds up.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 245, ESPN rank 181), so he sits outside our 144 drafted players. He is not worth an auction dollar unless he is named a starter before the draft. His draw is about 1.6 steals per game. The cost is about 41% FG on roughly 11 attempts, so he fits punt FG% builds that chase steals. In the first weeks, check whether he starts and plays around 28 minutes, and watch how his knee holds up. Also check how his role changes once Butler and Moody return.",
  "rejected": []
 }

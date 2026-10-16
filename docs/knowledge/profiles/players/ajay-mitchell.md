@@ -4,52 +4,55 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 55 | 23.5 | 48.4 (9.3) | 86.2 (2.5) | 1.0 | 12.2 | 3.0 | 3.3 | 1.1 | 0.3 | 1.3 |
-| 2026-27 proj, Yahoo | 65 | - | 48.7 (10.5) | 86.4 (2.7) | 1.1 | 13.7 | 3.5 | 3.9 | 1.3 | 0.3 | 1.5 |
+| 2026-27 proj, Yahoo | 67 | - | 48.6 (11.1) | 86.6 (2.9) | 1.2 | 14.5 | 3.7 | 4.2 | 1.4 | 0.3 | 1.6 |
 | 2025-26 | 57 | 25.8 | 48.5 (10.4) | 87.0 (2.8) | 1.1 | 13.6 | 3.3 | 3.6 | 1.2 | 0.3 | 1.4 |
 | 2024-25 | 36 | 16.6 | 49.5 (5.1) | 82.9 (1.0) | 0.6 | 6.5 | 1.9 | 1.8 | 0.7 | 0.1 | 0.8 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.0 | 126 | 0 | 0.4 | 243 | not drafted |
+| 2026-27 | 0 | 1.0 | 128 | 0 | 0.4 | 243 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 48.6% | +0.1 | +0.8 | - |
-| FT% | 86.3% | +0.7 | +0.4 | - |
+| FG% | 48.5% | +0.1 | +0.8 | - |
+| FT% | 86.4% | +0.8 | +0.5 | - |
 | 3PM | 1.1 | -0.5 | -0.9 | - |
-| PTS | 12.9 | -0.2 | -0.3 | - |
-| REB | 3.2 | -0.8 | -0.4 | - |
-| AST | 3.6 | +0.2 | -0.1 | - |
-| STL | 1.2 | +0.8 | +0.5 | - |
+| PTS | 13.4 | -0.1 | -0.2 | - |
+| REB | 3.3 | -0.8 | -0.4 | - |
+| AST | 3.8 | +0.3 | -0.1 | - |
+| STL | 1.2 | +0.9 | +0.6 | - |
 | BLK | 0.3 | -0.6 | -0.3 | - |
-| TO | 1.4 | +0.4 | +0.5 | - |
+| TO | 1.4 | +0.3 | +0.5 | - |
 
 </details>
 
 **Current**
-- OKC traded away Lu Dort, Isaiah Joe and Wiggins to cut salary and replaced them with rookies and unproven young players. (fact, 2026-10-02; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=818), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-07](https://youtu.be/gJUBAJaHzlU?t=1758), [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
-- Those departures should give Mitchell more minutes and some spot starts. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-01](https://youtu.be/W3THnI7wWdA?t=998))
-- Most experts do not expect him to start over Cason Wallace. They see him as the Thunder's sixth man. One expert says he might still start. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-30](https://youtu.be/Alwse2uXzD4?t=1728), [09-09](https://youtu.be/7BllEsdNLoM?t=2218))
-- His value would soar if Shai Gilgeous-Alexander gets hurt. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
-- Experts call his value a bit overblown. He is a safe pick with little ceiling and a late flyer at most. Taking him in round 9 was too early. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-24](https://youtu.be/_vbAP5y182A?t=1788), [09-07](https://youtu.be/gJUBAJaHzlU?t=1865), [09-09](https://youtu.be/7BllEsdNLoM?t=2218))
-- Experts say his fantasy numbers last season were inflated by injuries to teammates. He needed several players out to produce. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-24](https://youtu.be/g31YlwRe0XQ?t=2117))
-- One expert does not expect him to play 30 minutes a night. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1773))
-- Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench, under 35% overall. His efficiency and usage both dropped as the season went on. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1970), [07-26](https://youtu.be/75Sk_4fkgIM?t=1993))
-- Ryland expects him to share the floor more with SGA and Jalen Williams this season, which should make him more efficient. He sees those three together as OKC's best lineup. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1896), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
+- He is the clear sixth man for OKC. The projected starting guards are Shai Gilgeous-Alexander and Cason Wallace, and the only open question in the starting five is whether Mitchell starts over Wallace. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1234), [10-12](https://youtu.be/NhLMyS7Ii5I?t=220))
+- Most experts expect Wallace to keep the starting job over Mitchell. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=220), [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
+- He should still play close to starter minutes off the bench and get spot starts. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1234), [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
+- OKC traded away Lu Dort, Aaron Wiggins and Isaiah Joe to save money, which leaves more guard and wing minutes and usage for Mitchell. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=98), [09-30](https://youtu.be/BjXP9JODDSg?t=202), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-21](https://youtu.be/RyzcCGChYgs?t=1024))
+- If Gilgeous-Alexander, Wallace or Jalen Williams miss games, he would start and play about 31 minutes. His value would soar if Gilgeous-Alexander gets hurt. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1859), [10-02](https://youtu.be/ZYllcj4o6_A?t=816))
+- His best fantasy games last season came while key teammates were out. His efficiency and usage dropped as they returned, and he ranked 189th over the last three months of the season. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1285), [07-26](https://youtu.be/75Sk_4fkgIM?t=1993), [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-24](https://youtu.be/g31YlwRe0XQ?t=2117))
+- Experts warn that his numbers from last season overstate his value with a healthy roster around him. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1285), [09-07](https://youtu.be/gJUBAJaHzlU?t=1764), [08-24](https://youtu.be/g31YlwRe0XQ?t=2117), [10-10](https://youtu.be/hviT4hzYNME?t=1722))
+- Experts disagree on his price. One calls him a late swing pick with more upside than Wallace and says his ESPN rank of 243 is far too low. Others say his value is overblown and that he is a late flyer at most. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1859), [10-10](https://youtu.be/hviT4hzYNME?t=1722), [10-02](https://youtu.be/ZYllcj4o6_A?t=816), [09-07](https://youtu.be/gJUBAJaHzlU?t=1865), [09-24](https://youtu.be/_vbAP5y182A?t=1788))
+- OKC has a league-minimum 13 back-to-backs, and its schedule is good with our March 28 end date. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- His preseason has been a little down. (fact, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1722))
+- Ryland expects him to share the floor more with the top players this season, which should make him more efficient. He sees Gilgeous-Alexander, Jalen Williams and Mitchell together as the best lineup. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1896), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
 - He is extension eligible next summer. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=930))
+- OKC is projected to win about 57 to 62 games and be a top two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- He has no standout fantasy category. His FG% and FT% are very good for a guard, and steals are his best counting stat. (verdict, 2026-09-07; [09-07](https://youtu.be/gJUBAJaHzlU?t=1810), stats)
-- He shoots better next to the stars because they create open looks for him. As the lone creator off the bench he takes tough shots: pull-up threes, hard mid-range jumpers and physical drives. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2054))
-- He takes few threes. Less than 30% of his shots came from three. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2178))
+- His fantasy profile is thin. He has good FG% and FT%, but no standout category. His scoring, rebounds, assists and blocks are modest. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1324), [09-07](https://youtu.be/gJUBAJaHzlU?t=1810))
+- He takes few threes. Under 30% of his shots come from three. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2178), [10-12](https://youtu.be/NhLMyS7Ii5I?t=1324))
+- He shoots better next to the stars because they create open looks for him. Off the bench he is the lone creator and takes tough shots such as pull-up threes, hard mid-range jumpers and physical drives. Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2054), [07-26](https://youtu.be/75Sk_4fkgIM?t=1970))
 - He has played two NBA seasons and has not had a healthy one yet. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=121))
 
 **Tags**
-- Current: `minutes competition` (Cason Wallace is expected to start ahead of him), `handcuff` (Value soars if Shai Gilgeous-Alexander gets hurt), `waiver watch` (Experts call him a late flyer at most. Watch for a starting role or an SGA injury), `sites disagree on price` (Yahoo rank 145, ESPN rank 243)
-- Durable: `needs playmaker` (Shoots better next to SGA and Jalen Williams. Takes tough shots as the lone creator off the bench)
+- Current: `handcuff` (Starts and plays about 31 minutes if Gilgeous-Alexander, Wallace or Jalen Williams miss games), `minutes competition` (Competes with Cason Wallace for the starting guard spot), `role up` (Dort, Wiggins and Joe gone, so more minutes go to Mitchell), `usage competition` (Shares the ball with Gilgeous-Alexander and Jalen Williams), `flyer` (Late swing pick at about 1 USD), `sleeper` (One expert calls his ESPN rank of 243 laughable; other experts disagree), `sites disagree on price` (Yahoo rank 128, ESPN rank 243), `few back-to-backs` (League-minimum 13 back-to-backs), `good playoff schedule` (OKC schedule is good with a March 28 end date), `winning team` (Projected 57 to 62 wins)
+- Durable: `usage dependent` (Big games came only when key teammates were out; ranked 189th over the last three months once they returned), `needs playmaker` (Efficient next to the stars; takes tough shots as the lone creator off the bench), `fits every build` (No weak category flagged; small edges in FT% and steals)
 
-**Note.** Both sites give him a value of 0 USD (Yahoo rank 145, ESPN rank 243), and he went undrafted in our league last season. With 144 players drafted, he is at most a 1 USD final pick. Experts call his value overblown and expect Cason Wallace to start ahead of him. Early in the season, check whether he starts or plays 26 or more minutes next to SGA and Jalen Williams. Also check whether his three-point shooting holds. An SGA injury would make him a must-add.
+**Note.** He is a borderline pick in our 144-player draft. Yahoo ranks him 128th at an average cost of 1.0 USD, ESPN ranks him 243rd at 0.4 USD, and nobody drafted him in our league last season. He is worth a 1 USD final-round bid for his strong FT% (86%) and steals, and as a handcuff to Gilgeous-Alexander and Jalen Williams. He fits any build but has no standout category. Early in the season, check whether he starts over Wallace and gets close to 30 minutes with the stars healthy. If he does not, he can go back to waivers.
 
-<sub>15 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

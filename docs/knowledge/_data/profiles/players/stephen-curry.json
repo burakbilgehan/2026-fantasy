@@ -8,165 +8,137 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "377c45c0c22c",
- "note_count": 22,
- "built_at": "2026-10-11T09:23:51+00:00",
+ "input_sha": "155a56ca5b8a",
+ "note_count": 27,
+ "built_at": "2026-10-16T09:16:53+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2219022,
-  "duration_ms": 63645,
+  "cost_usd_list": 0.20920219999999998,
+  "duration_ms": 54933,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Curry has said publicly that his knee issue is a new normal.",
+   "text": "Curry has runner's knee. He has said publicly that the knee issue is a new normal.",
    "kind": "fact",
-   "date": "2026-08-22",
+   "date": "2026-09-30",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p2"
+    "LXZLrL90crE:p2",
+    "MUbNYdjpUDM:p3"
    ]
   },
   {
-   "text": "Experts keep worrying about his knee, and that worry is the main reason they rank him below his per game level.",
+   "text": "His knee is the experts' main worry this season. Josh thinks the knee problem is getting worse, and Dan expects he could miss 30 games.",
    "kind": "verdict",
-   "date": "2026-10-06",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p7",
+    "OsbUAkSeVB4:p6",
+    "w66x_I_MaQ8:p7",
+    "Q6YlQDvD-aY:p40",
+    "BiIZsSypx7Y:p9",
+    "ahNxsoU8Hx4:p45",
+    "2A2JbUN-kc0:p29",
     "KPdD91Oo8-U:p2",
-    "2A2JbUN-kc0:p29",
+    "7BllEsdNLoM:p6"
+   ]
+  },
+  {
+   "text": "When he plays, experts see him as a top 10 to top 12 per game player in category leagues. He is still one of the best players in the league at age 38.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:p7",
     "ahNxsoU8Hx4:p45",
-    "7BllEsdNLoM:p6",
-    "Q6YlQDvD-aY:p40",
-    "eTsjuVu1trk:p13"
-   ]
-  },
-  {
-   "text": "One expert expects he could miss 30 games this season.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p9"
-   ]
-  },
-  {
-   "text": "Experts see him as a top 10 to 13 player per game in category leagues. One values his per game line at about 40 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
+    "2A2JbUN-kc0:p29",
     "Alwse2uXzD4:p0",
-    "ahNxsoU8Hx4:p45",
-    "2A2JbUN-kc0:p29",
     "MUbNYdjpUDM:p1",
-    "Q6YlQDvD-aY:p40"
-   ]
-  },
-  {
-   "text": "Experts disagree on his draft price. One finds a rank of 25 fair in category leagues if his knee is fine. One would not pay more than 25 USD in an auction. Another would not take him that early in a normal 9-cat draft.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "eTsjuVu1trk:p13",
-    "Q6YlQDvD-aY:p40",
-    "BiIZsSypx7Y:p9"
-   ]
-  },
-  {
-   "text": "Experts still call him one of the best players in the league at age 38.",
-   "kind": "verdict",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
     "LXZLrL90crE:p3"
    ]
   },
   {
-   "text": "He is the only player on the Warriors who really creates his own shot.",
+   "text": "In recent expert mock drafts he went between pick 18 and pick 23. In one auction mock he went for 26 USD.",
    "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p7",
+    "OsbUAkSeVB4:p6",
+    "w66x_I_MaQ8:p7",
+    "ENizLoE6pzI:p6",
+    "Q6YlQDvD-aY:p40"
+   ]
+  },
+  {
+   "text": "The newest expert calls say not to take him around pick 23 because of his knee and the bad Warriors team. Josh values him at about 40 USD per game but would not pay more than 25 USD.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p7",
+    "OsbUAkSeVB4:p6",
+    "Q6YlQDvD-aY:p40",
+    "BiIZsSypx7Y:p9"
+   ]
+  },
+  {
+   "text": "The Warriors are seen as a bad team this season. Experts worry they could cut his minutes and rest veterans to protect their lottery odds.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p1",
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0",
+    "w66x_I_MaQ8:t0",
+    "eTsjuVu1trk:p13",
+    "Q6YlQDvD-aY:t0"
+   ]
+  },
+  {
+   "text": "He is the only player on the Warriors who really creates his own shot, so he is expected to carry a huge offensive load.",
+   "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
+    "LXZLrL90crE:p0",
     "ZYllcj4o6_A:t2",
     "2A2JbUN-kc0:t3",
-    "7BllEsdNLoM:t6",
-    "W-R1dzem32s:t3"
+    "7BllEsdNLoM:t6"
    ]
   },
   {
-   "text": "He is expected to carry a huge offensive load because the roster lacks creators.",
-   "kind": "verdict",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:p0"
-   ]
-  },
-  {
-   "text": "The Warriors are reportedly treating this season as a gap year.",
-   "kind": "fact",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:t0"
-   ]
-  },
-  {
-   "text": "Experts call the Warriors a bad team. One worries the team is bad enough to cut his minutes or rest veterans for lottery odds, and another expects Warriors players to fade as the season goes on.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:t6",
-    "eTsjuVu1trk:p13",
-    "Q6YlQDvD-aY:t0",
-    "MUbNYdjpUDM:p1",
-    "MUbNYdjpUDM:t0",
-    "MUbNYdjpUDM:t1",
-    "E-KmhvyZ2CU:t1"
-   ]
-  },
-  {
-   "text": "The Warriors have 15 back-to-backs this season, tied for the second most.",
+   "text": "The Warriors have 15 back-to-backs, tied for second most. Their schedule is good for fantasy playoffs that end March 28.",
    "kind": "fact",
    "date": "2026-09-30",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t4",
-    "MUbNYdjpUDM:t4"
-   ]
-  },
-  {
-   "text": "The Warriors schedule is good for fantasy playoffs that end on March 28.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t4"
+    "MUbNYdjpUDM:t4",
+    "gf_6GveiAls:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is much more valuable in category leagues than in points leagues.",
+   "text": "He is worth much more in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p0",
     "g31YlwRe0XQ:p13",
-    "2A2JbUN-kc0:p29",
     "Alwse2uXzD4:p0"
    ]
   },
   {
-   "text": "His three-point volume is a league outlier and steady, with 4.4 threes per game in each of the last two seasons.",
+   "text": "He is an elite three-point shooter, with steady volume of more than 4 threes a game.",
    "kind": "fact",
-   "date": "2026-09-23",
+   "date": "2026-07-07",
    "until": "",
    "sources": [
     "ME-r173X5b0:p9",
@@ -175,7 +147,7 @@
    ]
   },
   {
-   "text": "He is a consistent 92 to 93 percent free throw shooter on real volume, which lifts a team's FT%.",
+   "text": "He is an elite free throw shooter at above 92 percent, and he is consistent at that level.",
    "kind": "fact",
    "date": "2026-07-07",
    "until": "",
@@ -185,8 +157,8 @@
    ]
   },
   {
-   "text": "His scoring is a league outlier.",
-   "kind": "fact",
+   "text": "He gives strong points. His assists and steals are not special.",
+   "kind": "verdict",
    "date": "2026-09-23",
    "until": "",
    "sources": [
@@ -195,40 +167,23 @@
    ]
   },
   {
-   "text": "His assists and steals are not particularly good.",
-   "kind": "verdict",
-   "date": "2026-09-23",
-   "until": "",
-   "sources": [
-    "C4vlgpJ62NI:p5"
-   ]
-  },
-  {
-   "text": "Turnovers are his weak category for a guard, at about 2.7 per game.",
+   "text": "Turnovers are his weakest category for a guard.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He has runner's knee, a wear-and-tear issue that cost him games late last season. Injury is the main fantasy risk with him.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:p3",
-    "LXZLrL90crE:p1"
-   ]
-  },
-  {
-   "text": "Expect maintenance rest days because of the knee.",
+   "text": "Injury is the main fantasy risk with him. His runner's knee is a wear-and-tear issue, so expect maintenance rest days.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:p3"
+    "LXZLrL90crE:p1",
+    "MUbNYdjpUDM:p3",
+    "EogBYa24Gto:p7"
    ]
   }
  ],
@@ -236,7 +191,7 @@
   {
    "name": "3PM specialist",
    "channel": "durable",
-   "detail": "about 4.4 to 4.8 threes per game",
+   "detail": "more than 4 threes a game, year after year",
    "until": "",
    "sources": [
     "ME-r173X5b0:p9",
@@ -247,7 +202,7 @@
   {
    "name": "FT% anchor",
    "channel": "durable",
-   "detail": "92 to 93 percent on about 4.7 attempts",
+   "detail": "above 92 percent on about 5 attempts",
    "until": "",
    "sources": [
     "ME-r173X5b0:p10",
@@ -258,7 +213,7 @@
   {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "about 26 points per game",
+   "detail": "",
    "until": "",
    "sources": [
     "C4vlgpJ62NI:p5",
@@ -269,7 +224,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "about 2.7 turnovers per game",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -279,25 +234,24 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "top 10 to 13 per game in categories; games played is the question",
+   "detail": "top 10 to 12 per game in categories",
    "until": "",
    "sources": [
-    "Alwse2uXzD4:p0",
-    "ahNxsoU8Hx4:p45",
     "2A2JbUN-kc0:p29",
-    "MUbNYdjpUDM:p1"
+    "ahNxsoU8Hx4:p45",
+    "Alwse2uXzD4:p0",
+    "w66x_I_MaQ8:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "7th per game in 9-cat last season, 34th in fantasy points",
+   "detail": "",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p0",
     "g31YlwRe0XQ:p13",
-    "2A2JbUN-kc0:p29",
     "Alwse2uXzD4:p0"
    ],
    "new_meaning": ""
@@ -305,12 +259,13 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "runner's knee, called a new normal by Curry",
+   "detail": "runner's knee, a wear-and-tear issue he calls a new normal",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p3",
     "LXZLrL90crE:p1",
-    "LXZLrL90crE:p2"
+    "LXZLrL90crE:p2",
+    "w66x_I_MaQ8:p7"
    ],
    "new_meaning": ""
   },
@@ -338,7 +293,7 @@
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "runner's knee late last season",
+   "detail": "missed games late last season with runner's knee",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p3",
@@ -349,7 +304,7 @@
   {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "knee rest days plus 15 team back-to-backs",
+   "detail": "15 team back-to-backs and maintenance rest for the knee",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p3",
@@ -361,18 +316,18 @@
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "15, tied for second most",
+   "detail": "15 back-to-backs",
    "until": "",
    "sources": [
-    "gf_6GveiAls:t4",
-    "MUbNYdjpUDM:t4"
+    "MUbNYdjpUDM:t4",
+    "gf_6GveiAls:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "good for a March 28 end",
+   "detail": "good for playoffs ending March 28",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
@@ -382,35 +337,22 @@
   {
    "name": "tank risk",
    "channel": "current",
-   "detail": "gap year; team may chase lottery odds",
+   "detail": "Warriors reportedly treat this as a gap year and care about lottery odds",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t0",
-    "MUbNYdjpUDM:t0"
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "shutdown risk",
    "channel": "current",
-   "detail": "team may rest veterans for lottery odds",
+   "detail": "Warriors may rest veterans and cut his minutes",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0",
     "MUbNYdjpUDM:p1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "experts call the Warriors bad",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:t6",
-    "eTsjuVu1trk:p13",
-    "Q6YlQDvD-aY:t0",
-    "MUbNYdjpUDM:t1"
    ],
    "new_meaning": ""
   },
@@ -420,11 +362,12 @@
    "detail": "Yahoo 31 USD and rank 25, ESPN 21 USD and rank 34",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "MUbNYdjpUDM:p2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Experts value Curry's per game line near 40 USD, and his threes, points and FT% are true league outliers. The knee, his age of 38 and a gap-year Warriors team drag his price down to Yahoo 31 USD and ESPN 21 USD, well below the 42 USD he cost in our league last season, and one auction expert caps him at 25 USD. He fits punt TO and threes-heavy guard builds. A bid in the mid to high 20s makes sense if you accept the risk of 15 to 30 missed games. Early in the season, watch his knee, any rest days on the 15 back-to-backs, and whether the Warriors start to look like a lottery team.",
+ "note": "Healthy, Curry is a top 10 to 12 per game player in our format. He carries 3PM, FT% and PTS, and his only weak spot is turnovers, so he fits punt TO builds best. The price question is games played: he played 43 games last season, the knee is a new normal and the Warriors may rest veterans. Our league paid 42 USD for him last season, but Yahoo (31 USD) and ESPN (21 USD) are well below that and Josh would cap him at 25 USD, so bid in the 25 to 31 USD range and do not chase him to last year's price. Early in the season, watch how often he sits back-to-backs (the team has 15) and whether his minutes stay near 32. The schedule for our playoff weeks is good.",
  "rejected": []
 }

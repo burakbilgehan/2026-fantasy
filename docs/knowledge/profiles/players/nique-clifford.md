@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 215 | 0 | 0.1 | 219 | not drafted |
+| 2026-27 | 0 | - | 205 | 0 | 0.1 | 219 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,17 +28,21 @@
 </details>
 
 **Current**
-- Sacramento refused to play Malik Monk last season and could give his bench minutes to Clifford. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2063))
-- He is not in Sacramento's projected starting five. The projected starters are Acuff, LaVine, Hunter, Murray and Sabonis. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691))
-- Lloyd rated his summer league as very mid for a player aged 24.5 and worries he will not make it in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
+- Clifford is projected to come off the bench. The projected Kings starters are Acuff, LaVine, Murray, Simmons and Sabonis. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=315), [10-15](https://youtu.be/PrrgoTEcao4?t=1201))
+- He is in the Kings rotation, but his play is very inconsistent. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1597))
+- The Kings are one of the worst teams in the NBA. Poor coaching, ownership and front office make their rotations hard to predict. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=68), [10-08](https://youtu.be/6DnRWahYrFA?t=407))
+- Avoid him. There is no reason to be interested in him this season. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1597))
+- Sacramento could give some of Malik Monk's bench minutes to Clifford. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2063))
+- He was only average in summer league at age 24.5. Lloyd worries he will not stick in the NBA. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766))
 
 **Durable**
-- He is an inefficient shooter. Kings passers had low assist conversion partly because he could not make shots. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766), [07-17](https://youtu.be/NYTH7uQsPCM?t=1820), stats)
+- The expert calls him a good steals player. Projections still put his steals at only about the average for the top 250 pool. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1597), stats)
+- Experts see him as a poor shooter. Teammates' assist numbers suffered because he could not hit shots, and he shot 41.8% from the field last season. (verdict, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=766), [07-17](https://youtu.be/NYTH7uQsPCM?t=1820), stats)
 
 **Tags**
-- Current: `minutes competition` (Bench role, with Malik Monk competing for the same minutes; Sacramento may favor Clifford.)
-- Durable: none
+- Current: `bottom team` (Kings projected near the bottom of the NBA), `unsettled rotation` (Kings rotations are unpredictable because of poor coaching and front office)
+- Durable: `streaky` (described as very inconsistent)
 
-**Note.** Both sites value him at 0 USD and rank him 215 to 219, far outside the 144 players our auction drafts, so do not spend on him. His projected line (about 10 points on 44% FG) has no category above the top 250 pool. Steals, the closest, are only at pool level. Early in the season, check whether Sacramento gives him Monk's bench minutes and whether his shooting improves. Until then he is not worth a waiver claim.
+**Note.** Clifford is not a draft target. Yahoo and ESPN both value him at 0 USD, with ranks of 205 and 219. Our 144-player draft ends well before that, and the newest expert note says to avoid him. Projections have him below the pool average in almost every category, including 9.8 points on 44% shooting. His steals are only average, so he does not fit any punt build. Leave him on waivers, and look again only if Kings trades or injuries push his minutes well above last season's 25.1.
 
-<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>2 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

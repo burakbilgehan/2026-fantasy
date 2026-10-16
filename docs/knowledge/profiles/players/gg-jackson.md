@@ -11,41 +11,39 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 221 | 0 | 0.0 | 193 | not drafted |
+| 2026-27 | 0 | - | 225 | 0 | 0.0 | 193 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 46.7% | -0.2 | -0.7 | - |
+| FG% | 46.7% | -0.2 | -0.6 | - |
 | FT% | 72.5% | -0.7 | -0.3 | - |
 | 3PM | 1.3 | -0.3 | +0.1 | - |
 | PTS | 12.0 | -0.4 | -0.3 | - |
 | REB | 4.1 | -0.4 | -1.0 | - |
-| AST | 1.2 | -1.1 | -0.9 | - |
+| AST | 1.2 | -1.0 | -0.9 | - |
 | STL | 0.7 | -0.7 | -0.6 | - |
-| BLK | 0.7 | +0.1 | -0.3 | - |
-| TO | 1.8 | -0.2 | -0.4 | - |
+| BLK | 0.7 | +0.2 | -0.3 | - |
+| TO | 1.8 | -0.2 | -0.5 | - |
 
 </details>
 
 **Current**
-- He is projected to come off the bench. The projected starters are Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. He is in the bench group with Pippen, Wells, Stewart and Cam Spencer. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Too many players are ahead of him for him to have real fantasy value. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1535))
-- The Memphis forward group is crowded, and the team still has more players than roster spots. (fact, 2026-10-07; [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [06-29](https://youtu.be/bHA-JoW3reE?t=953), [10-07](https://youtu.be/lp11OAEpq4Y?t=1636))
-- Memphis is expected to use an 11 or 12 man rotation. Only Cameron Boozer and Cedric Coward are expected to top 30 minutes. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis has a 4-4-4 schedule in our playoff weeks through March 28. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- Jackson is eligible for a contract extension but has not been extended. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457))
-- Memphis has three first-round picks in the 2027 draft. That gives it room to make trades, possibly including Jerami Grant. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472))
+- Do not draft him. Too many players rank ahead of him for him to have real value. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1712), [10-07](https://youtu.be/lp11OAEpq4Y?t=1535))
+- Memphis projects him as a bench player. The projected starters are Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [10-07](https://youtu.be/lp11OAEpq4Y?t=1812))
+- Memphis expects to use an 11 or 12 man rotation, and coach Tuomas Iisalo plays short stints and keeps minutes down. That limits minutes for bench forwards. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis plays 4 games in each of our three playoff weeks under the March 28 end. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- He is eligible for a contract extension but has not been extended. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457))
+- One expert expects him to get some playing time, possibly at small forward. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1457))
 
 **Durable**
-- He is an empty scorer. He adds little outside of points. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1535))
-- Coach Tuomas Iisalo plays at a very high pace. He uses short, hard stints of about five minutes and keeps minutes down. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
+- He is an empty scorer. His points come without much help in the other categories. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1535))
 
 **Tags**
-- Current: `minutes competition` (Crowded Memphis forward group. He is projected for the bench behind Grant and Boozer.), `deep rotation` (An 11 or 12 man rotation with short stints), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21 with a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league), `trades likely` (Three 2027 first-round picks. Jerami Grant could be moved.)
-- Durable: `points league player` (Points with little support in the other categories)
+- Current: `minutes competition` (Projected bench forward behind Jerami Grant and Cameron Boozer on a crowded roster), `deep rotation` (Memphis expects an 11 or 12 man rotation), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 games in weeks 19 to 21 under the March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league)
+- Durable: none
 
-**Note.** Yahoo ranks him 221 and ESPN ranks him 193, with a value of 0 USD on both. He was not drafted in our league last season. In a 144-player auction he should go undrafted. The projections disagree on his efficiency: Yahoo projects 44.8% FG with 2.1 TO, and ESPN projects 48.4% FG with 1.6 TO. Neither projection gives him a strong category, and no build especially needs him. Early in the season, watch two things: whether he wins small forward minutes off the bench, and whether a Jerami Grant trade opens a role for him. Only then is he worth a waiver claim.
+**Note.** Both Yahoo and ESPN value him at 0 USD. He ranks 225 on Yahoo and 193 on ESPN, both well outside the 144 players our league drafts, and the experts say not to draft him. The sites split on how efficient he will be. ESPN projects 13.2 points on 48.4% FG with 1.6 TO. Yahoo projects 10.7 points on 44.8% FG with 2.1 TO. Leave him on waivers, and pick him up only if he wins steady small forward minutes in Memphis's deep rotation.
 
-<sub>2 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

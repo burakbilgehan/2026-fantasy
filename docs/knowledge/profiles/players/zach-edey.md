@@ -10,55 +10,52 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 16 | 6.3 | 66 | 2 | 2.9 | 114 | 2 |
+| 2026-27 | 15 | 5.0 | 71 | 2 | 3.2 | 114 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 61.2% | +2.2 | +1.1 | league outlier, strong |
+| FG% | 61.2% | +2.3 | +1.1 | league outlier, strong |
 | FT% | 75.8% | -0.4 | +0.3 | - |
 | 3PM | 0.3 | -1.4 | -0.7 | - |
 | PTS | 14.0 | -0.0 | +0.2 | - |
 | REB | 11.1 | +2.5 | +1.5 | league outlier, strong |
 | AST | 1.2 | -1.0 | -0.7 | - |
-| STL | 0.7 | -0.7 | -0.3 | - |
-| BLK | 2.0 | +3.0 | +1.6 | league outlier, strong |
+| STL | 0.7 | -0.7 | -0.2 | - |
+| BLK | 2.0 | +3.0 | +1.7 | league outlier, strong |
 | TO | 2.3 | -0.9 | -1.2 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Take him in the 60s or 70s. Experts call him a top 60 player at worst and see a top 50 per game finish as reasonable. Lloyd calls him a possible league winner. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=2041), [10-07](https://youtu.be/lp11OAEpq4Y?t=592), [10-02](https://youtu.be/ZYllcj4o6_A?t=2056), [09-30](https://youtu.be/BjXP9JODDSg?t=1077))
-- He is expected to be available on opening night after ankle surgery. Reports say he is fully ready for the start of the season. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=592), [09-30](https://youtu.be/BjXP9JODDSg?t=1003), [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
-- He will probably not play in preseason, and some days off are expected during the season. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1860))
-- Experts still see a high risk that he gets hurt again. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1860), [09-30](https://youtu.be/BjXP9JODDSg?t=1003))
-- He is projected to start at center for Memphis. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Expect about 25 to 28 minutes a night, not 30 or more. Memphis wants to manage his large frame. Isaiah Stewart and Quinten Post will take the extra center minutes. (verdict, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=939), [10-07](https://youtu.be/lp11OAEpq4Y?t=672))
-- Coach Tuomas Iisalo keeps minutes down and runs an 11 or 12 man rotation. That also caps Edey's minutes. (fact, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [10-07](https://youtu.be/lp11OAEpq4Y?t=296))
-- If he played 30 minutes a night, he would be a top 30 player. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=672), [09-14](https://youtu.be/t4n9MAP2_14?t=1803), [09-07](https://youtu.be/gJUBAJaHzlU?t=1306))
-- At his ESPN rank of about 113 and ADP of 124 he is great value, a 40 to 50 spot gap. At his Yahoo price around pick 70 he is riskier, but he beats that per game if he plays 60 games. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=634), [10-02](https://youtu.be/ZYllcj4o6_A?t=2056), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2850), [09-21](https://youtu.be/egRrai3Ax38?t=1894))
-- Memphis has a 4-4-4 schedule in weeks 19 to 21 with a March 28 end. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- In an auction mock, Josh would pay up to 11 USD for him. He went for 20 USD, more than Franz Wagner or Jaren Jackson. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4527))
-- Even if he misses some time, his downside is low. He might play more minutes in his third season. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
+- He is playing in preseason and looks okay. He is expected to be available on opening night after ankle surgery. (fact, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=751), [10-07](https://youtu.be/lp11OAEpq4Y?t=592), [09-30](https://youtu.be/BjXP9JODDSg?t=1003))
+- Experts still see a high injury risk and expect him to get some days off. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=751), [10-07](https://youtu.be/lp11OAEpq4Y?t=1860), [09-30](https://youtu.be/BjXP9JODDSg?t=1003))
+- Experts take him around picks 60 to 70 in recent mock drafts. One goes as early as round 5. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=751), [10-13](https://youtu.be/EogBYa24Gto?t=882), [10-12](https://youtu.be/ENizLoE6pzI?t=1082), [10-07](https://youtu.be/lp11OAEpq4Y?t=592), [09-30](https://youtu.be/BjXP9JODDSg?t=1077))
+- Experts see top-50 upside if he stays healthy, and Lloyd calls him a league winner. At 30 minutes a night he could be a top-30 to top-40 player. One expert says he is a top-60 player at worst. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=2041), [10-07](https://youtu.be/lp11OAEpq4Y?t=592), [10-07](https://youtu.be/lp11OAEpq4Y?t=672), [10-07](https://youtu.be/lp11OAEpq4Y?t=1860), [09-14](https://youtu.be/t4n9MAP2_14?t=1803), [10-02](https://youtu.be/ZYllcj4o6_A?t=2056))
+- He is in the projected Memphis starting five at center. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
+- Experts expect about 25 to 28 minutes a night, not 30 or more. Memphis wants to manage his large frame, and Isaiah Stewart and Quinten Post should take the extra center minutes. (verdict, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=837), [08-17](https://youtu.be/LcZcvk8s1xQ?t=939), [10-07](https://youtu.be/lp11OAEpq4Y?t=672), [09-14](https://youtu.be/t4n9MAP2_14?t=1803))
+- Coach Tuomas Iisalo plays at a very high pace, uses short stints, keeps minutes down and runs an 11 or 12 man rotation. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Experts call his ESPN rank and ADP (113 to 124) great value, a gap of 40 to 50 spots. At a Yahoo ADP near 70 he is riskier, but he beats that price per game if he plays 60 games. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=634), [10-02](https://youtu.be/ZYllcj4o6_A?t=2056), [09-21](https://youtu.be/egRrai3Ax38?t=1894), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2850), [10-04](https://youtu.be/n4KkK-OJjqA?t=1713))
+- Memphis has a maxed 4-4-4 schedule in our playoff weeks through March 28. It has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Experts expect Memphis to be a below-average team, but not to tank this season because of the new tanking rules. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=114), [10-07](https://youtu.be/lp11OAEpq4Y?t=274), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864))
+- In one expert auction mock he went for 20 USD, more than Franz Wagner or Jaren Jackson. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4527))
+- Josh would pay up to 11 USD for him at auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4527))
+- In his 11 games last season he ranked around 60th to 70th per game in about 26 minutes. One expert called him the best second-year player per game. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1713), [09-21](https://youtu.be/egRrai3Ax38?t=1894), [09-04](https://youtu.be/gerS7ibpaJo?t=654))
 - One expert projects about 65 games, partly because Edey is thinking about his contract extension. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=837))
-- Memphis plays at a very high pace. (fact, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033))
 
 **Durable**
-- His FG% is elite on real volume. It clearly lifts a team's FG%. (fact, 2026-10-11; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [09-07](https://youtu.be/gJUBAJaHzlU?t=1278), stats)
-- His rebounds and blocks are far above the player pool. (fact, 2026-10-11; [09-07](https://youtu.be/gJUBAJaHzlU?t=1278), stats)
-- He commits many turnovers for a center. (fact, 2026-10-11; stats)
-- He was very healthy in college and played heavy minutes at Purdue without problems. His conditioning is good. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=2070), [10-07](https://youtu.be/lp11OAEpq4Y?t=1831), [08-17](https://youtu.be/LcZcvk8s1xQ?t=939))
-- He had foot surgery, then a second surgery after returning for 11 games. He has had three significant ankle or foot problems in his first two seasons. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1831), [09-07](https://youtu.be/gJUBAJaHzlU?t=1271), [08-17](https://youtu.be/LcZcvk8s1xQ?t=794), [08-09](https://youtu.be/8d--aL_xxwE?t=1749))
-- He is a very good free throw shooter for a big, so he does not hurt FT% like most centers. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [09-07](https://youtu.be/gJUBAJaHzlU?t=1278))
-- He is poor in assists, threes and steals, and makes almost no threes. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), stats)
-- He can handle high usage. On the court he was one of the most efficient and dominant players in the NBA, in a small sample. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [08-17](https://youtu.be/LcZcvk8s1xQ?t=985))
-- The repeated ankle injury is a real concern. He is moving toward Kawhi and Embiid territory for health risk but is not there yet. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1749), [09-07](https://youtu.be/gJUBAJaHzlU?t=1271))
+- He gives an elite FG% on solid volume, plus strong rebounds and blocks. (fact, 2026-10-16; stats, [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [09-07](https://youtu.be/gJUBAJaHzlU?t=1278))
+- He was healthy at Purdue and played 66 games as a rookie. He then had foot surgery and a second surgery after returning for 11 games. That makes three significant ankle or foot problems in his first two seasons. (fact, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=756), [10-08](https://youtu.be/6DnRWahYrFA?t=2070), [10-07](https://youtu.be/lp11OAEpq4Y?t=1831), [08-17](https://youtu.be/LcZcvk8s1xQ?t=794), [09-07](https://youtu.be/gJUBAJaHzlU?t=1271), [08-09](https://youtu.be/8d--aL_xxwE?t=1749))
+- He is a very good free throw shooter for a center, so his FT% does not hurt a team. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [09-07](https://youtu.be/gJUBAJaHzlU?t=1278), stats)
+- He is poor in assists, threes and steals, and his turnovers are high for a center. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), stats)
+- He can handle high usage. In a small sample he was one of the most efficient and dominant players in the NBA, and he turned 50% of his rim contests into blocks. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=615), [08-17](https://youtu.be/LcZcvk8s1xQ?t=985), [07-17](https://youtu.be/NYTH7uQsPCM?t=560))
+- Health is the big concern. The repeated ankle injury moves him toward Kawhi and Embiid territory, but he is not there yet. (verdict, 2026-09-07; [08-09](https://youtu.be/8d--aL_xxwE?t=1749), [09-07](https://youtu.be/gJUBAJaHzlU?t=1271))
 
 **Tags**
-- Current: `minutes limit` (25 to 28 minutes projected to manage his frame), `expert target` (take in the 60s or 70s; top 60 at worst), `sleeper` (ESPN rank 113, ADP 124), `sites disagree on price` (Yahoo value 16 USD, ESPN 2 USD), `breakout` (top 50 upside, may play more in year three), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs), `fast pace`, `deep rotation` (11 or 12 man rotation)
-- Durable: `FG% anchor` (elite FG% on about 9 to 10 attempts), `REB specialist`, `BLK specialist`, `punt TO fit`, `no 3PM`, `injury prone` (repeated foot and ankle surgeries)
+- Current: `minutes limit` (Expected 25 to 28 minutes to manage his frame), `low starter minutes` (Iisalo uses short stints and keeps minutes down), `deep rotation` (11 or 12 man rotation), `fast pace`, `breakout` (Year three, top-50 upside if healthy), `sleeper` (ESPN rank and ADP 113 to 124), `expert target` (Experts take him around picks 60 to 70), `sites disagree on price` (Yahoo value 15 USD, rank 71; ESPN value 2 USD, rank 114), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs), `low shutdown risk` (Memphis not expected to tank under the new rules)
+- Durable: `FG% anchor` (About 61% FG on 9 to 10 attempts), `REB specialist` (About 11 rebounds per game), `BLK specialist` (About 2 blocks per game), `no 3PM`, `punt TO fit` (Turnovers high for a center), `injury prone` (Repeated foot and ankle surgeries)
 
-**Note.** Edey is a rare FG%, REB and BLK anchor at center. His weak spots are turnovers and threes, so he fits punt TO builds. The market splits on him: Yahoo values him at 16 USD with an average cost of 6.3 USD, ESPN at 2 USD, and he went for 2 USD in our league last season. In a mock he went for 20 USD while Josh capped him at 11 USD, so somewhere near 11 USD fairly prices his upside against his foot and ankle risk. Early in the season, check whether he gets more than the projected 25 to 28 minutes and how often Memphis rests him.
+**Note.** Edey went for just 2 USD in our league last season. Yahoo values him at 15 USD (rank 71) but its average cost is only 5 USD, and ESPN has him at 2 USD (rank 114). Experts take him around picks 60 to 70, and their auction bids run from Josh's 11 USD cap up to 20 USD, so somewhere between 10 and 15 USD gets you real upside for the injury risk. He fits builds that want FG%, rebounds and blocks and can live without threes, assists and turnovers. He also has a strong 4-4-4 playoff schedule. In the first weeks, check whether his minutes go above the expected 25 to 28 and whether Memphis rests him on back-to-backs.
 
-<sub>27 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>31 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -4,12 +4,12 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 65 | 23.0 | 52.1 (5.9) | 72.1 (1.7) | 0.4 | 7.8 | 7.5 | 0.3 | 0.3 | 1.9 | 1.4 |
-| 2026-27 proj, Yahoo | 68 | - | 56.7 (7.3) | 74.1 (2.2) | 0.5 | 10.4 | 9.3 | 0.9 | 0.5 | 2.1 | 1.3 |
+| 2026-27 proj, Yahoo | 68 | - | 56.7 (7.3) | 74.1 (2.2) | 0.5 | 10.4 | 9.3 | 0.9 | 0.5 | 2.0 | 1.3 |
 | 2025-26 | 46 | 8.9 | 53.3 (2.3) | 71.0 (0.7) | 0.1 | 3.0 | 2.9 | 0.1 | 0.1 | 0.7 | 0.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 2 | 1.2 | 113 | 0 | 0.3 | 202 | not drafted |
+| 2026-27 | 2 | 1.2 | 114 | 0 | 0.4 | 202 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,33 +19,35 @@
 | FT% | 73.2% | -0.5 | +0.3 | - |
 | 3PM | 0.4 | -1.2 | -0.5 | - |
 | PTS | 9.1 | -0.9 | -0.7 | - |
-| REB | 8.4 | +1.4 | +0.3 | - |
+| REB | 8.4 | +1.4 | +0.4 | - |
 | AST | 0.6 | -1.4 | -1.1 | weak for his position (punt fit) |
 | STL | 0.4 | -1.6 | -1.4 | league outlier, weak, weak for his position (punt fit) |
-| BLK | 2.0 | +2.9 | +1.6 | league outlier, strong |
+| BLK | 1.9 | +2.8 | +1.5 | league outlier, strong |
 | TO | 1.3 | +0.4 | +0.3 | - |
 
 </details>
 
 **Current**
-- Oso Ighodaro has started the last two games at center ahead of Maluach. Their minutes are similar. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2012), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999))
-- Experts expect him to split center minutes with Ighodaro. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [10-05](https://youtu.be/BiIZsSypx7Y?t=3636), [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
-- The newest call is that he is more of a stash and will struggle to reach 24 minutes a game. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
-- He is a late flyer worth a pick around 120 to 125. Do not take him inside the top 100. (verdict, 2026-10-08; [09-14](https://youtu.be/t4n9MAP2_14?t=2287), [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
-- If he wins the starting job, he has top 75 upside. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102))
-- Mark Williams is out long term with a torn labrum, with an expected absence of 5 to 6 months. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [09-14](https://youtu.be/t4n9MAP2_14?t=2287))
-- He averaged 18 points, 13 rebounds, 2 blocks and 2 threes in summer league and was a top 10 fantasy player there. (fact, 2026-08-26; [07-21](https://youtu.be/RyzcCGChYgs?t=918), [08-26](https://youtu.be/sTtFUy7IoJI?t=395))
+- Mark Williams is out long term with a torn labrum, which opens center minutes in Phoenix. (fact, 2026-10-14, until 5 to 6 months from 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2190), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2200), [10-14](https://youtu.be/MRzebgip23Y?t=105))
+- The Suns' starting center job is not settled. Oso Ighodaro and Maluach have both started in preseason, and their minutes are similar. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=105), [10-08](https://youtu.be/WXO8MfQfzo0?t=1999), [10-08](https://youtu.be/WXO8MfQfzo0?t=2012))
+- The newest projected lineup has Ighodaro starting at center and Maluach on the bench. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=508), [10-14](https://youtu.be/MRzebgip23Y?t=1175))
+- Experts disagree on his role. One sees him as more of a stash who will struggle to reach 24 minutes. Another says he can win the starting job on merit and would draft him over Ighodaro. (verdict, 2026-10-14; [10-08](https://youtu.be/WXO8MfQfzo0?t=2012), [10-14](https://youtu.be/MRzebgip23Y?t=1712))
+- The newest expert ranks him around 130 to 155. Experts agree he is a late flyer: do not take him inside the top 100, but round 10 is fine. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1069), [10-02](https://youtu.be/ZYllcj4o6_A?t=1102), [09-14](https://youtu.be/t4n9MAP2_14?t=2287), [08-23](https://youtu.be/hm5-fiCa5S4?t=2232), [08-26](https://youtu.be/sTtFUy7IoJI?t=411))
+- Phoenix has the best fantasy schedule in the league: 4, 4 and 4 games in our playoff weeks and the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- One expert sees top 75 upside if he locks in the starting job. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1102))
+- He is projected for about nine extra minutes per game, around 24 a night. (verdict, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=411))
+- He averaged 18 points and 13 rebounds with 2 blocks and 2 threes in Summer League and was a top 10 fantasy player there. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=918), [10-14](https://youtu.be/MRzebgip23Y?t=1116))
 
 **Durable**
-- Blocks are his standout category. They are far above the top 250 pool. (fact, 2026-10-11; stats)
-- His steals are very low, even for a center, and his assists are low for his position. (fact, 2026-10-11; stats)
-- He is a big man who brings rebounds, shot blocking and a good FG%, and he can stretch the floor. Experts call him a strong defender and expect him to be an okay free throw shooter. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=2298), [08-23](https://youtu.be/hm5-fiCa5S4?t=1231))
-- He turned 31.5% of his rim contests into blocks. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=695))
+- Shot blocking is his standout skill. He converted 31.5% of rim contests into blocks, and his projected blocks are far above the top 250 pool. (fact, 2026-10-16; [07-17](https://youtu.be/NYTH7uQsPCM?t=695), stats)
+- He gives very few steals and assists, even for a center. (fact, 2026-10-16; stats)
+- He profiles as a FG%, rebounds and blocks big who can add some threes. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1116), [09-14](https://youtu.be/t4n9MAP2_14?t=2298))
+- He has had some bad free throws. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1116))
 
 **Tags**
-- Current: `minutes competition` (Oso Ighodaro has started the last two games at center), `role up` (Mark Williams is out long term, and he is projected at about 23 to 25 minutes), `flyer` (Late pick around 120 to 125), `sites disagree on price` (Yahoo rank 113, ESPN rank 202)
-- Durable: `BLK specialist` (About 2 blocks per game projected), `punt STL fit`, `punt AST fit`
+- Current: `minutes competition` (Oso Ighodaro for the starting center job), `role up` (Mark Williams out long term; projected about 24 minutes after under 9 last season), `flyer` (round 10 flyer, not inside the top 100), `unsettled rotation` (Suns center rotation split between Ighodaro and Maluach), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (fewest back-to-backs in the league), `sites disagree on price` (Yahoo rank 114, ESPN rank 202)
+- Durable: `BLK specialist` (about 1.9 blocks projected; 31.5% of rim contests became blocks), `punt STL fit` (about 0.4 steals projected), `punt AST fit` (about 0.6 assists projected)
 
-**Note.** Yahoo values him at 2 USD (rank 113) and ESPN at 0 USD (rank 202), so in our 144-player draft he is a 1 to 2 USD last-round flyer for blocks. He fits punt STL and punt AST builds that need blocks and rebounds. In the first weeks, check whether he or Ighodaro starts at center and whether his minutes reach the mid 20s. If Ighodaro keeps the job, Maluach is a cut or waiver-level stash.
+**Note.** He costs almost nothing (Yahoo average cost 1.2 USD at rank 114, ESPN 0.4 USD at rank 202, not drafted in our league), so he is a 1 to 2 USD end-of-auction pick near the 144-player cutoff. His blocks are a real outlier and he adds rebounds and FG%, so he fits punt STL and punt AST builds that need a cheap blocks source, and Phoenix's 4-4-4 playoff schedule adds late value. In the first weeks, check who starts at center and whether his minutes reach about 24. If Ighodaro keeps the job and Maluach stays near 16 minutes, he is easy to drop.
 
-<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>15 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,14 +11,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 12 | 2.8 | 79 | 26 | 12.1 | 29 | 9 |
+| 2026-27 | 13 | 2.2 | 76 | 26 | 11.5 | 29 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 48.4% | +0.1 | +0.2 | - |
-| FT% | 82.1% | +0.1 | +0.2 | - |
+| FT% | 82.1% | +0.1 | +0.3 | - |
 | 3PM | 2.0 | +0.5 | +0.6 | - |
 | PTS | 15.0 | +0.2 | +0.2 | - |
 | REB | 3.6 | -0.6 | -0.7 | - |
@@ -30,26 +30,29 @@
 </details>
 
 **Current**
-- Several experts say he was not worth a roster spot in standard category leagues for the final two to three months of last season. He ranked around 130th per game. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1083), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [10-06](https://youtu.be/eTsjuVu1trk?t=1356))
-- Experts agree he is overdrafted. Do not take him at ESPN category rank 29 or around Yahoo rank and ADP 73 to 79. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1083), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [09-22](https://youtu.be/QbdrhJd7LiA?t=1023), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355))
-- Over the last third of last season he played under 30 minutes, took about one free throw per game and had a usage rate around 16 percent. He was benched at times. (fact, 2026-10-06; [08-13](https://youtu.be/okN3fbHJtlA?t=862), [10-06](https://youtu.be/eTsjuVu1trk?t=1356))
-- Experts value him far below his ranks: Josh sees him as about a 2 USD auction player, and other experts place him in the 90s or outside the top 100. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4116), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355), [08-24](https://youtu.be/g31YlwRe0XQ?t=1533))
-- The Knicks are expected to be cautious after their title run: trimmed starter minutes and more rest on back-to-backs over the first 30 or so games. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
-- The Knicks are the defending champions and are projected for about 50 to 54 wins. (fact, 2026-08-27; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [08-27](https://youtu.be/ZAyie8lKyYc?t=334))
-- He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
-- Gavin expects the same limited role this season but still his best season as a Knick. Mike Brown may cut his role if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
+- His fair value is around pick 98, in the 90s. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=1193), [08-19](https://youtu.be/J1Eg3uaAICU?t=1355))
+- He is a projected starter for the Knicks, next to Brunson, Hart, Anunoby and Towns. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=345), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- He faded after a hot start last season. Late in the season he was benched in closing lineups, played under 30 minutes, took about one free throw per game and had a usage rate of about 16 percent. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1046), [08-13](https://youtu.be/okN3fbHJtlA?t=862))
+- Experts call him one of the most overpriced players. Do not draft him at his ESPN rank of 26 to 29 or at a market ADP in the 50s to 70s. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1046), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1083), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483))
+- The Knicks play a league-minimum 13 back-to-backs. Their fantasy playoff schedule is weak for a season ending March 28. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
+- Experts disagree on Knicks rest. Earlier notes expect trimmed starter minutes and more rest over the first 30 or so games after the title run. The newest note says a weaker team in a stronger East may not be able to rest players as much. (verdict, 2026-10-11; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [10-11](https://youtu.be/-dulgoyo_wo?t=263))
+- Experts say he was outside standard category league value for the last two to three months of last season, around 130th per game. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1083), [09-19](https://youtu.be/uarqbNA2dFk?t=924), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [10-06](https://youtu.be/eTsjuVu1trk?t=1356))
+- In auctions Josh values him at about 2 USD and does not like him in head-to-head leagues. He went for 10 USD in an auction mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4116))
+- Gavin expects the same small late-season role this season. Mike Brown may cut his role further if he struggles. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=862))
+- The Knicks are projected to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
 
 **Durable**
-- He is a low-volume player with good percentages and some steals. No category is a real outlier, and none is clearly weak. (fact, 2026-10-11; [08-30](https://youtu.be/Alwse2uXzD4?t=2068), stats)
-- His rankings rest on games played and season totals. Per game he is not that good, so nine-cat totals flatter him. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1237), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [09-10](https://youtu.be/dlo7L8Ru91A?t=1483), [08-30](https://youtu.be/Alwse2uXzD4?t=2068))
+- He is a low-volume, solid-percentage player with some steals and threes, few turnovers and no clear standout category. (fact, 2026-10-16; [08-30](https://youtu.be/Alwse2uXzD4?t=2068), stats)
+- He is very durable and has never missed a game. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=904), [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
+- He avoids contact and does not attack the rim, so he gets few free throws. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=904))
+- Nine-cat totals flatter him, because his games played add value that his per game line does not. (verdict, 2026-10-09; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2166), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1237), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4116))
 - He is an elite off-ball defender. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991))
-- He is very durable and rarely misses games. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=991), [08-09](https://youtu.be/8d--aL_xxwE?t=1811), stats)
-- He can be projected for more games than the usual player, though Josh warns that any player can still get hurt and miss a large part of a season. (verdict, 2026-08-13; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
+- He can be projected to play more games than the usual player, but Josh warns he will get hurt at some point. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1811))
 
 **Tags**
-- Current: `bust candidate` (Overdrafted at ESPN cats rank 29 and Yahoo rank 74 to 79), `low starter minutes` (Knicks plan to trim starter minutes after the title run; until first 30 or so games), `back-to-back risk` (Knicks plan more rest on back-to-backs; until first 30 or so games), `sites disagree on price` (ESPN rank 29 and 26 USD value vs Yahoo rank 79 and 12 USD value), `winning team` (Defending champions, projected 50 to 54 wins)
-- Durable: `9-cat fluff` (Season totals from playing every game flatter a modest per-game line), `plays every game` (82 games in each of the last three seasons), `fits every build` (No weak category, but also no standout one)
+- Current: `bust candidate` (ESPN rank 29 and market ADP 50s to 70s; experts see value near pick 98), `sites disagree on price` (ESPN rank 29 and 26 USD value vs Yahoo rank 76 and 13 USD value), `bad playoff schedule` (weak Knicks schedule for a March 28 end), `few back-to-backs` (league-minimum 13 back-to-backs), `winning team` (defending champions, projected 50 to 54 wins)
+- Durable: `plays every game` (has never missed a game), `elite defender` (elite off-ball defender), `9-cat fluff` (games played inflate his totals; weak per game), `fits every build` (no weak category, but no strong one either)
 
-**Note.** ESPN values him at 26 USD (12 USD average cost) and Yahoo at 12 USD (2.8 USD average cost). He went for 9 USD in our league last season. Experts put him near 2 USD, because his per-game line was waiver level late last season (under 30 minutes, about 16 percent usage). He has no weak category, so he can fill a forward spot in any build, but only bid a few dollars and let others pay for his games played. Early in the season, check his minutes and shot volume while the Knicks trim starter minutes over the first 30 or so games.
+**Note.** ESPN prices him at 26 USD (rank 29), but every expert note says to fade him and puts his fair value near pick 98, or about 2 USD in an auction. That is close to his Yahoo average cost of 2.2 USD and below the 9 USD our league paid last season. His per game line has no weak category, so he fits any build as a cheap late filler with steals, threes, low turnovers and full availability. Do not pay more than a few USD. Early in the season, check whether he plays over 30 minutes and closes games. The Knicks also have a weak playoff schedule for our March 28 end.
 
-<sub>15 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

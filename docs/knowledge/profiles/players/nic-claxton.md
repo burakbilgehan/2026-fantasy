@@ -11,52 +11,52 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 3 | 1.9 | 110 | 1 | 1.1 | 121 | 4 |
+| 2026-27 | 3 | 1.6 | 110 | 1 | 1.1 | 121 | 4 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 59.1% | +1.7 | +0.7 | - |
-| FT% | 59.2% | -2.4 | -1.4 | league outlier, weak, weak for his position (punt fit) |
+| FT% | 59.2% | -2.4 | -1.5 | league outlier, weak, weak for his position (punt fit) |
 | 3PM | 0.1 | -1.6 | -1.0 | league outlier, weak, weak for his position (punt fit) |
 | PTS | 12.0 | -0.4 | -0.2 | - |
-| REB | 7.6 | +1.0 | -0.0 | - |
-| AST | 3.2 | +0.0 | +0.5 | - |
+| REB | 7.6 | +1.0 | +0.0 | - |
+| AST | 3.2 | +0.0 | +0.6 | - |
 | STL | 0.7 | -0.6 | -0.2 | - |
-| BLK | 1.3 | +1.5 | +0.4 | - |
+| BLK | 1.3 | +1.5 | +0.5 | - |
 | TO | 1.4 | +0.3 | +0.2 | - |
 
 </details>
 
 **Current**
+- He looks likely to miss the start of the season. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1376))
+- Experts do not trust the hamstring and would move him down the draft board. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1315), [10-08](https://youtu.be/WXO8MfQfzo0?t=1566))
 - He hurt his hamstring on 2026-10-05. Yahoo lists him as questionable with a hamstring injury. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1894), [10-08](https://youtu.be/WXO8MfQfzo0?t=1566), stats)
-- Because of the hamstring injury, one expert would move him down the draft board. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1566))
-- In an auction, Josh would pay no more than about 3 USD for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4236))
-- Experts call him fair value around rank 100 to 120 but too expensive in the 80s. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1620), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1858), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
-- He is projected to start at center for the Bulls. One expert puts it at about 90% that he starts over Jalen Smith. (verdict, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=772), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- He may not reach 30 minutes if the Bulls rotate their centers and use Jalen Smith for spacing or Zach Collins. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1152))
-- The Bulls are projected to be a bad team. One expert predicts 32 wins and another calls them a bottom-10 team. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764))
-- Tiago Splitter is the new Bulls head coach. Nikola Vucevic is gone, which leaves the starting center job to Claxton. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=172), [09-28](https://youtu.be/3Qm5wLjhvTw?t=199), [08-18](https://youtu.be/FxaSnyk9g90?t=387))
-- The Bulls have 15 back-to-backs, one below the maximum. They play 10 games in our fantasy playoff weeks (3-3-4). (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
-- The Bulls front office signs veterans to short deals and hopes to trade them, so trades are possible this season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
-- Claxton was traded from Brooklyn to the Bulls. (fact, 2026-09-26; [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-26](https://youtu.be/3UGI05PDvrE?t=237))
-- He is on a two-year deal with Chicago. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=772))
+- In an auction, pay no more than about 3 USD for him. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4236))
+- He is fine to target around rank 100 to 120, but not in the 80s. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1620), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1858), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
+- He is projected to start at center for Chicago, about 90% sure over Jalen Smith. (verdict, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=772), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
+- He may not reach 30 minutes if the Bulls rotate centers and use Jalen Smith for spacing or Zach Collins. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1152))
+- Chicago projects as a bottom-10 team, with about 32 wins predicted. It has a new coach, Tiago Splitter, and should play fast. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764), [08-18](https://youtu.be/FxaSnyk9g90?t=1629), [08-18](https://youtu.be/FxaSnyk9g90?t=387), [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
+- The Bulls signed veterans, him included, to short deals, and they hope to trade them. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=746), [08-18](https://youtu.be/FxaSnyk9g90?t=251))
+- Chicago has 15 back-to-backs, one below the maximum. It plays 3-3-4 games (10) in our fantasy playoff weeks 19 to 21. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024), [09-28](https://youtu.be/3Qm5wLjhvTw?t=2041))
+- The Brooklyn Nets traded him to the Chicago Bulls. He is on a two-year deal. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=237), [08-18](https://youtu.be/FxaSnyk9g90?t=772))
+- Chicago has enough centers to cover his minutes while he is out. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155))
 - Josh has low hopes for him because he has looked disinterested and has struggled. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=868))
-- The Bulls should play a fast, up-tempo transition style. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1679))
 
 **Durable**
-- He makes almost no threes. (fact, 2026-10-11; stats)
-- His play has dropped off over the last two to three seasons. Experts suggest back problems, decline or frustration in Brooklyn as reasons, and are not sure whether he is washed. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
+- He makes almost no threes. (fact, 2026-10-16; stats)
+- He fits punt FT% and punt 3PM builds. (verdict, 2026-10-16; stats)
+- His blocks and rim protection have fallen over the last two to three seasons. (fact, 2026-09-28; [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-19](https://youtu.be/uarqbNA2dFk?t=958), [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), stats)
+- Experts are not sure why he declined. Possible causes are a back injury, real decline or frustration in Brooklyn. Some are not sure whether he is washed. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1107), [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [09-14](https://youtu.be/t4n9MAP2_14?t=1744))
 - He is slightly better in points leagues than in category leagues. (verdict, 2026-09-28; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1124))
-- His blocks and rim protection have fallen for three straight seasons. (fact, 2026-09-19; [08-18](https://youtu.be/FxaSnyk9g90?t=809), [06-23](https://youtu.be/9tb1ARBEmQU?t=850), [08-30](https://youtu.be/Alwse2uXzD4?t=1381), [09-19](https://youtu.be/uarqbNA2dFk?t=958), stats)
-- He is a very poor free throw shooter, and his FT% clearly hurts a team. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), stats)
-- He fits a switching, blitzing defensive scheme. Brooklyn had pushed him out to the perimeter. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=780))
+- He is a very poor free throw shooter, and his FT% hurts a team clearly. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1381), stats)
+- He fits a switching, blitzing defensive scheme. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=780))
 
 **Tags**
-- Current: `new team` (Traded from Brooklyn to Chicago), `injured now` (Hamstring injury from 2026-10-05), `questionable` (Yahoo Q (Hamstring)), `minutes competition` (Jalen Smith and Zach Collins could take center minutes), `bottom team` (About 32 wins projected), `new coach` (Tiago Splitter), `fast pace`, `many back-to-backs` (15 back-to-backs), `trades likely` (Front office signs veterans on short deals to trade them)
-- Durable: `FT% liability` (About 59% FT on about 3 attempts per game), `no 3PM`, `punt FT fit`, `punt 3PM fit`, `points league player` (Experts call him slightly better in points leagues)
+- Current: `new team` (Traded from Brooklyn to Chicago), `injured now` (Hamstring injury, likely to miss the start of the season), `questionable` (Yahoo Q (hamstring)), `minutes competition` (Jalen Smith and Zach Collins at center), `flyer` (Starting center worth a pick around rank 120, max about 3 USD), `bottom team` (Chicago, about 32 wins predicted), `new coach` (Tiago Splitter), `fast pace`, `many back-to-backs` (15 back-to-backs), `trades likely` (Front office signs veterans on short deals hoping to trade them)
+- Durable: `FT% liability` (About 59% FT on about 3 attempts), `no 3PM`, `punt FT fit`, `punt 3PM fit`
 
-**Note.** He is a late-auction center. Yahoo values him at 3 USD, ESPN at 1 USD, and he went for 4 USD in our league last season. His Yahoo rank of 110 and ESPN rank of 121 fall in the range experts call fair (100 to 120), so do not pay more than about 3 to 4 USD. He fits punt FT% builds best: his projected FG% (59%) and blocks (1.3) help, while his FT% and threes hurt. Early in the season, check whether the hamstring injury costs games, whether he holds the starting job and close to 30 minutes ahead of Jalen Smith and Zach Collins, and whether his blocks recover in Chicago.
+**Note.** Rank 110 on Yahoo and 121 on ESPN puts him near the end of our 144-player pool. With the hamstring injury and the experts' 3 USD cap, he is a 1 to 2 USD last-round flyer for punt FT% or punt 3PM builds, not the 4 USD our league paid last season. Check early when he returns from the hamstring, whether he holds about 28 to 30 minutes ahead of Jalen Smith and Zach Collins, and whether his blocks recover above last season's 1.1.
 
-<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

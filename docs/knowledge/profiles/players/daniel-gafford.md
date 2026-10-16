@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 130 | 2 | 0.6 | 115 | not drafted |
+| 2026-27 | 1 | 1.0 | 131 | 2 | 0.6 | 115 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -23,33 +23,36 @@
 | PTS | 10.0 | -0.7 | -0.5 | - |
 | REB | 6.8 | +0.7 | -0.3 | - |
 | AST | 1.2 | -1.0 | -0.7 | - |
-| STL | 0.7 | -0.8 | -0.5 | - |
+| STL | 0.7 | -0.8 | -0.4 | - |
 | BLK | 1.5 | +2.0 | +0.8 | - |
 | TO | 1.1 | +0.8 | +0.7 | - |
 
 </details>
 
 **Current**
-- Dereck Lively, Morez Johnson Jr. and Dharma are all hurt. That leaves Gafford as the likely opening night starting center for Dallas. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1252), [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
-- If he starts, he could play at a top 100 level for a month or two. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1252))
-- Josh ranks him in the 130 to 160 range for the season. He sees Gafford as a late flyer while Lively is out, but not once Lively is healthy. (verdict, 2026-09-29, until Lively returns; [09-29](https://youtu.be/XSPJL_mlFXo?t=1479))
-- Josh calls him the stash option on Dallas. He and Morez Johnson Jr. are interchangeable as the late swing pick and the stash. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1786))
-- Dusty May is the new Dallas head coach. It is unknown how he will split center minutes between Lively, Gafford, Powell and Johnson. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Dallas has a 4-4-4 schedule in the fantasy playoff weeks, probably the best in the league. It also has the league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
-- Worth drafting if he starts at center. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2225))
-- Dallas has been shopping him. Three different front offices have tried to trade him. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=1891))
-- Experts expect Dallas to trade him. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
+- Gafford barely played in Dallas's first preseason game, even with P.J. Washington and Lively out. (fact, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=2066))
+- Experts disagree on his early-season value. One sees possible top 100 value for a month or two if he starts while the other centers are hurt. The newest note doubts he will do much. (verdict, 2026-10-10; [10-02](https://youtu.be/ZYllcj4o6_A?t=1252), [10-10](https://youtu.be/hviT4hzYNME?t=2066))
+- Dereck Lively, Dharma and Morez Johnson Jr. are hurt, which leaves Gafford as the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), [10-02](https://youtu.be/ZYllcj4o6_A?t=1252))
+- Josh ranks him in the 130 to 160 range. He sees him as a late flyer while Lively is out, but not once Lively is healthy. (verdict, 2026-09-29, until Lively returns; [09-29](https://youtu.be/XSPJL_mlFXo?t=1479))
+- He is worth drafting only if he starts at center. Josh calls him and Morez Johnson Jr. interchangeable as Dallas's late swing and stash picks. (verdict, 2026-09-29; [07-27](https://youtu.be/0AptxcRW0RE?t=2225), [09-29](https://youtu.be/XSPJL_mlFXo?t=1786))
+- Dusty May is the new head coach. Nobody knows yet how he will split center minutes between Lively, Gafford, Powell, Johnson and forwards like Washington and Aldama. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733))
+- Josh's projected Dallas starting five has Morez Johnson Jr. at center, not Gafford. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=358))
+- Dallas has a 4-4-4 schedule in our playoff weeks, probably the best in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Dallas has no pick of its own, so it has no reason to tank. (fact, 2026-08-10; [08-10](https://youtu.be/sfCe7fS9daM?t=1644))
+- Dallas has shopped him, and three different front offices have tried to trade him. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=1891), [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
+- Nick expects Gafford to be traded. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=499), [07-27](https://youtu.be/0AptxcRW0RE?t=1891))
 
 **Durable**
-- Very high FG% lifts a team's FG% clearly. He makes no threes. Blocks are a plus against the pool. (fact, 2026-10-04; stats)
-- He has recurring ankle problems. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
-- His rim finishing and rim protection are below the elite levels he once had. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
-- Not a great points league play. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1542))
+- His FG% is a league outlier and lifts a team's FG%. His blocks are well above the pool. (fact, 2026-10-16; stats)
+- He makes no threes. (fact, 2026-10-16; stats)
+- He has had recurring ankle problems. They hurt his play last season. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
+- His finishing at the rim and his block rate have dropped from elite levels. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1258), [07-27](https://youtu.be/0AptxcRW0RE?t=1861))
+- He is not a great points league play. (verdict, 2026-09-01; [09-01](https://youtu.be/80kfLVnFQ_s?t=1542))
 
 **Tags**
-- Current: `trade risk` (Dallas has shopped him), `minutes competition` (Lively, Powell and Morez Johnson Jr. at center under a new coach), `handcuff` (starts while Lively is out; until Lively returns), `flyer` (late pick while Lively is out; until Lively returns), `good playoff schedule` (Dallas 4-4-4 in weeks 19 to 21)
-- Durable: `FG% anchor` (about 69% FG projected), `no 3PM`, `punt 3PM fit`, `injury prone` (recurring ankle problems)
+- Current: `trade risk` (Dallas has shopped him and Nick expects a trade), `minutes competition` (Lively, Morez Johnson Jr., Powell and forwards compete at center), `early-season value` (may start while Lively, Johnson and Dharma are hurt; until Lively returns), `flyer` (late flyer while Lively is out; until Lively returns), `questionable` (Yahoo status Q (Rest)), `new coach` (Dusty May), `unsettled rotation` (center mix under the new coach is unknown), `good playoff schedule` (4-4-4 in weeks 19 to 21), `many back-to-backs` (league-high 16), `low shutdown risk` (Dallas has no pick, so no reason to tank)
+- Durable: `FG% anchor` (projected about 69% FG), `no 3PM`, `punt 3PM fit`, `injury prone` (recurring ankle problems), `category league player` (not a great points league play)
 
-**Note.** Both sites price him at 1 to 2 USD and rank him 114 to 120, near the end of our 144-player draft, so he is a 1 USD late pick at most. He fits a punt 3PM build that wants FG% and blocks, and he can start early while Lively, Johnson and Dharma are hurt. Before and early in the season, check whether he starts on opening night, how soon Lively is back, and any trade news.
+**Note.** Both sites price him as a last-dollar pick (Yahoo 1 USD, rank 131; ESPN 2 USD, rank 115). That puts him right at the edge of our 144-player draft, so take him for 1 USD only as a bench flyer for FG% and blocks in punt 3PM or punt FT builds. Before tipoff, check whether he starts on opening night and how many minutes Dusty May gives him while Lively is out. If he barely plays, as he did in the first preseason game, or Dallas trades him, drop him for waiver centers.
 
-<sub>9 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

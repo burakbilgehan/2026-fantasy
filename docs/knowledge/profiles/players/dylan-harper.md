@@ -4,19 +4,19 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 72 | 29.3 | 49.3 (12.3) | 78.5 (2.2) | 1.2 | 15.1 | 4.4 | 5.0 | 1.0 | 0.5 | 1.9 |
-| 2026-27 proj, Yahoo | 69 | - | 50.8 (13.4) | 75.8 (2.6) | 1.2 | 16.7 | 4.8 | 4.8 | 1.2 | 0.5 | 2.1 |
+| 2026-27 proj, Yahoo | 72 | - | 50.7 (13.4) | 75.8 (2.6) | 1.2 | 16.7 | 4.8 | 4.8 | 1.2 | 0.5 | 2.2 |
 | 2025-26 | 69 | 22.6 | 50.5 (9.5) | 75.6 (1.7) | 0.9 | 11.8 | 3.4 | 3.9 | 0.8 | 0.3 | 1.4 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 10 | 4.6 | 85 | 2 | 4.8 | 99 | not drafted |
+| 2026-27 | 10 | 4.8 | 85 | 2 | 5.0 | 99 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 50.1% | +0.5 | +1.4 | - |
-| FT% | 77.1% | -0.2 | -0.7 | - |
+| FT% | 77.0% | -0.2 | -0.7 | - |
 | 3PM | 1.2 | -0.3 | -0.8 | - |
 | PTS | 15.9 | +0.3 | +0.2 | - |
 | REB | 4.6 | -0.2 | +0.5 | - |
@@ -28,25 +28,26 @@
 </details>
 
 **Current**
-- Tobias Harris has a calf strain. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619))
-- The newest view is that Harper may start next to Castle and Fox. One expert is more and more convinced he will start and be the Spurs' second best player by the end of the season. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1622), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1619), [10-06](https://youtu.be/eTsjuVu1trk?t=2372), [10-04](https://youtu.be/n4KkK-OJjqA?t=1767))
-- He shares a crowded backcourt with Fox and Castle. The team staggers its three guards so that at least two are always on the court, and more three-guard lineups are expected. (fact, 2026-10-08; [08-27](https://youtu.be/ZAyie8lKyYc?t=666), [07-02](https://youtu.be/P6TNP-g0wzY?t=2350), [08-24](https://youtu.be/g31YlwRe0XQ?t=1055), [10-08](https://youtu.be/WXO8MfQfzo0?t=2532), [09-04](https://youtu.be/gerS7ibpaJo?t=1249))
-- The Spurs starting lineup is not set. Harper, Fox, Castle and the forward spot (likely Tobias Harris) are all in the mix. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2377), [10-06](https://youtu.be/eTsjuVu1trk?t=2372))
-- He could take on-ball time from Fox and Castle. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2372))
-- Experts expect about 28 to 29 minutes. Josh moved his line to 29, while Dan takes the under on 28.5. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2838), [08-27](https://youtu.be/ZAyie8lKyYc?t=692), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448))
-- Experts call his mock draft price of about 70 to 84 too high. One says he leaves no value at rank 79 and fits closer to 100, because the backcourt that limited his minutes is still there. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1397), [09-24](https://youtu.be/_vbAP5y182A?t=1541), [09-10](https://youtu.be/W-R1dzem32s?t=1687), [09-09](https://youtu.be/7BllEsdNLoM?t=2151), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-11](https://youtu.be/OdDkXFhoKsc?t=1448))
-- Experts doubt that his strong late-season shooting from last season will last. One host says he would be a top five player if it holds. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
-- The Spurs want to win now and are projected near the top of the West, with one prediction of 63 wins. The roster is deep, so Coach Mitch Johnson has to balance a deep rotation. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=152), [08-27](https://youtu.be/ZAyie8lKyYc?t=1491), [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
+- The Spurs started Harper, Fox and Castle together in the preseason. The latest projected starters are Fox, Harper, Castle, Vassell and Wembanyama. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=76), [10-15](https://youtu.be/c-WwNRgVxkI?t=1417), [10-15](https://youtu.be/bd8GYKFOe8A?t=1037))
+- He is expected to start for the first time in his career. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=741), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1622), [10-11](https://youtu.be/uI6umXsE7Vk?t=1099))
+- Most experts expect about 29 to 30 minutes a night. Dan takes the under on 28.5 minutes. It is also unclear whether all three starting guards get starter minutes, and the deep roster may keep minutes low after the long playoff run. (verdict, 2026-10-15; [10-12](https://youtu.be/w66x_I_MaQ8?t=1064), [10-10](https://youtu.be/hviT4hzYNME?t=933), [10-05](https://youtu.be/BiIZsSypx7Y?t=2838), [08-27](https://youtu.be/ZAyie8lKyYc?t=692), [10-15](https://youtu.be/c-WwNRgVxkI?t=76), [10-15](https://youtu.be/c-WwNRgVxkI?t=140))
+- His strong second half came from hot shooting that experts expect to regress. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=800), [09-04](https://youtu.be/gerS7ibpaJo?t=1230), [08-27](https://youtu.be/ZAyie8lKyYc?t=773))
+- Worth drafting in the 80s, with upside to the top 60 but a rough floor. Josh took him at 73 for assists and would take him over Stephon Castle in any standard league. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=855), [10-12](https://youtu.be/w66x_I_MaQ8?t=1064), [10-11](https://youtu.be/uI6umXsE7Vk?t=1099))
+- Upside case: 25 percent usage, about 18 points, 5 rebounds, 5 assists, 1.3 steals and elite percentages. (verdict, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=900))
+- The Spurs play 3, 4 and 3 games in our playoff weeks 19 to 21 and have only 13 back-to-backs. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=1598))
+- He could become the Spurs' second-best player by the end of the season and take on-ball time from Fox and Castle. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1622), [10-06](https://youtu.be/eTsjuVu1trk?t=2372))
+- The Spurs are projected to be a top team in the West, with one prediction of 63 wins. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=2403), [07-26](https://youtu.be/75Sk_4fkgIM?t=370))
 
 **Durable**
-- His category profile is balanced with no weak category. His best areas are FG% for a guard and assists. (verdict, 2026-10-11; stats)
+- Balanced category profile with no weak category. His FG% is well above other guards, and assists are his best category against the pool. (fact, 2026-10-16; stats)
+- He is not a big rebounder, not a high-volume three-point shooter and not a very high-usage player. (fact, 2026-10-15; [10-15](https://youtu.be/c-WwNRgVxkI?t=855))
 - The Spurs see him as a future superstar and part of their long-term backcourt with Castle. (fact, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=607))
 - He is a much better defender than people think. (verdict, 2026-08-27; [08-27](https://youtu.be/ZAyie8lKyYc?t=1884))
 
 **Tags**
-- Current: `minutes competition` (Shares guard minutes with Fox and Castle. His starting role is not set.), `role up` (Projected near 29 minutes after 22.6 last season.), `regression risk` (His late-season shooting from last season is not expected to last.), `bust candidate` (At his mock draft price of about 70 to 84.), `sites disagree on price` (Yahoo value 10 USD, ESPN value 2 USD.), `winning team` (One prediction of 63 wins.), `deep rotation` (Deep at guard and forward.)
-- Durable: `fits every build`
+- Current: `role up` (Expected to move into the starting lineup with about 29 to 30 minutes), `breakout` (Second-year guard who could reach the top 60), `minutes competition` (Shares the backcourt with Fox and Castle), `regression risk` (Hot second-half shooting last season), `deep rotation` (Deep Spurs roster may keep minutes low), `winning team` (One prediction of 63 wins), `few back-to-backs` (Only 13 back-to-backs), `sites disagree on price` (Yahoo value 10 USD, ESPN value 2 USD)
+- Durable: `fits every build` (No category flagged weak)
 
-**Note.** Yahoo and ESPN both put his average cost near 4.5 USD (ranks 85 and 99), and he was not drafted in our league last season. Experts say his mock draft spot of about 70 to 84 is too high, but at about 5 USD he is a fair late buy. With no weak category and good FG% for a guard plus assists, he fits any build. Early in the season, check whether he starts while Tobias Harris has a calf strain, whether he gets close to 29 minutes, and whether last season's late shooting holds.
+**Note.** Both sites put his average cost near 5 USD (Yahoo rank 85, ESPN 99). Experts now take him in the 70s and 80s, so a price of 5 to 10 USD fits the "draft in the 80s, upside to top 60" call. He has no weak category and fits any build, with assists and FG% as his main help. Early in the season, check that he stays in the starting lineup and plays 29 or more minutes, and watch whether his roughly 50% FG% holds or falls back.
 
-<sub>17 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

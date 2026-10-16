@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 59 | 73.1 | 3 | 63 | 75.0 | 4 | 76 |
+| 2026-27 | 59 | 71.7 | 3 | 63 | 74.5 | 4 | 76 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 47.5% | -0.2 | +0.4 | - |
 | FT% | 78.2% | -0.4 | -1.0 | - |
 | 3PM | 3.9 | +2.6 | +2.4 | league outlier, strong |
-| PTS | 32.4 | +3.2 | +3.0 | league outlier, strong |
+| PTS | 32.4 | +3.1 | +2.9 | league outlier, strong |
 | REB | 8.1 | +1.3 | +3.0 | - |
 | AST | 8.5 | +2.8 | +2.4 | league outlier, strong |
 | STL | 1.6 | +2.0 | +1.6 | league outlier, strong |
@@ -30,37 +30,33 @@
 </details>
 
 **Current**
-- LeBron James left the Lakers for the Sixers. Dončić and Austin Reaves are the remaining core, and the team is fully his. (fact, 2026-10-08; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [10-08](https://youtu.be/6DnRWahYrFA?t=1225))
-- He is healthy now after last season's hamstring injury. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2004))
-- Experts expect the highest usage in the league, about 38 to 41%, with around 36 minutes. They do not expect his usage to drop now that LeBron is gone. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=414), [09-10](https://youtu.be/W-R1dzem32s?t=204), [09-16](https://youtu.be/2A2JbUN-kc0?t=312))
-- Experts rank him third overall and tier 1 at guard. Take him at pick 3 or 4, never at pick 2. One expert says Yahoo's rank of 3 is about right. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=361), [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [09-16](https://youtu.be/2A2JbUN-kc0?t=1730), [09-10](https://youtu.be/W-R1dzem32s?t=204), [09-09](https://youtu.be/7BllEsdNLoM?t=349), [08-19](https://youtu.be/J1Eg3uaAICU?t=934))
-- If he keeps his late-season steals pace, he is a top 2 candidate. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=414))
-- Experts rank him over Shai Gilgeous-Alexander in 9-cat because of more usage, assists and rebounds. Shai keeps the edge in efficiency. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=375), [09-16](https://youtu.be/2A2JbUN-kc0?t=1730), [09-10](https://youtu.be/W-R1dzem32s?t=204))
-- The Lakers have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
-- The heavy back-to-back load could bring his soft tissue injuries back. Experts call health the only concern with him, and say his health makes the Lakers more vulnerable than the top five West teams. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119), [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
-- With a March 28 end, the Lakers play 3, 4 and 3 games in our playoff weeks, with 4 games in the week starting March 15. That is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [08-16](https://youtu.be/gf_6GveiAls?t=1464))
-- The Lakers roster has two high-end players, Kessler, and many role players, so the shots and touches go mostly to Dončić and Reaves. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=137), [07-01](https://youtu.be/W3THnI7wWdA?t=872))
-- In an expert auction mock he went for 61 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=326))
-- Josh would pay up to 64 USD and calls 61 USD a bargain, one of the best values of that draft. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=326))
-- In an expert 9-cat mock draft he went at pick 4, after Jokic, Wembanyama and Shai Gilgeous-Alexander. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=235))
-- Andy predicts 50 wins and a top six finish in the West for the Lakers. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1925))
-- His scoring should stay close to last season's league-leading level. Without LeBron, his assists could rise to about nine. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=234), [07-07](https://youtu.be/ME-r173X5b0?t=1101))
+- Experts agree he is a pick 3 or 4 in 9-cat and points leagues, and several take him at 3. They disagree on pick 2: one calls him interchangeable with Shai Gilgeous-Alexander at pick 2, another says never to take him at 2. (verdict, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=49), [10-11](https://youtu.be/uI6umXsE7Vk?t=294), [10-10](https://youtu.be/hviT4hzYNME?t=364), [10-06](https://youtu.be/sFelMKWcqyI?t=361), [09-30](https://youtu.be/BjXP9JODDSg?t=235), [09-10](https://youtu.be/W-R1dzem32s?t=204), [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [08-19](https://youtu.be/J1Eg3uaAICU?t=934), [09-09](https://youtu.be/7BllEsdNLoM?t=349))
+- Expected to have the highest usage in the league, around 38 to 41%, with about 36 minutes. Experts do not expect his usage to drop with LeBron gone. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=414), [09-10](https://youtu.be/W-R1dzem32s?t=204), [09-16](https://youtu.be/2A2JbUN-kc0?t=312))
+- If his late-season steals pace holds, he is a top 2 candidate. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=414))
+- Experts rank him over Shai Gilgeous-Alexander in 9-cat because of his extra usage, assists, rebounds and consistency, and expect him to beat Shai per game. Shai has the efficiency edge. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=375), [09-16](https://youtu.be/2A2JbUN-kc0?t=1730), [09-10](https://youtu.be/W-R1dzem32s?t=204))
+- He is healthy now after the hamstring injury. His Yahoo status is Q with the reason Rest. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2004), stats)
+- The Lakers have the second most back-to-backs in the league. Their playoff schedule with a March 28 end is 3-4-3 games, with 4 in the week starting March 15. That is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119), [08-16](https://youtu.be/gf_6GveiAls?t=1464))
+- The heavy back-to-back load could make his soft tissue injuries a problem again. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- In an auction mock, Josh set his ceiling at 64 USD. Luka went for 61 USD, which Josh called a bargain and one of the best values of the draft. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=326))
+- Injuries are the only real concern for him, and his health is the Lakers' main weak point among the top West teams. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=312), [08-05](https://youtu.be/CI4k8ofUXXk?t=103))
+- LeBron James left the Lakers for the Sixers. Luka Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [08-04](https://youtu.be/_WjOjp6Qu8E?t=306))
+- The Lakers are projected to win about 50 games and finish top six in the West. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1925))
+- His scoring is not expected to change much. Without LeBron, his assists could rise to about nine per game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=234), [07-07](https://youtu.be/ME-r173X5b0?t=1101))
 
 **Durable**
-- His category profile is elite. Points, threes, assists and steals are all league outliers. His rebounds are far above other guards. (fact, 2026-10-11; stats)
-- He commits many turnovers, a league outlier on the weak side. (fact, 2026-10-11; stats)
-- He is not a bad free throw shooter, but you cannot count on him for a good FT%. His FG% is only average, which is risky on his volume. Blocks and the two percentages are his weakest categories. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=435), [09-23](https://youtu.be/C4vlgpJ62NI?t=1709))
+- He is a league outlier in points, threes, assists and steals, and he gives rebounds far above other guards. (fact, 2026-10-16; stats)
+- He turns the ball over a lot, which makes turnovers his clearly weak category. (fact, 2026-10-16; stats)
+- His weakest categories after turnovers are blocks and both percentages. His FT% is not bad but cannot be counted on to be good. His FG% is only average, which carries risk at his shot volume. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=435), [09-23](https://youtu.be/C4vlgpJ62NI?t=1709))
 - He has a history of soft tissue injuries: a calf injury, then a hamstring injury last season that cost him the playoffs. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=368))
-- Soft tissue injuries are the main risk to his value. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=368))
-- He is a high-usage player who is involved in almost every possession. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=363))
-- He reads passing lanes well, which gets him steals. He also draws a lot of charges. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1300))
-- On defense he does better against bigger players and often guards power forwards. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=638))
+- Experts value the consistency of his production. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=1730))
+- He is a heavily involved, very high usage player. (fact, 2026-09-01; [09-01](https://youtu.be/skKXe2CRl8Q?t=363))
+- He plays passing lanes well, which earns him steals, and he draws a lot of charges. On defense he does better against bigger players and often guards power forwards. (fact, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=1300), [08-04](https://youtu.be/_WjOjp6Qu8E?t=638))
 - Getting both rebounds and assists is a rare combination that adds to his value. (verdict, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=1368))
 
 **Tags**
-- Current: `many back-to-backs` (Lakers have the second most back-to-backs in the league), `bad playoff schedule` (3-4-3 with a March 28 end, bottom half of the league), `winning team` (Andy predicts 50 wins and a top six finish in the West), `concentrated usage` (projected to lead the league in usage at 38 to 41%), `usage freed` (LeBron James and Rui Hachimura left)
-- Durable: `PTS specialist` (about 32 points per game, led the league last season), `3PM specialist` (about 3.9 threes per game), `AST specialist` (8.5 assists projected, could reach nine), `STL specialist` (plays passing lanes well), `high TO` (about 3.9 turnovers per game), `punt TO fit` (turnovers are his only flagged weak category), `elite per game` (top 3 per game; health is the only concern), `injury prone` (soft tissue: calf injury, then hamstring injury that cost him last season's playoffs)
+- Current: `questionable` (Yahoo Q (Rest)), `usage freed` (LeBron James left for the Sixers), `many back-to-backs` (Lakers have the second most in the league), `bad playoff schedule` (3-4-3 with a March 28 end, bottom half of the league), `winning team` (Projected about 50 wins)
+- Durable: `elite per game` (Top 3 per-game line, expected to beat Shai per game), `PTS specialist` (About 32 points per game, league scoring leader last season), `3PM specialist` (About 3.9 threes per game), `AST specialist` (About 8.5 assists per game, could reach nine), `STL specialist` (Plays passing lanes well), `REB from a guard` (About 8 rebounds per game as a guard), `high TO` (About 3.9 turnovers per game), `punt TO fit`, `consistent`, `injury prone` (Soft tissue: calf, then hamstring)
 
-**Note.** He is a top 3 player who covers four categories as league outliers: points, threes, assists and steals. He fits a punt TO build best, because about 3.9 turnovers per game is his only flagged weak spot. Both sites value him near 59 to 63 USD and an expert mock paid 61 USD, but Yahoo and ESPN average cost is 73.1 USD and our league paid 76 USD last season, so expect to pay above value to get him at pick 3 or 4. Early in the season, watch his calf and hamstring through the Lakers' heavy back-to-back schedule. Also watch his FG% on 22 shots a game, since experts call it only average.
+**Note.** He is a top 3 to 4 player whose average cost (71.7 USD on Yahoo, 74.5 USD on ESPN, 76 USD in our league last season) runs above the site values of 59 and 63 USD. An expert mock price of 61 USD was called a bargain, so paying in the low 70s is the market rate, but the soft tissue history and the heavy back-to-back load argue against going much past that. His huge points, threes, assists and steals fit any build, and he suits punt TO best because he costs you about 3.9 turnovers a game. Early in the season, check how the Lakers handle him on back-to-backs (he is listed Q for rest now) and whether the hamstring holds up.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

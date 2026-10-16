@@ -8,18 +8,39 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "16e03ff8249e",
- "note_count": 11,
- "built_at": "2026-10-04T17:22:13+00:00",
+ "input_sha": "8efc79d9c7b7",
+ "note_count": 15,
+ "built_at": "2026-10-16T08:41:45+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.19457020000000003,
-  "duration_ms": 61510
+  "cost_usd_list": 0.20439200000000002,
+  "duration_ms": 51567,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is back at full health and projected to start for Indiana with Haliburton, Nembhard, Siakam and Zubac.",
+   "text": "He has a small hamstring issue. Yahoo lists him as questionable.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p41",
+    "stats"
+   ]
+  },
+  {
+   "text": "The hamstring issue does not look significant.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p41"
+   ]
+  },
+  {
+   "text": "He is back at full health and is in Indiana's projected starting five with Haliburton, Nembhard, Siakam and Zubac.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -30,7 +51,7 @@
    ]
   },
   {
-   "text": "Kelly Oubre Jr. joined Indiana and is projected as the sixth man. If Oubre starts, he would take Nesmith's spot.",
+   "text": "Kelly Oubre Jr. joined Indiana and is projected as the sixth man. If Oubre starts, he would start over Nesmith.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -41,28 +62,19 @@
    ]
   },
   {
-   "text": "Without Haliburton last season, his overall FG% fell from 51 to 41 percent. His FG% at the rim fell from 67 to 39 and on twos from 59 to 46.",
-   "kind": "fact",
-   "date": "2026-07-16",
-   "until": "",
-   "sources": [
-    "-y6p5PYLf00:p18"
-   ]
-  },
-  {
-   "text": "Experts expect his FG% to bounce back with Haliburton back, because he will not have to create his own shot. One speaker is very confident he improves.",
+   "text": "With Haliburton back and less need to create his own shot, his FG% should bounce back. One expert expects about 30 minutes, 13 points and a couple of threes per game.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "-y6p5PYLf00:p18",
     "dlo7L8Ru91A:p52",
-    "KPdD91Oo8-U:p38",
-    "EGdhmUgPAWY:p24"
+    "EGdhmUgPAWY:p24",
+    "KPdD91Oo8-U:p38"
    ]
   },
   {
-   "text": "If his shooting gets back to 48 to 50 percent, he could be a top 100 player.",
+   "text": "If his shooting returns to 48 to 50 percent, he could be a top 100 player.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -71,49 +83,33 @@
    ]
   },
   {
-   "text": "One expert ranks him in the 110 to 130 range and calls him the late-round swing on this team, without feeling great about it. He would not take him in 10 or 12 team leagues, only as a 10th player in 14 team leagues.",
+   "text": "His upside is low. He is good value as a late pick around 160 to 168, but not an upside pick near 110.",
    "kind": "verdict",
-   "date": "2026-10-01",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "EGdhmUgPAWY:p23",
+    "D4dP5JvX1oo:p38",
+    "w66x_I_MaQ8:p51",
+    "ENizLoE6pzI:p40",
     "EGdhmUgPAWY:p25"
    ]
   },
   {
-   "text": "Expected line is about 30 minutes, 13 points and a couple of threes per game.",
+   "text": "One expert would not draft him in 10 or 12 team leagues but is fine with him as a 10th player in 14 team leagues.",
    "kind": "verdict",
-   "date": "2026-09-15",
+   "date": "2026-10-01",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:p38"
+    "EGdhmUgPAWY:p23"
    ]
   },
   {
-   "text": "He should be worth more in category leagues than in points leagues this season.",
+   "text": "He should be worth more in category leagues than in points leagues this season. Points league rankings should have him 20 to 30 spots later.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:p24"
-   ]
-  },
-  {
-   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks 19 to 21 and has 15 back-to-backs this season.",
-   "kind": "fact",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "EGdhmUgPAWY:t5"
-   ]
-  },
-  {
-   "text": "The 3-4-3 playoff schedule is not ideal for a season that ends March 28.",
-   "kind": "verdict",
-   "date": "2026-10-01",
-   "until": "",
-   "sources": [
-    "EGdhmUgPAWY:t5"
    ]
   },
   {
@@ -129,19 +125,29 @@
    ]
   },
   {
-   "text": "Lloyd expects Carlisle to manage Haliburton's minutes early in the season.",
-   "kind": "verdict",
-   "date": "2026-09-23",
+   "text": "Indiana plays 3, 4 and 3 games in our fantasy playoff weeks, which is not ideal. The team has 15 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-01",
    "until": "",
    "sources": [
-    "C4vlgpJ62NI:t1"
+    "EGdhmUgPAWY:t5"
+   ]
+  },
+  {
+   "text": "Indiana is projected to win 46 to 48 games.",
+   "kind": "verdict",
+   "date": "2026-08-10",
+   "until": "",
+   "sources": [
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6"
    ]
   }
  ],
  "durable": [
   {
    "text": "He is a great three-point shooter.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-08-10",
    "until": "",
    "sources": [
@@ -149,29 +155,39 @@
    ]
   },
   {
-   "text": "He is not a self-creator. His efficiency depends on a playmaker like Haliburton setting him up.",
-   "kind": "verdict",
-   "date": "2026-09-10",
+   "text": "He is not a self-creator. Without Haliburton his finishing at the rim fell from 67 to 39 percent, his two-point shooting from 59 to 46 percent and his FG% from 51 to 41 percent.",
+   "kind": "fact",
+   "date": "2026-07-16",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p52",
-    "-y6p5PYLf00:p18"
+    "-y6p5PYLf00:p18",
+    "dlo7L8Ru91A:p52"
    ]
   },
   {
-   "text": "He is a high-foul wing, and his defensive stats are poor for his minutes.",
+   "text": "He commits many fouls for a wing.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
    "sources": [
+    "EGdhmUgPAWY:p22"
+   ]
+  },
+  {
+   "text": "The experts disagree on his defensive stats. One says he gets value from steals. Another says his defensive stats are poor for his minutes. Projections have him slightly below the pool in steals.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "KPdD91Oo8-U:p38",
     "EGdhmUgPAWY:p22",
     "stats"
    ]
   },
   {
-   "text": "His assists are weak for his position, so he suits punt AST builds.",
+   "text": "Assists are his weakest category for his position. He fits punt AST builds.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p52",
@@ -181,24 +197,35 @@
  ],
  "tags": [
   {
-   "name": "punt AST fit",
-   "channel": "durable",
-   "detail": "About 1.6 assists projected, weak for a wing",
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q, hamstring",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p52",
+    "stats",
+    "bd8GYKFOe8A:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "small hamstring issue, not seen as significant",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p41",
     "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "needs playmaker",
-   "channel": "durable",
-   "detail": "FG% collapsed without Haliburton",
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "45 games in each of the last two seasons",
    "until": "",
    "sources": [
-    "dlo7L8Ru91A:p52",
-    "-y6p5PYLf00:p18"
+    "stats",
+    "sfCe7fS9daM:p21"
    ],
    "new_meaning": ""
   },
@@ -209,39 +236,95 @@
    "until": "",
    "sources": [
     "-y6p5PYLf00:p18",
+    "dlo7L8Ru91A:p52",
     "EGdhmUgPAWY:p24",
-    "KPdD91Oo8-U:p38",
-    "dlo7L8Ru91A:p52"
+    "KPdD91Oo8-U:p38"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Kelly Oubre Jr. would take his starting spot if he starts",
+   "detail": "Kelly Oubre Jr. would start over him if he starts",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t2",
-    "EGdhmUgPAWY:t3",
     "P6TNP-g0wzY:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "efficiency collapsed without Haliburton",
+   "until": "",
+   "sources": [
+    "-y6p5PYLf00:p18",
+    "dlo7L8Ru91A:p52"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt AST fit",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p52",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "category league player",
+   "channel": "durable",
+   "detail": "push 20 to 30 spots later in points leagues",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "foul prone",
+   "channel": "durable",
+   "detail": "high foul wing",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:p22"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Expert would not draft him in 10 or 12 team leagues; top 100 upside if FG% returns",
+   "detail": "value around picks 160 to 168, outside a 144 player draft",
    "until": "",
    "sources": [
+    "w66x_I_MaQ8:p51",
+    "ENizLoE6pzI:p40",
     "EGdhmUgPAWY:p23",
-    "ZYllcj4o6_A:p26"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low starter minutes",
+   "channel": "current",
+   "detail": "Carlisle keeps healthy players' minutes low",
+   "until": "",
+   "sources": [
+    "EGdhmUgPAWY:t0",
+    "QbdrhJd7LiA:t0",
+    "2A2JbUN-kc0:t2",
+    "sfCe7fS9daM:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21",
+   "detail": "3-4-3 games for a March 28 end",
    "until": "",
    "sources": [
     "EGdhmUgPAWY:t5"
@@ -249,28 +332,18 @@
    "new_meaning": ""
   },
   {
-   "name": "back-to-back risk",
+   "name": "winning team",
    "channel": "current",
-   "detail": "Carlisle rests players on back-to-backs; Indiana has 15",
+   "detail": "projected 46 to 48 wins",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:t2",
-    "EGdhmUgPAWY:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "injury last season",
-   "channel": "current",
-   "detail": "Played 45 games in 2025-26; now back at full health",
-   "until": "",
-   "sources": [
-    "stats",
-    "sfCe7fS9daM:p21"
+    "sfCe7fS9daM:t5",
+    "sfCe7fS9daM:t6",
+    "-KS_AZjZnw4:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 150, ESPN 177), and our league drafts 144 players, so he is at most a 1 USD last pick. The better plan is to leave him on waivers and watch him. His case depends on his FG% getting back from 41 to the 48 to 50 percent range next to Haliburton, which experts say could make him a top 100 player. He fits punt AST builds best. Early in the season, check his FG%, whether Oubre takes his starting spot, and whether Carlisle limits Haliburton's minutes.",
+ "note": "Yahoo ranks him 154 and ESPN 177, both at 0 USD. Experts see value around picks 160 to 168, so he sits just outside our 144 player draft. Treat him as a 1 USD end-of-draft pick for punt AST teams, or as a waiver watch. Check his hamstring early, and check whether his FG% climbs back toward 48 to 50 percent next to Haliburton and whether he keeps his starting job over Oubre. If both go his way, he has top 100 upside.",
  "rejected": []
 }

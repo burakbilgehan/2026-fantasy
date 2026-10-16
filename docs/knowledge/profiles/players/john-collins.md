@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.2 | 97 | 3 | 1.8 | 96 | 7 |
+| 2026-27 | 4 | 1.4 | 97 | 3 | 1.9 | 96 | 7 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,33 +30,29 @@
 </details>
 
 **Current**
-- If Ron Holland develops a shot, Holland could cut into his minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2164))
-- One expert says coach J.B. Bickerstaff cannot be trusted on what he says about minutes, so planned minutes may not hold. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2544))
-- He plays for Detroit and is the projected starting power forward in place of Tobias Harris. (fact, 2026-10-03; [08-22](https://youtu.be/KLogvUwv_d8?t=526), [08-12](https://youtu.be/p9XE5jFqhvs?t=134), [07-05](https://youtu.be/4kKINkZhWls?t=1707), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
+- Experts see him as a value around picks 115 to 130 and call him too expensive in the 90s. One expert drafted him around round 10 and calls rounds 9 to 10 fine in category leagues. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=1357), [10-13](https://youtu.be/DzQXaC2rsac?t=1371), [09-24](https://youtu.be/_vbAP5y182A?t=1614), [10-03](https://youtu.be/_O9pc_u5vH0?t=1064), [10-03](https://youtu.be/_O9pc_u5vH0?t=1117), [09-15](https://youtu.be/KPdD91Oo8-U?t=1925), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1991), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2164))
+- If Ron Holland develops a shot, he could cut into Collins's minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2164))
+- He is Detroit's projected starting power forward. He replaces Tobias Harris in a starting five of Cunningham, Robinson, Thompson, Collins and Duren. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=134), [07-05](https://youtu.be/4kKINkZhWls?t=1707), [08-22](https://youtu.be/KLogvUwv_d8?t=526), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [08-12](https://youtu.be/p9XE5jFqhvs?t=526))
 - He becomes a category-league value if he plays 31 minutes. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1064))
-- In category leagues he is a fine pick in rounds 9 to 10. A Yahoo rank around 116 is fair and an ESPN rank around 99 is a bit high. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1064), [10-03](https://youtu.be/_O9pc_u5vH0?t=1117))
-- He should finish above about 120th in rank, but he will not return to his prime level and is no longer a 20 and 10 player. (verdict, 2026-10-03; [07-13](https://youtu.be/Rqb5GdrSweY?t=2048), [10-03](https://youtu.be/_O9pc_u5vH0?t=1078))
-- Experts see him as a real-life downgrade from Tobias Harris and a worse fit for Detroit. (verdict, 2026-10-03; [07-20](https://youtu.be/-KS_AZjZnw4?t=980), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117), [10-03](https://youtu.be/_O9pc_u5vH0?t=1078))
-- Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Experts agree he has little upside. One still calls him underrated at an ADP around 118 because of his solid points, rebounds and percentages. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1614), [09-14](https://youtu.be/t4n9MAP2_14?t=1753), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1991), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117))
-- Detroit is projected to win 50 to 51 games and finish as a third or fourth seed in the East. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1765))
-- He should play about 30 to 31 minutes, as Tobias Harris did. Detroit may also give him more stability and some extra usage. (verdict, 2026-08-11; [07-20](https://youtu.be/-KS_AZjZnw4?t=1032), [07-13](https://youtu.be/Rqb5GdrSweY?t=2048), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117))
-- Detroit's power forward depth behind him is weak. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019), [07-20](https://youtu.be/-KS_AZjZnw4?t=1032))
-- His rebounds and free throws are expected to recover. He is usually about an eight-rebound player. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
+- Experts see little upside. He is not a 20 and 10 player anymore and will not reach his prime level, though he should beat his rank of about 120 from last season. (verdict, 2026-10-03; [09-14](https://youtu.be/t4n9MAP2_14?t=1753), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1991), [09-24](https://youtu.be/_vbAP5y182A?t=1614), [10-03](https://youtu.be/_O9pc_u5vH0?t=1078), [07-13](https://youtu.be/Rqb5GdrSweY?t=2048))
+- Experts see him as a worse real-life fit for Detroit than Tobias Harris, because the team lost Harris's shot creation. (verdict, 2026-10-03; [07-20](https://youtu.be/-KS_AZjZnw4?t=980), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117), [10-03](https://youtu.be/_O9pc_u5vH0?t=1078), [08-27](https://youtu.be/ZAyie8lKyYc?t=508), [10-03](https://youtu.be/_O9pc_u5vH0?t=229))
+- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Experts disagree on his rebounding. One calls him a modest rebounder at about five a game. Another says he is usually about an eight-rebound player. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=483), [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
+- He should play 30 to 31 minutes, as Tobias Harris did, because Detroit's power forward depth is weak. (verdict, 2026-08-11; [07-20](https://youtu.be/-KS_AZjZnw4?t=1032), [07-20](https://youtu.be/-KS_AZjZnw4?t=1019), [08-11](https://youtu.be/OdDkXFhoKsc?t=2117), [07-13](https://youtu.be/Rqb5GdrSweY?t=2048))
+- One expert says his drop in free throw shooting to 77% had no clear reason. The same expert says five rebounds in 27 minutes is below his usual level of about eight rebounds. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
 
 **Durable**
-- He lifts FG% on moderate volume. His FG% is his best category against the top 250 pool. (fact, 2026-10-11; stats)
-- He is worth more in category leagues than in points leagues. (verdict, 2026-10-09; [10-03](https://youtu.be/_O9pc_u5vH0?t=1064), [10-03](https://youtu.be/_O9pc_u5vH0?t=1117), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2164))
-- He is an off-ball finisher who spaces the corners and cuts. He does not create his own shot. (fact, 2026-10-05; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [08-12](https://youtu.be/p9XE5jFqhvs?t=253), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [08-27](https://youtu.be/ZAyie8lKyYc?t=508), [10-05](https://youtu.be/BiIZsSypx7Y?t=2544))
-- He shoots a good percentage from three on few attempts, and his three-point shooting is streaky. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [08-22](https://youtu.be/KLogvUwv_d8?t=483), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029))
-- He is a passive big with a high FG% and good free throws. He rarely passes, and assists are his weakest category. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), [07-20](https://youtu.be/-KS_AZjZnw4?t=1057), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), stats)
-- He is a weak defender, and his defensive stats have dropped. (fact, 2026-10-03; [08-22](https://youtu.be/KLogvUwv_d8?t=483), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029))
-- Experts disagree on his rebounding. One calls him a modest rebounder. Another says he has been a good offensive rebounder throughout his career and is usually about an eight-rebound player. (verdict, 2026-08-22; [08-22](https://youtu.be/KLogvUwv_d8?t=483), [08-12](https://youtu.be/p9XE5jFqhvs?t=253), [07-20](https://youtu.be/-KS_AZjZnw4?t=1071))
+- He is an off-ball play finisher who does not create his own shot. He spaces the corners and cuts. (fact, 2026-10-05; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [08-12](https://youtu.be/p9XE5jFqhvs?t=253), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [08-27](https://youtu.be/ZAyie8lKyYc?t=508), [10-05](https://youtu.be/BiIZsSypx7Y?t=2544))
+- His FG% is high, but on modest volume. His FT% is good for a big man. Experts call him a passive player. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), [07-02](https://youtu.be/P6TNP-g0wzY?t=1574), [07-20](https://youtu.be/-KS_AZjZnw4?t=1057), stats)
+- He shoots a good percentage from three but takes few threes, and his three-point shooting is streaky. (fact, 2026-10-03; [08-12](https://youtu.be/p9XE5jFqhvs?t=170), [07-20](https://youtu.be/-KS_AZjZnw4?t=1009), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), [08-22](https://youtu.be/KLogvUwv_d8?t=483))
+- He does not pass, and assists are his weakest category. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1029), stats)
+- He is a weak defender, and his defensive stats have dropped. (verdict, 2026-10-03; [08-22](https://youtu.be/KLogvUwv_d8?t=483), [10-03](https://youtu.be/_O9pc_u5vH0?t=1029))
+- He has been a good offensive rebounder throughout his career. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=253))
 
 **Tags**
-- Current: `new team` (Moved from the Clippers to Detroit), `role up` (Projected to start at power forward and play 30 to 31 minutes), `minutes competition` (Ron Holland could take minutes if his shot develops), `bounce-back` (Rebounds and FT% expected to recover with more minutes), `winning team` (Detroit projected for 50 to 51 wins)
-- Durable: `needs playmaker` (Off-ball finisher who does not create his own shot), `streaky` (Three-point shooting), `fits every build` (No category flagged weak. Assists are his softest spot), `category league player` (Rounds 9 to 10 in categories, later in points leagues), `defense-first` (Detroit is built on defense with limited creation)
+- Current: `new team` (Joined Detroit as the starting power forward), `role up` (Projected at 30 to 31 minutes, up from 27), `minutes competition` (Ron Holland could cut his minutes if he develops a shot), `bounce-back` (Rebounds and FT% fell below his usual level last season)
+- Durable: `needs playmaker` (Off-ball finisher who cannot create his own shot), `streaky` (Streaky three-point shooting), `category league player` (Rounds 9 to 10 in categories, a round or two later in points leagues)
 
-**Note.** Both sites rank him around 96 to 97 but value him at only 3 to 4 USD, and our league paid 7 USD last season. That makes him a low-cost, low-upside starter at about 1 to 5 USD. He fits any build as a high FG% big with decent FT% and some threes, but he adds almost nothing in assists. Early in the season, check that he reaches 30 to 31 minutes, that his rebounds move back toward 7 to 8, and whether Ron Holland's role grows.
+**Note.** Both sites rank him near 96 and value him at only 3 to 4 USD (average cost under 2 USD), and he went for 7 USD in our league last season. That makes him a cheap late frontcourt pick for FG%, rebounds and some blocks, without hurting FT%. Experts value him around picks 115 to 130 with little upside, so do not pay more than a few dollars. Early in the season, check whether he really plays 30 to 31 minutes and gets back toward eight rebounds, and watch whether Ron Holland takes some of his minutes.
 
-<sub>24 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

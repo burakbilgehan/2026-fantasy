@@ -3,40 +3,46 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Start every trade talk at no. Then look for three kinds of deal: 2-for-1 deals where we send out two players, buy-low deals for players in a cold three-point or steals stretch, and sell-high deals for players riding an unsustainable hot streak or a fill-in role. We can change our category profile or punt by trade at any time before 2027-03-04, as long as we stay covered at G, F and C and look at playoff schedules for weeks 19 to 21.
+**Summary.** Say no to every trade offer by default. Say yes only when the deal helps you over the long term: buy players who are cold from three or whose steals have dropped, and sell hot streaks and inflated roles before they fade. Try to send out two players for one, because the open roster spot becomes a streaming slot worth about top-100 value. Finish any schedule-driven or category-changing trades before the 2027-03-04 deadline.
 
-## Start at no, trade for the long term
+## Start from no, think long term
 
-Treat every offer as a no until you have convinced yourself otherwise. The managers in our league are experienced, so an offer that looks good at first glance often hides a catch. Check what it does to your nine categories, your positions and your open roster spots before you say yes. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1484))
+Treat every trade offer as a no until you convince yourself otherwise. Our league has experienced managers who trade often. An offer that arrives in your inbox was built to help the other team first. Write down what you give up and what you get in each of the 9 categories before you reply. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1484))
 
-Trade for the long term. Buying low and selling high can cost you a week or two, and that is fine. Our trade deadline is 2027-03-04 and the season runs to 2027-03-28, so judge a deal by what it gives you over the rest of the season and in playoff weeks 19, 20 and 21, not by this week's matchup. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
+Trade for the long term. Buy low and sell high. Accept a weaker week or two if the deal makes you stronger for weeks 19 to 21, when our playoffs run. A trade that wins this week but hurts you in March is a bad trade. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375))
+
+React correctly to the box scores. Do not drop or dump a proven player after a slow stretch. Do not pay full price for a hot streak that will normalize. Fans and media often treat a team-wide hot streak as the new normal, even though it will likely crash back. Expect some managers in our league to do the same, and use that against them. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1847), [08-23](https://youtu.be/hm5-fiCa5S4?t=292))
 
 ## Why 2-for-1 deals favor the side sending two
 
-Look for 2-for-1 trades where you send out two players and get one better player back. The open roster spot becomes a streaming slot. One expert values that slot at about top-100 level, so the deal nearly always works out for the side sending two. In our league only 144 players are drafted. That leaves a waiver pool you can stream from every day with daily lineups and daily FAB processing. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1421))
+Look for trades where you send out two players and get one better player back. Our roster has 12 drafted spots: 10 starters and 2 bench. The spot you free up becomes a streaming slot. With daily lineups, you can use that slot for a new player who has games on days when your roster is thin. The expert view is that this slot is worth top-100 value, so the deal nearly always works out for the side sending two. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1421))
 
-Be careful when you are the side getting two players back. Those deals fill your open spot and take away your streaming slot and your flexibility. Only accept one if both incoming players are clear starters on your team and you are fine dropping a streamer for good. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1540))
+Make the slot count. We get at most 6 acquisitions per week, and waivers run daily with FAB. One open spot can use most of those adds. Before you accept a 2-for-1, check that you still have adds left that week and FAB left for the rest of the season. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1421))
 
-To use the slot well, plan your weekly adds. We are capped at 6 acquisitions per week. One open spot that you stream several times a week will use a good share of that cap, so keep enough adds free for injury cover. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1421))
+Be careful in the other direction. If you get two players back for one, you lose a roster spot. That removes your streaming slot and your flexibility. Only take the two-player side if both players would start for you every day, and you can drop someone without losing value. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1540))
 
-## Signals for buy-low and sell-high
+## Hot and cold stretches that signal a trade
 
-Three-point percentage drives many buy-low and sell-high calls. A buy-low target has usually just had a cold stretch from three. A sell-high candidate is someone shooting about 60% from three early in the season. Shooting at that level will come back down, and so will his 3PTM, PTS and FG% value. Sell him while his numbers still look great. ([08-09](https://youtu.be/8d--aL_xxwE?t=1478))
+Check three-point percentage first. Many buy-low and sell-high calls come from swings in it. A buy-low target is usually in a cold streak from three while his role is unchanged. A sell-high candidate is a player shooting something like 60% from three early in the season. That rate will not last. His 3PTM, PTS and FG% will drop when it comes back down. ([08-09](https://youtu.be/8d--aL_xxwE?t=1478))
 
-Steals swing both ways. Do not pay for a player who is posting a career-high steal rate. Do buy a proven player whose steals have dropped, because they can bounce back. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1002))
+Treat steals the same way. Steals swing in both directions. Do not trade for a player because he is at a career-high steal rate. A player whose steals have dropped below his usual level is a fair buy-low target, because steals can bounce back. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1002))
 
-Sell role-driven spikes. If a player who is not a real starter is putting up starter numbers, sell him now, because those numbers will not get better. Do the same with players whose stats come from fill-in roles before their team starts trying to win, because those chances will go away. Do not chase team-wide hot streaks either. Fans and media treat them as the new normal, but they usually crash back. ([07-05](https://youtu.be/4kKINkZhWls?t=3517), [08-05](https://youtu.be/CI4k8ofUXXk?t=587), [08-23](https://youtu.be/hm5-fiCa5S4?t=292), [09-01](https://youtu.be/skKXe2CRl8Q?t=1847))
+Sell inflated roles at their peak. If a player who is not a real starter is putting up starter numbers, sell him now. Those numbers will not get better. The same applies to stats that come from a fill-in role. Sell before the chances go away, for example when the regular starter comes back. ([07-05](https://youtu.be/4kKINkZhWls?t=3517), [08-05](https://youtu.be/CI4k8ofUXXk?t=587))
 
-Do not write off every rise as fake. For each case, check whether the conditions behind it will still be there: minutes, role, starting spot and teammates. If they will last, the player is a hold or a buy, not a sell. Never dump a proven player because of a slump. That is the moment another manager is trying to buy low from you. ([07-14](https://youtu.be/xHRF06_E9HE?t=898), [09-01](https://youtu.be/skKXe2CRl8Q?t=1847))
+The experts differ on how quickly to sell a role-driven rise. One view says to sell fill-in production before it disappears, because those chances will not be there anymore. The other says not to treat a rise as all fake or all real. Check whether the conditions behind it will still exist. In practice, ask one question: will the minutes and shots behind his numbers still be there through 2027-03-28? If not, sell. If the role looks permanent, hold or pay a fair price. ([08-05](https://youtu.be/CI4k8ofUXXk?t=587), [07-14](https://youtu.be/xHRF06_E9HE?t=898))
 
-## Changing our category profile
+## Changing your category profile
 
-It is fine to change your category profile through trades during the season. You can switch your punt at any time, even mid-week. For example, if you are losing FT% every week, you can trade high-FT% shooters for help in REB and BLK and fully commit to the punt. Remember that FG% and FT% are team ratios. High-volume shooters move them the most, so they are the players to target or sell when you shift a ratio category. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1563), [09-23](https://youtu.be/C4vlgpJ62NI?t=799))
+You can switch your team's category profile during the season with trades. You can change your punt at any time: mid-draft, mid-season or mid-week. If your auction team is losing a category every week, consider trading away the players who give you that category. Use them to buy more of the categories you can win. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1563), [09-23](https://youtu.be/C4vlgpJ62NI?t=799))
 
-Before you accept, check positions. Our lineup is G, G, G, F, F, F, C and three Util. Make sure that after the trade you can still fill every G, F and C slot every day. Being short at a position costs games played, and our league is built on weekly category totals. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1563))
+Remember that FG% and FT% are team ratios. High-volume shooters move them most. If you give up on FT%, a high-volume player with a poor free-throw rate becomes a target. If you keep FT%, that same player can sink the category. Also count TO. Fewer is better, so players who handle the ball a lot cost you there. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1563))
 
-## Schedule trades and deadline timing
+Check positions before you accept. Our lineup needs G, G, G, F, F, F, C and 3 Util. A trade must not leave you unable to fill the G, F or C slots every day. This matters most at C, where you have only one slot but still need eligible players to fill it daily. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1563))
 
-As the season goes on, trades that improve your schedule are worth a look. One example is a player with extra games in the fantasy playoffs. Ignore this at the draft. In our league the playoffs are weeks 19, 20 and 21, ending 2027-03-28. Use the March 28 schedule whenever a source gives two versions. Any schedule-driven deal has to be done by 2027-03-04. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1408))
+## Timing against the 2027-03-04 deadline
 
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+Do not plan schedule trades at the draft on 2026-10-18. As the season goes on, trades that add games in the fantasy playoffs (weeks 19, 20 and 21) are worth considering. Our season ends 2027-03-28, so use the March 28 schedule, not Yahoo's April 4 default. The deadline is 2027-03-04, before the playoffs start. Any schedule trade must be done by then. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1408))
+
+Sell hot streaks and inflated roles while there is still time before the deadline. After 2027-03-04 you can only respond on waivers, with at most 6 adds per week. Make buy-low moves early enough for the player to recover before weeks 19 to 21. ([09-01](https://youtu.be/skKXe2CRl8Q?t=1375), [07-05](https://youtu.be/4kKINkZhWls?t=3517), [08-09](https://youtu.be/8d--aL_xxwE?t=1478))
+
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

@@ -18,12 +18,12 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:53:09+00:00",
+ "built_at": "2026-10-16T12:51:45+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2762368,
-  "duration_ms": 77549,
+  "cost_usd_list": 0.3140568,
+  "duration_ms": 94573,
   "turns": 2,
   "denied": 0
  },
@@ -44,6 +44,7 @@
   "dailyn-swain",
   "darius-acuff",
   "darryn-peterson",
+  "emanuel-sharp",
   "hannes-steinbach",
   "henri-veesaar",
   "isaiah-evans",
@@ -67,132 +68,144 @@
   "yaxel-lendeborg",
   "zuby-ejiofor"
  ],
- "summary": "Only two rookies are worth real auction money in our league: Cameron Boozer and Caleb Wilson. Darryn Peterson, AJ Dybantsa, Darius Acuff Jr. and Yaxel Lendeborg are cheap late flyers. Almost everyone else in the class belongs on a waiver watch list. Expect rookie guards to hurt FG% and TO early, so do not pay for draft slot or name.",
+ "summary": "Only three rookies have a clear path to real minutes and usage this season: Cameron Boozer, Caleb Wilson and Yaxel Lendeborg. The high-pick guards and AJ Dybantsa belong in the 1 USD flyer zone, and you should expect rookie guards to hurt FG% and turnovers early. Leave every other rookie on waivers and add one only if a specific injury or role change happens.",
  "sections": [
   {
-   "heading": "Few rookies matter in redraft",
+   "heading": "Most rookie classes give only a few useful players",
    "paragraphs": [
     {
-     "text": "Do not overrate rookies. At best a class gives one top 50 player and three top 100 players. Drafters take far too many rookies near the end of drafts, while most classes give only three or four relevant players. In our 144-player auction, plan for only three or four rookies to matter across all 12 rosters.",
+     "text": "The experts expect little from rookies. At best, a class gives one top 50 player and three top 100 players. Another expert says most classes give only three or four relevant players. Drafters still take far too many rookies near the end of drafts. Our league drafts 144 players, so plan on about three or four rookies being worth real auction money, not eight or ten.",
      "sources": [
       "lOshTzDA4SA:r1",
       "OBwWCxG9SqM:r4"
      ]
     },
     {
-     "text": "Judge a rookie by his situation, minutes, usage and non-scoring stats, not by where he was drafted. The No. 1 overall pick, AJ Dybantsa, is a good example. The experts value him at about 1 USD. Cameron Boozer is the No. 1 rookie for fantasy this season.",
+     "text": "Judge a rookie by his situation, minutes, usage and non-scoring stats. Do not judge him by where he was picked in the NBA draft. This class shows why. The No. 1 pick AJ Dybantsa is a 1 USD player for us. The No. 5 and No. 6 picks, Keaton Wagler and Mikel Brown Jr., sit at or below the edge of our pool. Yaxel Lendeborg is a 24-year-old rookie, and he has a clearer path because he is projected to start.",
      "sources": [
       "OBwWCxG9SqM:r6",
       "player:aj-dybantsa",
-      "player:cameron-boozer"
+      "player:keaton-wagler",
+      "player:mikel-brown",
+      "player:yaxel-lendeborg"
      ]
     }
    ]
   },
   {
-   "heading": "The two rookies worth real money",
+   "heading": "The three with a real path",
    "paragraphs": [
     {
-     "text": "Boozer is the one rookie to target with real money. The experts' fair range is around rank 60 to 65. That fits a price near the 15 USD mock price, not Yahoo's 18 USD value. He is expected to play at a top 35 level in our playoff weeks 19 to 21. He also has a 4-4-4 playoff schedule with few back-to-backs. He fits punt TO builds. In the first weeks, check his minutes in Iisalo's short-stint rotation and how many threes he takes.",
+     "text": "Cameron Boozer is the top rookie. He was the No. 3 pick and is the projected starter in Memphis. His value comes late. The experts rank him outside the top 70 early and at a top 25 to 35 level by our playoffs. Memphis also plays 4, 4 and 4 games in weeks 19 to 21. Pay 10 to 15 USD. Above that, you are paying for preseason buzz. He fits punt TO builds and may fit punt 3PM builds. Do not sell him after a slow start, because the case for him is about March. Early on, check his minutes in Iisalo's short-stint rotation and how many threes he takes.",
      "sources": [
       "player:cameron-boozer"
      ]
     },
     {
-     "text": "Caleb Wilson is the second rookie worth buying. He is a defense-first forward whose blocks and rebounds carry his value. His FT% and his threes are mild drags. The experts put him in the 80s overall, which makes him a mid-to-late pick at about Yahoo's 11 USD value. Buy him for a blocks-and-rebounds build that can absorb a weak FT%. Early on, check his usage next to Powell, Giddey and Buzelis.",
+     "text": "Caleb Wilson was the No. 4 pick and is a projected starter in Chicago. Experts take him around picks 86 to 89, which makes him a mid-to-late auction target in the 4 to 6 USD range. His rebounds, blocks and steals help teams that need frontcourt defensive stats. His 74.7% FT and low assists hurt least in builds that already give those up. Check whether the Bulls keep feeding him usage under Splitter, how many threes he takes, and whether his efficiency settles.",
      "sources": [
       "player:caleb-wilson"
      ]
     },
     {
-     "text": "Dybantsa is not in this group. His projected line is close to neutral except for points, plus a drag on turnovers. He only makes sense as a 1 to 2 USD bench piece for a punt TO build. Let another manager pay for the No. 1 pick name. Check whether he plays 28 minutes or 34 plus, and how many shots he gets next to Trae Young and Anthony Davis.",
+     "text": "Yaxel Lendeborg is the cheap one. Experts take him around picks 98 to 106 as a starter, but the market prices him near the end of the draft, so 1 or 2 USD can land him. He gives a little of everything, with blocks as his best category, and he is a natural punt 3PM fit. Check that he keeps the starting job under Kerr. Plan to sell or replace him before Butler and Moody return. If you sell him in a trade, do it before the 2027-03-04 deadline.",
      "sources": [
-      "player:aj-dybantsa",
-      "OBwWCxG9SqM:r6"
+      "player:yaxel-lendeborg"
      ]
     }
    ]
   },
   {
-   "heading": "Rookie guards: expect bad shooting",
+   "heading": "Rookie guards: expect poor shooting",
    "paragraphs": [
     {
-     "text": "Rookie point guards are almost always bad for fantasy because of efficiency problems. Be skeptical of them in redraft. FG% is a team ratio in our league, so a rookie guard who takes a lot of shots does the most damage. Darius Acuff Jr. projects to 42.6% FG on about 14 shots a game with 2.5 turnovers. He is a last-dollar flyer, and only for a team that already plans to give up FG% and TO for points and assists.",
+     "text": "Rookie point guards are almost always bad for fantasy because of efficiency problems. Be skeptical of drafting them. FG% in our league is a team ratio, so a guard taking about 14 shots a night moves it more than a low-volume bench player does. Draft a rookie guard only if your build can absorb an FG% and TO hit, or if your bigs shoot well enough to cover for him.",
+     "sources": [
+      "tnzmsYUA4yQ:r0"
+     ]
+    },
+    {
+     "text": "Darryn Peterson projects at 45.2% FG on about 14.5 shots with 2.1 turnovers. Darius Acuff Jr. projects at 42.6% FG on about 14 shots with 2.5 turnovers. Both bring points, and Peterson adds steals while Acuff adds assists. Cap Peterson at 1 to 3 USD and Acuff at 1 to 2 USD. For Peterson, check whether he starts and whether his FG% and turnovers get better. For Acuff, check whether his FG% stays above 40% and whether his preseason usage holds next to LaVine and Sabonis.",
      "sources": [
       "tnzmsYUA4yQ:r0",
+      "player:darryn-peterson",
       "player:darius-acuff"
      ]
     },
     {
-     "text": "Darryn Peterson is the best of the rookie guards for us. The experts see him as a late pick around 110 to 130. That makes him fine as a bench upside piece at 2 to 5 USD, and not worth more. His projection is about average in every category, but expect poor FG% and turnovers early. Check whether he starts and how many minutes he gets next to George, Markkanen and Jackson Jr.",
+     "text": "Mikel Brown Jr. projects at 41.6% FG with about 2 turnovers, and nobody knows yet when he will be available. He is a 1 USD final pick at most and more likely a waiver target, with his value in the second half. Keaton Wagler is a backup point guard with likely efficiency problems. Skip him in the auction.",
      "sources": [
-      "player:darryn-peterson",
-      "tnzmsYUA4yQ:r0"
-     ]
-    },
-    {
-     "text": "Mikel Brown Jr., Keaton Wagler, Kingston Flemings and Brayden Burries should not cost auction money. Brown is at most a 1 USD last bench pick. He is more likely a waiver add if he starts at point guard and his assists and steals show up. He has only 10 games in our playoff weeks. Wagler projects as a backup point guard with efficiency problems. Flemings and Burries have no strong category.",
-     "sources": [
+      "tnzmsYUA4yQ:r0",
       "player:mikel-brown",
-      "player:keaton-wagler",
-      "player:kingston-flemings",
-      "player:brayden-burries",
-      "tnzmsYUA4yQ:r0"
+      "player:keaton-wagler"
      ]
     }
    ]
   },
   {
-   "heading": "The flyer zone and the two-week rule",
+   "heading": "The 1 USD flyer zone and the two-week rule",
    "paragraphs": [
     {
-     "text": "Uncertain rookies belong around picks 120 to 130 in a 12-team league. That is the end of the active roster or the start of the bench. In our auction, that means your last 1 to 2 USD spots. Yaxel Lendeborg fits that zone, and so do Morez Johnson Jr. and Hannes Steinbach at 1 USD. Only take Steinbach if Charlotte names him a starter before the 2026-10-18 auction.",
+     "text": "Uncertain rookies belong in the flyer zone. In a 12-team league that is around picks 120 to 130, the end of the active roster or the start of the bench. In our auction, that means your last one or two roster spots at 1 or 2 USD. Use no more than one or two of those spots on rookies. Most classes give only a few relevant players.",
      "sources": [
       "lOshTzDA4SA:r5",
-      "player:yaxel-lendeborg",
-      "player:morez-johnson",
-      "player:hannes-steinbach"
+      "OBwWCxG9SqM:r4"
      ]
     },
     {
-     "text": "Use Summer League and preseason news. If a rookie is named a starter, move him up your list. If nothing happens in his first two weeks, drop him and maybe pick him up later. Lendeborg was the 2026 Summer League MVP. Check whether Kerr keeps him in the starting lineup, and plan to drop or trade him before Butler and Moody return. For Johnson, check his lower leg injury and the Lively timeline before the draft. Then watch whether Dusty May starts him over Gafford.",
+     "text": "AJ Dybantsa is the clearest example. Every expert says to avoid him in the top 100 for category leagues. He sits behind Trae Young and Anthony Davis and may play only about 28 minutes early. Only his points stand out, and his turnovers make him a fit only for punt TO builds. Take him at 1 USD and let someone else pay 4 to 6 USD. Morez Johnson Jr. is also a 1 USD flyer at most, and only for a big-man build. Aday Mara's rising preseason ADP comes from hype, not from a regular-season role, so never pay more than 1 USD for him.",
+     "sources": [
+      "lOshTzDA4SA:r5",
+      "player:aj-dybantsa",
+      "player:morez-johnson",
+      "player:aday-mara"
+     ]
+    },
+    {
+     "text": "Use Summer League and preseason to set these prices. If a rookie is named a starter before 2026-10-18, push him higher. That would apply to Hannes Steinbach if Charlotte names him the starter. If a flyer does nothing in the first two weeks of the season, drop him. You can pick him up again later. With daily FAB and up to 6 adds per week, a 1 USD rookie costs you little to cut.",
      "sources": [
       "lOshTzDA4SA:r6",
-      "player:yaxel-lendeborg",
+      "player:hannes-steinbach"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Waiver watch: rookies waiting for an opening",
+   "paragraphs": [
+    {
+     "text": "Rookies who could help in blocks or steals if they win minutes: Hannes Steinbach (if he takes the Charlotte center job), Ugonna Onyenso (if Duren or Reed get hurt), Rafael Castro (if Kessler gets hurt), Trevon Brazile (if he wins backup power forward behind Aaron Gordon) and Morez Johnson Jr. (if Gafford is traded). Onyenso is on a two-way deal. Two-way players can still be worth rostering late in the season when they play.",
+     "sources": [
+      "LUTYUdXBG1M:r6",
+      "player:hannes-steinbach",
+      "player:ugonna-onyenso",
+      "player:rafael-castro",
+      "player:trevon-brazile",
       "player:morez-johnson"
      ]
     },
     {
-     "text": "We have a cap of 6 acquisitions per week, so keep a short list of injury triggers rather than chasing every name. Flemings matters only if McCollum misses time and Flemings, not Dort or Wiggins, gets the minutes. Christian Anderson matters if he becomes the backup point guard while Coby White is out. Ryan Conwell matters if he plays ahead of Dru Smith. Sergio de Larrea matters if he gets assists on nights Kyrie sits. Aday Mara matters if Hartenstein or Holmgren misses games. For Burries, check the Bucks' guard minutes after the 2027-03-04 trade deadline.",
+     "text": "Guards who need an injury ahead of them: Kingston Flemings (CJ McCollum), Sergio de Larrea (Kyrie Irving, plus 16 Dallas back-to-backs), Ryan Conwell (Dru Smith out), Meleek Thomas (Harden or Mitchell), Christian Anderson (Coby White's calf) and Emanuel Sharp (Malik Monk). Treat any of them as a short-term streamer, not a hold. The guard shooting warning still applies, so check their FG% before you add them.",
      "sources": [
+      "tnzmsYUA4yQ:r0",
       "player:kingston-flemings",
-      "player:christian-anderson",
-      "player:ryan-conwell",
       "player:sergio-de-larrea",
-      "player:aday-mara",
-      "player:brayden-burries"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Two-way players and dead ends",
-   "paragraphs": [
-    {
-     "text": "Two-way players with a 50 game limit can still be worth a roster spot late in the season when they play. Jalen Slawson is worth an add if he gets about 20 minutes a night, because of his steals and blocks. Ugonna Onyenso is a fast add if Duren or Reed misses time. Javon Small only matters if he gets a standard contract or a Memphis guard gets hurt.",
-     "sources": [
-      "LUTYUdXBG1M:r6",
-      "player:jalen-slawson",
-      "player:ugonna-onyenso",
-      "player:javon-small"
+      "player:ryan-conwell",
+      "player:meleek-thomas",
+      "player:christian-anderson",
+      "player:emanuel-sharp"
      ]
     },
     {
-     "text": "Some rookies are out of our season. Henri Veesaar is out for the season with a torn ACL. Richie Saunders is expected back only near the end of his rookie season, likely after our 2027-03-28 finish, so he is not an IL stash. Jayden Quaintance is out after another knee surgery with no firm return date.",
+     "text": "Rookies who could get a late youth push near our playoffs: Brayden Burries and Mikel Brown Jr. Check their minutes from February on. Some rookies offer little even with minutes: Isaiah Evans gives only threes, Braden Smith gives only assists, and Alex Karaban, Karim Lopez and Labaron Philon have no category strength. Check them only if a major injury forces them into the rotation.",
      "sources": [
-      "player:henri-veesaar",
-      "player:richie-saunders",
-      "player:jayden-quaintance"
+      "player:brayden-burries",
+      "player:mikel-brown",
+      "player:isaiah-evans",
+      "player:braden-smith",
+      "player:alex-karaban",
+      "player:karim-lopez",
+      "player:labaron-philon"
      ]
     }
    ]
@@ -201,13 +214,12 @@
    "heading": "Where the sources split",
    "paragraphs": [
     {
-     "text": "The market and the experts disagree on several top rookies. On one side, Yahoo and ESPN put Dybantsa near rank 90, and ESPN ranks Wilson 57. On the other side, the experts value Dybantsa at about 1 USD and put Wilson in the 80s. The projections also split on threes. Yahoo gives Boozer and Lendeborg 1.3 threes a game, while ESPN gives each of them 0.3. For Johnson, the FG% projections are 58.9 and 49.4. Follow the expert prices in the auction. Then let the first weeks of three-point volume decide whether Boozer and Lendeborg help or hurt your 3PM.",
+     "text": "The sources disagree on several of the rookies who matter. On Caleb Wilson, ESPN is high and Yahoo is lower. The experts sit near Yahoo at picks 86 to 89 and say not to chase him at ESPN's level. On threes, Yahoo projects 1.3 per game for both Boozer and Lendeborg, while ESPN projects 0.3. If ESPN is right, both are cleaner punt 3PM fits. If Yahoo is right, they help in more categories. On Lendeborg and Mara, expert or preseason ADP is far above the site ranks. Experts back Lendeborg because he is projected to start, while Mara's ADP rests on hype. Check the first week of box scores before you trust either side.",
      "sources": [
-      "player:aj-dybantsa",
       "player:caleb-wilson",
       "player:cameron-boozer",
       "player:yaxel-lendeborg",
-      "player:morez-johnson"
+      "player:aday-mara"
      ]
     }
    ]
@@ -217,191 +229,194 @@
   {
    "slug": "cameron-boozer",
    "tier": "Core targets",
-   "line": "He is the top fantasy rookie, is expected to play at a top 35 level in our playoff weeks with a 4-4-4 schedule, and fits punt TO builds."
+   "line": "He is the top rookie and a projected starter whose value peaks in our playoffs, when Memphis plays a maxed 4-4-4 schedule."
   },
   {
    "slug": "caleb-wilson",
    "tier": "Core targets",
-   "line": "His blocks and rebounds carry a defense-first line that suits builds able to absorb a weak FT%."
-  },
-  {
-   "slug": "darryn-peterson",
-   "tier": "Late flyers",
-   "line": "He is a bench upside guard with an average line everywhere, but expect poor FG% and turnovers early."
-  },
-  {
-   "slug": "aj-dybantsa",
-   "tier": "Late flyers",
-   "line": "Experts value the No. 1 pick name at about 1 USD, so he only fits as a cheap punt TO bench piece."
+   "line": "He is a projected starter whose rebounds, blocks and steals help frontcourt builds, but do not chase ESPN's higher rank."
   },
   {
    "slug": "yaxel-lendeborg",
-   "tier": "Late flyers",
-   "line": "The Summer League MVP brings rebounds, assists, steals and blocks while he starts, but plan to move on before Butler and Moody return."
+   "tier": "Value at price",
+   "line": "He is a cheap projected starter who helps a little in everything, but you should plan to move him before Butler and Moody return."
+  },
+  {
+   "slug": "darryn-peterson",
+   "tier": "1 USD flyers",
+   "line": "He brings points and steals, but as a rookie guard on 14.5 shots his FG% and turnovers will likely hurt early."
   },
   {
    "slug": "darius-acuff",
-   "tier": "Late flyers",
-   "line": "As a projected starting rookie point guard on 42.6% FG and 2.5 turnovers, he only fits teams punting FG% and TO."
+   "tier": "1 USD flyers",
+   "line": "His points and assists come with a projected 42.6% FG and 2.5 turnovers, so he fits only builds that can absorb that hit."
+  },
+  {
+   "slug": "aj-dybantsa",
+   "tier": "1 USD flyers",
+   "line": "He is the No. 1 pick but sits behind Trae Young and Anthony Davis with only points standing out, so take him only at the minimum."
   },
   {
    "slug": "mikel-brown",
-   "tier": "1 USD or waivers",
-   "line": "He is a waiver add if he starts at point guard and gets the assists and steals, but expect early FG% and TO drag and only 10 playoff games."
+   "tier": "1 USD flyers",
+   "line": "He is a poor-shooting rookie guard with an unclear return date whose value should come in the second half."
   },
   {
    "slug": "morez-johnson",
-   "tier": "1 USD or waivers",
-   "line": "He is a blocks and FG% flyer whose value depends on starting at center over Gafford and on clearing his lower leg injury."
-  },
-  {
-   "slug": "hannes-steinbach",
-   "tier": "1 USD or waivers",
-   "line": "He is only worth a pick if Charlotte names him a starter before the auction, since his projection is about 18 minutes."
-  },
-  {
-   "slug": "keaton-wagler",
-   "tier": "Waiver watch",
-   "line": "He projects as a backup point guard with efficiency problems, so add him only if the Clippers' guard group thins out."
-  },
-  {
-   "slug": "kingston-flemings",
-   "tier": "Waiver watch",
-   "line": "He becomes an add only if McCollum misses time and Flemings gets the starting minutes over Dort and Wiggins."
-  },
-  {
-   "slug": "brayden-burries",
-   "tier": "Waiver watch",
-   "line": "He has no standout category, so check whether Milwaukee shifts guard minutes to young players after the trade deadline."
-  },
-  {
-   "slug": "allen-graves",
-   "tier": "Waiver watch",
-   "line": "Check that his groin injury clears and whether his Summer League steals, rebounds and threes carry over to bench minutes."
+   "tier": "1 USD flyers",
+   "line": "He is a low-turnover FG% and blocks helper for big-man builds, but only if he beats Gafford for center minutes."
   },
   {
    "slug": "aday-mara",
-   "tier": "Waiver watch",
-   "line": "He is a deep third-string center whose blocks matter only if Hartenstein or Holmgren misses games."
+   "tier": "Avoid at price",
+   "line": "His rising preseason ADP is hype, and he becomes a blocks pickup only if he wins real minutes behind Chet Holmgren."
   },
   {
-   "slug": "christian-anderson",
+   "slug": "hannes-steinbach",
    "tier": "Waiver watch",
-   "line": "He is worth a look only if his ankle clears and he becomes the backup point guard while Coby White is out."
-  },
-  {
-   "slug": "ryan-conwell",
-   "tier": "Waiver watch",
-   "line": "Add him only if he plays ahead of Dru Smith and takes threes in a steady role."
-  },
-  {
-   "slug": "sergio-de-larrea",
-   "tier": "Waiver watch",
-   "line": "His only case is assists as Kyrie Irving's backup, so check his output on nights Kyrie sits before spending FAB."
-  },
-  {
-   "slug": "jalen-slawson",
-   "tier": "Waiver watch",
-   "line": "This two-way wing is a steals and blocks add if he gets about 20 minutes a night."
+   "line": "He becomes a quick FAB add for rebounds, blocks and low turnovers if he takes the Charlotte center job."
   },
   {
    "slug": "ugonna-onyenso",
    "tier": "Waiver watch",
-   "line": "This two-way center is a fast add for blocks if Duren or Reed misses time."
+   "line": "This two-way rookie with a strong block rate is worth an add if a Duren or Reed injury opens center minutes."
   },
   {
-   "slug": "javon-small",
+   "slug": "keaton-wagler",
    "tier": "Waiver watch",
-   "line": "This two-way guard only matters if he gets a standard contract or a Memphis guard gets hurt."
+   "line": "He is a backup point guard with likely efficiency problems who matters only if the Clippers guard group thins out."
   },
   {
-   "slug": "isaiah-evans",
+   "slug": "kingston-flemings",
    "tier": "Waiver watch",
-   "line": "He is a possible short-term threes streamer only if Minnesota's thin bench gives him about 20 minutes."
+   "line": "He is worth an add only if CJ McCollum misses time and Flemings takes the starting minutes."
+  },
+  {
+   "slug": "brayden-burries",
+   "tier": "Waiver watch",
+   "line": "His projections disagree and he has no clear category, but a Bucks youth push could give him a role near our playoffs."
+  },
+  {
+   "slug": "sergio-de-larrea",
+   "tier": "Waiver watch",
+   "line": "Irving absences and 16 Dallas back-to-backs could make him a short-term assists streamer if his shooting improves on his Summer League numbers."
+  },
+  {
+   "slug": "ryan-conwell",
+   "tier": "Waiver watch",
+   "line": "He is a cheap FAB add only if he matches Davion Mitchell's minutes while Dru Smith is out."
   },
   {
    "slug": "trevon-brazile",
    "tier": "Waiver watch",
-   "line": "His blocks, steals and rebounds matter only if he wins the backup power forward minutes behind Aaron Gordon."
+   "line": "His blocks, steals and rebounds could make him a streamer if he wins the backup power forward minutes behind Aaron Gordon."
+  },
+  {
+   "slug": "rafael-castro",
+   "tier": "Waiver watch",
+   "line": "He is a big with a steals and blocks profile who matters only if a Kessler injury opens backup center minutes."
+  },
+  {
+   "slug": "allen-graves",
+   "tier": "Waiver watch",
+   "line": "Check that his groin injury clears and whether his Summer League steals, rebounds and threes carry into bench minutes."
+  },
+  {
+   "slug": "meleek-thomas",
+   "tier": "Waiver watch",
+   "line": "Cleveland's thin bench could give him minutes if Harden or Mitchell miss games."
+  },
+  {
+   "slug": "christian-anderson",
+   "tier": "Waiver watch",
+   "line": "Coby White's calf injury could open backup point guard minutes in which his passing and shooting might show."
+  },
+  {
+   "slug": "emanuel-sharp",
+   "tier": "Waiver watch",
+   "line": "Steals are his selling point if Sacramento keeps sidelining Malik Monk or gives its rookies minutes."
+  },
+  {
+   "slug": "cameron-carr",
+   "tier": "Waiver watch",
+   "line": "With an expected 12 to 16 minutes he has no strong category, but a bigger role could bring out his blocks and steals."
+  },
+  {
+   "slug": "nate-ament",
+   "tier": "Waiver watch",
+   "line": "He has no strong category now, so watch only for a late Milwaukee youth push once his ankle heals."
+  },
+  {
+   "slug": "dailyn-swain",
+   "tier": "Waiver watch",
+   "line": "His weak projected line matters only if Splitter gives him rotation minutes."
   },
   {
    "slug": "zuby-ejiofor",
    "tier": "Waiver watch",
-   "line": "Watch him only if Atlanta's thin big man depth gives him minutes and his Summer League threes carry over."
-  },
-  {
-   "slug": "nate-ament",
-   "tier": "Deep waiver only",
-   "line": "Experts doubt both his shooting and his path to minutes, and his line is below the pool in almost every category."
-  },
-  {
-   "slug": "braden-smith",
-   "tier": "Deep waiver only",
-   "line": "Passing is his one real skill, and he sits outside the Pacers rotation behind McConnell."
-  },
-  {
-   "slug": "alex-karaban",
-   "tier": "Deep waiver only",
-   "line": "He is not expected to make the rotation and would only be a deep-league threes streamer."
-  },
-  {
-   "slug": "meleek-thomas",
-   "tier": "Deep waiver only",
-   "line": "Experts like his shooting but see no role for him this season behind Harden and Mitchell."
+   "line": "Atlanta's thin big man depth could give him minutes, but his projection gives little to use."
   },
   {
    "slug": "bruce-thornton",
-   "tier": "Deep waiver only",
-   "line": "He is buried in a crowded Houston guard group, so his steals and threes matter only after an injury."
-  },
-  {
-   "slug": "cameron-carr",
-   "tier": "Deep waiver only",
-   "line": "Experts expect 12 to 16 minutes, so his blocks and steals need a bigger role to show up."
-  },
-  {
-   "slug": "chris-cenac",
-   "tier": "Deep waiver only",
-   "line": "He has no real role on a 12-deep Boston roster unless his Summer League shot blocking earns minutes."
+   "tier": "Waiver watch",
+   "line": "Only a Houston guard injury would make him worth a pickup, and the Rockets' 10-game playoff schedule limits his late use."
   },
   {
    "slug": "bennett-stirtz",
-   "tier": "Deep waiver only",
-   "line": "He is a small-role rookie point guard who matters only if injuries hit a deep OKC backcourt."
-  },
-  {
-   "slug": "jayden-quaintance",
-   "tier": "Deep waiver only",
-   "line": "He is out after knee surgery with no firm return date and would only be a blocks-only add once cleared."
+   "tier": "Waiver watch",
+   "line": "He offers little beyond low turnovers unless an OKC guard injury or a high-volume shooting role gives him minutes."
   },
   {
    "slug": "labaron-philon",
    "tier": "Deep waiver only",
-   "line": "His projection is below average in every category except turnovers, so check only whether Nurse gives him rotation minutes."
+   "line": "He backs up Maxey and Edgecombe for a coach who plays his starters heavy minutes, and he has no 9-cat value."
+  },
+  {
+   "slug": "alex-karaban",
+   "tier": "Deep waiver only",
+   "line": "He is outside the projected Kings rotation and helps in no category even with minutes."
+  },
+  {
+   "slug": "braden-smith",
+   "tier": "Deep waiver only",
+   "line": "Passing is his one real skill, so even with minutes he would help only in assists."
+  },
+  {
+   "slug": "isaiah-evans",
+   "tier": "Deep waiver only",
+   "line": "He shoots threes and does nothing else, so at best he is a short-term threes add."
   },
   {
    "slug": "karim-lopez",
    "tier": "Deep waiver only",
-   "line": "He has no strong category and needs regular minutes in Iisalo's rotation before he is worth a spot."
+   "line": "His only plus is low turnovers from low usage, and Iisalo's short stints would cap his counting stats."
   },
   {
-   "slug": "dailyn-swain",
+   "slug": "chris-cenac",
    "tier": "Deep waiver only",
-   "line": "After a very poor Summer League, the expert calls him not draftable unless Splitter puts him in the rotation."
+   "line": "He has no real role on a deep Boston roster unless his Summer League shot blocking earns him minutes."
   }
  ],
  "excluded": [
   {
    "slug": "henri-veesaar",
-   "reason": "Out for the whole season with a torn ACL, so he is only relevant in dynasty formats."
+   "reason": "Out for the whole season with a torn ACL, so he matters only in dynasty formats."
   },
   {
    "slug": "richie-saunders",
-   "reason": "Torn ACL, and his expected return is likely after our season ends on 2027-03-28."
+   "reason": "Torn ACL with an expected return near the end of his rookie season, likely after our 2027-03-28 end, and no projections."
   },
   {
-   "slug": "rafael-castro",
-   "reason": "Undrafted with no projections and possibly not on an NBA roster. Interest in him is dynasty only."
+   "slug": "jayden-quaintance",
+   "reason": "The newest note says he may not play at all this season after another knee surgery."
+  },
+  {
+   "slug": "javon-small",
+   "reason": "He is not a rookie. He is a two-way player with a previous NBA season, so he does not fit a rookie article."
+  },
+  {
+   "slug": "jalen-slawson",
+   "reason": "He is not a rookie. He is a two-way player who played 13 games last season, so he does not fit a rookie article."
   }
  ],
  "rejected": []

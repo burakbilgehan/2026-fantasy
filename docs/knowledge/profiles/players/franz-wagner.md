@@ -4,52 +4,56 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 66 | 34.0 | 47.4 (17.4) | 84.9 (5.3) | 1.6 | 22.5 | 5.7 | 4.2 | 1.2 | 0.4 | 2.1 |
-| 2026-27 proj, Yahoo | 67 | - | 48.5 (17.5) | 84.8 (6.6) | 1.7 | 24.2 | 5.7 | 4.2 | 1.2 | 0.4 | 2.1 |
+| 2026-27 proj, Yahoo | 66 | - | 48.0 (17.0) | 84.8 (6.4) | 1.6 | 23.3 | 5.4 | 3.8 | 1.1 | 0.4 | 2.0 |
 | 2025-26 | 34 | 30.0 | 48.1 (14.9) | 82.3 (5.8) | 1.4 | 20.6 | 5.2 | 3.3 | 0.9 | 0.3 | 1.7 |
 | 2024-25 | 60 | 33.7 | 46.3 (19.4) | 87.1 (5.2) | 1.7 | 24.1 | 5.7 | 4.7 | 1.2 | 0.3 | 2.3 |
 | 2023-24 | 72 | 32.5 | 48.2 (15.2) | 85.0 (4.4) | 1.3 | 19.7 | 5.3 | 3.7 | 1.1 | 0.4 | 1.9 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 21 | 10.2 | 50 | 6 | 8.8 | 68 | 26 |
+| 2026-27 | 21 | 12.8 | 50 | 6 | 8.9 | 68 | 26 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.9% | +0.0 | +0.1 | - |
+| FG% | 47.7% | -0.1 | -0.0 | - |
 | FT% | 84.8% | +1.3 | +1.5 | - |
-| 3PM | 1.6 | +0.1 | +0.1 | - |
-| PTS | 23.4 | +1.6 | +1.7 | - |
-| REB | 5.7 | +0.3 | +0.3 | - |
-| AST | 4.2 | +0.5 | +1.1 | - |
-| STL | 1.2 | +0.8 | +0.8 | - |
+| 3PM | 1.6 | +0.1 | +0.0 | - |
+| PTS | 22.9 | +1.5 | +1.7 | - |
+| REB | 5.6 | +0.2 | +0.2 | - |
+| AST | 4.0 | +0.4 | +1.0 | - |
+| STL | 1.2 | +0.7 | +0.8 | - |
 | BLK | 0.4 | -0.5 | -0.5 | - |
 | TO | 2.1 | -0.6 | -0.8 | - |
 
 </details>
 
 **Current**
-- Orlando has a new head coach, Sean Sweeney, so roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
-- Experts see him as a top 35 to 60 player this season. His upside is about top 40. He only reaches top 30 if Paolo Banchero gets hurt. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2133), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
-- His main downside this season is his own injury risk. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2133))
-- In auction terms he is worth about 11 to 15 USD. 15 USD is about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3630))
-- His draft slot is about round 6. Picks 47 to 49 are a bit early for him. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1176), [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
-- He is going around picks 54 to 60 in drafts. He has fallen because of injury. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-11](https://youtu.be/OdDkXFhoKsc?t=1241))
-- A high ankle sprain and lower minutes hurt his last season. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767), [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
-- He is a projected starter next to Suggs, Bane, Banchero and Carter. That group was very good when it played together. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando is projected to win 47 or 48 games and finish as the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
+- He ran a lot of point guard in the preseason and has the ball in his hands a lot. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=883), [10-14](https://youtu.be/D4dP5JvX1oo?t=928))
+- Playing well in the preseason. The bigger ball handling role should bring extra assists. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=883))
+- He goes around picks 53 to 60 in mock drafts. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=883), [10-12](https://youtu.be/w66x_I_MaQ8?t=884), [10-12](https://youtu.be/ENizLoE6pzI?t=1148), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- Experts disagree on whether that price is a bargain. One speaker sees good value in the 60s and others call 55 to 60 a steal. Josh thinks 53 to 60 is about right. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=928), [10-12](https://youtu.be/ENizLoE6pzI?t=1148), [10-12](https://youtu.be/w66x_I_MaQ8?t=884))
+- His upside is about top 40, not top 30 or top 35. His floor is about rank 60. Taking him in rounds 4 to 6 makes sense. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=605), [10-05](https://youtu.be/BiIZsSypx7Y?t=2133), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1767))
+- He is a projected starter next to Jalen Suggs, Desmond Bane, Paolo Banchero and Wendell Carter Jr. This group was very good when it played together. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- New head coach Sean Sweeney replaces Jamahl Mosley. His effect on pace, offense and roles is unknown. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Orlando plays 3, 4 and 4 games in our playoff weeks (11 games) and has 14 back-to-backs. The experts call the schedule unremarkable. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1741))
+- Josh says he only reaches the top 30 if Paolo Banchero gets hurt. His main downside is his own injury risk. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2133))
+- In an auction, 11 to 15 USD is a fair price. In one mock he went for 15 USD, which Josh called about right. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3630))
+- Picks 47 to 49 are a bit early for him. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1004), [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
 
 **Durable**
-- He has no single standout strength but is good across the board. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328))
-- He has had two seasons badly hurt by injury. Last season he missed about 47 to 51 games with a high ankle sprain from a contact injury. Before those seasons he was usually reliable and played through ankle rolls. (fact, 2026-09-10; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [09-10](https://youtu.be/dlo7L8Ru91A?t=1328))
+- Points, FT% and assists for a forward are his best categories. Blocks and turnovers are his weakest, but neither is a real outlier. (fact, 2026-10-16; stats)
+- He has no single standout category but is good across the board. He does not add much in steals and blocks and is not a high-volume 3-point shooter. (verdict, 2026-10-13; [09-10](https://youtu.be/dlo7L8Ru91A?t=1328), [10-13](https://youtu.be/zhXtLr_xYVg?t=595))
+- His 3-point shooting has been inconsistent. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=595))
+- Injuries ruined two straight seasons. In 2025-26 a high ankle sprain from contact cost him about 47 to 51 games. He came back too early, hurt the ankle again, then hurt his calf in the playoffs. (fact, 2026-10-13; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179), [10-13](https://youtu.be/zhXtLr_xYVg?t=536), [09-10](https://youtu.be/dlo7L8Ru91A?t=1328))
 - He is probably better in category leagues than in points leagues. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=926))
-- Phil sees the injuries of the last two years as random, not a chronic problem. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
+- Phil sees the last two years of injuries as random. Before that he was reliable and played through ankle rolls. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=1179))
 
 **Tags**
-- Current: `injury last season` (high ankle sprain, missed about 47 to 51 games), `usage competition` (shares the ball with Paolo Banchero), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (projected 47 or 48 wins, 6th seed), `sites disagree on price` (Yahoo value 21 USD, ESPN value 6 USD)
-- Durable: `fits every build` (no weak category; good across the board), `category league player`
+- Current: `injury last season` (High ankle sprain, reinjured after an early return, then a calf injury in the playoffs. Played 34 games.), `position change` (Ran a lot of point guard in the preseason, so more assists are expected.), `usage competition` (Paolo Banchero caps his ceiling. Top 30 only if Banchero gets hurt.), `new coach` (Sean Sweeney replaces Jamahl Mosley.), `winning team` (Phil predicts 47 or 48 wins and the 6th seed.), `sites disagree on price` (Yahoo value 21 USD (rank 50), ESPN value 6 USD (rank 68).)
+- Durable: `fits every build` (No category flagged weak.), `streaky` (Inconsistent 3-point shooting.)
 
-**Note.** Wagner went for 26 USD in our league last season. The market now sits near 8 to 10 USD (Yahoo average cost 10.2 USD, ESPN 8.3 USD), and experts put his value at 11 to 15 USD, so spending above 20 USD means paying for top 30 upside that the experts do not see. He has no weak category (his best are points and FT%, with a projected 84.8% on about 6 attempts), so he fits any build as a steady across-the-board forward. Early in the season, check his ankle and whether his usage holds next to Banchero under new coach Sweeney.
+**Note.** The experts see Wagner as a fairly priced top 40 to top 60 player. Their auction range is 11 to 15 USD, close to the Yahoo average cost of 12.8 USD and the ESPN average cost of 8.9 USD, and far below the 26 USD our league paid last season. He has no weak category, so he fits any build, and his points, FT% and assists as a forward are what you pay for. Bid up to about 15 USD. Early in the season, check that he keeps the point guard role under new coach Sweeney and that his ankle holds up.
 
-<sub>9 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

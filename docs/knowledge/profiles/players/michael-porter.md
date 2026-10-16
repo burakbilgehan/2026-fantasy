@@ -11,52 +11,54 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 17 | 3.5 | 61 | 14 | 10.8 | 43 | 10 |
+| 2026-27 | 17 | 4.1 | 62 | 14 | 11.0 | 43 | 10 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 46.9% | -0.3 | -0.3 | - |
-| FT% | 84.0% | +0.7 | +0.8 | - |
+| FT% | 84.0% | +0.7 | +0.9 | - |
 | 3PM | 3.2 | +1.9 | +2.3 | - |
 | PTS | 22.6 | +1.5 | +1.6 | - |
 | REB | 7.1 | +0.9 | +1.0 | - |
 | AST | 2.8 | -0.2 | +0.1 | - |
-| STL | 1.0 | +0.2 | +0.2 | - |
+| STL | 1.0 | +0.2 | +0.3 | - |
 | BLK | 0.4 | -0.5 | -0.5 | - |
 | TO | 2.1 | -0.6 | -0.8 | - |
 
 </details>
 
 **Current**
-- Brooklyn is projected to win about 28 games, with a range of roughly 22 to 30. (verdict, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177))
-- Josh ranks him better than pick 60 if he stays in Brooklyn, and not far behind that even if he is traded. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2226))
-- Experts expect him to produce less than he did last season. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2226), [08-11](https://youtu.be/OdDkXFhoKsc?t=1488))
-- Julius Randle joined Brooklyn. Randle is ball-dominant and plays the same position, so Porter will play more at small forward. (fact, 2026-09-26; [06-23](https://youtu.be/9tb1ARBEmQU?t=622), [09-19](https://youtu.be/uarqbNA2dFk?t=2122), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [09-26](https://youtu.be/3UGI05PDvrE?t=376))
-- Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Porter, Julius Randle and Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- His usage was about 32% last season. Experts expect it to drop because Randle, Brown and Demin will all take more of the ball. (verdict, 2026-09-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [08-21](https://youtu.be/uRsfijpBPok?t=612), [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [06-23](https://youtu.be/9tb1ARBEmQU?t=622))
-- Josh Minott and Noah Clowney may also take some of his minutes. (verdict, 2026-09-26; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [09-26](https://youtu.be/3UGI05PDvrE?t=1628))
-- A trade is still very possible this season, mainly if he and the Nets do not agree on an extension. The Nets do not seem to see him as a long-term piece. Slater expects a trade within about six months. (verdict, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=714), [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-26](https://youtu.be/3UGI05PDvrE?t=1630), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
-- Josh ranks him 45 to 60 in category leagues. He calls him a fair mid-round price, and a round 6 pick is good value. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=400), [09-26](https://youtu.be/3UGI05PDvrE?t=441), [09-24](https://youtu.be/_vbAP5y182A?t=1273))
-- The hamstring injury that ended his last season is not seen as a major concern for this season. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1553))
-- Houston controls Brooklyn's draft pick, so the Nets have no reason to tank. Experts say he may play more games than last season, when he sat out March. (verdict, 2026-09-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [09-10](https://youtu.be/dlo7L8Ru91A?t=1056), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164), [09-26](https://youtu.be/3UGI05PDvrE?t=356), [09-26](https://youtu.be/3UGI05PDvrE?t=143))
-- March minutes are still uncertain. Brooklyn also has no team reason to win and may give second-half minutes to its young players. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
-- Brooklyn has 16 back-to-backs, tied for the most in the league. Its playoff schedule with a March 28 end is 3-4-3 games, with only one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- One expert says ESPN's rank of 42 is too high because Randle makes a repeat of last season hard to believe. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2122))
-- Another expert calls him undervalued on Yahoo and puts his worst case at around 75th. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164))
-- He is an unrestricted free agent next summer and has no extension. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=714))
-- He made 3.4 threes per game on 36.2%. That was the lowest percentage among the top six three-point makers, and his three-point volume may drop. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=543))
+- Experts disagree on his production. Some expect him to be clearly worse than last season. The newest call says he can keep up last season's per-game level. (verdict, 2026-10-14; [10-05](https://youtu.be/BiIZsSypx7Y?t=2226), [08-11](https://youtu.be/OdDkXFhoKsc?t=1488), [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [10-14](https://youtu.be/D4dP5JvX1oo?t=955))
+- Experts see him as good value around pick 60 or in round 6. One expert ranks him 45 to 60 in category leagues and says the market has priced in his new situation fairly. His worst case is around 75th. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=955), [10-05](https://youtu.be/BiIZsSypx7Y?t=2226), [09-24](https://youtu.be/_vbAP5y182A?t=1273), [09-26](https://youtu.be/3UGI05PDvrE?t=400), [09-26](https://youtu.be/3UGI05PDvrE?t=441), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164))
+- Brooklyn is projected to be one of the worst teams, with about 28 wins. (verdict, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177))
+- Experts disagree on how much a trade would hurt. One expert says it could cut his usage and drop him to around the 90th best player. The newest call says he would not fall far below pick 60 even if traded. (verdict, 2026-10-05; [09-10](https://youtu.be/dlo7L8Ru91A?t=1056), [10-05](https://youtu.be/BiIZsSypx7Y?t=2226))
+- Porter is a projected Brooklyn starter, next to Mikel Brown Jr., Egor Demin, Julius Randle and Day'Ron Sharpe. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [08-21](https://youtu.be/uRsfijpBPok?t=488))
+- His usage is expected to drop because Randle, Brown and a second-year Demin will take more of the ball. (verdict, 2026-09-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [08-21](https://youtu.be/uRsfijpBPok?t=612), [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [06-23](https://youtu.be/9tb1ARBEmQU?t=622), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164))
+- He becomes an unrestricted free agent next summer and has no extension. The Nets do not seem to see him as a long-term piece. (fact, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=714), [09-26](https://youtu.be/3UGI05PDvrE?t=1630))
+- A trade during the season is very possible, most likely if he and the team do not agree on an extension. One expert expects it within six months. (verdict, 2026-09-26; [08-21](https://youtu.be/uRsfijpBPok?t=714), [09-26](https://youtu.be/3UGI05PDvrE?t=376), [09-26](https://youtu.be/3UGI05PDvrE?t=1630), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Brooklyn does not own its draft pick, which goes to Houston, so the team has little reason to tank or rest him. (fact, 2026-09-26; [09-10](https://youtu.be/dlo7L8Ru91A?t=1056), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1164))
+- He may play more games than last season. March minutes are still uncertain because Brooklyn has little to play for and may give minutes to young players. (verdict, 2026-09-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1898), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628))
+- He ended last season with a hamstring injury and is not injured now. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1553))
+- There is no major health concern going into the season. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1553))
+- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. In our playoff weeks 19 to 21 the Nets play 3-4-3, which is 10 games with one back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Julius Randle joined Brooklyn. He is a ball-dominant player at Porter's position, so Porter will play more at small forward. (fact, 2026-09-19; [06-23](https://youtu.be/9tb1ARBEmQU?t=622), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648), [09-19](https://youtu.be/uarqbNA2dFk?t=2122))
+- ESPN's rank of 42 is too high for him with Randle on the team. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2122))
+- Josh Minott and Noah Clowney may also take some of his minutes. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1648))
+- He may lose some three-point volume. His 36.2% from three was the lowest among the top six in threes made. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=543))
 
 **Durable**
-- He gives points, many threes and good rebounds. His value comes from efficiency and usage. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=426), stats)
-- He gives little in assists, steals and blocks, and he does not get to the rim much. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=426))
-- He has a long injury history, including a hamstring injury late last season. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=383), [08-21](https://youtu.be/uRsfijpBPok?t=612))
+- He gives points, a lot of threes and good rebounds. He makes many threes for a forward. (fact, 2026-10-16; [09-26](https://youtu.be/3UGI05PDvrE?t=426), stats)
+- He gives little in assists and blocks, and he does not get to the rim much. (fact, 2026-10-16; [09-26](https://youtu.be/3UGI05PDvrE?t=426), stats)
+- His fantasy value comes from efficiency and high usage. It drops if his role shrinks. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=426), [09-10](https://youtu.be/dlo7L8Ru91A?t=1056))
+- He has a long injury history. It includes a hamstring injury late last season and injury concerns earlier in his career. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=383), [08-21](https://youtu.be/uRsfijpBPok?t=612))
+- His FT% has changed a lot from season to season: 84%, then 76%, then a career-best 86%. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=2049))
 
 **Tags**
-- Current: `usage competition` (Randle, Mikel Brown Jr. and Egor Demin take more of the ball), `role down` (Usage expected to fall from about 32%), `minutes competition` (Josh Minott and Noah Clowney), `trade risk` (No extension. Trade possible within about six months), `contract year` (Unrestricted free agent next summer), `injury last season` (Played 52 games. A hamstring injury and team tanking ended his season), `questionable` (Yahoo status Q (wrist)), `injured now` (Wrist, Yahoo status Q), `sleeper` (On Yahoo (rank 71, ADP 68 at the time)), `bust candidate` (At ESPN rank 42), `sites disagree on price` (Yahoo average cost 3.5 USD vs ESPN 10.8 USD; rank 61 vs 43), `many back-to-backs` (16, tied for most in the league), `bottom team` (About 28 wins projected. Brooklyn does not own its pick)
-- Durable: `3PM from a big` (About 3.2 threes per game projected as a forward), `fits every build` (No category flagged weak. BLK and TO are mild minuses), `usage dependent` (Value driven by usage. A trade or smaller role cuts it), `injury prone` (Long injury history. Hamstring injury late last season)
+- Current: `usage competition` (Julius Randle, Mikel Brown Jr. and Egor Demin take more of the ball), `role down` (Usage expected to fall after Randle's arrival), `position change` (Will play more at small forward with Randle at power forward), `minutes competition` (Josh Minott and Noah Clowney may take minutes), `trade risk` (No extension; a trade could cut his usage further), `contract year` (Unrestricted free agent next summer, no extension), `injury last season` (Ended last season with a hamstring injury and did not play in March), `sleeper` (Listed as undervalued at Yahoo rank 71 and ADP 68; worst case around 75th), `bust candidate` (At ESPN rank 42), `sites disagree on price` (Yahoo average cost 4.1 USD and rank 62; ESPN average cost 11.0 USD and rank 43), `many back-to-backs` (Brooklyn has 16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3 in weeks 19 to 21, only 10 games, one back-to-back), `bottom team` (About 28 wins projected)
+- Durable: `3PM from a big` (About 3.2 threes per game projected as a forward), `usage dependent` (Value comes from efficiency and high usage; a trade could drop him to around 90th), `injury prone` (Long injury history; hamstring injury late last season)
 
-**Note.** He brings points, threes and rebounds from a forward spot, with no weak category, so he fits most builds. Expert ranks of 45 to 60 match his Yahoo value of 17 USD and ESPN value of 14 USD much more than the 3.5 USD Yahoo average cost, so paying around our league's 10 USD from last season looks fair. Early in the season, check his Yahoo questionable tag (wrist), how much usage Randle takes from him, and any trade or extension news.
+**Note.** Experts value him around pick 60 or round 6. Yahoo values him at 17 USD but managers there pay only 4.1 USD on average, while ESPN pays 11.0 USD and our league paid 10 USD last season, so a price of about 10 to 15 USD looks fair for a 3PM, PTS and FT% forward. He fits builds that give up assists or blocks, but on 16 to 18 shots a game his FG% and turnovers are not a help. Early in the season, check how much usage he keeps next to Randle, watch for trade news before the 2027-03-04 deadline, and remember that Brooklyn's 10-game playoff schedule is light.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>23 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

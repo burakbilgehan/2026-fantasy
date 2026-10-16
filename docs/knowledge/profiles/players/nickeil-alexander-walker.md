@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 17 | 4.0 | 58 | 22 | 11.6 | 33 | 1 |
+| 2026-27 | 17 | 5.7 | 58 | 22 | 11.7 | 33 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,42 +20,41 @@
 | FG% | 45.6% | -0.6 | -0.3 | - |
 | FT% | 87.7% | +1.2 | +1.0 | - |
 | 3PM | 3.0 | +1.7 | +1.4 | - |
-| PTS | 19.2 | +0.9 | +0.8 | - |
+| PTS | 19.2 | +0.9 | +0.7 | - |
 | REB | 3.4 | -0.7 | -0.3 | - |
-| AST | 3.5 | +0.1 | -0.2 | - |
-| STL | 1.1 | +0.6 | +0.3 | - |
+| AST | 3.5 | +0.2 | -0.2 | - |
+| STL | 1.1 | +0.7 | +0.3 | - |
 | BLK | 0.5 | -0.2 | +0.7 | - |
 | TO | 1.8 | -0.2 | -0.0 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable (rest). (fact, 2026-10-11; stats)
-- His role, minutes and time on the ball are seen as unchanged from last season and repeatable. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1155), [10-05](https://youtu.be/BiIZsSypx7Y?t=1705), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469))
-- Lloyd projects him 35th in category leagues, well above his Yahoo rank of about 58, and calls him free real estate. Josh also says he goes 20 to 30 spots too low. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1155), [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [10-05](https://youtu.be/BiIZsSypx7Y?t=1705), [10-05](https://youtu.be/BiIZsSypx7Y?t=1716), [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [07-14](https://youtu.be/xHRF06_E9HE?t=333))
-- In auction terms, Josh values him in the mid 20s USD. He got him for 14 USD in a mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3470), [09-29](https://youtu.be/XnIWJyBB0EM?t=1988))
-- Experts expect him to keep his starting spot. Lu Dort is the threat to Atlanta guard minutes, but if Dort starts it would likely be in place of McCollum, not Alexander-Walker. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [08-25](https://youtu.be/H9q2FT3LhNw?t=507))
+- In October mock drafts he went anywhere from the early 40s to the 60s, and 50th in one. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=819), [10-13](https://youtu.be/OsbUAkSeVB4?t=688))
+- Experts call him good value around pick 49 and in rounds 4 to 5. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=709), [10-11](https://youtu.be/uI6umXsE7Vk?t=777), [09-24](https://youtu.be/_vbAP5y182A?t=1016), [09-25](https://youtu.be/4gw4W4RTolY?t=1040))
+- Experts see his role, minutes and time on the ball as unchanged from last season. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1155), [10-05](https://youtu.be/BiIZsSypx7Y?t=1705), [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469))
+- Experts rank him inside the top 50 in category leagues, probably inside the top 40. Lloyd projects him 35th. They say he is going too low in drafts and call him free money. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1155), [09-25](https://youtu.be/4gw4W4RTolY?t=982), [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [07-14](https://youtu.be/xHRF06_E9HE?t=333), [10-05](https://youtu.be/BiIZsSypx7Y?t=1705), [10-05](https://youtu.be/BiIZsSypx7Y?t=1716), [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [09-17](https://youtu.be/ahNxsoU8Hx4?t=850))
+- In one auction mock he went for 14 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3470))
+- Josh values him as a mid 20s USD auction player. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3470))
+- Experts expect him to keep his starting spot next to McCollum, Daniels, Johnson and Okongwu. If Lu Dort starts, he would likely replace McCollum, not Alexander-Walker. Kingston Flemings is not expected to start over him. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [10-04](https://youtu.be/n4KkK-OJjqA?t=445), [08-25](https://youtu.be/H9q2FT3LhNw?t=507), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [09-25](https://youtu.be/4gw4W4RTolY?t=328), [09-21](https://youtu.be/egRrai3Ax38?t=1750), [07-14](https://youtu.be/xHRF06_E9HE?t=305))
 - If Dort starts in place of McCollum, Alexander-Walker should get more shots and assists. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=448))
-- His second-half shooting run last season (about 70% true shooting, about 95% FT, mid-40s from three) will not hold. His pre All-Star level (about 20 points, 58% true shooting) is the better baseline, and that is still very good. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [09-25](https://youtu.be/4gw4W4RTolY?t=996), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [08-25](https://youtu.be/H9q2FT3LhNw?t=632), [07-14](https://youtu.be/xHRF06_E9HE?t=211), [09-21](https://youtu.be/egRrai3Ax38?t=1752))
-- He is projected to start in the Atlanta backcourt with CJ McCollum and Dyson Daniels, at 30-plus minutes. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=328), [08-25](https://youtu.be/H9q2FT3LhNw?t=428), [08-25](https://youtu.be/H9q2FT3LhNw?t=507))
-- In snake drafts, round four or five is good value for him in 9-cat. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [09-24](https://youtu.be/_vbAP5y182A?t=1016))
-- In points leagues his value only matches his ADP. That is why points rankings understate him for category leagues. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [09-01](https://youtu.be/80kfLVnFQ_s?t=886))
-- Atlanta is projected around 46 wins and fourth to eighth in the East. The team was not shutting players down late last season, and resting players is not a concern. (verdict, 2026-09-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902), [07-14](https://youtu.be/xHRF06_E9HE?t=230), [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
-- Atlanta plays 4-4-3 games in our playoff weeks 19 to 21 and has 14 back-to-backs. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
-- With McCollum on the roster for the full season and ball handling shared among several starters, his usage and ball handling may shift. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=601), [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
-- He turned more of his deflections into steals and got more deflections last season, so there may be room for more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
-- Trae Young is gone from Atlanta and the Hawks added no one to replace him, so the conditions behind his big role are still in place. (fact, 2026-07-14; [07-14](https://youtu.be/xHRF06_E9HE?t=305), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- His second-half shooting last season (about 70% true shooting, about 95% FT, 46 to 48% from three) will not hold. Experts use his pre All-Star line (about 20 points, 58% true shooting) as the baseline. About 81% FT and about 40% from three would still be fine. (verdict, 2026-10-04; [09-25](https://youtu.be/4gw4W4RTolY?t=996), [08-25](https://youtu.be/H9q2FT3LhNw?t=632), [08-25](https://youtu.be/H9q2FT3LhNw?t=677), [07-14](https://youtu.be/xHRF06_E9HE?t=211), [10-04](https://youtu.be/n4KkK-OJjqA?t=422), [09-10](https://youtu.be/W-R1dzem32s?t=1011), [09-09](https://youtu.be/7BllEsdNLoM?t=1469), [07-16](https://youtu.be/-y6p5PYLf00?t=1900), [08-09](https://youtu.be/8d--aL_xxwE?t=1301), [09-21](https://youtu.be/egRrai3Ax38?t=1752), [09-17](https://youtu.be/ahNxsoU8Hx4?t=850))
+- His points league value matches his ADP. His extra value is in category leagues. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1040), [09-09](https://youtu.be/7BllEsdNLoM?t=1469))
+- Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs, and resting players is not a concern. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739))
+- Trae Young is gone from Atlanta, and the Hawks added no one to replace him. Atlanta has no true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball handling. (fact, 2026-08-25; [07-14](https://youtu.be/xHRF06_E9HE?t=305), [07-14](https://youtu.be/xHRF06_E9HE?t=230), [08-25](https://youtu.be/H9q2FT3LhNw?t=364))
+- Atlanta is projected to win about 46 games and finish fourth to eighth in the East. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1902))
+- He may have room for more steals. He turned 36.7% of his deflections into steals, up from 29%, and got more deflections in his bigger offensive role. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1450))
 
 **Durable**
-- His best categories are threes, FT% and points. Rebounds and FG% are slightly below the pool, and no category is a weakness. (fact, 2026-10-11; stats)
-- He has been one of the better catch-and-shoot three-point shooters in the NBA for three seasons. About 40% from three on high volume is a reasonable expectation. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=677))
-- His career FT% sat around 77 to 78% before he shot about 90% last season. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1301), [07-16](https://youtu.be/-y6p5PYLf00?t=1900))
-- Experts treat the FT% jump as partly random. About 81% at the line would still be fine. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1301), [07-16](https://youtu.be/-y6p5PYLf00?t=1900))
+- He rarely misses games. (fact, 2026-10-16; stats)
+- He has been one of the better catch-and-shoot three-point shooters in the NBA for three seasons. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=677))
+- Coach Quin Snyder runs an egalitarian, high-movement offense that wants lots of threes and five-out spacing. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
+- Before his jump to about 90% last season, he shot 77 to 80% from the line on low volume. (fact, 2026-08-09; [07-16](https://youtu.be/-y6p5PYLf00?t=1900), [08-09](https://youtu.be/8d--aL_xxwE?t=1301), stats)
 
 **Tags**
-- Current: `expert target` (Lloyd projects 35th vs Yahoo rank 58; Josh values him in the mid 20s USD), `sleeper` (called free money and free real estate at market ADP in the 50s to 60s), `sites disagree on price` (Yahoo rank 58 and avg cost 4 USD vs ESPN rank 33 and avg cost 11.3 USD), `regression risk` (second-half shooting run (about 95% FT, mid-40s from three) will not hold), `usage competition` (shares the ball with CJ McCollum, Jalen Johnson and Dyson Daniels), `questionable` (Yahoo status Q (rest)), `shared ball handling` (no true point guard; ball handling split among McCollum, Alexander-Walker, Johnson and Daniels), `three-point heavy` (Snyder's offense wants lots of threes), `winning team` (about 46 wins, fourth to eighth in the East), `low shutdown risk` (not shutting players down last season; resting not a concern), `deep rotation` (10-man rotation with Dort and Wiggins able to take starter minutes)
-- Durable: `fits every build` (no category flagged weak; strongest in 3PM, FT% and PTS), `category league player` (top 35 to 50 in cats, but points value only matches ADP), `five-out offense` (Quin Snyder's high-movement offense wants many threes)
+- Current: `sleeper` (Yahoo average cost 5.7 USD against a Yahoo value of 17 USD. Experts call him free money.), `expert target` (Lloyd projects him 35th against a Yahoo rank of 58.), `regression risk` (Second-half shooting last season (about 95% FT, 46 to 48% from three) is not expected to hold.), `sites disagree on price` (Yahoo rank 58, ESPN rank 33.), `shared ball handling` (No true point guard. McCollum, Alexander-Walker, Johnson and Daniels share the ball.), `three-point heavy` (Quin Snyder wants lots of threes.), `winning team` (About 46 wins, fourth to eighth in the East.), `low shutdown risk` (Resting players is not a concern in Atlanta.), `good playoff schedule` (4-4-3 games in weeks 19 to 21.)
+- Durable: `category league player` (Points league value matches his ADP; top 40 to 50 value in categories.), `fits every build`, `plays every game`
 
-**Note.** Experts see him as a top 35 to 50 category player. The market prices him far lower: Yahoo average cost is 4 USD against a Yahoo value of 17 USD and an ESPN value of 22 USD, and he went for 1 USD in our league last year. That makes him one of the best value buys in the auction. Bidding up to about 20 USD is supported, and Josh landed him at 14 USD in a mock. He has no weak category, so he fits any build, and he helps 3PM, FT% and PTS most. Early in the season, check three things: whether Dort cuts into his minutes, how his usage holds next to McCollum, and whether his FT% settles nearer 85 to 88% (projected) or drops back toward 80%.
+**Note.** He averages 5.7 USD on Yahoo and 11.7 USD on ESPN. His site values are 17 and 22 USD, and Josh puts him in the mid 20s, so he is a clear value target near 15 to 20 USD. Even with his shooting coming down, the projections (3.0 threes, about 88% FT on 3.5 attempts, 19 points, 1.1 steals) carry no weak category, so he fits any build and helps 3PM and FT% most. Early in the season, check that his FT% stays well above his old 77 to 80% level, that he keeps about 32 minutes, and whether Dort ends up starting in place of McCollum, which would give him more shots.
 
-<sub>29 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>33 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

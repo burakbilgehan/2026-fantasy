@@ -8,61 +8,71 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0d2caea12456",
- "note_count": 24,
- "built_at": "2026-10-11T09:15:12+00:00",
+ "input_sha": "403c6afbd641",
+ "note_count": 29,
+ "built_at": "2026-10-16T08:51:14+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2260742,
-  "duration_ms": 61232,
+  "cost_usd_list": 0.2662822,
+  "duration_ms": 84368,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Garland is the Clippers' projected starting point guard.",
+   "text": "Garland starts at point guard for the Clippers.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:t3",
-    "OBwWCxG9SqM:t5"
+    "OBwWCxG9SqM:t5",
+    "tnzmsYUA4yQ:t3"
    ]
   },
   {
-   "text": "He is expected to be the Clippers' main ball handler and their best player. Experts say a rookie guard will not take over his role.",
+   "text": "Kawhi Leonard, James Harden and Ivica Zubac have left the Clippers. Garland is the highest-usage player left on the roster.",
+   "kind": "fact",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:t0",
+    "JMSLg6yz-M0:p15"
+   ]
+  },
+  {
+   "text": "He should be the main ball handler and compete with Brandon Ingram for the top usage spot. Garland and Ingram are expected to do nearly everything on offense.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p11",
-    "ahNxsoU8Hx4:p16"
-   ]
-  },
-  {
-   "text": "Kawhi Leonard and James Harden are gone, and Garland is the Clippers' highest-usage player still on the roster.",
-   "kind": "fact",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p15",
-    "KLogvUwv_d8:t0"
-   ]
-  },
-  {
-   "text": "Brandon Ingram, his main rival for the top usage spot, is out at the start of the season. Experts expect Garland and Ingram to do nearly everything on offense.",
-   "kind": "fact",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t5",
-    "xHRF06_E9HE:p11",
     "ahNxsoU8Hx4:t0"
    ]
   },
   {
-   "text": "After the 2025-26 deadline he played about 30 minutes for the Clippers and averaged about 20 points and 6.5 to 7 assists on 29% usage, shooting 44/86/47. That made him 37th per game, up from 97th before the deadline.",
+   "text": "Brandon Ingram and Bradley Beal are out injured now.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t5"
+   ]
+  },
+  {
+   "text": "Experts expect around 30% usage and at least the output he had with the Clippers last season, possibly more with Kawhi gone.",
+   "kind": "verdict",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p10",
+    "tnzmsYUA4yQ:p1",
+    "JMSLg6yz-M0:p15",
+    "ME-r173X5b0:p20"
+   ]
+  },
+  {
+   "text": "With the Clippers last season he played about 30 minutes a night with about 20 points and 7 assists on 29% usage, and ranked 37th per game after the deadline.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -72,19 +82,7 @@
    ]
   },
   {
-   "text": "Experts expect at least that production this season, with more usage and about 32 minutes if healthy. They accept a slightly lower 3P% in exchange for the bigger role.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:p1",
-    "xHRF06_E9HE:p12",
-    "ME-r173X5b0:p20",
-    "JMSLg6yz-M0:p15"
-   ]
-  },
-  {
-   "text": "A toe injury limited him last season, including while he was still in Cleveland. He is expected to be ready for opening night.",
+   "text": "A toe injury limited him last season.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -94,7 +92,25 @@
    ]
   },
   {
-   "text": "Experts call him likely top 30 on about 30% usage, and possibly top 20 if fully healthy.",
+   "text": "He is expected to be ready for opening night. The Clippers need 70 or more games from him.",
+   "kind": "verdict",
+   "date": "2026-08-22",
+   "until": "",
+   "sources": [
+    "KLogvUwv_d8:p14"
+   ]
+  },
+  {
+   "text": "If healthy he should play about 32 minutes. A small drop in three-point percentage is an acceptable trade for more minutes and usage.",
+   "kind": "verdict",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p12"
+   ]
+  },
+  {
+   "text": "Experts see a likely top 30 player, with a top 20 ceiling if he stays healthy.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -105,74 +121,91 @@
    ]
   },
   {
-   "text": "His market price is too low. Experts would happily draft him in the 40s or in round 3, and call taking him in the 30s risky. His Yahoo ADP around 58 to 65 and his ESPN ADP of 74 to 90 are both seen as too late.",
+   "text": "Experts call him good value in the 40s or round 3. Taking him in the 30s is risky.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p8",
+    "w66x_I_MaQ8:p15",
+    "ENizLoE6pzI:p9",
+    "uI6umXsE7Vk:p23",
+    "tnzmsYUA4yQ:p3",
+    "n4KkK-OJjqA:p11",
+    "ahNxsoU8Hx4:p15"
+   ]
+  },
+  {
+   "text": "Experts say his market ADP is too late for his quality on both Yahoo and ESPN.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
-    "tnzmsYUA4yQ:p3",
-    "n4KkK-OJjqA:p11",
-    "ahNxsoU8Hx4:p15",
+    "7BllEsdNLoM:p13",
     "egRrai3Ax38:p12",
     "egRrai3Ax38:p13",
-    "7BllEsdNLoM:p13",
-    "OdDkXFhoKsc:p36"
+    "ahNxsoU8Hx4:p15",
+    "n4KkK-OJjqA:p11"
    ]
   },
   {
-   "text": "In an expert auction mock he went for 25 USD, which Josh called a little under value. Josh's max was 30 USD, which he admitted is probably aggressive. In a 9-cat snake mock he fell to pick 48.",
+   "text": "In an auction mock Josh set a max of 30 USD, which he called aggressive. A price of 25 USD was a little under his value.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p9",
-    "_vbAP5y182A:p26"
+    "Q6YlQDvD-aY:p9"
    ]
   },
   {
-   "text": "Experts call him the best fantasy target on the Clippers.",
+   "text": "He is the Clippers' best player and best fantasy target. A rookie guard will not take his role.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
    "sources": [
+    "ahNxsoU8Hx4:p16",
     "tnzmsYUA4yQ:p4"
    ]
   },
   {
-   "text": "The Clippers might rest him or ease off late in the season because they have no incentive to win or lose. Experts call this risk small and say his value outweighs it.",
+   "text": "The Clippers could be one of the worst teams and might rest him late in the season, but experts call that risk small and say his value outweighs it.",
    "kind": "verdict",
-   "date": "2026-10-04",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p10",
     "n4KkK-OJjqA:p12",
     "n4KkK-OJjqA:t0",
-    "tnzmsYUA4yQ:t0"
+    "hviT4hzYNME:p11",
+    "D4dP5JvX1oo:p8",
+    "uI6umXsE7Vk:p23",
+    "sDzeYdUhJDI:t9"
    ]
   },
   {
-   "text": "The Clippers play 4-3-4 games in our playoff weeks 19 to 21 and have 13 back-to-backs this season, one of the lowest totals in the league.",
+   "text": "The Clippers do not control their own draft pick, so tanking does not help them.",
+   "kind": "fact",
+   "date": "2026-10-04",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:t0",
+    "KLogvUwv_d8:t1",
+    "sDzeYdUhJDI:t9"
+   ]
+  },
+  {
+   "text": "The Clippers play 4-3-4 games in our playoff weeks and have 13 back-to-backs, one of the lowest totals in the league.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
    ]
-  },
-  {
-   "text": "Experts expect the Clippers to have one of the worst rosters in the league.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t5",
-    "sDzeYdUhJDI:t9"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He has persistent toe and knee problems and has also broken his face.",
+   "text": "He has persistent toe and knee problems and has also had a broken face.",
    "kind": "fact",
    "date": "2026-10-04",
    "until": "",
@@ -182,7 +215,7 @@
    ]
   },
   {
-   "text": "Experts say his production drops for a long time after any injury, so he is hard to trust unless he is fully fit.",
+   "text": "His production drops for a long time after any injury, so he is hard to trust unless he is fully fit.",
    "kind": "verdict",
    "date": "2026-10-04",
    "until": "",
@@ -192,7 +225,7 @@
    ]
   },
   {
-   "text": "Experts call him an electric offensive player and a below-average defender.",
+   "text": "He is an electric offensive player and a below-average defender.",
    "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
@@ -201,22 +234,21 @@
    ]
   },
   {
-   "text": "Assists are his standout category. He also helps clearly in threes, points, FT% and steals.",
+   "text": "Assists are his standout category and a league outlier. He also helps in threes, points and FT%.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "Turnovers are his weak category, and he is a poor rebounder even for a guard.",
+   "text": "Turnovers are a clear weakness, high even for a guard.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "stats",
-    "ME-r173X5b0:p20"
+    "stats"
    ]
   }
  ],
@@ -224,7 +256,7 @@
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "About 7.3 assists projected",
+   "detail": "about 7.3 assists projected",
    "until": "",
    "sources": [
     "stats"
@@ -234,7 +266,7 @@
   {
    "name": "high TO",
    "channel": "durable",
-   "detail": "About 3.1 turnovers projected",
+   "detail": "about 3.1 turnovers projected",
    "until": "",
    "sources": [
     "stats"
@@ -254,7 +286,7 @@
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "Persistent toe and knee problems, plus a broken face. Production drops for a long time after injuries.",
+   "detail": "persistent toe and knee problems; slow to recover form after injuries",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:p0",
@@ -265,70 +297,68 @@
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Toe injury, 45 games in 2025-26",
+   "detail": "toe injury, 45 games",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p14",
-    "tnzmsYUA4yQ:p1"
+    "tnzmsYUA4yQ:p1",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Main ball handler. About 30% usage and 32 minutes expected with Kawhi and Harden gone.",
+   "detail": "highest-usage player left after Kawhi Leonard and James Harden left",
+   "until": "",
+   "sources": [
+    "JMSLg6yz-M0:p15",
+    "ME-r173X5b0:p20",
+    "tnzmsYUA4yQ:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "shares top usage with Brandon Ingram",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p11",
-    "xHRF06_E9HE:p12",
-    "ME-r173X5b0:p20",
-    "JMSLg6yz-M0:p15"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "Kawhi Leonard and James Harden gone. Ingram out at the start of the season.",
-   "until": "",
-   "sources": [
-    "KLogvUwv_d8:t0",
-    "JMSLg6yz-M0:p15",
-    "tnzmsYUA4yQ:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Experts target him in the 40s or round 3 and project him as likely top 30",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:p2",
-    "tnzmsYUA4yQ:p3",
-    "n4KkK-OJjqA:p10",
-    "n4KkK-OJjqA:p11",
-    "ahNxsoU8Hx4:p15"
+    "ahNxsoU8Hx4:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Yahoo ADP around 58 to 65 and ESPN ADP 74 to 90, both seen as too late",
+   "detail": "Yahoo ADP around 58 to 65, experts see top 30",
    "until": "",
    "sources": [
     "egRrai3Ax38:p12",
-    "egRrai3Ax38:p13",
-    "7BllEsdNLoM:p13",
-    "ahNxsoU8Hx4:p15"
+    "ahNxsoU8Hx4:p15",
+    "n4KkK-OJjqA:p10",
+    "n4KkK-OJjqA:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "target in the 40s or round 3",
+   "until": "",
+   "sources": [
+    "tnzmsYUA4yQ:p3",
+    "tnzmsYUA4yQ:p4",
+    "D4dP5JvX1oo:p8",
+    "7BllEsdNLoM:p13"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 19 USD vs ESPN value 9 USD. ESPN ADP 90 vs ESPN rank 53.",
+   "detail": "Yahoo value 19 USD vs ESPN value 9 USD",
    "until": "",
    "sources": [
     "stats",
@@ -339,7 +369,7 @@
   {
    "name": "shutdown risk",
    "channel": "current",
-   "detail": "Clippers might rest him late in the season. Experts call the risk small.",
+   "detail": "Clippers might rest him late; experts call the risk small",
    "until": "",
    "sources": [
     "n4KkK-OJjqA:p10",
@@ -349,9 +379,22 @@
    "new_meaning": ""
   },
   {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "several experts expect one of the worst teams; Darian predicts 42-40",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t9",
+    "tnzmsYUA4yQ:t5",
+    "Rqb5GdrSweY:t3",
+    "KLogvUwv_d8:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "4-3-4 games in weeks 19 to 21",
+   "detail": "4-3-4 in weeks 19 to 21",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
@@ -361,25 +404,14 @@
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, one of the lowest totals in the league",
+   "detail": "13 back-to-backs",
    "until": "",
    "sources": [
     "tnzmsYUA4yQ:t6"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "bottom team",
-   "channel": "current",
-   "detail": "One of the worst rosters, with many injuries",
-   "until": "",
-   "sources": [
-    "tnzmsYUA4yQ:t5",
-    "sDzeYdUhJDI:t9"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Experts see Garland as a top 30 to top 50 player who costs only 7 USD on average in Yahoo drafts, 13.7 USD on ESPN, and went for 11 USD in our league last season. An expert auction mock had him at 25 USD, so a bid of about 20 to 25 USD is fair for a likely top 30 producer. He fits best in punt TO builds that want assists, threes and FT% from a guard. Early on, check that his toe holds up, that he plays around 32 minutes, and how much usage he gets while Ingram is out.",
+ "note": "Garland is an assist-led guard who also gives threes, points and FT%, but his turnovers are high. That makes him a natural fit for punt TO builds. Yahoo values him at 19 USD with an average cost of only 8 USD, ESPN values him at 9 USD, and he went for 11 USD in our league last season. Experts see a top 30 player at a round 3 price, so paying in the high teens is reasonable and 25 USD is about the ceiling. Early in the season, check that his toe holds up, that he plays at least 32 minutes, and how his usage changes while Ingram is out and after he returns.",
  "rejected": []
 }

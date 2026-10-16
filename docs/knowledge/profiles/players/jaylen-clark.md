@@ -19,7 +19,7 @@
 | FG% | 40.8% | -0.4 | -0.3 | - |
 | FT% | 70.8% | -0.3 | -0.6 | - |
 | 3PM | 0.4 | -1.2 | -1.6 | - |
-| PTS | 3.9 | -1.8 | -1.8 | league outlier, weak |
+| PTS | 3.9 | -1.7 | -1.8 | league outlier, weak |
 | REB | 1.7 | -1.4 | -1.6 | - |
 | AST | 0.7 | -1.3 | -1.5 | - |
 | STL | 0.7 | -0.8 | -0.9 | - |
@@ -29,21 +29,22 @@
 </details>
 
 **Current**
-- He is not a draft target in our 144-player auction. Both sites rank him well outside the top 300 and value him at 0 USD. (verdict, 2026-10-11; stats)
-- Minnesota has moved to small, guard-heavy lineups, is short on size and has a thin bench. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=82), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- He could get minutes in Minnesota's small lineups. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=828))
-- He re-signed with Minnesota on a 3-year deal worth 10 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1022))
+- With his projected bench role and low output, he is not a draft target in a 12-team league. (verdict, 2026-10-16; stats)
+- With a March 28 end, Minnesota plays 4, 2 and 4 games in our playoff weeks, so the semifinal week has only two games. The team has the league minimum of 13 back-to-backs. (fact, 2026-10-13; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [10-13](https://youtu.be/EogBYa24Gto?t=369), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [08-16](https://youtu.be/gf_6GveiAls?t=1635))
+- Minnesota has moved to smaller, guard-heavy lineups and is short on size and wing depth. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [10-09](https://youtu.be/cFV24VgxyCY?t=82), [07-01](https://youtu.be/W3THnI7wWdA?t=828))
+- He could get minutes when Minnesota goes to small lineups. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=828))
+- He re-signed with Minnesota for 3 years and 10 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1022))
 
 **Durable**
-- His scoring is far below the top 250 pool. (fact, 2026-10-11; stats)
-- He is a very good defender who gets steals but contributes little else. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1714), [07-01](https://youtu.be/W3THnI7wWdA?t=1022))
+- His scoring is far below the top 250 pool, so he gives almost nothing in points. (fact, 2026-10-16; stats)
+- He is a very good defender who adds steals and little else. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1714), [07-01](https://youtu.be/W3THnI7wWdA?t=1022))
 - He cannot really shoot. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=828), [07-01](https://youtu.be/W3THnI7wWdA?t=1022))
 - He plays like an undersized power forward and works as a cutter in the dunker spot. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=828))
 
 **Tags**
-- Current: `small-ball lineups` (Could get minutes as an undersized four in Minnesota's small lineups), `thin rotation` (Minnesota's bench is thin, so an injury could open minutes for him)
-- Durable: none
+- Current: `small-ball lineups` (Minnesota plays guard-heavy lineups; he could get minutes in small lineups), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21; two-game semifinal week), `few back-to-backs` (league minimum 13 back-to-backs)
+- Durable: `elite defender` (very good defender and steals contributor with little offense)
 
-**Note.** Clark is not draftable in our league. Yahoo ranks him 358 and ESPN 321, both value him at 0 USD, and the projections give him about 13 minutes and 3.9 points. His only real asset is defense and some steals (0.7 per game), and that is still below the top 250 pool. Leave him on waivers. Only check him if a Minnesota injury gives him starter minutes in the small lineups.
+**Note.** Both sites value him at 0 USD (Yahoo rank 358, ESPN rank 321). He was not drafted in our league last season, and he sits well outside the 144 players we draft. His projections are about 3.9 points and 0.7 steals in about 13 minutes, which gives our 9-cat format almost nothing beyond a few turnovers saved. Early in the season, only check whether Minnesota's small lineups push his minutes well above 13; until then he stays on waivers.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

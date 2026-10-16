@@ -11,14 +11,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 145 | 0 | 0.5 | 214 | 22 |
+| 2026-27 | 0 | 1.0 | 146 | 0 | 0.5 | 214 | 22 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 50.7% | +0.6 | +0.7 | - |
-| FT% | 85.5% | +1.6 | +1.8 | - |
+| FT% | 85.5% | +1.6 | +1.9 | - |
 | 3PM | 0.7 | -0.9 | -1.1 | weak for his position (punt fit) |
 | PTS | 17.6 | +0.6 | +0.7 | - |
 | REB | 4.4 | -0.3 | -0.4 | - |
@@ -30,24 +30,24 @@
 </details>
 
 **Current**
-- He is 37 and recovering from a torn ACL. He will not be ready for the start of the season. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=262), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- Christmas is the earliest realistic return. January is the most likely date, and one expert said it could be as late as February. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221))
-- When he returns, expect a minutes limit and no back-to-back games. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-16](https://youtu.be/gf_6GveiAls?t=858))
-- The Warriors have 15 back-to-backs, tied for second most in the league. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- The Warriors schedule is good for fantasy playoffs ending March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- Draft him only after round 12 as an IL stash, and only if you have a free IL slot. Drop him once you need that slot. Taking him around round 10 is a bad pick. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1451), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157))
-- The Warriors are reportedly treating this season as a gap year. They are watching their lottery odds and may rest veterans. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- Experts expect him back around January. The range is Christmas at the earliest to February. On 2026-10-13 Josh said he does not know when Butler will play. (verdict, 2026-10-13; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [10-13](https://youtu.be/OsbUAkSeVB4?t=1611), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
+- His return is expected to take wing minutes from other Warriors and reshape the rotation. (verdict, 2026-10-12; [07-14](https://youtu.be/xHRF06_E9HE?t=1495), [07-14](https://youtu.be/xHRF06_E9HE?t=1520), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508))
+- He is 37 and recovering from a torn ACL. He will not be ready for the start of the season. Yahoo lists him as out (knee). (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=262), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [07-14](https://youtu.be/xHRF06_E9HE?t=1495), stats)
+- Once he returns, experts expect limited minutes and no back-to-back games. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1399), [08-22](https://youtu.be/LXZLrL90crE?t=1015), [08-16](https://youtu.be/gf_6GveiAls?t=858))
+- The Warriors have 15 back-to-backs, tied for the second most in the league. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- The Warriors schedule is good for fantasy playoffs that end March 28. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- Only take him with your last pick, after round 12, and only if you have a free IL slot. Drop him once you need that slot. Taking him in round 10 was called an insane pick. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1451), [09-07](https://youtu.be/E-KmhvyZ2CU?t=2221), [08-11](https://youtu.be/OdDkXFhoKsc?t=2770), [09-15](https://youtu.be/KPdD91Oo8-U?t=2157))
+- The team may care about lottery odds and rest veterans, which adds rest risk for a 37-year-old coming off an ACL tear. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166))
+- The Warriors are reportedly treating this season as a gap year. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=140))
 
 **Durable**
-- He makes few threes for a forward. That makes threes his weakest category. (fact, 2026-10-11; stats)
-- His best categories are FT% on solid volume, assists for a forward, and steals. (fact, 2026-10-11; stats)
-- He has missed many games in each of the last three seasons. (fact, 2026-10-11; stats)
-- His game relies on IQ, cutting, physicality and drawing free throws, not on explosiveness. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1168))
+- When he plays, his value comes from FT% on good volume, steals and assists for a forward. He makes few threes for his position. (fact, 2026-10-16; stats)
+- His game is built on IQ, cutting, physicality and drawing free throws, not on explosiveness. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=1168))
 
 **Tags**
-- Current: `injured now` (Torn ACL, Yahoo status O (Knee)), `IL stash` (Last-round pick only, and only with a free IL slot. Drop him when you need the slot.), `slow start` (Out until about Christmas to January), `minutes limit` (Limited minutes after his ACL return), `back-to-back risk` (Expected to sit back-to-backs after he returns), `many back-to-backs` (15 back-to-backs, tied for second most), `good playoff schedule` (Good for playoffs ending March 28), `tank risk` (Gap year, worried about lottery odds), `shutdown risk` (The team may rest veterans in a throwaway season), `injury last season` (Played 38 games)
-- Durable: `age decline watch` (37 years old and coming off a torn ACL), `punt 3PM fit` (About 0.7 threes per game)
+- Current: `injured now` (recovering from torn ACL, Yahoo status O (knee); until return expected around January), `IL stash` (last-round stash only if an IL slot is free; until return expected around January), `waiver watch` (experts say after round 12; our league drafts 12 rounds), `injury last season` (38 games in 2025-26, torn ACL), `minutes limit` (expected limited minutes after ACL return), `back-to-back risk` (not expected to play back-to-backs after return), `many back-to-backs` (Warriors have 15 back-to-backs), `good playoff schedule` (good for a March 28 end), `tank risk` (Warriors reportedly see a gap year and may rest veterans)
+- Durable: `age decline watch` (37 and coming off a torn ACL), `punt 3PM fit`
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 145, ESPN rank 214). Our league paid 22 USD for him last season, but he is now a 1 USD final pick at most, and only for a team with a free IL slot. When healthy he helps FT%, steals and assists from a forward and fits punt 3PM builds. Check his return date around Christmas or January, his minutes once he is back, and whether a Warriors team in a gap year starts resting veterans before our playoffs end on March 28.
+**Note.** He went for 22 USD in our league last season, but now Yahoo prices him at 1 USD (rank 146) and ESPN at 0.5 USD (rank 214). He is out with a torn ACL until about January and is expected to come back on limited minutes with no back-to-backs. At most he is a 1 USD last pick for a team with a free IL slot, more likely a waiver add. When he plays he helps FT%, steals and assists and fits punt 3PM builds. Around Christmas, check his return date, his minutes and whether the Warriors start resting veterans.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

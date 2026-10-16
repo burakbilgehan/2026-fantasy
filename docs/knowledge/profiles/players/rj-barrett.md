@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 1.1 | 132 | 0 | 1.7 | 139 | 1 |
+| 2026-27 | 0 | 1.4 | 134 | 0 | 1.8 | 139 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,7 +20,7 @@
 | FG% | 47.8% | -0.0 | +0.3 | - |
 | FT% | 68.7% | -1.9 | -2.4 | league outlier, weak |
 | 3PM | 1.7 | +0.3 | +0.1 | - |
-| PTS | 18.5 | +0.8 | +0.8 | - |
+| PTS | 18.5 | +0.8 | +0.7 | - |
 | REB | 5.6 | +0.2 | +0.6 | - |
 | AST | 3.5 | +0.1 | +0.1 | - |
 | STL | 0.7 | -0.7 | -0.8 | - |
@@ -30,26 +30,29 @@
 </details>
 
 **Current**
-- He is expected to lose usage to Kawhi Leonard. One expert calls him the biggest loser of the trade. (verdict, 2026-10-08; [06-30](https://youtu.be/JMSLg6yz-M0?t=311), [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [10-08](https://youtu.be/WXO8MfQfzo0?t=1526))
-- He should start and play 30 or more minutes. Kawhi Leonard's load management helps him, and he should step up when Kawhi is out. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715), [08-20](https://youtu.be/s28HvC2grAk?t=1745))
-- In category leagues, experts rank him outside the top 130 and say a pick around 107 is too early. Around pick 120, one expert is fine with drafting him. (verdict, 2026-10-02; [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [10-02](https://youtu.be/ZYllcj4o6_A?t=2715))
-- Toronto traded for Kawhi Leonard and lost Brandon Ingram. Barrett is a projected starter next to Quickley, Leonard, Barnes and Poeltl. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [08-20](https://youtu.be/s28HvC2grAk?t=496), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
-- By the numbers, he was Toronto's most impactful offensive player last season. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1745))
-- One expert expects him to finish at an impressive level next to Kawhi Leonard and Scottie Barnes. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1669))
-- His contract situation could make him a trade candidate by the deadline if Toronto starts the season badly. (verdict, 2026-08-20, until trade deadline; [08-20](https://youtu.be/s28HvC2grAk?t=1680))
-- Toronto is projected to win about 52 games. The team is not deep after its top seven. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), [08-20](https://youtu.be/s28HvC2grAk?t=2004))
-- Toronto has 15 back-to-backs, with three of them in the playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- In category leagues he ranks outside the top 130. Picks around 90 to 107 are called too early. (verdict, 2026-10-10; [08-30](https://youtu.be/Alwse2uXzD4?t=1182), [10-08](https://youtu.be/WXO8MfQfzo0?t=1526), [10-10](https://youtu.be/hviT4hzYNME?t=1533))
+- He loses usage to Kawhi Leonard and will have the ball less, which adds to his efficiency concerns. (verdict, 2026-10-08; [06-30](https://youtu.be/JMSLg6yz-M0?t=311), [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [10-08](https://youtu.be/WXO8MfQfzo0?t=1526))
+- He should start and play 30 or more minutes. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715))
+- Kawhi Leonard's load management helps him. He should step up on the nights Kawhi sits. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715), [08-20](https://youtu.be/s28HvC2grAk?t=1745))
+- Josh is very okay drafting him around pick 120. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2715))
+- Toronto traded Brandon Ingram away and added Kawhi Leonard. (fact, 2026-09-10; [06-30](https://youtu.be/JMSLg6yz-M0?t=566), [09-10](https://youtu.be/dlo7L8Ru91A?t=473))
+- He is a projected starter for Toronto next to Quickley, Leonard, Barnes and Poeltl, and he is in the expected closing five. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Sean expects his finishing next to Kawhi and Scottie Barnes to reach impressive levels this season. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1669))
+- Because of his contract situation, he could become a trade candidate if the season starts badly. (verdict, 2026-08-20, until 2027-03-04 trade deadline; [08-20](https://youtu.be/s28HvC2grAk?t=1680))
+- Toronto is projected to win 52 games, or 56 to 57 if Kawhi plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- Toronto is not deep beyond a solid top seven. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=2004))
+- Toronto has 15 back-to-backs, with three of them in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**
-- His FT% is low for his volume of free throws, which clearly hurts a team's FT%. (fact, 2026-10-11; stats)
-- He is worth much more in points leagues than in category leagues. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1708), [08-30](https://youtu.be/Alwse2uXzD4?t=1241), [08-30](https://youtu.be/Alwse2uXzD4?t=1182))
-- He is mainly a scorer. His steals and blocks are low and his efficiency is modest. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1241), [06-30](https://youtu.be/JMSLg6yz-M0?t=311), stats)
-- He has limitations on defense. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1720))
+- His FT% is a clear weakness on real volume and hurts a team's FT%. (fact, 2026-10-16; stats)
+- He is worth clearly more in points leagues than in category leagues. (verdict, 2026-09-10; [08-30](https://youtu.be/Alwse2uXzD4?t=1241), [09-10](https://youtu.be/dlo7L8Ru91A?t=1708))
+- He is mainly a scorer with low defensive stats and lower efficiency. (fact, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1241), stats)
+- He has limitations, especially on defense. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1720))
 
 **Tags**
-- Current: `usage competition` (Shares the ball with Kawhi Leonard and Scottie Barnes), `role down` (Less usage after the Kawhi Leonard trade), `trade risk` (Contract situation; possible trade by the deadline if the season starts badly; until trade deadline), `winning team` (About 52 wins projected), `thin rotation` (Little depth after the top seven)
-- Durable: `FT% liability` (About 69% FT on 4 to 5 attempts per game), `points league player` (Tier 7 in categories, tier 5 in points leagues)
+- Current: `role down` (Less ball and usage after Kawhi Leonard's arrival), `usage competition` (Shares the ball with Kawhi Leonard and Scottie Barnes), `trade risk` (Contract situation could make him a deadline trade candidate if Toronto starts badly; until 2027-03-04 trade deadline), `winning team` (Toronto projected for 52 wins), `thin rotation` (Solid top seven, little depth after that), `bad playoff schedule` (Three Toronto back-to-backs in the fantasy playoffs)
+- Durable: `FT% liability` (About 68.7% projected FT% on about 4.6 FTA per game), `points league player` (Tier 5 in points leagues, tier 7 in categories)
 
-**Note.** Barrett is a 1 USD player on both Yahoo and ESPN. He also went for 1 USD in our league last season, and his ranks of 132 to 139 put him near the edge of the 144 players drafted. His value is points (18.5 projected) with a few threes and rebounds. His 68.7% FT and weak steals and blocks limit him, so he fits best as a cheap last-dollar scorer on a team punting FT%. Early in the season, check how much usage he keeps next to Kawhi Leonard and whether his minutes rise when Kawhi rests.
+**Note.** Barrett is priced as a last-roster-spot player: about 1 to 2 USD on Yahoo and ESPN, ranked 134 to 139, and he went for 1 USD in our league last season. That price fits a starter who plays 30 minutes and scores about 18 to 20 points. He is a points-league player, though. His 68.7% FT% hurts in our format, and his steals and blocks are low, so do not pay above 1 to 2 USD. Early in the season, check how much of the ball he gets next to Kawhi and how he produces on Kawhi's rest nights. Also keep in mind that Toronto has three back-to-backs during our playoffs.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

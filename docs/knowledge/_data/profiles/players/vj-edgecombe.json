@@ -8,30 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "21560635c317",
- "note_count": 12,
- "built_at": "2026-10-11T09:24:26+00:00",
+ "input_sha": "8eb55726290e",
+ "note_count": 15,
+ "built_at": "2026-10-16T09:19:34+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1755822,
-  "duration_ms": 44164,
+  "cost_usd_list": 0.1789542,
+  "duration_ms": 46270,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start at guard next to Tyrese Maxey, Jaylen Brown, LeBron James and Joel Embiid.",
+   "text": "He is projected to start at guard with Maxey, Jaylen Brown, LeBron James and Embiid.",
    "kind": "fact",
-   "date": "2026-08-06",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "KqTKVExQGLo:t0",
     "gTsfR5PxAMY:t0",
     "gTsfR5PxAMY:p19"
    ]
   },
   {
-   "text": "If the starting lineup does not fit, he is the starter most likely to move to the bench.",
+   "text": "If the lineup does not fit, he is the starter most likely to move to the bench.",
    "kind": "verdict",
    "date": "2026-08-06",
    "until": "",
@@ -40,106 +41,90 @@
    ]
   },
   {
-   "text": "Philadelphia added Jaylen Brown and LeBron James and has a healthier Joel Embiid, so the ball is shared among several high-usage stars.",
-   "kind": "fact",
-   "date": "2026-09-04",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:t1",
-    "gerS7ibpaJo:t4",
-    "sTtFUy7IoJI:t10",
-    "7BllEsdNLoM:t3"
-   ]
-  },
-  {
-   "text": "Experts expect his usage to drop, likely below 20% and around 18%, because of the usage squeeze in Philadelphia.",
+   "text": "Experts expect him to be the third option, not the second. Usage could fall to about 18 to 20 percent, and his points and assists should drop with Brown, LeBron and a healthier Embiid around him.",
    "kind": "verdict",
-   "date": "2026-09-10",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "KqTKVExQGLo:p18",
+    "KqTKVExQGLo:p19",
     "Rqb5GdrSweY:p11",
     "Rqb5GdrSweY:t9",
     "7BllEsdNLoM:p34",
     "P6TNP-g0wzY:p5",
+    "gerS7ibpaJo:p11",
     "gerS7ibpaJo:t4",
     "W-R1dzem32s:p35"
    ]
   },
   {
-   "text": "Nick Nurse should still give him about 34 minutes a night, which keeps his steals useful.",
+   "text": "Nick Nurse should still give him about 34 minutes, which keeps his steals strong.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
    "sources": [
-    "7BllEsdNLoM:p34"
+    "7BllEsdNLoM:p34",
+    "7BllEsdNLoM:t2"
    ]
   },
   {
-   "text": "Experts expect him to fall short of last season's top 70 finish. One sees him ending up around 110th, another says he will drop but not as far as his ESPN ADP of 112.",
+   "text": "Expect big ups and downs from week to week as Embiid, LeBron and others move in and out of the lineup.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "OsbUAkSeVB4:p23",
+    "ahNxsoU8Hx4:t5"
+   ]
+  },
+  {
+   "text": "Experts doubt he can match last season's top 70 finish. One sees a risk he ends up around 110th, but another says he will not fall as far as an ESPN ADP of 112.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p23",
-    "ahNxsoU8Hx4:p66",
     "gerS7ibpaJo:p11",
-    "7BllEsdNLoM:p34"
+    "7BllEsdNLoM:p34",
+    "ahNxsoU8Hx4:p66"
    ]
   },
   {
-   "text": "Experts call his Yahoo ADP in the 60s and a 13 USD auction price too high. They prefer him around picks 80 to 105, and the newest call puts his auction value around 10 USD.",
+   "text": "Draft him in the 90s, not in the 60s or 70s. At around pick 104 he is a value.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:p19",
+    "_vbAP5y182A:p47",
+    "gerS7ibpaJo:p11",
+    "QbdrhJd7LiA:p23"
+   ]
+  },
+  {
+   "text": "In an auction he is worth about 10 USD. A price of 13 USD is too high.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
     "Q6YlQDvD-aY:p86",
-    "_vbAP5y182A:p47",
-    "QbdrhJd7LiA:p23",
-    "gerS7ibpaJo:p11",
-    "7BllEsdNLoM:p34"
+    "gerS7ibpaJo:p11"
    ]
   },
   {
-   "text": "Philadelphia is projected to win about 51 to 52 games. The same preview expects growing pains in October and November and load management for the stars.",
-   "kind": "verdict",
-   "date": "2026-08-06",
-   "until": "",
-   "sources": [
-    "gTsfR5PxAMY:t4"
-   ]
-  },
-  {
-   "text": "The 76ers have 13 back-to-backs this season, three of them in the fantasy playoffs.",
+   "text": "Philadelphia plays 3-4-4 games in our playoff weeks (March 28 end) and has only 13 back-to-backs this season. One note says three of them fall in the fantasy playoffs.",
    "kind": "fact",
-   "date": "2026-08-16",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "KqTKVExQGLo:t3",
     "gf_6GveiAls:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Steals are his best category, and he rebounds well for a guard.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats",
-    "7BllEsdNLoM:p34"
-   ]
-  },
-  {
-   "text": "FG% is his weakest category. He shoots about 44% on 13 to 14 attempts, a mild drag.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His rookie season beat expectations. He came in with an ADP of 97, finished 62nd in category leagues and was top 50 late in the season.",
+   "text": "He beat expectations as a rookie. His ADP was 97 and he finished 62nd in category leagues. Late in the season he was top 50.",
    "kind": "fact",
    "date": "2026-09-03",
    "until": "",
@@ -148,14 +133,13 @@
    ]
   },
   {
-   "text": "Nick Nurse gives his starters, and his guards in particular, very heavy minutes. He also mixes and staggers lineups when things do not fit.",
+   "text": "Steals are his best category. FG% is his weakest, a little below the pool.",
    "kind": "fact",
-   "date": "2026-09-09",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:t2",
-    "7BllEsdNLoM:t2",
-    "W-R1dzem32s:t7"
+    "stats",
+    "7BllEsdNLoM:p34"
    ]
   }
  ],
@@ -163,44 +147,32 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Maxey, Embiid, LeBron James and Jaylen Brown",
+   "detail": "Third option behind Maxey, Jaylen Brown, LeBron James and Embiid",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p11",
+    "KqTKVExQGLo:p19",
     "P6TNP-g0wzY:p5",
-    "gerS7ibpaJo:t4",
-    "7BllEsdNLoM:p34"
+    "Rqb5GdrSweY:p11",
+    "W-R1dzem32s:p35"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Usage projected to fall to about 18%",
+   "detail": "Usage projected near 18 to 20 percent, with fewer points and assists",
    "until": "",
    "sources": [
+    "KqTKVExQGLo:p18",
     "7BllEsdNLoM:p34",
-    "Rqb5GdrSweY:p11",
     "gerS7ibpaJo:p11"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "concentrated usage",
-   "channel": "current",
-   "detail": "Maxey, Embiid, LeBron James and Jaylen Brown",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:t10",
-    "8d--aL_xxwE:t0",
-    "gerS7ibpaJo:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "At a Yahoo ADP of 63 to 66 or a 13 USD price",
+   "detail": "At an ADP of 63 to 66 or a 13 USD auction price",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p23",
@@ -210,48 +182,39 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo ADP around 63, ESPN ADP 112",
+   "name": "heavy starter minutes",
+   "channel": "durable",
+   "detail": "Nick Nurse plays his guards heavy minutes. About 34 projected for him.",
    "until": "",
    "sources": [
-    "QbdrhJd7LiA:p23",
-    "ahNxsoU8Hx4:p66"
+    "7BllEsdNLoM:t2",
+    "gTsfR5PxAMY:t2",
+    "7BllEsdNLoM:p34"
    ],
    "new_meaning": ""
   },
   {
-   "name": "heavy starter minutes",
-   "channel": "durable",
-   "detail": "Nick Nurse plays his starters and guards heavy minutes",
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "13 back-to-backs",
    "until": "",
    "sources": [
-    "gTsfR5PxAMY:t2",
-    "7BllEsdNLoM:t2"
+    "KqTKVExQGLo:t3",
+    "gf_6GveiAls:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 51 to 52 wins",
+   "detail": "About 51 to 52 wins projected",
    "until": "",
    "sources": [
     "gTsfR5PxAMY:t4"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "Three back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t8"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Experts price Edgecombe around 10 USD in our auction, which matches his Yahoo value of 10 USD. Average costs are lower (6.9 USD on Yahoo, 3.8 USD on ESPN), so a bid of 7 to 10 USD is fair, but do not chase him at his Yahoo ADP in the 60s. He has no weak category, his steals are a plus and he rebounds well for a guard. Early in the season, check that he keeps his starting job, gets about 34 minutes and how his usage changes when Embiid or LeBron James sit.",
+ "note": "The market already prices him low: Yahoo ranks him 86 and values him at 9 USD, ESPN at 7 USD, and average costs are only 4 to 5 USD. That fits the experts' range of picks in the 90s and about 10 USD, so pay up to about 10 USD and no more than that. He helps steals (z +1.7) and threes with a small FG% cost. Early in the season, check whether he stays in the starting five, plays about 34 minutes, and how much his usage and assists drop next to Brown and LeBron.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 22 | 9.1 | 48 | 15 | 13.1 | 41 | 22 |
+| 2026-27 | 22 | 9.1 | 48 | 15 | 13.0 | 41 | 22 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,24 +30,29 @@
 </details>
 
 **Current**
-- Orlando has a new head coach, Sean Sweeney, so player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
-- Much of his production last season came while Franz Wagner, Paolo Banchero and Jalen Suggs were out for long stretches. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=1159), [08-19](https://youtu.be/J1Eg3uaAICU?t=1699), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
-- Experts expect less from him with Wagner and Banchero healthy. They see him as a third option, projected under 22% usage and under 32 minutes. (verdict, 2026-10-06; [09-10](https://youtu.be/W-R1dzem32s?t=1108), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [08-19](https://youtu.be/J1Eg3uaAICU?t=1699), [10-06](https://youtu.be/eTsjuVu1trk?t=1159))
-- Experts think his rank is too high on both sites. They say not to take him inside the top 50 and call him a bust at rank 47. (verdict, 2026-10-06; [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [10-06](https://youtu.be/eTsjuVu1trk?t=1159))
-- Josh doubts he will play every game again. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1907))
-- In an auction mock, Josh valued him at about 20 USD but did not want him. He sold for 11 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3526))
-- His three-point attempt rate has come down. He started last season badly but shot 41% from three after December 1. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1108), [08-01](https://youtu.be/FEcNjVRlj-U?t=1429))
-- He is in tier five in both the shooting guard and the small forward tier rankings. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
-- Bane is a projected starter for Orlando next to Suggs, Franz Wagner, Banchero and Carter. (fact, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
-- Orlando is projected to win 47 or 48 games and finish as the 6th seed. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=2156))
+- Projected to start for Orlando next to Jalen Suggs, Franz Wagner, Paolo Banchero and Wendell Carter Jr. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [08-01](https://youtu.be/FEcNjVRlj-U?t=557))
+- His usage was under 23% last season, even with Franz Wagner out for most of the year. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=810))
+- Expected to be the third option behind Banchero and Wagner, not a primary ball handler. Projected for under 22% usage and about 32 minutes. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=810), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
+- Overpriced and a top fade. His ESPN rank of 41 and Yahoo rank of 48 assume long injuries to other Orlando players. Do not take him inside the top 50. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1629), [09-22](https://youtu.be/QbdrhJd7LiA?t=660), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657), [09-19](https://youtu.be/uarqbNA2dFk?t=2138))
+- Experts avoid him in mocks. Josh would not consider him at pick 59, another speaker says he will never roster him, and Josh valued him at about 20 USD in an auction mock but did not want him there. He went for 11 USD in that mock. (verdict, 2026-10-13; [10-12](https://youtu.be/w66x_I_MaQ8?t=942), [10-11](https://youtu.be/uI6umXsE7Vk?t=891), [10-05](https://youtu.be/Q6YlQDvD-aY?t=3526), [10-08](https://youtu.be/WXO8MfQfzo0?t=1064), [10-13](https://youtu.be/EogBYa24Gto?t=910))
+- Played all 82 games last season, the most of his career. Experts doubt he repeats that. (verdict, 2026-10-13; [08-01](https://youtu.be/FEcNjVRlj-U?t=1429), [10-05](https://youtu.be/BiIZsSypx7Y?t=1907), [10-13](https://youtu.be/zhXtLr_xYVg?t=837))
+- Orlando has a new head coach, Sean Sweeney. His effect on pace, offense and rotations is unknown, so roles may change. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Orlando's schedule is ordinary: 3-4-4 games (11) in our playoff weeks and 14 back-to-backs. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1741))
+- Much of his production last season came while Wagner, Banchero and Suggs missed long stretches. His three point attempt rate also dropped. (fact, 2026-10-06; [08-19](https://youtu.be/J1Eg3uaAICU?t=1699), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108), [09-19](https://youtu.be/uarqbNA2dFk?t=2138), [10-06](https://youtu.be/eTsjuVu1trk?t=1159), [09-22](https://youtu.be/QbdrhJd7LiA?t=1657))
+- He started last season badly and then shot 41% from three after December 1. (fact, 2026-09-19; [08-01](https://youtu.be/FEcNjVRlj-U?t=1429), [09-19](https://youtu.be/uarqbNA2dFk?t=2138))
+- If Wagner and Banchero stay healthy, he will not come close to last season's value. (verdict, 2026-09-10; [08-19](https://youtu.be/J1Eg3uaAICU?t=1699), [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
+- Tier 5 in both the shooting guard and small forward tier rankings. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1145), [09-10](https://youtu.be/W-R1dzem32s?t=1108))
 
 **Durable**
-- FT% is his best category. He shoots about 90% on about 4 attempts per game, which clearly helps a team's FT%. (fact, 2026-10-11; stats)
+- Strong free throw shooter, about 90% on about 4 attempts per game. It is his best category. (fact, 2026-10-16; stats)
+- No category is clearly weak. He gives steady threes, points and assists with a neutral FG%. (verdict, 2026-10-16; stats)
+- His games played change a lot from year to year. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=837), stats)
+- His defensive stats are not reliable from year to year. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=837))
 
 **Tags**
-- Current: `role down` (Third option behind healthy Banchero and Wagner; projected under 22% usage and 32 minutes), `usage competition` (Shares the ball with Banchero and Franz Wagner), `bust candidate` (Experts say not inside the top 50 (Yahoo rank 48, ESPN rank 41)), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Projected 47 or 48 wins, 6th seed)
-- Durable: `usage dependent` (His best numbers came while Wagner, Banchero and Suggs were out)
+- Current: `usage competition` (third option behind Banchero and Wagner, under 22% usage projected), `role down` (last season's value came while Wagner, Banchero and Suggs missed time), `bust candidate` (ESPN rank 41 and Yahoo rank 48 called too high; do not take inside top 50), `new coach` (Sean Sweeney replaces Jamahl Mosley), `winning team` (Phil predicts 47 or 48 wins and the 6th seed)
+- Durable: `fits every build` (no category flagged weak; FT% is his best category)
 
-**Note.** Experts agree that his rank (Yahoo 48, ESPN 41) depends on a role he had while Wagner, Banchero and Suggs were out, so he is a fade at Yahoo's 22 USD value and the 22 USD our league paid last season. The market average costs (9.1 USD on Yahoo, 12.7 USD on ESPN) and the 11 USD mock sale are a fairer range. At that price he fits any build as a source of FT%, points and some threes, and he has no weak category to plan around. Early in the season, check his minutes, usage and three-point volume next to a healthy Banchero and Wagner under the new coach.
+**Note.** Bane went for 22 USD in our auction last season, and Yahoo values him at 22 USD. The experts agree he is a fade, and the real market (Yahoo average cost 9.1 USD, ESPN 13 USD, 11 USD in one auction mock) prices him much lower, so bid only around 10 to 13 USD. He has no weak category, and his 90% FT%, threes and points fit any build as a mid-round piece. Early in the season, check his usage and minutes under the new coach with Wagner and Banchero healthy.
 
-<sub>11 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>17 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

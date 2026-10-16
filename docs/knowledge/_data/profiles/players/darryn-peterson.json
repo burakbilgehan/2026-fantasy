@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8ba778790478",
+ "input_sha": "33c025aa0d4f",
  "note_count": 23,
- "built_at": "2026-10-11T09:15:43+00:00",
+ "built_at": "2026-10-16T08:50:59+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2564822,
-  "duration_ms": 84107,
+  "cost_usd_list": 0.2206342,
+  "duration_ms": 66531,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Rookie. Utah took him with the No. 2 pick in the 2026 draft.",
+   "text": "Rookie. Utah took him with the number 2 pick in the draft.",
    "kind": "fact",
    "date": "2026-08-05",
    "until": "",
@@ -31,16 +31,7 @@
    ]
   },
   {
-   "text": "Leaf calls him the best player in the draft class and the Jazz franchise player.",
-   "kind": "verdict",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
-    "CI4k8ofUXXk:p0"
-   ]
-  },
-  {
-   "text": "Most notes project him as a starter next to Keyonte George, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. One September note says he may not start.",
+   "text": "Experts disagree on his role. The Utah preview projects him as a starter next to Keyonte George, but a September note says he may not start. He may also play short, staggered stints like Lauri Markkanen does.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
@@ -52,29 +43,39 @@
    ]
   },
   {
-   "text": "He may play in short staggered stints, like Markkanen does.",
+   "text": "Minutes and usage on the Jazz are expected to change a lot early in the season.",
    "kind": "verdict",
-   "date": "2026-08-05",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p1"
+    "w66x_I_MaQ8:t2"
    ]
   },
   {
-   "text": "He shares the ball with Markkanen, George and Jackson Jr., so he will get much less usage than in college or Summer League.",
-   "kind": "verdict",
+   "text": "He shares the ball with Lauri Markkanen, Keyonte George and Jaren Jackson Jr., who already take a lot of usage.",
+   "kind": "fact",
    "date": "2026-09-22",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p7",
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1",
     "RyzcCGChYgs:p0",
-    "QbdrhJd7LiA:p26"
+    "QbdrhJd7LiA:p26",
+    "-rgXhs5BHiw:t1",
+    "lOshTzDA4SA:t2"
    ]
   },
   {
-   "text": "In Summer League he averaged 20 points, 5 assists and 5 turnovers on 38% usage. He shot under 40% from the field and 78% from the line. His games swung between explosive and bad.",
+   "text": "He will not get anything close to his Summer League usage, so his shots and touches will be capped.",
+   "kind": "verdict",
+   "date": "2026-07-21",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p0",
+    "lOshTzDA4SA:t2"
+   ]
+  },
+  {
+   "text": "In Summer League he averaged 20 points, 5 assists and 5 turnovers. He shot under 40% from the field and 78% from the line on 38% usage, with some explosive games and some bad ones.",
    "kind": "fact",
    "date": "2026-08-02",
    "until": "",
@@ -84,31 +85,33 @@
    ]
   },
   {
-   "text": "Expect poor percentages and turnover problems early, as with most rookie guards. He should improve as the season goes on.",
+   "text": "Expect poor FG% and turnover problems this season, mostly early. His shooting should get better as the season goes on.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
+    "6DnRWahYrFA:p31",
+    "ZYllcj4o6_A:p46",
+    "uarqbNA2dFk:p21",
+    "W-R1dzem32s:p42",
     "OBwWCxG9SqM:p13",
     "RsjGTgJiKyI:p6",
-    "6DnRWahYrFA:p31",
-    "W-R1dzem32s:p42",
-    "Alwse2uXzD4:p22",
-    "ZYllcj4o6_A:p46"
+    "lOshTzDA4SA:p7"
    ]
   },
   {
-   "text": "His assists this season are uncertain. Experts do not expect six assists right away.",
+   "text": "His assists this season are uncertain. He probably will not reach six per game right away, though one expert thinks Utah can get him more assists than he had at Kansas.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
     "W-R1dzem32s:p42",
-    "lOshTzDA4SA:p7"
+    "lOshTzDA4SA:p7",
+    "HxQjagSTTAM:p1"
    ]
   },
   {
-   "text": "Experts call an ADP of about 92 to 98 too high and see almost no chance he returns top 100 value. They find him fine as a late pick, around 110 to 134.",
+   "text": "Do not draft him inside the top 100. He is close to impossible to return that price, but he is fine as a late pick around 120 or later.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -118,12 +121,11 @@
     "QbdrhJd7LiA:p26",
     "uarqbNA2dFk:p21",
     "OBwWCxG9SqM:p12",
-    "KPdD91Oo8-U:p32",
-    "80kfLVnFQ_s:p49"
+    "KPdD91Oo8-U:p32"
    ]
   },
   {
-   "text": "One expert gives him the tightest range in round 10: best case 76th, worst case about 148th. He would take him over AJ Dybantsa in any format.",
+   "text": "He has a tight range: best case about 76th, worst case about 148th. One expert would take him over AJ Dybantsa in any format.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
@@ -132,40 +134,34 @@
    ]
   },
   {
-   "text": "Among rookies, one expert ranks him second in category leagues and third in points leagues. He could reach first if his assists develop.",
+   "text": "He is an upside rookie flyer. If his game comes together he could be a top 15 fantasy player.",
    "kind": "verdict",
-   "date": "2026-06-28",
+   "date": "2026-09-01",
    "until": "",
    "sources": [
-    "RsjGTgJiKyI:p7"
-   ]
-  },
-  {
-   "text": "If his game comes together, he is probably a top-15 fantasy player.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
+    "80kfLVnFQ_s:p49",
     "TOn-D1SV7a8:p32"
    ]
   },
   {
-   "text": "Experts expect Utah to try to win, with about 43 wins projected. They see no real risk of tanking or late-season shutdowns.",
+   "text": "Utah plans to win this season and is not expected to tank or shut players down late.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-06",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:t3",
     "ahNxsoU8Hx4:t2",
     "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3",
     "sTtFUy7IoJI:t6",
-    "CI4k8ofUXXk:t2"
+    "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4",
+    "eTsjuVu1trk:t2"
    ]
   }
  ],
  "durable": [
   {
-   "text": "At Kansas he had a 30% usage rate, huge three-point volume and strong scoring. His steals and blocks were strong for his position.",
+   "text": "He is a high-usage scoring guard. He had 30 usage at Kansas with big three-point volume.",
    "kind": "fact",
    "date": "2026-06-28",
    "until": "",
@@ -175,7 +171,26 @@
    ]
   },
   {
-   "text": "His assist numbers at Kansas were poor, though he was a good passer in high school.",
+   "text": "His category strengths are steals, blocks for a guard, scoring and three-point volume, with solid rebounds.",
+   "kind": "verdict",
+   "date": "2026-06-28",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:p6",
+    "lOshTzDA4SA:p6"
+   ]
+  },
+  {
+   "text": "One expert rates him near the top of the class as a shooter.",
+   "kind": "verdict",
+   "date": "2026-06-23",
+   "until": "",
+   "sources": [
+    "-rgXhs5BHiw:p16"
+   ]
+  },
+  {
+   "text": "His assist numbers at Kansas were poor, even though he was a good passer in high school.",
    "kind": "fact",
    "date": "2026-06-28",
    "until": "",
@@ -185,16 +200,16 @@
    ]
   },
   {
-   "text": "One expert rates him as an electric shooter, near the top of his draft class.",
+   "text": "He shows some athletic limitations at times.",
    "kind": "verdict",
-   "date": "2026-06-23",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
-    "-rgXhs5BHiw:p16"
+    "6DnRWahYrFA:p31"
    ]
   },
   {
-   "text": "He had injury problems in college, missing games and playing lower minutes.",
+   "text": "He missed games and played lower minutes in college because of injuries.",
    "kind": "fact",
    "date": "2026-09-19",
    "until": "",
@@ -204,16 +219,7 @@
    ]
   },
   {
-   "text": "Lloyd sees some athletic limitations at times.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:p31"
-   ]
-  },
-  {
-   "text": "He relies on volume scoring, which makes him better in points leagues than in category leagues.",
+   "text": "He relies on volume scoring, so he is better in points leagues than in category leagues.",
    "kind": "verdict",
    "date": "2026-09-22",
    "until": "",
@@ -226,43 +232,42 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "No. 2 pick in 2026",
+   "detail": "Number 2 pick in the 2026 draft",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p0",
-    "HxQjagSTTAM:p1"
+    "CI4k8ofUXXk:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Markkanen, Keyonte George, Jaren Jackson Jr.",
+   "detail": "Shares the ball with Markkanen, Keyonte George and Jaren Jackson Jr.",
    "until": "",
    "sources": [
     "lOshTzDA4SA:p7",
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1",
     "RyzcCGChYgs:p0",
-    "QbdrhJd7LiA:p26"
+    "QbdrhJd7LiA:p26",
+    "-rgXhs5BHiw:t1",
+    "lOshTzDA4SA:t2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "relies on volume scoring; doubts he pairs efficiency with enough usage",
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Jazz minutes and usage expected to move around early; his starting spot is not certain",
    "until": "",
    "sources": [
-    "QbdrhJd7LiA:p26",
-    "ZYllcj4o6_A:p46"
+    "w66x_I_MaQ8:t2",
+    "QbdrhJd7LiA:p26"
    ],
    "new_meaning": ""
   },
   {
    "name": "slow start",
    "channel": "current",
-   "detail": "bad early shooting and turnovers, should improve during the season",
+   "detail": "Bad early shooting and turnovers expected, improving as the season goes on",
    "until": "",
    "sources": [
     "OBwWCxG9SqM:p13",
@@ -273,12 +278,12 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at ADP about 92 to 98 or round 6; fine around pick 120",
+   "detail": "Only when drafted inside the top 100 (ADP 92 to 98 in September notes)",
    "until": "",
    "sources": [
+    "_vbAP5y182A:p41",
     "QbdrhJd7LiA:p26",
     "uarqbNA2dFk:p21",
-    "_vbAP5y182A:p41",
     "OBwWCxG9SqM:p12"
    ],
    "new_meaning": ""
@@ -286,19 +291,19 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "upside rookie as a late pick",
+   "detail": "Fine as a late pick around 120 or later; top 15 upside if it comes together",
    "until": "",
    "sources": [
     "80kfLVnFQ_s:p49",
     "ZYllcj4o6_A:p46",
-    "KPdD91Oo8-U:p32"
+    "TOn-D1SV7a8:p32"
    ],
    "new_meaning": ""
   },
   {
    "name": "points league player",
    "channel": "durable",
-   "detail": "volume scorer with efficiency concerns",
+   "detail": "Volume scorer with efficiency and turnover concerns",
    "until": "",
    "sources": [
     "QbdrhJd7LiA:p26"
@@ -308,16 +313,16 @@
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Jazz trying to win, no tank expected",
+   "detail": "Utah is trying to win, not tank",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:t3",
     "ahNxsoU8Hx4:t2",
-    "dlo7L8Ru91A:t2"
+    "dlo7L8Ru91A:t2",
+    "J1Eg3uaAICU:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The market (Yahoo rank 114 at 4.7 USD, ESPN rank 126 at 2.2 USD) matches the experts' call of a late pick around 110 to 130, so he is fine for 2 to 5 USD as a bench upside piece and not worth more. His rookie projection is about average in every category with no category clearly weak, so he fits any build without carrying one, but expect poor FG% and turnovers early. Early in the season, check whether he starts and how many minutes he gets next to George, Markkanen and Jackson Jr. Also watch whether his shooting and assists improve as the experts expect.",
+ "note": "The market already has him as a late pick: Yahoo rank 115 (value 2 USD, average cost 3.0 USD) and ESPN rank 126 (1 USD, 2.6 USD). In our 144-player auction he fits as a 1 to 3 USD flyer, so spend no more than that, since the experts see no path to top-100 value this season. No category is flagged weak in his projection. Steals (1.2) and points (18.2) are his best areas, while FG% (45.2% on about 14.5 shots) and 2.1 turnovers lean negative, so he fits builds that can absorb some FG% and TO risk. Early in the season, check whether he starts, how many minutes he gets next to George, Markkanen and Jackson Jr., and whether his FG% and turnovers get better.",
  "rejected": []
 }

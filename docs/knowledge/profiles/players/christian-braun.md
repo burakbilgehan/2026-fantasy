@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 155 | 0 | 0.1 | 210 | 7 |
+| 2026-27 | 0 | 0.0 | 161 | 0 | 0.1 | 210 | 7 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,29 +30,29 @@
 </details>
 
 **Current**
+- Experts call him overvalued at his draft spot. He is not impactful enough at pick 134, overpriced at a Yahoo ADP of 120, and should not be ranked in the top 100. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1727), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=884), [07-16](https://youtu.be/-y6p5PYLf00?t=733))
 - He is projected to start for Denver next to Jamal Murray, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=884), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- DeMar DeRozan joined Denver and comes off the bench. If any starter gives up minutes to DeRozan, it will most likely be Braun. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=917), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- Experts expect him to beat last season's finish outside the top 200. Moore predicts a bounce-back year. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=884), [07-31](https://youtu.be/keNupMSHp1Y?t=1878))
-- Experts are not buying him at his price. He is called overvalued at a Yahoo ADP of 120, and ranking him in the top 100 would be a mistake. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=884), [07-16](https://youtu.be/-y6p5PYLf00?t=733))
-- Denver plays 43 games through March 28, one below the maximum. They have only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
-- He could be traded. Denver may move him instead of Cam Johnson, and Moore expects at least two of last season's starters to be gone by the trade deadline. (verdict, 2026-08-02; [07-31](https://youtu.be/keNupMSHp1Y?t=1661), [08-02](https://youtu.be/TOn-D1SV7a8?t=226), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
-- His defense broke down last season, with poor containment and late rotations. He needs to create more steals. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=653))
-- Only 31% of his deflections became steals, so his steals may improve. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1384))
-- He made 30% of his threes last season, and defenses have figured him out. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=733))
+- DeMar DeRozan joined Denver and is projected to come off the bench. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=170), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
+- If a starter loses minutes to DeRozan, it will most likely be Braun. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=917))
+- He should beat last season's finish outside the top 200. Moore predicts a bounce-back year. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=884), [07-31](https://youtu.be/keNupMSHp1Y?t=1878))
+- Denver has a good schedule: 43 games through March 28 and only 14 back-to-backs, one of the lowest counts in the league. The team also has one of only three five-game weeks this season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [08-16](https://youtu.be/gf_6GveiAls?t=1304))
+- He could be the player Denver trades instead of Cam Johnson. The roster is unsettled and trades involving Johnson or Braun are possible. (verdict, 2026-08-02; [07-31](https://youtu.be/keNupMSHp1Y?t=1661), [08-02](https://youtu.be/TOn-D1SV7a8?t=226), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- His defense broke down last season, with poor containment and late rotations. He needs to create more steals and become a real stopper. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=653))
+- His steals may improve, because only 31% of his deflections became steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1384))
+- His 3P% fell from 40 to 30 last season, and defenses have figured him out. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=733))
 
 **Durable**
-- He has always been a low-usage player with poor shooting volume. He is not a stat generator. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=902))
-- He hurts his team's spacing, and opponents know it. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=902), [07-31](https://youtu.be/keNupMSHp1Y?t=374))
+- He has been a low-usage player his whole career and has low shooting volume. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=902))
+- He is not a stat generator. He hurts the team's spacing, and opponents know it. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=902), [07-31](https://youtu.be/keNupMSHp1Y?t=374))
 - His defense is overrated. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=902))
-- His FT% is usually below 80%. The 83% in his breakout year was an outlier. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=969), stats)
-- His ankle injury last season was more than a sprain. He tore several ligaments. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=583))
-- His finishing depends on athleticism. The ankle injury hurt that athleticism, and his finishing fell off sharply last season. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=544), [07-31](https://youtu.be/keNupMSHp1Y?t=583))
-- His FG% around 52% is already good for a perimeter player. The 58% of his breakout year was not real, so little improvement is expected. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1811), stats)
+- His free throw shooting is usually below 80%. His 83% in the breakout year was an outlier. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=969), stats)
+- His ankle injury last season was more than a sprain. He tore several ligaments, and it hurt the athleticism his finishing depends on. (fact, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=583), [07-31](https://youtu.be/keNupMSHp1Y?t=544))
+- His 58% FG% season was not real. About 52% is already good for a perimeter player, so little improvement is expected. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1811))
 
 **Tags**
-- Current: `minutes competition` (Most likely starter to lose minutes to DeMar DeRozan), `trade risk` (Named with Cam Johnson as a possible Denver trade piece), `bounce-back` (Moore predicts a bounce-back. The newer note expects a better finish but still does not buy him.), `bust candidate` (Overvalued at Yahoo ADP 120. Not a top-100 player.), `injury last season` (Tore several ankle ligaments and played 44 games), `few back-to-backs` (Denver has 14 back-to-backs, one of the lowest counts in the league)
-- Durable: `fits every build` (No weak category flagged. Best categories are FG% and turnovers, but no category is a real outlier.)
+- Current: `minutes competition` (Most likely starter to lose minutes to DeMar DeRozan), `trade risk` (Could be traded instead of Cam Johnson; ownership may cut salary), `bust candidate` (Overvalued at Yahoo ADP 120 and at pick 134 in a mock), `bounce-back` (Moore predicts a bounce-back; others expect only a better finish than outside the top 200), `injury last season` (Ankle with several torn ligaments; 44 games played), `few back-to-backs` (Denver has 14 back-to-backs, one of the lowest counts)
+- Durable: none
 
-**Note.** Yahoo ranks him 173 and ESPN ranks him 212, and both value him at 0 USD. That puts him at the edge of or outside our 144-player pool, even though he cost 7 USD in our auction last season. His value comes from a good FG% for a wing (53.7% projected) and few turnovers, with no weak category. The experts still call him overvalued, so take him only as a 1 USD last pick or leave him on waivers. Early in the season, check three things: his minutes next to DeRozan, whether his finishing and 3P% come back after the ankle injury, and any trade news.
+**Note.** Braun is a late flier for us, not a core piece. Yahoo ranks him 161 and ESPN 210, both sites value him at 0 USD, and he went for 7 USD in our league last season. His only plus categories are FG% (about 54% projected) and low turnovers. He is below the pool average in every counting stat. In the first weeks, check whether DeRozan takes his minutes, whether his 3P% and finishing come back after the ankle injury, and whether trade talk grows. If he slips to the last rounds or about 1 to 2 USD, he is a fine FG% and TO filler.
 
-<sub>13 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>14 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

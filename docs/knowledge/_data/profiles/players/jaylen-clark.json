@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "1cfe74b2399f",
+ "input_sha": "d13d8100b811",
  "note_count": 3,
- "built_at": "2026-10-11T09:18:05+00:00",
+ "built_at": "2026-10-16T09:00:35+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1683716,
-  "duration_ms": 31028,
+  "cost_usd_list": 0.1911674,
+  "duration_ms": 41353,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "He re-signed with Minnesota on a 3-year deal worth 10 million USD.",
+   "text": "He re-signed with Minnesota for 3 years and 10 million USD.",
    "kind": "fact",
    "date": "2026-07-01",
    "until": "",
@@ -30,18 +30,18 @@
    ]
   },
   {
-   "text": "Minnesota has moved to small, guard-heavy lineups, is short on size and has a thin bench.",
+   "text": "Minnesota has moved to smaller, guard-heavy lineups and is short on size and wing depth.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:t0",
     "2mxpEpGU3H8:t0",
-    "2mxpEpGU3H8:t2"
+    "cFV24VgxyCY:t0",
+    "W3THnI7wWdA:t1"
    ]
   },
   {
-   "text": "He could get minutes in Minnesota's small lineups.",
+   "text": "He could get minutes when Minnesota goes to small lineups.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -50,18 +50,30 @@
    ]
   },
   {
-   "text": "He is not a draft target in our 144-player auction. Both sites rank him well outside the top 300 and value him at 0 USD.",
+   "text": "With his projected bench role and low output, he is not a draft target in a 12-team league.",
    "kind": "verdict",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "With a March 28 end, Minnesota plays 4, 2 and 4 games in our playoff weeks, so the semifinal week has only two games. The team has the league minimum of 13 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "EogBYa24Gto:t3",
+    "2mxpEpGU3H8:t4",
+    "gf_6GveiAls:t14"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a very good defender who gets steals but contributes little else.",
+   "text": "He is a very good defender who adds steals and little else.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
@@ -90,9 +102,9 @@
    ]
   },
   {
-   "text": "His scoring is far below the top 250 pool.",
+   "text": "His scoring is far below the top 250 pool, so he gives almost nothing in points.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -101,29 +113,51 @@
  ],
  "tags": [
   {
-   "name": "small-ball lineups",
-   "channel": "current",
-   "detail": "Could get minutes as an undersized four in Minnesota's small lineups",
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "very good defender and steals contributor with little offense",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:p22",
-    "cFV24VgxyCY:t0",
-    "2mxpEpGU3H8:t0"
+    "cFV24VgxyCY:p27",
+    "W3THnI7wWdA:p28"
    ],
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
+   "name": "small-ball lineups",
    "channel": "current",
-   "detail": "Minnesota's bench is thin, so an injury could open minutes for him",
+   "detail": "Minnesota plays guard-heavy lineups; he could get minutes in small lineups",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t2",
-    "W3THnI7wWdA:t1"
+    "2mxpEpGU3H8:t0",
+    "cFV24VgxyCY:t0",
+    "2mxpEpGU3H8:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "4, 2, 4 games in weeks 19 to 21; two-game semifinal week",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5",
+    "2mxpEpGU3H8:t4",
+    "gf_6GveiAls:t14"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "league minimum 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:t5"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Clark is not draftable in our league. Yahoo ranks him 358 and ESPN 321, both value him at 0 USD, and the projections give him about 13 minutes and 3.9 points. His only real asset is defense and some steals (0.7 per game), and that is still below the top 250 pool. Leave him on waivers. Only check him if a Minnesota injury gives him starter minutes in the small lineups.",
+ "note": "Both sites value him at 0 USD (Yahoo rank 358, ESPN rank 321). He was not drafted in our league last season, and he sits well outside the 144 players we draft. His projections are about 3.9 points and 0.7 steals in about 13 minutes, which gives our 9-cat format almost nothing beyond a few turnovers saved. Early in the season, only check whether Minnesota's small lineups push his minutes well above 13; until then he stays on waivers.",
  "rejected": []
 }

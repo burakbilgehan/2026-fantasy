@@ -8,40 +8,30 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "2f1452b39bf9",
- "note_count": 22,
- "built_at": "2026-10-11T09:20:54+00:00",
+ "input_sha": "a36c3eb4dcf8",
+ "note_count": 25,
+ "built_at": "2026-10-16T09:07:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.20243419999999998,
-  "duration_ms": 53081,
+  "cost_usd_list": 0.20538220000000001,
+  "duration_ms": 57441,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is healthy now after last season's hamstring injury.",
+   "text": "LeBron James left the Lakers for the Sixers. Luka Dončić and Austin Reaves are the remaining core, and the Lakers are now fully his team.",
    "kind": "fact",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p5"
-   ]
-  },
-  {
-   "text": "LeBron James left the Lakers for the Sixers. Dončić and Austin Reaves are the remaining core, and the team is fully his.",
-   "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-08-04",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:p7",
-    "_WjOjp6Qu8E:t0",
-    "6DnRWahYrFA:t2"
+    "_WjOjp6Qu8E:t0"
    ]
   },
   {
-   "text": "Experts expect the highest usage in the league, about 38 to 41%, with around 36 minutes. They do not expect his usage to drop now that LeBron is gone.",
+   "text": "Expected to have the highest usage in the league, around 38 to 41%, with about 36 minutes. Experts do not expect his usage to drop with LeBron gone.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -52,7 +42,7 @@
    ]
   },
   {
-   "text": "His scoring should stay close to last season's league-leading level. Without LeBron, his assists could rise to about nine.",
+   "text": "His scoring is not expected to change much. Without LeBron, his assists could rise to about nine per game.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -62,30 +52,7 @@
    ]
   },
   {
-   "text": "Experts rank him third overall and tier 1 at guard. Take him at pick 3 or 4, never at pick 2. One expert says Yahoo's rank of 3 is about right.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p0",
-    "2A2JbUN-kc0:p3",
-    "2A2JbUN-kc0:p4",
-    "W-R1dzem32s:p0",
-    "7BllEsdNLoM:p0",
-    "J1Eg3uaAICU:p2"
-   ]
-  },
-  {
-   "text": "In an expert 9-cat mock draft he went at pick 4, after Jokic, Wembanyama and Shai Gilgeous-Alexander.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p1"
-   ]
-  },
-  {
-   "text": "If he keeps his late-season steals pace, he is a top 2 candidate.",
+   "text": "If his late-season steals pace holds, he is a top 2 candidate.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -94,7 +61,24 @@
    ]
   },
   {
-   "text": "Experts rank him over Shai Gilgeous-Alexander in 9-cat because of more usage, assists and rebounds. Shai keeps the edge in efficiency.",
+   "text": "Experts agree he is a pick 3 or 4 in 9-cat and points leagues, and several take him at 3. They disagree on pick 2: one calls him interchangeable with Shai Gilgeous-Alexander at pick 2, another says never to take him at 2.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p2",
+    "uI6umXsE7Vk:p3",
+    "hviT4hzYNME:p0",
+    "sFelMKWcqyI:p0",
+    "BjXP9JODDSg:p1",
+    "W-R1dzem32s:p0",
+    "2A2JbUN-kc0:p3",
+    "J1Eg3uaAICU:p2",
+    "7BllEsdNLoM:p0"
+   ]
+  },
+  {
+   "text": "Experts rank him over Shai Gilgeous-Alexander in 9-cat because of his extra usage, assists, rebounds and consistency, and expect him to beat Shai per game. Shai has the efficiency edge.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -105,16 +89,7 @@
    ]
   },
   {
-   "text": "In an expert auction mock he went for 61 USD.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p2"
-   ]
-  },
-  {
-   "text": "Josh would pay up to 64 USD and calls 61 USD a bargain, one of the best values of that draft.",
+   "text": "In an auction mock, Josh set his ceiling at 64 USD. Luka went for 61 USD, which Josh called a bargain and one of the best values of the draft.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -123,8 +98,39 @@
    ]
   },
   {
-   "text": "The Lakers have the second most back-to-backs in the league.",
+   "text": "He is healthy now after the hamstring injury. His Yahoo status is Q with the reason Rest.",
    "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "Injuries are the only real concern for him, and his health is the Lakers' main weak point among the top West teams.",
+   "kind": "verdict",
+   "date": "2026-09-16",
+   "until": "",
+   "sources": [
+    "2A2JbUN-kc0:p3",
+    "CI4k8ofUXXk:t8"
+   ]
+  },
+  {
+   "text": "The Lakers have the second most back-to-backs in the league. Their playoff schedule with a March 28 end is 3-4-3 games, with 4 in the week starting March 15. That is in the bottom half of the league.",
+   "kind": "fact",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:t5",
+    "sFelMKWcqyI:t6",
+    "gf_6GveiAls:p29"
+   ]
+  },
+  {
+   "text": "The heavy back-to-back load could make his soft tissue injuries a problem again.",
+   "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
@@ -132,51 +138,29 @@
    ]
   },
   {
-   "text": "The heavy back-to-back load could bring his soft tissue injuries back. Experts call health the only concern with him, and say his health makes the Lakers more vulnerable than the top five West teams.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:t6",
-    "2A2JbUN-kc0:p3",
-    "CI4k8ofUXXk:t8"
-   ]
-  },
-  {
-   "text": "With a March 28 end, the Lakers play 3, 4 and 3 games in our playoff weeks, with 4 games in the week starting March 15. That is in the bottom half of the league.",
-   "kind": "fact",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:t5",
-    "gf_6GveiAls:p29"
-   ]
-  },
-  {
-   "text": "Andy predicts 50 wins and a top six finish in the West for the Lakers.",
+   "text": "The Lakers are projected to win about 50 games and finish top six in the West.",
    "kind": "verdict",
    "date": "2026-08-04",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:t3"
    ]
-  },
-  {
-   "text": "The Lakers roster has two high-end players, Kessler, and many role players, so the shots and touches go mostly to Dončić and Reaves.",
-   "kind": "fact",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:t0",
-    "W3THnI7wWdA:t0"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "His category profile is elite. Points, threes, assists and steals are all league outliers. His rebounds are far above other guards.",
+   "text": "He is a league outlier in points, threes, assists and steals, and he gives rebounds far above other guards.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He turns the ball over a lot, which makes turnovers his clearly weak category.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -192,16 +176,7 @@
    ]
   },
   {
-   "text": "He commits many turnovers, a league outlier on the weak side.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is not a bad free throw shooter, but you cannot count on him for a good FT%. His FG% is only average, which is risky on his volume. Blocks and the two percentages are his weakest categories.",
+   "text": "His weakest categories after turnovers are blocks and both percentages. His FT% is not bad but cannot be counted on to be good. His FG% is only average, which carries risk at his shot volume.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -211,7 +186,7 @@
    ]
   },
   {
-   "text": "He is a high-usage player who is involved in almost every possession.",
+   "text": "He is a heavily involved, very high usage player.",
    "kind": "fact",
    "date": "2026-09-01",
    "until": "",
@@ -220,21 +195,22 @@
    ]
   },
   {
-   "text": "He reads passing lanes well, which gets him steals. He also draws a lot of charges.",
+   "text": "He plays passing lanes well, which earns him steals, and he draws a lot of charges. On defense he does better against bigger players and often guards power forwards.",
    "kind": "fact",
    "date": "2026-08-04",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:p8"
+    "_WjOjp6Qu8E:p8",
+    "_WjOjp6Qu8E:p9"
    ]
   },
   {
-   "text": "On defense he does better against bigger players and often guards power forwards.",
-   "kind": "fact",
-   "date": "2026-08-04",
+   "text": "Experts value the consistency of his production.",
+   "kind": "verdict",
+   "date": "2026-09-16",
    "until": "",
    "sources": [
-    "_WjOjp6Qu8E:p9"
+    "2A2JbUN-kc0:p4"
    ]
   },
   {
@@ -245,22 +221,25 @@
    "sources": [
     "sFelMKWcqyI:p1"
    ]
-  },
-  {
-   "text": "Soft tissue injuries are the main risk to his value.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p1"
-   ]
   }
  ],
  "tags": [
   {
+   "name": "elite per game",
+   "channel": "durable",
+   "detail": "Top 3 per-game line, expected to beat Shai per game",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p2",
+    "2A2JbUN-kc0:p4",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "PTS specialist",
    "channel": "durable",
-   "detail": "about 32 points per game, led the league last season",
+   "detail": "About 32 points per game, league scoring leader last season",
    "until": "",
    "sources": [
     "stats",
@@ -271,7 +250,7 @@
   {
    "name": "3PM specialist",
    "channel": "durable",
-   "detail": "about 3.9 threes per game",
+   "detail": "About 3.9 threes per game",
    "until": "",
    "sources": [
     "stats"
@@ -281,7 +260,7 @@
   {
    "name": "AST specialist",
    "channel": "durable",
-   "detail": "8.5 assists projected, could reach nine",
+   "detail": "About 8.5 assists per game, could reach nine",
    "until": "",
    "sources": [
     "stats",
@@ -292,7 +271,7 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "plays passing lanes well",
+   "detail": "Plays passing lanes well",
    "until": "",
    "sources": [
     "stats",
@@ -301,9 +280,20 @@
    "new_meaning": ""
   },
   {
+   "name": "REB from a guard",
+   "channel": "durable",
+   "detail": "About 8 rebounds per game as a guard",
+   "until": "",
+   "sources": [
+    "stats",
+    "0geFVzSqOnA:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "high TO",
    "channel": "durable",
-   "detail": "about 3.9 turnovers per game",
+   "detail": "About 3.9 turnovers per game",
    "until": "",
    "sources": [
     "stats"
@@ -313,7 +303,7 @@
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "turnovers are his only flagged weak category",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -321,32 +311,51 @@
    "new_meaning": ""
   },
   {
-   "name": "elite per game",
+   "name": "consistent",
    "channel": "durable",
-   "detail": "top 3 per game; health is the only concern",
+   "detail": "",
    "until": "",
    "sources": [
-    "2A2JbUN-kc0:p3",
-    "sFelMKWcqyI:p0",
-    "stats"
+    "2A2JbUN-kc0:p4"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "soft tissue: calf injury, then hamstring injury that cost him last season's playoffs",
+   "detail": "Soft tissue: calf, then hamstring",
    "until": "",
    "sources": [
     "sFelMKWcqyI:p1",
-    "sFelMKWcqyI:t6"
+    "2A2JbUN-kc0:p3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "LeBron James left for the Sixers",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:t0",
+    "W3THnI7wWdA:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Lakers have the second most back-to-backs in the league",
+   "detail": "Lakers have the second most in the league",
    "until": "",
    "sources": [
     "sFelMKWcqyI:t6"
@@ -359,45 +368,21 @@
    "detail": "3-4-3 with a March 28 end, bottom half of the league",
    "until": "",
    "sources": [
-    "sFelMKWcqyI:t5",
-    "gf_6GveiAls:p29"
+    "sFelMKWcqyI:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Andy predicts 50 wins and a top six finish in the West",
+   "detail": "Projected about 50 wins",
    "until": "",
    "sources": [
     "_WjOjp6Qu8E:t3"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "concentrated usage",
-   "channel": "current",
-   "detail": "projected to lead the league in usage at 38 to 41%",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:t0",
-    "sFelMKWcqyI:p3",
-    "W-R1dzem32s:p0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage freed",
-   "channel": "current",
-   "detail": "LeBron James and Rui Hachimura left",
-   "until": "",
-   "sources": [
-    "W3THnI7wWdA:t0",
-    "_WjOjp6Qu8E:t0"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "He is a top 3 player who covers four categories as league outliers: points, threes, assists and steals. He fits a punt TO build best, because about 3.9 turnovers per game is his only flagged weak spot. Both sites value him near 59 to 63 USD and an expert mock paid 61 USD, but Yahoo and ESPN average cost is 73.1 USD and our league paid 76 USD last season, so expect to pay above value to get him at pick 3 or 4. Early in the season, watch his calf and hamstring through the Lakers' heavy back-to-back schedule. Also watch his FG% on 22 shots a game, since experts call it only average.",
+ "note": "He is a top 3 to 4 player whose average cost (71.7 USD on Yahoo, 74.5 USD on ESPN, 76 USD in our league last season) runs above the site values of 59 and 63 USD. An expert mock price of 61 USD was called a bargain, so paying in the low 70s is the market rate, but the soft tissue history and the heavy back-to-back load argue against going much past that. His huge points, threes, assists and steals fit any build, and he suits punt TO best because he costs you about 3.9 turnovers a game. Early in the season, check how the Lakers handle him on back-to-backs (he is listed Q for rest now) and whether the hamstring holds up.",
  "rejected": []
 }

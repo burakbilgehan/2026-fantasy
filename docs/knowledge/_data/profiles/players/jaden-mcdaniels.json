@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "2a851c43417e",
- "note_count": 17,
- "built_at": "2026-10-11T09:17:48+00:00",
+ "input_sha": "2678febe331a",
+ "note_count": 19,
+ "built_at": "2026-10-16T08:58:14+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2109982,
-  "duration_ms": 59239,
+  "cost_usd_list": 0.2180702,
+  "duration_ms": 64632,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Minnesota traded away Julius Randle and Naz Reid, signed Jonathan Kuminga and has a full season of Ayo Dosunmu. Donte DiVincenzo is out for most of the season.",
+   "text": "Julius Randle and Naz Reid are gone from Minnesota. The Wolves traded for LaMelo Ball and moved to a smaller, guard-heavy lineup.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -30,13 +30,54 @@
     "6DnRWahYrFA:p28",
     "ya2VYRJ1BN0:p8",
     "9tb1ARBEmQU:p4",
-    "dlo7L8Ru91A:p26",
-    "6DnRWahYrFA:t4",
-    "HxQjagSTTAM:t0"
+    "2mxpEpGU3H8:t0",
+    "cFV24VgxyCY:t0"
    ]
   },
   {
-   "text": "He is a projected starter with Ball, Edwards and Gobert. Finch said he will play some power forward but probably will not start there or play all his minutes there.",
+   "text": "Minnesota signed Jonathan Kuminga and added Ayo Dosunmu for a full season.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "6DnRWahYrFA:p28",
+    "BiIZsSypx7Y:p47",
+    "n4KkK-OJjqA:p32",
+    "ahNxsoU8Hx4:p63",
+    "sTtFUy7IoJI:p17",
+    "dlo7L8Ru91A:p26"
+   ]
+  },
+  {
+   "text": "Most experts expect his usage, shots and rebounds to go up with Randle and Reid gone. One expert doubts he reaches 20 percent usage because Kuminga will take shots.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p12",
+    "cFV24VgxyCY:t2",
+    "6DnRWahYrFA:p28",
+    "J1Eg3uaAICU:p44",
+    "OdDkXFhoKsc:p50",
+    "ya2VYRJ1BN0:p8",
+    "9tb1ARBEmQU:p4",
+    "dlo7L8Ru91A:p26"
+   ]
+  },
+  {
+   "text": "Kuminga dims his upside a little, but he should keep his starting spot and still beat his draft position.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p32",
+    "BiIZsSypx7Y:p47",
+    "ahNxsoU8Hx4:p63",
+    "sTtFUy7IoJI:p17"
+   ]
+  },
+  {
+   "text": "He is a projected starter next to Ball, Edwards and Gobert. Coach Chris Finch said he will play some power forward but probably will not start there or play all his minutes there.",
    "kind": "fact",
    "date": "2026-08-19",
    "until": "",
@@ -46,84 +87,66 @@
    ]
   },
   {
-   "text": "Minnesota has very little frontcourt depth and may play small lineups with three guards, so rebounds and shots left by Reid and Randle get spread to the remaining players.",
+   "text": "He has been sliding in a lot of drafts.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:t0",
-    "cFV24VgxyCY:t2",
-    "cFV24VgxyCY:t4",
-    "2mxpEpGU3H8:t2",
-    "4GDfg2n2l8o:t9"
+    "uI6umXsE7Vk:p43"
    ]
   },
   {
-   "text": "Experts expect his usage and output to rise this season with Reid and Randle gone. He gets a further usage spike if a teammate misses time.",
+   "text": "Experts see him as value at a rank in the 90s and would take him in the 70s. One expert called a rank of 74 about right.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p12",
-    "6DnRWahYrFA:p28",
+    "uI6umXsE7Vk:p43",
+    "n4KkK-OJjqA:p32",
+    "ahNxsoU8Hx4:p63",
     "J1Eg3uaAICU:p44",
-    "OdDkXFhoKsc:p50",
-    "ya2VYRJ1BN0:p8",
-    "9tb1ARBEmQU:p4",
+    "dlo7L8Ru91A:p26"
+   ]
+  },
+  {
+   "text": "He went for 11 USD in an expert mock auction. A 25 USD price seen in another auction was called an overpay.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p20",
+    "D4dP5JvX1oo:p16"
+   ]
+  },
+  {
+   "text": "He has upside for a usage spike if a teammate misses time. Minnesota's frontcourt and bench depth are very thin.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
     "BjXP9JODDSg:p36",
-    "cFV24VgxyCY:t2"
+    "cFV24VgxyCY:t0",
+    "cFV24VgxyCY:t4",
+    "2mxpEpGU3H8:t2"
    ]
   },
   {
-   "text": "The Kuminga signing hurts him a little because Kuminga will take shots. Experts disagree on how much: one doubts he reaches 20 percent usage, others say he keeps his starting spot and should still beat his price.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p47",
-    "n4KkK-OJjqA:p32",
-    "ahNxsoU8Hx4:p63",
-    "dlo7L8Ru91A:p26",
-    "sTtFUy7IoJI:p17"
-   ]
-  },
-  {
-   "text": "His market rank of about 90 to 98 is too late. The newest call is to take him in the 70s in category leagues.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p12",
-    "n4KkK-OJjqA:p32",
-    "ahNxsoU8Hx4:p63",
-    "dlo7L8Ru91A:p26",
-    "J1Eg3uaAICU:p44"
-   ]
-  },
-  {
-   "text": "In an expert auction mock draft he went for 11 USD as the buyer's first player.",
+   "text": "With a March 28 end, Minnesota plays 4, 2 and 4 games in the fantasy playoff weeks, so the semifinal week (starting March 15) has only two games. The team has the league minimum of 13 back-to-backs.",
    "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p20"
-   ]
-  },
-  {
-   "text": "With a March 28 end, Minnesota's playoff schedule goes 4, 2, 4 games, so the semifinal week (starting March 15) has only two games. The team has the league minimum of 13 back-to-backs.",
-   "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
+    "EogBYa24Gto:t3",
     "gf_6GveiAls:t14",
     "J1Eg3uaAICU:t0",
-    "2mxpEpGU3H8:t4",
-    "QbdrhJd7LiA:t4"
+    "QbdrhJd7LiA:t4",
+    "2mxpEpGU3H8:t4"
    ]
   },
   {
-   "text": "Minnesota is expected to compete, with one expert predicting 53 wins, so late-season rest for tanking is unlikely.",
+   "text": "Minnesota should be competitive and is not expected to rest players for tanking. One expert predicts 53 wins.",
    "kind": "verdict",
    "date": "2026-08-19",
    "until": "",
@@ -131,20 +154,11 @@
     "2mxpEpGU3H8:t3",
     "Rqb5GdrSweY:t8"
    ]
-  },
-  {
-   "text": "Yahoo lists him as questionable for rest.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He has a steals and blocks profile. He averaged a steal and a block a game over the final 20 games last season. Blocks are his strongest category for a forward, with good FG% for his position.",
+   "text": "He has a steals and blocks profile, with about a steal and a block per game. His blocks are strong for a forward.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -154,12 +168,12 @@
    ]
   },
   {
-   "text": "No category is weak in his projections, so he fits any build.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "He is worth more in category leagues than in points leagues.",
+   "kind": "verdict",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "stats"
+    "cFV24VgxyCY:p13"
    ]
   },
   {
@@ -172,12 +186,12 @@
    ]
   },
   {
-   "text": "He is worth less in points leagues than in category leagues.",
+   "text": "He has no weak category in the projections, so he fits any build.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:p13"
+    "stats"
    ]
   }
  ],
@@ -185,7 +199,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "No weak category. Best are BLK, STL and FG%.",
+   "detail": "No category flagged weak; steals, blocks and FG% are his best",
    "until": "",
    "sources": [
     "stats"
@@ -195,7 +209,7 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Steals and blocks profile, weaker in points leagues",
+   "detail": "Steals and blocks profile; weaker in points leagues",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p13"
@@ -203,9 +217,34 @@
    "new_meaning": ""
   },
   {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "Experts would take him in the 70s while drafts go in the 80s and 90s",
+   "until": "",
+   "sources": [
+    "cFV24VgxyCY:p12",
+    "uI6umXsE7Vk:p43",
+    "n4KkK-OJjqA:p32",
+    "J1Eg3uaAICU:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Sliding in drafts; should beat ESPN ADP of 98",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p32",
+    "ahNxsoU8Hx4:p63",
+    "uI6umXsE7Vk:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role up",
    "channel": "current",
-   "detail": "More usage expected with Randle and Reid gone",
+   "detail": "More usage expected with Randle and Naz Reid gone",
    "until": "",
    "sources": [
     "cFV24VgxyCY:p12",
@@ -219,66 +258,32 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Kuminga will take shots; Ball and Edwards are the main ball handlers",
+   "detail": "Jonathan Kuminga will take shots; Ball and Edwards are the main ball handlers",
    "until": "",
    "sources": [
     "dlo7L8Ru91A:p26",
-    "BiIZsSypx7Y:p47",
     "sTtFUy7IoJI:p17",
-    "ahNxsoU8Hx4:p63"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "Market rank about 90 to 98, experts would take him in the 70s",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p32",
-    "ahNxsoU8Hx4:p63",
-    "cFV24VgxyCY:p12"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "Yahoo rank 92 called value; target in the 70s",
-   "until": "",
-   "sources": [
-    "cFV24VgxyCY:p12",
-    "Q6YlQDvD-aY:p20"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo Q (Rest)",
-   "until": "",
-   "sources": [
-    "stats"
+    "n4KkK-OJjqA:p32"
    ],
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "Two-game semifinal week (4, 2, 4)",
+   "detail": "Two-game semifinal week starting March 15 (4, 2, 4)",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5",
-    "gf_6GveiAls:t14",
     "2mxpEpGU3H8:t4",
-    "J1Eg3uaAICU:t0"
+    "gf_6GveiAls:t14",
+    "EogBYa24Gto:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "League minimum 13 back-to-backs",
+   "detail": "League minimum of 13 back-to-backs",
    "until": "",
    "sources": [
     "cFV24VgxyCY:t5"
@@ -298,7 +303,7 @@
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Minnesota should compete and not rest players to tank",
+   "detail": "Competitive team, not expected to rest players for tanking",
    "until": "",
    "sources": [
     "Rqb5GdrSweY:t8"
@@ -308,11 +313,11 @@
   {
    "name": "small-ball lineups",
    "channel": "current",
-   "detail": "Guard-heavy starting group; he plays some power forward",
+   "detail": "Guard-heavy lineups with little size; he may see some power forward minutes",
    "until": "",
    "sources": [
-    "cFV24VgxyCY:t0",
     "2mxpEpGU3H8:t0",
+    "cFV24VgxyCY:t0",
     "2mxpEpGU3H8:p12"
    ],
    "new_meaning": ""
@@ -323,9 +328,9 @@
    "detail": "Very thin frontcourt and bench depth",
    "until": "",
    "sources": [
-    "2mxpEpGU3H8:t2",
     "cFV24VgxyCY:t0",
-    "4GDfg2n2l8o:t9"
+    "2mxpEpGU3H8:t2",
+    "4GDfg2n2l8o:p20"
    ],
    "new_meaning": ""
   },
@@ -340,6 +345,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He costs little: average costs are 1.2 USD on Yahoo and 2.9 USD on ESPN, and he went for 1 USD in our league last season. Experts would take him in the 70s, ahead of his Yahoo rank of 92 and ESPN rank of 81, so a bid up to his Yahoo value of 6 USD is fine. One mock buyer paid 11 USD. He fits any build as a source of blocks, steals and good FG% (51 percent on about 11 shots) with no weak category, but the two-game semifinal week lowers his playoff value. Early in the season, check whether his shots rise above last season's 11.1 per game with Kuminga around and how many minutes he plays at power forward.",
+ "note": "Jaden McDaniels is cheap: Yahoo values him at 11 USD with an average cost of 2 USD, ESPN at 4 USD, and he went for 1 USD in our league last season. Experts would take him in the 70s, so a bid in the high single digits to about 11 USD is fair value, and 25 USD is too much. His projected 1.1 steals, 1.0 blocks and 50.9% FG fit any build. Early in the season, check how many shots and minutes Kuminga takes from him and whether he plays power forward. Plan around Minnesota's two-game semifinal week.",
  "rejected": []
 }

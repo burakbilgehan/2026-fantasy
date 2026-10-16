@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 29 | 20.7 | 30 | 20 | 13.7 | 36 | 16 |
+| 2026-27 | 29 | 21.4 | 30 | 20 | 13.9 | 36 | 16 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 3.0 | +1.6 | +1.9 | - |
 | PTS | 23.7 | +1.7 | +1.8 | - |
 | REB | 7.6 | +1.1 | +1.2 | - |
-| AST | 1.9 | -0.7 | -0.6 | - |
+| AST | 1.9 | -0.7 | -0.5 | - |
 | STL | 0.9 | -0.1 | -0.1 | - |
 | BLK | 0.5 | -0.3 | -0.2 | - |
 | TO | 1.5 | +0.2 | +0.1 | - |
@@ -30,30 +30,29 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a neck issue. (fact, 2026-10-11; stats)
-- The Jazz plan to try to win this season, not tank. One projection has them at 43 wins and a 7th or 8th seed. (fact, 2026-10-06; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [10-06](https://youtu.be/eTsjuVu1trk?t=529), [07-14](https://youtu.be/xHRF06_E9HE?t=872))
-- In category leagues a rank around 32 is about right for him. Do not take him in the first round. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=535), [10-05](https://youtu.be/BiIZsSypx7Y?t=1210), [08-11](https://youtu.be/OdDkXFhoKsc?t=763))
-- Utah has Jaren Jackson Jr. for a full season and added rookie Darryn Peterson, so Markkanen shares usage with Jackson, Peterson and Keyonte George. (fact, 2026-10-05; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [08-05](https://youtu.be/CI4k8ofUXXk?t=196), [10-05](https://youtu.be/BiIZsSypx7Y?t=1210), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
-- Experts agree that fears of Utah resting or shutting him down are misplaced, and that the market is marking him down for those fears. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1517), [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2500), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-24](https://youtu.be/_vbAP5y182A?t=723))
-- In one expert auction mock he sold for 30 USD. The expert had hoped to get him for 21 to 22 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1803))
-- Experts see him as underrated at an ADP in the 40s, and as a steal at his ESPN ADP of 77 to 89. (verdict, 2026-09-21; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1223), [09-17](https://youtu.be/ahNxsoU8Hx4?t=421), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2500), [09-21](https://youtu.be/egRrai3Ax38?t=1562))
-- Experts expect him to produce less than last season on a more balanced offense with lower usage. One projection is 34 minutes and a usage rate of 25. (verdict, 2026-09-17; [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [08-05](https://youtu.be/CI4k8ofUXXk?t=975), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281), [09-17](https://youtu.be/ahNxsoU8Hx4?t=421))
-- He is in the projected Jazz starting lineup with Keyonte George, Darryn Peterson, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
-- He is the longest-tenured NBA player who has never played in a playoff game, which adds pressure this season. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1634))
+- Minutes and usage on the Jazz are expected to be all over the place early in the season. Coach Will Hardy will feel pressure to tinker in order to win. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1633), [08-05](https://youtu.be/CI4k8ofUXXk?t=1617))
+- In category leagues he is worth a pick around 25 to 32. Pick 25 is early but acceptable. He should not go in the first round. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=553), [10-06](https://youtu.be/eTsjuVu1trk?t=535), [08-11](https://youtu.be/OdDkXFhoKsc?t=763), [09-24](https://youtu.be/_vbAP5y182A?t=723), [10-05](https://youtu.be/BiIZsSypx7Y?t=1210))
+- Utah is projected around 43 wins and a 7th or 8th seed, with a top 10 offense and a defense ranked below 20th. The team probably makes the playoffs, so the late-season minutes of the tank years will not be there. (verdict, 2026-10-06; [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [08-05](https://youtu.be/CI4k8ofUXXk?t=951), [10-06](https://youtu.be/eTsjuVu1trk?t=529), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176))
+- He shares touches with Jaren Jackson Jr., who is there for a full season, rookie Darryn Peterson and Keyonte George. All of them are expected to lose some usage. (fact, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1210), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281))
+- The experts call the fear that Utah will tank or sit him misplaced. They say this fear is the main reason drafters mark him down. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1517), [09-24](https://youtu.be/_vbAP5y182A?t=723), [09-21](https://youtu.be/egRrai3Ax38?t=1562), [09-21](https://youtu.be/egRrai3Ax38?t=859), [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677))
+- In one auction mock he sold for 30 USD. The expert had hoped to get him for 21 to 22 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1803))
+- The experts call him underrated at a Yahoo ADP of 44. They call his ESPN ADP of 77 to 89 a steal. (verdict, 2026-09-21; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1223), [09-17](https://youtu.be/ahNxsoU8Hx4?t=421), [09-21](https://youtu.be/egRrai3Ax38?t=1562))
+- The Jazz are not tanking this season. They are trying to win. (fact, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=2500), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
+- The experts expect him to produce less than last season. One projects 34 minutes and a 25 usage rate. Utah's scoring should be balanced, and no one is expected to reach a career high in points. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=978), [08-19](https://youtu.be/J1Eg3uaAICU?t=1707), [08-05](https://youtu.be/CI4k8ofUXXk?t=975), [08-05](https://youtu.be/CI4k8ofUXXk?t=990))
+- Utah's projected starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
 
 **Durable**
-- He is a strong FT% asset. He shoots about 89 to 90% on 5 to 6 attempts per game, which clearly lifts a team's FT%. (fact, 2026-10-11; stats)
-- He is a scoring forward who makes about 3 threes per game, far above the norm for his position. He also gives good points and rebounds. (fact, 2026-10-11; stats)
-- He adds little in assists, steals and blocks, and his FG% is a little below average. (fact, 2026-10-11; stats)
-- Experts disagree on his health risk. One says he cannot stay healthy whether or not Utah tanks. Others call his past injury concerns mostly exaggerated, or say the missed games were real injuries rather than rest. (verdict, 2026-09-21; [08-24](https://youtu.be/g31YlwRe0XQ?t=1071), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281), [09-21](https://youtu.be/egRrai3Ax38?t=1562))
+- He is a scoring forward. His FT% is elite on real volume, and he adds many threes and points for a forward. His assists are low, and his steals and blocks are about average. (fact, 2026-10-16; stats)
+- He is worth more in category leagues than in points leagues. In points leagues the experts call him a fourth-round player, around pick 40 to 50. (verdict, 2026-10-08; [10-06](https://youtu.be/eTsjuVu1trk?t=535), [10-08](https://youtu.be/WXO8MfQfzo0?t=692))
+- The experts disagree on his health. One says he cannot stay healthy. Others call his injury concerns mostly exaggerated. (verdict, 2026-09-21; [08-24](https://youtu.be/g31YlwRe0XQ?t=1071), [09-16](https://youtu.be/2A2JbUN-kc0?t=2281), [09-21](https://youtu.be/egRrai3Ax38?t=1562))
 - He has missed many games in his career. Some were real injuries and some were tank-driven holdouts. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1231), [08-05](https://youtu.be/CI4k8ofUXXk?t=1673))
-- For years he has played several short stints per game, coming out early and going back in. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=393))
-- His best position is power forward. He has played out of position at small forward for the last couple of years. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1094))
+- His best position is power forward. He has played out of position at small forward for the last couple of years. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=1094))
+- For years he has played several short stints per game. He comes out early and then goes back in. (fact, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=393))
 
 **Tags**
-- Current: `injury last season` (Played 42 games), `questionable` (Yahoo Q (neck)), `injured now` (Neck, Yahoo status Q), `usage competition` (Jaren Jackson Jr., Darryn Peterson and Keyonte George), `role down` (Lower projected usage than last season on a balanced offense), `expert target` (Experts call him underrated at ADP 44 and a steal at his ESPN ADP), `sites disagree on price` (Yahoo values him at 29 USD and ESPN at 20 USD. His ESPN ADP is 77 to 89, against 44 on Yahoo.), `winning team` (Projected at 43 wins and a 7th or 8th seed), `low shutdown risk` (The Jazz are not tanking this season)
-- Durable: `FT% anchor` (About 89% FT on 5 to 6 attempts per game), `3PM from a big` (About 3 threes per game as a forward), `injury prone` (Missed many games in recent seasons. Experts split on how many were real injuries and how many were tank holdouts.), `category league player` (About rank 32 in category leagues, 4th round in points leagues)
+- Current: `injury last season` (42 games in 2025-26), `usage competition` (Jaren Jackson Jr., Darryn Peterson, Keyonte George), `role down` (projected 25 usage, below last season), `sites disagree on price` (ESPN ADP 77 to 89 against Yahoo ADP 44), `expert target` (experts call him underrated at ADP 44), `sleeper` (mainly on ESPN, where his ADP is 77 to 89), `winning team` (projected about 43 wins and a 7th or 8th seed), `low shutdown risk` (Jazz are not tanking this season), `unsettled rotation` (minutes and usage expected to vary early), `deep rotation` (crowded frontcourt and a deeper roster)
+- Durable: `FT% anchor` (89% on about 5.4 FTA per game), `3PM from a big` (about 3 threes per game as a forward), `fits every build` (no category flagged weak), `category league player` (rank around 32 in categories, fourth round in points), `injury prone` (many missed games across his career, some of them tank-related)
 
-**Note.** He is a forward who brings strong FT% on volume plus threes, points and rebounds. That fits any build that wants FT% and frontcourt threes. Expect a price above the 16 USD he cost in our league last season: Yahoo values him at 29 USD (average cost 20.7) and he went for 30 USD in an expert mock, while ESPN has him at 20 USD (average cost 13.1). A bid in the low to mid 20s matches the experts' rank of about 30 to 32. Early in the season, check the neck issue (Yahoo Q), his shot share next to Jaren Jackson Jr. and Darryn Peterson, and whether he stays healthy after playing only 42 games last season.
+**Note.** Markkanen is a scoring forward. His FT% is elite on volume, he hits about 3 threes a game and adds strong points. No category is weak enough to rule him out of any build. Yahoo values him at 29 USD against a 21.4 USD average cost, while ESPN has him at 20 USD and 13.9 USD, and he went for 16 USD in our league last year. A bid in the mid-20s fits the experts' round-3 grade, but one mock already reached 30 USD. Early in the season, check how much usage he keeps next to Jaren Jackson Jr. and Darryn Peterson, and whether he stays healthy after playing only 42 games.
 
-<sub>23 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

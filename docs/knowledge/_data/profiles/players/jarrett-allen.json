@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "d217618ea655",
- "note_count": 15,
- "built_at": "2026-10-11T09:18:13+00:00",
+ "input_sha": "274c7e13ca23",
+ "note_count": 17,
+ "built_at": "2026-10-16T09:00:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.20250620000000003,
-  "duration_ms": 53072,
+  "cost_usd_list": 0.20443820000000001,
+  "duration_ms": 52101,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Allen is projected to start at center next to Evan Mobley, with James Harden, Donovan Mitchell and Peyton Watson.",
+   "text": "He is in Cleveland's projected starting lineup at center, next to James Harden, Donovan Mitchell, Peyton Watson and Evan Mobley.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -31,29 +31,28 @@
    ]
   },
   {
-   "text": "Cleveland may play Mobley more at center in smaller lineups and close games with him there after adding Peyton Watson. Allen's minutes sometimes drop and he sits out some fourth quarters.",
+   "text": "His minutes sometimes drop and he sits out some fourth quarters.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-08-24",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t2",
-    "NmdNvAz08oE:p24",
-    "t4n9MAP2_14:p30",
-    "t4n9MAP2_14:t3",
     "rnq3118kfhY:p10"
    ]
   },
   {
-   "text": "His minutes are at risk, and the expert does not see him reaching 30 minutes per game.",
+   "text": "His minutes are at risk if Cleveland plays Mobley more at center or closes games with Mobley at center after adding Peyton Watson. One expert does not see him reaching 30 minutes a game.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:p24"
+    "NmdNvAz08oE:p24",
+    "NmdNvAz08oE:t2",
+    "t4n9MAP2_14:p30",
+    "t4n9MAP2_14:t3"
    ]
   },
   {
-   "text": "Big-man depth is very thin. Behind Mobley and Allen there is only Thomas Bryant, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone, which also removes the small-ball center option.",
+   "text": "Cleveland's big-man depth is very thin. Only Thomas Bryant is behind Mobley and Allen, then Ernest Udeh Jr. and Khalifa Diop. Dean Wade is gone, which removes the small-ball center option.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -64,7 +63,7 @@
    ]
   },
   {
-   "text": "The weak backup center group and Wade's departure help Allen's role.",
+   "text": "The weak backup center group and Wade's departure help protect his role.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -73,18 +72,17 @@
    ]
   },
   {
-   "text": "Cleveland gets a full season of James Harden. With Harden, Allen averaged 25 points and 13 rebounds per 36 minutes on 71% shooting with 23 usage. Without Harden, he averaged 19 points and 11 rebounds per 36 on 62% shooting.",
+   "text": "With Harden on the floor last season he averaged 25 points and 13 rebounds per 36 minutes on 71% shooting with 23% usage. Without Harden it was 19 points and 11 rebounds per 36 minutes on 62% shooting. He played well in February with Harden and with Mobley out.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-09-29",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p21",
-    "rnq3118kfhY:p10",
-    "-DN4P92Wp8Y:t1"
+    "rnq3118kfhY:p10"
    ]
   },
   {
-   "text": "A full season with Harden could lift his efficiency. If he shoots 66 to 67% on 21 to 22 usage, he could score about 17 points and be a top 70 player.",
+   "text": "A full season of Harden could lift his efficiency. At 66 to 67% from the field on 21 to 22% usage he could score about 17 points and be a top 70 player.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -94,7 +92,7 @@
    ]
   },
   {
-   "text": "He had a knee injury late last season. There are no current injury concerns.",
+   "text": "He had a knee injury late last season. Cleveland reports no current injury concerns.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -104,7 +102,7 @@
    ]
   },
   {
-   "text": "He finished around 69th to 79th last season depending on format, and 79th per game.",
+   "text": "He finished around 69th to 79th last season, depending on format, and 79th per game.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -114,20 +112,21 @@
    ]
   },
   {
-   "text": "Experts value him in the 70 to 85 range with little upside. He is a solid pick around 85, and worth taking around 70 only if you need a center. One expert prefers Paul George at the same spot unless you need a center.",
+   "text": "Experts value him around picks 70 to 86, about round 7. He is a solid but boring pick with little upside and some downside.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p27",
+    "uI6umXsE7Vk:p48",
+    "BjXP9JODDSg:p42",
     "NmdNvAz08oE:p22",
     "NmdNvAz08oE:p25",
-    "BjXP9JODDSg:p42",
-    "t4n9MAP2_14:p30",
-    "J1Eg3uaAICU:p50"
+    "t4n9MAP2_14:p30"
    ]
   },
   {
-   "text": "His ESPN rank of about 49 to 53 is too high. Experts call him a strong no and a top fade at that price.",
+   "text": "His ESPN rank around 49 to 53 is far too high. Experts call him a strong no and a top fade at that price.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -138,7 +137,17 @@
    ]
   },
   {
-   "text": "Cleveland has the most back-to-backs in the league.",
+   "text": "Take him mainly when you need a center. Otherwise one expert prefers players like Paul George at the same spot.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p25",
+    "J1Eg3uaAICU:p50"
+   ]
+  },
+  {
+   "text": "Cleveland has one of the most back-to-back heavy schedules in the league.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -148,27 +157,19 @@
    ]
   },
   {
-   "text": "With a March 28 end, Cleveland plays 4, 3, then 2 games in the fantasy playoff weeks. The two-game week is finals week.",
+   "text": "With a March 28 end, Cleveland plays 4, 3 and then 2 games in our playoff weeks 19 to 21. That is 9 games, with a two-game finals week.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t5",
-    "gf_6GveiAls:t15"
-   ]
-  },
-  {
-   "text": "Cleveland's two-game week does not matter much for Allen.",
-   "kind": "verdict",
-   "date": "2026-08-16",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:p36"
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
    ]
   },
   {
    "text": "Cleveland is projected to win about 51 to 53 games. Coach Kenny Atkinson is under pressure.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-08-24",
    "until": "",
    "sources": [
@@ -178,28 +179,58 @@
  ],
  "durable": [
   {
-   "text": "Allen is a rebounding and FG% center who makes no threes. He no longer blocks many shots.",
+   "text": "He is a rebounding and field goal percentage center. His FG% on solid volume is a league-level strength.",
    "kind": "fact",
-   "date": "2026-09-29",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:p23",
+    "bd8GYKFOe8A:p27",
     "E-KmhvyZ2CU:p18",
+    "NmdNvAz08oE:p23",
     "stats"
    ]
   },
   {
-   "text": "He usually shoots around 64% from the field. His true FG% level is probably between his recent low near 64% and his high near 71%.",
+   "text": "He no longer blocks many shots for a center.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "E-KmhvyZ2CU:p18",
+    "NmdNvAz08oE:p23",
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes no threes.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His usual FG% is around 64%. His true level is probably between his 63.8% and 70.6% seasons.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:p32",
-    "NmdNvAz08oE:p23"
+    "NmdNvAz08oE:p23",
+    "-y6p5PYLf00:p32"
    ]
   },
   {
-   "text": "He is a prime example of nine-cat fluff. Z-scores that include turnovers make him look better than he is.",
+   "text": "His free throws are rough, but not as bad as Rudy Gobert's.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p48"
+   ]
+  },
+  {
+   "text": "He is a prime example of nine-cat fluff. Z-score rankings that include turnovers make him look better than he really is.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -212,11 +243,12 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 66% FG on high volume for a center",
+   "detail": "About 66% projected on 9 to 10 attempts",
    "until": "",
    "sources": [
-    "stats",
-    "E-KmhvyZ2CU:p18"
+    "bd8GYKFOe8A:p27",
+    "E-KmhvyZ2CU:p18",
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -243,7 +275,7 @@
   {
    "name": "9-cat fluff",
    "channel": "durable",
-   "detail": "Low turnovers inflate his z-score value",
+   "detail": "Turnover-inclusive z-scores inflate him",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p19"
@@ -251,24 +283,14 @@
    "new_meaning": ""
   },
   {
-   "name": "needs playmaker",
-   "channel": "durable",
-   "detail": "Much more efficient with Harden on the floor",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p21",
-    "rnq3118kfhY:p10"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Mobley may play more center and close games in smaller lineups with Watson",
+   "detail": "Mobley may play more center and close games there",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t2",
     "NmdNvAz08oE:p24",
+    "NmdNvAz08oE:t2",
+    "t4n9MAP2_14:p30",
     "t4n9MAP2_14:t3"
    ],
    "new_meaning": ""
@@ -276,7 +298,7 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "At his ESPN rank of 49 to 53",
+   "detail": "At ESPN rank 49 to 53",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p25",
@@ -287,18 +309,18 @@
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "ESPN ranks him about 51, Yahoo about 72",
+   "detail": "ESPN rank 51 and 7.7 USD average cost vs Yahoo rank 81 and 3.1 USD",
    "until": "",
    "sources": [
     "stats",
-    "NmdNvAz08oE:p20"
+    "NmdNvAz08oE:p25"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Knee injury late last season",
+   "detail": "Knee injury late last season, 56 games",
    "until": "",
    "sources": [
     "rnq3118kfhY:p10",
@@ -307,9 +329,20 @@
    "new_meaning": ""
   },
   {
+   "name": "thin rotation",
+   "channel": "current",
+   "detail": "Only Bryant, Udeh and Diop behind Mobley and Allen",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t4",
+    "rnq3118kfhY:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Cleveland has the most back-to-backs in the league",
+   "detail": "",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t6",
@@ -320,30 +353,19 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 3, then 2 games, with only 2 in finals week",
+   "detail": "4, 3, 2 games in weeks 19 to 21, two-game finals week",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t5",
-    "gf_6GveiAls:t15"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Very thin big-man depth behind Mobley and Allen",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:t4",
-    "rnq3118kfhY:t2",
-    "NmdNvAz08oE:t3"
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 51 to 53 wins",
+   "detail": "About 51 to 53 wins projected",
    "until": "",
    "sources": [
     "rnq3118kfhY:t4"
@@ -353,7 +375,7 @@
   {
    "name": "coach hot seat",
    "channel": "current",
-   "detail": "Kenny Atkinson",
+   "detail": "Kenny Atkinson under pressure",
    "until": "",
    "sources": [
     "rnq3118kfhY:t4"
@@ -361,6 +383,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Allen is a FG% and rebounds center who fits punt 3PM builds. Experts rank him around 70 to 85 and warn against his ESPN rank near 51, so pay close to Yahoo's 14 USD value or our league's 13 USD from last season, not ESPN-driven prices. Early in the season, check whether he gets close to 30 minutes or loses closing minutes to Mobley at center, and whether his FG% stays near 66% with Harden on the floor.",
+ "note": "Experts put Allen around picks 70 to 86. Yahoo values him at 12 USD, ESPN at 10 USD, and our league paid 13 USD last season. Yahoo drafters pay only 3.1 USD on average, so 8 to 12 USD is fair, but do not pay for his ESPN rank of 51. He fits punt 3PM builds and teams that want FG% and rebounds from a center. Early in the season, check his minutes, whether Mobley closes games at center, and whether his FG% sits nearer 64% or 70% next to Harden.",
  "rejected": []
 }

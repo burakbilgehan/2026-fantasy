@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 41 | 41.6 | 16 | 37 | 35.9 | 21 | 46 |
+| 2026-27 | 41 | 43.8 | 16 | 37 | 34.8 | 21 | 46 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,31 +25,34 @@
 | AST | 4.0 | +0.4 | +1.0 | - |
 | STL | 0.9 | -0.2 | +0.1 | - |
 | BLK | 0.6 | -0.0 | -0.5 | - |
-| TO | 2.6 | -1.2 | -1.5 | weak for his position (punt fit) |
+| TO | 2.6 | -1.2 | -1.6 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts think his market price is too high. He may take a step back from last season. He is ranked 19th in 9-cat and is not seen as a first-round player. One expert said picks 15 to 17 are too early, and an auction expert valued him at 30-plus USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1249), [09-16](https://youtu.be/2A2JbUN-kc0?t=690), [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651))
-- In a recent auction mock draft he went for 36 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1249))
-- After the long Finals run, the Knicks are expected to protect his minutes. Over about the first 30 games, they should trim starters' minutes and rest them more on back-to-backs. (verdict, 2026-09-22, until about the first 30 games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
-- Without Mitchell Robinson next to him, his rebounds and FG% may go up. His rebounds fell last season while he played next to Robinson. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [07-07](https://youtu.be/ME-r173X5b0?t=867))
-- One projection has him at only 31 minutes. Experts warn of a championship hangover: a minute or two less per game and a small rise in injury risk. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565))
-- Andre Drummond has replaced Mitchell Robinson in New York. Towns is a projected starter next to Brunson, Bridges, Hart and Anunoby, and little double-big use is expected. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Experts call his Yahoo rank of 16 reasonable for categories. Taking him at pick 13 is debatable, and getting him at pick 22 is good value. (verdict, 2026-10-13; [10-11](https://youtu.be/-dulgoyo_wo?t=644), [08-19](https://youtu.be/J1Eg3uaAICU?t=675), [10-12](https://youtu.be/w66x_I_MaQ8?t=440), [10-13](https://youtu.be/EogBYa24Gto?t=481))
+- Mitchell Robinson is gone and Andre Drummond replaces him. The Knicks' big-man depth is very thin, with only Towns and Drummond, and they will likely sign just one more big. (fact, 2026-10-11; [08-13](https://youtu.be/okN3fbHJtlA?t=154), [10-11](https://youtu.be/-dulgoyo_wo?t=1575))
+- He is a projected starter with Brunson, Bridges, Hart and Anunoby. The team is expected to use few double-big lineups. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=345), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- Without Mitchell Robinson next to him, experts expect some of his rebounds, scoring, FG% and blocks to come back. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=536), [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [07-07](https://youtu.be/ME-r173X5b0?t=867))
+- He is the best fantasy player on the Knicks. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=536))
+- Experts think he is unlikely to get back to 35 minutes and 24 points a game. He is projected at about 31 minutes under Mike Brown. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=595), [09-14](https://youtu.be/t4n9MAP2_14?t=390))
+- Experts disagree on early-season rest. Earlier previews expected the Knicks to trim his minutes and rest him more on back-to-backs over the first 30 or so games after the Finals run. The newest preview says a weaker team in a stronger East may not be able to rest players as much. (verdict, 2026-10-11; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-10](https://youtu.be/dlo7L8Ru91A?t=1127), [09-09](https://youtu.be/7BllEsdNLoM?t=1565), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518), [10-11](https://youtu.be/-dulgoyo_wo?t=263))
+- The Knicks have a weak fantasy playoff schedule for a season ending March 28. They play a league-minimum 13 back-to-backs. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
+- In an expert auction mock he was valued at 30 USD or more and went for 36 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1249))
+- The Knicks won the championship after a long Finals run. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-14](https://youtu.be/t4n9MAP2_14?t=390), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518))
 - The Knicks are projected to win about 50 to 54 games. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=752))
-- Coach Mike Brown gives Towns fewer minutes than Thibodeau did, and he plays his bench more instead of overworking the starters. (fact, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=867), [06-22](https://youtu.be/HxQjagSTTAM?t=990))
 
 **Durable**
-- Rebounds are his clear outlier category, far above the top 250 pool. (fact, 2026-10-11; stats)
-- He commits many turnovers for a big, which makes TO his weakest category. (fact, 2026-10-11; stats)
-- He makes more threes than most bigs. (fact, 2026-10-11; stats)
-- He has a history of lower-body problems, including knee issues. (fact, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=794), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518))
-- At age 30 he showed some signs of declining athleticism in the regular season, though he looked good in the playoffs. (verdict, 2026-09-14; [08-13](https://youtu.be/okN3fbHJtlA?t=794), [09-14](https://youtu.be/t4n9MAP2_14?t=390))
+- Rebounds are his standout category and a real outlier against the whole player pool. (fact, 2026-10-16; stats)
+- He gives a high FT% on solid volume and makes threes at a good rate for a big man. (fact, 2026-10-16; stats)
+- Turnovers are his weakest category and are high for a frontcourt player. (fact, 2026-10-16; stats)
+- He has a history of knee, lower leg and other lower-body injuries. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=595), [08-13](https://youtu.be/okN3fbHJtlA?t=794), [09-14](https://youtu.be/LM0cRCGoAUQ?t=651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=518))
+- He showed some signs of declining athleticism in the regular season but looked good in the playoffs. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=794))
 
 **Tags**
-- Current: `minutes limit` (minutes expected to be trimmed after the long Finals run, projected around 31; until about the first 30 games), `slow start` (Knicks expected to be conservative early after the Finals run; until about the first 30 games), `back-to-back risk` (more rest on back-to-backs expected early in the season; until about the first 30 games), `low starter minutes` (Knicks expected to trim starters' minutes after the Finals run; until about the first 30 games), `bust candidate` (experts say picks 15 to 17 or a first-round price is too high), `winning team` (Knicks are the defending champions, projected at 50 to 54 wins)
-- Durable: `REB specialist` (about 11.3 rebounds per game projected), `punt TO fit` (about 2.5 turnovers per game, high for a big), `3PM from a big` (1.5 to 2.2 threes per game in recent seasons), `injury prone` (repeated lower-body issues, including knees), `age decline watch` (age 30, some signs of declining athleticism)
+- Current: `thin rotation` (Only Towns and Drummond as real bigs), `winning team` (Defending champions, projected 50 to 54 wins), `bad playoff schedule` (Weak schedule for a March 28 season end), `few back-to-backs` (League-minimum 13 back-to-backs)
+- Durable: `REB specialist` (About 11.3 rebounds per game projected), `punt TO fit` (About 2.6 turnovers per game, high for F/C), `3PM from a big` (About 1.8 threes per game projected), `injury prone` (History of knee and lower leg injuries)
 
-**Note.** Our league paid 46 USD for him last season. Yahoo puts his value at 41 USD and ESPN at 37, but the experts value him at 30-plus USD, and in a recent mock he went for 36. Aim for the mid-30s and do not chase him into the 40s. His elite rebounds, good FT% for a big and threes make him a strong fit for punt TO builds. Early in the season, check his minutes during the cautious first 30 or so games and whether his rebounds go up without Mitchell Robinson.
+**Note.** Expect to pay around 40 USD. Yahoo values him at 41 USD with an average cost of 43.8 USD, ESPN has him at 37 USD, an expert mock sold him for 36 USD, and he cost 46 USD in our league last year, so anything near the high 30s is fair value for a rank 16 to 21 player. He fits any build that wants rebounds, FT% from a big and some threes from the frontcourt, and he fits punt TO best. His weak playoff schedule for our March 28 end lowers his value a little. Early in the season, check whether he plays more than about 31 minutes, whether the Knicks rest him after the Finals run, and whether his rebounds and FG% go up without Mitchell Robinson.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 216 | 0 | 0.0 | 252 | not drafted |
+| 2026-27 | 0 | 0.0 | 220 | 0 | 0.0 | 252 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,21 +30,25 @@
 </details>
 
 **Current**
-- The Knicks are expected to be cautious over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs. (verdict, 2026-09-22, until first 30 or so games; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [09-10](https://youtu.be/W-R1dzem32s?t=1710), [09-22](https://youtu.be/QbdrhJd7LiA?t=914))
-- The Knicks brought in James Wiseman, Drew Eubanks and other camp signings for the big man depth behind him. One or two of them are expected to make the roster. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=387))
-- The Knicks brought in Drummond to replace Mitchell Robinson as their backup center. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=154), [08-13](https://youtu.be/okN3fbHJtlA?t=217))
-- He is expected to play roughly the backup center minutes Robinson played, behind starter Towns. Little double-big lineup use is expected. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217), [08-13](https://youtu.be/okN3fbHJtlA?t=317))
+- He is the backup center behind Karl-Anthony Towns and takes over the role Mitchell Robinson played. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1665), [08-13](https://youtu.be/okN3fbHJtlA?t=217), [08-13](https://youtu.be/okN3fbHJtlA?t=154), [10-11](https://youtu.be/-dulgoyo_wo?t=345))
+- Expected to play about 17 minutes a night as the backup center. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1665), [08-13](https://youtu.be/okN3fbHJtlA?t=217))
+- He would be the clear starter if Towns misses time and could play around 29 minutes in that case. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1665), [08-13](https://youtu.be/okN3fbHJtlA?t=217))
+- The best stash on the Knicks and worth holding in deep leagues. The expert questions his Yahoo ADP of 107. (verdict, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1665))
+- Knicks big-man depth is very thin, with only Towns and Drummond. Wiseman and Eubanks are in camp, and near the second apron the team will likely add just one of Eubanks, Wiseman or Bradley. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1575), [09-17](https://youtu.be/DubdKKhMWHo?t=387), [08-13](https://youtu.be/okN3fbHJtlA?t=154))
+- Experts disagree on Knicks rest. Earlier notes expect the team to be cautious with starters' minutes and back-to-backs, mostly over the first 30 or so games. The newest preview says a weaker team in a stronger East may not be able to rest players as much. (verdict, 2026-10-11; [08-13](https://youtu.be/okN3fbHJtlA?t=752), [09-22](https://youtu.be/QbdrhJd7LiA?t=914), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1515), [10-11](https://youtu.be/-dulgoyo_wo?t=263))
+- The Knicks play a league-minimum 13 back-to-backs, and their fantasy playoff schedule is weak for a season that ends March 28. (fact, 2026-10-11; [10-11](https://youtu.be/-dulgoyo_wo?t=1752))
 - He has no back-to-back restrictions. (fact, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217))
-- He can play around 29 minutes if Towns misses time. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=217))
+- Little double-big lineup use is expected, so his minutes come mostly when Towns sits. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=317))
 
 **Durable**
-- He is still an elite offensive rebounder, a good defensive playmaker and a good screener. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1180))
+- In a bench role his value is mostly rebounds with few turnovers. Points, threes and assists are well below the pool. (fact, 2026-10-16; stats)
+- Still an elite offensive rebounder, a good defensive playmaker and a good screener. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1180))
 - He is older now and can no longer do some of the things he once did. (verdict, 2026-08-13; [08-13](https://youtu.be/okN3fbHJtlA?t=1180))
 
 **Tags**
-- Current: `handcuff` (Backup to Towns; around 29 minutes if Towns misses time), `new team` (Joined the Knicks to replace Mitchell Robinson), `waiver watch` (Outside the 144 drafted players; pick up if Towns misses time)
-- Durable: `age decline watch` (Older, can no longer do some things he once did)
+- Current: `handcuff` (Clear starter with about 29 minutes if Towns misses time), `waiver watch` (Stash only in deep leagues; both sites value him at 0 USD), `thin rotation` (Only Towns and Drummond as bigs; one more big likely added), `bad playoff schedule` (Weak for a March 28 season end), `few back-to-backs` (League-minimum 13 back-to-backs)
+- Durable: `age decline watch` (Older and can no longer do some things he once did)
 
-**Note.** Drummond is no draft target for us. Yahoo ranks him 211 and ESPN 251, both sites value him at 0 USD, and his projected line is about 6 points and 8 rebounds in 19 minutes. That is well outside the 144 players we draft. His value is as a handcuff to Towns: if Towns misses time, the backup center role could grow to around 29 minutes, so watch Towns' health and the Knicks' early-season minutes caution. Also check whether Wiseman or Eubanks take any of the backup minutes.
+**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 220 and 252), and he went undrafted in our league. With about 17 minutes as Towns's backup and only 6.1 points per game projected, he should not be drafted in a 12-team league. Keep him on the waiver watch list as a Towns handcuff: if Towns misses games he should start, play about 29 minutes and help in rebounds. Early in the season, check which extra big the Knicks sign and whether Drummond's minutes stay near 17.
 
-<sub>2 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

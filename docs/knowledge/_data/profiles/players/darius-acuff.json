@@ -8,53 +8,61 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0f9f3318108c",
- "note_count": 16,
- "built_at": "2026-10-11T09:15:31+00:00",
+ "input_sha": "d2df9d227ebd",
+ "note_count": 17,
+ "built_at": "2026-10-16T08:50:14+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2926926,
-  "duration_ms": 81013,
-  "turns": 3,
+  "cost_usd_list": 0.2136262,
+  "duration_ms": 59992,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie. The Kings drafted him with the number 7 pick, and he is expected to start at point guard.",
+   "text": "The Kings drafted him with the number 7 pick. He is the projected starting point guard.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p0",
-    "RsjGTgJiKyI:p14",
-    "lOshTzDA4SA:p11"
+    "PrrgoTEcao4:t1",
+    "lOshTzDA4SA:p11",
+    "RsjGTgJiKyI:p14"
    ]
   },
   {
-   "text": "The projected Kings starters are Acuff, LaVine, Hunter, Murray and Sabonis, and nobody is pushing that group for a starting spot. The roster has no third point guard.",
+   "text": "In preseason he has a 31 usage rate, with 19 points and 4 assists in 26 minutes, and is shooting 41% from three.",
    "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p11"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable (rest).",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He should have the ball in his hands a lot and could be the 1A or primary scorer as a rookie.",
+   "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t1",
-    "oEywzBZfAvY:t5",
-    "W3THnI7wWdA:t8"
+    "oEywzBZfAvY:p2",
+    "-KS_AZjZnw4:p39"
    ]
   },
   {
-   "text": "In Summer League he had 39% usage, 19 points and 4.5 assists, but shot 35% from the field, 27% from three and under 70% at the line. He took 29 shots in his first California Classic game.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:p5",
-    "oEywzBZfAvY:p1"
-   ]
-  },
-  {
-   "text": "He shares the ball with Zach LaVine and Domantas Sabonis, which should cut his usage.",
-   "kind": "fact",
+   "text": "He shares the ball with Zach LaVine, Domantas Sabonis and Malik Monk, which caps his usage. His upside grows if LaVine or Sabonis is traded.",
+   "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
@@ -64,30 +72,7 @@
    ]
   },
   {
-   "text": "He should have the ball in his hands and could be the 1A or primary scorer as a rookie. His upside depends on whether the Kings trade LaVine or Sabonis.",
-   "kind": "verdict",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:p39",
-    "oEywzBZfAvY:p2",
-    "OBwWCxG9SqM:p16"
-   ]
-  },
-  {
-   "text": "The Kings could still trade LaVine or Sabonis, which would open more usage for him.",
-   "kind": "fact",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "7BllEsdNLoM:t5",
-    "W-R1dzem32s:t2",
-    "t4n9MAP2_14:t5",
-    "egRrai3Ax38:t0"
-   ]
-  },
-  {
-   "text": "Expected to score over 15 points a game but shoot under 40% from the field, with very poor shooting early in the season.",
+   "text": "He is expected to score over 15 points a game but shoot under 40% from the field, with his shooting worst early in the season.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -97,42 +82,64 @@
    ]
   },
   {
-   "text": "Experts disagree on his category-league price. One 9-cat mock takes him around pick 120. Another expert projects him outside the top 200 in categories and calls a 10th or 11th round pick reasonable mainly in points leagues.",
+   "text": "Experts do not rank him top 170 in category leagues. He is a flyer around round 10.",
    "kind": "verdict",
-   "date": "2026-09-15",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:p27",
+    "PrrgoTEcao4:p11",
     "OBwWCxG9SqM:p16",
-    "lOshTzDA4SA:p11"
+    "lOshTzDA4SA:p11",
+    "KPdD91Oo8-U:p27"
    ]
   },
   {
-   "text": "Experts expect the Kings to finish near the bottom of the league.",
+   "text": "The Kings are projected near the bottom of the league, and their rotations are hard to predict.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:t0",
     "6DnRWahYrFA:t0",
-    "0AptxcRW0RE:t8",
     "oEywzBZfAvY:t7"
+   ]
+  },
+  {
+   "text": "A trade or buyout of LaVine or Sabonis is still possible.",
+   "kind": "fact",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:t8",
+    "7BllEsdNLoM:t5",
+    "W-R1dzem32s:t2",
+    "egRrai3Ax38:t0"
+   ]
+  },
+  {
+   "text": "The Kings play 4, 4 and 3 games in our playoff weeks 19 to 21, so 11 games.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a high-usage, ball-dominant guard who should post good assist numbers and take many threes.",
-   "kind": "verdict",
+   "text": "He is a high-usage guard who takes a lot of shots.",
+   "kind": "fact",
    "date": "2026-08-02",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p10",
     "TOn-D1SV7a8:p26",
-    "RsjGTgJiKyI:p13"
+    "lOshTzDA4SA:p10",
+    "stats"
    ]
   },
   {
-   "text": "Most experts expect poor field goal shooting. They point to shot selection and trouble finishing at the rim, and call him the rookie most likely to hurt you with bad shooting.",
+   "text": "Most experts expect him to hurt FG% because of poor shot selection and trouble finishing at the rim. Ham disagrees and thinks his scoring and efficiency are further along than De'Aaron Fox's were as a rookie.",
    "kind": "verdict",
    "date": "2026-09-15",
    "until": "",
@@ -141,36 +148,48 @@
     "OBwWCxG9SqM:p17",
     "TOn-D1SV7a8:p26",
     "RsjGTgJiKyI:p13",
+    "oEywzBZfAvY:p3",
     "stats"
    ]
   },
   {
-   "text": "Ham disagrees with that view. He says Acuff's efficiency and scoring are further along than De'Aaron Fox's were, and he expects a much better rookie year than Fox had.",
+   "text": "He should post good assist numbers.",
    "kind": "verdict",
-   "date": "2026-07-31",
+   "date": "2026-06-28",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p3"
+    "RsjGTgJiKyI:p13",
+    "lOshTzDA4SA:p10"
    ]
   },
   {
-   "text": "He is a poor defender, so experts expect few steals and poor rebounding.",
+   "text": "One expert expects big three-point volume and a good three-point percentage.",
+   "kind": "verdict",
+   "date": "2026-06-25",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p10"
+   ]
+  },
+  {
+   "text": "He is seen as a very poor defender, possibly the worst in the NBA.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p10",
+    "TOn-D1SV7a8:p26",
     "oEywzBZfAvY:p4",
     "RsjGTgJiKyI:p13",
-    "TOn-D1SV7a8:p26"
+    "lOshTzDA4SA:p10"
    ]
   },
   {
-   "text": "He is worth more in points leagues than in 9-cat category leagues.",
+   "text": "Because he takes and misses many shots, he is worth more in points leagues than in category leagues.",
    "kind": "verdict",
-   "date": "2026-09-03",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:p11",
     "OBwWCxG9SqM:p16",
     "Alwse2uXzD4:p6"
    ]
@@ -180,75 +199,105 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "Number 7 pick in 2026, expected starting point guard",
+   "detail": "number 7 pick in 2026",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:p0",
-    "RsjGTgJiKyI:p14"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Shares the ball with Zach LaVine and Domantas Sabonis",
-   "until": "",
-   "sources": [
-    "RyzcCGChYgs:p5",
-    "lOshTzDA4SA:p11",
-    "OBwWCxG9SqM:p16"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "points league player",
-   "channel": "durable",
-   "detail": "Projected outside the top 200 in categories because of poor FG%",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:p16",
-    "Alwse2uXzD4:p6"
+    "oEywzBZfAvY:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late pick around 120 to 130",
+   "detail": "round 10 flyer",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:p11",
-    "KPdD91Oo8-U:p27"
+    "PrrgoTEcao4:p11",
+    "lOshTzDA4SA:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "LaVine, Sabonis and Monk",
+   "until": "",
+   "sources": [
+    "RyzcCGChYgs:p5",
+    "lOshTzDA4SA:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "volume scorer with poor efficiency",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p11",
+    "OBwWCxG9SqM:p16",
+    "Alwse2uXzD4:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "TOn-D1SV7a8:p26",
+    "oEywzBZfAvY:p4",
+    "RsjGTgJiKyI:p13",
+    "lOshTzDA4SA:p10"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Kings projected at about 21.5 to 27 wins",
+   "detail": "",
    "until": "",
    "sources": [
+    "PrrgoTEcao4:t0",
     "6DnRWahYrFA:t0",
-    "0AptxcRW0RE:t8",
     "oEywzBZfAvY:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "A LaVine or Sabonis trade would raise his usage",
+   "detail": "a LaVine or Sabonis trade would free usage for him",
    "until": "",
    "sources": [
+    "oEywzBZfAvY:t8",
     "7BllEsdNLoM:t5",
-    "W-R1dzem32s:t2",
-    "t4n9MAP2_14:t5",
-    "egRrai3Ax38:t0",
     "OBwWCxG9SqM:p16"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He sits at the edge of our 144-player draft. Yahoo ranks him 127 at 2 USD and ESPN ranks him 138 at about 1.6 USD, so he is a last-dollar flyer at most. His projected 42.6% FG on about 14 shots a game and 2.5 turnovers only fit a team that can absorb FG% and TO in exchange for points and assists. Early in the season, check his FG%, his share of shots next to LaVine and Sabonis, and any trade of either one.",
+ "note": "Yahoo (rank 121, about 1.5 USD) and ESPN (rank 138, about 2.3 USD) both price him as a last-round dollar player. The experts' round 10 flyer call matches that, so do not pay more than 1 or 2 USD. His projected 42.6% FG on about 14 shots and 2.5 turnovers hurt in 9-cat, but the points and assists help, so he fits teams that can carry an FG% and TO hit. Early in the season, check whether his preseason usage holds next to LaVine and Sabonis, whether his FG% stays above 40%, and any Kings trades that would free shots for him.",
  "rejected": []
 }

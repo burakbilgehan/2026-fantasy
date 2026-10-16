@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 205 | 0 | 0.6 | 150 | not drafted |
+| 2026-27 | 0 | 0.0 | 209 | 0 | 0.5 | 150 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,7 +22,7 @@
 | 3PM | 1.8 | +0.3 | -0.1 | - |
 | PTS | 17.5 | +0.6 | +0.5 | - |
 | REB | 2.6 | -1.0 | -0.8 | - |
-| AST | 4.1 | +0.4 | +0.1 | - |
+| AST | 4.1 | +0.5 | +0.1 | - |
 | STL | 1.0 | +0.1 | -0.1 | - |
 | BLK | 0.2 | -0.9 | -0.9 | - |
 | TO | 2.4 | -0.9 | -0.7 | - |
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- His Yahoo injury status is questionable (lower leg). (fact, 2026-10-11; stats)
-- Collin Sexton is a bench guard. Luka Doncic and Austin Reaves start ahead of him. The projected starters are Doncic, Reaves, Grimes, Thybulle and Kessler. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [10-06](https://youtu.be/sFelMKWcqyI?t=1441))
-- The experts say not to draft him. Josh does not expect him to start or to be even a back-end fantasy option. Another expert calls him a stash in deep formats only and says to avoid him at an ESPN rank of 100. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
-- He would only be useful with about 26% usage and 30 minutes a game. That would take injuries in the backcourt, with Doncic or Reaves missing a lot of games. (verdict, 2026-10-09; [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208))
-- The Lakers have the second most back-to-backs in the league. With a March 28 end, their playoff schedule is 3-4-3 games, which is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- Yahoo lists him as questionable with a lower leg injury. (fact, 2026-10-16; stats)
+- He comes off the bench for the Lakers, behind Luka Doncic and Austin Reaves. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [10-06](https://youtu.be/sFelMKWcqyI?t=1533))
+- He only has fantasy value with about 26% usage and 30 minutes. That would take Doncic or Reaves missing a lot of games. Until then he is at most a stash in deep formats. (verdict, 2026-10-09; [10-06](https://youtu.be/sFelMKWcqyI?t=1533), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208))
+- Do not draft him at his ESPN rank of 100. He is not expected to be even a back-end fantasy option. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2208), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
+- The Lakers have the second most back-to-backs in the league. Their playoff schedule is 3-4-3 games for a March 28 end, which is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- Experts do not expect him to start. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
 
 **Durable**
 - He is a notoriously bad fantasy player in category leagues. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2211))
-- He is a poor passer and has always been a weak assist player. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1524), [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
-- He is usually efficient and a good three-point shooter. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1524))
-- He is an undersized guard and a bad defender. (verdict, 2026-08-04; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108), [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042))
+- He is an undersized guard and a poor passer. He has always been a weak assist player for a guard. (verdict, 2026-10-06; [07-02](https://youtu.be/P6TNP-g0wzY?t=2108), [10-06](https://youtu.be/sFelMKWcqyI?t=1524))
+- He is usually an efficient scorer and a good three-point shooter. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1524))
+- He is a bad defender. (verdict, 2026-08-04; [08-04](https://youtu.be/_WjOjp6Qu8E?t=2042), [07-02](https://youtu.be/P6TNP-g0wzY?t=2108))
 
 **Tags**
-- Current: `usage competition` (Plays behind Luka Doncic and Austin Reaves), `handcuff` (Gains value only if Doncic or Reaves miss a lot of games), `waiver watch` (Deep-format stash only; watch if the Lakers backcourt gets hurt), `injured now` (Yahoo status Q, lower leg), `questionable` (Lower leg), `many back-to-backs` (Lakers have the second most back-to-backs in the league), `bad playoff schedule` (3-4-3 games in weeks 19 to 21, bottom half of the league)
-- Durable: `usage dependent` (Needs about 26% usage and 30 minutes to be useful)
+- Current: `usage competition` (Plays behind Luka Doncic and Austin Reaves), `handcuff` (Gains value only if Doncic or Reaves misses a lot of games), `waiver watch` (Only a stash in deep formats. Watch him if the Lakers backcourt gets hurt), `bust candidate` (Avoid at ESPN rank 100), `questionable` (Yahoo Q, lower leg), `injured now` (Yahoo status Q with a lower leg injury), `many back-to-backs` (Lakers have the second most back-to-backs in the league), `bad playoff schedule` (3-4-3 games for a March 28 end, bottom half of the league)
+- Durable: `usage dependent` (Needs about 26% usage and 30 minutes to be useful), `defensive liability` (Undersized guard who does not defend)
 
-**Note.** Sexton ranks 205 on Yahoo and 150 on ESPN, and both sites give him 0 value. He is outside the 144 players our auction drafts, so do not spend on him. Early in the season, check his lower leg (Yahoo Q) and whether Doncic or Reaves miss games, since that is the only way he gets the 30 minutes and high usage he needs. He brings some points and FT% but hurts REB, BLK and TO, and he played only 23.7 minutes last season, so he is a waiver pickup at most.
+**Note.** He is not a draft target in our 12-team league. Both sites value him at 0 USD (Yahoo rank 209, ESPN rank 150), he went undrafted last season, and he sits behind Doncic and Reaves as a bench guard who played only 23.7 minutes last season. His 86% FT% on about 4 attempts and his scoring can help guard-heavy builds in a pinch, but his low rebounds and blocks and 2.4 turnovers per game cap his value. In the first weeks, check his lower leg (Yahoo Q) and watch the waiver wire if Doncic or Reaves misses time, since that is the only path to the 30 minutes he needs.
 
-<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,71 +8,63 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5b731d64d786",
- "note_count": 10,
- "built_at": "2026-10-11T09:20:44+00:00",
+ "input_sha": "df410ea6c41c",
+ "note_count": 11,
+ "built_at": "2026-10-16T09:06:34+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2642734,
-  "duration_ms": 64035,
+  "cost_usd_list": 0.2306946,
+  "duration_ms": 47689,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yahoo lists him as questionable with a back injury.",
+   "text": "He is coming off back surgery. His Yahoo status is questionable (Back).",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p43",
     "stats"
    ]
   },
   {
-   "text": "Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. playing much center. Filipowski is back in the rotation.",
+   "text": "Jaxson Hayes started at center in the preseason, and Filipowski is back in the rotation as a backup.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t7"
+    "sDzeYdUhJDI:t7",
+    "bd8GYKFOe8A:p43"
    ]
   },
   {
-   "text": "Utah is trying to win this season and has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Jusuf Nurkic, Jaxson Hayes and Ace Bailey.",
+   "text": "He is expected to drop to third string at center when Jusuf Nurkic returns. Experts see no path for him to the starting center job.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p43",
+    "CI4k8ofUXXk:p25",
+    "Rqb5GdrSweY:t5",
+    "egRrai3Ax38:t4",
+    "P6TNP-g0wzY:t2"
+   ]
+  },
+  {
+   "text": "Utah has a crowded frontcourt with Jaren Jackson Jr., Lauri Markkanen, Nurkic, Hayes and Ace Bailey.",
    "kind": "fact",
    "date": "2026-08-26",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p43",
-    "sTtFUy7IoJI:t6",
-    "xHRF06_E9HE:t4"
+    "sTtFUy7IoJI:t6"
    ]
   },
   {
-   "text": "His late-season jump last season (162nd before the trade deadline, 39th after) came while Utah was tanking.",
-   "kind": "fact",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:p15",
-    "CI4k8ofUXXk:p27"
-   ]
-  },
-  {
-   "text": "Experts do not expect him to start at center. They see no path to the starting job.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "CI4k8ofUXXk:p25",
-    "egRrai3Ax38:t4",
-    "Rqb5GdrSweY:t5",
-    "P6TNP-g0wzY:t2"
-   ]
-  },
-  {
-   "text": "His role should shrink on a deeper team that is trying to win. He will not get the 28 minutes he got late last season, and the coach's leash should be shorter.",
+   "text": "Utah is trying to win this season and is projected as a playoff team. His role should shrink, with a shorter leash, and he will not get the 28 minutes he played late last season.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -80,23 +72,34 @@
     "sTtFUy7IoJI:p43",
     "CI4k8ofUXXk:p27",
     "xHRF06_E9HE:p18",
-    "xHRF06_E9HE:t4"
+    "xHRF06_E9HE:t4",
+    "CI4k8ofUXXk:t2"
    ]
   },
   {
-   "text": "Sell. One expert says his late-season numbers feel fake and he is only worth a flier around pick 140.",
+   "text": "Experts think his late-season rise last year (about 39th after the deadline) came in tanking stretches and will not repeat.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p27",
-    "xHRF06_E9HE:p18"
+    "xHRF06_E9HE:p15",
+    "xHRF06_E9HE:p18",
+    "CI4k8ofUXXk:p27"
+   ]
+  },
+  {
+   "text": "Do not draft him.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p43"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is one of the worst defensive bigs in the NBA and does not rebound well on defense. That makes him a bad fit next to Jaren Jackson Jr.",
+   "text": "He is one of the worst defensive bigs in the NBA. He also does not rebound on defense, which makes him a bad fit next to Jaren Jackson Jr.",
    "kind": "verdict",
    "date": "2026-08-26",
    "until": "",
@@ -107,41 +110,61 @@
    ]
   },
   {
-   "text": "He has good offensive skills, but experts doubt he is a long-term starting center.",
+   "text": "He has good offensive skills, but his three-point shooting is weak.",
    "kind": "verdict",
    "date": "2026-07-14",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:p16",
     "xHRF06_E9HE:p17",
     "P6TNP-g0wzY:p38"
    ]
   },
   {
-   "text": "His threes are poor, he has never been a shot blocker, and he gets some steals.",
-   "kind": "verdict",
+   "text": "He has never been a shot blocker. He makes few blocks for a big man and gets some steals.",
+   "kind": "fact",
    "date": "2026-07-14",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:p17"
+    "xHRF06_E9HE:p17",
+    "stats"
    ]
   },
   {
-   "text": "One expert calls his free throw shooting great for a big man, but his projections are only about 73% at the line.",
+   "text": "Rebounds are his best fantasy category.",
    "kind": "verdict",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:p17",
     "stats"
    ]
   }
  ],
  "tags": [
   {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Back)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injured now",
+   "channel": "current",
+   "detail": "Back, coming off back surgery",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p43",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role down",
    "channel": "current",
-   "detail": "Will not get the 28 minutes he played late last season now that Utah is trying to win",
+   "detail": "Will not get the 28 minutes he played late last season",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p43",
@@ -153,32 +176,24 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Hayes started at center in the preseason. Nurkic, Jackson and Markkanen also take frontcourt minutes",
+   "detail": "Behind Hayes and Nurkic at center",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p43",
     "sDzeYdUhJDI:t7",
-    "sTtFUy7IoJI:p43",
-    "CI4k8ofUXXk:p25"
+    "sTtFUy7IoJI:p43"
    ],
    "new_meaning": ""
   },
   {
-   "name": "injured now",
-   "channel": "current",
-   "detail": "Yahoo lists him questionable (back)",
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "One of the worst defensive bigs in the NBA",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Back",
-   "until": "",
-   "sources": [
-    "stats"
+    "sTtFUy7IoJI:p44",
+    "CI4k8ofUXXk:p26",
+    "P6TNP-g0wzY:p38"
    ],
    "new_meaning": ""
   },
@@ -188,15 +203,15 @@
    "detail": "Crowded Utah frontcourt",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:t4",
-    "sTtFUy7IoJI:t6"
+    "sTtFUy7IoJI:t6",
+    "xHRF06_E9HE:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected around 43 wins and a playoff spot",
+   "detail": "Projected about 43 wins and a playoff spot",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:t2",
@@ -206,28 +221,16 @@
    "new_meaning": ""
   },
   {
-   "name": "flyer",
+   "name": "unsettled rotation",
    "channel": "current",
-   "detail": "One expert says he is only worth a flier around pick 140",
+   "detail": "Minutes and usage expected to be all over the place early",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:p18"
+    "w66x_I_MaQ8:t2"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "defensive liability",
-   "channel": "durable",
-   "detail": "Called one of the worst defensive bigs in the NBA",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:p44",
-    "CI4k8ofUXXk:p26",
-    "P6TNP-g0wzY:p38"
-   ],
-   "new_meaning": "Reported as a very poor defender, which can cost him minutes on a team that is trying to win."
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 204, ESPN rank 145), and nobody drafted him in our league last season. That matches the expert view that his 11.4 points and 7.2 rebounds in 23.4 minutes were inflated by Utah's tanking. He has no strong category and no punt-build fit, so he is at most one of our last picks. More likely he is someone to watch on waivers. Early on, check his back injury and his minutes behind Hayes and Nurkic. He only becomes interesting if a Utah big gets hurt.",
+ "note": "He is priced at 0 USD on Yahoo and ESPN, ranked 187 and 145, so he falls outside the 144 players our league drafts. The newest expert call is to avoid him: he is coming off back surgery, Hayes started over him in the preseason, and Nurkic should push him to third string on a Utah team now trying to win. Leave him on waivers and only take another look if Hayes or Nurkic miss time early.",
  "rejected": []
 }

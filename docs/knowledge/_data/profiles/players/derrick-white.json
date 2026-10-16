@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4bdc9309ec5f",
- "note_count": 18,
- "built_at": "2026-10-11T09:16:12+00:00",
+ "input_sha": "4e1cc3fa2547",
+ "note_count": 20,
+ "built_at": "2026-10-16T08:52:44+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.21396620000000002,
-  "duration_ms": 65003,
+  "cost_usd_list": 0.21500619999999998,
+  "duration_ms": 60046,
   "turns": 2,
   "denied": 0
  },
@@ -27,37 +27,26 @@
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p20",
-    "-DN4P92Wp8Y:t3",
-    "eTsjuVu1trk:t3",
     "QbdrhJd7LiA:p15",
-    "Alwse2uXzD4:t1",
-    "J1Eg3uaAICU:t4"
+    "Bi1cEM03k9Y:p6",
+    "J1Eg3uaAICU:t4",
+    "Alwse2uXzD4:t1"
    ]
   },
   {
-   "text": "Experts expect his usage and time on the ball to drop because he moves from second option to third option behind Tatum and George.",
+   "text": "Experts expect his usage to drop because he moves from second option to third behind Tatum and George. He likely plays under 34 minutes.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p6",
     "eTsjuVu1trk:p22",
-    "eTsjuVu1trk:t3",
+    "Bi1cEM03k9Y:p6",
     "QbdrhJd7LiA:p16",
     "7BllEsdNLoM:p28"
    ]
   },
   {
-   "text": "One expert expects him to play under 34 minutes per game.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "eTsjuVu1trk:p22"
-   ]
-  },
-  {
-   "text": "Both Boston previews project him as a starting guard.",
+   "text": "Both projected Boston starting fives include him.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
@@ -67,7 +56,7 @@
    ]
   },
   {
-   "text": "He has played in the preseason.",
+   "text": "He has played his first preseason game.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -76,7 +65,7 @@
    ]
   },
   {
-   "text": "Experts expect his FG% to improve this season, with more catch-and-shoot looks next to Tatum and George, who share the ball more than Brown did.",
+   "text": "Experts expect his shooting percentages to improve this season, with more catch-and-shoot looks next to Tatum and George, who share the ball more than Brown did.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -91,20 +80,41 @@
    ]
   },
   {
-   "text": "In category leagues, experts value him around rank 40 to 50 or round 4. They call picks in the low 30s a little early and ESPN's top 20 rank absurd. They see him as more likely to fall short of a Fantrax ADP of 34 than to reach it.",
+   "text": "Experts expect lower usage, less time on the ball and age to offset better shooting, so they see little overall improvement.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-09-22",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p7",
-    "uarqbNA2dFk:p29",
+    "QbdrhJd7LiA:p15",
+    "QbdrhJd7LiA:p16"
+   ]
+  },
+  {
+   "text": "In category leagues experts value him around 40 to 50 overall, a round 4 player. Picks 31 to 36 are called too early.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p10",
+    "ENizLoE6pzI:p12",
     "BjXP9JODDSg:p11",
+    "Bi1cEM03k9Y:p7",
     "OdDkXFhoKsc:p22",
     "7BllEsdNLoM:p28"
    ]
   },
   {
-   "text": "In auctions, Josh values him in the mid 20s. He calls a 14 USD price an unbelievable steal.",
+   "text": "ESPN's rank of 16 to 18 and a Fantrax ADP of 34 make him a bust at that price. He is more likely to fall short of it than to reach it.",
+   "kind": "verdict",
+   "date": "2026-09-25",
+   "until": "",
+   "sources": [
+    "uarqbNA2dFk:p29",
+    "Bi1cEM03k9Y:p7"
+   ]
+  },
+  {
+   "text": "In auctions, an expert values him in the mid 20s USD. He went for 14 USD in a mock, which the expert called a steal.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -114,7 +124,7 @@
    ]
   },
   {
-   "text": "Boston has 16 back-to-backs, tied for the most in the league. Experts say this mainly affects Paul George and Mitchell Robinson.",
+   "text": "Boston has 16 back-to-backs, tied for the most in the league. Three of them fall in our playoff window. The extra rest risk mainly affects Paul George and Mitchell Robinson.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -125,17 +135,16 @@
    ]
   },
   {
-   "text": "Boston plays 4, 3 and 4 games in fantasy playoff weeks 19 to 21. That is one game short of the maximum, with three back-to-backs in that window.",
+   "text": "Boston's playoff schedule for a March 28 end is 4-3-4, one game short of the maximum.",
    "kind": "fact",
    "date": "2026-09-25",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:t4",
-    "gf_6GveiAls:t0"
+    "Bi1cEM03k9Y:t4"
    ]
   },
   {
-   "text": "Experts project Boston to be better than last season, with about 48 wins.",
+   "text": "Experts see Boston as better than last season. One predicts 48 wins.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
@@ -149,40 +158,69 @@
  ],
  "durable": [
   {
-   "text": "Experts call him an excellent steals and blocks player. His blocks are far above other guards.",
+   "text": "His blocks are far above other guards.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call him an excellent steals and blocks player.",
    "kind": "verdict",
    "date": "2026-09-25",
    "until": "",
    "sources": [
     "Bi1cEM03k9Y:p5",
-    "ME-r173X5b0:p38",
-    "stats"
+    "ME-r173X5b0:p38"
    ]
   },
   {
-   "text": "FG% is his weak category. He shoots a low percentage on real volume, so he drags down a team's FG%.",
+   "text": "His projected FG% of about 41% on about 14 attempts a game clearly hurts a team's FG%.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "He is worth much more in category leagues than in points leagues.",
+   "text": "Besides blocks, his category strengths are threes and assists. His FT% is high, but the low volume means it moves a team's FT% only a little.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is much better in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-08-24",
    "until": "",
    "sources": [
-    "g31YlwRe0XQ:p17"
+    "g31YlwRe0XQ:p17",
+    "Bi1cEM03k9Y:p4"
    ]
   }
  ],
  "tags": [
   {
+   "name": "BLK from a guard",
+   "channel": "durable",
+   "detail": "blocks far above other guards",
+   "until": "",
+   "sources": [
+    "stats",
+    "Bi1cEM03k9Y:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "FG% liability",
    "channel": "durable",
-   "detail": "projected about 41% on about 14 attempts",
+   "detail": "about 41% projected on about 14 attempts",
    "until": "",
    "sources": [
     "stats"
@@ -192,24 +230,12 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "FG% is his only weak category",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "BLK from a guard",
-   "channel": "durable",
-   "detail": "about 1.2 blocks per game, far above other guards",
-   "until": "",
-   "sources": [
-    "Bi1cEM03k9Y:p5",
-    "ME-r173X5b0:p38",
-    "stats"
-   ],
-   "new_meaning": "A guard who blocks far more shots than other guards, which helps builds that need blocks without a big."
   },
   {
    "name": "category league player",
@@ -217,14 +243,15 @@
    "detail": "",
    "until": "",
    "sources": [
-    "g31YlwRe0XQ:p17"
+    "g31YlwRe0XQ:p17",
+    "Bi1cEM03k9Y:p4"
    ],
    "new_meaning": ""
   },
   {
    "name": "plays every game",
    "channel": "durable",
-   "detail": "73 to 77 games in each of the last three seasons",
+   "detail": "73 or more games in each of the last three seasons",
    "until": "",
    "sources": [
     "stats"
@@ -232,44 +259,34 @@
    "new_meaning": ""
   },
   {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "age cited as a factor that offsets better shooting",
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "third option behind Jayson Tatum and Paul George",
    "until": "",
    "sources": [
-    "QbdrhJd7LiA:p16"
+    "Bi1cEM03k9Y:p6",
+    "QbdrhJd7LiA:p15",
+    "-DN4P92Wp8Y:p20",
+    "eTsjuVu1trk:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "moves from second to third option, likely under 34 minutes",
+   "detail": "lower usage, likely under 34 minutes",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p6",
     "eTsjuVu1trk:p22",
-    "QbdrhJd7LiA:p16",
-    "7BllEsdNLoM:p28"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Jayson Tatum and Paul George",
-   "until": "",
-   "sources": [
     "Bi1cEM03k9Y:p6",
-    "eTsjuVu1trk:t3",
-    "-DN4P92Wp8Y:p20"
+    "7BllEsdNLoM:p28"
    ],
    "new_meaning": ""
   },
   {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "FG% expected to recover from 39.4%",
+   "detail": "FG% expected to recover after 39.4% last season",
    "until": "",
    "sources": [
     "TiiaNZCJNs8:p15",
@@ -282,31 +299,40 @@
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "at Fantrax ADP 34 to 35 and ESPN rank 16 to 18, not at a mid-teens auction price",
+   "detail": "at ESPN rank 16 to 18 and picks 31 to 36",
    "until": "",
    "sources": [
-    "Bi1cEM03k9Y:p7",
     "uarqbNA2dFk:p29",
-    "BjXP9JODDSg:p11"
+    "Bi1cEM03k9Y:p7",
+    "ENizLoE6pzI:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 25 and rank 39, ESPN value 42 and rank 18",
+   "detail": "ESPN value 42 USD and rank 18, Yahoo value 25 USD and rank 39",
    "until": "",
    "sources": [
     "stats",
-    "uarqbNA2dFk:p29",
-    "Bi1cEM03k9Y:p7"
+    "uarqbNA2dFk:p29"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "age cited as one reason he will not improve",
+   "until": "",
+   "sources": [
+    "QbdrhJd7LiA:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Boston has 16, tied for the league high",
+   "detail": "Boston has 16, tied for the most",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t5",
@@ -318,7 +344,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "about 48 wins projected",
+   "detail": "48 wins predicted",
    "until": "",
    "sources": [
     "TiiaNZCJNs8:t0",
@@ -327,6 +353,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Experts put his 9-cat value around rank 40 to 50 and his auction value in the mid 20s. That matches Yahoo's 25 USD, not ESPN's 42 USD or the 30 USD he cost in our league last season. A price in the mid teens, close to Yahoo's 14.9 USD average cost, is a bargain. He fits punt FG% builds best because his threes, FT%, assists and guard-level blocks all help. Early in the season, check whether his FG% climbs back above 40% and whether his minutes and usage hold up next to Tatum and George.",
+ "note": "White is a strong 3PM, AST and guard-BLK source, and he plays nearly every game. His roughly 41% FG on 14 attempts makes him a natural fit for punt FG%. Experts see him around 40 to 50 in categories and value him in the mid 20s USD, so 30 USD (his price in our league last season) or ESPN's 42 USD value is too much. Yahoo's 25 USD value and an average cost near 13 to 20 USD is the range to target. Early in the season, check whether his FG% recovers and whether lower usage behind Tatum and George pushes his minutes under 34.",
  "rejected": []
 }

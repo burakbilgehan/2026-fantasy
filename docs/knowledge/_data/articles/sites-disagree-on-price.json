@@ -18,33 +18,32 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:50:45+00:00",
+ "built_at": "2026-10-16T12:48:57+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.6274728,
-  "duration_ms": 157144,
+  "cost_usd_list": 0.5405088,
+  "duration_ms": 137737,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
   "ajay-mitchell",
-  "alex-caruso",
   "alex-sarr",
-  "amen-thompson",
   "andrew-nembhard",
   "anthony-davis",
-  "anthony-edwards",
   "ausar-thompson",
   "austin-reaves",
   "bam-adebayo",
   "brandin-podziemski",
   "brandon-ingram",
   "brandon-miller",
+  "cade-cunningham",
   "caleb-wilson",
   "cameron-boozer",
   "cedric-coward",
   "chet-holmgren",
+  "coby-white",
   "collin-murray-boyles",
   "damian-lillard",
   "danny-wolf",
@@ -56,16 +55,16 @@
   "deni-avdija",
   "derrick-white",
   "devin-booker",
+  "domantas-sabonis",
   "donovan-clingan",
   "donovan-mitchell",
   "dylan-harper",
-  "dyson-daniels",
   "franz-wagner",
   "fred-vanvleet",
   "giannis-antetokounmpo",
   "gui-santos",
-  "isaiah-hartenstein",
   "ivica-zubac",
+  "jalen-duren",
   "jalen-suggs",
   "jamal-murray",
   "jaren-jackson",
@@ -74,8 +73,8 @@
   "jeremiah-fears",
   "joel-embiid",
   "josh-giddey",
-  "julius-randle",
   "kawhi-leonard",
+  "kelel-ware",
   "kelly-oubre",
   "kevin-durant",
   "keyonte-george",
@@ -92,18 +91,15 @@
   "mitchell-robinson",
   "naz-reid",
   "nickeil-alexander-walker",
-  "nikola-vucevic",
-  "norman-powell",
   "og-anunoby",
   "paolo-banchero",
   "pascal-siakam",
   "paul-george",
-  "paul-reed",
   "payton-pritchard",
   "reed-sheppard",
+  "rudy-gobert",
   "russell-westbrook",
   "ryan-rollins",
-  "scottie-barnes",
   "stephen-curry",
   "stephon-castle",
   "tobias-harris",
@@ -111,153 +107,140 @@
   "trey-murphy",
   "ty-jerome",
   "tyler-herro",
-  "vj-edgecombe",
   "walker-kessler",
+  "wendell-carter",
   "zach-edey",
-  "zach-lavine",
-  "zion-williamson"
+  "zach-lavine"
  ],
- "summary": "Most site gaps in our pool point one way: ESPN values sit far above Yahoo for players like Mitchell, Barnes, Davis, White and Bam, and the experts usually side with Yahoo or go even lower. A second group, including Alexander-Walker, Rollins, Garland, Jaren Jackson Jr. and Lillard, has Yahoo and ESPN average costs well below expert value, and those are our best buys. Use expert value as the price cap, use average cost and ADP only to guess when a player will be nominated, and do not copy last season's prices from our room.",
+ "summary": "Yahoo, ESPN and last season's prices in our room often point in different directions. For us, expert value is the anchor and the cheaper market is the floor. Let others pay up for the Yahoo-inflated names (Cade Cunningham, Chet Holmgren, Trae Young) and the ESPN-inflated ones (Anthony Davis, Derrick White, Mikal Bridges). Spend the saved budget on players the experts rate well above their market cost, such as Matas Buzelis, Dejounte Murray, Damian Lillard and Paul George.",
  "sections": [
   {
-   "heading": "How to read a site gap",
+   "heading": "Why the sites split",
    "paragraphs": [
     {
-     "text": "A rank or projection tells you how good a player is. ADP and average cost are the market price. They tell you when he is likely to be available. If you rank a player 30th and his ADP is 70th, you can wait and take him in the 50s. In our auction that means your bid cap comes from your value, and the market tells you how hard you will have to fight for him.",
+     "text": "Rankings differ a lot between Yahoo, ESPN and Fantrax. Whether a player is a bust or a steal depends on the platform and format. We draft on Yahoo, but our managers read ESPN too. So for every player, check three numbers: the Yahoo average cost, the ESPN value and cost, and what our room paid last season.",
+     "sources": [
+      "3Qm5wLjhvTw:r3"
+     ]
+    },
+    {
+     "text": "Yahoo auction price data currently differs a lot from snake-draft ADP data. Keep the two apart. In an auction, use average auction cost to predict the room. Use snake ADP only as a rough guide to who the room thinks is a first or second rounder.",
+     "sources": [
+      "gJUBAJaHzlU:r9"
+     ]
+    },
+    {
+     "text": "The widest gaps show the problem. Anthony Davis has an ESPN value about twice his Yahoo value, and he cost far more than either in our room last season. Naz Reid is a mid-round player on ESPN and a late one on Yahoo. Trae Young is a top-20 player on Yahoo and close to a throw-in on ESPN. For players like these, expect the room to split, and set your own ceiling before the draft.",
+     "sources": [
+      "player:anthony-davis",
+      "player:naz-reid",
+      "player:trae-young"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Rank is quality, cost is the market",
+   "paragraphs": [
+    {
+     "text": "Rankings and projections measure quality. ADP and average cost show the market price. When you rate a player well above his market, buy him somewhere in between, not at your full rank. In auction terms: if the experts rate a player well above his average cost, bid above that cost but stop below the expert value.",
      "sources": [
       "skKXe2CRl8Q:r7"
      ]
     },
     {
-     "text": "ADP and average cost are averages, not medians. A player with ADP 50 goes after pick 50 in only about half of drafts, and he often goes earlier than the number suggests. So do not plan to wait until his average cost if you really want him. Bid up to your cap the first time he is nominated.",
+     "text": "This gives two groups. In one, the experts rate the player above every market, so he is a value at price. Matas Buzelis, Dejounte Murray, Damian Lillard and Paul George are examples. In the other, one market prices the player above the expert view. Let that price go to someone else. Cade Cunningham and Chet Holmgren on Yahoo, and Derrick White and Mikal Bridges on ESPN, are examples.",
+     "sources": [
+      "skKXe2CRl8Q:r7",
+      "player:matas-buzelis",
+      "player:dejounte-murray",
+      "player:damian-lillard",
+      "player:paul-george",
+      "player:cade-cunningham",
+      "player:chet-holmgren",
+      "player:derrick-white",
+      "player:mikal-bridges"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Averages hide early buyers",
+   "paragraphs": [
+    {
+     "text": "ADP is an average, not a median. A player with ADP 50 goes after pick 50 in only about half of drafts. Average auction cost works the same way. One manager who loves a player can pay well above it. Treat the average cost as the middle of the range, not as the ceiling.",
      "sources": [
       "ahNxsoU8Hx4:r5",
       "gJUBAJaHzlU:r7"
      ]
     },
     {
-     "text": "Yahoo, ESPN and Fantrax rank players very differently. Whether a player is a bust or a steal depends on platform and format. We are a Yahoo 9-cat auction room, so an ESPN rank or a points-league view is only a hint for us. Our own room's prices from last season are a third reference point, but several have aged badly. Booker went for 45 USD and Davis for 54 USD, and experts now price both far lower.",
+     "text": "The experts lean different ways on timing. One note says buy between your rank and the market price, which favours patience. Another says that when a player's ESPN ADP is far later than his rank, people keep passing on him, so grab him when that happens. A third warns that players often go earlier than their ADP suggests, so waiting can cost you the player. In our auction, wait on players whose market is still falling during the draft. For a player you rate far above his market, bid as soon as he is nominated rather than hoping he slips. Stop at the ceiling in his line.",
      "sources": [
-      "3Qm5wLjhvTw:r3",
-      "player:devin-booker",
-      "player:anthony-davis"
+      "skKXe2CRl8Q:r7",
+      "ahNxsoU8Hx4:r11",
+      "gJUBAJaHzlU:r7"
      ]
     }
    ]
   },
   {
-   "heading": "Which Yahoo numbers to trust",
+   "heading": "Thin and distorted data",
    "paragraphs": [
     {
-     "text": "Yahoo auction price data differs a lot from snake-draft ADP data, so treat the two separately. For us, Yahoo auction average cost is the most relevant market signal. Snake ADP mainly tells you about hype. Castle is a clear case: his Yahoo ADP is about 56, but experts fade him there and his category value is much lower.",
-     "sources": [
-      "gJUBAJaHzlU:r9",
-      "player:stephon-castle"
-     ]
-    },
-    {
-     "text": "A Yahoo ADP based on very few drafts can be inflated. Some Yahoo ADPs are also skewed by dynasty leagues where a player is drafted in only a small share of leagues, so ignore those. Before 2026-10-18, check the draft count behind any Yahoo ADP that looks odd. Edgecombe has a Yahoo ADP around 63 against an ESPN ADP of 112. Experts still price him near 10 USD, so do not chase his Yahoo ADP.",
+     "text": "A Yahoo ADP based on very few drafts can be inflated and misleading. Some Yahoo ADPs are also distorted by dynasty leagues, where a player is drafted in only a small share of leagues. Ignore those numbers. Before the draft, check how many drafts stand behind a Yahoo number. Trust it less when the player has no average cost or when the sources disagree on his rank.",
      "sources": [
       "_O9pc_u5vH0:r6",
-      "gJUBAJaHzlU:r11",
-      "player:vj-edgecombe"
+      "gJUBAJaHzlU:r11"
      ]
     },
     {
-     "text": "Yahoo's own value and Yahoo's average cost can also be far apart. Alexander-Walker has a 17 USD Yahoo value but a 4 USD average cost. Rollins has a 17 USD value but a 2 USD average cost. For these players the gap is a buying chance, not a warning.",
+     "text": "Some players in our pool show these warning signs. Gui Santos and Danny Wolf have no Yahoo average cost. Russell Westbrook's ESPN rank differs between sources. Kelly Oubre Jr.'s Yahoo rank and his tag do not match. None of them should use one of our 144 draft spots. Leave them on waivers and watch their roles.",
      "sources": [
-      "player:nickeil-alexander-walker",
-      "player:ryan-rollins"
+      "_O9pc_u5vH0:r6",
+      "player:gui-santos",
+      "player:danny-wolf",
+      "player:russell-westbrook",
+      "player:kelly-oubre"
      ]
     }
    ]
   },
   {
-   "heading": "ESPN is high: let others pay",
+   "heading": "Do not anchor on last season's room",
    "paragraphs": [
     {
-     "text": "The most common gap has ESPN well above Yahoo, with experts siding with Yahoo or going lower. ESPN values Mitchell at 59 USD, but experts see 31 to 40 USD. ESPN puts Barnes at 55 USD, but experts plan on 31 to 35 USD. ESPN puts Edwards at 60 USD, but experts say 40 to 45 USD. ESPN's rank of 15 for Davis is called too high because of his games played, so stop in the mid 20s USD.",
+     "text": "Last season our room paid far more than today's market and the experts suggest for several players. Examples are Anthony Davis, Devin Booker, Stephen Curry, Trae Young and Domantas Sabonis. Each of those prices bought a role or health picture that has changed, so do not repeat them.",
      "sources": [
-      "player:donovan-mitchell",
-      "player:scottie-barnes",
-      "player:anthony-edwards",
-      "player:anthony-davis"
+      "player:anthony-davis",
+      "player:devin-booker",
+      "player:stephen-curry",
+      "player:trae-young",
+      "player:domantas-sabonis"
      ]
     },
     {
-     "text": "The same pattern holds lower in the pool. Experts call ESPN's 43 USD for Bam far too high and price him in the mid 20s. White is 42 USD on ESPN but a mid 20s player to the experts. Kawhi is 40 USD on ESPN, but experts cap him at 24 USD. Siakam, Bridges and Allen are also ranked much higher on ESPN than experts see them. If a manager in our room bids from ESPN numbers, let him have these players.",
+     "text": "The reverse also happened. Naz Reid, Keyonte George, Zach Edey and Nickeil Alexander-Walker went for 1 or 2 USD last season. The experts now value each of them at 10 USD or more. Expect someone in our room to know this, and plan to pay the expert range given in their lines.",
+     "sources": [
+      "player:naz-reid",
+      "player:keyonte-george",
+      "player:zach-edey",
+      "player:nickeil-alexander-walker"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Draft-day checklist",
+   "paragraphs": [
+    {
+     "text": "For each split player, write down one ceiling before 2026-10-18 and stick to it. Clear up injury tags first: Bam Adebayo (groin, Q), Domantas Sabonis (Q) and Dejounte Murray (toe, Q). Near the end of the draft, the 144-player cutoff matters more than any site's rank. Players the experts rank around 120 to 165 are 1 USD picks at most, or waiver adds. Kristaps Porzingis and Andrew Nembhard are examples.",
      "sources": [
       "player:bam-adebayo",
-      "player:derrick-white",
-      "player:kawhi-leonard",
-      "player:pascal-siakam",
-      "player:mikal-bridges",
-      "player:jarrett-allen"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Yahoo is high: wait for the discount",
-   "paragraphs": [
-    {
-     "text": "A smaller group has Yahoo above ESPN, and the experts lean toward ESPN. Holmgren is 29 USD on Yahoo against an expert price of 21 to 22 USD. Kessler is 25 USD on Yahoo, but experts aim for 12 to 15 USD. Clingan's Yahoo average cost is 16.2 USD, but experts say 7 to 10 USD. Sarr is 18 USD on Yahoo, but experts see a pick 80 to 90 player. Zubac is 18 USD on Yahoo, but experts cap him near 14 USD. Several of these are big men, so plan your center spot with a cheaper option in mind.",
-     "sources": [
-      "player:chet-holmgren",
-      "player:walker-kessler",
-      "player:donovan-clingan",
-      "player:alex-sarr",
-      "player:ivica-zubac"
-     ]
-    },
-    {
-     "text": "Some guards and forwards fit here too. Trae is 38 USD on Yahoo, and experts call the ESPN average cost of about 33 USD closer to fair. Durant's Yahoo average cost of 49.6 USD is a stretch, and a price in the low 40s is fair. Wagner's 21 USD Yahoo value is above the experts' 11 to 15 USD.",
-     "sources": [
-      "player:trae-young",
-      "player:kevin-durant",
-      "player:franz-wagner"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Both markets too low: plan to buy",
-   "paragraphs": [
-    {
-     "text": "When a player's ESPN ADP is far later than his rank, drafters are passing on him round after round, so grab him when that happens in your draft. In our room, take these players as soon as the price drops below your cap. Alexander-Walker is supported up to about 20 USD. Garland is fair at 20 to 25 USD. Jaren Jackson Jr. is a strong buy in the high teens. Rollins is a top 50 player who costs about 2 USD on both sites.",
-     "sources": [
-      "ahNxsoU8Hx4:r11",
-      "player:nickeil-alexander-walker",
-      "player:darius-garland",
-      "player:jaren-jackson",
-      "player:ryan-rollins"
-     ]
-    },
-    {
-     "text": "Other experts' buys at market price include Lillard at 5 to 10 USD, Paul George up to his 13 USD Yahoo value, Buzelis at 15 to 22 USD, Keyonte George at 15 to 20 USD and Daniels at 18 to 24 USD. Jamal Murray has the reverse gap: Yahoo buyers pay about 39 USD and ESPN buyers about 25 USD. Experts rank him above both sites, so the mid to high 30s is still fair.",
-     "sources": [
-      "player:damian-lillard",
-      "player:paul-george",
-      "player:matas-buzelis",
-      "player:keyonte-george",
-      "player:dyson-daniels",
-      "player:jamal-murray"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Where the experts disagree",
-   "paragraphs": [
-    {
-     "text": "The experts do not always agree on these prices. For Amen Thompson, most experts value him at 35 to 40 USD, but Lloyd calls him only a third-round pick if his blocks and FG% do not come back. Edey went for 20 USD in a mock while Josh capped him at 11 USD. Knueppel sold for 13 USD against Josh's limit of 8 USD. In each case, our cap sits at the lower expert number unless early-season news supports the higher one. Big gaps between sites also cut both ways. One view says a late ESPN ADP is a signal to grab the player. The other says platform data should be read separately, because rankings differ by platform and format.",
-     "sources": [
-      "player:amen-thompson",
-      "player:zach-edey",
-      "player:kon-knueppel",
-      "ahNxsoU8Hx4:r11",
-      "gJUBAJaHzlU:r9",
-      "3Qm5wLjhvTw:r3"
+      "player:domantas-sabonis",
+      "player:dejounte-murray",
+      "player:kristaps-porzingis",
+      "player:andrew-nembhard"
      ]
     }
    ]
@@ -266,437 +249,416 @@
  "players": [
   {
    "slug": "giannis-antetokounmpo",
-   "tier": "Core targets",
-   "line": "ESPN's rank of 19 is the low outlier, while Yahoo, the experts and our room agree on about 60 USD, so he is a buy at 60 to 62 USD for a punt FT% build."
-  },
-  {
-   "slug": "jamal-murray",
-   "tier": "Core targets",
-   "line": "Yahoo buyers pay about 39 USD and ESPN buyers about 25 USD, and experts rank him above both sites, so he is a buy up to the mid to high 30s USD."
-  },
-  {
-   "slug": "amen-thompson",
-   "tier": "Core targets",
-   "line": "ESPN buyers pay more than Yahoo buyers and experts sit between the two, so he is a buy up to the high 30s USD, less if his blocks and FG% do not return."
-  },
-  {
-   "slug": "kevin-durant",
-   "tier": "Core targets",
-   "line": "Yahoo is the high side and ESPN the low side, and experts call him a late first-round value, so he is a buy in the low 40s USD but not near 50 USD."
+   "tier": "Pay the fair price",
+   "line": "Yahoo ranks him much higher than ESPN, but every price source sits near 60 USD, so he is a buy at about 60 USD for a punt FT% build."
   },
   {
    "slug": "lamelo-ball",
-   "tier": "Core targets",
-   "line": "ESPN's 50 USD value is the high outlier and experts sit in the mid 30s, just above Yahoo, so he is a buy at any price up to the mid 30s USD."
+   "tier": "Pay the fair price",
+   "line": "ESPN values him far above Yahoo, and the experts sit in between, so he is a buy anywhere near 30 USD and fair up to the mid 30s."
+  },
+  {
+   "slug": "kevin-durant",
+   "tier": "Pay the fair price",
+   "line": "Yahoo and our room price him well above ESPN, so expect a fight near 40 to 46 USD and treat him as a buy only at about 40 USD or less."
+  },
+  {
+   "slug": "jamal-murray",
+   "tier": "Pay the fair price",
+   "line": "Yahoo's cost is far above ESPN's, and 34 to 38 USD is fair for a no-weakness guard, so anything below 34 USD is a bargain."
   },
   {
    "slug": "austin-reaves",
-   "tier": "Core targets",
-   "line": "Yahoo values him at more than twice ESPN's figure, and experts side with Yahoo, so he is a buy at 30 to 36 USD and an overpay at 40 USD."
-  },
-  {
-   "slug": "anthony-edwards",
-   "tier": "Discount only",
-   "line": "ESPN's value is above Yahoo's and both are above the experts' 40 to 45 USD, so he becomes a buy only at 45 USD or less."
-  },
-  {
-   "slug": "donovan-mitchell",
-   "tier": "Discount only",
-   "line": "ESPN values him 15 USD above Yahoo and every expert says he is not first round, so he is a buy at 31 to 40 USD."
-  },
-  {
-   "slug": "scottie-barnes",
-   "tier": "Discount only",
-   "line": "Both sites value him at 42 to 55 USD, well above the experts, so he becomes a buy at 31 to 35 USD."
-  },
-  {
-   "slug": "anthony-davis",
-   "tier": "Discount only",
-   "line": "ESPN ranks him 30 spots above Yahoo, and experts call ESPN too high because of his games played, so he is a buy only in the mid 20s USD."
-  },
-  {
-   "slug": "trae-young",
-   "tier": "Discount only",
-   "line": "Yahoo is the high side and ESPN ranks him only 49th, and experts see a round 3 player, so he is a buy near 33 USD, not at Yahoo's value."
-  },
-  {
-   "slug": "josh-giddey",
-   "tier": "Discount only",
-   "line": "Yahoo ranks him about 18 spots above ESPN and experts sit below Yahoo, so he is a buy near 29 to 31 USD for a punt TO team."
-  },
-  {
-   "slug": "kawhi-leonard",
-   "tier": "Discount only",
-   "line": "ESPN's 40 USD value is the high side, and experts cap him at 24 USD because of his knee and rest days, so he is a buy at 24 USD or less."
-  },
-  {
-   "slug": "devin-booker",
-   "tier": "Discount only",
-   "line": "Yahoo is high and ESPN low, and experts lean low, so he is a buy around 22 USD, far below last year's room price."
-  },
-  {
-   "slug": "pascal-siakam",
-   "tier": "Discount only",
-   "line": "ESPN ranks him 25th, but experts side with Yahoo's rank of 59, so he is a buy near Yahoo's 17 USD value and not at 25 to 29 USD."
-  },
-  {
-   "slug": "mikal-bridges",
-   "tier": "Discount only",
-   "line": "ESPN values him above Yahoo, but experts put him near 2 USD, so he is a buy only at a few dollars."
-  },
-  {
-   "slug": "chet-holmgren",
-   "tier": "Discount only",
-   "line": "Yahoo values him nearly three times higher than ESPN, and experts lean toward ESPN, so he is a buy at about 21 to 22 USD."
-  },
-  {
-   "slug": "walker-kessler",
-   "tier": "Discount only",
-   "line": "Yahoo values him at about twice ESPN's figure, and experts side with ESPN, so he is a buy at about 12 to 15 USD."
-  },
-  {
-   "slug": "kon-knueppel",
-   "tier": "Discount only",
-   "line": "ESPN buyers pay more than Yahoo buyers, and every expert ranks him lower than both markets, so he is a buy at 8 to 12 USD."
-  },
-  {
-   "slug": "deni-avdija",
-   "tier": "Discount only",
-   "line": "Yahoo's value is far above ESPN's, though ESPN buyers pay more, so he is a buy at about 20 to 23 USD and not in the mid 30s."
-  },
-  {
-   "slug": "lebron-james",
-   "tier": "Discount only",
-   "line": "Yahoo ranks him 30 spots above ESPN, and experts see fair value in the 50s to 60s, so he is a buy at 25 USD or less."
-  },
-  {
-   "slug": "donovan-clingan",
-   "tier": "Discount only",
-   "line": "Yahoo buyers pay more than twice the ESPN average cost, and experts side with ESPN, so he is a buy at 7 to 10 USD."
-  },
-  {
-   "slug": "franz-wagner",
-   "tier": "Discount only",
-   "line": "Yahoo's value is far above ESPN's, and experts sit at 11 to 15 USD, so he is a buy in that range and not above 20 USD."
-  },
-  {
-   "slug": "jarrett-allen",
-   "tier": "Discount only",
-   "line": "ESPN ranks him about 21 spots above Yahoo, and experts side with Yahoo, so he is a buy near 13 to 14 USD."
-  },
-  {
-   "slug": "joel-embiid",
-   "tier": "Discount only",
-   "line": "Yahoo's value is far above ESPN's, and games played are the main risk, so treat Yahoo's 19 USD value as the most he is worth to us."
-  },
-  {
-   "slug": "deaaron-fox",
-   "tier": "Discount only",
-   "line": "ESPN buyers pay more than twice the Yahoo average cost, and the newest expert calls see his rank as a best case, so he is a buy at 5 to 10 USD."
-  },
-  {
-   "slug": "ivica-zubac",
-   "tier": "Discount only",
-   "line": "Yahoo's value is more than three times ESPN's, and experts cap him at about 14 USD, so he is a buy at 10 to 14 USD."
-  },
-  {
-   "slug": "alex-sarr",
-   "tier": "Discount only",
-   "line": "Yahoo's value is high, while experts see a pick 80 to 90 player, so he is a buy only near his 4 to 9 USD market prices."
-  },
-  {
-   "slug": "caleb-wilson",
-   "tier": "Discount only",
-   "line": "ESPN ranks him 25 spots above Yahoo, and experts side with Yahoo, so he is a buy at about Yahoo's 11 USD value at most."
-  },
-  {
-   "slug": "vj-edgecombe",
-   "tier": "Discount only",
-   "line": "His Yahoo ADP is far earlier than his ESPN ADP, and experts price him near 10 USD, so he is a buy at 7 to 10 USD."
-  },
-  {
-   "slug": "stephon-castle",
-   "tier": "Discount only",
-   "line": "ESPN buyers pay more than twice the Yahoo average cost, and experts fade him, so he is a buy at a few USD and not at 15 USD or more."
-  },
-  {
-   "slug": "zion-williamson",
-   "tier": "Discount only",
-   "line": "Yahoo's value is four times ESPN's, while Josh says about 6 USD, so he is a buy only below about 10 USD."
+   "tier": "Pay the fair price",
+   "line": "Yahoo ranks him far above ESPN and recent mocks are rising, so he is a buy up to about 36 USD, and 40 USD is an overpay."
   },
   {
    "slug": "bam-adebayo",
-   "tier": "Value at price",
-   "line": "ESPN's value is far above Yahoo's, and experts side with Yahoo, so he is a buy in the mid 20s USD."
+   "tier": "Pay the fair price",
+   "line": "ESPN's value is far above both sites' average cost, so bid up to about 27 USD and ignore the ESPN value."
   },
   {
-   "slug": "derrick-white",
-   "tier": "Value at price",
-   "line": "ESPN's value is far above Yahoo's, and experts side with Yahoo, so he is fair in the mid 20s USD and a bargain in the mid teens."
-  },
-  {
-   "slug": "naz-reid",
-   "tier": "Value at price",
-   "line": "ESPN ranks him 41 spots above Yahoo, and experts put him at 55 to 75, so he is a buy at 10 to 14 USD."
-  },
-  {
-   "slug": "stephen-curry",
-   "tier": "Value at price",
-   "line": "Yahoo is about 10 USD above ESPN, and his per-game value is near 40 USD but injury risk caps him, so he is a buy in the mid to high 20s USD."
-  },
-  {
-   "slug": "trey-murphy",
-   "tier": "Value at price",
-   "line": "Yahoo values him far above ESPN's average cost, and the points-league complaints do not apply to us, so he is a buy in the mid 20s USD."
+   "slug": "domantas-sabonis",
+   "tier": "Pay the fair price",
+   "line": "ESPN's cost and our room's old price sit well above Yahoo, so he is a buy at about 25 USD, the low 30s are fine, and 40 USD is not."
   },
   {
    "slug": "lauri-markkanen",
-   "tier": "Value at price",
-   "line": "Yahoo is the high side and his ESPN ADP is far later, so he is a buy in the low to mid 20s USD."
-  },
-  {
-   "slug": "nickeil-alexander-walker",
-   "tier": "Value at price",
-   "line": "ESPN ranks him well above Yahoo, but both markets sit far below the experts' top 35 to 50 view, so he is a buy at any price up to about 20 USD."
+   "tier": "Pay the fair price",
+   "line": "Yahoo drafters take him much earlier than ESPN drafters, so he is a buy in the mid 20s, though one mock already reached 30 USD."
   },
   {
    "slug": "brandon-miller",
-   "tier": "Value at price",
-   "line": "Yahoo's value is nearly three times ESPN's, and experts side with the Yahoo end, so he is a buy at 20 to 26 USD."
+   "tier": "Pay the fair price",
+   "line": "The experts side with Yahoo over ESPN's low price, so he is a buy at about 20 to 26 USD."
   },
   {
-   "slug": "dyson-daniels",
-   "tier": "Value at price",
-   "line": "ESPN ranks him well above Yahoo, and his Yahoo average cost is far below both site values, so he is a buy at 18 to 24 USD."
+   "slug": "jaylen-brown",
+   "tier": "Pay the fair price",
+   "line": "Yahoo values him far above ESPN, and last season's room price was paid for a role he no longer has, so he is a buy at 20 to 24 USD."
+  },
+  {
+   "slug": "lebron-james",
+   "tier": "Pay the fair price",
+   "line": "Yahoo values him far above ESPN, and the experts' ceiling is near 25 USD, so he is a buy at 20 to 25 USD for punt TO."
+  },
+  {
+   "slug": "kawhi-leonard",
+   "tier": "Pay the fair price",
+   "line": "ESPN values him well above Yahoo, but his knee caps the expert price, so he is a strong buy only near 20 to 24 USD."
+  },
+  {
+   "slug": "deni-avdija",
+   "tier": "Pay the fair price",
+   "line": "Yahoo values him far above ESPN, and his assists shrink next to Lillard and Morant, so he is a buy near 17 USD with 24 USD as the ceiling."
+  },
+  {
+   "slug": "jalen-duren",
+   "tier": "Pay the fair price",
+   "line": "ESPN ranks him above Yahoo, while the experts see picks 40 to 50, so he is a buy around 20 USD and not near either site's value."
+  },
+  {
+   "slug": "paolo-banchero",
+   "tier": "Pay the fair price",
+   "line": "His snake ADP reflects points-league appeal while 9-cat experts side with Yahoo's rank, so he is a buy at about 19 to 20 USD."
+  },
+  {
+   "slug": "jarrett-allen",
+   "tier": "Pay the fair price",
+   "line": "ESPN ranks him well above Yahoo, whose drafters pay very little, so he is a buy at 8 to 12 USD and not at his ESPN rank."
+  },
+  {
+   "slug": "rudy-gobert",
+   "tier": "Pay the fair price",
+   "line": "ESPN ranks him above Yahoo and the experts call that too high, so he is a buy at about 8 to 12 USD for a punt FT% build."
+  },
+  {
+   "slug": "cade-cunningham",
+   "tier": "Let others overpay",
+   "line": "Yahoo's cost is far above ESPN and the experts, so let others pay the Yahoo price and buy only at about 45 to 50 USD."
+  },
+  {
+   "slug": "donovan-mitchell",
+   "tier": "Let others overpay",
+   "line": "ESPN prices him like a first-rounder and every expert disagrees, so he is a buy only in the low to mid 30s."
+  },
+  {
+   "slug": "anthony-davis",
+   "tier": "Let others overpay",
+   "line": "ESPN's value and our room's old price sit far above Yahoo, and he will miss games, so he is a buy only at 26 to 30 USD."
+  },
+  {
+   "slug": "derrick-white",
+   "tier": "Let others overpay",
+   "line": "ESPN values him far above Yahoo, and the experts side with Yahoo, so he is a buy at about 20 USD or less, never at 30 USD."
+  },
+  {
+   "slug": "trae-young",
+   "tier": "Let others overpay",
+   "line": "Yahoo and our room price him as a top-20 player while ESPN barely values him, so he is a buy only at a price that fits around pick 26."
+  },
+  {
+   "slug": "josh-giddey",
+   "tier": "Let others overpay",
+   "line": "Yahoo values him far above ESPN, and his preseason role worries the experts, so he is a buy at 28 to 32 USD and not at the full Yahoo price."
+  },
+  {
+   "slug": "devin-booker",
+   "tier": "Let others overpay",
+   "line": "Our room and Yahoo price him well above ESPN and the experts, so he is a buy in the low 20s, with a hard stop at about 25 to 30 USD."
+  },
+  {
+   "slug": "stephen-curry",
+   "tier": "Let others overpay",
+   "line": "Our room's old price is far above both sites because his games played are uncertain, so he is a buy at 25 to 31 USD."
+  },
+  {
+   "slug": "trey-murphy",
+   "tier": "Let others overpay",
+   "line": "Yahoo values him far above ESPN, using a role that came with Murray out, so he is a buy in the low 20s and not above 25 USD."
+  },
+  {
+   "slug": "chet-holmgren",
+   "tier": "Let others overpay",
+   "line": "The experts agree Yahoo prices him too high and side with ESPN, so he is a buy only at about 21 to 22 USD or less."
+  },
+  {
+   "slug": "pascal-siakam",
+   "tier": "Let others overpay",
+   "line": "ESPN's value and our room's old price sit far above Yahoo, and the experts side with Yahoo, so he is a buy at about 17 USD or less."
+  },
+  {
+   "slug": "walker-kessler",
+   "tier": "Let others overpay",
+   "line": "The experts agree Yahoo overprices him and side with ESPN, so he is a buy only up to about 15 USD."
+  },
+  {
+   "slug": "donovan-clingan",
+   "tier": "Let others overpay",
+   "line": "Every expert says Yahoo's value is too high, so he is a buy only near his ESPN value or Yahoo cost, about 13 to 15 USD."
+  },
+  {
+   "slug": "franz-wagner",
+   "tier": "Let others overpay",
+   "line": "Yahoo values him well above ESPN, and our room paid far more last season, so he is a buy only up to about 15 USD."
+  },
+  {
+   "slug": "ivica-zubac",
+   "tier": "Let others overpay",
+   "line": "Yahoo's value and our room's old price sit well above ESPN and the experts, so he is a buy at 10 to 14 USD."
+  },
+  {
+   "slug": "joel-embiid",
+   "tier": "Let others overpay",
+   "line": "Yahoo values him well above ESPN, and our room paid much more last season, but the games he misses cap him, so he is a buy at 10 to 15 USD."
+  },
+  {
+   "slug": "stephon-castle",
+   "tier": "Let others overpay",
+   "line": "Every expert says fade his Yahoo ADP and side with ESPN's low value, so he is a buy only in single digits."
+  },
+  {
+   "slug": "kon-knueppel",
+   "tier": "Let others overpay",
+   "line": "ESPN ranks him well above Yahoo, and the experts call both ADPs too early, so he is a buy at about 8 to 10 USD."
+  },
+  {
+   "slug": "alex-sarr",
+   "tier": "Let others overpay",
+   "line": "The experts say Yahoo ranks him too high and side with ESPN, so he is a buy up to about 10 USD for a blocks build."
+  },
+  {
+   "slug": "payton-pritchard",
+   "tier": "Let others overpay",
+   "line": "Yahoo's value and our room's old price sit far above the market cost, which the experts trust, so he is a buy in single digits, ideally near 4 USD."
+  },
+  {
+   "slug": "mikal-bridges",
+   "tier": "Let others overpay",
+   "line": "ESPN prices him like a top-30 player, but every expert says fade him, so he is a buy only at a few USD."
+  },
+  {
+   "slug": "deaaron-fox",
+   "tier": "Let others overpay",
+   "line": "ESPN's cost and our room's old price sit above Yahoo, while the experts rank him 70 to 90, so he is a buy at 10 to 14 USD."
+  },
+  {
+   "slug": "caleb-wilson",
+   "tier": "Let others overpay",
+   "line": "The experts call ESPN's rank too high and side with Yahoo, so he is a buy near 4 to 6 USD."
+  },
+  {
+   "slug": "brandin-podziemski",
+   "tier": "Let others overpay",
+   "line": "ESPN ranks him much higher than Yahoo, and the experts side with Yahoo, so he is a buy at 1 to 5 USD."
+  },
+  {
+   "slug": "reed-sheppard",
+   "tier": "Let others overpay",
+   "line": "ESPN's rank is what the experts fade, and Yahoo barely values him, so he is a buy only at 1 to 3 USD as a last pick."
+  },
+  {
+   "slug": "fred-vanvleet",
+   "tier": "Let others overpay",
+   "line": "ESPN ranks him far above Yahoo and the experts, so he is a buy only at 1 to 3 USD as a late punt FG% guard."
+  },
+  {
+   "slug": "demar-derozan",
+   "tier": "Let others overpay",
+   "line": "ESPN ranks him far above Yahoo, but the experts put him at the edge of our pool, so he is a buy only at 1 to 3 USD."
   },
   {
    "slug": "jaren-jackson",
    "tier": "Value at price",
-   "line": "Yahoo's value is five times ESPN's, and experts rank him about 36th, so he is a strong buy in the high teens and fair up to the mid 20s USD."
+   "line": "Both markets price him well below his Yahoo value and his expert rank, so he is a good buy anywhere near his Yahoo cost of about 15 USD."
+  },
+  {
+   "slug": "nickeil-alexander-walker",
+   "tier": "Value at price",
+   "line": "ESPN ranks him well above Yahoo, and both average costs sit below both site values, so he is a clear buy at 15 to 20 USD."
   },
   {
    "slug": "kyrie-irving",
    "tier": "Value at price",
-   "line": "Yahoo's value is about twice ESPN's, and experts see top 20 per-game value, so he is a buy into the high teens USD."
-  },
-  {
-   "slug": "michael-porter",
-   "tier": "Value at price",
-   "line": "ESPN buyers pay about three times the Yahoo average cost, and experts side with the site values, so he is a buy around 10 USD."
-  },
-  {
-   "slug": "keyonte-george",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, and experts think the market dropped him too far, so he is a buy at 15 to 20 USD."
-  },
-  {
-   "slug": "jaylen-brown",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, and experts side with Yahoo, so he is a buy at about 23 USD for a punt TO team."
-  },
-  {
-   "slug": "paolo-banchero",
-   "tier": "Value at price",
-   "line": "Yahoo's value is four times ESPN's, and experts put him at picks 45 to 75, so he is a buy at 13 to 20 USD."
+   "line": "The experts now draft him in round 3, far above his market cost on both sites, so he is a buy up to his Yahoo value of about 24 USD."
   },
   {
    "slug": "darius-garland",
    "tier": "Value at price",
-   "line": "ESPN buyers pay almost twice the Yahoo average cost, and experts see a top 30 to 50 player, so he is a buy at about 20 to 25 USD."
-  },
-  {
-   "slug": "cameron-boozer",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, and experts see rank 60 to 65, so he is a buy near 12 to 15 USD."
-  },
-  {
-   "slug": "dejounte-murray",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above both average costs, and experts call him a round 4 value, so he is a buy up to about 18 USD for a punt TO team, but bids may reach 24 USD."
-  },
-  {
-   "slug": "ty-jerome",
-   "tier": "Value at price",
-   "line": "ESPN ranks him 30 spots above Yahoo, but both value him at 8 USD, so he is a buy up to 8 USD."
-  },
-  {
-   "slug": "ryan-rollins",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, while both average costs sit near 2 USD and experts see a top 50 player, so he is a strong buy anywhere below 17 USD."
+   "line": "Yahoo values him far above his cost there and above ESPN, and the experts see a top-30 player, so he is a buy in the high teens with 25 USD as the ceiling."
   },
   {
    "slug": "matas-buzelis",
    "tier": "Value at price",
-   "line": "Both sites price him low, but experts see a top 50 player worth about 20 USD, so he is a buy at 15 to 22 USD."
+   "line": "The experts value him far above both markets, so he is a buy up to about 20 USD."
   },
   {
-   "slug": "tyler-herro",
+   "slug": "dejounte-murray",
    "tier": "Value at price",
-   "line": "Yahoo's value is more than twice ESPN's, so he is a buy at 14 to 16 USD and a bargain near 7 USD."
-  },
-  {
-   "slug": "zach-edey",
-   "tier": "Value at price",
-   "line": "Yahoo's value is eight times ESPN's, and a mock paid 20 USD against Josh's 11 USD cap, so he is a buy near 11 USD."
+   "line": "The experts like him far above his market cost, and an expert mock paid 24 USD, so he is a buy anywhere below his Yahoo value of 18 USD once the toe tag clears."
   },
   {
    "slug": "damian-lillard",
    "tier": "Value at price",
-   "line": "Yahoo's value is more than twice ESPN's, while experts see about 20 USD per game, so he is a strong buy at 5 to 10 USD."
-  },
-  {
-   "slug": "norman-powell",
-   "tier": "Value at price",
-   "line": "ESPN ranks him 22 spots above Yahoo, and experts see about 80th overall, so he is a buy at 7 USD or less."
-  },
-  {
-   "slug": "og-anunoby",
-   "tier": "Value at price",
-   "line": "Yahoo's value is three times ESPN's, and experts side with Yahoo, so he is a buy at 15 to 18 USD."
-  },
-  {
-   "slug": "julius-randle",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, though ESPN buyers pay more, so he is a buy at 10 to 12 USD with a stop near 15 USD."
-  },
-  {
-   "slug": "ausar-thompson",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, and experts see upside above Yahoo, so he is a buy at 14 to 18 USD for punt FT% and punt 3PM builds."
-  },
-  {
-   "slug": "cedric-coward",
-   "tier": "Value at price",
-   "line": "Yahoo's value is far above ESPN's, and Josh priced him at about 6 USD, so he is a buy at 4 to 8 USD."
+   "line": "Both markets price him low, while the newest expert calls put him in the top 50, so he is a strong buy at 10 to 17 USD."
   },
   {
    "slug": "paul-george",
    "tier": "Value at price",
-   "line": "Yahoo's value is four times ESPN's, and experts expect top 40 per-game value, so he is a buy up to 13 USD and still fine at 15 to 20 USD."
+   "line": "Yahoo values him above ESPN and both costs are tiny, while the experts see a top-40 player, so he is a buy at 10 to 15 USD and fine up to 20 USD."
+  },
+  {
+   "slug": "ryan-rollins",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and both costs are near the minimum, while the experts draft him around picks 50 to 65, so he is a buy in the low to mid teens."
+  },
+  {
+   "slug": "keyonte-george",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and the experts see a round 5 target, so he is a buy up to about 20 USD."
+  },
+  {
+   "slug": "og-anunoby",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and the experts think he is worth about 20 USD in categories, so he is a buy at 16 to 20 USD."
+  },
+  {
+   "slug": "ausar-thompson",
+   "tier": "Value at price",
+   "line": "Yahoo and our room price him far above ESPN and his market cost, so he is a buy at 15 to 18 USD for punt FT%."
+  },
+  {
+   "slug": "ty-jerome",
+   "tier": "Value at price",
+   "line": "ESPN ranks him well above Yahoo, whose drafters pay almost nothing, and the experts see a top-100 player, so he is a buy up to about 11 USD."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and the experts draft him around picks 60 to 70, so he is a buy at 10 to 15 USD."
+  },
+  {
+   "slug": "naz-reid",
+   "tier": "Value at price",
+   "line": "ESPN ranks him far above Yahoo, and the experts sit in between, so he is a buy at 10 to 14 USD."
+  },
+  {
+   "slug": "michael-porter",
+   "tier": "Value at price",
+   "line": "ESPN drafters pay more than Yahoo drafters, and the experts value him around pick 60, so he is a buy at 10 to 15 USD."
+  },
+  {
+   "slug": "kelel-ware",
+   "tier": "Value at price",
+   "line": "ESPN ranks him above Yahoo, and both average costs sit far below both site values, so he is a buy up to about 10 USD."
+  },
+  {
+   "slug": "cameron-boozer",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and his value should rise toward the playoffs, so he is a buy at 10 to 15 USD but not above that."
+  },
+  {
+   "slug": "tyler-herro",
+   "tier": "Value at price",
+   "line": "Both sites rank him the same but Yahoo values him much higher than ESPN, so he is a buy at 10 to 15 USD."
   },
   {
    "slug": "dayron-sharpe",
    "tier": "Value at price",
-   "line": "Yahoo values him at 6 USD and ESPN near 0 USD, but a mock paid 10 USD and still called it under value, so he is a buy up to about 10 USD."
-  },
-  {
-   "slug": "reed-sheppard",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and experts side with Yahoo because his role shrinks, so he is a buy at 1 to 5 USD."
-  },
-  {
-   "slug": "brandin-podziemski",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and experts side with Yahoo, so he is a buy at 1 to 4 USD."
-  },
-  {
-   "slug": "fred-vanvleet",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and Lloyd's 120 to 135 rank sides with Yahoo, so he is a buy at 1 USD."
-  },
-  {
-   "slug": "kristaps-porzingis",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and the market has dropped him to almost nothing, so he is a buy at 1 to 3 USD."
-  },
-  {
-   "slug": "payton-pritchard",
-   "tier": "Late flyers",
-   "line": "Yahoo's value is far above ESPN's, and one expert caps him at 4 USD, so he is a buy at about 5 USD or less."
-  },
-  {
-   "slug": "brandon-ingram",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him far above ESPN, but he is out with a partially torn Achilles, so he is a buy only as a 1 to 3 USD IL stash."
-  },
-  {
-   "slug": "dylan-harper",
-   "tier": "Late flyers",
-   "line": "Yahoo's value is five times ESPN's, and experts call his mock spot too high, so he is a buy at about 5 USD."
-  },
-  {
-   "slug": "tobias-harris",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and expert calls put him on our 144-player cutoff, so he is a buy at 1 USD only."
-  },
-  {
-   "slug": "jalen-suggs",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him far above ESPN, and experts see a top 70 to 80 per-game player, so he is a buy in the low single digits USD."
-  },
-  {
-   "slug": "demar-derozan",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, and experts side with Yahoo, so he is a buy at 1 to 3 USD."
+   "line": "Yahoo ranks him far above ESPN, and an expert called a 10 USD mock price under value, so he is a buy at 5 to 8 USD."
   },
   {
    "slug": "collin-murray-boyles",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him far above ESPN, and buzz pushed a mock price to 9 USD, so he is a buy at 2 to 5 USD."
+   "tier": "Value at price",
+   "line": "Yahoo ranks him far above ESPN, and the experts see a top-100 player, so he is a buy at 5 to 9 USD for punt 3PM."
   },
   {
-   "slug": "nikola-vucevic",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him far above Yahoo, but he is now a bench center, so he is a buy at 1 to 2 USD as a Carter handcuff."
+   "slug": "jalen-suggs",
+   "tier": "Value at price",
+   "line": "Yahoo ranks him far above ESPN, which prices in his injuries, so he is a buy at 5 to 9 USD if you plan for about 20 missed games."
   },
   {
    "slug": "zach-lavine",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him far above ESPN, with both average costs near 1 USD, so he is a buy at 1 to 5 USD."
+   "tier": "Value at price",
+   "line": "Yahoo ranks him above ESPN, and his mock draft position is rising past both sites, so expect to pay and buy at 5 to 12 USD."
   },
   {
-   "slug": "isaiah-hartenstein",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him above ESPN and both average costs sit near 1 USD, so he is a late-auction buy far below last year's room price."
+   "slug": "cedric-coward",
+   "tier": "Value at price",
+   "line": "Yahoo values him far above ESPN, and the experts sit between the two, so he is a buy at about 6 USD."
   },
   {
-   "slug": "andrew-nembhard",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him well above ESPN, and experts side with ESPN, so he is a buy at 1 USD at most."
+   "slug": "dylan-harper",
+   "tier": "Value at price",
+   "line": "Yahoo values him above ESPN, but both costs are near 5 USD and the experts see top-60 upside, so he is a buy at 5 to 10 USD."
+  },
+  {
+   "slug": "coby-white",
+   "tier": "Value at price",
+   "line": "Yahoo values him above ESPN, and his calf strain pushes the experts into the 90s, so he is a buy at 5 to 10 USD."
+  },
+  {
+   "slug": "brandon-ingram",
+   "tier": "Last-dollar flyers",
+   "line": "Yahoo ranks him far above ESPN and the experts while his Achilles keeps him out, so he is a buy only at 1 to 3 USD as an IL stash."
   },
   {
    "slug": "khaman-maluach",
-   "tier": "Late flyers",
-   "line": "Yahoo ranks him far above ESPN, so he is a buy at 1 to 2 USD as a blocks flyer."
+   "tier": "Last-dollar flyers",
+   "line": "Yahoo ranks him far above ESPN, but both prices are near zero, so he is a buy at 1 to 2 USD as a late blocks flyer."
+  },
+  {
+   "slug": "kristaps-porzingis",
+   "tier": "Last-dollar flyers",
+   "line": "ESPN ranks him far above Yahoo, but nobody knows when he will play, so he is at most a 1 USD IL stash, and leaving him on waivers is safer."
+  },
+  {
+   "slug": "andrew-nembhard",
+   "tier": "Last-dollar flyers",
+   "line": "Yahoo ranks him above ESPN, but the experts put him around pick 164, so he is a buy at 1 USD at most, or a fast waiver add if Haliburton sits."
+  },
+  {
+   "slug": "tobias-harris",
+   "tier": "Last-dollar flyers",
+   "line": "ESPN ranks him far above Yahoo, but a calf strain and a likely bench role cap him, so pay 1 USD at most or leave him on waivers."
+  },
+  {
+   "slug": "mitchell-robinson",
+   "tier": "Last-dollar flyers",
+   "line": "ESPN ranks him well above Yahoo, and recent mocks put him around pick 126, so he is a 1 USD final pick for punt FT% or a waiver add."
   },
   {
    "slug": "jeremiah-fears",
-   "tier": "Late flyers",
-   "line": "ESPN ranks him well above Yahoo, so he is a buy at 1 USD as a Dejounte Murray handcuff."
+   "tier": "Last-dollar flyers",
+   "line": "ESPN ranks him above Yahoo, but both prices are near the minimum, so he is a 1 USD final pick, best as a handcuff to Dejounte Murray."
+  },
+  {
+   "slug": "ajay-mitchell",
+   "tier": "Last-dollar flyers",
+   "line": "Yahoo ranks him far above ESPN, and both prices are near zero, so he is a 1 USD final pick as an OKC handcuff."
+  },
+  {
+   "slug": "gui-santos",
+   "tier": "Last-dollar flyers",
+   "line": "Yahoo ranks him far above ESPN but has no average cost for him, so he is a 1 USD last-round flyer at most."
   }
  ],
  "excluded": [
   {
-   "slug": "russell-westbrook",
-   "reason": "Unsigned, expected to have no fantasy impact, and expected to go undrafted in our 144-player pool."
+   "slug": "wendell-carter",
+   "reason": "An expert calls him undraftable in a 12-team league, and he fits no build. He belongs on waivers, not in a price-gap draft plan."
   },
   {
    "slug": "danny-wolf",
-   "reason": "Both sites value him at 0 USD and rank him well outside our 144-player pool. He is not a draft target."
+   "reason": "Both sites value him at 0 USD, and the experts call him inefficient. He is a waiver watch only if he wins center minutes."
   },
   {
    "slug": "kelly-oubre",
-   "reason": "Both sites value him at 0 USD, and the expert calls him a 14 to 16 team player who should go undrafted for us."
+   "reason": "Both sites value him at 0 USD, and the experts call him a 14 to 16 team player, so he should go undrafted in our 12-team league."
   },
   {
-   "slug": "paul-reed",
-   "reason": "Neither site puts a price on him and both rank him outside our pool, so there is no price gap to predict."
-  },
-  {
-   "slug": "alex-caruso",
-   "reason": "Both sites value him at 0 USD. He is a waiver option, not an auction price question."
-  },
-  {
-   "slug": "gui-santos",
-   "reason": "Both sites value him at 0 USD. At most he is a 1 USD bench flyer, with no price gap that matters."
-  },
-  {
-   "slug": "ajay-mitchell",
-   "reason": "Both sites value him at 0 USD, and experts call his value overblown. At most he is a 1 USD final pick."
-  },
-  {
-   "slug": "mitchell-robinson",
-   "reason": "Both ranks sit near or past our pool, and the better plan is to leave him on waivers and stream him."
+   "slug": "russell-westbrook",
+   "reason": "He is unsigned, and the experts expect no fantasy impact. His rank gap comes from conflicting data, not from a real price question in our draft."
   }
  ],
  "rejected": []

@@ -4,49 +4,49 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 69 | 28.5 | 48.1 (11.5) | 86.5 (3.0) | 1.7 | 15.4 | 6.5 | 3.0 | 0.7 | 0.5 | 1.9 |
-| 2026-27 proj, Yahoo | 70 | - | 47.8 (14.2) | 83.2 (3.7) | 2.0 | 18.7 | 7.1 | 3.9 | 0.9 | 0.6 | 2.4 |
+| 2026-27 proj, Yahoo | 70 | - | 47.8 (13.4) | 83.0 (3.5) | 1.9 | 17.6 | 6.7 | 3.6 | 0.8 | 0.6 | 2.2 |
 | 2025-26 | 62 | 25.8 | 47.1 (10.5) | 84.3 (2.7) | 1.5 | 13.6 | 5.9 | 2.8 | 0.6 | 0.4 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 13 | 3.7 | 75 | 1 | 1.4 | 127 | not drafted |
+| 2026-27 | 12 | 3.0 | 77 | 1 | 1.4 | 127 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 48.0% | +0.0 | +0.3 | - |
-| FT% | 84.7% | +0.7 | +0.7 | - |
-| 3PM | 1.8 | +0.4 | +0.2 | - |
-| PTS | 17.0 | +0.5 | +0.5 | - |
-| REB | 6.8 | +0.7 | +1.3 | - |
-| AST | 3.4 | +0.1 | +0.1 | - |
-| STL | 0.8 | -0.4 | -0.5 | - |
-| BLK | 0.6 | -0.1 | +0.3 | - |
-| TO | 2.1 | -0.6 | -0.6 | - |
+| FG% | 47.9% | +0.0 | +0.3 | - |
+| FT% | 84.6% | +0.7 | +0.6 | - |
+| 3PM | 1.8 | +0.3 | +0.1 | - |
+| PTS | 16.5 | +0.4 | +0.4 | - |
+| REB | 6.6 | +0.6 | +1.2 | - |
+| AST | 3.3 | +0.1 | +0.0 | - |
+| STL | 0.8 | -0.5 | -0.6 | - |
+| BLK | 0.5 | -0.1 | +0.2 | - |
+| TO | 2.1 | -0.5 | -0.5 | - |
 
 </details>
 
 **Current**
-- Memphis projects him as a starter. The projected starting five is Ty Jerome, Cedric Coward, Jerami Grant, Cameron Boozer and Zach Edey. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483))
-- Experts expect him to start and play about 28 minutes, with more shots and more free throws in a standard second-year jump. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1108), [10-05](https://youtu.be/BiIZsSypx7Y?t=3427), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561), [09-04](https://youtu.be/gerS7ibpaJo?t=1355))
-- Experts pick him as a second-year breakout, with a usage bump and room for his assists to grow. (verdict, 2026-10-07; [09-21](https://youtu.be/egRrai3Ax38?t=1977), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [09-10](https://youtu.be/W-R1dzem32s?t=1607), [10-07](https://youtu.be/lp11OAEpq4Y?t=1100))
-- His Yahoo ADP of 87 and rank of 84 are fair. He is better value on ESPN (around 124) and Fantrax (107). The expert is happy to take him in the 90s. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1075), [10-07](https://youtu.be/lp11OAEpq4Y?t=1108))
-- Coach Tuomas Iisalo uses short, hard stints, plays at a very high pace and runs a deep rotation of 11 or 12 players. That can cap minutes, but Joe expects Coward to be one of only two Grizzlies above 30 minutes. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
-- Memphis has a maxed 4-4-4 schedule in our playoff weeks (season ending March 28) and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- In an auction mock draft, Josh valued him at about 6 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4049))
-- Ja Morant is gone. That leaves little usage competition in Memphis, and Cameron Boozer is the other main usage option. (fact, 2026-07-21; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [06-25](https://youtu.be/lOshTzDA4SA?t=243), [06-30](https://youtu.be/4GDfg2n2l8o?t=460))
+- The newest expert view is more cautious: he is somewhat hopeful but worried Coward lacks an extra gear, because he did not step up when given the chance last season. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1243))
+- Experts see a fair draft spot around picks 87 to 100. His Yahoo ADP of 87 is called right on, and he is better value on ESPN, where he goes around 124. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1243), [10-13](https://youtu.be/OsbUAkSeVB4?t=1182), [10-07](https://youtu.be/lp11OAEpq4Y?t=1075), [10-07](https://youtu.be/lp11OAEpq4Y?t=1108), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [08-11](https://youtu.be/OdDkXFhoKsc?t=1902))
+- Experts expect him to start for Memphis on the wing, next to Ty Jerome, Jerami Grant, Cameron Boozer and Zach Edey. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081))
+- Experts expect more minutes than last season. Estimates range from about 28 to over 30 minutes a night. Joe expects only Coward and Cameron Boozer to top 30 minutes on Memphis. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1108), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1069), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [10-05](https://youtu.be/BiIZsSypx7Y?t=3427))
+- Most experts expect a second-year jump with more usage, more shots and more free throws. One expert calls him one of the bigger breakout players this season. His assists can also improve. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1108), [10-07](https://youtu.be/lp11OAEpq4Y?t=1100), [09-04](https://youtu.be/gerS7ibpaJo?t=1355), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-10](https://youtu.be/W-R1dzem32s?t=1607), [09-21](https://youtu.be/egRrai3Ax38?t=1977), [09-10](https://youtu.be/dlo7L8Ru91A?t=1561))
+- Memphis coach Tuomas Iisalo uses short, hard stints and a deep rotation of 11 or 12 players, which spreads minutes across the roster. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis has a full 4-4-4 game schedule in our fantasy playoff weeks (season end March 28) and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- In an auction mock, Josh valued him at about 6 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4049))
 
 **Durable**
-- He does not produce many steals or blocks, and his defensive stats did not come as a rookie. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1100), [10-05](https://youtu.be/BiIZsSypx7Y?t=3427), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-10](https://youtu.be/W-R1dzem32s?t=1607), [09-04](https://youtu.be/gerS7ibpaJo?t=1317), stats)
-- Experts disagree on his rebounding. Joe calls him a rebounding shooting guard, while the newest preview calls him a middling rebounder. The projections rate his rebounds well above other guards and forwards. (verdict, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403), [10-07](https://youtu.be/lp11OAEpq4Y?t=1100), stats)
-- He has a good archetype but is old for a second-year player, and he has not yet shown he can raise his usage or shot volume. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1317))
-- He is a third-option scorer who knocks down open shots, and he is a strong real-life defender. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403))
+- He is not a steals or blocks player. Experts agree his defensive stats are weak, and steals are his weakest projected category. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1100), [09-04](https://youtu.be/gerS7ibpaJo?t=1317), [10-05](https://youtu.be/BiIZsSypx7Y?t=3427), [10-02](https://youtu.be/ZYllcj4o6_A?t=2081), [09-10](https://youtu.be/W-R1dzem32s?t=1607), stats)
+- Experts disagree on his rebounding. Joe sees him as a rebounding shooting guard, while another expert calls him a middling rebounder. His projected rebounds are well above average for his position. (verdict, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403), [10-07](https://youtu.be/lp11OAEpq4Y?t=1100), stats)
+- He has a good archetype but is old for a second-year player, and he has not yet shown he can raise his usage or volume. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1317))
+- He is a third-option scorer who knocks down open shots. Joe also calls him a strong defender. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1403))
 
 **Tags**
-- Current: `breakout` (second-year jump in usage and minutes), `role up` (about 28 minutes and more shots as a starter), `usage freed` (Ja Morant gone), `sites disagree on price` (Yahoo value 13 USD and rank 75, ESPN value 1 USD and rank 127), `deep rotation` (11 or 12 man rotation with short stints), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (4-4-4 in weeks 19 to 21), `few back-to-backs` (13 back-to-backs)
-- Durable: `fits every build` (no category flagged weak; steals are his softest spot)
+- Current: `role up` (More minutes (28 to 30+) and more usage expected in his second season), `breakout` (Second-year jump in usage and shots expected), `flyer` (Josh likes him as a late-round flier), `sites disagree on price` (Yahoo rank 77 and value 12 USD, ESPN rank 127 and value 1 USD), `deep rotation` (Iisalo runs an 11 or 12-man rotation with short stints), `good playoff schedule` (4-4-4 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league)
+- Durable: `REB from a guard` (Projected 6.6 rebounds, well above his position; one expert calls him only a middling rebounder), `fits every build` (No category flagged weak; steals are his softest spot)
 
-**Note.** Nobody drafted him in our league last season. Yahoo values him at 13 USD but his average Yahoo cost is only 3.7 USD, and Josh priced him at about 6 USD. That makes him a good target around 4 to 8 USD as a starter on a 4-4-4 playoff schedule with few back-to-backs. His projection has no weak category, with a good FT% (84.7%) and strong rebounds for his position, so he fits any build, but do not expect steals or blocks. Early in the season, check that he plays near 28 to 30 minutes in Iisalo's deep rotation and that his shot volume rises from 10.5 attempts toward Yahoo's 14.2.
+**Note.** Experts put Coward around picks 87 to 100. In a 144-player draft, that makes him a mid-to-late starter or bench piece. Josh's 6 USD auction value is a fair bid, sitting between ESPN's 1 USD and Yahoo's 12 USD. He has no weak flagged category, so he fits any build, though his low steals mean he does little for steals-focused teams. Early in the season, check whether he plays 28 or more minutes in Iisalo's deep rotation and whether his shot volume rises from last season's 10.5 attempts. His Memphis schedule (4-4-4 in the playoffs, few back-to-backs) is a small bonus.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

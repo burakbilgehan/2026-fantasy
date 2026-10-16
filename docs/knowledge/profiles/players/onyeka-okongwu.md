@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 22 | 7.7 | 49 | 14 | 6.8 | 44 | 6 |
+| 2026-27 | 22 | 7.6 | 49 | 14 | 6.7 | 44 | 6 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,30 +30,32 @@
 </details>
 
 **Current**
-- His usage was 19.5 with Trae Young out and fell to 17 and then 16 late last season. His usage and scoring dropped when he shared the floor with CJ McCollum. (fact, 2026-10-09; [10-06](https://youtu.be/eTsjuVu1trk?t=1136), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1365))
-- The idea that Porzingis leaving boosts his role is overstated. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1365))
-- Experts call his rank of 49 a little too high for category leagues. They say nine-cat rankings inflate him, a round 4 pick would disappoint, and a pick in the 50s or 60s is fair, mostly as a positional pick at center. (verdict, 2026-10-09; [10-06](https://youtu.be/eTsjuVu1trk?t=1136), [09-25](https://youtu.be/4gw4W4RTolY?t=891), [09-30](https://youtu.be/BjXP9JODDSg?t=987), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2709), [09-24](https://youtu.be/_vbAP5y182A?t=1082), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1365))
-- He is Atlanta's clear starting center, with little competition for his role. Veesaar is out for the season, Gueye is injured, and Jock Landale is the main backup. (fact, 2026-10-08; [08-25](https://youtu.be/H9q2FT3LhNw?t=1478), [09-14](https://youtu.be/t4n9MAP2_14?t=1414), [10-08](https://youtu.be/WXO8MfQfzo0?t=1301), [09-25](https://youtu.be/4gw4W4RTolY?t=938), [09-25](https://youtu.be/4gw4W4RTolY?t=1693), [06-26](https://youtu.be/CLsUc0Sevos?t=1102))
-- In an auction mock, Josh targeted him at 15 to 16 USD and bought him for 16 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3455))
+- His Yahoo status is questionable (rest). (fact, 2026-10-16; stats)
+- He probably will not start the season healthy. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1040))
+- Experts call rank 49 too high and a round four pick a disappointment. His healthy range is around pick 68, and mock drafters took him between picks 57 and 76. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1040), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1365), [10-06](https://youtu.be/eTsjuVu1trk?t=1136), [09-25](https://youtu.be/4gw4W4RTolY?t=891), [09-30](https://youtu.be/BjXP9JODDSg?t=987))
+- Experts do not expect a big usage jump. His usage fell to 16 or 17 late last season, and the idea that Porzingis leaving boosts his role is overstated. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1365), [10-06](https://youtu.be/eTsjuVu1trk?t=1136))
+- He is Atlanta's clear starting center. No established backup threatens his role. (fact, 2026-10-08; [08-25](https://youtu.be/H9q2FT3LhNw?t=1478), [09-14](https://youtu.be/t4n9MAP2_14?t=1414), [10-08](https://youtu.be/WXO8MfQfzo0?t=1301), [09-25](https://youtu.be/4gw4W4RTolY?t=328))
+- In an expert auction mock, Josh targeted him at 15 or 16 USD and bought him for 16 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3455))
+- Atlanta's center depth is thin. Veesaar is out for the season, Gueye is injured, and Jock Landale is the other center. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1693), [09-25](https://youtu.be/4gw4W4RTolY?t=1289), [06-26](https://youtu.be/CLsUc0Sevos?t=1102), [06-25](https://youtu.be/lOshTzDA4SA?t=2227))
 - Atlanta is reported to be very cautious with his minutes. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=938))
 - Quin Snyder wants him spaced away from the rim when he plays with Dyson Daniels and Jalen Johnson. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=905))
-- Experts do not expect his FG% or his block rate to bounce back under Quin Snyder, because his role away from the rim and the defensive scheme stay the same. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=912), [07-16](https://youtu.be/-y6p5PYLf00?t=1591), [09-14](https://youtu.be/t4n9MAP2_14?t=1414))
-- Atlanta plays 4, 4 and 3 games in our playoff weeks 19 to 21. The team has 14 back-to-backs and is not expected to rest or shut down players. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
+- Lloyd expects his lower FG% and lower block rate to stay under Quin Snyder. A FG% bounce back is not guaranteed. (verdict, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=912), [07-16](https://youtu.be/-y6p5PYLf00?t=1591))
+- Atlanta plays 4, 4 and 3 games in our playoff weeks and has 14 back-to-backs. Resting players or shutting them down is not a concern for this team. (fact, 2026-09-25; [09-25](https://youtu.be/4gw4W4RTolY?t=1739), [07-14](https://youtu.be/xHRF06_E9HE?t=230))
 
 **Durable**
-- For a center, his threes and steals are clearly above average. His blocks and rebounds are only average for the position. (fact, 2026-10-11; stats, [09-30](https://youtu.be/BjXP9JODDSg?t=950))
-- He is not a big rebounder, but he is a usable second center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950))
-- His broad profile of threes, steals and blocks makes him worth more in category leagues than in points leagues. (verdict, 2026-08-30; [08-30](https://youtu.be/Alwse2uXzD4?t=1560), [10-06](https://youtu.be/eTsjuVu1trk?t=1136))
-- He is a stretch center who takes many threes. He shot 38% from three on real volume, and the volume should hold even if the percentage dips. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1540))
-- Since moving to the perimeter, his rim finishing and offensive rebound rate are lower, and his assist rate and three-point rate are higher. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1606))
-- He gave up blocks to cut fouls and defend on the perimeter, so his block rate is lower and his steal rate is higher. Expect this profile to continue, maybe with a few more blocks. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768))
-- He has very good hands and feel, and he handles the ball better than most centers. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1738))
-- Quin Snyder runs a high-movement, five-out offense that wants many threes. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697))
+- His balanced line of threes, steals and blocks makes him worth more in category leagues than in points leagues. Plain nine-cat rankings still inflate him. (verdict, 2026-10-06; [08-30](https://youtu.be/Alwse2uXzD4?t=1560), [10-06](https://youtu.be/eTsjuVu1trk?t=1136), [09-25](https://youtu.be/4gw4W4RTolY?t=891))
+- Not a huge rebounder, but a usable second center. (verdict, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=950))
+- He is a stretch center who shoots threes on real volume. He hit 38% from three last season, and the volume is real even if the percentage dips. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1540), stats)
+- Playing on the perimeter cut his rim finishing and offensive rebounding and raised his assist and three-point rates. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1606))
+- He gave up blocks to cut fouls and defend on the perimeter. His block rate is down, and his steal rate is up and high for a center. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768), stats)
+- Expect the same block and steal profile going forward, maybe with a few more blocks. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1768))
+- He has very good hands and good feel, and he handles the ball better than most centers. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=1738))
+- Quin Snyder runs a high-movement, five-out offense that wants many threes. The switching and blitzing defense puts the center in different spots. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=697), [08-25](https://youtu.be/H9q2FT3LhNw?t=1761))
 
 **Tags**
-- Current: `bust candidate` (At Yahoo rank 49; experts see a fair price in the 50s or 60s), `usage competition` (His usage and scoring dropped next to CJ McCollum), `low shutdown risk`
-- Durable: `3PM from a big` (About 1.9 threes per game projected; stretch center who shot 38% from three), `fits every build` (No weak category; threes and steals are strong for a center), `category league player`, `9-cat fluff` (Lloyd says nine-cat rankings inflate him), `five-out offense` (Snyder spaces him away from the rim)
+- Current: `bust candidate` (At Yahoo rank 49 and a round four price), `questionable` (Yahoo Q (Rest)), `injured now` (Expert expects him not to start the season healthy), `minutes limit` (Team is very cautious with his minutes), `low shutdown risk`
+- Durable: `3PM from a big` (About 1.9 threes per game, 38% from three last season), `fits every build` (No weak category flagged), `five-out offense` (Snyder spaces him away from the rim), `category league player`, `9-cat fluff`
 
-**Note.** He went for 6 USD in our league last season. Yahoo values him at 22 USD and ESPN at 14 USD, but average costs are only 7.7 and 6.3 USD, and an expert auction mock paid 16 USD. For a center he helps every build with threes and steals and has no weak category, but experts expect his FG% (48%, down from 57%) and his blocks to stay at last season's lower level. Treat him as a mid-priced second center, not a round 4 value. Early in the season, check his minutes, his usage next to McCollum, and whether Snyder gives him more shots at the rim.
+**Note.** Yahoo values him at 22 USD and ESPN at 14 USD, but average costs are 7.6 and 6.7 USD, and he went for 6 USD in our league last season. Experts see him as a pick around 68 and paid 16 USD in a mock, so treat 22 USD as too high and aim for the low teens. He fits any build as a center who adds threes and steals. Early in the season, check his health (Yahoo Q now), his minutes and whether he gets more shots at the rim, since his FG% depends on that.
 
-<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>22 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

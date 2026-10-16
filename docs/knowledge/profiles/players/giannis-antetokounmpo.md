@@ -11,16 +11,16 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 55 | 60.8 | 6 | 41 | 65.5 | 19 | 62 |
+| 2026-27 | 55 | 62.0 | 6 | 41 | 64.3 | 19 | 62 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 61.7% | +4.7 | +4.3 | league outlier, strong |
-| FT% | 64.4% | -6.4 | -5.8 | league outlier, weak, weak for his position (punt fit) |
+| FT% | 64.4% | -6.4 | -5.9 | league outlier, weak, weak for his position (punt fit) |
 | 3PM | 0.4 | -1.2 | -1.0 | - |
-| PTS | 30.9 | +2.9 | +3.1 | league outlier, strong |
+| PTS | 30.9 | +2.9 | +3.2 | league outlier, strong |
 | REB | 10.9 | +2.5 | +2.1 | league outlier, strong |
 | AST | 6.3 | +1.6 | +2.5 | - |
 | STL | 1.1 | +0.4 | +0.7 | - |
@@ -30,46 +30,39 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable (rest). (fact, 2026-10-11; stats)
-- It is still open whether Miami starts a traditional point guard or lets him run point. Davion Mitchell may not close games. (fact, 2026-10-09; [10-07](https://youtu.be/cvhcheoKdbo?t=262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
-- Experts call him the clear 5th pick in category leagues and say he should not fall past pick 5. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=286), [10-07](https://youtu.be/cvhcheoKdbo?t=465), [10-07](https://youtu.be/cvhcheoKdbo?t=488), [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [09-30](https://youtu.be/BjXP9JODDSg?t=247), [09-17](https://youtu.be/ahNxsoU8Hx4?t=257), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-14](https://youtu.be/LM0cRCGoAUQ?t=279), [09-07](https://youtu.be/E-KmhvyZ2CU?t=364), [08-19](https://youtu.be/J1Eg3uaAICU?t=425), [07-13](https://youtu.be/Rqb5GdrSweY?t=507), [09-16](https://youtu.be/2A2JbUN-kc0?t=360))
-- Experts call his ESPN rank of about 20 egregious. At worst he is a top 9 player. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=286), [10-07](https://youtu.be/cvhcheoKdbo?t=488), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2077))
-- Experts expect 32 to 33 minutes a game and high usage as Miami's main creator. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=442), [06-23](https://youtu.be/nnWX_ObljOE?t=833), [07-13](https://youtu.be/Rqb5GdrSweY?t=455))
-- Experts expect over 60 games, but not 70. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=442), [09-14](https://youtu.be/LM0cRCGoAUQ?t=306))
-- Experts are not very worried about last season's calf injuries and missed games, since some came while the Bucks were tanking. A new calf issue would be a concern. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1935), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [10-04](https://youtu.be/n4KkK-OJjqA?t=104))
-- Getting him at pick 6 to 8 is strong value. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1771), [08-11](https://youtu.be/OdDkXFhoKsc?t=339))
-- Miami has the league-fewest 13 back-to-backs and none in the fantasy playoffs. (fact, 2026-10-07; [08-16](https://youtu.be/gf_6GveiAls?t=1126), [10-07](https://youtu.be/cvhcheoKdbo?t=2037), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- Nothing points to him sitting back-to-backs. He may sit one or two. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2042))
-- With the March 28 end, Miami plays 4, 3 and 3 games in weeks 19 to 21, 10 games in total. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
-- The expert calls Miami's playoff schedule weak. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024))
-- The East is very stacked, so Miami may not be able to coast and rest players for long stretches. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2106))
-- An expert prices him at about 60 USD in auctions. He went for 58 USD in a mock, about where he should sit. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=904))
-- Miami lacks other ball handlers. He played basically as a point guard in Miami's first preseason game. (fact, 2026-10-04; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [10-04](https://youtu.be/n4KkK-OJjqA?t=104))
-- He was traded from Milwaukee to Miami. (fact, 2026-08-19; [06-23](https://youtu.be/nnWX_ObljOE?t=64), [07-30](https://youtu.be/TiiaNZCJNs8?t=2064), [08-19](https://youtu.be/J1Eg3uaAICU?t=425))
-- With more minutes and aggression his FG% could get back to 65%. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034))
-- His assist rate should rise because no one else on Miami handles the ball. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=845))
+- He plays for Miami after a trade from Milwaukee. (fact, 2026-10-12; [06-23](https://youtu.be/nnWX_ObljOE?t=64), [07-30](https://youtu.be/TiiaNZCJNs8?t=2064), [08-19](https://youtu.be/J1Eg3uaAICU?t=425), [10-12](https://youtu.be/NhLMyS7Ii5I?t=262))
+- With few other creators in Miami, he should keep high usage and his assist rate should rise. (verdict, 2026-10-12; [06-23](https://youtu.be/nnWX_ObljOE?t=845), [07-13](https://youtu.be/Rqb5GdrSweY?t=455), [10-12](https://youtu.be/NhLMyS7Ii5I?t=262))
+- Experts call him a clear number 5 pick in category leagues. He should not fall past pick 5, and getting him at pick 6 or 7 is value. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=308), [10-08](https://youtu.be/6DnRWahYrFA?t=286), [10-07](https://youtu.be/cvhcheoKdbo?t=465), [10-07](https://youtu.be/cvhcheoKdbo?t=488), [10-07](https://youtu.be/cvhcheoKdbo?t=1771), [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [09-30](https://youtu.be/BjXP9JODDSg?t=247), [09-17](https://youtu.be/ahNxsoU8Hx4?t=257), [09-14](https://youtu.be/LM0cRCGoAUQ?t=279), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-07](https://youtu.be/E-KmhvyZ2CU?t=364), [08-19](https://youtu.be/J1Eg3uaAICU?t=425), [07-13](https://youtu.be/Rqb5GdrSweY?t=507))
+- Miami lacks point guards and ball handlers. He played basically as a point guard in Miami's first preseason game. It is an open question whether Miami starts a traditional point guard or lets him run point. (fact, 2026-10-09; [06-23](https://youtu.be/nnWX_ObljOE?t=780), [07-17](https://youtu.be/NYTH7uQsPCM?t=1757), [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [10-07](https://youtu.be/cvhcheoKdbo?t=262), [10-09](https://youtu.be/-DN4P92Wp8Y?t=2309))
+- Experts call his ESPN category rank of about 20 egregious and say he is at worst 9th. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=286), [10-07](https://youtu.be/cvhcheoKdbo?t=488), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2077))
+- Experts expect 32 to 33 minutes a game in Miami and over 60 games, but not 70 games. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=442), [06-23](https://youtu.be/nnWX_ObljOE?t=833), [07-13](https://youtu.be/Rqb5GdrSweY?t=455), [09-14](https://youtu.be/LM0cRCGoAUQ?t=306))
+- Experts are not very worried about last season's calf injuries, but a new calf issue would be a concern. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=1935), [10-04](https://youtu.be/n4KkK-OJjqA?t=104), [09-14](https://youtu.be/t4n9MAP2_14?t=253))
+- Nothing indicates he will sit back-to-backs. He may sit one or two. (verdict, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2042))
+- Miami has the league-minimum 13 back-to-backs and none in the fantasy playoffs. (fact, 2026-10-07; [08-16](https://youtu.be/gf_6GveiAls?t=1126), [08-16](https://youtu.be/gf_6GveiAls?t=1153), [10-07](https://youtu.be/cvhcheoKdbo?t=2037))
+- With the March 28 end, Miami has a weak 4-3-3 schedule in our playoff weeks, 10 games in total. (fact, 2026-10-07; [10-07](https://youtu.be/cvhcheoKdbo?t=2024), [08-16](https://youtu.be/gf_6GveiAls?t=1153))
+- Miami's depth is poor, so the team relies heavily on him. The East is stacked, so Miami may not be able to rest players for long stretches. (verdict, 2026-10-07; [06-23](https://youtu.be/nnWX_ObljOE?t=918), [06-23](https://youtu.be/nnWX_ObljOE?t=933), [07-23](https://youtu.be/LUTYUdXBG1M?t=1264), [10-07](https://youtu.be/cvhcheoKdbo?t=1628), [10-07](https://youtu.be/cvhcheoKdbo?t=2106))
+- In an auction mock he went for 58 USD. The expert expected about 60 USD and thinks that is about where he should sit. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=904))
+- At least 15 of his missed games last season came while Milwaukee was tanking. (fact, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=253))
+- With more minutes and aggression, his FG% could get back to about 65%. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2034))
+- His fantasy value probably rises after the trade. The extra minutes may offset the usual first-year adjustment on a new team. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=964), [06-23](https://youtu.be/nnWX_ObljOE?t=1014))
 
 **Durable**
-- He shoots about 65% from the line on high volume, the worst FT impact in the league. (fact, 2026-10-08; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759), [07-16](https://youtu.be/-y6p5PYLf00?t=194), [10-07](https://youtu.be/cvhcheoKdbo?t=561), [10-08](https://youtu.be/6DnRWahYrFA?t=312), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122))
-- He commits many turnovers, a negative in our TO category. (fact, 2026-10-08; stats, [10-08](https://youtu.be/6DnRWahYrFA?t=312))
-- Drafting him points to a punt FT% build. Do not chase free throws around him. (verdict, 2026-10-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=561), [10-06](https://youtu.be/eTsjuVu1trk?t=1723), [10-07](https://youtu.be/cvhcheoKdbo?t=561), [10-04](https://youtu.be/n4KkK-OJjqA?t=871))
-- He is a top scorer and double-digit rebounder with guard-like assists for a forward. (fact, 2026-10-07; stats, [10-07](https://youtu.be/cvhcheoKdbo?t=632))
-- His steals and blocks have declined steadily from his peak. (fact, 2026-10-07; [06-23](https://youtu.be/nnWX_ObljOE?t=755), [10-07](https://youtu.be/cvhcheoKdbo?t=632))
-- He has a long injury history, with persistent knee problems and calf injuries last season. (fact, 2026-10-07; [09-14](https://youtu.be/LM0cRCGoAUQ?t=306), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [10-07](https://youtu.be/cvhcheoKdbo?t=442))
-- He makes very few threes and is not a good shooter from deep. (fact, 2026-09-23; stats, [06-23](https://youtu.be/nnWX_ObljOE?t=759), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [07-16](https://youtu.be/-y6p5PYLf00?t=194))
-- Threes are easy to recover elsewhere, so drafting him does not mean punting three categories. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [09-17](https://youtu.be/ahNxsoU8Hx4?t=289))
-- Plain 9-cat rankings undervalue him because of his free throws. His real H2H impact is huge, and punting a category is viable. (verdict, 2026-09-16; [09-14](https://youtu.be/LM0cRCGoAUQ?t=225), [09-16](https://youtu.be/2A2JbUN-kc0?t=2389))
-- Experts list his age as a concern. (verdict, 2026-09-16; [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-16](https://youtu.be/2A2JbUN-kc0?t=360))
-- He will probably stay a bad free throw shooter, though a random 70% season would not be crazy. (verdict, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1279), [07-16](https://youtu.be/-y6p5PYLf00?t=194))
-- He is an elite FG% source on high volume, around 61 to 62% on 18 to 19 attempts a game. (fact, 2026-07-07; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2034), [06-23](https://youtu.be/nnWX_ObljOE?t=759))
-- Experts are not sure his steals and blocks will come back. (verdict, 2026-06-23; [06-23](https://youtu.be/nnWX_ObljOE?t=755))
+- He has excellent FG% on high volume and is among the league leaders in FG% impact. (fact, 2026-10-16; stats, [06-23](https://youtu.be/nnWX_ObljOE?t=759), [07-07](https://youtu.be/ME-r173X5b0?t=2034))
+- He is a bad free throw shooter on high volume, with the worst FT% impact in the league. He will probably stay bad, though a random 70% season would not be crazy. (fact, 2026-10-16; stats, [07-07](https://youtu.be/ME-r173X5b0?t=2034), [08-09](https://youtu.be/8d--aL_xxwE?t=1279), [07-16](https://youtu.be/-y6p5PYLf00?t=194), [06-23](https://youtu.be/nnWX_ObljOE?t=759), [10-08](https://youtu.be/6DnRWahYrFA?t=312), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122))
+- His points and rebounds are far above the league pool. He is a double-digit rebounder and gives guard-like assists for a forward. (fact, 2026-10-16; stats, [10-07](https://youtu.be/cvhcheoKdbo?t=632))
+- He commits many turnovers. (fact, 2026-10-16; stats, [10-08](https://youtu.be/6DnRWahYrFA?t=312))
+- His steals and blocks have declined from his peak, and it is not clear they will come back. (fact, 2026-10-07; [06-23](https://youtu.be/nnWX_ObljOE?t=755), [10-07](https://youtu.be/cvhcheoKdbo?t=632))
+- He has a long injury history, with persistent knee problems and calf injuries last season. Experts also list his age as a concern. (fact, 2026-10-07; [09-14](https://youtu.be/LM0cRCGoAUQ?t=306), [09-14](https://youtu.be/t4n9MAP2_14?t=253), [09-16](https://youtu.be/2A2JbUN-kc0?t=360), [10-07](https://youtu.be/cvhcheoKdbo?t=442))
+- Experts agree a punt FT% build is the natural fit, but they differ on how strict it must be. Some say drafting him means punting FT%. Another says you should not chase free throws around him but can still be decent in the category. (verdict, 2026-10-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=561), [10-06](https://youtu.be/eTsjuVu1trk?t=1723), [10-04](https://youtu.be/n4KkK-OJjqA?t=871), [10-07](https://youtu.be/cvhcheoKdbo?t=561), [09-17](https://youtu.be/ahNxsoU8Hx4?t=289))
+- He makes few threes and is not a good shooter. Threes are easy to make up elsewhere. (verdict, 2026-09-23; [07-16](https://youtu.be/-y6p5PYLf00?t=194), [09-23](https://youtu.be/C4vlgpJ62NI?t=2122), [09-17](https://youtu.be/ahNxsoU8Hx4?t=289), [06-23](https://youtu.be/nnWX_ObljOE?t=759))
+- Plain nine-cat and roto rankings undervalue him because of his free throws. His real impact in H2H is huge. (verdict, 2026-09-16; [09-14](https://youtu.be/LM0cRCGoAUQ?t=225), [09-16](https://youtu.be/2A2JbUN-kc0?t=2389))
 
 **Tags**
-- Current: `injury last season` (36 games, under 29 minutes, calf injuries), `new team` (traded from Milwaukee to Miami), `role up` (32 to 33 minutes expected, more ball handling and assists), `questionable` (Yahoo status Q (Rest)), `expert target` (experts take him at pick 5; ESPN ranks him about 20), `sites disagree on price` (Yahoo rank 6 and value 55 USD vs ESPN rank 19 and value 41 USD), `few back-to-backs` (Miami has the league-fewest 13), `bad playoff schedule` (4-3-3, 10 games in weeks 19 to 21, but no back-to-backs), `low shutdown risk` (stacked East, Miami may not be able to coast)
-- Durable: `FG% anchor` (about 62% on 18 to 19 attempts), `FT% liability` (about 64% on 10 to 11 attempts, worst FT impact), `high TO` (3.3 to 3.7 a game projected), `PTS specialist` (about 30 points a game), `REB specialist` (double-digit rebounder), `AST from a big` (about 6 to 7 assists, may run point in Miami), `punt FT fit` (the anchor of punt FT% builds), `punt TO fit`, `elite per game` (clear pick 5 in category leagues; games played is the question), `injury prone` (persistent knee problems, calf injuries last season), `age decline watch` (experts name age as a concern), `undervalued by 9-cat` (FT% drag lowers 9-cat and roto ranks)
+- Current: `injury last season` (36 games and under 29 minutes due to calf injuries), `new team` (traded from Milwaukee to Miami), `role up` (32 to 33 minutes expected, more ball handling), `position change` (may run point in Miami), `expert target` (experts take him at pick 5, above ESPN rank 20), `sites disagree on price` (Yahoo rank 6, ESPN rank 19), `few back-to-backs` (Miami has 13, the league minimum), `bad playoff schedule` (4-3-3, 10 games, but no back-to-backs), `low shutdown risk` (stacked East, Miami may not be able to rest players), `thin rotation` (Miami depth is poor, the team relies on him)
+- Durable: `FG% anchor` (about 62% on about 19 attempts a game), `FT% liability` (about 64% on over 10 attempts a game), `high TO` (about 3.5 a game), `PTS specialist` (about 30 points a game), `REB specialist` (double-digit rebounds), `AST from a big` (about 6 assists a game, may run point in Miami), `punt FT fit` (the anchor of punt FT% builds), `punt TO fit`, `elite per game` (top 5 category value when healthy), `undervalued by 9-cat` (FT% drag lowers plain nine-cat and roto ranks), `injury prone` (persistent knee problems, calf injuries last season), `age decline watch` (experts list age as a concern)
 
-**Note.** Experts call him a clear top 5 pick in category leagues. Yahoo values him at 55 USD with an average cost of 60.8 USD, he went for 62 USD in our auction last season, and an expert puts him at about 60 USD, so plan to spend around 60 to 62 USD. ESPN's rank of 19 is widely called too low. If you buy him, build around punting FT% and accept the turnovers. In return you get elite FG%, points, rebounds and assists from a forward. Early in the season, check that he gets the 32 to 33 minutes experts expect, that he handles the ball, and that his calf stays healthy. Miami's weak 4-3-3 playoff schedule (10 games) is a small minus, but the team has no back-to-backs in those weeks.
+**Note.** Experts treat him as a clear number 5 pick in H2H categories. Prices sit around 58 to 64 USD (Yahoo average cost 62, ESPN 64.3, 62 USD in our league last season, 58 USD in a mock), so plan to pay about 60 USD and build punt FT% around his FG%, points, rebounds and assists. Early in the season, check that he gets the expected 32 to 33 minutes, whether he runs point for Miami, and whether any new calf issue shows up. Also remember Miami has a weak 4-3-3 schedule in our playoff weeks.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.4 per game).</sub>
 
-<sub>48 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>51 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 184 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 193 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 | FT% | 82.7% | +0.3 | -0.1 | - |
 | 3PM | 0.9 | -0.6 | -1.1 | - |
 | PTS | 9.3 | -0.8 | -0.9 | - |
-| REB | 2.2 | -1.2 | -1.1 | - |
+| REB | 2.2 | -1.2 | -1.2 | - |
 | AST | 3.9 | +0.4 | +0.0 | - |
 | STL | 0.8 | -0.5 | -0.7 | - |
 | BLK | 0.5 | -0.3 | +0.4 | - |
@@ -28,22 +28,22 @@
 </details>
 
 **Current**
-- He is not in Detroit's projected starting five. That group is Cunningham, Robinson, Thompson, Collins and Duren. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [09-07](https://youtu.be/gJUBAJaHzlU?t=2045))
-- He is projected as a bench guard. Isaiah Joe is the sixth man, followed by Ron Holland, Paul Reed and Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
-- Cade Cunningham missed the final 16 games last season, and Jenkins played 31 minutes a game in that stretch. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
-- He has the best category upside on Detroit's bench. The expert says he is draftable in 16-team leagues. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
-- He is a late-round swing in case he gets a 26-minute role. That needs either Bickerstaff to change the rotation or a Cunningham injury. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1792))
-- Detroit lost creation when Tobias Harris left and has few creators besides Cunningham. The team may need Jenkins as another ball handler. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
-- Detroit's playoff schedule is 4-3-4 games in weeks 19 to 21 for a March 28 end. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- He is a bench guard behind Cade Cunningham. The projected bench order is Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- Over the final 16 games of last season, with Cunningham out, he played 31 minutes a night. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
+- He has the best category upside on Detroit's bench and is draftable in 16-team leagues. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1625))
+- He is a late-round flyer only if he gets a bigger role, about 26 minutes or a starting job. Experts do not expect that unless Bickerstaff changes the rotation or Cunningham gets hurt. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1792), [09-07](https://youtu.be/gJUBAJaHzlU?t=2045))
+- Tobias Harris is gone, and Detroit has very few creators besides Cunningham. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- Detroit may need another ball handler like Jenkins, which could open a bigger role for him. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114))
+- Detroit's playoff schedule is 4-3-4 games in weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
 
 **Durable**
-- He is a ball handler who can create for others. Assists are his main fantasy category. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), [07-07](https://youtu.be/ME-r173X5b0?t=1114), stats)
+- He is a ball-handling guard who creates for others. Assists are his main category. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=229), stats)
 
 **Tags**
-- Current: `handcuff` (Backup to Cade Cunningham; played 31 minutes a game when Cunningham missed the final 16 games last season), `flyer` (Late-round swing if he reaches a 26-minute role), `waiver watch` (Expert calls him draftable in 16-team leagues; Yahoo rank 184 is outside our 144 drafted players), `deep rotation` (Detroit used a 12 to 13 player rotation last season; he is fourth off the projected bench)
+- Current: `handcuff` (Backup to Cade Cunningham; played 31 minutes a night when Cunningham missed the final 16 games last season), `flyer` (Late swing only if he gets about 26 minutes or a starting job), `waiver watch` (Draftable in 16-team leagues only; Yahoo rank 193 is outside our 144-player draft pool), `deep rotation` (Detroit used a 12 to 13 player rotation last season), `winning team` (Detroit projected for 50 to 51 wins)
 - Durable: none
 
-**Note.** Yahoo values him at 0 USD and ranks him 184th. ESPN has no price, and nobody drafted him in our league last season. He should go undrafted in our 144-player auction, so do not spend on him. Yahoo projects only 0.7 turnovers a game against 1.6 last season, so his strong TO number in the category profile is probably not real, and his 40.8 FG% last season was a drag. Watch him on waivers early. Add him right away if Cunningham gets hurt or if Bickerstaff gives him 26 or more minutes as a second ball handler.
+**Note.** Do not draft him in our 12-team league. His Yahoo rank is 193 with a value of 0 USD, he was not drafted last season, and experts only call him draftable in 16-team leagues. Last season he shot 40.8% on 7.9 attempts and averaged 3.9 assists in 20 minutes, so in a bench role he gives you assists and little else. Early in the season, check whether Bickerstaff gives him 26 or more minutes. If Cunningham gets hurt, pick him up right away: he played 31 minutes a night the last time Cunningham was out.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

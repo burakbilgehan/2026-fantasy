@@ -4,7 +4,7 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 77 | 29.2 | 45.7 (7.5) | 75.7 (2.2) | 1.1 | 9.6 | 4.7 | 2.2 | 1.4 | 0.5 | 1.3 |
-| 2026-27 proj, Yahoo | 69 | - | 46.3 (7.3) | 78.3 (2.3) | 1.2 | 9.7 | 4.7 | 2.4 | 1.3 | 0.5 | 0.5 |
+| 2026-27 proj, Yahoo | 69 | - | 46.7 (6.2) | 77.5 (2.0) | 1.0 | 8.4 | 4.0 | 1.7 | 1.2 | 0.5 | 0.4 |
 | 2025-26 | 82 | 25.2 | 45.9 (6.4) | 76.3 (1.9) | 1.0 | 8.2 | 4.0 | 1.8 | 1.3 | 0.5 | 1.1 |
 | 2024-25 | 66 | 20.5 | 47.5 (5.1) | 67.8 (1.7) | 0.9 | 6.9 | 3.9 | 2.4 | 0.9 | 0.3 | 1.3 |
 | 2023-24 | 35 | 23.1 | 38.9 (8.7) | 82.6 (3.1) | 1.5 | 10.8 | 3.7 | 1.7 | 0.8 | 0.3 | 1.3 |
@@ -17,34 +17,35 @@
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 46.0% | -0.3 | -0.2 | - |
-| FT% | 77.1% | -0.2 | -0.1 | - |
-| 3PM | 1.2 | -0.4 | -0.5 | - |
-| PTS | 9.7 | -0.8 | -0.8 | - |
-| REB | 4.7 | -0.2 | -0.2 | - |
-| AST | 2.3 | -0.5 | -0.3 | - |
-| STL | 1.4 | +1.4 | +1.4 | - |
-| BLK | 0.5 | -0.2 | -0.1 | - |
+| FG% | 46.2% | -0.2 | -0.2 | - |
+| FT% | 76.6% | -0.2 | -0.1 | - |
+| 3PM | 1.1 | -0.5 | -0.7 | - |
+| PTS | 9.0 | -0.9 | -0.9 | - |
+| REB | 4.3 | -0.3 | -0.4 | - |
+| AST | 2.0 | -0.6 | -0.5 | - |
+| STL | 1.3 | +1.2 | +1.3 | - |
+| BLK | 0.5 | -0.2 | -0.2 | - |
 | TO | 0.9 | +1.1 | +1.0 | - |
 
 </details>
 
 **Current**
-- He is competing for a starting forward spot. The newest preview projects Doncic, Reaves, Grimes, Thybulle and Kessler as starters, with LaRavia as a possible starter instead. Ziaire Williams has also been named as a possible starter. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
-- ESPN's rank of about 120 is too aggressive. He is a deeper-league or streaming player. He becomes more interesting if he wins a starting spot, and one expert will move off him if he does not start. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1769), [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
-- The Lakers' rotation choices under J.J. Redick are unclear, and the roster has many players who fit best as 8th to 11th men. (fact, 2026-10-06; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [10-06](https://youtu.be/sFelMKWcqyI?t=137))
-- The Lakers play 3-4-3 games in our playoff weeks (March 28 end), which is in the bottom half of the league. They have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036), [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
-- He should play 20-plus minutes either way. One expert expects the bench forward to still get about 27 minutes, while another compares a starting role to A.C. Green's, at about 20 minutes a night. (verdict, 2026-08-04; [07-16](https://youtu.be/-y6p5PYLf00?t=655), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [08-04](https://youtu.be/_WjOjp6Qu8E?t=599))
-- LeBron James left for the Sixers and Rui Hachimura appears gone, so forward minutes and usage are open on the Lakers. (fact, 2026-07-01; [08-04](https://youtu.be/_WjOjp6Qu8E?t=306), [07-01](https://youtu.be/W3THnI7wWdA?t=872), [06-30](https://youtu.be/4GDfg2n2l8o?t=1388))
+- His starting role is not settled. Experts see him as a possible starter, but the newest preview has him coming off the bench. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1729), [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [10-06](https://youtu.be/sFelMKWcqyI?t=1769))
+- He is worth a last-pick flyer as a possible starter. Experts would move off him if he does not start. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1729), [09-10](https://youtu.be/dlo7L8Ru91A?t=2036))
+- The Lakers have open starting spots in the frontcourt. The newest projected starting five is Doncic, Reaves, Grimes, Thybulle and Kessler, and LaRavia could start instead. Grimes, Mamukelashvili and Ziaire Williams are also in the mix. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669), [09-30](https://youtu.be/BjXP9JODDSg?t=2070))
+- ESPN's rank of about 120 is too high. He is a deeper-league or streaming player, and more interesting if he wins a starting spot. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1769), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- The Lakers play 3-4-3 games in our playoff weeks with a March 28 end, which is in the bottom half of the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2036))
+- The Lakers have the second most back-to-backs in the league. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=2119))
+- He should play 20-plus minutes even without a starting job. One expert expects the Lakers' sixth man to play about 27 minutes. (verdict, 2026-08-04; [07-16](https://youtu.be/-y6p5PYLf00?t=655), [08-04](https://youtu.be/_WjOjp6Qu8E?t=669))
 
 **Durable**
-- He is a category-only player. Steals are his best category, and he commits few turnovers for his minutes. Points are his weakest category. (verdict, 2026-10-11; [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), stats)
-- He has an odd fantasy game. His shooting percentages swing a lot, and he adds useful steals and assists. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1721))
+- He has an odd fantasy game. His shooting percentages swing a lot, and his 3P% moved from 42 to 32 between seasons. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1721), [07-16](https://youtu.be/-y6p5PYLf00?t=655))
+- He is a category-only player. His value comes from steals, few turnovers and some assists, not from scoring. (verdict, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=1721), [09-10](https://youtu.be/dlo7L8Ru91A?t=2036), stats)
 
 **Tags**
-- Current: `minutes competition` (Starting forward spot between him, Thybulle, Grimes and Ziaire Williams), `unsettled rotation` (Redick's rotation choices unclear after big roster turnover), `waiver watch` (Deeper-league or streaming player unless he starts), `bad playoff schedule` (3-4-3 games in weeks 19 to 21, bottom half of the league), `many back-to-backs` (Lakers have the second most back-to-backs in the league)
-- Durable: `streaky` (Swingy FG% and FT% and 3P% from season to season), `category league player` (Category-only value from steals and low turnovers)
+- Current: `minutes competition` (competes with Grimes, Thybulle, Mamukelashvili and Ziaire Williams for a frontcourt starting spot), `unsettled rotation` (Lakers turned over more than half the roster; rotation choices under Redick are unclear), `flyer` (last-pick flyer who might start for the Lakers), `waiver watch` (deeper-league and streaming player; add if he wins the starting job), `bad playoff schedule` (3-4-3 with a March 28 end, bottom half of the league), `many back-to-backs` (Lakers have the second most back-to-backs in the league)
+- Durable: `streaky` (very swingy shooting percentages; 3P% moved from 42 to 32), `category league player` (category-only value from steals and low turnovers)
 
-**Note.** Yahoo ranks him 164 at a value of 0 USD, outside our 144 drafted players. ESPN ranks him 123 at 1 USD, and the experts call that too high. Do not spend more than 1 USD on him. He is mainly a waiver option. His only real edges are steals (z +1.4) and few turnovers, so he fits builds that chase STL and TO and can absorb low points. Early in the season, check whether he starts over Thybulle and whether he gets close to the 29 minutes ESPN projects. If he does, pick him up.
+**Note.** LaRavia is a 0 to 1 USD player (Yahoo rank 164, ESPN rank 123). With 144 players drafted, he is a last-pick flyer at best and was not drafted in our league last season. His value is steals (1.3 per game) and few turnovers, while points, threes and assists are below the pool, so he only fits builds that chase STL and TO. Check the Lakers' opening-night starting lineup. Keep him if he starts. If he comes off the bench, cut him or leave him on waivers, also because the Lakers have a weak 3-4-3 playoff schedule.
 
-<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>7 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

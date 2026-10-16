@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c3327c43286d",
+ "input_sha": "708eaa7fc948",
  "note_count": 5,
- "built_at": "2026-10-11T09:19:34+00:00",
+ "built_at": "2026-10-16T09:03:24+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2634108,
-  "duration_ms": 63571,
+  "cost_usd_list": 0.2275318,
+  "duration_ms": 54786,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Brooklyn got him from the Celtics in a trade at last season's deadline and recently gave him a contract extension.",
+   "text": "Brooklyn recently signed him to a contract extension.",
    "kind": "fact",
    "date": "2026-08-21",
    "until": "",
@@ -30,43 +30,31 @@
    ]
   },
   {
-   "text": "He played very well after the trade. In his last nine games he played 23 minutes and averaged 14 points, 3 rebounds, 1.4 steals and 1 block. He finished 265th in category leagues last season.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p36",
-    "uRsfijpBPok:p17"
-   ]
-  },
-  {
-   "text": "Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. The projected bench is Keon Ellis, Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore.",
-   "kind": "fact",
-   "date": "2026-09-26",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t1",
-    "3UGI05PDvrE:t2",
-    "uRsfijpBPok:t1"
-   ]
-  },
-  {
-   "text": "He is left out of the projected 10-man rotation. The crowded Brooklyn frontcourt hurts his chances of earning a role.",
+   "text": "He is left out of the projected 10-man rotation. A crowded Nets frontcourt hurts his chance at a real role.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p35",
-    "9tb1ARBEmQU:p11",
-    "uRsfijpBPok:t2"
+    "9tb1ARBEmQU:p11"
    ]
   },
   {
-   "text": "He is a stash option in case Brooklyn gives its young players minutes late in the season. The second half is open: the Nets could hand minutes to Minott, and Porter could be traded.",
+   "text": "Brooklyn's projected bench rotation is Keon Ellis, Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. Three of them are big men.",
+   "kind": "fact",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t2"
+   ]
+  },
+  {
+   "text": "He is one of Brooklyn's best upside prospects and is a stash option in case the Nets give young players minutes late in the season.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
    "sources": [
+    "3UGI05PDvrE:p35",
     "3UGI05PDvrE:p36",
     "3UGI05PDvrE:t3",
     "LM0cRCGoAUQ:t7"
@@ -79,23 +67,33 @@
    "until": "",
    "sources": [
     "3UGI05PDvrE:t0",
-    "Rqb5GdrSweY:t1",
+    "LM0cRCGoAUQ:t7",
     "sfCe7fS9daM:t9"
    ]
   },
   {
-   "text": "Brooklyn is projected to be one of the worst teams, at about 28 wins. With nothing to play for, its March minutes are uncertain.",
+   "text": "The Nets' second half is uncertain. They could hand more minutes to young players like Minott, and Michael Porter Jr. could be traded.",
+   "kind": "verdict",
+   "date": "2026-09-26",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t0",
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7"
+   ]
+  },
+  {
+   "text": "Brooklyn is projected to be one of the worst teams, at about 28 wins.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t8",
-    "uRsfijpBPok:t4",
-    "3UGI05PDvrE:t0"
+    "uRsfijpBPok:t4"
    ]
   },
   {
-   "text": "Brooklyn plays 3-4-3 games in our playoff weeks, 10 in total, with one back-to-back. The Nets have 16 back-to-backs this season, tied with Boston for the most in the league.",
+   "text": "Brooklyn plays 3, 4 and 3 games in our playoff weeks 19 to 21, with one back-to-back in that span. It has 16 back-to-backs this season, tied with Boston for the most in the league.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -103,20 +101,20 @@
     "3UGI05PDvrE:t4",
     "gf_6GveiAls:t1"
    ]
-  },
-  {
-   "text": "His projections assume a small role. That puts his points and steals far below the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is in the 91st percentile in DARKO and has always made an impact on the court. He needs real minutes to matter in fantasy.",
+   "text": "He rates in the 91st percentile in DARKO.",
+   "kind": "fact",
+   "date": "2026-07-17",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:p36"
+   ]
+  },
+  {
+   "text": "He has always made an impact on the court, but he needs minutes to matter in fantasy.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -127,21 +125,9 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Crowded frontcourt with Randle, Sharpe, Clowney, Wagner and Wolf. Left out of the projected 10-man rotation.",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p35",
-    "9tb1ARBEmQU:p11",
-    "uRsfijpBPok:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Stash option if Brooklyn gives its young players minutes late in the season",
+   "detail": "Stash only if Brooklyn opens minutes for young players late in the season",
    "until": "",
    "sources": [
     "3UGI05PDvrE:p36",
@@ -150,9 +136,44 @@
    "new_meaning": ""
   },
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Crowded Nets frontcourt; outside the projected 10-man rotation",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:p35",
+    "9tb1ARBEmQU:p11",
+    "3UGI05PDvrE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Many young Nets players have a case for second-unit and frontcourt minutes",
+   "until": "",
+   "sources": [
+    "uRsfijpBPok:t2",
+    "3UGI05PDvrE:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Michael Porter Jr. is a trade candidate; a deal could free minutes",
+   "until": "",
+   "sources": [
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7",
+    "9tb1ARBEmQU:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bottom team",
    "channel": "current",
-   "detail": "About 28 wins projected",
+   "detail": "About 28 projected wins",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t8",
@@ -162,52 +183,9 @@
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Many young players compete for frontcourt and second-unit minutes",
-   "until": "",
-   "sources": [
-    "uRsfijpBPok:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Second-half minutes could shift to Minott, Clowney, Brown and Demin",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "trades likely",
-   "channel": "current",
-   "detail": "Porter is a trade candidate, and a trade could open minutes",
-   "until": "",
-   "sources": [
-    "9tb1ARBEmQU:t2",
-    "LM0cRCGoAUQ:t7",
-    "3UGI05PDvrE:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16 back-to-backs, tied for the most in the league",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:t4",
-    "gf_6GveiAls:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "3-4-3, only 10 games in weeks 19 to 21, with one back-to-back",
+   "detail": "16 back-to-backs, tied for most in the league",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t4",
@@ -216,6 +194,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Do not draft him. He ranks 317 on Yahoo with a 0 USD value, has no ESPN price, and falls well outside the 144 players drafted in our league. His projection of 5.4 points and 0.2 steals assumes a small role. In his last nine games he played 23 minutes and averaged 14 points and 1.4 steals, so he is a waiver watch if Brooklyn's minutes open up, for example after a Porter trade or a late-season youth push. Brooklyn's thin 3-4-3 playoff schedule makes him less useful as a pickup for the fantasy playoffs.",
+ "note": "He is not a draft target: Yahoo values him at 0 USD and ranks him 318th, well outside the 144 players our league drafts, and he went undrafted in our league last season. The upside case is minutes. In his last nine games last season he played 23 minutes and averaged 14 points, 1.4 steals and a block. Yahoo projects only 0.2 steals, which does not match that stretch. Leave him on waivers and watch for a Porter trade or more young-player minutes after the deadline.",
  "rejected": []
 }

@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "381cc7477f7e",
- "note_count": 9,
- "built_at": "2026-10-11T09:21:57+00:00",
+ "input_sha": "a0d4067ba301",
+ "note_count": 10,
+ "built_at": "2026-10-16T09:10:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2594532,
-  "duration_ms": 57416,
+  "cost_usd_list": 0.2616248,
+  "duration_ms": 58591,
   "turns": 3,
   "denied": 0
  },
@@ -33,51 +33,50 @@
    ]
   },
   {
-   "text": "Charlotte has several centers who compete for his minutes: the rookie center taken 14th, Ryan Kalkbrenner and Steinbach. Grant Williams also plays some small-ball five.",
+   "text": "Charlotte's center plan is not settled. Diabaté, the rookie taken 14th and Ryan Kalkbrenner compete for the job. Steinbach is also in the mix, and Grant Williams plays some small-ball five.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p14",
     "CRLSsoGhb2w:t2",
-    "t4n9MAP2_14:p43",
     "RsjGTgJiKyI:t0",
     "lOshTzDA4SA:t5",
-    "lOshTzDA4SA:p16"
+    "LM0cRCGoAUQ:t9"
    ]
   },
   {
-   "text": "The center plan is unclear. Coach Charles Lee is expected to try different frontcourt lineups, and closing lineups will change by matchup.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t2",
-    "EB1Z_6n56-o:t4"
-   ]
-  },
-  {
-   "text": "Charlotte played better with him starting last season. In a stretch where he played about 28 minutes a game, the team had the top offensive rating and the fifth-best defensive rating.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t2",
-    "EB1Z_6n56-o:p17"
-   ]
-  },
-  {
-   "text": "He is a late flyer outside the top 100, around round 10 or 11. The rookie center threatens his role, and he is not a long-term answer as the starter. The extra competition caps his upside.",
+   "text": "The added competition at center is a threat to his role and caps his upside. One expert does not see him as a long-term starting solution.",
    "kind": "verdict",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p14",
-    "lOshTzDA4SA:p16"
+    "lOshTzDA4SA:p16",
+    "t4n9MAP2_14:p43"
    ]
   },
   {
-   "text": "Josh would take him over Ryan Kalkbrenner about 90 times out of 100 because Diabaté has the starting job. Josh still thinks Kalkbrenner would produce more if both played the same minutes.",
+   "text": "In a late-season stretch last season he played about 28 minutes a game, and Charlotte had the top offensive rating and the fifth-best defensive rating. He won Hustle Player of the Year.",
+   "kind": "fact",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "EB1Z_6n56-o:p17",
+    "CRLSsoGhb2w:t2"
+   ]
+  },
+  {
+   "text": "Worth a late flyer outside the top 100, around round 10 or 11. He slid past round 12 in one mock draft but usually goes earlier.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p14",
+    "OsbUAkSeVB4:p32"
+   ]
+  },
+  {
+   "text": "One expert would draft him over Ryan Kalkbrenner about 90 times out of 100 because he is expected to start, even though Kalkbrenner may produce more at equal minutes.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -86,16 +85,7 @@
    ]
   },
   {
-   "text": "A Yahoo ADP of 99 against an expert rank of 177 was called far too high.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p43"
-   ]
-  },
-  {
-   "text": "One expert is not confident that he can keep up his shot blocking.",
+   "text": "One expert is not confident that he keeps up his shot blocking.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -104,7 +94,7 @@
    ]
   },
   {
-   "text": "Charlotte plays 4-3-4 games in our playoff weeks and has only 13 back-to-backs, the league minimum.",
+   "text": "Charlotte plays 4-3-4 games in our playoff weeks 19 to 21 and has only 13 back-to-backs, the league minimum.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
@@ -113,39 +103,40 @@
    ]
   },
   {
-   "text": "Charlotte has a deep roster and projects as a play-in team.",
-   "kind": "verdict",
-   "date": "2026-09-27",
+   "text": "Charlotte's system stresses steals and offensive rebounds, which fits his game.",
+   "kind": "fact",
+   "date": "2026-07-21",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:t4"
+    "EB1Z_6n56-o:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an undersized center who cannot really protect the rim.",
-   "kind": "fact",
-   "date": "2026-09-27",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:p15"
-   ]
-  },
-  {
-   "text": "He is a good defender and hustle player who switches onto ball handlers and gets steals. He is one of the best offensive rebounders in the league.",
+   "text": "He is an undersized center who works as a hustle player and one of the best offensive rebounders in the league.",
    "kind": "fact",
    "date": "2026-09-27",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:p15",
-    "EB1Z_6n56-o:p16",
-    "t4n9MAP2_14:p43"
+    "EB1Z_6n56-o:p16"
    ]
   },
   {
-   "text": "He is getting better as a passer on short rolls.",
-   "kind": "fact",
+   "text": "He is a good defender who switches onto ball handlers, but he cannot really protect the rim, so his blocks are modest for a center.",
+   "kind": "verdict",
+   "date": "2026-09-27",
+   "until": "",
+   "sources": [
+    "CRLSsoGhb2w:p15",
+    "EB1Z_6n56-o:p16",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is improving as a passer on short rolls.",
+   "kind": "verdict",
    "date": "2026-07-21",
    "until": "",
    "sources": [
@@ -153,18 +144,9 @@
    ]
   },
   {
-   "text": "He won the Hustle Player of the Year award.",
+   "text": "He makes no threes. His value comes from FG% on low volume and rebounds, and he gives few points.",
    "kind": "fact",
-   "date": "2026-07-21",
-   "until": "",
-   "sources": [
-    "EB1Z_6n56-o:p17"
-   ]
-  },
-  {
-   "text": "He makes no threes. His fantasy value comes from FG% and rebounds.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats",
@@ -176,7 +158,7 @@
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "0.0 3PM per game in every season",
+   "detail": "0.0 threes per game every season",
    "until": "",
    "sources": [
     "stats"
@@ -186,55 +168,41 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Rookie center taken 14th, Kalkbrenner, Steinbach and Grant Williams as a small-ball five",
+   "detail": "Rookie taken 14th, Kalkbrenner and Steinbach compete at center",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p14",
     "CRLSsoGhb2w:t2",
-    "lOshTzDA4SA:p16",
-    "t4n9MAP2_14:p43",
+    "CRLSsoGhb2w:p14",
     "RsjGTgJiKyI:t0",
     "lOshTzDA4SA:t5"
    ],
    "new_meaning": ""
   },
   {
+   "name": "role down",
+   "channel": "current",
+   "detail": "More center competition may cut his minutes from last season",
+   "until": "",
+   "sources": [
+    "lOshTzDA4SA:p16",
+    "t4n9MAP2_14:p43"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "flyer",
    "channel": "current",
-   "detail": "Round 10-11 flyer outside the top 100",
+   "detail": "Round 10 to 11 flyer outside the top 100",
    "until": "",
    "sources": [
-    "CRLSsoGhb2w:p14",
-    "ZYllcj4o6_A:p21"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Unclear center plan, and the coach is trying different frontcourt lineups",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t2",
-    "EB1Z_6n56-o:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Deep Charlotte roster with a three-center rotation",
-   "until": "",
-   "sources": [
-    "CRLSsoGhb2w:t4",
-    "lOshTzDA4SA:t5"
+    "CRLSsoGhb2w:p14"
    ],
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "13 back-to-backs, the league minimum",
+   "detail": "13 back-to-backs, league minimum",
    "until": "",
    "sources": [
     "CRLSsoGhb2w:t5"
@@ -242,6 +210,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Diabaté is on the edge of our 144-player pool. Yahoo ranks him 144 and ESPN 160, both value him at 0 to 0.2 USD, and he was not drafted last season. That makes him a 1 USD end-of-draft flyer for teams that want FG% (61.6% projected) and rebounds (8.0) from a starting center and do not need threes, though his FT% (65.2%) is a small drag. Early in the season, check whether he keeps the starting job and his 26 minutes a game against the rookie center and Kalkbrenner. If his minutes drop, he goes back to waivers.",
+ "note": "Yahoo ranks him 145 and ESPN 160, and both price him at 0 to 1 USD, so in a 144-player draft he is a 1 USD endgame center or a waiver add. Experts call him a round 10 to 11 flyer because he should start, and he helps with FG% and rebounds. He gives no threes, few points and a weak FT% on low volume. In the first weeks, check that he keeps the starting job and about 25 minutes ahead of the rookie and Kalkbrenner. If he loses the job, drop him.",
  "rejected": []
 }

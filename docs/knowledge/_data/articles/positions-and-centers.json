@@ -40,48 +40,43 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:54:30+00:00",
+ "built_at": "2026-10-16T12:52:36+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11576479999999999,
-  "duration_ms": 48689,
+  "cost_usd_list": 0.09613279999999999,
+  "duration_ms": 36473,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [],
- "summary": "Draft for stats and category shape first. Start checking G, F and C eligibility once you have about 7 or 8 of your 12 players, and finish with two to three eligible players at each position so daily lineups never leave games on the bench. With only one C slot, never pay a fear premium for centers. Buy a center when he starts, can reach about 30 minutes, and plays at C rather than PF.",
+ "summary": "In our 12-team, 9-cat auction, buy categories first and positions later. Check G, F and C coverage once you have about seven or eight players, so only Util spots are left to fill at the end. With one C slot and three Util spots, pay for a center only when he starts, can reach about 30 minutes and plays at C rather than PF. Do not overpay out of fear of a center shortage.",
  "sections": [
   {
-   "heading": "Stats first, positions later",
+   "heading": "Why stats beat positions early",
    "paragraphs": [
     {
-     "text": "Positional tiers mislead in fantasy basketball. This is not fantasy football. You do not need to fill positional groups early, and your build changes as the draft goes on. Bid on statistics and statistical shapes, not on position labels.",
+     "text": "Basketball is not fantasy football. You do not need to fill positional groups early, and your build keeps changing during the draft. In the first part of our auction, bid on statistical shapes that fit the categories you want, not on labels like G, F or C.",
      "sources": [
       "7BllEsdNLoM:r0",
-      "7BllEsdNLoM:r1",
-      "LM0cRCGoAUQ:r0"
+      "7BllEsdNLoM:r1"
      ]
     },
     {
-     "text": "Do not build your auction plan on positional tier lists. Two players in the same tier can give completely different category profiles. In our 9-cat league, the question is which categories a player adds, not which tier he sits in. Do not raise a bid just because a tier is about to run out.",
+     "text": "Positional tiers mislead in category leagues. Two players in the same tier can give completely different category profiles. Tier cutoffs also shift from one position list to another, so a player moving between tiers means little. Do not build your draft on tier lists, and do not chase a position because a tier is about to run out.",
      "sources": [
       "7BllEsdNLoM:r2",
+      "LM0cRCGoAUQ:r0",
       "LM0cRCGoAUQ:r1",
+      "W-R1dzem32s:r0",
       "dlo7L8Ru91A:r0"
      ]
     },
     {
-     "text": "Positional cutoffs move around between lists. If a player sits in one tier on the guard list and another on the forward list, do not read much into it. Labels like point guard are semantics too. If you need assists, check actual on-ball usage and assist rate, not the position tag.",
+     "text": "Value generally beats positional need. Do not walk into the auction planning to buy a certain position at a certain stage. Position labels are also soft. Judge a guard by his real on-ball usage and assist rate, not by whether he is called a point guard.",
      "sources": [
-      "W-R1dzem32s:r0",
+      "Bi1cEM03k9Y:r0",
       "gTsfR5PxAMY:r3"
-     ]
-    },
-    {
-     "text": "Value generally beats positional need. Do not go into the 2026-10-18 auction planning to buy a certain position with a certain part of your 200 USD. Take the best value on the board and let the build follow.",
-     "sources": [
-      "Bi1cEM03k9Y:r0"
      ]
     }
    ]
@@ -90,60 +85,35 @@
    "heading": "When to check eligibility",
    "paragraphs": [
     {
-     "text": "One note says positions only become a focus around round 8 or 9 of a snake draft. Our auction has no rounds. A fair translation is the point when you have about 7 or 8 of your 12 roster spots filled. Before that, buy stats. After that, let eligibility decide between players of similar value.",
+     "text": "One note says positions only matter around round 8 or 9. In our 12-player auction, the closest match is the point where you have about seven or eight players. From then on, check G, F and C eligibility before every bid. The goal is to have the G, F and C slots covered so the last buys only need to fit Util spots.",
      "sources": [
-      "7BllEsdNLoM:r1"
-     ]
-    },
-    {
-     "text": "Track eligibility as the auction runs, not only at the end. Keep a live count of how many of your players qualify at G, F and C. The goal is that your last few spots only need to fill flex roles, which for us means the three Util slots and two bench spots.",
-     "sources": [
+      "7BllEsdNLoM:r1",
       "BjXP9JODDSg:r10"
      ]
     },
     {
-     "text": "Finish with at least two to three eligible players at each position, even if you punt a category. Our lineups are daily. If only one of your players qualifies at a position and he has no game that day, the slot sits empty and you give up games during the week. Multi-position players make this much easier.",
+     "text": "Aim for two to three eligible players at each position, even if you are punting a category. We set daily lineups, and with only 12 players you lose games during the week if one injury or off night leaves a slot empty. With your last few dollars, compare players on team build as well: which position you still need, which centers are left on the board, and how much injury risk you already carry.",
      "sources": [
-      "skKXe2CRl8Q:r9"
-     ]
-    },
-    {
-     "text": "When two players are close in value late in the auction, break the tie on team build. Ask three questions. Which position am I short at? Which centers are still left? How much injury risk am I already carrying?",
-     "sources": [
+      "skKXe2CRl8Q:r9",
       "J1Eg3uaAICU:r12"
      ]
     }
    ]
   },
   {
-   "heading": "Valuing centers with one C and three Util",
+   "heading": "One C slot, three Util spots",
    "paragraphs": [
     {
-     "text": "Yahoo's default roster uses two centers. Our league has already changed that to one C slot, which is what the experts recommend. So the league needs only 12 starting centers. Extra centers compete for Util slots like everyone else. Do not use rankings or price habits built for two-C rosters.",
+     "text": "Yahoo's default roster has two C slots, and one note says you should always change that. Our league uses one C and three Util. That means one center is enough to fill a slot. Any extra centers you roster go into Util, where they compete with every other player on stats alone.",
      "sources": [
       "J1Eg3uaAICU:r3"
      ]
     },
     {
-     "text": "One ranking source pushes centers down in head-to-head formats. Its reasoning is that in H2H you want to max out games played, so low turnovers matter less. It also says traditional box score values overrate blocks, steals and some percentages. The same source says several late-tier centers are only worth a look in 14-team leagues. We have 12 teams, so leave those to waivers.",
+     "text": "One ranker's head-to-head system pushes centers down. His reasons: in H2H you want as many games played as possible, low turnovers matter less, and traditional box score values overrate blocks, steals and some percentages. TO is one of our nine categories, so treat this as one expert's view, not a rule. He also says several late-tier centers are only worth a look in 14-team leagues. In our 12-team league with 144 players drafted, expect those centers to reach waivers.",
      "sources": [
       "t4n9MAP2_14:r2",
       "t4n9MAP2_14:r8"
-     ]
-    },
-    {
-     "text": "The other side: big men can build value from FG%, blocks and rebounds even without a full offensive game. A big who adds threes on top of those is called a fantasy cheat code. That kind of center earns a real bid, because he helps in categories most guards cannot.",
-     "sources": [
-      "-rgXhs5BHiw:r5",
-      "lOshTzDA4SA:r7"
-     ]
-    },
-    {
-     "text": "The experts disagree on reaching for centers. One view says that if centers are going fast in your draft, it is fine to pay the top of a center's price range. The other view says never reach out of fear of a shortage. It is better to find centers later than to pay for one about 60 spots too early. For our auction: paying near the top of a center's range is acceptable when the room is clearly short on starting centers. Paying a price that matches a player 60 spots higher is not. Our one-C setup also lowers the risk of being shut out, which favors the patient view.",
-     "sources": [
-      "EGdhmUgPAWY:r4",
-      "uarqbNA2dFk:r8",
-      "7BllEsdNLoM:r2"
      ]
     }
    ]
@@ -152,41 +122,42 @@
    "heading": "What makes a center worth buying",
    "paragraphs": [
     {
-     "text": "Role comes first. A starting center is worth drafting. A starter with a decent profile (FG% boost, blocks, rebounds) is worth a cheap end-of-auction bid, even if the role may not last.",
+     "text": "Start with the role. A starting center is worth drafting. A starting center with a decent profile (FG% boost, blocks, rebounds) is worth a late, cheap buy even if the starting job may not last.",
      "sources": [
       "0AptxcRW0RE:r5",
       "tnzmsYUA4yQ:r6"
      ]
     },
     {
-     "text": "Minutes come second. Per-minute big men put up numbers, but only matter if they play. A late big is only worth a bid if he can reach about 30 minutes. If his minutes get split down to around 22, he is useless to us. Look for teams where a lack of depth forces those minutes on him.",
+     "text": "Next, check minutes. Per-minute bigs pile up numbers but only matter with enough playing time. A late big is worth a roster spot only if he can reach about 30 minutes. If his minutes get split down to around 22, he is useless. Look for teams where thin depth forces those minutes on him.",
      "sources": [
       "4GDfg2n2l8o:r2",
       "4GDfg2n2l8o:r3"
      ]
     },
     {
-     "text": "Position on the floor comes third. Big men who split time between PF and C usually produce more at center: more blocks, more rebounds and a higher FG%. At PF a big plays farther out, leans on his shooting and shares rim protection. A big who moves from C to more PF minutes usually loses FG%, blocks and rebounds. Before you bid, check whether he is expected to play C or PF.",
+     "text": "Then check where he plays. Bigs who split time usually produce more at center: more blocks, more rebounds and a higher FG%. At power forward a big plays further out, leans on his shot and is not the only rim protector. A big moving from C to more PF minutes usually loses FG%, blocks and rebounds. A center who takes more threes also plays further from the rim. His offensive rebounds and rim finishing tend to drop, while his assists and three-point attempts go up.",
      "sources": [
       "NmdNvAz08oE:r0",
       "NmdNvAz08oE:r1",
-      "LM0cRCGoAUQ:r10"
+      "LM0cRCGoAUQ:r10",
+      "H9q2FT3LhNw:r4"
      ]
     },
     {
-     "text": "Two more profile checks. A center taking more threes plays away from the rim. His offensive rebounds and rim finishing tend to drop, while assists and three-point attempts go up. Also, players who block more shots commit more fouls. As bigs age and their minutes rise, block and foul rates tend to drop, because starters playing big minutes cannot risk foul trouble.",
+     "text": "The best shape is a big with blocks, threes, rebounds and a good FG%. One note calls that a fantasy cheat code. Bigs can still build value from FG%, blocks and rebounds without a full offensive game. Those are the categories to price him on.",
      "sources": [
-      "H9q2FT3LhNw:r4",
-      "H9q2FT3LhNw:r3"
+      "lOshTzDA4SA:r7",
+      "-rgXhs5BHiw:r5"
      ]
     }
    ]
   },
   {
-   "heading": "Context checks before you bid",
+   "heading": "Context that moves a center's value",
    "paragraphs": [
     {
-     "text": "Check the point guard. A big man's pick and roll production depends on having a real point guard, and bad guard play can hold a center back. A star passer can raise his center's value. Teammates who create shots can strongly affect a big's finishing and FG%.",
+     "text": "Check his guards. A big man's pick and roll production depends on having a real point guard, and bad guard play can hold a center back. A star point guard or another elite passer can raise a center's finishing, his FG% and his fantasy value.",
      "sources": [
       "owlM6b8oUd0:r2",
       "_WjOjp6Qu8E:r4",
@@ -194,9 +165,22 @@
      ]
     },
     {
-     "text": "Check the defensive scheme. A switch-everything defense pulls centers out to the perimeter and lowers their defensive rebounding rate. If two centers look similar, prefer the one whose team keeps him near the rim.",
+     "text": "Check the scheme and his fouls. A switch-everything defense pulls centers out to the perimeter and lowers their defensive rebounding. Players who block more shots also foul more, and starters playing big minutes cannot risk foul trouble. As players age and their minutes go up, their block and foul rates tend to drop. Do not project a bench big's block rate onto a bigger starting role.",
      "sources": [
-      "5QU-jta-lWM:r2"
+      "5QU-jta-lWM:r2",
+      "H9q2FT3LhNw:r3"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Reach for a center or wait",
+   "paragraphs": [
+    {
+     "text": "The experts disagree. One says that if centers are going fast in your draft, it is fine to pay the top of a center's range. Another says never reach out of fear of a shortage, because finding centers later beats taking one about 60 spots too early. For us, the safe version is this: you may pay the top of a starting center's normal range if the board is running dry, but do not pay a price that matches a much higher rank. Our one C slot and the waiver wire make waiting less costly.",
+     "sources": [
+      "EGdhmUgPAWY:r4",
+      "uarqbNA2dFk:r8"
      ]
     }
    ]

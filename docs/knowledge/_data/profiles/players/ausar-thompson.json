@@ -8,29 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e03cfad38a70",
- "note_count": 30,
- "built_at": "2026-10-11T09:14:03+00:00",
+ "input_sha": "8341fcf116e8",
+ "note_count": 31,
+ "built_at": "2026-10-16T08:44:26+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1835426,
-  "duration_ms": 77516,
+  "cost_usd_list": 0.22703020000000002,
+  "duration_ms": 64191,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He signed a new contract this offseason.",
-   "kind": "fact",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p46"
-   ]
-  },
-  {
-   "text": "He is projected to start for Detroit next to Cade Cunningham, Duncan Robinson, John Collins and Jalen Duren.",
+   "text": "Thompson is in Detroit's projected starting five, with Cunningham, Robinson, Collins and Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -40,7 +31,7 @@
    ]
   },
   {
-   "text": "Coach J.B. Bickerstaff says he will play more than 26 minutes a game.",
+   "text": "Coach J.B. Bickerstaff says Thompson will play more than 26 minutes a game.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
@@ -49,7 +40,7 @@
    ]
   },
   {
-   "text": "Experts do not trust Bickerstaff's comments on his minutes, because Bickerstaff has misled about Thompson's minutes and health before. They still expect more minutes, most often two to four more a game. Dan says the staff can no longer keep such a disruptive defender off the floor.",
+   "text": "Experts do not trust Bickerstaff's minutes comments, because he has misled about Thompson's minutes and health before. They still expect about 2 to 4 more minutes a game than last season.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -57,9 +48,8 @@
     "_O9pc_u5vH0:p9",
     "_O9pc_u5vH0:t5",
     "n4KkK-OJjqA:p26",
-    "n4KkK-OJjqA:t3",
-    "BiIZsSypx7Y:t1",
     "BiIZsSypx7Y:p38",
+    "BiIZsSypx7Y:t1",
     "LM0cRCGoAUQ:p37",
     "dlo7L8Ru91A:p27",
     "W-R1dzem32s:p31",
@@ -67,18 +57,20 @@
    ]
   },
   {
-   "text": "He averaged 32 minutes over Detroit's last 12 playoff games, and all sides agreed he must play a lot.",
-   "kind": "fact",
-   "date": "2026-08-12",
+   "text": "At about 26 minutes he may only match his draft price. At 28 to 30 minutes he should beat it easily, and at 30 minutes he would be very good.",
+   "kind": "verdict",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "p9XE5jFqhvs:p0"
+    "ahNxsoU8Hx4:p14",
+    "gJUBAJaHzlU:p5",
+    "BiIZsSypx7Y:p38"
    ]
   },
   {
-   "text": "The front office wants him on the ball more. Some of Tobias Harris's old usage is meant to go to him, and Detroit lost creation with Harris gone.",
+   "text": "The front office wants him on the ball more. Some of the usage Tobias Harris had is meant to go to him.",
    "kind": "fact",
-   "date": "2026-10-03",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p2",
@@ -95,11 +87,12 @@
    ]
   },
   {
-   "text": "Most experts expect his scoring and assists to rise, with about one more assist a game and around 4 assists. One hopeful line is 6 rebounds, 4.5 assists, 2 steals and 1 block on 54% shooting, with no threes and low scoring. Dan does not expect him to improve much as a player and rests the case on minutes.",
+   "text": "Experts expect more usage, a scoring rise and about one more assist a game, for about 4 to 4.5 assists. One expert hopes for 6 rebounds, 2 steals and a block on 54% shooting, with no threes. Another does not expect him to improve much as a player and sees the gain coming from minutes.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
    "sources": [
+    "n4KkK-OJjqA:p26",
     "n4KkK-OJjqA:p28",
     "LM0cRCGoAUQ:p37",
     "_O9pc_u5vH0:p13",
@@ -107,59 +100,16 @@
    ]
   },
   {
-   "text": "At 26 minutes he may not beat his ADP. At 28 to 30 minutes he should beat it easily. Better three-point shooting plus more usage, assists and minutes would give him top 50 upside.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p14",
-    "gJUBAJaHzlU:p5",
-    "p9XE5jFqhvs:p4"
-   ]
-  },
-  {
-   "text": "His best case is about 28th overall, likely from a big steals season. The downside includes his free throws staying dreadful.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "DubdKKhMWHo:p16"
-   ]
-  },
-  {
-   "text": "Experts call him underpriced and a steal in category leagues. They would draft him in the 50s or 60s, above an ADP in the 80s, and name him the top fantasy target on the Pistons.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p11",
-    "_O9pc_u5vH0:p14",
-    "n4KkK-OJjqA:p27",
-    "egRrai3Ax38:p46",
-    "80kfLVnFQ_s:p34",
-    "BiIZsSypx7Y:p38"
-   ]
-  },
-  {
-   "text": "He went for 17 USD in an expert auction mock draft.",
+   "text": "He has just signed a new contract.",
    "kind": "fact",
-   "date": "2026-10-05",
+   "date": "2026-09-21",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p21"
+    "egRrai3Ax38:p46"
    ]
   },
   {
-   "text": "Josh could see him going for up to 20 USD in an auction.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p21"
-   ]
-  },
-  {
-   "text": "Josh still has concerns about his fit next to Jalen Duren.",
+   "text": "One expert still worries about how he fits next to Jalen Duren.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -168,7 +118,7 @@
    ]
   },
   {
-   "text": "If the plan to put him and Duren on the ball is failing by January, Detroit may trade for a secondary playmaker at the deadline, which would cut his usage.",
+   "text": "If the plan to put Thompson and Duren on the ball is failing by January, Detroit may trade for a secondary playmaker at the deadline.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -177,17 +127,52 @@
    ]
   },
   {
-   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs this season.",
-   "kind": "fact",
+   "text": "Experts call him underpriced and the best Pistons target. Upside is top 50, best case about 28th, if he adds usage, assists, minutes and a little three-point shooting. The downside is that his free throws stay dreadful.",
+   "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:t6"
+    "_O9pc_u5vH0:p11",
+    "_O9pc_u5vH0:p14",
+    "p9XE5jFqhvs:p4",
+    "DubdKKhMWHo:p16",
+    "egRrai3Ax38:p46",
+    "80kfLVnFQ_s:p34"
    ]
   },
   {
-   "text": "No rest risk is expected for Detroit players in back-to-backs.",
+   "text": "Experts disagree on draft spot. Early October previews would take him in the 50s or 60s in category leagues, while the newest mock (October 14) calls pick 60 early and a September mock called pick 72 too early.",
    "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p14",
+    "n4KkK-OJjqA:p27",
+    "_O9pc_u5vH0:p11",
+    "KPdD91Oo8-U:p18"
+   ]
+  },
+  {
+   "text": "In an auction mock he went for 17 USD. Josh could see him going for up to 20 USD.",
+   "kind": "fact",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "Q6YlQDvD-aY:p21"
+   ]
+  },
+  {
+   "text": "Detroit is projected to win 50 to 51 games and finish third or fourth in the East.",
+   "kind": "verdict",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ]
+  },
+  {
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected.",
+   "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
@@ -197,42 +182,64 @@
  ],
  "durable": [
   {
-   "text": "He is an elite defender. His fantasy value comes mainly from steals, backed by good blocks for a wing. He is a consistent steals producer with a high deflection rate.",
-   "kind": "verdict",
-   "date": "2026-10-04",
+   "text": "His fantasy value comes from defensive stats, mainly steals. He is a consistently good steals player, with the most deflections in his group, and his steals are a league outlier.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p10",
+    "n4KkK-OJjqA:p28",
+    "dlo7L8Ru91A:p27",
+    "ME-r173X5b0:p27",
+    "p9XE5jFqhvs:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He adds good blocks and rebounds for a wing.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p28",
+    "dlo7L8Ru91A:p27",
+    "p9XE5jFqhvs:p5",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a very poor free throw shooter, and his FT% is a league outlier on the weak side. He makes almost no threes.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p10",
+    "dlo7L8Ru91A:p27",
+    "stats"
+   ]
+  },
+  {
+   "text": "His two-point shooting is okay, so his FG% helps a little for his position.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p10",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is an elite NBA defender.",
+   "kind": "fact",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p5",
-    "_O9pc_u5vH0:p10",
-    "dlo7L8Ru91A:p27",
-    "n4KkK-OJjqA:p28",
-    "ME-r173X5b0:p27",
-    "stats"
+    "BiIZsSypx7Y:p38"
    ]
   },
   {
-   "text": "He is a very poor free-throw shooter and makes almost no threes. His two-point shooting is okay.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p10",
-    "dlo7L8Ru91A:p27",
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a solid rebounder for his position.",
-   "kind": "verdict",
-   "date": "2026-10-04",
-   "until": "",
-   "sources": [
-    "n4KkK-OJjqA:p28",
-    "stats"
-   ]
-  },
-  {
-   "text": "His efficiency on self-created plays is well below league average.",
+   "text": "He creates more of his own shots now, but his efficiency on those plays is well below league average.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -248,8 +255,16 @@
    "sources": [
     "g31YlwRe0XQ:p35",
     "_O9pc_u5vH0:p11",
-    "_O9pc_u5vH0:p12",
-    "LM0cRCGoAUQ:p37"
+    "_O9pc_u5vH0:p12"
+   ]
+  },
+  {
+   "text": "Detroit is built on defense. The front office wants only enough offense, not an offensive superstar.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t1"
    ]
   }
  ],
@@ -257,165 +272,173 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "About 2.0 steals per game projected",
+   "detail": "About 2 steals a game, the most deflections in his group",
+   "until": "",
    "sources": [
     "ME-r173X5b0:p27",
     "_O9pc_u5vH0:p10",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "Free throws below 60%",
+   "detail": "About 58% to 59% FT on close to 3 attempts a game",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p10",
     "dlo7L8Ru91A:p27",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt FT fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p10",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt 3PM fit",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p10",
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "About 0.1 to 0.2 threes per game",
+   "detail": "About 0.2 threes a game; the team hopes for about 3 attempts a game after the rebuilt jumper",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p10",
+    "p9XE5jFqhvs:p3",
     "stats"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "",
    "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p5",
+    "BiIZsSypx7Y:p38"
+   ],
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "g31YlwRe0XQ:p35",
-    "_O9pc_u5vH0:p11",
-    "_O9pc_u5vH0:p12"
+    "_O9pc_u5vH0:p11"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "More minutes and on-ball usage expected; coach's minutes comments distrusted",
+   "detail": "Experts expect 2 to 4 more minutes and more on-ball usage",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p9",
-    "n4KkK-OJjqA:p26",
-    "p9XE5jFqhvs:p2",
     "LM0cRCGoAUQ:p37",
-    "BiIZsSypx7Y:p38"
+    "n4KkK-OJjqA:p26",
+    "p9XE5jFqhvs:p2"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "breakout",
    "channel": "current",
-   "detail": "Jump expected mostly from extra minutes and assists; Dan does not expect skill growth",
-   "sources": [
-    "LM0cRCGoAUQ:p37",
-    "gJUBAJaHzlU:p5",
-    "p9XE5jFqhvs:p4",
-    "BiIZsSypx7Y:p38"
-   ],
+   "detail": "Year-three jump expected, mostly from minutes and assists",
    "until": "",
+   "sources": [
+    "gJUBAJaHzlU:p5",
+    "LM0cRCGoAUQ:p37",
+    "p9XE5jFqhvs:p4"
+   ],
    "new_meaning": ""
   },
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "ADP in the 80s, experts call him underpriced",
-   "sources": [
-    "_O9pc_u5vH0:p11",
-    "egRrai3Ax38:p46",
-    "80kfLVnFQ_s:p34"
-   ],
+   "detail": "",
    "until": "",
+   "sources": [
+    "n4KkK-OJjqA:p26",
+    "egRrai3Ax38:p46",
+    "ahNxsoU8Hx4:p14"
+   ],
    "new_meaning": ""
   },
   {
    "name": "expert target",
    "channel": "current",
-   "detail": "Draft in the 50s to 60s in category leagues",
+   "detail": "Best Pistons target, 50s to 60s in category leagues",
+   "until": "",
    "sources": [
     "_O9pc_u5vH0:p11",
-    "_O9pc_u5vH0:p14",
-    "n4KkK-OJjqA:p27"
+    "_O9pc_u5vH0:p14"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo value 14 USD, ESPN value 4 USD",
+   "detail": "Yahoo value 16 USD, ESPN value 4 USD",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "usage freed",
    "channel": "current",
-   "detail": "Some of Tobias Harris's old usage is meant to go to him",
+   "detail": "Some of Tobias Harris's usage is meant to go to him",
+   "until": "",
    "sources": [
     "p9XE5jFqhvs:p2",
     "_O9pc_u5vH0:t2"
    ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "",
    "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t3"
+   ],
    "new_meaning": ""
   },
   {
    "name": "defense-first",
    "channel": "durable",
    "detail": "",
+   "until": "",
    "sources": [
     "p9XE5jFqhvs:t1"
    ],
-   "until": "",
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected 50 to 51 wins",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ],
-   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "He is a steals anchor (2.0 per game, z +3.4) with good blocks and solid FG%, but his FT% (about 59%) and near-zero threes make him a clear punt FT% and punt 3PM fit. Yahoo values him at 14 USD and ESPN at 4 USD, he cost 16 USD in our league last season and 17 USD in an expert mock, so about 14 to 18 USD is fair and the experts see upside above that. Early in the season, check whether he plays 28 or more minutes and whether his assists and three-point attempts rise, because the case for him rests on that.",
+ "note": "He went for 16 USD in our league last season, the same as his Yahoo value, while ESPN values him at only 4 USD. A mock auction had him at 17 USD with talk of up to 20 USD. Around 15 to 18 USD is fair for a punt FT% build that wants elite steals, solid blocks and rebounds, and no threes. Early in the season, check whether he plays 28 or more minutes despite Bickerstaff's track record, and whether his assists move toward 4 and he takes about 3 threes a game.",
  "rejected": []
 }

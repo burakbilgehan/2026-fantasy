@@ -8,51 +8,65 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "5eadf954c543",
- "note_count": 21,
- "built_at": "2026-10-11T09:19:26+00:00",
+ "input_sha": "a740a2f86b99",
+ "note_count": 24,
+ "built_at": "2026-10-16T09:04:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1835222,
-  "duration_ms": 46330,
+  "cost_usd_list": 0.2108142,
+  "duration_ms": 57985,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is out with plantar fasciitis and a toe issue in his foot. The injury is expected to keep him out at least four weeks.",
+   "text": "He is out with a plantar fascia and toe issue in his foot. He is expected to miss at least four weeks and will miss the start of the season. Yahoo lists him as out (foot).",
    "kind": "fact",
-   "date": "2026-10-08",
-   "until": "at least four weeks from 2026-10-08",
+   "date": "2026-10-14",
+   "until": "at least 4 weeks from 2026-10-08",
    "sources": [
     "sDzeYdUhJDI:p39",
-    "WXO8MfQfzo0:p37"
+    "WXO8MfQfzo0:p37",
+    "D4dP5JvX1oo:p31",
+    "stats"
    ]
   },
   {
-   "text": "Because of the foot injury, experts no longer want him as a late-round pick or a starter-level flyer.",
+   "text": "The experts no longer target him, even as a late-round flyer. One worries the foot injury could drag on, and another calls a pick around 103 way too early.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "D4dP5JvX1oo:p31",
+    "uI6umXsE7Vk:p53",
+    "hviT4hzYNME:p41",
     "sDzeYdUhJDI:p39",
     "WXO8MfQfzo0:p37"
    ]
   },
   {
-   "text": "He re-signed with Utah for 2 years and 22 million USD. Walker Kessler is no longer on the team, which leaves the starting center job open.",
+   "text": "When he returns, he may be eased back on lower minutes.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p53"
+   ]
+  },
+  {
+   "text": "He re-signed with Utah for 2 years and 22 million USD. Walker Kessler has left Utah.",
    "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "W3THnI7wWdA:p36",
-    "ZYllcj4o6_A:t0",
-    "LM0cRCGoAUQ:t4"
+    "P6TNP-g0wzY:p9",
+    "ZYllcj4o6_A:t0"
    ]
   },
   {
-   "text": "Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. playing much center. Kyle Filipowski is back in the rotation.",
+   "text": "Jaxson Hayes started at center in the preseason because Utah does not want Jaren Jackson Jr. to play much center. Kyle Filipowski is back in the rotation.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
@@ -61,7 +75,7 @@
    ]
   },
   {
-   "text": "When healthy, experts expect him to be Utah's starting center, though not all are sure he wins the job over Ace Bailey.",
+   "text": "Before the injury, experts projected him as Utah's starting center when healthy, ahead of Ace Bailey and Kyle Filipowski. One projected him at 27 minutes.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
@@ -69,13 +83,15 @@
     "ZYllcj4o6_A:p0",
     "egRrai3Ax38:p19",
     "ahNxsoU8Hx4:p29",
+    "t4n9MAP2_14:p36",
     "CI4k8ofUXXk:p24",
     "xHRF06_E9HE:p19",
-    "Rqb5GdrSweY:p8"
+    "Rqb5GdrSweY:p8",
+    "4kKINkZhWls:p12"
    ]
   },
   {
-   "text": "He was about a top 70 player last season and played very well as a starter after Kessler got hurt.",
+   "text": "He ranked about 68th last season, and he played at a top-70 level in his starts after Kessler got hurt.",
    "kind": "fact",
    "date": "2026-09-17",
    "until": "",
@@ -87,74 +103,70 @@
    ]
   },
   {
-   "text": "If he starts, one expert expects at least top 80 numbers.",
+   "text": "If he starts at center once healthy, Josh expects at least top 80 numbers. His passing should matter more next to Jaren Jackson Jr. and Kyle Lowry, who do not pass much.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p0"
-   ]
-  },
-  {
-   "text": "His passing should matter more in Utah because Jaren Jackson Jr. and Kyle Lowry are not good passers.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
+    "ZYllcj4o6_A:p0",
     "ahNxsoU8Hx4:p29",
     "ahNxsoU8Hx4:t2"
    ]
   },
   {
-   "text": "Utah plans to win this season, not tank, so experts see little risk of late-season shutdowns or cut minutes.",
+   "text": "Utah is trying to win this season and is not expected to tank or shut players down. Its frontcourt is crowded, and minutes and usage are expected to be all over the place early.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "sTtFUy7IoJI:t6",
     "J1Eg3uaAICU:t3",
     "dlo7L8Ru91A:t2",
     "ahNxsoU8Hx4:t2",
-    "egRrai3Ax38:t4"
+    "w66x_I_MaQ8:t2",
+    "CI4k8ofUXXk:t6"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has a long history of knee, leg and other lower-body injuries. Experts do not see him as a reliable or healthy player.",
+   "text": "He has a history of knee, leg and other lower-body injuries.",
+   "kind": "fact",
+   "date": "2026-08-05",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p23",
+    "P6TNP-g0wzY:p10"
+   ]
+  },
+  {
+   "text": "Experts see him as hard to trust and not a reliable or healthy player.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:p23",
-    "xHRF06_E9HE:p20",
-    "P6TNP-g0wzY:p10"
+    "xHRF06_E9HE:p20"
    ]
   },
   {
-   "text": "He rebounds well, passes well for a center and protects the rim.",
-   "kind": "verdict",
-   "date": "2026-07-02",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p10"
-   ]
-  },
-  {
-   "text": "He is not a high-usage player.",
-   "kind": "verdict",
+   "text": "He is a rebounding and passing center who can protect the rim. He is not a high-usage player.",
+   "kind": "fact",
    "date": "2026-10-02",
    "until": "",
    "sources": [
+    "P6TNP-g0wzY:p10",
     "ZYllcj4o6_A:p1"
    ]
   },
   {
-   "text": "His FT% is a clear weakness, even for a center, so he fits punt FT% builds.",
+   "text": "FT% is his clear weak category. It hurts a team's FT% even on modest volume, which makes him a fit for punt FT% builds. Rebounds are his best category, and he gives good assists and steals for a center.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "P6TNP-g0wzY:p10"
    ]
   }
  ],
@@ -162,18 +174,20 @@
   {
    "name": "injured now",
    "channel": "current",
-   "detail": "plantar fasciitis and toe issue in his foot, Yahoo status O",
-   "until": "at least four weeks from 2026-10-08",
+   "detail": "Plantar fascia and toe issue in his foot, out at least four weeks; Yahoo status O (foot)",
+   "until": "at least 4 weeks from 2026-10-08",
    "sources": [
     "sDzeYdUhJDI:p39",
-    "WXO8MfQfzo0:p37"
+    "WXO8MfQfzo0:p37",
+    "D4dP5JvX1oo:p31",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "repeated knee, leg and other lower-body injuries",
+   "detail": "History of knee, leg and other lower-body injuries",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:p23",
@@ -183,21 +197,9 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Jaxson Hayes started at center in the preseason; Ace Bailey and Kyle Filipowski are also options",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t7",
-    "egRrai3Ax38:p19",
-    "P6TNP-g0wzY:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "FT% liability",
    "channel": "durable",
-   "detail": "about 61% projected",
+   "detail": "About 61.6% projected FT%",
    "until": "",
    "sources": [
     "stats"
@@ -207,7 +209,7 @@
   {
    "name": "punt FT fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "FT% is his only flagged weak category",
    "until": "",
    "sources": [
     "stats"
@@ -217,7 +219,7 @@
   {
    "name": "AST from a big",
    "channel": "durable",
-   "detail": "passing center, 3.7 assists projected",
+   "detail": "Passing center, about 3.6 assists projected",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p10",
@@ -227,18 +229,41 @@
    "new_meaning": ""
   },
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Jaxson Hayes started at center in the preseason; Filipowski is back in the rotation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t7",
+    "sTtFUy7IoJI:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Utah minutes and usage expected to be all over the place early",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2",
+    "CI4k8ofUXXk:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Utah is trying to win this season",
+   "detail": "Utah is trying to win and is not expected to tank",
    "until": "",
    "sources": [
     "J1Eg3uaAICU:t3",
     "dlo7L8Ru91A:t2",
-    "ahNxsoU8Hx4:t2"
+    "ahNxsoU8Hx4:t2",
+    "sTtFUy7IoJI:t6"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Before his foot injury he was a popular late-round value pick. Now he is ranked 115 on Yahoo (2 USD) and 170 on ESPN (0 USD), and he went undrafted in our league last season. He is out at least four weeks, and experts have dropped him as a late-round target, so let him go undrafted in our 144-player auction. Watch two things early on waivers: when he gets back, and whether Jaxson Hayes keeps the starting center job. As a starter he can return about top 80 value for punt FT% builds that want rebounds and passing from a center.",
+ "note": "Nurkić is out at least four weeks with a foot injury. He is priced at 2 USD on Yahoo (rank 159) and 0 USD on ESPN (rank 170). That puts him outside the 144 players our league drafts, and the experts have dropped him as a target, so do not draft him. Once he returns, watch him on waivers. If he wins back the starting center job from Jaxson Hayes, his rebounds, assists and steals fit a punt FT% build, and experts saw top-80 upside in that role.",
  "rejected": []
 }

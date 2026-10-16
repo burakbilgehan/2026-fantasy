@@ -4,55 +4,53 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 66 | 28.6 | 46.6 (14.1) | 68.8 (3.1) | 1.2 | 16.5 | 7.6 | 2.8 | 0.8 | 2.0 | 1.8 |
-| 2026-27 proj, Yahoo | 69 | - | 48.5 (13.5) | 70.9 (3.3) | 1.4 | 16.8 | 7.2 | 2.7 | 1.0 | 1.8 | 1.8 |
+| 2026-27 proj, Yahoo | 67 | - | 48.5 (13.5) | 70.7 (2.7) | 1.4 | 16.4 | 7.2 | 2.4 | 0.9 | 1.2 | 1.5 |
 | 2025-26 | 48 | 27.2 | 48.2 (13.7) | 69.2 (3.0) | 1.0 | 16.3 | 7.4 | 2.7 | 0.8 | 2.0 | 1.7 |
 | 2024-25 | 67 | 27.1 | 39.4 (12.4) | 67.9 (2.5) | 1.6 | 13.0 | 6.5 | 2.4 | 0.7 | 1.5 | 1.7 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 5.2 | 56 | 7 | 4.5 | 66 | 9 |
+| 2026-27 | 18 | 4.6 | 56 | 7 | 4.7 | 66 | 9 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 47.5% | -0.1 | -0.9 | - |
-| FT% | 69.9% | -1.2 | -0.4 | - |
+| FT% | 69.7% | -1.1 | -0.3 | - |
 | 3PM | 1.3 | -0.2 | +0.7 | - |
-| PTS | 16.6 | +0.4 | +0.6 | - |
-| REB | 7.4 | +1.0 | -0.1 | - |
-| AST | 2.7 | -0.2 | +0.2 | - |
-| STL | 0.9 | -0.0 | +0.5 | - |
-| BLK | 1.9 | +2.7 | +1.4 | league outlier, strong |
-| TO | 1.8 | -0.2 | -0.4 | - |
+| PTS | 16.4 | +0.4 | +0.6 | - |
+| REB | 7.4 | +1.0 | -0.0 | - |
+| AST | 2.6 | -0.3 | +0.1 | - |
+| STL | 0.8 | -0.3 | +0.3 | - |
+| BLK | 1.6 | +2.1 | +0.9 | league outlier, strong |
+| TO | 1.7 | +0.0 | -0.2 | - |
 
 </details>
 
 **Current**
-- Experts call his Yahoo rank of 56 too high and advise against drafting him in the 50s or 60s. Around pick 80 to 90 is a fair price. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-05](https://youtu.be/BiIZsSypx7Y?t=2892), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [09-07](https://youtu.be/gJUBAJaHzlU?t=1239), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133))
-- He is coming back from a broken foot and surgery. He was only a partial participant in camp. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [09-25](https://youtu.be/4gw4W4RTolY?t=80), [07-23](https://youtu.be/UTE0dNIv8nY?t=1731))
-- He should be ready for opening night. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [09-25](https://youtu.be/4gw4W4RTolY?t=80))
-- His usage should drop. With Young, Davis and Dybantsa he becomes the fourth or fifth offensive option, and a usage increase is hard to see. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-19](https://youtu.be/uarqbNA2dFk?t=894), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [08-26](https://youtu.be/sTtFUy7IoJI?t=2076), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [10-05](https://youtu.be/BiIZsSypx7Y?t=2892))
-- Next to Davis he should get fewer rim contests, so his blocks and rebounds are expected to fall. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-05](https://youtu.be/BiIZsSypx7Y?t=2934), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [08-26](https://youtu.be/sTtFUy7IoJI?t=2084))
-- Davis is expected to play center on offense. Sarr is expected to play more power forward, further from the basket, and to switch onto the perimeter on defense. (verdict, 2026-10-05; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [10-05](https://youtu.be/BiIZsSypx7Y?t=2934))
-- His minutes should go up, but he will touch the ball less per minute. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2892), [08-26](https://youtu.be/sTtFUy7IoJI?t=2076))
-- In one 9-cat mock draft he went at pick 83. (fact, 2026-09-30; [09-30](https://youtu.be/BjXP9JODDSg?t=1379))
-- Washington added Trae Young, Anthony Davis and AJ Dybantsa. The projected starters are Young, Kyshawn George, Dybantsa, Davis and Sarr. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [07-23](https://youtu.be/UTE0dNIv8nY?t=379), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121))
-- Playing further from the basket should mean more threes and a lower FG%. (verdict, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [07-23](https://youtu.be/UTE0dNIv8nY?t=837))
-- Washington is likely to keep Davis, but a trade is possible. If Davis is traded, Sarr starts at center. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083), [06-30](https://youtu.be/4GDfg2n2l8o?t=1518))
-- Washington is trying to compete for the play-in, so late-season rest and minutes cuts are not expected. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
-- Head coach Brian Keefe is under heavy pressure to win this season. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
+- Experts call him a fair pick from about 80 to 90. In mock drafts he went between 81 and 87. One expert took him at 87 only because he needed a center and would normally let him fall further. (verdict, 2026-10-13; [10-11](https://youtu.be/uI6umXsE7Vk?t=1175), [10-05](https://youtu.be/BiIZsSypx7Y?t=2892), [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-13](https://youtu.be/EogBYa24Gto?t=1089), [09-30](https://youtu.be/BjXP9JODDSg?t=1379))
+- He is back playing after a broken foot that needed surgery. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1175), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280))
+- Experts expect him to be ready for opening night. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [09-25](https://youtu.be/4gw4W4RTolY?t=80))
+- Experts call his Yahoo rank of 56 too high. They would not draft him in the 50s or 60s. One gives a best case of 62nd and a worst case of 134th. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [09-07](https://youtu.be/gJUBAJaHzlU?t=1239), [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-05](https://youtu.be/BiIZsSypx7Y?t=2892))
+- His upside depends on Anthony Davis. Rank 56 only makes sense if Davis plays fewer than 40 games. If Davis is traded, Sarr starts at center. One expert is about 80% sure Washington keeps Davis. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [06-30](https://youtu.be/4GDfg2n2l8o?t=1518), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1083), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- Experts expect his usage to fall. Trae Young, Anthony Davis and AJ Dybantsa push him to the fourth or fifth offensive option, so they do not expect a third-year breakout. (verdict, 2026-10-06; [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [08-26](https://youtu.be/sTtFUy7IoJI?t=2076), [08-19](https://youtu.be/J1Eg3uaAICU?t=1133), [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [10-06](https://youtu.be/eTsjuVu1trk?t=2539), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [09-19](https://youtu.be/uarqbNA2dFk?t=894), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [10-05](https://youtu.be/BiIZsSypx7Y?t=2892))
+- Experts expect fewer rim contests, blocks and rebounds next to Anthony Davis, and more threes with a lower FG%. One projection is 13 points, 7 rebounds and 1.9 blocks. (verdict, 2026-10-06; [09-17](https://youtu.be/DubdKKhMWHo?t=1428), [09-14](https://youtu.be/t4n9MAP2_14?t=2085), [10-05](https://youtu.be/BiIZsSypx7Y?t=2934), [10-06](https://youtu.be/eTsjuVu1trk?t=2548), [09-19](https://youtu.be/uarqbNA2dFk?t=896), [08-26](https://youtu.be/sTtFUy7IoJI?t=2084), [09-07](https://youtu.be/gJUBAJaHzlU?t=1188), [07-23](https://youtu.be/UTE0dNIv8nY?t=837))
+- His minutes should go up, but he should touch the ball less per minute. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2892), [08-26](https://youtu.be/sTtFUy7IoJI?t=2076))
+- Washington added Trae Young, Anthony Davis and AJ Dybantsa. Davis plays center on offense, and Sarr plays more power forward and switches on the perimeter. He is a projected starter. (fact, 2026-09-17; [09-17](https://youtu.be/DubdKKhMWHo?t=1436), [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [09-07](https://youtu.be/gJUBAJaHzlU?t=1192), [07-23](https://youtu.be/UTE0dNIv8nY?t=379))
+- Washington is trying to compete and is projected to win about 40 games. The late-season rest and minutes cuts of past years should not return. (verdict, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=2185), [07-23](https://youtu.be/UTE0dNIv8nY?t=1802))
+- Head coach Brian Keefe is under pressure to win games this season. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=1605))
 
 **Durable**
-- Blocks are his standout category, far above the league pool. (verdict, 2026-10-11; stats, [07-07](https://youtu.be/ME-r173X5b0?t=1836))
-- Injury history: a broken foot that needed surgery. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [07-23](https://youtu.be/UTE0dNIv8nY?t=1731))
-- He led the league in shots contested at the rim per game by a wide margin and piles up blocks. (fact, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [07-23](https://youtu.be/UTE0dNIv8nY?t=796), [07-07](https://youtu.be/ME-r173X5b0?t=1836))
-- His FG% is much better when he plays near the rim and takes fewer threes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=837), [07-16](https://youtu.be/-y6p5PYLf00?t=1665))
+- Blocks are his clear standout category, far above the top 250 pool. The two sites disagree on how many he keeps: Yahoo projects 1.2 per game and ESPN 2.0. (fact, 2026-10-16; stats)
+- He has a history of a broken foot that needed surgery. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1280), [07-23](https://youtu.be/UTE0dNIv8nY?t=1731))
+- He is a heavy rim protector. He led the league in contested shots at the rim by a wide margin and was second in blocks at 2.0 per game. (fact, 2026-10-05; [08-19](https://youtu.be/J1Eg3uaAICU?t=1121), [07-23](https://youtu.be/UTE0dNIv8nY?t=796), [07-07](https://youtu.be/ME-r173X5b0?t=1836), [10-05](https://youtu.be/BiIZsSypx7Y?t=2934))
+- His FG% depends on where he shoots. It is much higher when he plays near the rim than when he takes many threes. (fact, 2026-07-23; [07-23](https://youtu.be/UTE0dNIv8nY?t=837), [07-16](https://youtu.be/-y6p5PYLf00?t=1665), stats)
 
 **Tags**
-- Current: `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa), `role down` (Less usage and a role further from the basket next to Davis, though minutes may rise), `regression risk` (Blocks, rebounds and FG% expected to fall next to Davis), `bust candidate` (Yahoo rank 56 and value 18 USD called too high; fair around pick 80 to 90), `sites disagree on price` (Yahoo value 18 USD, ESPN value 7 USD), `injury last season` (Broken foot with surgery; 48 games played), `low shutdown risk` (Wizards are trying to make the play-in), `coach hot seat` (Brian Keefe)
-- Durable: `BLK specialist` (About 1.9 blocks per game projected; led the league in rim contests)
+- Current: `position change` (Moves toward power forward and perimeter defense next to Anthony Davis at center), `usage competition` (Trae Young, Anthony Davis and AJ Dybantsa), `role down` (Usage drops even as minutes may rise), `regression risk` (Blocks, rebounds and FG% expected to drop next to Davis), `bust candidate` (At Yahoo rank 56 and ADP in the 60s), `injury last season` (Broken foot and surgery), `sites disagree on price` (Yahoo value 18 USD, ESPN value 7 USD), `low shutdown risk` (Washington is trying to compete), `coach hot seat` (Brian Keefe)
+- Durable: `BLK specialist` (League leader in rim contests; about 2.0 blocks per game)
 
-**Note.** The experts agree Sarr is a fade at his Yahoo price (rank 56, value 18 USD). Young, Davis and Dybantsa cut his usage, and Davis cuts into the rim contests behind his elite blocks. Their fair price is closer to pick 80 to 90, which fits his average costs of about 4 to 5 USD and the 9 USD he went for in our league last season, so he is a fine blocks pickup in that range but not at 18 USD. Early in the season, check whether Davis really plays center, whether Sarr keeps blocking near 2 a game, whether his FG% falls as he takes more threes, and how his foot holds up.
+**Note.** Experts agree Sarr is a blocks source priced too high at Yahoo rank 56 (value 18 USD). They put him at picks 80 to 90, which fits his ESPN value of 7 USD and the 9 USD he cost in our league last season more than Yahoo's number. In our auction he is worth paying up to about 10 USD for a blocks build, since his 2.0 BLK with FT% near 70% suits a team that already gives up some FT%. Early in the season, check whether he plays power forward next to Anthony Davis, and whether his blocks stay near ESPN's 2.0 or fall toward Yahoo's 1.2. Also watch his FG% as his threes rise, and any Davis injury or trade, which would put Sarr back at center.
 
-<sub>22 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>24 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

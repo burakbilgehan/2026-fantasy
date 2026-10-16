@@ -1,6 +1,6 @@
 // Reads the transcript of the open YouTube watch page and POSTs it to the local
-// receiver. Served by transcript_receiver.py at /grab.js?id=VIDEO_ID (__ID__ is
-// replaced). Evaluated through a Trusted Types policy, so it is one expression.
+// receiver. Served by transcript_receiver.py at /grab.js?id=VIDEO_ID (__ID__ and
+// __PORT__ are replaced). Evaluated through a Trusted Types policy, so it is one expression.
 //
 // Two sources, first one wins:
 // 1. Network: the panel's youtubei response (get_panel / get_transcript), hooked
@@ -90,7 +90,7 @@
     if (!segs) throw new Error('no transcript');
     const pr = document.querySelector('#movie_player').getPlayerResponse();
     if (pr.videoDetails.videoId !== id) throw new Error('wrong video');
-    const r = await fetch('http://127.0.0.1:8765/transcript', {
+    const r = await fetch('http://127.0.0.1:__PORT__/transcript', {
       method: 'POST', headers: {'Content-Type': 'application/json'},
       body: JSON.stringify({video_id: id, title: pr.videoDetails.title, channel: pr.videoDetails.author,
         publish_date: pr.microformat?.playerMicroformatRenderer?.publishDate || '',

@@ -3,125 +3,81 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** A one-category specialist helps only when the category is still winnable and his weak categories match the ones you already plan to punt. Punt rankings make these players look like top 100 options, but our league counts all nine categories every week. Never spend auction dollars or FAB on a specialist to rescue a category you have already lost.
+**Summary.** A category specialist helps only when he moves a category you can still win each week. Buy him late in the auction or with a waiver move, after you know which categories are close. Punt rankings make one-category players look like top 100 players. Do not pay that price, and never buy one to rescue a category you have already lost.
 
 ## Punt rankings flatter specialists
 
-A player who is elite in one category can look like a top 100 player in a ranking that punts his weak categories. That does not make him draftable in a standard league. Our league scores all nine categories every week. His holes count against you unless you have really given up those categories. ([10-01](https://youtu.be/EGdhmUgPAWY?t=1527))
+When a ranking punts a one-category player's weak categories, he can look like a top 100 player. That view hides what he costs you everywhere else. Our league drafts 144 players, so a top 100 spot in a punt ranking does not mean he deserves a roster spot in our standard 9-cat format. ([10-01](https://youtu.be/EGdhmUgPAWY?t=1527))
 
-The same trap catches big men who are elite only in blocks, FG% and rebounds. Experts say these players get overdrafted in category leagues. Do not take them as early as round three, which is picks 25 to 36 in our 12-team league. In our auction, that means do not pay a third-round price for a three-category big. ([07-02](https://youtu.be/P6TNP-g0wzY?t=1083))
+Watch for three common traps. First, big men who are elite only in blocks, FG% and rebounds get overdrafted. Do not take them as early as round three, which is about picks 25 to 36 in a 12-team league. Second, strong steals alone should not raise a player's value. Third, a guard who only shoots threes and gives no rebounds or assists is a bad profile unless he is elite at threes. ([07-02](https://youtu.be/P6TNP-g0wzY?t=1083), [09-09](https://youtu.be/7BllEsdNLoM?t=2462), [07-05](https://youtu.be/4kKINkZhWls?t=3864))
 
-Two more warnings. Do not let strong steals alone raise a player's value. A shooting guard who only makes threes and does not rebound or assist is a bad fantasy profile unless he is elite at threes. ([09-09](https://youtu.be/7BllEsdNLoM?t=2462), [07-05](https://youtu.be/4kKINkZhWls?t=3864))
-
-Before you bid, read the player's full nine-category line, not his punt rank. List his weak categories. Then ask which of them your team already plans to give up. If the answer is none, he will cost you more than his ranking shows. ([10-01](https://youtu.be/EGdhmUgPAWY?t=1527))
+If you take a two-category player early, he leaves holes you then have to fill. In our auction it is worse. A big early bid on a narrow player creates the holes and also uses up the dollars you need to fill them. ([09-07](https://youtu.be/gJUBAJaHzlU?t=960))
 
 ## Do not buy back a lost category
 
-Do not draft a one-category specialist to fix a category that is already too weak to recover. If your core buys leave you far behind in a category, treat it as a punt. Spend the dollars you have left on categories you can still win. ([09-15](https://youtu.be/KPdD91Oo8-U?t=1166))
+Never draft a one-category specialist to fix a category that is already too weak to recover. In head-to-head you need to win 5 of 9 categories each week. A specialist who adds a little to a category you lose by a wide margin wins you nothing. His weak categories then cost you elsewhere. ([09-15](https://youtu.be/KPdD91Oo8-U?t=1166))
 
-Many holes start early. Taking a two-category player early leaves holes in your team that you then have to fix. Before you pay a big price for a narrow player, count which categories he will leave empty and whether your later budget can cover them. ([09-07](https://youtu.be/gJUBAJaHzlU?t=960))
+During the auction, update your category strengths and weaknesses after every buy. Before you bid on a specialist, ask one question: is this category close for my build? If you have punted it, pass. If you are already strong in it, pass too. Bid only when it is a real need, for example a big man for rebounds or a guard for assists. ([09-30](https://youtu.be/BjXP9JODDSg?t=925), [09-15](https://youtu.be/KPdD91Oo8-U?t=1166))
 
-The same rule holds in season. We get at most 6 acquisitions per week and a limited FAB budget. Use them on a category you can swing in this week's matchup. Do not use them on a category you lose every week. ([09-15](https://youtu.be/KPdD91Oo8-U?t=1166), [09-24](https://youtu.be/_vbAP5y182A?t=864))
+Use the same test in season, before you spend FAB or one of your 6 weekly acquisitions. Look at your weekly results. If you lose a category narrowly, a specialist can swing it. If you lose it badly every week, spend the move somewhere else. Make this call well before the trade deadline on 2027-03-04, so the roster is set for playoff weeks 19 to 21. ([09-15](https://youtu.be/KPdD91Oo8-U?t=1166), [09-30](https://youtu.be/BjXP9JODDSg?t=925))
 
-## When filling a need is the right move
+## When to reach: the experts differ
 
-Track your category strengths and weaknesses during the draft. After each of your buys, note which of the nine categories you lead and which you lag. Pick to fill needs, for example a big man for rebounds or an early buy for assists. ([09-30](https://youtu.be/BjXP9JODDSg?t=925))
+The experts do not agree on how hard to chase a need. One side says you sometimes have to reach, for example taking a player a bit early just to get assists, and that a reach is fine if it fits your build because you do not have to be rigid about value. The other side warns that when you are weak in a category like assists, you should not overindex on chasing it. ([09-30](https://youtu.be/BjXP9JODDSg?t=1391), [09-19](https://youtu.be/uarqbNA2dFk?t=616), [09-24](https://youtu.be/_vbAP5y182A?t=864))
 
-Specialists fit best in the last of our 12 roster spots, after the 144-player pool has thinned. The right target is close to average in a category you are only a little behind in, and his weak categories are ones you already punt. A specialist whose weak spots hit categories you are trying to win is the wrong buy, even when he is cheap. ([09-30](https://youtu.be/BjXP9JODDSg?t=925), [10-01](https://youtu.be/EGdhmUgPAWY?t=1527))
+In practice the two views fit together. Pay a few dollars over value for a specialist when the category is close and he fits the build you are already running. Do not let one weak category take over your whole auction plan, and do not pay early-round money for it. ([09-19](https://youtu.be/uarqbNA2dFk?t=616), [09-24](https://youtu.be/_vbAP5y182A?t=864), [07-02](https://youtu.be/P6TNP-g0wzY?t=1083))
 
-The experts disagree on how hard to chase a need. One side says you sometimes have to reach, taking a player a bit early just to get assists, and that a reach is fine if it fits your build because you need not be rigid about value. The other side says not to overindex on chasing a weak category like assists, and warns that buying narrow players early creates new holes. A workable middle ground: reach a little for a category that is still in play, and never reach for one already lost. ([09-30](https://youtu.be/BjXP9JODDSg?t=1391), [09-19](https://youtu.be/uarqbNA2dFk?t=616), [09-24](https://youtu.be/_vbAP5y182A?t=864), [09-07](https://youtu.be/gJUBAJaHzlU?t=960))
+## Where specialists fit in our league
 
-## Checks before you bid or claim
+Specialists belong late in the auction, once your build is clear and you know which categories are close. Early dollars should go to players who help many categories, because early narrow buys leave holes. ([09-30](https://youtu.be/BjXP9JODDSg?t=925), [09-07](https://youtu.be/gJUBAJaHzlU?t=960), [09-15](https://youtu.be/KPdD91Oo8-U?t=1166))
 
-Run four checks before every specialist bid on 2026-10-18 and every FAB claim after it. First, is the category still winnable? Second, do his weak categories match your punts? Third, is he elite in his one category, not just good? Fourth, would the price buy a third-round player? If it would, stop bidding. ([09-15](https://youtu.be/KPdD91Oo8-U?t=1166), [10-01](https://youtu.be/EGdhmUgPAWY?t=1527), [07-05](https://youtu.be/4kKINkZhWls?t=3864), [07-02](https://youtu.be/P6TNP-g0wzY?t=1083))
-
-Steals deserve one extra check. A player who brings steals and nothing else should not climb your list because of steals alone. Look for a second category he helps, or a punt that hides his weak spots. ([09-09](https://youtu.be/7BllEsdNLoM?t=2462))
+Look at what a specialist costs you, not just what he adds. FG% and FT% are team ratios, so a high-volume poor shooter can sink one of them. A specialist whose costs land in a category you already punt is a good fit. One whose costs land in a category you still contest is not, unless he is elite in his strong category. ([07-05](https://youtu.be/4kKINkZhWls?t=3864), [10-01](https://youtu.be/EGdhmUgPAWY?t=1527))
 
 ## Players
 
 Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
-### Mid-auction fills
+### Core targets
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 19.1 | 15 | 26.1 | 54 | Blocks and rebounds with a plus FG%, but games played are the doubt and a build around him still needs guard stats and threes. |
-| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 32 | 21.3 | 23 | 24.4 | 14 | Rebounds and FG% anchor with no threes, best in punt 3PM, and his FT% does less damage than most centers'. |
-| [James Harden](../profiles/players/james-harden.md) | CLE | G | 33 | 23.8 | 26 | 27.6 | 42 | Elite assists and FT% on volume, but weak FG% and heavy turnovers make him a punt FG% and punt TO piece with a two-game finals week. |
-| [Devin Booker](../profiles/players/devin-booker.md) | PHX | G | 24 | 31.1 | 39 | 32.6 | 45 | Points, FT% and assists for punt TO builds, but check whether he or Jalen Green runs the offense before counting on the assists. |
-| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.7 | 34 | 24.6 | 42 | A true outlier in threes, points and FT%, but his knee, his age and expected missed games are the price of the discount. |
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 27.1 | 27 | 21.4 | 36 | Blocks, rebounds and FG% with FT% as the only real hole, so he belongs on a punt FT% team. |
-| [Jalen Brunson](../profiles/players/jalen-brunson.md) | NYK | G | 29 | 33.3 | 31 | 42.3 | 31 | Points, FT%, threes and assists from a guard fit a punt BLK build, but category experts rate him well below his market. |
-| [Chet Holmgren](../profiles/players/chet-holmgren.md) | OKC | F,C | 31 | 30.3 | 52 | 11.4 | 32 | Elite shot blocker who helps rebounds and FG% without hurting other categories; check the quadriceps before the draft. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 26.0 | 32 | 38.7 | 41 | Rebounds, FG% and frontcourt assists, but he gives back turnovers, threes and blocks, so he fits punt TO. |
-| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 35 | 19.3 | 55 | 8.3 | 20 | Threes, FT% and points, but low FG% on volume and turnovers push him to punt FG% or punt TO builds. |
-| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 40 | 15.3 | 72 | 6.3 | 29 | Blocks-first forward whose weak rebounding and passing lean toward punt AST teams. |
-| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 62 | 4.1 | 38 | 10.7 | 28 | Steals outlier who also adds assists, rebounds and FG%, so he is more than a one-category player for punt FT% or punt 3PM. |
-| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 53 | 7.0 | 54 | 13.7 | 11 | Assists, threes and FT% from a guard for punt TO builds, with a toe to watch. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 64 | 6.0 | 64 | 5.3 | 12 | Blocks and threes from a forward with no weak category flagged, though his blocks may dip next to Caleb Wilson. |
-| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 73 | 2.6 | 79 | 3.3 | 16 | Steals anchor with blocks and FG%, but poor FT% and near-zero threes make him a punt FT% and punt 3PM fit only. |
+| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 64 | 4.2 | 38 | 11.1 | 28 | He gives elite steals plus assists, rebounds and FG%, so he is more than a one-category player and fits punt FT% or punt 3PM builds. |
+| [Jaren Jackson Jr.](../profiles/players/jaren-jackson.md) | UTA | F,C | 40 | 14.6 | 72 | 7.3 | 29 | He gives blocks with real scoring, the market prices him low, and he fits blocks, punt TO and punt AST builds. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 59 | 6.0 | 64 | 5.9 | 12 | He gives blocks plus threes from a forward with no weak category flags, so he fits most builds without leaving a hole. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 72 | 3.2 | 46 | 5.6 | 5 | He is a cheap source of rebounds, blocks and FG% with some threes, a good fit for big-man builds that give up assists. |
 
-### Late-auction fills
+### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Walker Kessler](../profiles/players/walker-kessler.md) | LAL | C | 38 | 18.2 | 48 | 8.9 | 15 | Blocks, rebounds and FG% center whose FT% hurts, a natural punt FT% fill; experts treat his small-sample gains as noise. |
-| [Kon Knueppel](../profiles/players/kon-knueppel.md) | CHA | G,F | 63 | 9.5 | 40 | 15.4 | not drafted | Threes with good FT% and points and no weak category, but little steals or blocks, and experts call his market rank too high. |
-| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 44 | 16.2 | 45 | 7.0 | 7 | Rebounds and blocks only, with FT% given back and below-average steals, assists and points, so he fills out a build rather than anchoring one. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.7 | 75 | 4.8 | 20 | Elite FG% and rebounds for punt 3PM and punt STL builds, but Indiana has a light playoff schedule. |
-| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 78 | 5.1 | 56 | 5.5 | 10 | Cheap FG%, rebounds and blocks for punt FT% or punt 3PM, with a two-game semifinal week to plan around. |
-| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 66 | 6.3 | 114 | 2.3 | 2 | FG%, rebounds and blocks anchor for punt TO builds, with foot and ankle risk. |
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 118 | 1.2 | 95 | 1.4 | 20 | Blocks and threes from a center for punt FG% builds, fine only near the end of the auction. |
+| [Jalen Duren](../profiles/players/jalen-duren.md) | DET | C | 32 | 20.6 | 23 | 24.7 | 14 | He gives elite rebounds and FG% on volume with no threes, so he fits punt 3PM builds. |
+| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 26.7 | 27 | 21.9 | 36 | His blocks, rebounds and FG% carry value in punt FT% builds that do not need his free throws. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 25.0 | 32 | 37.3 | 41 | He gives elite rebounds, high-volume FG% and assists from a big, but his turnovers, FT%, threes and blocks make him a punt TO piece, not an early anchor. |
+| [Ausar Thompson](../profiles/players/ausar-thompson.md) | DET | G,F | 67 | 3.1 | 79 | 3.8 | 16 | He gives elite steals plus blocks and rebounds with no threes, so he fits a punt FT% build. |
+| [Darius Garland](../profiles/players/darius-garland.md) | LAC | G | 53 | 8.0 | 54 | 13.7 | 11 | He is an assists source who also gives threes, points and FT%, and his high turnovers fit punt TO builds. |
+| [James Harden](../profiles/players/james-harden.md) | CLE | G | 33 | 23.7 | 26 | 26.0 | 42 | He gives elite assists, strong FT% and threes, so he fits punt FG% and punt TO builds, but his finals week has only two games. |
+| [Stephen Curry](../profiles/players/stephen-curry.md) | GSW | G | 25 | 31.9 | 34 | 24.6 | 42 | He carries 3PM, FT% and PTS with only turnovers weak, but missed games are the risk. |
+| [LaMelo Ball](../profiles/players/lamelo-ball.md) | MIN | G | 23 | 28.8 | 12 | 40.5 | 29 | He gives elite threes and assists for punt FG% or punt TO teams, where his poor shooting on volume and turnovers matter less. |
+| [Josh Giddey](../profiles/players/josh-giddey.md) | CHI | G | 19 | 37.4 | 37 | 32.6 | 31 | He is a top assists source with guard-leading rebounds, but his turnovers and slightly weak shooting make him a punt TO fit only. |
+| [Kawhi Leonard](../profiles/players/kawhi-leonard.md) | TOR | G,F | 36 | 24.9 | 20 | 26.5 | 20 | His standout steals come with points, FT% and FG%, so he fits every build, but his knee caps what you should pay. |
+| [Brandon Miller](../profiles/players/brandon-miller.md) | CHA | F | 35 | 21.2 | 55 | 9.5 | 20 | He gives elite threes for a forward with strong FT% and points, but his FG% on volume and his turnovers point to punt FG% and punt TO builds. |
+| [Anthony Davis](../profiles/players/anthony-davis.md) | WAS | F,C | 45 | 17.6 | 15 | 27.4 | 54 | He is not a one-category player: elite rebounds and blocks plus FG% and points make him a big-man anchor who will miss games. |
+| [Zach Edey](../profiles/players/zach-edey.md) | MEM | C | 71 | 5.0 | 114 | 3.2 | 2 | He gives FG%, rebounds and blocks with a strong 4-4-4 playoff schedule, for builds that can live without threes and assists. |
 
-### Avoid at market price
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 56 | 5.2 | 66 | 4.0 | 9 | A real blocks source, but Young, Davis and Dybantsa cut his role, so buy him only at end-of-auction prices. |
-| [Stephon Castle](../profiles/players/stephon-castle.md) | SAS | G | 77 | 4.3 | 92 | 10.3 | 1 | Assist source who costs you FT% and TO, and his category value sits far below his points-league hype. |
-| [Joel Embiid](../profiles/players/joel-embiid.md) | PHI | C | 52 | 7.3 | 87 | 8.0 | 24 | Points and FT% per game, but turnovers and a limited games total leave empty head-to-head weeks, including playoff back-to-backs. |
-
-### End-of-auction flyers
+### Cap the bid
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jalen Suggs](../profiles/players/jalen-suggs.md) | ORL | G | 95 | 2.3 | 143 | 0.6 | 1 | Elite steals plus threes and assists, if you can live with weak FG%, turnovers and missed games. |
-| [Kevin Porter Jr.](../profiles/players/kevin-porter.md) | MIL | G | 128 | 1.0 | 109 | 1.3 | 3 | Steals, assists and FT% for punt 3PM builds, and an easy cut if he ends up a bench guard. |
-| [Cason Wallace](../profiles/players/cason-wallace.md) | OKC | G,F | 123 | 1.0 | 110 | 0.6 | 1 | A textbook one-category player: steals and little else, so he is worth only a last-dollar bid. |
-| [Khaman Maluach](../profiles/players/khaman-maluach.md) | PHX | C | 113 | 1.2 | 202 | 0.2 | not drafted | Blocks flyer for punt STL or punt AST builds, and a cut if Ighodaro keeps the center job. |
-| [Yves Missi](../profiles/players/yves-missi.md) | NOP | C | 131 | 0.0 | 165 | 0.1 | 2 | Blocks and good FG% for punt 3PM or punt STL; check his FT% and that he starts over Derik Queen. |
-
-### Waiver watch
-
-| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
-|---|---|---|---|---|---|---|---|---|
-| [Scotty Pippen Jr.](../profiles/players/scotty-pippen.md) | MEM | G | 166 | 0.0 | 134 | 0.3 | not drafted | Steals and assists for a punt FT% build, mainly a waiver name unless he wins a bigger role. |
-| [Dereck Lively II](../profiles/players/dereck-lively.md) | DAL | C | 183 | - | 144 | 0.1 | 3 | Do not spend at the auction; if he wins the job after his broken foot, his blocks and FG% fit punt 3PM. |
-| [Isaiah Stewart](../profiles/players/isaiah-stewart.md) | MEM | F,C | 174 | 0.0 | 147 | 0.2 | not drafted | Hurt now and outside the drafted pool, but a FAB target for blocks if he starts while Edey is out. |
-| [Robert Williams III](../profiles/players/robert-williams.md) | POR | C | 195 | - | 166 | 0.0 | not drafted | Blocks, FG% and low turnovers in capped minutes; add him if his minutes rise toward 23. |
-| [De'Anthony Melton](../profiles/players/deanthony-melton.md) | GSW | G | 250 | - | 181 | 0.0 | not drafted | Steals for steals-chasing or punt FG% builds, worth an add if he wins the open starting spot. |
-| [Matisse Thybulle](../profiles/players/matisse-thybulle.md) | LAL | G,F | 343 | - | 220 | 0.1 | not drafted | Steals source for punt PTS or punt REB teams, to watch on waivers rather than draft. |
+| [Donovan Clingan](../profiles/players/donovan-clingan.md) | POR | C | 44 | 14.5 | 45 | 7.9 | 7 | He gives elite rebounds and blocks but little else, and Portland plays only 10 games in our playoff weeks. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.6 | 75 | 6.0 | 20 | He gives elite FG% and rebounds for punt 3PM and punt STL builds, but Indiana plays only 3, 4 and 3 games in our playoff weeks. |
+| [Alex Sarr](../profiles/players/alex-sarr.md) | WAS | C | 56 | 4.6 | 66 | 4.7 | 9 | He is a blocks source for a team that already gives up some FT%, and his blocks projection ranges widely between sites. |
+| [Rudy Gobert](../profiles/players/rudy-gobert.md) | MIN | C | 80 | 5.0 | 56 | 6.0 | 10 | He gives FG%, rebounds and blocks for a punt FT% build, but has a two-game semifinal week. |
 
 <details><summary>Left out</summary>
 
-- Nikola Jokić: Multi-category first-round anchor, not a late or in-season category fill.
-- Victor Wembanyama: Top-two pick across blocks, rebounds and points, not a late category fill.
-- Luka Dončić: Four-category star priced at the top of the auction, not a specialist fill.
-- Shai Gilgeous-Alexander: Top-four pick who helps nearly every category, not a late fill.
-- Anthony Edwards: Early-round core player priced far above a late category fill.
-- Cade Cunningham: Early-round assist anchor priced as a core buy, not a late fill.
-- Donovan Mitchell: Multi-category guard in the 30 to 40 USD range, not a late specialist.
-- Giannis Antetokounmpo: Top-five core player who shapes a build rather than filling a hole.
-- Jayson Tatum: First-round forward with broad production, not a category fill.
-- Tyrese Maxey: Late first or early second round guard priced as a core buy.
-- Jalen Johnson: Second-round two-category star priced well above a late fill.
-- Tyrese Haliburton: Assist anchor priced as an early core buy, not a late fill.
-- LaMelo Ball: Mid-30s USD core guard, not a late or in-season fill.
-- Karl-Anthony Towns: Mid-30s USD multi-category big, priced as a core buy.
-- Trae Young: Round-three assist anchor priced as a core buy, not a late fill.
-- Josh Giddey: Priced as a pick in the 20s for category leagues, above late-fill range.
-- Kawhi Leonard: Per-game all-around player with no weak category, so his question is games played, not a category need.
+- Nikola Jokić: A first-overall star who helps almost every category, not a late specialist.
+- Victor Wembanyama: A top 2 anchor who is elite in several categories, far above the late-auction range.
 
 </details>
 
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

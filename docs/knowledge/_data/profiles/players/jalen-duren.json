@@ -8,131 +8,140 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "f24b0040182e",
- "note_count": 19,
- "built_at": "2026-10-11T09:17:50+00:00",
+ "input_sha": "fe318d4e4053",
+ "note_count": 22,
+ "built_at": "2026-10-16T08:58:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1960582,
-  "duration_ms": 50545,
+  "cost_usd_list": 0.1980902,
+  "duration_ms": 55034,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is back with Detroit and projected to start at center next to Cunningham, Robinson, Thompson and Collins.",
+   "text": "Duren is back with Detroit after a contract holdout. He is projected to start at center next to Cunningham, Robinson, Thompson and Collins.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
+    "_O9pc_u5vH0:p5",
     "_O9pc_u5vH0:t0",
     "_O9pc_u5vH0:t3"
    ]
   },
   {
-   "text": "Isaiah Stewart is gone, so Paul Reed is the main backup center and there is less frontcourt depth behind Duren.",
+   "text": "He has not played in the preseason yet.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p30",
+    "ENizLoE6pzI:t4"
+   ]
+  },
+  {
+   "text": "His conditioning is a concern because he did not train hard during the holdout. Experts expect him to be eased in, with minutes stuck around 27 to 28 early and more minutes for Paul Reed.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p5",
+    "eTsjuVu1trk:p39",
+    "ENizLoE6pzI:t4",
+    "t4n9MAP2_14:p10"
+   ]
+  },
+  {
+   "text": "Isaiah Stewart is gone, so Paul Reed is the only real backup center. In last season's NBA playoffs Reed outplayed Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t1",
     "NYTH7uQsPCM:t8",
-    "CLsUc0Sevos:t1",
-    "OdDkXFhoKsc:t2"
+    "OdDkXFhoKsc:t2",
+    "p9XE5jFqhvs:p11"
    ]
   },
   {
-   "text": "Yahoo lists him as questionable (Rest). Josh says he is not injured.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p49",
-    "stats"
-   ]
-  },
-  {
-   "text": "He did not train hard during his contract holdout, so his conditioning is a concern.",
+   "text": "Tobias Harris is gone and Detroit lacks creators. Duren almost tripled his self-creation volume last season and was efficient on those plays.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p5"
-   ]
-  },
-  {
-   "text": "He may be out of shape early in the season, with his minutes stuck around 27 to 28.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "eTsjuVu1trk:p39",
+    "_O9pc_u5vH0:t2",
+    "p9XE5jFqhvs:p10",
     "t4n9MAP2_14:p10"
    ]
   },
   {
-   "text": "Detroit lost creation with Tobias Harris gone, so his usage could rise toward about 25%. If his minutes go above 28 and his usage rises, he could return third round value.",
+   "text": "His usage could rise to near 25 percent. If his minutes go above 28 and his usage rises, he could reach third round value.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p10",
-    "_O9pc_u5vH0:p7",
-    "_O9pc_u5vH0:t2"
+    "_O9pc_u5vH0:p7"
    ]
   },
   {
-   "text": "He has shown he can create his own shot on more plays, and he was efficient doing it.",
-   "kind": "fact",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:p10"
-   ]
-  },
-  {
-   "text": "Experts call him a fair third to fourth round player and say he is fine around pick 40. ESPN's rank of 23 is too high, he has no chance of returning value in the 20s, and Yahoo's rank in the low 30s is a little high.",
+   "text": "Experts put his fair value around picks 40 to 50, which is round 3 to 4 in a 12 team league. ESPN's rank of 23 is too high, and one expert would never take him in round 2 or in the 20s. When he falls toward pick 50, experts see value.",
    "kind": "verdict",
-   "date": "2026-10-06",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:p39",
     "_O9pc_u5vH0:p6",
-    "_O9pc_u5vH0:p8"
+    "_O9pc_u5vH0:p8",
+    "eTsjuVu1trk:p39",
+    "uI6umXsE7Vk:p30"
    ]
   },
   {
-   "text": "In a mock auction he was valued at about 20 USD and went for 19 USD.",
-   "kind": "verdict",
-   "date": "2026-10-05",
+   "text": "His mock draft spot swings a lot, from about pick 30 to about pick 50, and it is moving back up (pick 35 in the latest mock). In an auction mock he went for 19 USD, close to the expected 20 USD.",
+   "kind": "fact",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p13",
+    "w66x_I_MaQ8:p14",
     "Q6YlQDvD-aY:p49"
    ]
   },
   {
-   "text": "Detroit's playoff schedule is 4-3-4 games for a league ending March 28. The team has 15 back-to-backs, and no rest risks are expected.",
-   "kind": "fact",
-   "date": "2026-10-03",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t6"
-   ]
-  },
-  {
-   "text": "Detroit is projected to win 50 to 51 games and finish as a third or fourth seed in the East.",
+   "text": "Detroit is projected to win 50 to 51 games and finish third or fourth in the East.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t3"
    ]
+  },
+  {
+   "text": "Experts do not trust coach J.B. Bickerstaff's public comments on minutes. Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:t1",
+    "_O9pc_u5vH0:t5",
+    "p9XE5jFqhvs:t2"
+   ]
+  },
+  {
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:t6"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is great in the pick and roll, on the offensive glass and on putbacks. He does not space the floor.",
+   "text": "He is a strong pick and roll finisher who scores off the offensive glass and putbacks.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -141,28 +150,18 @@
    ]
   },
   {
-   "text": "He is an unusual center. He is not a good defender and does not block many shots, so blocks are not a strength for him.",
-   "kind": "fact",
-   "date": "2026-10-06",
+   "text": "His FG% on high volume is a league outlier, so he lifts a team's FG% clearly.",
+   "kind": "verdict",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:p38",
-    "p9XE5jFqhvs:p9",
-    "stats"
+    "stats",
+    "0geFVzSqOnA:p2"
    ]
   },
   {
-   "text": "He is a strong FG% anchor because he shoots a very high percentage on real volume.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "Rebounds are a clear strength, far above the player pool.",
-   "kind": "fact",
+   "text": "His rebounding is a league outlier.",
+   "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
@@ -171,22 +170,32 @@
    ]
   },
   {
-   "text": "He makes no threes.",
+   "text": "He makes no threes and does not space the floor.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "p9XE5jFqhvs:p9"
    ]
   },
   {
-   "text": "His free throw shooting is solid for a center and does not hurt like most bigs.",
+   "text": "He is an unusual big: he is not a big shot blocker and not a good defender.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
     "eTsjuVu1trk:p38",
-    "0geFVzSqOnA:p2",
+    "p9XE5jFqhvs:p9"
+   ]
+  },
+  {
+   "text": "He is a fairly solid free throw shooter for a center, so his FT% does not hurt much for his position.",
+   "kind": "verdict",
+   "date": "2026-10-06",
+   "until": "",
+   "sources": [
+    "eTsjuVu1trk:p38",
     "stats"
    ]
   }
@@ -195,21 +204,23 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "About 65.6% on about 11 attempts per game",
+   "detail": "about 65 percent on 11 FGA per game",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "0geFVzSqOnA:p2"
    ],
    "new_meaning": ""
   },
   {
    "name": "REB specialist",
    "channel": "durable",
-   "detail": "About 11.4 rebounds per game projected",
+   "detail": "about 11 rebounds per game, strong on the offensive glass",
    "until": "",
    "sources": [
     "stats",
-    "eTsjuVu1trk:p38"
+    "eTsjuVu1trk:p38",
+    "p9XE5jFqhvs:p9"
    ],
    "new_meaning": ""
   },
@@ -219,7 +230,8 @@
    "detail": "",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "p9XE5jFqhvs:p9"
    ],
    "new_meaning": ""
   },
@@ -234,43 +246,54 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "slow start",
    "channel": "current",
-   "detail": "Yahoo Q (Rest); Josh says he is not injured",
+   "detail": "conditioning after holdout, no preseason games, may be eased in",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p49",
-    "stats"
+    "_O9pc_u5vH0:p5",
+    "eTsjuVu1trk:p39",
+    "ENizLoE6pzI:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "slow start",
+   "name": "minutes competition",
    "channel": "current",
-   "detail": "Conditioning after the holdout; minutes may stay at 27 to 28 early",
+   "detail": "Paul Reed may get more minutes early",
    "until": "",
    "sources": [
-    "eTsjuVu1trk:p39",
-    "_O9pc_u5vH0:p5"
+    "ENizLoE6pzI:t4",
+    "p9XE5jFqhvs:p11"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "ESPN rank 23 too high; Yahoo rank in the low 30s a little high",
+   "detail": "at ESPN rank 23 or in round 2",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p6",
-    "_O9pc_u5vH0:p8",
-    "eTsjuVu1trk:p39"
+    "_O9pc_u5vH0:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "ESPN rank 23 vs Yahoo rank 32",
+   "until": "",
+   "sources": [
+    "stats",
+    "_O9pc_u5vH0:p6"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage freed",
    "channel": "current",
-   "detail": "Tobias Harris gone; usage could rise toward 25%",
+   "detail": "Tobias Harris gone",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p10",
@@ -281,7 +304,7 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 50 to 51 wins",
+   "detail": "projected 50 to 51 wins",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t3"
@@ -289,26 +312,26 @@
    "new_meaning": ""
   },
   {
-   "name": "low shutdown risk",
-   "channel": "current",
-   "detail": "No rest risks expected",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:t6"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "defense-first",
    "channel": "durable",
-   "detail": "Detroit is built on defense",
+   "detail": "",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:t1"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "12 to 13 player rotation last season",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:t2"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He is a FG% and rebounds anchor who makes no threes. He fits punt 3PM builds best, and his FT% does not hurt the way most centers' FT% does. Experts put him around pick 40 and a mock auction gave him 19 USD. That is close to Yahoo's average cost of 21.3 USD and well below ESPN's value of 34 USD, so stop bidding around 20 to 24 USD (he went for 14 USD in our league last season). In the first weeks, check whether his minutes climb above 28 as his conditioning improves, and whether his usage grows now that Tobias Harris is gone.",
+ "note": "Duren gives elite FG% on volume and elite rebounds, gives nothing in threes, and his FT% does not hurt much for a center, so he fits punt 3PM builds best. Experts see fair value around picks 40 to 50, which is about 20 USD in an auction. That is close to his Yahoo average cost of 20.6 USD and below ESPN's 24.7 USD, so do not chase him toward his Yahoo value of 28 USD or ESPN's 34 USD (he went for 14 USD in our league last season). Early in the season, check his conditioning and whether his minutes get above 28 or stay near 27 with Paul Reed taking extra time.",
  "rejected": []
 }

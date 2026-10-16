@@ -8,68 +8,51 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "c340a80dc7de",
- "note_count": 24,
- "built_at": "2026-10-11T09:18:56+00:00",
+ "input_sha": "9e9b6bddfba1",
+ "note_count": 26,
+ "built_at": "2026-10-16T09:02:22+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2030102,
-  "duration_ms": 55075,
+  "cost_usd_list": 0.2077622,
+  "duration_ms": 57819,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He plays for Detroit and is the projected starting power forward in place of Tobias Harris.",
+   "text": "He is Detroit's projected starting power forward. He replaces Tobias Harris in a starting five of Cunningham, Robinson, Thompson, Collins and Duren.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "KLogvUwv_d8:p4",
     "p9XE5jFqhvs:p16",
     "4kKINkZhWls:p4",
+    "KLogvUwv_d8:p4",
     "P6TNP-g0wzY:p23",
-    "_O9pc_u5vH0:t0"
+    "_O9pc_u5vH0:t0",
+    "p9XE5jFqhvs:t0"
    ]
   },
   {
-   "text": "Detroit's power forward depth behind him is weak.",
-   "kind": "fact",
-   "date": "2026-07-20",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:t3",
-    "-KS_AZjZnw4:p31"
-   ]
-  },
-  {
-   "text": "He should play about 30 to 31 minutes, as Tobias Harris did. Detroit may also give him more stability and some extra usage.",
+   "text": "He should play 30 to 31 minutes, as Tobias Harris did, because Detroit's power forward depth is weak.",
    "kind": "verdict",
    "date": "2026-08-11",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p31",
-    "Rqb5GdrSweY:p38",
-    "OdDkXFhoKsc:p58"
+    "-KS_AZjZnw4:t3",
+    "OdDkXFhoKsc:p58",
+    "Rqb5GdrSweY:p38"
    ]
   },
   {
-   "text": "If Ron Holland develops a shot, Holland could cut into his minutes.",
+   "text": "If Ron Holland develops a shot, he could cut into Collins's minutes.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p41"
-   ]
-  },
-  {
-   "text": "One expert says coach J.B. Bickerstaff cannot be trusted on what he says about minutes, so planned minutes may not hold.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:t1"
    ]
   },
   {
@@ -82,39 +65,49 @@
    ]
   },
   {
-   "text": "In category leagues he is a fine pick in rounds 9 to 10. A Yahoo rank around 116 is fair and an ESPN rank around 99 is a bit high.",
+   "text": "Experts see him as a value around picks 115 to 130 and call him too expensive in the 90s. One expert drafted him around round 10 and calls rounds 9 to 10 fine in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "EogBYa24Gto:p29",
+    "DzQXaC2rsac:p20",
+    "_vbAP5y182A:p45",
+    "_O9pc_u5vH0:p16",
+    "_O9pc_u5vH0:p17",
+    "KPdD91Oo8-U:p26",
+    "LM0cRCGoAUQ:p43",
+    "-DN4P92Wp8Y:p41"
+   ]
+  },
+  {
+   "text": "Experts see little upside. He is not a 20 and 10 player anymore and will not reach his prime level, though he should beat his rank of about 120 from last season.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "_O9pc_u5vH0:p16",
-    "_O9pc_u5vH0:p17"
-   ]
-  },
-  {
-   "text": "Experts agree he has little upside. One still calls him underrated at an ADP around 118 because of his solid points, rebounds and percentages.",
-   "kind": "verdict",
-   "date": "2026-09-24",
-   "until": "",
-   "sources": [
-    "_vbAP5y182A:p45",
     "t4n9MAP2_14:p32",
     "LM0cRCGoAUQ:p43",
-    "OdDkXFhoKsc:p58"
+    "_vbAP5y182A:p45",
+    "_O9pc_u5vH0:p18",
+    "Rqb5GdrSweY:p38"
    ]
   },
   {
-   "text": "He should finish above about 120th in rank, but he will not return to his prime level and is no longer a 20 and 10 player.",
+   "text": "Experts see him as a worse real-life fit for Detroit than Tobias Harris, because the team lost Harris's shot creation.",
    "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
-    "Rqb5GdrSweY:p38",
-    "_O9pc_u5vH0:p18"
+    "-KS_AZjZnw4:p29",
+    "OdDkXFhoKsc:p58",
+    "_O9pc_u5vH0:p18",
+    "ZAyie8lKyYc:p40",
+    "_O9pc_u5vH0:t2"
    ]
   },
   {
-   "text": "His rebounds and free throws are expected to recover. He is usually about an eight-rebound player.",
+   "text": "One expert says his drop in free throw shooting to 77% had no clear reason. The same expert says five rebounds in 27 minutes is below his usual level of about eight rebounds.",
    "kind": "verdict",
    "date": "2026-07-20",
    "until": "",
@@ -123,38 +116,28 @@
    ]
   },
   {
-   "text": "Experts see him as a real-life downgrade from Tobias Harris and a worse fit for Detroit.",
+   "text": "Experts disagree on his rebounding. One calls him a modest rebounder at about five a game. Another says he is usually about an eight-rebound player.",
    "kind": "verdict",
-   "date": "2026-10-03",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p29",
-    "OdDkXFhoKsc:p58",
-    "_O9pc_u5vH0:p18"
+    "KLogvUwv_d8:p3",
+    "-KS_AZjZnw4:p33"
    ]
   },
   {
-   "text": "Detroit plays 4-3-4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected.",
+   "text": "Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:t6"
    ]
-  },
-  {
-   "text": "Detroit is projected to win 50 to 51 games and finish as a third or fourth seed in the East.",
-   "kind": "verdict",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an off-ball finisher who spaces the corners and cuts. He does not create his own shot.",
+   "text": "He is an off-ball play finisher who does not create his own shot. He spaces the corners and cuts.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -167,68 +150,56 @@
    ]
   },
   {
-   "text": "He shoots a good percentage from three on few attempts, and his three-point shooting is streaky.",
+   "text": "He has been a good offensive rebounder throughout his career.",
+   "kind": "fact",
+   "date": "2026-08-12",
+   "until": "",
+   "sources": [
+    "p9XE5jFqhvs:p15"
+   ]
+  },
+  {
+   "text": "His FG% is high, but on modest volume. His FT% is good for a big man. Experts call him a passive player.",
+   "kind": "fact",
+   "date": "2026-10-03",
+   "until": "",
+   "sources": [
+    "_O9pc_u5vH0:p15",
+    "P6TNP-g0wzY:p23",
+    "-KS_AZjZnw4:p32",
+    "stats"
+   ]
+  },
+  {
+   "text": "He shoots a good percentage from three but takes few threes, and his three-point shooting is streaky.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p14",
     "-KS_AZjZnw4:p30",
-    "KLogvUwv_d8:p3",
-    "_O9pc_u5vH0:p15"
+    "_O9pc_u5vH0:p15",
+    "KLogvUwv_d8:p3"
    ]
   },
   {
-   "text": "He is a passive big with a high FG% and good free throws. He rarely passes, and assists are his weakest category.",
+   "text": "He does not pass, and assists are his weakest category.",
    "kind": "fact",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p15",
-    "-KS_AZjZnw4:p32",
-    "P6TNP-g0wzY:p23",
-    "stats"
-   ]
-  },
-  {
-   "text": "He lifts FG% on moderate volume. His FG% is his best category against the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
     "stats"
    ]
   },
   {
    "text": "He is a weak defender, and his defensive stats have dropped.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-10-03",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p3",
     "_O9pc_u5vH0:p15"
-   ]
-  },
-  {
-   "text": "Experts disagree on his rebounding. One calls him a modest rebounder. Another says he has been a good offensive rebounder throughout his career and is usually about an eight-rebound player.",
-   "kind": "verdict",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "KLogvUwv_d8:p3",
-    "p9XE5jFqhvs:p15",
-    "-KS_AZjZnw4:p33"
-   ]
-  },
-  {
-   "text": "He is worth more in category leagues than in points leagues.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "_O9pc_u5vH0:p16",
-    "_O9pc_u5vH0:p17",
-    "-DN4P92Wp8Y:p41"
    ]
   }
  ],
@@ -236,30 +207,30 @@
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Moved from the Clippers to Detroit",
+   "detail": "Joined Detroit as the starting power forward",
    "until": "",
    "sources": [
+    "4kKINkZhWls:p4",
     "KLogvUwv_d8:p4",
-    "4kKINkZhWls:p4"
+    "p9XE5jFqhvs:p16"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Projected to start at power forward and play 30 to 31 minutes",
+   "detail": "Projected at 30 to 31 minutes, up from 27",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p31",
-    "Rqb5GdrSweY:p38",
-    "p9XE5jFqhvs:p16"
+    "Rqb5GdrSweY:p38"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Ron Holland could take minutes if his shot develops",
+   "detail": "Ron Holland could cut his minutes if he develops a shot",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p41"
@@ -269,24 +240,21 @@
   {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "Rebounds and FT% expected to recover with more minutes",
+   "detail": "Rebounds and FT% fell below his usual level last season",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p31",
-    "-KS_AZjZnw4:p33",
-    "Rqb5GdrSweY:p38"
+    "-KS_AZjZnw4:p33"
    ],
    "new_meaning": ""
   },
   {
    "name": "needs playmaker",
    "channel": "durable",
-   "detail": "Off-ball finisher who does not create his own shot",
+   "detail": "Off-ball finisher who cannot create his own shot",
    "until": "",
    "sources": [
     "p9XE5jFqhvs:p14",
     "-KS_AZjZnw4:p30",
-    "ZAyie8lKyYc:p40",
     "BiIZsSypx7Y:t1"
    ],
    "new_meaning": ""
@@ -294,7 +262,7 @@
   {
    "name": "streaky",
    "channel": "durable",
-   "detail": "Three-point shooting",
+   "detail": "Streaky three-point shooting",
    "until": "",
    "sources": [
     "KLogvUwv_d8:p3"
@@ -302,48 +270,17 @@
    "new_meaning": ""
   },
   {
-   "name": "fits every build",
-   "channel": "durable",
-   "detail": "No category flagged weak. Assists are his softest spot",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Rounds 9 to 10 in categories, later in points leagues",
+   "detail": "Rounds 9 to 10 in categories, a round or two later in points leagues",
    "until": "",
    "sources": [
     "_O9pc_u5vH0:p17",
     "-DN4P92Wp8Y:p41"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Detroit projected for 50 to 51 wins",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Detroit is built on defense with limited creation",
-   "until": "",
-   "sources": [
-    "p9XE5jFqhvs:t1",
-    "_O9pc_u5vH0:t2"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Both sites rank him around 96 to 97 but value him at only 3 to 4 USD, and our league paid 7 USD last season. That makes him a low-cost, low-upside starter at about 1 to 5 USD. He fits any build as a high FG% big with decent FT% and some threes, but he adds almost nothing in assists. Early in the season, check that he reaches 30 to 31 minutes, that his rebounds move back toward 7 to 8, and whether Ron Holland's role grows.",
+ "note": "Both sites rank him near 96 and value him at only 3 to 4 USD (average cost under 2 USD), and he went for 7 USD in our league last season. That makes him a cheap late frontcourt pick for FG%, rebounds and some blocks, without hurting FT%. Experts value him around picks 115 to 130 with little upside, so do not pay more than a few dollars. Early in the season, check whether he really plays 30 to 31 minutes and gets back toward eight rebounds, and watch whether Ron Holland takes some of his minutes.",
  "rejected": []
 }

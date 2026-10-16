@@ -8,74 +8,64 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "149357208b16",
- "note_count": 6,
- "built_at": "2026-10-04T17:21:55+00:00",
+ "input_sha": "c4d1dd61cafd",
+ "note_count": 8,
+ "built_at": "2026-10-16T08:41:28+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1843824,
-  "duration_ms": 42987
+  "cost_usd_list": 0.16388399999999997,
+  "duration_ms": 34618,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation.",
+   "text": "He is a rookie center for OKC. He sits behind Isaiah Hartenstein, Chet Holmgren and Jaylin Williams in the center rotation, and Thomas Sorber also competes for big man minutes.",
    "kind": "fact",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p24",
-    "RyzcCGChYgs:p15",
-    "RyzcCGChYgs:t0",
-    "ahNxsoU8Hx4:t3"
-   ]
-  },
-  {
-   "text": "Experts expect him to barely play this season because the OKC frontcourt is crowded.",
-   "kind": "verdict",
-   "date": "2026-08-02",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
     "TOn-D1SV7a8:p24",
     "RyzcCGChYgs:p15",
     "RsjGTgJiKyI:p18",
+    "NhLMyS7Ii5I:t3",
     "RsjGTgJiKyI:t2"
    ]
   },
   {
-   "text": "Hartenstein's role looks secure. Jaylin Williams barely played last season unless the centers were out.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:t3"
-   ]
-  },
-  {
-   "text": "He struggled in Summer League. He shot 35.7% from the line but averaged 3.2 assists, 7 rebounds and 1.8 blocks.",
+   "text": "He has played well in preseason and is a hot name, with his ADP rising to 109.",
    "kind": "fact",
-   "date": "2026-08-02",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p15",
-    "75Sk_4fkgIM:p34",
-    "TOn-D1SV7a8:p24"
+    "D4dP5JvX1oo:p37",
+    "NhLMyS7Ii5I:p30"
    ]
   },
   {
-   "text": "One expert dropped him to 10th in a dynasty rookie ranking after Summer League. His appeal is long term, not this season.",
-   "kind": "verdict",
-   "date": "2026-08-02",
+   "text": "Chet Holmgren is banged up.",
+   "kind": "fact",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p24",
-    "RsjGTgJiKyI:p18"
+    "D4dP5JvX1oo:p37"
+   ]
+  },
+  {
+   "text": "Experts doubt he plays enough in the regular season to matter. One says he is not worth drafting in standard leagues. Another takes him only as a last-pick flyer because Holmgren is banged up.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p30",
+    "D4dP5JvX1oo:p37"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a huge center whose shot blocking is real. Experts also credit him with a strong field goal percentage.",
+   "text": "He is a huge center whose shot blocking is real.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -86,7 +76,7 @@
    ]
   },
   {
-   "text": "He is a strong passer for a big man. One expert compares his assists to Alperen Sengun's.",
+   "text": "He is a strong passer for a big man, and experts rate his FG% and passing as strengths.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
@@ -97,7 +87,7 @@
    ]
   },
   {
-   "text": "His free throw shooting is very bad.",
+   "text": "His free throw shooting is very poor.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
@@ -107,19 +97,18 @@
    ]
   },
   {
-   "text": "He plays drop coverage only and does not project as a switchable big. He looks slow and lacks a go-to offensive move.",
+   "text": "He plays drop coverage only and does not project as a switchable big. He lacks a go-to offensive move.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p34",
-    "RyzcCGChYgs:p15"
+    "75Sk_4fkgIM:p34"
    ]
   },
   {
-   "text": "He makes almost no threes and gets few steals.",
+   "text": "He makes almost no threes and gives very little in points and steals.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -130,32 +119,74 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "2026 draft pick, already 21",
+   "detail": "OKC rookie center",
    "until": "",
    "sources": [
-    "TOn-D1SV7a8:p24",
-    "RyzcCGChYgs:p15",
-    "75Sk_4fkgIM:p34"
+    "75Sk_4fkgIM:p34",
+    "TOn-D1SV7a8:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Behind Hartenstein, Holmgren and Jaylin Williams at center",
+   "detail": "Behind Hartenstein, Holmgren and Jaylin Williams, with Sorber also in the mix",
    "until": "",
    "sources": [
     "TOn-D1SV7a8:p24",
     "RyzcCGChYgs:p15",
-    "RyzcCGChYgs:t0",
-    "ahNxsoU8Hx4:t3"
+    "NhLMyS7Ii5I:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Crowded OKC frontcourt",
+   "until": "",
+   "sources": [
+    "RsjGTgJiKyI:t2",
+    "gJUBAJaHzlU:t4",
+    "NhLMyS7Ii5I:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "flyer",
+   "channel": "current",
+   "detail": "Last-round pick at most, because Holmgren is banged up",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "handcuff",
+   "channel": "current",
+   "detail": "Gains value if Holmgren or Hartenstein miss time",
+   "until": "",
+   "sources": [
+    "D4dP5JvX1oo:p37",
+    "TOn-D1SV7a8:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Not worth a standard-league pick. Watch him if OKC's bigs get hurt",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p30",
+    "D4dP5JvX1oo:p37"
    ],
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "0.1 threes per game projected",
+   "detail": "Projected 0.1 threes per game",
    "until": "",
    "sources": [
     "stats"
@@ -163,6 +194,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Mara is not a draft target in our league. Yahoo values him at 0 USD and ranks him 250th, ESPN does not rank him, and only 144 players get drafted. His projection of 5.1 points, 4.8 rebounds and 1.1 blocks in a deep third-string center role is weak in points, threes and steals. Early in the season, check whether he gets real minutes when Hartenstein or Holmgren miss games. Leave him on waivers until he does.",
+ "note": "At Yahoo rank 243 with a 1 USD average cost (0.3 USD on ESPN), he is far outside our 144 drafted players. Do not pay more than 1 USD. His rising preseason ADP of 109 comes from hype, not from a regular-season role. Early in the season, track Chet Holmgren's health and OKC's center minutes. With a projected 5.1 points, 1.1 blocks, almost no threes and weak FT shooting, he only becomes a short-term blocks pickup if he wins real minutes.",
  "rejected": []
 }

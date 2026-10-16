@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 3.2 | 57 | 7 | 8.0 | 61 | not drafted |
+| 2026-27 | 18 | 3.7 | 57 | 7 | 7.8 | 61 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,27 +30,31 @@
 </details>
 
 **Current**
-- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-11; stats)
-- The Pelicans have a crowded rotation and a new coach, Jamahl Mosley, so roles are hard to project. Murray's starting spot is not in question. (fact, 2026-10-09; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054), [10-04](https://youtu.be/n4KkK-OJjqA?t=530))
-- Experts agree he is undervalued. They call an ADP around 67 to 70 too low and like him as a round 4 pick. One expert drafted him in round 3, and one sees him as a top 30 to 35 player. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=929), [10-05](https://youtu.be/BiIZsSypx7Y?t=1448), [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=1643), [09-30](https://youtu.be/BjXP9JODDSg?t=841), [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-21](https://youtu.be/egRrai3Ax38?t=1861), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [08-11](https://youtu.be/OdDkXFhoKsc?t=882))
-- In an expert auction mock he went for 24 USD. The bidder who targeted him hoped to pay 15 or 16 USD and stopped at 23 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2929), [09-29](https://youtu.be/XnIWJyBB0EM?t=1980))
-- Murray, Trey Murphy and Zion Williamson are locked into the Pelicans starting lineup. Jeremiah Fears does not take his starting spot. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-21](https://youtu.be/egRrai3Ax38?t=545))
-- He should start the season with no minutes limit and is not expected to sit back-to-backs. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=1643), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
-- He is projected for about 33 minutes and 25 percent usage. Experts expect more minutes and better shooting than last season. (verdict, 2026-09-21; [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [09-21](https://youtu.be/egRrai3Ax38?t=538))
-- Experts see New Orleans as a weak team near the bottom of the West, at about 34 wins. One expert does not expect them to give up on the season. (verdict, 2026-09-21; [07-27](https://youtu.be/0AptxcRW0RE?t=2060), [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [09-21](https://youtu.be/egRrai3Ax38?t=545))
-- He turned 70% of his deflections into steals last season. If that rate drops, more minutes may not bring more steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1363))
+- Yahoo lists him as questionable with a toe injury. (fact, 2026-10-16; stats)
+- Experts call him undervalued at an ADP around 70 and a favorite sleeper. In recent mocks they took him at picks 41 to 47 and in round 4, and they were happy with those picks. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=684), [10-11](https://youtu.be/uI6umXsE7Vk?t=759), [09-30](https://youtu.be/BjXP9JODDSg?t=841), [10-08](https://youtu.be/WXO8MfQfzo0?t=929), [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-05](https://youtu.be/BiIZsSypx7Y?t=1448), [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
+- Minutes are the main risk, not health. The Pelicans roster is crowded. If he plays less than 33 minutes, or the team puts Fears first, his value drops. (verdict, 2026-10-11; [10-10](https://youtu.be/gsx_UDkVPd0?t=542), [10-11](https://youtu.be/uI6umXsE7Vk?t=759), [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [07-17](https://youtu.be/NYTH7uQsPCM?t=636))
+- He is back from a torn Achilles suffered on January 31. Experts expect him to start the season without a minutes limit. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1945), [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=1643), [08-19](https://youtu.be/J1Eg3uaAICU?t=1265))
+- Experts call him the best fantasy target on the Pelicans and expect a top 50 finish, not top 30. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=491))
+- The Pelicans have a league-high 16 back-to-backs. One expert does not expect him to sit back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761))
+- With a season ending March 28, the Pelicans play 4, 4 and 3 games in our playoff weeks. Experts call that a good schedule. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- The Pelicans have a new coach, Jamahl Mosley, who brings a defense-first identity. Experts project a weak team of about 34 wins near the bottom of the West. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=101), [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [08-03](https://youtu.be/5QU-jta-lWM?t=1765), [07-27](https://youtu.be/0AptxcRW0RE?t=2060))
+- In an expert auction mock he went for 24 USD. The bidder who wanted him hoped to pay 15 to 16 USD and stopped at 23 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2929))
+- He is expected to start for the Pelicans next to Trey Murphy and Zion Williamson. Jeremiah Fears is the other guard pushing for minutes. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=530), [10-02](https://youtu.be/ZYllcj4o6_A?t=439), [09-21](https://youtu.be/egRrai3Ax38?t=538))
+- One expert projects him at about 25 percent usage and 33 minutes, and expects more minutes and better shooting than last season. (verdict, 2026-09-21; [09-09](https://youtu.be/7BllEsdNLoM?t=1687), [09-21](https://youtu.be/egRrai3Ax38?t=538))
+- Last season he turned 70 percent of his deflections into steals. If that rate falls back, more minutes may not raise his steals. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1363))
 
 **Durable**
-- Turnovers are his clearly weak category. They are well worse than the league pool and weak even for a guard. (fact, 2026-10-11; stats)
-- He tore his Achilles and came back last season for about 14 games on limited minutes. (fact, 2026-10-04; [08-19](https://youtu.be/J1Eg3uaAICU?t=1265), [09-21](https://youtu.be/egRrai3Ax38?t=538), [09-17](https://youtu.be/ahNxsoU8Hx4?t=761), [10-04](https://youtu.be/n4KkK-OJjqA?t=522), [10-04](https://youtu.be/n4KkK-OJjqA?t=1643))
-- Steals are his best category, and he could be a two-steals player. (verdict, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=1261), stats)
-- He is not a lights-out shooter. He can make threes but does not space the floor. (verdict, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1304))
-- For a good guard defender, he turns few contests into blocks: 5.3% last season against a career rate of 8 to 9%. A small rise is possible. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=898))
+- He turns the ball over far more than the player pool, which is his clear weak category. (fact, 2026-10-16; stats)
+- He has been a good steals player over his career and could average two steals. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=517), [08-19](https://youtu.be/J1Eg3uaAICU?t=1261), stats)
+- His free throw shooting is excellent. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=517))
+- He is not a good three-point shooter. He can make threes but does not space the floor. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=517), [08-03](https://youtu.be/5QU-jta-lWM?t=1304))
+- He tore his Achilles on January 31. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1945))
+- He blocks few shots for a good guard defender. His contest-to-block rate last season was below his career rate, so a small rise is possible. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=898))
 
 **Tags**
-- Current: `questionable` (Yahoo Q, toe), `injured now` (Toe, Yahoo status Q), `injury last season` (Played about 14 games after an Achilles tear), `role up` (No minutes limit, about 33 minutes projected), `sleeper` (ADP around 67 to 70), `expert target` (Liked as a round 4 pick, one sees top 30 to 35), `sites disagree on price` (Yahoo value 18 USD against ESPN value 7 USD), `regression risk` (70% deflection-to-steal conversion may drop), `bottom team` (About 34 wins projected), `new coach` (Jamahl Mosley), `deep rotation` (About eight possible starters for 240 minutes)
-- Durable: `high TO` (About 3.2 turnovers per game projected), `punt TO fit`, `defense-first` (Mosley brings a defense-first identity)
+- Current: `questionable` (Yahoo Q, toe), `injured now` (Toe, Yahoo status Q), `injury last season` (Played 14 games after the Achilles tear), `role up` (No minutes limit expected after the Achilles, about 33 minutes projected), `sleeper` (ADP around 70, experts take him in the 40s), `expert target` (Expected top 50 against ADP around 70), `minutes competition` (Jeremiah Fears and a crowded Pelicans rotation), `usage competition` (Roster crowded with high-usage players), `regression risk` (Steals from a 70 percent deflection-to-steal rate), `sites disagree on price` (Yahoo value 18 USD, ESPN value 7 USD), `good playoff schedule` (4-4-3 games with a March 28 end), `many back-to-backs` (League-high 16), `new coach` (Jamahl Mosley), `deep rotation` (About eight players who could start), `unsettled rotation` (Guard and frontcourt roles unclear), `bottom team` (About 34 wins projected)
+- Durable: `high TO` (About 3.2 projected turnovers per game), `punt TO fit` (Turnovers are his only weak category), `defense-first` (Mosley's defense-first identity)
 
-**Note.** The markets price him cheaply: 3.2 USD average cost on Yahoo and 7.8 USD on ESPN. Yahoo values him at 18 USD and experts call him a round 4 value, so expect a real bidding war, like the 24 USD he went for in a mock auction. He gives steals, assists and rebounds for a guard, but his 3.2 turnovers per game make him a natural fit for punt TO builds. He hurts any team that competes in TO. Early in the season, check that the toe (Yahoo Q) does not cost games, that he plays about 33 minutes with no limit, and that his steals hold up.
+**Note.** Experts like him well above his market. Yahoo's average cost is 3.7 USD against a Yahoo value of 18 USD, and he went for 24 USD in an expert auction mock. He fits a punt TO build best, since turnovers (-2.1 z) are his only flagged weakness, and he adds clear steals (+2.0) and assists (+1.7). His Pelicans schedule is 4-4-3 in our playoff weeks. Early in the season, check the toe (Yahoo Q) and whether he gets around 33 minutes next to Jeremiah Fears on a crowded roster.
 
-<sub>20 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

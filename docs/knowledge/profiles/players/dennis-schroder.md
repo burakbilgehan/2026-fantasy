@@ -19,9 +19,9 @@
 |---|---|---|---|---|
 | FG% | 44.1% | -0.5 | -0.2 | - |
 | FT% | 81.5% | +0.2 | -0.2 | - |
-| 3PM | 1.1 | -0.5 | -0.9 | - |
+| 3PM | 1.1 | -0.4 | -0.9 | - |
 | PTS | 9.8 | -0.7 | -0.8 | - |
-| REB | 2.2 | -1.2 | -1.1 | - |
+| REB | 2.2 | -1.2 | -1.2 | - |
 | AST | 3.7 | +0.3 | -0.1 | - |
 | STL | 0.6 | -1.0 | -1.2 | - |
 | BLK | 0.4 | -0.4 | +0.2 | - |
@@ -30,20 +30,20 @@
 </details>
 
 **Current**
-- Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575))
-- Do not take him inside the top 200. His Yahoo ADP of 128 is too high. One expert would take him only with the last pick of a draft. (verdict, 2026-10-05; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
-- He is projected to come off the bench. The projected starters are White, Knueppel, Miller, Reid and Diabaté, with Grayson Allen starting while Knueppel is out. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- Experts expect Charlotte not to start him. He should not take Coby White's starting spot unless White gets hurt. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [08-26](https://youtu.be/sTtFUy7IoJI?t=188), [09-21](https://youtu.be/egRrai3Ax38?t=818))
-- Charlotte has a deep roster, so bench minutes are spread across many players. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
-- Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21. It has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Coby White is out with a calf injury and will probably miss the start of the season. Kon Knueppel is also hurt, so Charlotte is short on healthy guards. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-08](https://youtu.be/6DnRWahYrFA?t=1269))
+- Do not draft him inside the top 200. His Yahoo ADP of 128 is too high. One expert would take him only with the last pick of a draft. (verdict, 2026-10-05; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
+- Charlotte's projected starters are Coby White, Kon Knueppel, Brandon Miller, Naz Reid and Moussa Diabaté. Schröder is projected as a bench guard with Allen, Steinbach, O'Neale and Grant Williams. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- The experts agree he will not start in Charlotte. He would only take Coby White's starting spot if White gets hurt. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1309), [08-26](https://youtu.be/sTtFUy7IoJI?t=188), [09-21](https://youtu.be/egRrai3Ax38?t=818))
+- Charlotte has a deep roster, and playmaking is expected to be shared among several players instead of one lead creator. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568), [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
+- With a March 28 end, Charlotte plays 4-3-4 games in the fantasy playoff weeks. It has 13 back-to-backs, the league minimum. Its two-game week starts March 1, which is week 18, before our playoffs. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
 
 **Durable**
-- Experts say his hot scoring streaks never turn into fantasy value. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
+- His hot scoring streaks never carry over into real fantasy value. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1635))
 
 **Tags**
-- Current: `minutes competition` (Backup guard behind Coby White, with Grayson Allen also ahead of him), `deep rotation` (Charlotte has a deep roster), `few back-to-backs` (13 back-to-backs, the league minimum)
+- Current: `minutes competition` (Coby White holds the starting guard spot ahead of him), `waiver watch` (Outside the top 200; watch for a role change while Coby White is out with a calf injury), `deep rotation` (Charlotte has a deep roster with many bench guards and wings), `shared ball handling` (Playmaking is split among White, Knueppel and Miller), `few back-to-backs` (13 back-to-backs, the league minimum)
 - Durable: `streaky` (Hot streaks do not carry over to fantasy value)
 
-**Note.** Both Yahoo and ESPN value him at 0 USD (ranks 188 and 212). He went for 1 USD in our league last season. That puts him well outside the 144 players we draft, so do not spend on him. In the first weeks, check whether Coby White's calf injury moves him into real backup point guard minutes. Even then, no category stands out in his profile, so he would only be a short-term waiver fill-in.
+**Note.** Yahoo ranks him 188 and ESPN ranks him 212. Both sites value him at 0 USD, and he went for 1 USD in our last auction, so he falls outside the 144 players we draft and should go undrafted. His ESPN projection (11.2 points, 4.9 assists in 24.7 minutes) has no category that stands out, and his 40.5% FG on 9 shots per game last season is a small drag. In the first weeks, check whether Coby White's calf injury moves him into the starting lineup or a bigger bench role. If it does, he is a short-term waiver pickup for assists, not a long-term hold.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

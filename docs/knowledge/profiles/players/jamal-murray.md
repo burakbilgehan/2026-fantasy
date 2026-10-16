@@ -11,14 +11,14 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 40 | 39.2 | 17 | 36 | 25.5 | 22 | 27 |
+| 2026-27 | 40 | 37.0 | 17 | 36 | 25.7 | 22 | 27 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 47.6% | -0.1 | +0.5 | - |
-| FT% | 88.3% | +1.6 | +1.6 | - |
+| FT% | 88.3% | +1.6 | +1.5 | - |
 | 3PM | 2.9 | +1.5 | +1.3 | - |
 | PTS | 23.7 | +1.7 | +1.5 | - |
 | REB | 4.1 | -0.4 | +0.2 | - |
@@ -30,28 +30,30 @@
 </details>
 
 **Current**
-- Lloyd thinks he could finish inside the top 14. Other calls put him between top 12 and 14, and say he could finish above Tyrese Maxey. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=543), [09-29](https://youtu.be/XnIWJyBB0EM?t=2174), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-23](https://youtu.be/C4vlgpJ62NI?t=1973))
-- Experts call his ESPN rank, around 28 to 37 in their videos, far too low. They call him safe in the middle of round two and fine as early as the start of round two. He also pairs well with Jokic there. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=543), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2334), [09-09](https://youtu.be/7BllEsdNLoM?t=1024), [09-01](https://youtu.be/80kfLVnFQ_s?t=451), [09-23](https://youtu.be/C4vlgpJ62NI?t=1973))
-- In an expert auction mock, Josh targeted him with a 34 USD maximum. He sold for 37 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2127))
-- He is the projected starting point guard next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
-- Under coach David Adelman his usage rose to 28. Many teammate absences helped, since he was the only one who stayed healthy. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=454), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=600))
-- Denver has 43 games through March 28, one below the maximum. It has only 14 back-to-backs, one of the lowest counts in the league. It also has one of only three five-game weeks this season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678), [08-16](https://youtu.be/gf_6GveiAls?t=1304))
-- Denver is pretty healthy heading into the season. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1658))
-- Experts expect him to keep about 28 usage and 35 minutes. One ranker says his role is the one he trusts most in his guard tier. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
-- His 42 to 43% three-point shooting from his career-best season will probably drop. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
-- Moore thinks Denver could trade him by the deadline to shed salary, because it cannot build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until 2027-03-04; [07-31](https://youtu.be/keNupMSHp1Y?t=892))
-- Moore expects at least two of last year's Denver starters to be gone by the deadline. He doubts ownership will pay the luxury tax. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=903))
-- Moore doubts Denver will rest Murray, Jokic and Gordon on purpose. He predicts about 50 wins. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377), [07-31](https://youtu.be/keNupMSHp1Y?t=1746))
+- Experts draft him in round 2, around picks 19 to 20. They call him good value there and safe in the middle of round 2. He sits in a close tier with Mitchell, Maxey, Ball, Thompson and Johnson. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=549), [10-13](https://youtu.be/OsbUAkSeVB4?t=486), [10-12](https://youtu.be/w66x_I_MaQ8?t=506), [09-09](https://youtu.be/7BllEsdNLoM?t=1024), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [08-11](https://youtu.be/OdDkXFhoKsc?t=531))
+- Experts see upside to a top 12 to 14 finish in 9-cat. One says he could finish ahead of Tyrese Maxey. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=543), [09-29](https://youtu.be/XnIWJyBB0EM?t=2174), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-23](https://youtu.be/C4vlgpJ62NI?t=1973))
+- Experts say his ESPN rank is far too low and call it free real estate. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=543), [09-29](https://youtu.be/sf6Ga9k-r-Q?t=487), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2334))
+- In an expert auction mock, he went for 37 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2127))
+- Josh targeted him in that auction but would pay no more than 34 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2127))
+- He had the best season of his career last year, with career highs in scoring and assists. His usage rose from 24 to 28 under David Adelman, and he finished 17th per game. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=454), [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
+- Teammate absences helped his usage last season, since he was the only one who stayed healthy. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=600))
+- He is a projected starter, next to Christian Braun, Cam Johnson, Aaron Gordon and Nikola Jokic. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=307))
+- Denver has 43 games through March 28, one below the max, and only 14 back-to-backs, one of the lowest counts in the league. (fact, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=1678))
+- He is a fine round 2 pick to pair with Jokic. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1973), [09-23](https://youtu.be/C4vlgpJ62NI?t=1269))
+- Experts expect his 28 usage and 35 minutes to hold. One calls his role the safest in his point guard tier. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055), [09-09](https://youtu.be/7BllEsdNLoM?t=1024))
+- His three-point shooting of 42 to 43% will probably drop. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2055))
+- Moore thinks Denver could trade him by the deadline to shed salary, because the team cannot build a top-15 defense while paying both Jokic and Murray over 30M USD. (verdict, 2026-07-31, until trade deadline; [07-31](https://youtu.be/keNupMSHp1Y?t=892), [07-31](https://youtu.be/keNupMSHp1Y?t=903))
+- Moore doubts Denver will rest him on purpose. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=1377))
 
 **Durable**
-- He is strong in PTS, AST, 3PM and FT%, with no category weak enough to punt. (fact, 2026-10-11; stats)
-- He is a strong three-point shooter, close to 40% or better over the last four years. Around 40 to 41% is a reasonable expectation going forward. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
-- His game has moved toward playmaking, closer to Tony Parker than a discount Steph Curry. He gives volume scoring, threes, good assists and a good FG% for a guard. (verdict, 2026-09-07; [07-31](https://youtu.be/keNupMSHp1Y?t=876), [09-07](https://youtu.be/E-KmhvyZ2CU?t=576))
+- He has a broad guard category profile: volume scoring, assists, threes and a high FT%, with a good FG% for a guard. No category is weak. (fact, 2026-10-16; stats, [09-07](https://youtu.be/E-KmhvyZ2CU?t=576))
+- He is a strong three-point shooter, near 40% or better over the last four years. Around 40 to 41% is a reasonable expectation going forward. (verdict, 2026-09-29; [09-29](https://youtu.be/sf6Ga9k-r-Q?t=470))
+- His game has turned more toward playmaking, closer to Tony Parker than a discount Steph Curry. (verdict, 2026-07-31; [07-31](https://youtu.be/keNupMSHp1Y?t=876))
 
 **Tags**
-- Current: `regression risk` (42 to 43% from three likely to drop toward 40 to 41%), `trade risk` (Moore sees a possible salary-shedding trade by the deadline; until 2027-03-04), `sites disagree on price` (Yahoo average cost 39.2 USD vs ESPN 24.8 USD), `expert target` (experts see top 12 to 14 upside, above his ESPN rank), `few back-to-backs` (14 back-to-backs, 43 games through March 28), `low shutdown risk` (Moore doubts Denver will rest him on purpose), `winning team` (Moore predicts about 50 wins), `trades likely` (two starters expected gone by the deadline; until 2027-03-04)
-- Durable: `fits every build` (strong PTS, AST, 3PM and FT%; no weak category)
+- Current: `regression risk` (A three-point percentage of 42 to 43% is expected to drop toward 40 to 41%.), `trade risk` (Moore thinks Denver could move him to shed salary.; until trade deadline), `sites disagree on price` (Yahoo ranks him 17 with a 37 USD average cost. ESPN ranks him 22 to 37 with a 25.7 USD average cost.), `expert target` (Experts rank him well above his ESPN rank and see a top 12 to 14 ceiling.), `few back-to-backs` (14 back-to-backs, one of the lowest counts in the league.), `winning team` (Moore predicts 50 wins.), `trades likely` (At least two of last year's starters are expected to be gone by the deadline.; until trade deadline)
+- Durable: `fits every build` (No weak category. PTS, AST, FT% and 3PM are all well above the pool.)
 
-**Note.** Murray fits every build: he helps in PTS, AST, 3PM and FT% and has no weak category. Experts see a top 12 to 14 finish, above both his Yahoo rank (17) and his ESPN rank (22). Yahoo values him at 40 USD (average cost 39.2) while ESPN buyers pay only 24.8 USD, and he went for 27 USD in our league last season, so he could come cheaper than his Yahoo value. Paying in the mid to high 30s is in line with the expert mock (34 USD maximum, sold at 37 USD). Early in the season, check whether he keeps about 28 usage now that his teammates are healthy, whether his three-point shooting drops back toward 40%, and any trade talk before the March 4 deadline.
+**Note.** Experts treat Murray as a solid round 2 pick with a top 12 to 14 ceiling, and he has no weak category, so he fits any build. Yahoo values him at 40 USD (average cost 37 USD) and ESPN at 36 USD (average cost 25.7 USD), while our league paid 27 USD for him last season, so 34 to 38 USD is a fair range and anything below that is a bargain. Early in the season, check whether his 28 usage holds now that DeRozan has arrived and teammates are healthy, and whether his three-point shooting falls back toward 40%.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

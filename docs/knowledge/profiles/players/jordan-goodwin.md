@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 263 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 266 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,26 +22,26 @@
 | PTS | 7.7 | -1.1 | -1.1 | - |
 | REB | 4.6 | -0.2 | +0.5 | - |
 | AST | 2.1 | -0.6 | -0.9 | - |
-| STL | 1.3 | +1.1 | +0.8 | - |
+| STL | 1.3 | +1.2 | +0.8 | - |
 | BLK | 0.2 | -0.8 | -0.6 | - |
 | TO | 1.0 | +1.0 | +1.1 | - |
 
 </details>
 
 **Current**
-- Booker, Jalen Green, Dillon Brooks and Miles Bridges are expected to take most of the Phoenix minutes and usage, with Collin Gillespie also wanting touches. That leaves little room for a backup guard. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=2437), [09-19](https://youtu.be/uarqbNA2dFk?t=989))
-- He is a Tier 9 point guard. He is clearly a 16-team league player and only possibly worth a look in 12-team leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2503))
-- Goodwin re-signed with Phoenix for 3 years and 19 million USD. (fact, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=731), [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
-- Experts call the contract a steal and undervalued. (verdict, 2026-08-23; [07-01](https://youtu.be/W3THnI7wWdA?t=731), [08-23](https://youtu.be/hm5-fiCa5S4?t=987))
-- He is expected to be in the rotation as the fourth or fifth guard. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=731))
+- He comes off the bench. He is about the eighth or ninth man in the rotation and the fourth or fifth guard, behind Jalen Green, Devin Booker and Dillon Brooks. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1542), [10-14](https://youtu.be/MRzebgip23Y?t=508), [10-14](https://youtu.be/MRzebgip23Y?t=1175), [07-01](https://youtu.be/W3THnI7wWdA?t=731))
+- He would have fantasy value at about 25 minutes a night. In his current bench role he does not. (verdict, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1542))
+- Phoenix has the best fantasy schedule in the league: 4 games in each of the three playoff weeks and the fewest back-to-backs. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1786))
+- Tier 9 point guard. He is a 16-team league player and only a possible option in 12-team leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2503))
+- Goodwin re-signed with Phoenix on a 3-year, 19 million deal. (fact, 2026-08-23; [08-23](https://youtu.be/hm5-fiCa5S4?t=987), [07-01](https://youtu.be/W3THnI7wWdA?t=731))
 
 **Durable**
-- His value comes mostly from steals and few turnovers. He scores little and his FG% is low. (fact, 2026-10-11; stats)
+- He is a strong rebounder for a guard and also gets steals. Last season he averaged about 5 rebounds and 1.5 steals in 22 minutes. (fact, 2026-10-14; [10-14](https://youtu.be/MRzebgip23Y?t=1542), stats)
 
 **Tags**
-- Current: `minutes competition` (Fourth or fifth guard behind Booker, Jalen Green, Brooks and Gillespie), `waiver watch` (Tier 9 PG, seen as a 16-team player)
-- Durable: none
+- Current: `minutes competition` (Bench guard behind Green, Booker and Brooks, with Gillespie and Kennard also on the bench), `waiver watch` (Has value only if his minutes rise to about 25), `good playoff schedule` (Phoenix plays 4-4-4 in weeks 19 to 21), `few back-to-backs` (Phoenix has the fewest back-to-backs in the league)
+- Durable: `REB from a guard` (About 5 rebounds in 22 minutes last season)
 
-**Note.** Yahoo values him at 0 USD and ranks him 263, well outside the 144 players our league drafts. He should not be bought at the auction. Last season he played 22.5 minutes and averaged 1.5 steals with only 1.0 turnover, so he can be a short-term steals pickup from waivers. Early in the season, check whether he holds about 20 minutes in a crowded Phoenix backcourt, and watch for guard injuries that would open more minutes for him.
+**Note.** Yahoo ranks him 266th with a value of 0 USD, so he will not be among the 144 players drafted in our league. Leave him on waivers. His steals, guard rebounds and low turnovers are useful, but a projected 41% FG and 7.7 points hold him down while he plays bench minutes. Watch him early in the season: if an injury among Green, Booker or Brooks pushes him to about 25 minutes, he is a cheap pickup, and Phoenix's 4-4-4 playoff schedule adds a little late-season value.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

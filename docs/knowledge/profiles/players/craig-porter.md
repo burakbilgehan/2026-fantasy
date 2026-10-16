@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 299 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 300 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,27 +29,25 @@
 </details>
 
 **Current**
-- He is projected as Cleveland's backup point guard to start the season. Malik Thomas may also get a look in that role. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1337))
-- Cleveland's second unit has no clear point guard. Schroder, Ellis and Strus are gone, and the projected bench is Tyson, Merrill, Bryant, Tomlin and Porter. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=329))
+- Porter is projected as Cleveland's backup point guard to start the season. Malik Thomas may also get a look in that role. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1337), [09-29](https://youtu.be/NmdNvAz08oE?t=1376))
+- Cleveland lost Schroder, Ellis and Strus from the bench, and the second unit has no clear point guard. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=250), [09-29](https://youtu.be/NmdNvAz08oE?t=1376), [08-24](https://youtu.be/rnq3118kfhY?t=329))
 - Cleveland has the most back-to-backs in the league. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1907), [08-16](https://youtu.be/gf_6GveiAls?t=930))
-- With our March 28 end, Cleveland plays 4, 3 and 2 games in fantasy playoff weeks 19 to 21. The finals week is a two-game week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536))
+- With our March 28 end date, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks. The finals week starting March 22 is a two-game week. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1833), [08-16](https://youtu.be/gf_6GveiAls?t=1536), [10-13](https://youtu.be/EogBYa24Gto?t=389))
+- He can be a 1.3 steals plus blocks per game player. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
 - This is his fourth NBA season. (fact, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1309))
-- Danny calls this season now or never for him to win a rotation spot. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1309))
+- This season is now or never for him to win a rotation spot. (verdict, 2026-08-24; [08-24](https://youtu.be/rnq3118kfhY?t=1309))
 
 **Durable**
-- His projected points are far below the top 250 pool. (fact, 2026-10-11; stats)
-- He is a strong defender. The expert calls him one of the best shot-blocking and steal-getting guards in the NBA and compares him to Derrick White. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1422), [08-24](https://youtu.be/rnq3118kfhY?t=1309))
+- His projected scoring is very low, far below the top 250 pool. (fact, 2026-10-16; stats)
+- He is a strong defender and one of the best shot-blocking and steal-getting guards in the NBA. The expert compares him to Derrick White. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1422), [08-24](https://youtu.be/rnq3118kfhY?t=1309))
 - He averaged a block per game in 21 minutes over the final six games of last season. (fact, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
-- The expert thinks he can give 1.3 combined steals and blocks per game. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
-- He is a solid rebounder and passer for a guard. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
-- He is not a scorer, and his offense and shooting are iffy. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1422), [08-24](https://youtu.be/rnq3118kfhY?t=1309))
-- 36% from three is a realistic level for him. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
-- He is not a great free throw shooter. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
+- He is a solid rebounder and passer. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1456))
+- He is not a scorer. His shooting and offense are iffy, and he is not a great free throw shooter. About 36% from three is a realistic level for him. (verdict, 2026-09-29; [09-29](https://youtu.be/NmdNvAz08oE?t=1422), [09-29](https://youtu.be/NmdNvAz08oE?t=1456), [08-24](https://youtu.be/rnq3118kfhY?t=1309))
 
 **Tags**
-- Current: `minutes competition` (Malik Thomas may get a look as the backup point guard), `waiver watch` (Yahoo rank 299. Worth watching if the backup point guard role brings steals and blocks), `many back-to-backs` (Cleveland has the most back-to-backs in the league), `bad playoff schedule` (4, 3 and 2 games in weeks 19 to 21, with a two-game finals week)
-- Durable: none
+- Current: `minutes competition` (Backup point guard role, Malik Thomas may get a look), `waiver watch` (Yahoo rank 300, outside our 144 drafted players. Watch his minutes as backup point guard), `many back-to-backs` (Cleveland has the most back-to-backs in the league)
+- Durable: `elite defender` (Strong defender, compared to Derrick White for blocks and steals as a guard)
 
-**Note.** Yahoo ranks him 299th and gives him a value of 0 USD. ESPN has no price for him. That puts him far outside the 144 players our league drafts, so do not draft him. The expert sees a Derrick White-type steals and blocks guard (0.9 steals and 0.6 blocks in 17.9 minutes last season), but Yahoo projects only 0.5 steals and 0.4 blocks, and his points are a big weakness. Early in the season, check whether he holds the backup point guard minutes ahead of Malik Thomas. If he gets about 20 minutes, he becomes a stocks pickup for teams that can absorb low points.
+**Note.** At Yahoo rank 300 with a value of 0, Porter is not a draft target in our 144-player auction. His projection is only 3.8 PTS in a small role, but last season he played 17.9 minutes and averaged 0.9 STL and 0.6 BLK with 0.9 TO. That makes him a defensive streamer for builds that do not need points. Early in the season, check whether he beats Malik Thomas for the backup point guard minutes and gets near 20 minutes. If he does, his steals and blocks make him worth a waiver add.
 
-<sub>4 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>4 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -4,55 +4,55 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 66 | 27.0 | 65.6 (8.1) | 61.2 (2.3) | 0.0 | 12.0 | 8.4 | 2.4 | 0.9 | 1.1 | 1.6 |
-| 2026-27 proj, Yahoo | 58 | - | 66.1 (5.8) | 62.6 (2.0) | 0.0 | 9.0 | 6.6 | 2.1 | 0.8 | 0.7 | 1.3 |
+| 2026-27 proj, Yahoo | 60 | - | 65.9 (6.8) | 62.8 (2.3) | 0.0 | 10.3 | 7.6 | 2.4 | 0.9 | 0.8 | 1.6 |
 | 2025-26 | 46 | 25.0 | 70.0 (6.7) | 60.2 (2.1) | 0.0 | 10.7 | 7.0 | 2.0 | 0.9 | 0.7 | 1.2 |
 | 2024-25 | 57 | 29.6 | 62.7 (10.2) | 67.4 (2.5) | 0.0 | 14.5 | 9.6 | 2.8 | 1.2 | 1.2 | 1.9 |
 | 2023-24 | 50 | 26.4 | 65.6 (7.6) | 55.1 (2.1) | 0.0 | 11.1 | 8.6 | 2.5 | 0.7 | 1.5 | 1.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 117 | 2 | 1.1 | 117 | 15 |
+| 2026-27 | 1 | 1.0 | 118 | 2 | 1.1 | 117 | 15 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 65.8% | +2.3 | +1.1 | league outlier, strong |
-| FT% | 61.8% | -1.5 | -0.6 | - |
+| FG% | 65.8% | +2.4 | +1.3 | league outlier, strong |
+| FT% | 62.0% | -1.5 | -0.7 | league outlier, weak |
 | 3PM | 0.0 | -1.7 | -1.1 | league outlier, weak, weak for his position (punt fit) |
-| PTS | 10.5 | -0.6 | -0.4 | - |
-| REB | 7.5 | +1.0 | -0.0 | - |
-| AST | 2.2 | -0.5 | -0.1 | - |
-| STL | 0.9 | -0.2 | +0.3 | - |
-| BLK | 0.9 | +0.6 | -0.3 | - |
-| TO | 1.5 | +0.2 | +0.1 | - |
+| PTS | 11.2 | -0.5 | -0.3 | - |
+| REB | 8.0 | +1.2 | +0.2 | - |
+| AST | 2.4 | -0.4 | +0.0 | - |
+| STL | 0.9 | -0.0 | +0.5 | - |
+| BLK | 1.0 | +0.8 | -0.2 | - |
+| TO | 1.6 | +0.1 | -0.1 | - |
 
 </details>
 
 **Current**
-- Reports say he is in good shape this summer, and experts said he looked good in early preseason games. (fact, 2026-10-05; [08-20](https://youtu.be/s28HvC2grAk?t=921), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762), [10-05](https://youtu.be/BiIZsSypx7Y?t=2791))
-- Experts call his late price too low. He is a good bench flyer, and taking him around pick 130 is a great pick. He is worth a look outside the top 100 if healthy. (verdict, 2026-10-05; [08-19](https://youtu.be/J1Eg3uaAICU?t=1462), [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [10-05](https://youtu.be/BiIZsSypx7Y?t=2791), [08-11](https://youtu.be/OdDkXFhoKsc?t=1907))
-- He went for 4 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762))
-- Experts blame his back for last season's drop in blocks and his poor season. They hope the blocks come back and lean optimistic. One speaker is not worried about the back unless it flares up again in training camp. (verdict, 2026-10-02; [09-14](https://youtu.be/t4n9MAP2_14?t=2022), [08-20](https://youtu.be/s28HvC2grAk?t=921), [08-26](https://youtu.be/sTtFUy7IoJI?t=1028), [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
-- If he plays 28 minutes and the back was the reason his blocks dropped, he is an easy top 70 pick. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2702))
+- Experts see him as good value around pick 100 to 105 (rounds 9 to 10). In other mocks he went around pick 130, which one expert called a great pick, and for 4 USD in an auction mock. (verdict, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=1195), [10-13](https://youtu.be/EogBYa24Gto?t=1201), [10-11](https://youtu.be/uI6umXsE7Vk?t=1410), [10-10](https://youtu.be/hviT4hzYNME?t=1662), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762), [10-05](https://youtu.be/BiIZsSypx7Y?t=2791))
+- His back looks fine for now. He looked good in the early preseason games, and reports said he was in good shape this summer. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1410), [10-10](https://youtu.be/hviT4hzYNME?t=1662), [10-05](https://youtu.be/Q6YlQDvD-aY?t=4762), [10-05](https://youtu.be/BiIZsSypx7Y?t=2791), [08-20](https://youtu.be/s28HvC2grAk?t=921))
+- Experts are only worried about the back if it flares up again. One expert says he looks much better than last season. (verdict, 2026-10-11; [08-26](https://youtu.be/sTtFUy7IoJI?t=1028), [10-11](https://youtu.be/uI6umXsE7Vk?t=1410), [08-20](https://youtu.be/s28HvC2grAk?t=921))
+- If he plays 28 minutes and the back caused his drop in blocks, he is an easy top 70 pick. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=2702), [09-14](https://youtu.be/t4n9MAP2_14?t=2022))
+- His back flared up again and again last season. He was effective in only about half of his games. He barely contested shots and blocked very little. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=743), [08-20](https://youtu.be/s28HvC2grAk?t=757), [08-20](https://youtu.be/s28HvC2grAk?t=847))
 - He is the projected starting center for Toronto and the only seven-footer on the roster. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=496), [08-20](https://youtu.be/s28HvC2grAk?t=839))
-- The expected closing five is a small, switchable group with Collin Murray-Boyles at center, not Poeltl. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1066))
-- Toronto is projected to win about 52 games, with a top defense that should hold or improve. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792), [08-20](https://youtu.be/s28HvC2grAk?t=883))
-- Toronto has 15 back-to-backs this season and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He turned only 35% of his deflections into steals last season, so his steals are likely to improve. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1419))
-- His 70% field goal shooting last season came on low volume and is not expected to last. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2083))
+- Toronto's expected closing five is a small, switchable group with Murray-Boyles at center, not Poeltl. That can cut his minutes late in close games. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1066))
+- Toronto is projected to win about 52 games, or 56 to 57 if Kawhi Leonard plays 75 games. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=1792))
+- Toronto has 15 back-to-backs, and three of them fall in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- He turned only 35% of his deflections into steals last season, so his steals are likely to go up. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1419))
+- He shot 70% from the field last season on low volume. An expert does not think that 70% will last. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=2083))
 
 **Durable**
-- He makes no threes. (fact, 2026-10-11; stats)
-- His back flared up repeatedly last season. (fact, 2026-09-14; [08-20](https://youtu.be/s28HvC2grAk?t=743), [08-26](https://youtu.be/sTtFUy7IoJI?t=1028), [09-14](https://youtu.be/t4n9MAP2_14?t=2022))
-- He is an elite finisher. His FG% on solid volume is a clear league outlier that lifts a team's FG%. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=801), stats)
-- His free throw shooting has improved steadily. He is no longer a hack target shooting around 52%, but his FT% is still low. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=809), stats)
+- He makes no threes. (fact, 2026-10-16; stats)
+- He has a history of back flare-ups and has not played 60 games in any of the last three seasons. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1028), [08-20](https://youtu.be/s28HvC2grAk?t=743), stats)
+- He is an elite finisher. He makes almost all of his shots at the rim, and his FG% on real volume lifts a team's FG% clearly. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=801), stats)
+- His free throw shooting has improved steadily from around 52%. It is still low at about 62% and hurts FT%. (fact, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=809), stats)
 - He has lost a step on defense and is not an elite rim protector. (verdict, 2026-08-20; [08-20](https://youtu.be/s28HvC2grAk?t=868))
 
 **Tags**
-- Current: `injury last season` (recurring back flare-ups, 46 games), `bounce-back` (experts hope the blocks return now that the back is healthy), `sleeper` (1 USD on both sites, experts call that too low), `flyer` (bench-flyer cost with top 70 upside), `regression risk` (70% FG last season on low volume), `small-ball lineups` (expected closing five has Murray-Boyles at center), `winning team` (about 52 wins projected), `bad playoff schedule` (three back-to-backs in the fantasy playoffs)
-- Durable: `FG% anchor` (elite finisher, about 66% projected), `no 3PM`, `punt 3PM fit`
+- Current: `injury last season` (Back flare-ups; effective in only about half his games), `bounce-back` (Back blamed for the down year; blocks expected to recover), `flyer` (Top 70 upside at a late pick), `sleeper` (Market value 1 to 2 USD; experts like him around pick 100), `regression risk` (70% FG last season on low volume), `small-ball lineups` (Expected closing five uses Murray-Boyles, not Poeltl), `winning team` (About 52 wins projected)
+- Durable: `FG% anchor` (About 66% FG on 7 to 8 attempts per game), `FT% liability` (About 62% FT, improving but still weak), `no 3PM`, `punt 3PM fit`, `injury prone` (Repeated back flare-ups)
 
-**Note.** Both Yahoo and ESPN value him at about 1 USD and rank him 117th, well below the 15 USD he cost in our league last season. Experts see a cheap bench flyer with top 70 upside. He fits punt 3PM builds and gives you a big FG% boost, but costs some FT%. Early in the season, check whether he plays about 28 minutes, whether his blocks come back toward the 1.1 to 1.5 range and whether the back holds up.
+**Note.** Yahoo and ESPN value him at only 1 to 2 USD (rank about 117), while experts take him around pick 100 and our league paid 15 USD last season. He is a cheap starting center who helps FG% and rebounds and fits punt 3PM builds, so a bid of a few USD is fair. In the first weeks, check his minutes (28 is the target), whether his blocks come back toward 1.2 to 1.5 a game, and any new back flare-up.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

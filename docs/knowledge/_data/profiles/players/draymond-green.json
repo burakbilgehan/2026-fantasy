@@ -8,51 +8,53 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "03cea1b162a0",
- "note_count": 8,
- "built_at": "2026-10-11T09:16:22+00:00",
+ "input_sha": "74575d12d4e9",
+ "note_count": 9,
+ "built_at": "2026-10-16T08:54:06+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.18314219999999998,
-  "duration_ms": 56227,
+  "cost_usd_list": 0.2115222,
+  "duration_ms": 61611,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a projected starter for the Warriors.",
+   "text": "He is expected to start for the Warriors. The latest lineup reports have him starting with Podziemski and Curry, at center, with no Horford in the lineup.",
    "kind": "fact",
-   "date": "2026-09-30",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
     "LXZLrL90crE:p24",
-    "MUbNYdjpUDM:t3",
+    "D4dP5JvX1oo:t0",
+    "ENizLoE6pzI:t0",
+    "uI6umXsE7Vk:t2"
+   ]
+  },
+  {
+   "text": "Jimmy Butler and Moses Moody are out early in the season. Their returns could change the Warriors' rotation.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
     "OBwWCxG9SqM:t4",
-    "LXZLrL90crE:t1"
+    "w66x_I_MaQ8:t0"
    ]
   },
   {
-   "text": "He is unlikely to play much center because he is old and small. The more he does play center, the more minutes open up for Santos and Lendeborg.",
+   "text": "Experts are cool on him. One has no interest in drafting him around pick 132, another is souring on him, and a third ranks him outside the top 120 in categories because of his age and because he fades when Curry sits. A Yahoo ADP of 107 is called too high.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p24",
-    "MUbNYdjpUDM:t3"
-   ]
-  },
-  {
-   "text": "One expert sees him outside the top 120 in category leagues because of his age and because he fades when Curry sits. That makes his Yahoo ADP of 107 too high.",
-   "kind": "verdict",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
+    "D4dP5JvX1oo:p28",
+    "t4n9MAP2_14:p46",
     "MUbNYdjpUDM:p11"
    ]
   },
   {
-   "text": "He is good value as a late pick in deep leagues, around pick 176 to 181. The experts would not take him in round 13 of a 12-team league or in a 10-team league.",
+   "text": "Experts see value in him only late in deep leagues, around picks 160 to 180. They would not take him in round 13 of a 12-team league or at all in 10-team leagues.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -62,32 +64,22 @@
    ]
   },
   {
-   "text": "One center ranking puts him in tier nine, and that expert is souring on him more every day.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:p46"
-   ]
-  },
-  {
-   "text": "The Warriors are reportedly treating this season as a gap year.",
+   "text": "Yahoo lists him as questionable (Rest).",
    "kind": "fact",
-   "date": "2026-09-30",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t0",
-    "MUbNYdjpUDM:t0"
+    "stats"
    ]
   },
   {
-   "text": "The team may rest veterans to protect its lottery odds. Experts expect Warriors players to fade as the season goes on.",
+   "text": "The Warriors may treat this as a gap year. They are worried about lottery odds and may rest veterans.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0",
-    "E-KmhvyZ2CU:t1"
+    "LXZLrL90crE:t0"
    ]
   },
   {
@@ -101,27 +93,18 @@
    ]
   },
   {
-   "text": "The Warriors' schedule is good for fantasy playoffs that end on March 28.",
+   "text": "The Warriors' schedule is good for fantasy playoffs that end March 28.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
    ]
-  },
-  {
-   "text": "The Warriors' depth is very poor, so minutes should go up across the rotation.",
-   "kind": "verdict",
-   "date": "2026-08-22",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:t4"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is better in category leagues than in points leagues.",
+   "text": "He is worth more in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-09-30",
    "until": "",
@@ -131,35 +114,36 @@
    ]
   },
   {
-   "text": "He gives rebounds and assists, but his steals and blocks have fallen.",
+   "text": "His value comes from rebounds and assists. His assists are rare for a forward or center. His steals and blocks are now modest.",
    "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p44"
+    "LM0cRCGoAUQ:p44",
+    "stats"
    ]
   },
   {
-   "text": "His assists are guard-like for a forward or center. This is his clearest category strength.",
+   "text": "His production drops when Steph Curry sits.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-09-30",
    "until": "",
    "sources": [
-    "stats"
+    "MUbNYdjpUDM:p11"
+   ]
+  },
+  {
+   "text": "His age makes a decline in role and production likely.",
+   "kind": "verdict",
+   "date": "2026-09-30",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11",
+    "LXZLrL90crE:p24"
    ]
   }
  ],
  "tags": [
-  {
-   "name": "AST from a big",
-   "channel": "durable",
-   "detail": "about 5.5 assists projected, z +2.0 vs F/C",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
   {
    "name": "category league player",
    "channel": "durable",
@@ -172,9 +156,30 @@
    "new_meaning": ""
   },
   {
+   "name": "AST from a big",
+   "channel": "durable",
+   "detail": "About 5.4 assists per game projected as an F,C",
+   "until": "",
+   "sources": [
+    "stats",
+    "LM0cRCGoAUQ:p44"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "needs playmaker",
+   "channel": "durable",
+   "detail": "Fades when Steph Curry sits",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:p11"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "age cited as a reason to rank him outside the top 120",
+   "detail": "",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:p11",
@@ -193,20 +198,30 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "questionable",
    "channel": "current",
-   "detail": "not worth round 13 in a 12-team league; value only in deeper leagues",
+   "detail": "Yahoo status Q (Rest)",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:p43",
-    "MUbNYdjpUDM:p12"
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Warriors may rest veterans in a gap year",
+   "until": "",
+   "sources": [
+    "MUbNYdjpUDM:t0",
+    "LXZLrL90crE:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "tank risk",
    "channel": "current",
-   "detail": "gap year; team may rest veterans for lottery odds",
+   "detail": "Gap year, worried about lottery odds",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t0",
@@ -228,24 +243,14 @@
   {
    "name": "good playoff schedule",
    "channel": "current",
-   "detail": "good for a March 28 end",
+   "detail": "Good for playoffs ending March 28",
    "until": "",
    "sources": [
     "MUbNYdjpUDM:t4"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Warriors struggle to field a 10-man rotation",
-   "until": "",
-   "sources": [
-    "LXZLrL90crE:t4"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "He ranks 152 on Yahoo and 163 on ESPN, and both sites value him at 0 USD. That puts him just outside the 144 players we draft, so he is a 1 USD final pick at most (our league paid 4 USD last season) or a waiver option. His value is mostly assists from a frontcourt slot (5.5 projected, with a small steals edge). It comes with weak points, turnovers (2.5) and FG% (43%), so he only suits builds that need frontcourt assists and can absorb the turnovers. Early in the season, check whether he gets center minutes, whether his steals and blocks come back, and whether the Warriors start resting veterans as the gap year goes on.",
+ "note": "Yahoo rank 151 and ESPN rank 163 put him at the very edge of our 144-player draft, and both sites price him at about 1 USD (Yahoo 1.0, ESPN 0.3). Our league paid 4 USD for him last season. Take him only as a 1 USD final pick for a build that needs assists from F/C and can absorb his weak points, FG% (43.5%) and turnovers (2.5 per game). Otherwise leave him on waivers. Early in the season, check whether he keeps starting at center, how his minutes change when Butler and Moody return, and how often Golden State rests him.",
  "rejected": []
 }

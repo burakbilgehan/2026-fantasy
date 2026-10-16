@@ -8,111 +8,126 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "a6afe7413306",
- "note_count": 15,
- "built_at": "2026-10-04T17:22:34+00:00",
+ "input_sha": "5398fd04b8f4",
+ "note_count": 20,
+ "built_at": "2026-10-16T08:42:23+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2224738,
-  "duration_ms": 53168
+  "cost_usd_list": 0.20266620000000002,
+  "duration_ms": 53497,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "OKC traded away Lu Dort, Isaiah Joe and Wiggins to cut salary and replaced them with rookies and unproven young players.",
+   "text": "He is the clear sixth man for OKC. The projected starting guards are Shai Gilgeous-Alexander and Cason Wallace, and the only open question in the starting five is whether Mitchell starts over Wallace.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:t0",
-    "75Sk_4fkgIM:t1",
-    "Alwse2uXzD4:t0",
-    "gJUBAJaHzlU:t4",
+    "NhLMyS7Ii5I:p21",
+    "NhLMyS7Ii5I:t2"
+   ]
+  },
+  {
+   "text": "Most experts expect Wallace to keep the starting job over Mitchell.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t2",
+    "ZYllcj4o6_A:p10",
+    "gJUBAJaHzlU:p22",
+    "Alwse2uXzD4:t0"
+   ]
+  },
+  {
+   "text": "He should still play close to starter minutes off the bench and get spot starts.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p21",
     "ZYllcj4o6_A:p10"
    ]
   },
   {
-   "text": "Those departures should give Mitchell more minutes and some spot starts.",
-   "kind": "verdict",
-   "date": "2026-10-02",
+   "text": "OKC traded away Lu Dort, Aaron Wiggins and Isaiah Joe to save money, which leaves more guard and wing minutes and usage for Mitchell.",
+   "kind": "fact",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p10",
+    "NhLMyS7Ii5I:t0",
     "BjXP9JODDSg:t0",
     "-KS_AZjZnw4:t7",
-    "W3THnI7wWdA:t4"
+    "RyzcCGChYgs:t0"
    ]
   },
   {
-   "text": "Most experts do not expect him to start over Cason Wallace. They see him as the Thunder's sixth man. One expert says he might still start.",
+   "text": "If Gilgeous-Alexander, Wallace or Jalen Williams miss games, he would start and play about 31 minutes. His value would soar if Gilgeous-Alexander gets hurt.",
    "kind": "verdict",
-   "date": "2026-10-02",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p10",
-    "gJUBAJaHzlU:p22",
-    "Alwse2uXzD4:t0",
-    "7BllEsdNLoM:p44"
+    "NhLMyS7Ii5I:p24",
+    "ZYllcj4o6_A:p10"
    ]
   },
   {
-   "text": "One expert does not expect him to play 30 minutes a night.",
-   "kind": "verdict",
-   "date": "2026-09-01",
+   "text": "His best fantasy games last season came while key teammates were out. His efficiency and usage dropped as they returned, and he ranked 189th over the last three months of the season.",
+   "kind": "fact",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "80kfLVnFQ_s:p45"
-   ]
-  },
-  {
-   "text": "Experts say his fantasy numbers last season were inflated by injuries to teammates. He needed several players out to produce.",
-   "kind": "verdict",
-   "date": "2026-09-07",
-   "until": "",
-   "sources": [
+    "NhLMyS7Ii5I:p22",
+    "75Sk_4fkgIM:p6",
     "gJUBAJaHzlU:p22",
     "g31YlwRe0XQ:p43"
    ]
   },
   {
-   "text": "His value would soar if Shai Gilgeous-Alexander gets hurt.",
+   "text": "Experts warn that his numbers from last season overstate his value with a healthy roster around him.",
    "kind": "verdict",
-   "date": "2026-10-02",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p10"
+    "NhLMyS7Ii5I:p22",
+    "gJUBAJaHzlU:p22",
+    "g31YlwRe0XQ:p43",
+    "hviT4hzYNME:p36"
    ]
   },
   {
-   "text": "Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench, under 35% overall. His efficiency and usage both dropped as the season went on.",
+   "text": "His preseason has been a little down.",
    "kind": "fact",
-   "date": "2026-07-26",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p5",
-    "75Sk_4fkgIM:p6"
+    "hviT4hzYNME:p36"
    ]
   },
   {
-   "text": "Ryland expects him to share the floor more with SGA and Jalen Williams this season, which should make him more efficient. He sees those three together as OKC's best lineup.",
+   "text": "Experts disagree on his price. One calls him a late swing pick with more upside than Wallace and says his ESPN rank of 243 is far too low. Others say his value is overblown and that he is a late flyer at most.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p24",
+    "hviT4hzYNME:p36",
+    "ZYllcj4o6_A:p10",
+    "gJUBAJaHzlU:p24",
+    "_vbAP5y182A:p49"
+   ]
+  },
+  {
+   "text": "Ryland expects him to share the floor more with the top players this season, which should make him more efficient. He sees Gilgeous-Alexander, Jalen Williams and Mitchell together as the best lineup.",
    "kind": "verdict",
    "date": "2026-07-26",
    "until": "",
    "sources": [
     "75Sk_4fkgIM:p8",
     "75Sk_4fkgIM:t4"
-   ]
-  },
-  {
-   "text": "Experts call his value a bit overblown. He is a safe pick with little ceiling and a late flyer at most. Taking him in round 9 was too early.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p10",
-    "_vbAP5y182A:p49",
-    "gJUBAJaHzlU:p24",
-    "7BllEsdNLoM:p44"
    ]
   },
   {
@@ -123,35 +138,55 @@
    "sources": [
     "75Sk_4fkgIM:p10"
    ]
+  },
+  {
+   "text": "OKC has a league-minimum 13 back-to-backs, and its schedule is good with our March 28 end date.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
+   ]
+  },
+  {
+   "text": "OKC is projected to win about 57 to 62 games and be a top two seed in the West.",
+   "kind": "verdict",
+   "date": "2026-07-26",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He has no standout fantasy category. His FG% and FT% are very good for a guard, and steals are his best counting stat.",
+   "text": "His fantasy profile is thin. He has good FG% and FT%, but no standout category. His scoring, rebounds, assists and blocks are modest.",
    "kind": "verdict",
-   "date": "2026-09-07",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p23",
-    "stats"
+    "NhLMyS7Ii5I:p23",
+    "gJUBAJaHzlU:p23"
    ]
   },
   {
-   "text": "He shoots better next to the stars because they create open looks for him. As the lone creator off the bench he takes tough shots: pull-up threes, hard mid-range jumpers and physical drives.",
+   "text": "He takes few threes. Under 30% of his shots come from three.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p7"
+    "75Sk_4fkgIM:p9",
+    "NhLMyS7Ii5I:p23"
    ]
   },
   {
-   "text": "He takes few threes. Less than 30% of his shots came from three.",
+   "text": "He shoots better next to the stars because they create open looks for him. Off the bench he is the lone creator and takes tough shots such as pull-up threes, hard mid-range jumpers and physical drives. Last season he shot 42% from three in 16 starts and 32% in 41 games off the bench.",
    "kind": "fact",
    "date": "2026-07-26",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p9"
+    "75Sk_4fkgIM:p7",
+    "75Sk_4fkgIM:p5"
    ]
   },
   {
@@ -166,59 +201,146 @@
  ],
  "tags": [
   {
-   "name": "minutes competition",
+   "name": "handcuff",
    "channel": "current",
-   "detail": "Cason Wallace is expected to start ahead of him",
+   "detail": "Starts and plays about 31 minutes if Gilgeous-Alexander, Wallace or Jalen Williams miss games",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p22",
-    "Alwse2uXzD4:t0",
+    "NhLMyS7Ii5I:p24",
     "ZYllcj4o6_A:p10"
    ],
    "new_meaning": ""
   },
   {
-   "name": "handcuff",
+   "name": "minutes competition",
    "channel": "current",
-   "detail": "Value soars if Shai Gilgeous-Alexander gets hurt",
+   "detail": "Competes with Cason Wallace for the starting guard spot",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p10"
+    "NhLMyS7Ii5I:t2",
+    "gJUBAJaHzlU:p22",
+    "Alwse2uXzD4:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "role up",
+   "channel": "current",
+   "detail": "Dort, Wiggins and Joe gone, so more minutes go to Mitchell",
+   "until": "",
+   "sources": [
+    "BjXP9JODDSg:t0",
+    "-KS_AZjZnw4:t7",
+    "NhLMyS7Ii5I:p21"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Big games came only when key teammates were out; ranked 189th over the last three months once they returned",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p22",
+    "g31YlwRe0XQ:p43",
+    "gJUBAJaHzlU:p22"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares the ball with Gilgeous-Alexander and Jalen Williams",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p22",
+    "75Sk_4fkgIM:p6"
    ],
    "new_meaning": ""
   },
   {
    "name": "needs playmaker",
    "channel": "durable",
-   "detail": "Shoots better next to SGA and Jalen Williams. Takes tough shots as the lone creator off the bench",
+   "detail": "Efficient next to the stars; takes tough shots as the lone creator off the bench",
    "until": "",
    "sources": [
-    "75Sk_4fkgIM:p7"
+    "75Sk_4fkgIM:p7",
+    "75Sk_4fkgIM:p5"
    ],
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "flyer",
    "channel": "current",
-   "detail": "Experts call him a late flyer at most. Watch for a starting role or an SGA injury",
+   "detail": "Late swing pick at about 1 USD",
    "until": "",
    "sources": [
-    "gJUBAJaHzlU:p24",
-    "ZYllcj4o6_A:p10"
+    "NhLMyS7Ii5I:p24",
+    "gJUBAJaHzlU:p24"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "One expert calls his ESPN rank of 243 laughable; other experts disagree",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 145, ESPN rank 243",
+   "detail": "Yahoo rank 128, ESPN rank 243",
    "until": "",
    "sources": [
     "stats"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "No weak category flagged; small edges in FT% and steals",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "League-minimum 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "OKC schedule is good with a March 28 end date",
+   "until": "",
+   "sources": [
+    "NhLMyS7Ii5I:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Projected 57 to 62 wins",
+   "until": "",
+   "sources": [
+    "75Sk_4fkgIM:t3"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Both sites give him a value of 0 USD (Yahoo rank 145, ESPN rank 243), and he went undrafted in our league last season. With 144 players drafted, he is at most a 1 USD final pick. Experts call his value overblown and expect Cason Wallace to start ahead of him. Early in the season, check whether he starts or plays 26 or more minutes next to SGA and Jalen Williams. Also check whether his three-point shooting holds. An SGA injury would make him a must-add.",
+ "note": "He is a borderline pick in our 144-player draft. Yahoo ranks him 128th at an average cost of 1.0 USD, ESPN ranks him 243rd at 0.4 USD, and nobody drafted him in our league last season. He is worth a 1 USD final-round bid for his strong FT% (86%) and steals, and as a handcuff to Gilgeous-Alexander and Jalen Williams. He fits any build but has no standout category. Early in the season, check whether he starts over Wallace and gets close to 30 minutes with the stars healthy. If he does not, he can go back to waivers.",
  "rejected": []
 }

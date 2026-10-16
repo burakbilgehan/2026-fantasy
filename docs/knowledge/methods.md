@@ -3,6 +3,414 @@
 
 General methods and strategy, newest video first.
 
+## 2026-10-15 [San Antonio Spurs Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-15-c-WwNRgVxkI.md)
+
+- [4:11](https://youtu.be/c-WwNRgVxkI?t=251) Straight 9-cat z-score rankings overrate elite shot blockers because the blocks distribution is so right-tailed. Transformed rankings correct for this.
+  > "because of the absolute right tailness of the blocks distribution, which gives him a block zed score"
+- [9:27](https://youtu.be/c-WwNRgVxkI?t=567) Free throw percentage and steals are the two most variable stats from year to year, so do not trust a player whose value depends on them.
+  > "They're the two most variable stats year on year and this guy exemplifies that."
+- [25:17](https://youtu.be/c-WwNRgVxkI?t=1517) Value players separately for points leagues and category leagues. The same player can be a fade in one and a target in the other.
+  > "I'd snapple it up in a points league. And those differentiations are always important."
+- [14:37](https://youtu.be/c-WwNRgVxkI?t=877) Only draft a player at a spot if you think he can beat that spot, especially when his floor is unstable.
+  > "I wouldn't take him at 80 if I didn't think he could get past 80"
+- [16:32](https://youtu.be/c-WwNRgVxkI?t=992) Minutes and touches are zero-sum. When one player's role grows, someone else on the team loses usage.
+  > "Touches have to come from somewhere and it's going to be from him."
+- [17:15](https://youtu.be/c-WwNRgVxkI?t=1035) Low-upside, stable role players are fine in deeper leagues but not worth drafting in standard formats.
+  > "deeper league shot 16 we do it there's more stability in that but in a standard format we don't"
+- [26:54](https://youtu.be/c-WwNRgVxkI?t=1614) Back-to-backs mostly matter for older or injury-prone players who might sit games.
+  > "13 backto-backs. Not that I think that that's a particularly big problem with this team."
+
+## 2026-10-15 [Fantasy Basketball Mock Draft Pick 9 - Copper Flagg Ascension](videos/2026-10-15-bd8GYKFOe8A.md)
+
+- [1:18](https://youtu.be/bd8GYKFOe8A?t=78) When taking a player early, think about downside risk. If his worst case is still a decent finish, the pick is safe.
+  > "If you take Cooper Flag at nine, how bad's he going to be? Like, is he going to be 50th?"
+- [1:02](https://youtu.be/bd8GYKFOe8A?t=62) The speaker says the sophomore slump is not a thing. Players historically improve in year two.
+  > "there is enough in Cooper Flag historical improvements into year two. No, sophomore slump is not a thing."
+- [10:23](https://youtu.be/bd8GYKFOe8A?t=623) Draft injury-risk players later in category leagues. He would take Kawhi Leonard in round three in roto but round four in category leagues.
+  > "In a Roto League, I would take him in round three. In a points league, I would take him in round four."
+- [12:54](https://youtu.be/bd8GYKFOe8A?t=774) In auctions, a balanced build lets you buy many undervalued mid-round players instead of spending big on early picks.
+  > "That's why I really love the balanced build in an auction is that these are all the guys"
+- [14:09](https://youtu.be/bd8GYKFOe8A?t=849) The 30 to 70 range holds a lot of value. There are many players there the speaker likes.
+  > "there's like 50 guys, 40 guys in this 30 to 60 range or 30 to 70 range that I just like"
+- [25:26](https://youtu.be/bd8GYKFOe8A?t=1526) In late rounds, take upside flyers on players with uncertain roles.
+  > "We're just We're just hitting upside picks."
+- [29:30](https://youtu.be/bd8GYKFOe8A?t=1770) Play in deeper leagues than 13 roster spots. The waiver wire will not run dry.
+  > "to say that the waiver wire is going to be dry is just not true. I guarantee you it's not true."
+- [32:14](https://youtu.be/bd8GYKFOe8A?t=1934) Do not copy a set plan for a draft slot. Have several alternatives and adjust to who is available.
+  > "Do not look at my pick at number nine and go, "This is what I'm doing at pick nine.""
+- [32:42](https://youtu.be/bd8GYKFOe8A?t=1962) The gap between the 50th and 70th player is small. Leagues are won by huge values and lost to injuries or picks made 50 spots too early.
+  > "You win leagues by getting huge values, hundreds into 40s. You lose leagues a lot by luck, through injuries"
+- [32:56](https://youtu.be/bd8GYKFOe8A?t=1976) Aim for upside. If you cannot find upside, aim for safety.
+  > "Aim for upside and if you can't find the upside, aim for safety."
+- [15:58](https://youtu.be/bd8GYKFOe8A?t=958) Players who are inconsistent and sometimes bad get benched. Expect that when you draft them.
+  > "This is why there's no consistent role. This is why he's not locked in as a starter."
+
+## 2026-10-15 [Sacramento Kings Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-15-PrrgoTEcao4.md)
+
+- [7:32](https://youtu.be/PrrgoTEcao4?t=452) On a team likely to finish bottom three, shutting down good veterans can make the team worse and help its pick odds. So the risk for those veterans is a trade more than a tanking shutdown.
+  > "shutting him down makes them worse and less likely to have a good pick"
+- [15:55](https://youtu.be/PrrgoTEcao4?t=955) Rookie guards are usually bad for fantasy unless they are elite prospects. Treat them as late flyers.
+  > "rookies are pretty notoriously bad. Rookie guards are pretty notoriously bad."
+- [16:26](https://youtu.be/PrrgoTEcao4?t=986) Do not trust high preseason usage numbers from rookies to last through the season.
+  > "I don't really believe that 31 usage will be a realistic number for him as we move through the season."
+- [17:33](https://youtu.be/PrrgoTEcao4?t=1053) Rookies and inefficient scorers can be worth more in points leagues than in category leagues. Lean into them more in points leagues.
+  > "pretty big discrepancies between his category and points league value"
+- [24:16](https://youtu.be/PrrgoTEcao4?t=1456) Do not draft a backup who needs a trade or injury to the starter in a standard daily league. NBA trades mostly happen at the February deadline, so you would hold a low-value player for months.
+  > "realistically, when do trades happen in the NBA? At the deadline, February."
+- [29:05](https://youtu.be/PrrgoTEcao4?t=1745) Stash-type backups only make sense in games-cap, draft-only, deep bench weekly leagues.
+  > "games cap draft only deep bench weekly league stash waiting in case Sabonis gets hurt"
+- [23:42](https://youtu.be/PrrgoTEcao4?t=1422) Late-season stats from bad teams are inflated because opponents are not trying. Discount them.
+  > "start going balls out in March when no one else was trying. So, a lot of their numbers are inflated."
+- [25:13](https://youtu.be/PrrgoTEcao4?t=1513) Players who post big numbers only when everyone in front of them is injured need volume. Do not chase them when the rotation is healthy.
+  > "when you were playing on a team when nobody is there, which is what happened"
+
+## 2026-10-15 [Portland Trail Blazers Fantasy Basketball Preview - Return Of Damian Lillard](videos/2026-10-15-8paKnhgNbLg.md)
+
+- [7:52](https://youtu.be/8paKnhgNbLg?t=472) Do not draft strictly by rank order. Tiny projection differences, like a free throw percentage moving from 83.4 to 82.6, can shift a player from 30th to 39th, and that difference does not matter.
+  > "I've got this guy at 83.4 from the line, and what if he shoots 82.6?"
+- [8:08](https://youtu.be/8paKnhgNbLg?t=488) Look at the next 12 to 15 names on your projection list and pick for team fit and category needs, even if that means taking a player before where you projected him.
+  > "So I look at the first 12 names on my projection list, sometimes down to 15."
+- [16:04](https://youtu.be/8paKnhgNbLg?t=964) Z-score rankings can overrate players who are elite in only one or two categories. Be wary of two-category bigs early in drafts.
+  > "because there are flaws in the way that a standard score, a Zed score shows value."
+- [14:54](https://youtu.be/8paKnhgNbLg?t=894) Big men like Walker Kessler or Rudy Gobert should give a strong FG% to justify a high pick.
+  > "when you have this archetype, Walker Kesler, Rudy Gobert, you want field goals 52%."
+- [16:48](https://youtu.be/8paKnhgNbLg?t=1008) Steals are a fickle category year to year.
+  > "they just didn't come because they're a fickle c category."
+- [17:03](https://youtu.be/8paKnhgNbLg?t=1023) Threes are abundant in the NBA, so a player's three-point production should not be overvalued.
+  > "Tammani Kamar is hitting 2.7 a game. Threes are abundant in the NBA."
+- [3:48](https://youtu.be/8paKnhgNbLg?t=228) Being named a starter matters for fantasy because it opens up more minutes.
+  > "when you start there's just more opportunities to play more minutes and that's important for us."
+- [24:47](https://youtu.be/8paKnhgNbLg?t=1487) Some players scale their usage up or down a lot with their role. Big numbers from a large role on a thin roster may not carry over when more ball handlers arrive.
+  > "he is a guy that can go from 24 to 16 usage."
+- [29:04](https://youtu.be/8paKnhgNbLg?t=1744) A backup big who would start if the starter got hurt is worth stashing in formats that allow it.
+  > "in stashable formats, Rob Williams, cuz if Klingan does get hurt and Rob is all right"
+- [30:36](https://youtu.be/8paKnhgNbLg?t=1836) A team with a few more back-to-backs than the minimum barely changes the outlook for a player who will rest on back-to-backs.
+  > "two extra backto-backs over the course of 23 weeks or however long your season goes."
+- [29:40](https://youtu.be/8paKnhgNbLg?t=1780) A meniscus repair means a longer recovery than a meniscus trim.
+  > "repair, not the trim. So, that makes it a longer recovery."
+
+## 2026-10-14 [Phoenix Suns Fantasy Basketball Preview - Fading Devin Booker?](videos/2026-10-14-MRzebgip23Y.md)
+
+- [4:33](https://youtu.be/MRzebgip23Y?t=273) For elite free throw shooters, a small drop in FT% (89 to 87) takes away a lot of the extra value their profile depends on.
+  > "when everything is based on that 89 in the extra value you get and it moves to 87"
+- [6:53](https://youtu.be/MRzebgip23Y?t=413) Games played cannot be predicted, so judge players on their per-game profile and role.
+  > "Games played are impossible to predict. So what do we look at with him?"
+- [13:34](https://youtu.be/MRzebgip23Y?t=814) Find out how a breakout happened. Big numbers that came from teammate injuries and unusually high usage tend to fade when those players return.
+  > "But the reason again this is where understanding how things happen is important. How did he do this?"
+- [18:04](https://youtu.be/MRzebgip23Y?t=1084) Around round 10 you are in flyer territory, so take upside players there and don't worry much about exact rankings.
+  > "if you're in round 10 and you're in a flyer zone, have a crack, man"
+- [18:56](https://youtu.be/MRzebgip23Y?t=1136) Hold a late-round flyer for 2 to 3 weeks. Drop him early only if his minutes collapse or someone passes him in the rotation.
+  > "weeks unless I see him playing 10 minutes and Dwreath making the roster and getting ahead of him."
+- [22:37](https://youtu.be/MRzebgip23Y?t=1357) Non-shooting specialists hitting around 45% from three should be treated as unsustainable. Sell high, because those numbers almost always fall off.
+  > "And when we talk buy lows, sell highs, unsustainability. When we see guys that aren't Luke Canon"
+- [23:11](https://youtu.be/MRzebgip23Y?t=1391) Nine-cat per-game rankings can inflate low-usage players. Be careful about trusting those ranks.
+  > "He's also a victim of the nine cat fluffing. He was 90th in nine cat numbers"
+- [28:20](https://youtu.be/MRzebgip23Y?t=1700) Separate late-round swings, who can win a role on merit, from stashes, who need injuries to have value. Stashes belong in stash-friendly formats: games caps, weekly leagues, deep benches, best ball and draft-only leagues.
+  > "So stashy formats, games caps, weekly leagues, deep benches, best balls, draft onlyies."
+- [29:46](https://youtu.be/MRzebgip23Y?t=1786) The speaker recommends a fantasy regular season end date of March 28 for schedule analysis. Back-to-back counts also matter.
+  > "If you use my recommended end date of March 28th, it's the full Moses Malone, 444."
+
+## 2026-10-14 [Fantasy Basketball Mock Draft Pick 7 - Cade Cunningham Build](videos/2026-10-14-D4dP5JvX1oo.md)
+
+- [9:24](https://youtu.be/D4dP5JvX1oo?t=564) Players in the same tier are so close in value that picking one over another rarely decides a league.
+  > "small that it's not defining your league it's not defining your decision- making a lot of the time"
+- [9:40](https://youtu.be/D4dP5JvX1oo?t=580) The main goals are to avoid big reaches and to hit on very high upside picks late in the draft.
+  > "You want to avoid the real egregious ones and you want to hit on some unbelievably high upside picks late."
+- [10:02](https://youtu.be/D4dP5JvX1oo?t=602) Getting a player at pick 150 who finishes 100th wins more than paying up early for a player you want. Reaching at 50 for a player you want can lose you a league.
+  > "what you do want to take is someone at 150 who becomes 100th."
+- [1:13](https://youtu.be/D4dP5JvX1oo?t=73) Schedule matters. A two-game week can push a player down your board.
+  > "Yeah, I could take Anthony Edwards, but he's got a two game week."
+- [14:36](https://youtu.be/D4dP5JvX1oo?t=876) Keep track of positional needs. After taking several guards, prioritize forward and center eligible players.
+  > "now I need to get some forward eligible players for sure, but I wasn't going to and centers."
+- [28:10](https://youtu.be/D4dP5JvX1oo?t=1690) Late-round center flyers are a good idea.
+  > "Dan Gaffford just taking his flyers, his center flyers, which is fine. It's good idea."
+- [27:44](https://youtu.be/D4dP5JvX1oo?t=1664) Very low-minute players only make sense in formats where you can stash them.
+  > "You have to be in a stashable format to do that. Like I I don't It's just too low minutes, man."
+- [23:30](https://youtu.be/D4dP5JvX1oo?t=1410) Players who contribute across categories and have flexible position eligibility beat one-category specialists.
+  > "I just think that Wallace is a one-trick pony and I think that Bridges's positional eligibility and his all round contributions"
+- [27:21](https://youtu.be/D4dP5JvX1oo?t=1641) For late picks, take guaranteed starters early in the season, then reassess after the first couple of weeks.
+  > "this is just like let's see what happens for the first couple of weeks and we can move on from there."
+
+## 2026-10-13 [Orlando Magic Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-13-zhXtLr_xYVg.md)
+
+- [4:13](https://youtu.be/zhXtLr_xYVg?t=253) The speaker thinks Z-scores (standard scores) are a flawed way to value players because stat distributions are skewed.
+  > "I believe Z scores, Z scores, standard scores are a flawed way of measuring this because of the skewed"
+- [4:33](https://youtu.be/zhXtLr_xYVg?t=273) Most players are in head-to-head leagues, not roto. Straight nine-cat rankings need adjusting for head-to-head formats.
+  > "Most of us, 95% of us aren't playing roto leagues. You're playing head-to-head formats."
+- [6:12](https://youtu.be/zhXtLr_xYVg?t=372) Ranking sites should commit to one basis. If you think a player is 120th in categories, rank him there instead of using a random hybrid.
+  > "If you think Paolo is 120th, rank him 120th. If you believe that the categories put him there"
+- [8:10](https://youtu.be/zhXtLr_xYVg?t=490) Value a player on what has actually happened and what could realistically happen, not on a reputation that sticks in people's heads.
+  > "So, again, be be accurate about what has happened and what could happen."
+- [13:06](https://youtu.be/zhXtLr_xYVg?t=786) Watch for players whose past value came from teammates being out. Their value may drop when those teammates are healthy.
+  > "Bane is also someone that that has benefited in the last few seasons from absences of other players."
+- [14:04](https://youtu.be/zhXtLr_xYVg?t=844) Playing all 82 games in one season says nothing about health the next season.
+  > "Right, he did it, 82, well done. Means literally nothing for the next season."
+- [14:45](https://youtu.be/zhXtLr_xYVg?t=885) Do not stack ifs. Treat each if as about a 50% chance, so two ifs together are about 25%.
+  > "if you count each if as a 50%er, then two ifs together is a 25% chance."
+- [15:31](https://youtu.be/zhXtLr_xYVg?t=931) Some players get hurt because of their playing style, not because of fragile bodies. Expect missed games and limited minutes from them.
+  > "it's not because of a failure necessarily just how how he plays. He just cannot not go full bore."
+- [18:03](https://youtu.be/zhXtLr_xYVg?t=1083) Do not draft boring, no-upside players in 12-team leagues. Streaming that roster spot each week gives more value.
+  > "But if I just stream that roster spot for the week, I get way more."
+- [18:48](https://youtu.be/zhXtLr_xYVg?t=1128) Safe, low-upside picks can look good in projected standings but look bad once the season starts.
+  > "It might look good in the projected standings, but it will look bad when the season rolls around."
+- [24:14](https://youtu.be/zhXtLr_xYVg?t=1454) Copying last season's numbers as a projection ignores context such as role changes and team changes.
+  > "You can just literally copy and paste last season's numbers, and you'll say,"
+- [27:40](https://youtu.be/zhXtLr_xYVg?t=1660) A stash is a player who needs an injury ahead of him to become a 12-team player. A late swing is a player who could get useful minutes every night.
+  > "Whereas, Black, I think you have to wait for an injury for him to really be a 12-team guy."
+- [28:53](https://youtu.be/zhXtLr_xYVg?t=1733) The speaker's recommended fantasy season end date is March 28, compared with Yahoo's default of April 4.
+  > "date, which is March the 28th, it's a 344, 11 games, one less than max"
+- [26:53](https://youtu.be/zhXtLr_xYVg?t=1613) Draft position depends on format. The same player can be a bargain in points leagues and a reach in category leagues.
+  > "his ADP is 35 and you're on Yahoo category league, you don't take him there."
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 6 - Must Draft Players Inside](videos/2026-10-13-OsbUAkSeVB4.md)
+
+- [10:18](https://youtu.be/OsbUAkSeVB4?t=618) Do not copy what a mock draft does at a given pick. Every draft is different. Use mocks to see different valuations and to learn how to pivot.
+  > "what I want you to take out of mockdrafts is not following a pattern of what happens at a particular pick"
+- [17:52](https://youtu.be/OsbUAkSeVB4?t=1072) When you pick at the turn, you have to take some players earlier than their usual spot.
+  > "when you're on the turn, you do have to make some earlier picks"
+- [19:06](https://youtu.be/OsbUAkSeVB4?t=1146) Be careful with big preseason numbers. Stats have to go to someone, so when many players sit out, someone puts up big numbers.
+  > "Stats do need to be accumulated. So, if everyone's out, somebody will do it."
+- [8:30](https://youtu.be/OsbUAkSeVB4?t=510) Players taken in the second round range are close to interchangeable, so take the one who fits your build.
+  > "There's a lot of interchangeability with these guys."
+- [11:48](https://youtu.be/OsbUAkSeVB4?t=708) Watch your category totals during the draft and fill weak spots. He looks for a big man when his FG% is weak and for assists when he needs them.
+  > "My field goal percent of this team is rubbish. I need a Do I need a big?"
+- [22:29](https://youtu.be/OsbUAkSeVB4?t=1349) In the late rounds he takes upside fliers.
+  > "remember, this is we're  doing flyer stuff here for the most part"
+
+## 2026-10-13 [Philadelphia 76ers Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-13-KqTKVExQGLo.md)
+
+- [1:30](https://youtu.be/KqTKVExQGLo?t=90) When stars share a team, each high usage player loses production. Injuries to teammates only partly offset this.
+  > "there is going to be big big big reductions for many players"
+- [2:33](https://youtu.be/KqTKVExQGLo?t=153) Judge last season's numbers by the context they came in. If teammates were injured, those numbers may have been a best-case scenario that will not repeat.
+  > "Cuz last year was like best case scenario for both of those guys anyway."
+- [7:32](https://youtu.be/KqTKVExQGLo?t=452) Nine-category rankings can make good players look bad. He does not treat them as an accurate measure of value.
+  > "One of the guys where the nine cat rankings will make you think that he is bad."
+- [8:44](https://youtu.be/KqTKVExQGLo?t=524) More minutes can offset a usage drop. A player who might gain minutes is safer than one who could lose usage, assist rate and minutes.
+  > "So, the offsetting usage is helped by minutes increase. Whereas, Maxey could lose usage, assist rate, and minutes."
+- [14:41](https://youtu.be/KqTKVExQGLo?t=881) He will not draft players with multiple meniscus surgeries on the same knee near their per-game value. He expects load management and missed games.
+  > "When you have multiple surgeries to repair a meniscus in the same knee multiple times, I'm done."
+- [15:37](https://youtu.be/KqTKVExQGLo?t=937) Avoid stacking several high injury risk players on one roster unless you are deliberately going all in.
+  > "I'm not adding Embiid onto that team unless I'm just going full balls to the wall"
+- [18:18](https://youtu.be/KqTKVExQGLo?t=1098) Lower usage does not always lead to better defensive stats.
+  > "You're banking on the idea of lower usage means better defensive stats. Which doesn't always happen."
+- [21:49](https://youtu.be/KqTKVExQGLo?t=1309) Players with few peripheral stats need heavy minutes and usage to have fantasy value.
+  > "He is a one of those players who lacks peripherals, needs tons of minutes and tons of usage."
+- [28:00](https://youtu.be/KqTKVExQGLo?t=1680) The gap between 13 and 16 back-to-backs is small, about one every 6 to 7 weeks. Back-to-backs matter more for teams with injury-prone stars.
+  > "They have only 13 back-to-backs, which with this team does mean something."
+- [6:21](https://youtu.be/KqTKVExQGLo?t=381) Free throw percentage can swing a lot from season to season.
+  > "the high percentage, which can fluctuate a lot, drop back down?"
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 10 - Kevin Durant Build](videos/2026-10-13-EogBYa24Gto.md)
+
+- [6:09](https://youtu.be/EogBYa24Gto?t=369) Two-game playoff weeks lower a player's value. This is a reason someone like Anthony Edwards can slip.
+  > "Remember, Anthony Edwards has a twoame playoff week, which is not great, obviously."
+- [7:40](https://youtu.be/EogBYa24Gto?t=460) In the middle of round two the players are close in value, so the exact order matters little.
+  > "the differences between so many of these guys in terms of what value proposition, I don't really think it's that big of a deal"
+- [15:10](https://youtu.be/EogBYa24Gto?t=910) If an injured player goes at the same spot he would go when healthy, you get no discount, so pass on him.
+  > "This is the area I would have picked him when he was healthy anyway. So, what discount would I be getting at that spot?"
+- [18:09](https://youtu.be/EogBYa24Gto?t=1089) Filling missing positions (point guard, center) can force you to take a player earlier than you would like.
+  > "So I normally would let him fall a little bit further, but I just needed to grab that sort of position."
+- [26:09](https://youtu.be/EogBYa24Gto?t=1569) In the late rounds, take chances on players who might earn minutes, just in case.
+  > "he has to be taken here. Like just just in case he plays 20 25 minutes."
+- [24:59](https://youtu.be/EogBYa24Gto?t=1499) Whether a player is a good pick depends on the price. A player who is bad value at one pick can be fine much later.
+  > "So I hate IO 108, but 135, but that's the difference."
+
+## 2026-10-13 [Fantasy Basketball Mock Draft Pick 11 - [9 Cat H2H Tyrese Maxey]](videos/2026-10-13-DzQXaC2rsac.md)
+
+- [9:15](https://youtu.be/DzQXaC2rsac?t=555) Most second-round players are roughly interchangeable.
+  > "I think most of these second round guys are sort of relatively interchangeable"
+- [19:46](https://youtu.be/DzQXaC2rsac?t=1186) You don't need any one specific player. If a target goes too early, take someone else later. When players go early, others get pushed back, so you will not run out of options.
+  > "You don't have to have that player. If he goes too early, just get somebody different later."
+- [16:17](https://youtu.be/DzQXaC2rsac?t=977) Picking near the turn with two players you want is hard. You take one and hope the other comes back, but you cannot predict what the manager on the turn will do.
+  > "you hope the other one comes back around, but you just don't know what the bloke on the turn"
+- [26:18](https://youtu.be/DzQXaC2rsac?t=1578) Late in drafts, choose between a high-upside player and a safer player who is more likely to finish ahead. He prefers the player with the bigger chance of finishing well above his draft spot.
+  > "the difference between those two statements is how you want to approach your team. That's your call"
+- [23:40](https://youtu.be/DzQXaC2rsac?t=1420) Late rounds are flyer territory. He is happy to take upside flyers there.
+  > "This is flyer territory, too. So, I'm happy to take flyers on blokes."
+- [21:59](https://youtu.be/DzQXaC2rsac?t=1319) A pick that looks early is fine if it is within reasonable ranges. Player values vary a lot because of small factors, so draft order does not have to be fixed.
+  > "there's so much variance on players' values based on such small things"
+- [20:04](https://youtu.be/DzQXaC2rsac?t=1204) Low-scoring big men are fine in category formats.
+  > "Going to be a pretty low-scoring player, I think, Isaiah. But, that's look again, it's fine in a category format."
+- [1:06](https://youtu.be/DzQXaC2rsac?t=66) Players' values change from mock to mock depending on who is in the draft and how people are thinking.
+  > "the values of players change all  the time anyway, depending on who's in the draft"
+- [28:58](https://youtu.be/DzQXaC2rsac?t=1738) In a competitive draft, projected standings are tightly bunched, so a low projected finish does not mean much.
+  > "the projected standings and records for these  teams in my league is so narrowly clustered"
+
+## 2026-10-12 [Fantasy Basketball Mock Draft - Category Pick 12](videos/2026-10-12-w66x_I_MaQ8.md)
+
+- [1:24](https://youtu.be/w66x_I_MaQ8?t=84) At pick 12 he avoids per-game value that comes with injury risk. He prefers a safer player he thinks could finish as a first rounder.
+  > "most of my per game projected players in this area are injury risks like Kawawaii even LaMelo, Kyrie, Steph"
+- [10:48](https://youtu.be/w66x_I_MaQ8?t=648) Do not lean too hard on mock drafts. Players move 25 to 30 spots between drafts with no news, so stay flexible and react to what is actually available.
+  > "I think there is a real risk in these of it leading you astray. You got to be nimble."
+- [11:02](https://youtu.be/w66x_I_MaQ8?t=662) Do not copy another drafter's picks. Who is available changes every draft.
+  > "don't look at my team and go, "Well, Josh picked at 12. I'm going to take all of his guys.""
+- [22:23](https://youtu.be/w66x_I_MaQ8?t=1343) Treat rankings, ADP and past mocks as inputs only. Take what is useful from them, but do not treat them as a clear blueprint.
+  > "Take what you need to take out of it, but don't look at it as a clear blueprint."
+- [11:38](https://youtu.be/w66x_I_MaQ8?t=698) In a third round reversal, the drafter at pick one can still use the fourth pick on an injury-risk star, because three other players are already on the roster.
+  > "you can use your fourth pick to take a Kyrie or a Kawawaii at that stage and you've already got three other guys ahead of him"
+- [17:35](https://youtu.be/w66x_I_MaQ8?t=1055) Picking on the turn, with two picks in a row, changes your strategy. Use it to target the categories you need, such as assists.
+  > "I'm on the turn. I want to get some assists. I'm going to take Dylan Harper."
+- [14:19](https://youtu.be/w66x_I_MaQ8?t=859) Many drafters ignore 9-category rankings for a lot of players and do not care about perceived value.
+  > "nine cat rankings are just really weird because everyone just ignores them for bunches of players"
+- [26:59](https://youtu.be/w66x_I_MaQ8?t=1619) Draft upside to win the league. Do not draft safe, low-upside veterans just to make projected standings look good.
+  > "are we trying to win a league or a projected standings?"
+- [28:31](https://youtu.be/w66x_I_MaQ8?t=1711) Drafting a backup and waiting for an injury ahead of him is harder to make work in a standard format.
+  > "that's just an upside play waiting on an injury which is harder to do in a standard format"
+- [33:50](https://youtu.be/w66x_I_MaQ8?t=2030) A low-upside player becomes an upside pick if you get him much later than where he projects.
+  > "Not really an upside player if you get him 110. But if you get him at 168 that that does become upside."
+- [35:01](https://youtu.be/w66x_I_MaQ8?t=2101) A roster that projects close to even across categories needs smart waiver moves to win.
+  > "That means I need smart waiver wiring to get me where I need to go."
+
+## 2026-10-12 [Oklahoma City Thunder Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-12-NhLMyS7Ii5I.md)
+
+- [2:27](https://youtu.be/NhLMyS7Ii5I?t=147) Losing depth can help fantasy value. The players who remain often take on bigger roles, which raises their floor and their minutes.
+  > "It could mean and it probably does mean that some of the existing players just take on more with a higher floor"
+- [18:43](https://youtu.be/NhLMyS7Ii5I?t=1123) Standard 9-cat rankings give one-category players (such as steals-only guys) an inflated, partly fake impact. He built his Durant metric to reduce this.
+  > "reducing what is I think somewhat of a fake outsiz impact of"
+- [10:12](https://youtu.be/NhLMyS7Ii5I?t=612) Value depends on draft price. ADP differs a lot between platforms, so the same player can be a fade on one site and a target on another.
+  > "But again, that's why every little draft, every little thing you do, it's a snowflake."
+- [25:57](https://youtu.be/NhLMyS7Ii5I?t=1557) In a standard 12-team league, average scoring is about 18 points a game and two threes a game is about average. A 12 points per game scorer who adds nothing else has little value.
+  > "in a standard fantasy league, 12 points is so far below average that who cares? Average is 18 in a 12 team league."
+- [14:45](https://youtu.be/NhLMyS7Ii5I?t=885) Don't overreact to one injury-hit bad season. That kind of player can become a value when the market drops him too far.
+  > "people have been probably a little bit scared of him at at times overindexing on how bad last season was"
+- [16:16](https://youtu.be/NhLMyS7Ii5I?t=976) Bigs who get rebounds, steals, blocks, high field goal percentage and some assists are worth more in category leagues than in points leagues.
+  > "that translates way better to categories than to points. So, don't get that too twisted."
+- [16:53](https://youtu.be/NhLMyS7Ii5I?t=1013) Backup guards who get pushed into a larger role can really pop off. Check whether the role is actually getting larger.
+  > "the backup guards who Quenton Grimes, I think, was one of those as well, who when they push into a larger role will really pop off"
+- [22:18](https://youtu.be/NhLMyS7Ii5I?t=1338) Look at the real context of a player's breakout. Production that came while teammates were injured can disappear when they return.
+  > "as players returned Gillespie style, he just disappeared from being good."
+- [37:17](https://youtu.be/NhLMyS7Ii5I?t=2237) He mostly ignores turnovers because he does not think punting or chasing them is a good way to win. Turnovers can be a safety net in an injury-hit week, but that use disappears in a games-cap format.
+  > "I just don't pay attention to them because I don't think it's a good way to win."
+- [32:52](https://youtu.be/NhLMyS7Ii5I?t=1972) His recommended fantasy schedule ends on March 28. Yahoo's default ends on April 4.
+  > "If you use my recommended schedule, which is the March 28th end date, that's a 434 schedule."
+- [28:07](https://youtu.be/NhLMyS7Ii5I?t=1687) Taking flyers on preseason standouts is fine. First ask whether they have a real path to minutes behind the established players.
+  > "But let's also just be like taking a flyer is fine. Like it's a fly pick, but"
+- [34:45](https://youtu.be/NhLMyS7Ii5I?t=2085) On category design: he likes splitting field goal percentage into 2-point and 3-point percentage, because efficient three-point shooters get penalized under plain field goal percentage. He would like to try a combined hustle stats category. He would not use free throws made, double doubles or triple doubles.
+  > "Penalizing a player because they're efficient at threes doesn't make a lot of sense."
+
+## 2026-10-12 [Fantasy Basketball Mock Draft 9 cat Pick 3 | Shai Build](videos/2026-10-12-ENizLoE6pzI.md)
+
+- [1:13](https://youtu.be/ENizLoE6pzI?t=73) Fantasy rankings are probabilities, not certainties. The value gap between players ranked close together is small, so picking slightly off the ranking order is fine.
+  > "None of it ever  works that way. It's all probabilities. It's all this might happen and this might be here."
+- [10:31](https://youtu.be/ENizLoE6pzI?t=631) Do not treat ranking order as everything. Pick 13 is not really three slots better than pick 16.
+  > "we need  to remove the idea that ordinality is the be all and end all."
+- [14:34](https://youtu.be/ENizLoE6pzI?t=874) In head-to-head leagues he sorts projections by head-to-head value. He looks at the next 12 players on that list instead of always taking the top one, because their value numbers are close.
+  > "I don't grab the top ranked player. I do sometimes, but I don't always. I look down at the next 12"
+- [15:05](https://youtu.be/ENizLoE6pzI?t=905) When choosing among close players, think about whether a player could come back to you next round and which categories (assists, scoring, percentages) you need and can still find later.
+  > "Hey, could this guy come back around? Am I really needing assists or do I  need some scoring?"
+- [14:06](https://youtu.be/ENizLoE6pzI?t=846) After the first two rounds, he only calls a pick a reach if he would take 10 to 15 players ahead of that player. A gap of about four players does not matter.
+  > "If there is 10 to 12 guys, 10 to  15 guys that I would prefer ahead of that player, that's when I'll say it."
+- [18:42](https://youtu.be/ENizLoE6pzI?t=1122) He flags a pick as early when the player goes about 30 spots ahead of where he ranks him.
+  > "when someone's 30 spots ahead of where I've got them,  that that is where I go."
+- [12:14](https://youtu.be/ENizLoE6pzI?t=734) ADP ranges are very wide, so where a player actually goes varies a lot from draft to draft.
+  > "All of these picks have pretty large ranges."
+- [19:20](https://youtu.be/ENizLoE6pzI?t=1160) Every mock draft is different. One mock is not a blueprint for a draft slot.
+  > "this is not a blueprint of what I would do at pick three. It's what I'm currently doing  at pick three."
+- [6:06](https://youtu.be/ENizLoE6pzI?t=366) Luka is his usual pick at 3 in head-to-head, but in roto he might take Shai over him.
+  > "I would take Lucer. If I'm in Roto, I might take Shay over him."
+- [25:27](https://youtu.be/ENizLoE6pzI?t=1527) Around round 10 it is time to take upside flyers.
+  > "cuz we are in round 10. It is flyer time."
+- [22:43](https://youtu.be/ENizLoE6pzI?t=1363) Being 'exciting' means a player has a path to beat his draft slot, not just being solid.
+  > "by excitement, I mean like have you got  something to be able to go past this number?"
+- [28:42](https://youtu.be/ENizLoE6pzI?t=1722) Be careful with preseason standouts. Good preseason numbers may not hold once regular rotations and minutes are set.
+  > "good preseason numbers, but how does it how will it translate across during the regular season"
+- [23:12](https://youtu.be/ENizLoE6pzI?t=1392) He will not draft players with a serious injury history, such as a partially torn Achilles, inside the top 120.
+  > "I'm not doing it inside the top 120 partially torn Achilles injury history not happening"
+
+## 2026-10-11 [Fantasy Basketball Mock Draft - 9 Cat H2H Pick 1 [Jokic Build]](videos/2026-10-11-uI6umXsE7Vk.md)
+
+- [1:16](https://youtu.be/uI6umXsE7Vk?t=76) There is no perfect draft build. The right build depends on who else is in the draft with you.
+  > "Perfect builds in drafts don't exist and everything changes depending on who else is in the draft with you"
+- [8:16](https://youtu.be/uI6umXsE7Vk?t=496) Don't over-rely on pairing. You do not need to take a bad free throw shooter just because you took Giannis.
+  > "take a bad free throw shooter with Jiannis. You can and Shenun's okay because he gives you"
+- [8:16](https://youtu.be/uI6umXsE7Vk?t=496) Players who give harder-to-find stats like assists are more valuable from bigs.
+  > "he gives you some of those harder to acquire stats like assists, but he doesn't help you in threes"
+- [9:50](https://youtu.be/uI6umXsE7Vk?t=590) When a starter gets hurt, don't automatically grab his backup. Drafting a backup big means relying on the starter getting injured.
+  > "So him going down doesn't mean I grab Dylan Cardwell or John"
+- [10:11](https://youtu.be/uI6umXsE7Vk?t=611) In head-to-head leagues, injury-prone per-game stars like Kawhi should go later than in roto. Kawhi belongs after pick 40.
+  > "Kawawaii in a head-to-head league is after pick 40. So a little early there."
+- [10:39](https://youtu.be/uI6umXsE7Vk?t=639) Don't overreact to preseason injury flags on draft platforms.
+  > "I think people get a little worried about the red flags that appear on fan tracks"
+- [11:35](https://youtu.be/uI6umXsE7Vk?t=695) When picking on the turn, think about the long wait until your next pick.
+  > "I'm on the turn, right? So, my next pick after this is 60 something"
+- [11:52](https://youtu.be/uI6umXsE7Vk?t=712) Once you have two centers, you don't need to keep chasing centers.
+  > "I've got two already, so I don't really need to go super hard into centers"
+- [14:14](https://youtu.be/uI6umXsE7Vk?t=854) Avoid stacking several injury-risk stars like Embiid or LeBron with Anthony Davis on one team.
+  > "But again, I don't want to combine those players with Anthony Davis."
+- [6:13](https://youtu.be/uI6umXsE7Vk?t=373) Players coming back from a torn Achilles carry a risk of compensation injuries.
+  > "compensation injuries are a concern. Coming back off a torn Achilles"
+- [20:25](https://youtu.be/uI6umXsE7Vk?t=1225) Protect free throw percentage when it is already shaky. He picked Jarrett Allen over Gobert because Gobert's free throws are worse.
+  > "I could have taken Gobbert, but my free throws were a little precarious"
+- [22:38](https://youtu.be/uI6umXsE7Vk?t=1358) Round 8 is too early for flyers. Around round 10, especially on the turn, flyers make sense.
+  > "Round eight is not really flyer territory."
+- [25:05](https://youtu.be/uI6umXsE7Vk?t=1505) Take flyers before a long gap between picks, because other drafters will have taken theirs by then.
+  > "It's flyer territory for me, especially on the turn cuz my next pick is 132 and most people will have gone their flyers"
+- [30:41](https://youtu.be/uI6umXsE7Vk?t=1841) A player's value depends on where he is taken. The same player can be a bad pick early and fine late (Nembhard, Bridges, Kuminga).
+  > "I only tell people off taking Miles Bridges if they're taking him at like 90."
+- [28:14](https://youtu.be/uI6umXsE7Vk?t=1694) Upside picks only make sense late. A player with upside in round 13 or 14 has no upside at round 11.
+  > "if it's in round 13 or 14, then there is upside in at 11, there's not"
+- [34:29](https://youtu.be/uI6umXsE7Vk?t=2069) Early-season fill-in starters are fine late picks even if you won't hold them all season.
+  > "You won't hold him all season, but that is not what this is about, is it?"
+
+## 2026-10-11 [New York Knicks Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-11--dulgoyo_wo.md)
+
+- [3:13](https://youtu.be/-dulgoyo_wo?t=193) Teams coming off a title often struggle the next regular season. They play two extra months, may be complacent, and may not value the regular season as much.
+  > "You have to play two months longer than most other teams. You win. There is complacency potentially."
+- [4:46](https://youtu.be/-dulgoyo_wo?t=286) A strong conference can force a team to push its players harder and cut back on rest. That can raise injury risk.
+  > "And then they push harder and the push harder maybe gets to an injury."
+- [8:28](https://youtu.be/-dulgoyo_wo?t=508) Do not draft a player based on his reputation or past real-life success. Judge him by what he actually produces in fantasy categories.
+  > "So, don't get wrapped up in the emotion, they said he'd never be good. Josh, you're just a hater."
+- [9:24](https://youtu.be/-dulgoyo_wo?t=564) Playing next to a traditional center pushes a big man out to the perimeter. His rebounds, blocks and FG% usually drop.
+  > "play more on the perimeter. Rebounds down, blocks down, field goals down is the usual way it goes."
+- [10:59](https://youtu.be/-dulgoyo_wo?t=659) Scoring format matters. A player's value can be very different in category leagues and points leagues, and between Yahoo and ESPN points.
+  > "So again, format is important and understanding what can and can't go wrong or change with a player"
+- [14:41](https://youtu.be/-dulgoyo_wo?t=881) Do not trust 9-cat rankings that inflate value. If a player's 9-cat rank looks great, do not assume the time he might miss is already priced in.
+  > "and then the the the risk of relying on a straight nine cat and try to position that value"
+- [17:12](https://youtu.be/-dulgoyo_wo?t=1032) Do not bump a mediocre player up 30 or 40 spots just for good health. Using that roster spot to stream waiver players can give more value.
+  > "rather use that roster spot to get seven games of somebody off the waiver wire? Streaming it through. It's way more value."
+- [19:00](https://youtu.be/-dulgoyo_wo?t=1140) Last year's 9-cat ranks can make a player look much better than he is. Draft on what he actually produces and what upside he really has.
+  > "Not remotely reflective of what he was as a player. But if you look at that and go,"
+- [27:46](https://youtu.be/-dulgoyo_wo?t=1666) A backup with a clear path to starting minutes, and no competition behind him, is a good stash in deep leagues, bench leagues, roto leagues and games-cap leagues.
+  > "This is stashable stuff like in deep leagues, bench leagues, roto leagues, games cap leagues because it's like"
+- [28:53](https://youtu.be/-dulgoyo_wo?t=1733) Check each team's fantasy playoff schedule against your league's end date. The speaker recommends ending the season on March 28.
+  > "So if you end on my recommended date, March the 28th, their schedule's not particularly strong."
+
+## 2026-10-10 [ESPN Points Mock Draft - Taking A Caleb Wilson Plunge](videos/2026-10-10-hviT4hzYNME.md)
+
+- [0:57](https://youtu.be/hviT4hzYNME?t=57) ESPN default points scoring: made FG +2, FG attempt -1, made FT +1, FT attempt -1, a bonus point for a made three, and more points for steals and blocks than Yahoo default.
+  > "It's two points for a made field goal, negative one for an attempt, one point for a made free throw"
+- [8:25](https://youtu.be/hviT4hzYNME?t=505) Know your format. ESPN points has a heavier penalty on turnovers and missed shots, so some category-league picks are reaches in this format.
+  > "There just plenty of other guys in this format where there's a heavier penalty on turnovers and miss shots"
+- [16:02](https://youtu.be/hviT4hzYNME?t=962) Players valued for Yahoo scoring can be drafted too early in ESPN points. Understand the scoring before you draft.
+  > "he took Castle in a spot that makes sense for Yahoo, but does not make sense in ESPN. Understand your formats."
+- [14:45](https://youtu.be/hviT4hzYNME?t=885) Avoid stacking risky players on one team. Stacking several ifs makes it harder to succeed, even if the upside is real.
+  > "that's stacking risk. Now, there is upside that maybe both those guys are top 20 players."
+- [33:54](https://youtu.be/hviT4hzYNME?t=2034) Value depends on draft spot compared with finish. A player drafted at 120 who finishes 120 is bad. A player drafted around 160 who finishes 120 is good.
+  > "Andrew Neard at 120 to finish. 120 is bad. Andrew Neard in round 14 to pick 160 to finish 120 is good."
+- [23:05](https://youtu.be/hviT4hzYNME?t=1385) In the draft room, fill the positional slots first, then the flex and bench spots.
+  > "I always like to get those positional ones out of the way first and then fill the flexes in the bench after that."
+
+## 2026-10-10 [New Orleans Pelicans Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-10-gsx_UDkVPd0.md)
+
+- [6:45](https://youtu.be/gsx_UDkVPd0?t=405) The speaker calls the standard nine-category season rankings flawed. If you trust them, you also have to accept odd results like Giannis ranked 70th.
+  > "Murphy on if you use the flawed nine-cat rankings, was 12th in those rankings."
+- [19:30](https://youtu.be/gsx_UDkVPd0?t=1170) Late-season stats against tanking teams, with many players out and 40-plus minutes, should be treated as inflated or fake.
+  > "They were playing against a bunch of teams who weren't trying. They had a bunch of guys that were out."
+- [30:57](https://youtu.be/gsx_UDkVPd0?t=1857) Watch out for roster crowding. Adding more high-usage players cuts each player's usage and fantasy value.
+  > "Especially we are adding more usage into the mix with a full season of Dejounte, a second season of Fears"
+- [21:19](https://youtu.be/gsx_UDkVPd0?t=1279) Players who only bring volume scoring need usage a good team would not give them. Be wary of that archetype.
+  > "A guy that needs to be in a situation where he's getting more usage than a good team would ever afford him."
+- [26:20](https://youtu.be/gsx_UDkVPd0?t=1580) Late-round picks are for high-upside flyers whose value depends on more minutes.
+  > "If you want to take a flyer on him, like this is what the flyer zone is for."
+- [31:36](https://youtu.be/gsx_UDkVPd0?t=1896) Stash players with injury or trade upside are best in draft-only, best ball, roto, games-cap head-to-head and deep-bench formats.
+  > "Draft only's best balls, rotos, games cap head-to-heads, deep benches,"
+- [32:59](https://youtu.be/gsx_UDkVPd0?t=1979) Check the schedule around your league's end date. Yahoo's default end of April 4 can put a two-game week in your finals.
+  > "If you had a default though, Yahoo default, ending April 4th, the dreaded two-game week appears in your finals match-up."
+- [33:26](https://youtu.be/gsx_UDkVPd0?t=2006) Two-game weeks in the playoffs matter most to avoid for first- and second-round players.
+  > "those two-game weeks are more important to avoid when we're talking about the absolute top-end first and second-round players"
+- [34:04](https://youtu.be/gsx_UDkVPd0?t=2044) Back-to-backs mostly become a concern when a player gets hurt, because they can lead to more missed games.
+  > "that's where a lot of these back-to-back concerns come in is if something does happen, then that leads to a few more problems."
+
 ## 2026-10-09 [Minnesota Timberwolves Fantasy Basketball Preview [26/27 NBA Season]](videos/2026-10-09-cFV24VgxyCY.md)
 
 - [3:06](https://youtu.be/cFV24VgxyCY?t=186) Starters are not all equal. Tell real starters (28 to 32 minutes, closing games) apart from fake starters who play about 21 to 23 minutes and don't close.

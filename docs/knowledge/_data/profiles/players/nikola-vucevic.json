@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "08b810f14fbc",
- "note_count": 14,
- "built_at": "2026-10-11T09:22:03+00:00",
+ "input_sha": "2cf5bf668c24",
+ "note_count": 19,
+ "built_at": "2026-10-16T09:11:56+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16069819999999999,
-  "duration_ms": 44552,
+  "cost_usd_list": 0.19274619999999998,
+  "duration_ms": 53867,
   "turns": 2,
   "denied": 0
  },
@@ -27,81 +27,95 @@
    "until": "",
    "sources": [
     "4kKINkZhWls:p2",
-    "4kKINkZhWls:t2",
-    "P6TNP-g0wzY:p27"
+    "P6TNP-g0wzY:p27",
+    "4kKINkZhWls:t2"
    ]
   },
   {
-   "text": "Wendell Carter Jr. is Orlando's starting center and Vucevic is his backup. Goga Bitadze will also get some center minutes.",
+   "text": "Orlando's projected starting center is Wendell Carter Jr. Vucevic is projected on the bench as the backup center. Goga Bitadze will still get some minutes.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p33",
+    "zhXtLr_xYVg:t1",
+    "zhXtLr_xYVg:t2",
     "sTtFUy7IoJI:t11",
-    "FEcNjVRlj-U:p0",
-    "g31YlwRe0XQ:p49",
+    "sTtFUy7IoJI:p33",
     "QbdrhJd7LiA:p44",
-    "WXO8MfQfzo0:p45"
+    "WXO8MfQfzo0:p45",
+    "g31YlwRe0XQ:p49",
+    "FEcNjVRlj-U:p0"
    ]
   },
   {
-   "text": "Experts expect fewer minutes than his 28 last season, but they disagree on how many: one sees 20 to 22 minutes, another sees 15 to 20 and does not expect him to push for a starting role. One expert says he could even be third string.",
+   "text": "Experts expect a reserve role of about 15 to 22 minutes, down from 28 last season. He could even end up third string.",
    "kind": "verdict",
-   "date": "2026-09-22",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "zhXtLr_xYVg:p26",
+    "hviT4hzYNME:p39",
     "sTtFUy7IoJI:p33",
     "FEcNjVRlj-U:p0",
     "QbdrhJd7LiA:p44"
    ]
   },
   {
-   "text": "Orlando added him to fix a bench that ranked 27th or 28th in scoring. He is expected to score 12 to 14 points a game off the bench and to be an upgrade on Mo Wagner.",
+   "text": "Last season's numbers overrate him. His finish came from starting in Chicago, and his two-point scoring fell off a cliff in Boston, where he looked washed.",
    "kind": "verdict",
-   "date": "2026-08-01",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t2",
-    "FEcNjVRlj-U:p1"
+    "zhXtLr_xYVg:p24",
+    "uI6umXsE7Vk:p63"
    ]
   },
   {
-   "text": "His value rises a lot if Wendell Carter Jr. gets hurt. He could then be a top 100 player.",
+   "text": "He is a late swing pick around rounds 12 to 13. If he gets 23 to 25 minutes, he beats that draft spot.",
    "kind": "verdict",
-   "date": "2026-09-15",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "KPdD91Oo8-U:p39",
-    "g31YlwRe0XQ:p49",
-    "WXO8MfQfzo0:p45"
+    "zhXtLr_xYVg:p26",
+    "uI6umXsE7Vk:p63",
+    "hviT4hzYNME:p39",
+    "WXO8MfQfzo0:p45",
+    "KPdD91Oo8-U:p39"
    ]
   },
   {
-   "text": "Experts agree it is a mistake to draft him as a starter or at his ESPN ADP. At most he is a late flyer, worth a pick only in deep drafts.",
+   "text": "Drafting him at a starter's price in the top 80 to 90 is a mistake.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-09-22",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p34",
     "uarqbNA2dFk:p50",
-    "QbdrhJd7LiA:p44",
-    "KPdD91Oo8-U:p39",
-    "WXO8MfQfzo0:p45",
-    "Rqb5GdrSweY:p25"
+    "QbdrhJd7LiA:p44"
    ]
   },
   {
-   "text": "Lloyd will not draft him. He says Vucevic is cooked.",
+   "text": "He has more upside if Wendell Carter Jr. gets hurt. In that case he could be top 100.",
    "kind": "verdict",
-   "date": "2026-07-02",
+   "date": "2026-09-15",
+   "until": "Wendell Carter Jr. gets hurt",
+   "sources": [
+    "KPdD91Oo8-U:p39",
+    "g31YlwRe0XQ:p49"
+   ]
+  },
+  {
+   "text": "Orlando added him to fix its bench scoring, which ranked 27th or 28th last season. He can still score 12 to 14 points a game off the bench.",
+   "kind": "verdict",
+   "date": "2026-08-01",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p27"
+    "FEcNjVRlj-U:p1",
+    "FEcNjVRlj-U:t2"
    ]
   },
   {
-   "text": "His assists got a lift from luck last season, with a 68% potential assist conversion rate, so they may drop.",
+   "text": "Some luck helped his assists. He converted 68% of potential assists.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -110,17 +124,65 @@
    ]
   },
   {
-   "text": "Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change.",
+   "text": "Sean Sweeney is Orlando's new head coach, so rotation roles may change.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable (rest).",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
+  {
+   "text": "He is 36 years old.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25"
+   ]
+  },
+  {
+   "text": "He shoots threes at decent volume for a big and is a good rebounder.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25"
+   ]
+  },
+  {
+   "text": "He gets rebounds without blocks, and he never gets steals. Steals are his weakest category for a center.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25",
+    "0geFVzSqOnA:p0",
+    "stats"
+   ]
+  },
+  {
+   "text": "He is a poor defender.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25",
+    "P6TNP-g0wzY:p27"
+   ]
+  },
   {
    "text": "He is a pretty good passer for a big man.",
    "kind": "verdict",
@@ -129,65 +191,40 @@
    "sources": [
     "NYTH7uQsPCM:p30"
    ]
-  },
-  {
-   "text": "He gets rebounds without blocking shots. He is the exception to the rule that rebounders also block shots.",
-   "kind": "fact",
-   "date": "2026-07-15",
-   "until": "",
-   "sources": [
-    "0geFVzSqOnA:p0"
-   ]
-  },
-  {
-   "text": "His steals are weak for a center, so a punt STL team loses little with him.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is a poor defender.",
-   "kind": "verdict",
-   "date": "2026-07-02",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p27"
-   ]
   }
  ],
  "tags": [
   {
    "name": "new team",
    "channel": "current",
-   "detail": "Moved from Chicago to Orlando on a minimum deal",
+   "detail": "Signed back with Orlando on a minimum deal",
    "until": "",
    "sources": [
     "4kKINkZhWls:p2",
-    "QbdrhJd7LiA:p44"
+    "P6TNP-g0wzY:p27"
    ],
    "new_meaning": ""
   },
   {
    "name": "role down",
    "channel": "current",
-   "detail": "Backup center, projected 15 to 22 minutes, down from 28",
+   "detail": "Bench role of about 15 to 22 minutes, down from 28",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p33",
-    "FEcNjVRlj-U:p0"
+    "FEcNjVRlj-U:p0",
+    "zhXtLr_xYVg:p26"
    ],
    "new_meaning": ""
   },
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Behind Wendell Carter Jr., with Goga Bitadze also getting minutes",
+   "detail": "Backs up Wendell Carter Jr. Goga Bitadze also gets minutes, and he could be third string",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:t11",
+    "zhXtLr_xYVg:p26",
     "QbdrhJd7LiA:p44"
    ],
    "new_meaning": ""
@@ -195,7 +232,7 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Could be top 100 if Wendell Carter Jr. gets hurt",
+   "detail": "Upside if Wendell Carter Jr. gets hurt",
    "until": "",
    "sources": [
     "KPdD91Oo8-U:p39",
@@ -206,54 +243,22 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late pick only in deep drafts",
+   "detail": "Late swing in rounds 12 to 13 if he gets 23 to 25 minutes",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:p45",
-    "KPdD91Oo8-U:p39"
+    "zhXtLr_xYVg:p26",
+    "uI6umXsE7Vk:p63",
+    "WXO8MfQfzo0:p45"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bust candidate",
+   "name": "regression risk",
    "channel": "current",
-   "detail": "At his ESPN ADP or as a drafted starter",
+   "detail": "Lucky 68% potential assist conversion",
    "until": "",
    "sources": [
-    "sTtFUy7IoJI:p34",
-    "uarqbNA2dFk:p50",
-    "QbdrhJd7LiA:p44"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "ESPN rank 102 and ADP far above Yahoo rank 167 and Yahoo ADP 111",
-   "until": "",
-   "sources": [
-    "sTtFUy7IoJI:p34",
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "Lloyd calls him cooked",
-   "until": "",
-   "sources": [
-    "P6TNP-g0wzY:p27"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "punt STL fit",
-   "channel": "durable",
-   "detail": "Steals weak for a center",
-   "until": "",
-   "sources": [
-    "stats"
+    "NYTH7uQsPCM:p30"
    ],
    "new_meaning": ""
   },
@@ -263,12 +268,67 @@
    "detail": "Sean Sweeney replaces Jamahl Mosley",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo status Q (rest)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "age decline watch",
+   "channel": "durable",
+   "detail": "36 years old. Experts say he may be washed",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25",
+    "zhXtLr_xYVg:p24",
+    "uI6umXsE7Vk:p63",
+    "P6TNP-g0wzY:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "Cannot defend",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25",
+    "P6TNP-g0wzY:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt STL fit",
+   "channel": "durable",
+   "detail": "Very few steals for a center",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "3PM from a big",
+   "channel": "durable",
+   "detail": "Decent-volume three-point shooter for a center",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p25"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He went for 17 USD in our league last season. Now he is a bench center behind Wendell Carter Jr., with a Yahoo value of 0 USD and an ESPN value of 2 USD, so pay 1 to 2 USD at most, and only as a late flyer or Carter handcuff. If you take him, he fits a punt STL build. Early in the season, check his minutes under new coach Sean Sweeney, how much Goga Bitadze plays, and Carter's health.",
+ "note": "Our league paid 17 USD for him last season. The market has dropped to about 1 USD (Yahoo 1.0, ESPN 1.3) now that he is Wendell Carter Jr.'s backup. Treat him as a 1 USD end-of-draft flyer and a Carter handcuff, not a starter: projections of 8.6 to 13.8 points depend on whether he gets about 25 minutes. He fits punt STL builds that want rebounds and some threes from a center. Early in the season, check his minutes against Carter and Bitadze under new coach Sweeney, and drop him fast if he stays near 15 to 20 minutes.",
  "rejected": []
 }

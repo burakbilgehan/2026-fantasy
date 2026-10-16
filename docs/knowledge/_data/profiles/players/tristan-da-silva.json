@@ -8,52 +8,111 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8ac2113c4b56",
- "note_count": 0,
- "built_at": "2026-10-11T09:23:42+00:00",
+ "input_sha": "0f7381c6af6f",
+ "note_count": 2,
+ "built_at": "2026-10-16T09:18:03+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.11466000000000001,
-  "duration_ms": 19597,
+  "cost_usd_list": 0.151737,
+  "duration_ms": 29428,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles on the team may change.",
+   "text": "Orlando projects him as a bench player. The projected starters are Jalen Suggs, Desmond Bane, Franz Wagner, Paolo Banchero and Wendell Carter Jr.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t1",
+    "zhXtLr_xYVg:t2",
+    "FEcNjVRlj-U:t1"
    ]
   },
   {
-   "text": "Da Silva is not in Orlando's projected starting five of Suggs, Bane, Franz Wagner, Banchero and Carter.",
-   "kind": "fact",
-   "date": "2026-08-01",
+   "text": "Noah Penda or Jase Richardson could break into the Orlando rotation and take bench minutes.",
+   "kind": "verdict",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t1"
+    "zhXtLr_xYVg:t2"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney. His rotation preferences are unknown, so bench roles may change.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
+   ]
+  },
+  {
+   "text": "He is a boring player with no standout skill and no clear role. The expert does not have him in his top 200.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p22"
+   ]
+  },
+  {
+   "text": "Orlando plays 3, 4 and 4 games in our playoff weeks 19 to 21 (11 games) and has 14 back-to-backs. The schedule is unremarkable.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t4"
    ]
   }
  ],
- "durable": [],
+ "durable": [
+  {
+   "text": "He shoots free throws well, but on low volume.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p23"
+   ]
+  },
+  {
+   "text": "He gives little in steals, blocks, assists, rebounds and points.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p23",
+    "stats"
+   ]
+  }
+ ],
  "tags": [
+  {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Bench wing role. Noah Penda or Jase Richardson could break into the rotation.",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t2"
+   ],
+   "new_meaning": ""
+  },
   {
    "name": "new coach",
    "channel": "current",
-   "detail": "Sean Sweeney replaces Jamahl Mosley; roles may change",
+   "detail": "Sean Sweeney replaces Jamahl Mosley at Orlando.",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD and rank him well outside our 144 drafted players (Yahoo 238, ESPN 229), so he is a waiver-level player and not an auction target. His projected line is below the pool in most categories, and turnovers are his best category (z +1.0). Yahoo projects 75% FT%, but he has shot over 87% in both NBA seasons. Early in the season, check whether the new coach gives him a bigger role than his bench spot behind Orlando's projected starters.",
+ "note": "Yahoo ranks him 239 and ESPN 229, and both value him at 0 USD. That is far outside the 144 players drafted in our league, and the expert does not have him in his top 200. Do not draft him. His only small positives are a decent FT% on low volume and few turnovers (about 1.0 per game). Check early in the season whether new coach Sean Sweeney gives him a bigger role than his projected bench spot.",
  "rejected": []
 }

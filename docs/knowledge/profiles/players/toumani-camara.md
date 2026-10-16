@@ -4,7 +4,7 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 75 | 29.4 | 44.7 (8.7) | 71.7 (1.5) | 1.8 | 10.7 | 5.0 | 2.0 | 1.1 | 0.5 | 1.4 |
-| 2026-27 proj, Yahoo | 75 | - | 44.4 (10.1) | 72.1 (1.6) | 2.2 | 12.3 | 5.3 | 2.2 | 1.2 | 0.5 | 1.6 |
+| 2026-27 proj, Yahoo | 73 | - | 44.4 (10.1) | 72.0 (1.6) | 2.2 | 12.3 | 5.3 | 2.2 | 1.2 | 0.5 | 1.6 |
 | 2025-26 | 82 | 33.3 | 44.0 (10.9) | 70.8 (1.7) | 2.7 | 13.4 | 5.1 | 2.5 | 1.1 | 0.4 | 1.8 |
 | 2024-25 | 78 | 32.7 | 45.8 (9.2) | 72.2 (1.6) | 1.7 | 11.3 | 5.8 | 2.2 | 1.5 | 0.6 | 1.4 |
 | 2023-24 | 70 | 24.9 | 45.0 (6.3) | 75.8 (1.4) | 0.8 | 7.5 | 4.9 | 1.2 | 0.9 | 0.5 | 1.2 |
@@ -20,7 +20,7 @@
 | FG% | 44.5% | -0.6 | -0.6 | - |
 | FT% | 71.9% | -0.5 | -0.4 | - |
 | 3PM | 2.0 | +0.6 | +0.6 | - |
-| PTS | 11.5 | -0.4 | -0.5 | - |
+| PTS | 11.5 | -0.4 | -0.4 | - |
 | REB | 5.2 | +0.0 | +0.0 | - |
 | AST | 2.1 | -0.6 | -0.4 | - |
 | STL | 1.2 | +0.7 | +0.8 | - |
@@ -30,27 +30,25 @@
 </details>
 
 **Current**
-- Portland has many high-usage guards: Lillard, Morant, Holiday and Henderson, plus Avdija. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
-- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- His usage will probably drop this season because of the crowded guard group. (verdict, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [09-19](https://youtu.be/uarqbNA2dFk?t=1174))
-- He shot poorly for most of last season and only shot well in the last six weeks. His steals were also down last season. (fact, 2026-09-19; [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [09-19](https://youtu.be/uarqbNA2dFk?t=1174))
-- With Portland's usage, experts see him mainly as a steals contributor. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225))
-- Experts put him in tier seven at small forward and call a rank of 101 too high. (verdict, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
-- Portland likely needs him for about 34 minutes a night, and his minutes should stay solid. (verdict, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
-- Portland's projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477))
-- Portland is short on forwards. Basically only Avdija and Camara play forward on the roster. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
-- He needs to lock in at 30 or more minutes to hold fantasy value. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
-- Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- He is a projected starter next to Scoot Henderson, Damian Lillard, Deni Avdija and Donovan Clingan. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294))
+- Portland has a first-time head coach who may mix up the lineup. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- His minutes look safe. The team likely needs him for about 34 minutes a night, and the rotation is thin at forward after the eighth man. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1058), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485), [10-15](https://youtu.be/8paKnhgNbLg?t=1282))
+- Portland has several on-ball guards in Lillard, Ja Morant, Henderson and Jrue Holiday. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- His usage is expected to shrink further with Henderson, Lillard and Morant around. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1058), [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
+- Experts say he should not be drafted in 12-team leagues, and a rank near 101 is too high for him. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1058), [09-19](https://youtu.be/uarqbNA2dFk?t=1174))
+- Portland plays 10 games in the fantasy playoff weeks for a season ending March 28, which the expert calls weak. Three of the playoff games are back-to-backs. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
 
 **Durable**
-- He is Portland's only real point-of-attack defender. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
-- His shooting runs in peaks and valleys. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558))
+- His fantasy value rests mostly on steals and threes. He gives little in the other categories. (verdict, 2026-10-16; stats, [09-19](https://youtu.be/uarqbNA2dFk?t=1174), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225))
+- He has missed very few games over the last two seasons. (fact, 2026-10-16; stats)
+- He is an elite defender and the only real point-of-attack defender on Portland's roster. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1008), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1485))
+- His shooting runs in hot and cold stretches. He shot poorly for most of last season and only improved in the last six weeks. (fact, 2026-09-14; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2225), [09-10](https://youtu.be/dlo7L8Ru91A?t=1726))
 - He has weak ball handling and is seen as a poor finisher. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1558), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 
 **Tags**
-- Current: `role down` (usage likely drops with Lillard, Morant, Holiday and Henderson; minutes should stay solid), `usage competition` (crowded high-usage guard group plus Avdija), `unsettled rotation` (Portland's minutes and usage expected to swing game to game), `new coach` (Portland)
-- Durable: `streaky` (shooting runs in peaks and valleys), `plays every game` (70, 78 and 82 games in the last three seasons), `fits every build` (no category flagged weak; value is mostly 3PM and STL)
+- Current: `usage competition` (Lillard, Morant, Henderson and Holiday take the on-ball work), `role down` (Usage expected to drop; minutes stay solid), `new coach` (First-time head coach may mix up the lineup), `thin rotation` (Thin after the eighth man, especially at forward), `bad playoff schedule` (10 games in weeks 19 to 21, three back-to-backs)
+- Durable: `elite defender` (Only real point-of-attack defender on Portland), `streaky` (Shooting runs in peaks and valleys), `plays every game` (78 and 82 games in the last two seasons)
 
-**Note.** Camara is a late-round filler. Yahoo values him at 3 USD with an average cost of 1.0 USD (rank 109), ESPN at 0 USD (rank 131), and he went for 4 USD in our league last season. Experts call a rank of 101 too high. His projected line is mostly about 2.0 threes and 1.2 steals, and his 44.5 FG% and 72 FT% cost a little. He hurts no category badly, so he can sit on any build as a 1 to 2 USD pick or a waiver option. Early in the season, check that he starts and plays 30 or more minutes next to Portland's crowded guard group, and whether his late-season shooting holds.
+**Note.** Camara sits on the edge of our 144-player pool (Yahoo rank 109, ESPN rank 131) and costs almost nothing: 3 USD Yahoo value, 0 USD ESPN, 4 USD in our league last season. The newest expert call is to skip him in 12-team drafts, because Portland's guards take most of the usage and he offers mainly steals and about 2 threes a game, with below-average FG%, FT% and assists. His starting job and roughly 30 to 34 minutes look safe, so leave him for a last-dollar pick or for waivers. Early in the season, check whether his shooting holds and his steals climb back toward 1.5, and keep in mind Portland's weak 10-game playoff schedule.
 
-<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

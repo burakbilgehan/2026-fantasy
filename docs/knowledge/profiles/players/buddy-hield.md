@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 304 | 0 | 0.0 | 271 | not drafted |
+| 2026-27 | 0 | - | 305 | 0 | 0.0 | 271 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,30 +21,31 @@
 | FT% | 84.2% | +0.1 | -0.1 | - |
 | 3PM | 1.5 | -0.0 | -0.3 | - |
 | PTS | 7.0 | -1.2 | -1.3 | - |
-| REB | 1.9 | -1.3 | -1.4 | - |
+| REB | 1.9 | -1.3 | -1.5 | - |
 | AST | 1.1 | -1.1 | -1.3 | - |
 | STL | 0.6 | -1.0 | -1.1 | - |
 | BLK | 0.2 | -0.8 | -0.8 | - |
-| TO | 0.8 | +1.1 | +1.2 | - |
+| TO | 0.8 | +1.2 | +1.2 | - |
 
 </details>
 
 **Current**
-- He is a bench guard in Chicago. The bench order is Tre Jones as sixth man, then Isaac Okoro, Jalen Smith and Buddy Hield. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383), [09-27](https://youtu.be/CRLSsoGhb2w?t=141), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
-- Do not draft him. Even if he starts, he is not an automatic add. He is only a three-point streamer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
-- He was traded from Charlotte to Chicago. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
-- His contract is guaranteed, mostly as matching salary. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=973))
+- He is a bench guard in Chicago. Tre Jones is the sixth man, and Isaac Okoro and Jalen Smith come ahead of Hield in the bench order. (fact, 2026-09-28; [09-27](https://youtu.be/CRLSsoGhb2w?t=141), [09-27](https://youtu.be/CRLSsoGhb2w?t=159), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
+- Not worth drafting. Even if he starts, he is not an automatic add. He is only a three-point streamer. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=141))
+- Chicago is expected to be a bad team this season. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=98), [07-02](https://youtu.be/P6TNP-g0wzY?t=1764))
+- He was traded from Charlotte to Chicago. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=141), [09-27](https://youtu.be/CRLSsoGhb2w?t=159))
+- His contract is guaranteed. It was used mostly as matching salary. (fact, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=973))
 - A buyout is possible. (verdict, 2026-08-25; [08-25](https://youtu.be/H9q2FT3LhNw?t=973))
 
 **Durable**
-- He is no longer an elite three-point shooter, and he adds little in the other categories. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
+- He is no longer an elite three-point shooter, and he gives little outside of threes. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1723), [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
 - He is 33. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=138))
-- His three-point attempt rate stays steady (67 and 65), but his three-point percentage fell from 39 to 37 to 35. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1420))
+- His three-point attempt rate stays steady (67 and 65 percent of his shots). His three-point percentage fell from 39 to 37 to 35 over three seasons. (fact, 2026-08-09; [08-09](https://youtu.be/8d--aL_xxwE?t=1420))
 
 **Tags**
-- Current: `new team` (Traded from Charlotte to Chicago)
-- Durable: `age decline watch` (Age 33, three-point percentage down three seasons in a row)
+- Current: `new team` (Traded from Charlotte to Chicago), `waiver watch` (Three-point streamer only, not an automatic add even if he starts), `cut candidate` (Guaranteed contract used as matching salary; buyout possible), `bottom team` (Chicago projected to be bad)
+- Durable: `age decline watch` (33, three-point percentage down three seasons in a row)
 
-**Note.** He is not draftable in our league. Yahoo and ESPN both value him at 0 USD and rank him 304 and 271, far outside the 144 players we draft. Projections of 1.2 to 1.8 threes and 5 to 9 points per game make him a short-term three-point streamer at most. Early in the season, check whether he gets real minutes behind Tre Jones and whether a buyout happens.
+**Note.** Hield is not a draft target in our 12-team, 144-player auction. Yahoo ranks him 305 and ESPN 271, both value him at 0 USD, and he was not drafted in our league last season. Projections put him near 1.5 threes and about 7 points in a bench role, with no category above the pool except a low turnover count. Leave him on waivers. Check early in the season whether a Chicago guard injury or a buyout gives him minutes, and only then use him as a short-term three-point streamer.
 
-<sub>5 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

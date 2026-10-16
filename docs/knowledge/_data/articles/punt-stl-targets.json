@@ -17,12 +17,12 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:44:57+00:00",
+ "built_at": "2026-10-16T12:43:14+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.136088,
-  "duration_ms": 42882,
+  "cost_usd_list": 0.126996,
+  "duration_ms": 42026,
   "turns": 2,
   "denied": 0
  },
@@ -30,101 +30,106 @@
   "aaron-gordon",
   "brook-lopez",
   "isaiah-stewart",
-  "ivica-zubac",
   "khaman-maluach",
-  "maxime-raynaud",
   "nikola-vucevic",
   "ryan-kalkbrenner",
   "yves-missi"
  ],
- "summary": "Steals are one of the most variable categories in fantasy, so they make a sensible punt and a risky thing to pay for at our 18 October auction. For punt ST, the best target is Ivica Zubac at 10 to 14 USD. Add 1 to 2 USD blocks flyers like Yves Missi and Khaman Maluach late, and keep a waiver list of bigs. The bigs on this list bring FG%, rebounds and blocks. They do not bring points or assists, which the notes call the stable categories, so buy those elsewhere.",
+ "summary": "Steals vary more than almost any other category, both from game to game and from season to season. That makes them a sensible punt and a bad place to spend auction money. In our league, spend the 200 USD on stable categories like points and assists. Fill the last roster spots with 1 to 2 USD centers who add blocks, rebounds and FG% but almost no steals, led by Khaman Maluach and Yves Missi.",
  "sections": [
   {
-   "heading": "Why steals are a good punt",
+   "heading": "Why steals are a sensible punt",
    "paragraphs": [
     {
-     "text": "Steals change a lot from game to game and from season to season. One expert rates them down in his rankings because they are high in variance and low in volume. He says not to rely on them.",
+     "text": "Steals swing a lot from game to game and from season to season. Even elite steals players can drop to 0.7 or 0.8 per game in a down year. One expert names steals and FT% as the two categories that change most from year to year.",
      "sources": [
       "_O9pc_u5vH0:r3",
-      "ME-r173X5b0:r11"
-     ]
-    },
-    {
-     "text": "Even elite steals players can fall to 0.7 or 0.8 steals per game in a season. Steals and FT% are the two categories that change most from year to year.",
-     "sources": [
       "DubdKKhMWHo:r3",
       "gerS7ibpaJo:r9"
      ]
     },
     {
-     "text": "High-variance categories are the better ones to punt. You will still win some of them by surprise in a weekly matchup. Stable, high-volume categories like points and assists are bad to punt. Steals also do not tie closely to either a guard build or a big man build. So you can drop them without breaking either build.",
+     "text": "High-variance categories are the better ones to punt. Even with no steals specialists, you will still win the category some weeks by luck. That softens the cost of punting it in a 9-category head-to-head matchup.",
      "sources": [
-      "ME-r173X5b0:r18",
+      "ME-r173X5b0:r18"
+     ]
+    },
+    {
+     "text": "Steals do not tie strongly to either the guard build or the big man build. So punting steals fits with either one. You do not have to commit to a style before the draft.",
+     "sources": [
       "0geFVzSqOnA:r5"
      ]
     }
    ]
   },
   {
-   "heading": "Do not pay for steals at the auction",
+   "heading": "Why paying for steals is risky",
    "paragraphs": [
     {
-     "text": "Players whose value depends on steals carry extra risk. At our auction, do not pay extra for a player whose rank rests mainly on steals. If one season of steals goes away, much of what you paid for goes with it.",
+     "text": "Steals are low volume and very variable. One expert ranks them lower for that reason and says not to rely on them. A player whose value depends on steals carries extra risk. If most of a player's value comes from steals, do not pay full price for him in our 18 October auction.",
      "sources": [
-      "_O9pc_u5vH0:r3",
-      "DubdKKhMWHo:r3"
+      "ME-r173X5b0:r11",
+      "_O9pc_u5vH0:r3"
      ]
     },
     {
-     "text": "Steals are among the most common categories on the waiver wire. They also cause oddities in standard 9-cat rankings. Before the draft, look at the Yahoo and ESPN ranks of your targets. Mark down anyone ranked high mainly because of steals.",
+     "text": "Steals also cause oddities in standard 9-cat rankings. Before you bid, look at what a player's ranking rests on. If steals are holding up his ranking, value him lower than his Yahoo rank suggests.",
      "sources": [
       "0geFVzSqOnA:r13"
      ]
     },
     {
-     "text": "Steals are easy to find on waivers. So you can change your mind in-season without wasting draft money. If a matchup is close in steals, you can add a steals player with FAB. Our limit is 6 acquisitions per week, so keep a few moves free for that.",
+     "text": "The notes do not disagree about steals being variable. They point to two uses for that fact. One view is to punt steals outright, because they are high-variance. The other is that steals are among the most common categories on the waiver wire. So a manager who changes his mind in season can add steals with FAB, within the 6 adds per week, instead of buying them on draft day. Either way, the auction is the wrong place to pay for them.",
      "sources": [
-      "0geFVzSqOnA:r13",
-      "ME-r173X5b0:r18"
+      "ME-r173X5b0:r18",
+      "0geFVzSqOnA:r13"
      ]
     }
    ]
   },
   {
-   "heading": "Core target: Ivica Zubac",
+   "heading": "Protect the stable categories",
    "paragraphs": [
     {
-     "text": "Zubac is the only real draft-day target in this pool. He gives elite FG% and rebounds with few steals and no threes. He takes only about 2.8 free throws per game, so his FT% does little damage. Our league paid 20 USD for him last season. The profile note says experts cap him at about 14 USD. Aim for 10 to 14 USD and let someone else go to 20 USD.",
+     "text": "Points and assists are stable, high-volume categories, and they are bad to punt. In a punt ST build, spend the main share of the 200 USD on players who produce points and assists. Don't spend it on steals.",
      "sources": [
-      "player:ivica-zubac"
+      "ME-r173X5b0:r18"
      ]
     },
     {
-     "text": "Check two things early. First, whether Carlisle plays Zubac more than 30 minutes, and how the minutes split with Huff. Second, Indiana plays only 3, 4 and 3 games in our playoff weeks 19 to 21. That makes him a trade chip before the 2027-03-04 deadline if your playoff schedule matters more.",
+     "text": "All the punt ST fits in our data are centers or bigs priced at 0 to 2 USD. They do not supply the points and assists. What they add is rebounds, blocks, FG% and, in a few cases, some threes. Buy them at the end of the auction to round out the build after the main spending is done.",
      "sources": [
-      "player:ivica-zubac"
+      "player:khaman-maluach",
+      "player:yves-missi",
+      "player:nikola-vucevic",
+      "player:aaron-gordon"
      ]
     }
    ]
   },
   {
-   "heading": "Late flyers at 1 to 2 USD",
+   "heading": "End-of-auction bigs who fit",
    "paragraphs": [
     {
-     "text": "Yves Missi and Khaman Maluach are last-round blocks flyers that fit punt ST. Missi projects about 1.8 blocks with good FG%. Check that he starts over Derik Queen at 25 or more minutes. Also check his FT%: Yahoo projects 69.4%, but he shot 55.9% last season. Maluach needs to win the center job over Ighodaro and reach the mid 20s in minutes. If he does not, cut him.",
+     "text": "Khaman Maluach is the best late target. His blocks are a real outlier, and he adds rebounds and FG% with about 0.4 steals projected. Phoenix's 4-4-4 playoff schedule adds late value. Pay 1 to 2 USD near the 144-player cutoff.",
      "sources": [
-      "player:yves-missi",
       "player:khaman-maluach"
      ]
     },
     {
-     "text": "Nikola Vučević went for 17 USD in our league last season. Now he is a bench center behind Wendell Carter Jr. Pay 1 to 2 USD at most, and only as a late flyer or a handcuff for Carter. Watch his minutes under Sean Sweeney, Goga Bitadze's role and Carter's health.",
+     "text": "Yves Missi is a 1 to 2 USD center for blocks and FG%. Yahoo projects 61.6% FG and ESPN 54.5%. He fits teams punting steals or threes.",
+     "sources": [
+      "player:yves-missi"
+     ]
+    },
+    {
+     "text": "Nikola Vučević gets very few steals for a center. He fits a punt ST build that wants rebounds and some threes from the center spot. He is now Wendell Carter Jr.'s backup, so treat him as a 1 USD flyer and Carter handcuff, not a starter. His 8.6 to 13.8 point range depends on whether he gets about 25 minutes.",
      "sources": [
       "player:nikola-vucevic"
      ]
     },
     {
-     "text": "Aaron Gordon fits punt ST as a forward with decent FG% and some threes and assists. But he played only 36 and 51 games in the last two seasons, and experts see no upside. Let others draft him. If he goes undrafted, he is a streamer, since Denver has few back-to-backs.",
+     "text": "Aaron Gordon fits punt ST with about 52% FG projected and few turnovers. He played only 36 games last season and has had repeated hamstring and calf problems. Pay 1 USD at most or leave him for waivers.",
      "sources": [
       "player:aaron-gordon"
      ]
@@ -132,33 +137,22 @@
    ]
   },
   {
-   "heading": "Waiver watch list",
+   "heading": "Waiver watch and early checks",
    "paragraphs": [
     {
-     "text": "Four punt ST bigs rank outside our 144-player draft pool. Leave them for waivers and track their roles. Brook Lopez brings blocks and threes if he ever gets about 30 minutes. Check whether Isaiah Jackson holds the job. Isaiah Stewart is out with an ankle sprain, and his value depends on Zach Edey missing time. Memphis has a full 4-4-4 playoff schedule, so be ready to bid FAB if Stewart starts.",
+     "text": "Isaiah Stewart, Brook Lopez and Ryan Kalkbrenner fit punt ST but should not be drafted. Stewart projects about 1.6 blocks on 54% shooting with about 0.3 steals, but only matters when Edey is out. Lopez could give blocks and threes with about 0.5 steals if he ever reaches about 30 minutes. Kalkbrenner blocked 1.5 shots in 21.4 minutes last season, but experts expect him to be Charlotte's last center. Add them with FAB only if their role grows.",
      "sources": [
+      "player:isaiah-stewart",
       "player:brook-lopez",
-      "player:isaiah-stewart"
+      "player:ryan-kalkbrenner"
      ]
     },
     {
-     "text": "Maxime Raynaud has efficient FG% and low turnovers. He had starter minutes over the last two months of last season. Watch his knee, any Sabonis trade or injury news, and his three-point rate. Ryan Kalkbrenner gives blocks and FG% on low volume. He is worth a pickup only if injuries to Diabaté or the other bigs give him a regular role.",
+     "text": "In the first weeks, check minutes for the bigs you drafted. Maluach needs about 24 minutes and the starting job over Ighodaro. Missi needs to start over Derik Queen at about 25 minutes. Vučević needs to beat 15 to 20 minutes against Carter and Bitadze. Drop any of them quickly if the minutes do not come, and use the spot on a waiver pickup.",
      "sources": [
-      "player:maxime-raynaud",
-      "player:ryan-kalkbrenner"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "What this pool does not cover",
-   "paragraphs": [
-    {
-     "text": "These bigs bring FG%, rebounds and blocks. Blocks are also a high-variance category, like steals. Points and assists are the stable, high-volume categories you should not punt. Except for a few assists from Gordon, none of these players bring them. Spend most of your 200 USD on points and assists, and fill the big slots cheaply from this list.",
-     "sources": [
-      "ME-r173X5b0:r18",
-      "player:aaron-gordon",
-      "player:ivica-zubac"
+      "player:khaman-maluach",
+      "player:yves-missi",
+      "player:nikola-vucevic"
      ]
     }
    ]
@@ -166,49 +160,39 @@
  ],
  "players": [
   {
-   "slug": "ivica-zubac",
-   "tier": "Core targets",
-   "line": "Elite FG% and rebounds with few steals and little FT% damage make him the best punt ST big; aim for 10 to 14 USD and let someone else pay 20 USD."
+   "slug": "khaman-maluach",
+   "tier": "Best late value",
+   "line": "Outlier blocks plus rebounds and FG% with almost no steals, and Phoenix's 4-4-4 playoff schedule helps late in the season."
   },
   {
    "slug": "yves-missi",
-   "tier": "Late flyers",
-   "line": "About 1.8 projected blocks and good FG% for 1 to 2 USD, if he starts over Derik Queen and his FT% does not crash."
-  },
-  {
-   "slug": "khaman-maluach",
-   "tier": "Late flyers",
-   "line": "Last-round blocks and rebounds flyer who only matters if he wins the center job over Ighodaro."
+   "tier": "Best late value",
+   "line": "A cheap blocks and FG% center who fits a punt ST or punt 3PM build if he starts over Derik Queen."
   },
   {
    "slug": "nikola-vucevic",
    "tier": "Late flyers",
-   "line": "Now a bench center behind Wendell Carter Jr., so take him only at 1 to 2 USD as a flyer or Carter handcuff."
+   "line": "Gives rebounds and some threes with very few steals, but as Carter's backup he is only a 1 USD handcuff."
   },
   {
    "slug": "aaron-gordon",
-   "tier": "Avoid at price",
-   "line": "Fits punt ST with FG%, some threes and assists, but he played 36 and 51 games the last two seasons and experts see no upside."
+   "tier": "Late flyers",
+   "line": "Solid FG% and few turnovers suit punt ST, but his injury history caps his price at 1 USD."
   },
   {
    "slug": "isaiah-stewart",
    "tier": "Waiver watch",
-   "line": "Out with an ankle sprain and behind Zach Edey, but his blocks, FG% and Memphis' 4-4-4 playoff schedule make him a FAB target if he starts."
-  },
-  {
-   "slug": "maxime-raynaud",
-   "tier": "Waiver watch",
-   "line": "Efficient FG% and low turnovers would help punt ST if Sabonis news or his knee opens up starter minutes again."
+   "line": "A blocks and FG% source with about 0.3 steals who only matters if Edey misses time."
   },
   {
    "slug": "brook-lopez",
    "tier": "Waiver watch",
-   "line": "Blocks and threes from a center could help only if he gets about 30 minutes, so leave him undrafted."
+   "line": "Blocks and threes from a center would fit punt ST, but only if he reaches about 30 minutes."
   },
   {
    "slug": "ryan-kalkbrenner",
    "tier": "Waiver watch",
-   "line": "Low-volume blocks and FG% make him a waiver pickup only if injuries to Diabaté or other Charlotte bigs give him a regular role."
+   "line": "His blocks are real, but he is expected to be Charlotte's last center, so pick him up only if Diabaté gets hurt."
   }
  ],
  "excluded": [],

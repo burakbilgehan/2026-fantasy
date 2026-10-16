@@ -8,31 +8,21 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e31bbfd74739",
+ "input_sha": "6eefb7b2b9d8",
  "note_count": 1,
- "built_at": "2026-10-11T09:16:15+00:00",
+ "built_at": "2026-10-16T08:54:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1243542,
-  "duration_ms": 23724,
+  "cost_usd_list": 0.11174219999999999,
+  "duration_ms": 17181,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is not in the projected Warriors starting lineups. The projected starters are Curry, Podziemski, Lendeborg, Green and Horford or Porzingis.",
+   "text": "Golden State's depth is very poor and the team struggles to field a 10-man rotation.",
    "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t3",
-    "LXZLrL90crE:t1"
-   ]
-  },
-  {
-   "text": "Golden State's depth is very poor. The team struggles to field a 10-man rotation, so minutes should go up across the rotation.",
-   "kind": "verdict",
    "date": "2026-08-22",
    "until": "",
    "sources": [
@@ -40,45 +30,23 @@
    ]
   },
   {
-   "text": "Jimmy Butler and Moses Moody are out early in the season. Butler is out for at least half the season.",
-   "kind": "fact",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:t4",
-    "NYTH7uQsPCM:t6"
-   ]
-  },
-  {
-   "text": "Steve Kerr runs unpredictable rotations and often changes his starting lineup a few games after announcing it, with lots of mixing among the wings.",
-   "kind": "fact",
-   "date": "2026-09-30",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
-   ]
-  },
-  {
-   "text": "The Warriors may treat this season as a gap year. They are worried about lottery odds and may rest veterans.",
+   "text": "The expert expects minutes to go up across the Warriors rotation because of the thin depth.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "MUbNYdjpUDM:t0",
-    "LXZLrL90crE:t0"
+    "LXZLrL90crE:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He scores by slipping screens and cutting to the basket off Curry's gravity. He does not create his own shot.",
+   "text": "He scores by slipping screens and cutting to the basket, using the attention Steph Curry draws.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-08-22",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p26",
-    "ZYllcj4o6_A:t2"
+    "LXZLrL90crE:p26"
    ]
   }
  ],
@@ -86,48 +54,24 @@
   {
    "name": "needs playmaker",
    "channel": "durable",
-   "detail": "scores off cuts and screen slips created by Curry's gravity",
+   "detail": "Scores off screens and cuts created by Curry's gravity",
    "until": "",
    "sources": [
-    "LXZLrL90crE:p26",
-    "ZYllcj4o6_A:t2"
+    "LXZLrL90crE:p26"
    ],
    "new_meaning": ""
   },
   {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "Warriors struggle to field 10 players; Butler and Moody out early",
+   "detail": "Warriors struggle to field a 10-man rotation",
    "until": "",
    "sources": [
-    "LXZLrL90crE:t4",
-    "OBwWCxG9SqM:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Kerr changes lineups often and mixes the wings",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t2",
-    "LXZLrL90crE:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "tank risk",
-   "channel": "current",
-   "detail": "possible gap year; team may rest veterans",
-   "until": "",
-   "sources": [
-    "MUbNYdjpUDM:t0",
-    "LXZLrL90crE:t0"
+    "LXZLrL90crE:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 266, ESPN 196), and nobody drafted him in our league last season. In about 15 to 16 minutes a game he gives an efficient but low-volume FG% (58% on 5 to 6 attempts) and few turnovers, and very little anywhere else, so he is not one of our 144 auction players. Early in the season, check whether the thin Warriors depth and the absences of Butler and Moody push his minutes clearly above 16. Only then is he worth a waiver look.",
+ "note": "At Yahoo rank 270 and ESPN rank 196, with a 0 USD value on both sites, he will not be one of the 144 players drafted on 2026-10-18. Do not bid on him. In about 15 minutes a game he shoots 58% on roughly 5 attempts with few turnovers, but he gives little in threes, points, assists or blocks, so he is waiver depth at most. Early in the season, check whether the Warriors' thin rotation gives him more minutes. If it does, he becomes a short-term FG% and low TO streamer.",
  "rejected": []
 }

@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 269 | 0 | 0.0 | 245 | not drafted |
+| 2026-27 | 0 | - | 272 | 0 | 0.0 | 245 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -18,7 +18,7 @@
 |---|---|---|---|---|
 | FG% | 45.3% | -0.3 | -0.3 | - |
 | FT% | 73.7% | -0.4 | -0.3 | - |
-| 3PM | 0.6 | -1.0 | -1.2 | - |
+| 3PM | 0.6 | -0.9 | -1.2 | - |
 | PTS | 8.0 | -1.0 | -1.1 | - |
 | REB | 3.7 | -0.6 | -0.7 | - |
 | AST | 1.1 | -1.1 | -1.1 | - |
@@ -29,18 +29,19 @@
 </details>
 
 **Current**
-- Holland is projected to come off the bench in Detroit. He is the second reserve, behind sixth man Isaiah Joe and ahead of Paul Reed and Daniss Jenkins. The projected starting five is unchanged from last season and does not include him. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420), [10-03](https://youtu.be/_O9pc_u5vH0?t=374))
-- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risk is expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- He is expected to play more minutes alongside Ausar Thompson this season instead of having his minutes staggered with him. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1341))
-- Detroit's power forward depth is very weak, which could open minutes at the four for him and Ausar Thompson. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019))
+- He is projected as a bench player. One preseason preview lists Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21. The team has 15 back-to-backs, and no rest risks are expected. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
+- An expert expects him to play more minutes alongside Ausar Thompson this season. (verdict, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1341))
+- Detroit used a deep 12 to 13 player rotation last season that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- Detroit's power forward depth is very weak unless Ausar Thompson and Holland play the four, which could open frontcourt minutes for him. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1019))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `deep rotation` (Detroit used a 12 to 13 player rotation last season that limited everyone's minutes. Holland is a bench piece in it.)
-- Durable: none
+- Current: `deep rotation` (Detroit used a 12 to 13 player rotation last season. He comes off the bench.), `winning team` (Projected 50 to 51 wins and a third or fourth seed in the East)
+- Durable: `defense-first` (Detroit wants only enough offense)
 
-**Note.** Both sites value Holland at 0 USD (Yahoo rank 269, ESPN rank 245) and he went undrafted in our league last season, so he falls outside our 144-player draft. His projected line is thin across the board: 8 points and 0.6 threes, with few turnovers and about 1 steal as the only small pluses. He is not a draft target. Early in the season, check whether more minutes alongside Ausar Thompson or at power forward push him clearly above last season's 19.8 minutes. That is the only path to waiver value.
+**Note.** Holland is not a draft target for us. Yahoo ranks him 272 and ESPN ranks him 245, both value him at 0 USD, and our league drafts only 144 players. He projects as a bench forward at about 19 to 20 minutes with no category strong enough to carry a roster spot. The two sites also disagree on his FT% (68 vs 80) and blocks (0.8 vs 0.3). Early in the season, check whether Detroit plays him at the four next to Ausar Thompson and whether his minutes rise clearly above 20. If they do, he is a waiver pickup for steals and low turnovers.
 
-<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

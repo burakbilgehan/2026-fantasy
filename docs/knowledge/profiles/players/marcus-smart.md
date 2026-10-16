@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 220 | 0 | 0.0 | 248 | not drafted |
+| 2026-27 | 0 | - | 224 | 0 | 0.0 | 248 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,32 +25,32 @@
 | AST | 2.9 | -0.2 | -0.5 | - |
 | STL | 0.9 | -0.0 | -0.3 | - |
 | BLK | 0.2 | -0.8 | -0.6 | - |
-| TO | 1.3 | +0.4 | +0.6 | - |
+| TO | 1.3 | +0.5 | +0.6 | - |
 
 </details>
 
 **Current**
-- He is a bench player. The projected Houston starters are VanVleet, Thompson, Durant, Smith and Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- Smart may lead the Houston bench in minutes. Ime Udoka coached him in Boston and values defense. Smart and Thompson could take most of the point guard minutes ahead of Reed Sheppard. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276), [09-17](https://youtu.be/DubdKKhMWHo?t=1968))
-- He could be a streamer or a stash when VanVleet sits. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276))
-- Udoka plays his starters very heavy minutes, so bench roles like Smart's are capped. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
-- With our March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Experts expect Smart, together with Thompson and VanVleet, to take most of the point guard minutes ahead of Reed Sheppard. (verdict, 2026-10-13; [10-13](https://youtu.be/DzQXaC2rsac?t=1502), [09-17](https://youtu.be/DubdKKhMWHo?t=1968), [09-10](https://youtu.be/W-R1dzem32s?t=1955))
+- A note from 2026-10-12 says Smart has also started and outplayed Reed Sheppard. (fact, 2026-10-12; [10-12](https://youtu.be/ENizLoE6pzI?t=1677))
+- He is not in the projected starting five of VanVleet, Thompson, Durant, Smith and Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
+- Smart may lead the Houston bench in minutes. Ime Udoka coached him in Boston and values defense. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276))
+- He could become a streamer or an add when VanVleet sits. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1276))
+- With our March 28 end date, Houston plays a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- Smart joined the Rockets this offseason. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-10](https://youtu.be/W-R1dzem32s?t=1955))
-- The Houston guard rotation is crowded. Smart competes with Fred VanVleet, Amen Thompson, Reed Sheppard and Bogdan Bogdanovic for guard minutes. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- Houston is predicted to win 54 games and to play a conservative regular season without chasing seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- Smart joined the Rockets this offseason. Houston's guard rotation is crowded with Fred VanVleet, Amen Thompson, Reed Sheppard and Bogdan Bogdanovic. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
+- Houston is predicted to win 54 games. The team is expected to play it safe in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 
 **Durable**
-- One expert calls him an assists and steals specialist who will not score much. The projections agree on the low scoring but show only about average assists and steals for the pool. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1330), stats)
-- He is not a traditional point guard, but he can bring the ball up and run the offense. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254))
-- He takes good care of the ball and is still a really good defender. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254))
-- His shooting is questionable. He is willing to shoot, but the shots often do not go in. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=324), stats)
-- He gets hurt often. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1463), stats)
+- Smart gives his value in assists and steals and does not score much. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1330), stats)
+- He is not a traditional point guard, but he can bring the ball up and run the offense. He takes good care of the ball. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254), stats)
+- He is still a very good defender. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=254))
+- His shooting is a weak point. He is willing to shoot, but his FG% is low for a guard. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=324), stats)
+- He gets hurt often. (fact, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1463), stats)
 
 **Tags**
-- Current: `new team` (Joined Houston this offseason), `minutes competition` (Crowded guard group with VanVleet, Thompson, Sheppard and Bogdanovic), `waiver watch` (Streamer or stash when VanVleet sits), `winning team` (Predicted 54 wins), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (Only 14 back-to-backs)
-- Durable: `injury prone` (Expert says he is hurt all the time. He played 20 and 34 games in 2023-24 and 2024-25.), `heavy starter minutes` (Udoka plays starters heavy minutes, which caps Smart's bench role), `defense-first` (Udoka values defense, which helps Smart earn minutes)
+- Current: `new team` (Joined Houston this offseason), `minutes competition` (Crowded guard group with VanVleet, Thompson, Sheppard and Bogdanovic), `waiver watch` (Possible stream or add when VanVleet sits), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Predicted 54 wins)
+- Durable: `elite defender` (Very good defender and a fit for Udoka's defense-first approach), `injury prone` (Described as hurt all the time)
 
-**Note.** Smart is not a draft target for us. Yahoo ranks him 220 and ESPN 248, both value him at 0 USD, and our league drafts only 144 players. His line is low points and a weak FG% (about 39.6% on 7 to 8 shots) with only modest assists and steals, and Houston's 10-game playoff schedule hurts him further. Early in the season, check whether he leads the Houston bench in minutes, and watch for him on waivers as a streamer when VanVleet sits.
+**Note.** Smart is ranked 224 on Yahoo and 248 on ESPN, and both sites value him at 0 USD. That puts him well outside the 144 players drafted in our league, so do not draft him. His projected line has a weak FG% (39.6%), only 8.5 points and few rebounds, which leaves him a bench minutes player with steals, some threes and low turnovers. Early in the season, watch how many bench minutes Udoka gives him and pick him up on waivers when VanVleet misses games. His team's 10-game playoff schedule makes him less useful late in the season.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

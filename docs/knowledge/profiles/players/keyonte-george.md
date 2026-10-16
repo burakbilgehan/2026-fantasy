@@ -4,49 +4,53 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 68 | 33.2 | 44.3 (15.9) | 88.0 (6.4) | 2.5 | 22.3 | 3.7 | 6.1 | 1.0 | 0.2 | 3.1 |
-| 2026-27 proj, Yahoo | 67 | - | 44.8 (12.2) | 86.2 (5.6) | 2.0 | 17.7 | 3.8 | 6.1 | 1.1 | 0.2 | 3.1 |
+| 2026-27 proj, Yahoo | 67 | - | 47.5 (13.9) | 86.6 (5.8) | 2.1 | 20.3 | 4.0 | 6.3 | 1.1 | 0.2 | 2.8 |
 | 2025-26 | 54 | 33.1 | 45.6 (16.3) | 89.2 (7.0) | 2.5 | 23.6 | 3.7 | 6.1 | 1.1 | 0.3 | 3.1 |
 | 2024-25 | 67 | 31.4 | 39.1 (13.7) | 81.8 (4.3) | 2.6 | 16.8 | 3.8 | 5.6 | 0.7 | 0.1 | 2.7 |
 | 2023-24 | 75 | 27.0 | 39.1 (10.9) | 84.8 (3.0) | 2.0 | 13.0 | 2.8 | 4.4 | 0.5 | 0.1 | 2.5 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 23 | 14.7 | 46 | 3 | 7.0 | 88 | 2 |
+| 2026-27 | 23 | 12.3 | 46 | 3 | 7.3 | 88 | 2 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 44.5% | -0.9 | -0.7 | - |
-| FT% | 87.2% | +1.9 | +1.9 | - |
-| 3PM | 2.2 | +0.8 | +0.5 | - |
-| PTS | 20.0 | +1.0 | +0.9 | - |
-| REB | 3.8 | -0.6 | -0.0 | - |
-| AST | 6.1 | +1.5 | +1.1 | - |
+| FG% | 45.8% | -0.6 | -0.2 | - |
+| FT% | 87.4% | +1.9 | +2.0 | - |
+| 3PM | 2.3 | +0.9 | +0.6 | - |
+| PTS | 21.3 | +1.2 | +1.1 | - |
+| REB | 3.8 | -0.5 | -0.0 | - |
+| AST | 6.2 | +1.6 | +1.2 | - |
 | STL | 1.0 | +0.3 | +0.0 | - |
-| BLK | 0.2 | -0.9 | -0.8 | - |
-| TO | 3.1 | -1.9 | -1.7 | league outlier, weak, weak for his position (punt fit) |
+| BLK | 0.2 | -0.8 | -0.8 | - |
+| TO | 3.0 | -1.8 | -1.5 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Experts think the market has dropped him too far. Lloyd finds his ESPN rank of 89 strange and doubts last season was a fluke. Another expert says a Fantrax ADP of 58 overdoes the usage drop. One speaker worries a bit about him in year four. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1827), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1734), [09-21](https://youtu.be/egRrai3Ax38?t=1611), [09-07](https://youtu.be/gJUBAJaHzlU?t=748))
-- Utah is trying to win this season and is not expected to tank or shut players down. It is projected for about 43 wins and a playoff spot, with a top 10 offense and a weak defense. (verdict, 2026-10-06; [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [07-14](https://youtu.be/xHRF06_E9HE?t=872), [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [08-05](https://youtu.be/CI4k8ofUXXk?t=951), [10-06](https://youtu.be/eTsjuVu1trk?t=529))
-- In an auction mock he went for 20 USD, which Josh calls a reasonable price and about what he thought George is worth. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=3579))
-- He signed a new contract and is set as Utah's starting point guard. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1611), [08-05](https://youtu.be/CI4k8ofUXXk?t=349))
-- Experts expect his usage to step back and do not expect him to repeat last season's 23.6 points per game. One expects him to lose about one assist per game. He is still expected to be good and is a tier 5 point guard. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1734), [09-09](https://youtu.be/7BllEsdNLoM?t=1613), [06-25](https://youtu.be/lOshTzDA4SA?t=1419), [08-05](https://youtu.be/CI4k8ofUXXk?t=982), [08-05](https://youtu.be/CI4k8ofUXXk?t=831))
-- Utah has Lauri Markkanen and Jaren Jackson Jr. for a full season and drafted Darryn Peterson. All of them take a lot of usage. (fact, 2026-09-09; [06-25](https://youtu.be/lOshTzDA4SA?t=1419), [09-09](https://youtu.be/7BllEsdNLoM?t=1613), [09-09](https://youtu.be/7BllEsdNLoM?t=1609), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [06-23](https://youtu.be/-rgXhs5BHiw?t=122))
+- In category mock drafts, experts took him in round 5, around picks 48 to 58. In an auction mock he went for 20 USD, which Josh called reasonable. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=860), [10-12](https://youtu.be/w66x_I_MaQ8?t=824), [10-12](https://youtu.be/ENizLoE6pzI?t=1028), [10-05](https://youtu.be/Q6YlQDvD-aY?t=3579))
+- Experts expect him to start at point guard. Josh says he has looked really good in the preseason. (verdict, 2026-10-12; [09-21](https://youtu.be/egRrai3Ax38?t=1611), [10-12](https://youtu.be/w66x_I_MaQ8?t=1641), [10-12](https://youtu.be/w66x_I_MaQ8?t=1633))
+- Josh expects Utah's minutes and usage to be all over the place early in the season. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1633))
+- In an ESPN points league mock, one speaker said pick 108 was too early for him. That call is for a points format, not ours. (verdict, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1634))
+- Experts think the market undervalues him. Lloyd finds his ESPN category rank of 89 strange and doubts last season was a fluke. Another expert says a Fantrax ADP of 58 overdoes his expected usage drop. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1827), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1734))
+- Utah is expected to try to win this season. Leaf projects 43 wins and a 7th or 8th seed, with a top 10 offense. Experts say tanking and shutdown fears are misplaced. (verdict, 2026-10-06; [08-05](https://youtu.be/CI4k8ofUXXk?t=141), [08-05](https://youtu.be/CI4k8ofUXXk?t=951), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1176), [08-19](https://youtu.be/J1Eg3uaAICU?t=1677), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1226), [09-10](https://youtu.be/dlo7L8Ru91A?t=973), [10-06](https://youtu.be/eTsjuVu1trk?t=529), [08-26](https://youtu.be/sTtFUy7IoJI?t=1803))
+- He signed a new contract with Utah. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1611))
+- His usage is expected to drop with Markkanen, Jackson and Peterson sharing the ball. He may lose about one assist per game, and Leaf does not expect him to repeat 23.6 points per game. Experts still expect him to be good. (verdict, 2026-09-17; [06-25](https://youtu.be/lOshTzDA4SA?t=1419), [06-25](https://youtu.be/lOshTzDA4SA?t=541), [09-09](https://youtu.be/7BllEsdNLoM?t=1613), [09-09](https://youtu.be/7BllEsdNLoM?t=1609), [08-05](https://youtu.be/CI4k8ofUXXk?t=982), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1734), [09-07](https://youtu.be/gJUBAJaHzlU?t=748))
+- Utah has Lauri Markkanen and Jaren Jackson Jr. for a full season and added rookie Darryn Peterson. The projected starting lineup is George, Peterson, Markkanen, Jackson and Jusuf Nurkic. (fact, 2026-09-09; [06-25](https://youtu.be/lOshTzDA4SA?t=1419), [09-09](https://youtu.be/7BllEsdNLoM?t=1613), [08-05](https://youtu.be/CI4k8ofUXXk?t=349), [08-05](https://youtu.be/CI4k8ofUXXk?t=196))
+- Leaf says that as his volume drops, he needs to learn to play and shoot off the ball or become a big distributor. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=831))
 
 **Durable**
-- Turnovers are his weak category. At about 3.1 per game, he is a league outlier on the weak side. (fact, 2026-10-11; stats)
-- He broke out last season. His finishing at the rim went from 54 to 65 percent. (fact, 2026-08-05; [07-16](https://youtu.be/-y6p5PYLf00?t=1106), [08-05](https://youtu.be/CI4k8ofUXXk?t=872))
+- Turnovers are his weak category. He commits many for a guard. (fact, 2026-10-16; stats)
+- His strengths are FT% on good volume, assists and points. (fact, 2026-10-16; stats)
 - He is not a good defender. (verdict, 2026-08-05; [08-05](https://youtu.be/CI4k8ofUXXk?t=928))
-- Given how he is trending, he may be able to keep the better rim finishing. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1106))
+- His rim finishing rose from 54 to 65 percent. One expert thinks he can keep that level. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1106))
 
 **Tags**
-- Current: `usage competition` (Markkanen, Jaren Jackson Jr. and rookie Darryn Peterson), `role down` (less usage and fewer points than last season's 23.6), `sleeper` (ESPN rank 88 to 89, ESPN ADP 100 to 113), `expert target` (against ESPN rank and ADP), `sites disagree on price` (Yahoo value 23 USD and rank 46, ESPN value 3 USD and rank 88), `winning team` (about 43 wins, 7th or 8th seed projected), `low shutdown risk` (Jazz not tanking this season)
-- Durable: `high TO` (about 3.1 turnovers per game), `punt TO fit`
+- Current: `role down` (usage and about one assist per game expected to drop), `usage competition` (Markkanen, Jaren Jackson Jr. and rookie Darryn Peterson), `expert target` (taken in round 5 in category mocks; ESPN rank 89), `sleeper` (ESPN ADP around 100 to 113), `sites disagree on price` (Yahoo value 23 USD, rank 46; ESPN value 3 USD, rank 88), `winning team` (Leaf projects 43 wins, 7th or 8th seed), `low shutdown risk` (Jazz not tanking this season), `unsettled rotation` (minutes and usage expected to be all over the place early)
+- Durable: `high TO` (about 3 turnovers per game projected), `punt TO fit`, `defensive liability` (not a good defender)
 
-**Note.** The sites disagree a lot on George. Yahoo values him at 23 USD (average cost 14.7), ESPN at 3 USD (average cost 6.6), and he went for only 2 USD in our league last season. The experts think the market has dropped him too far, and a mock auction price of 20 USD was called reasonable, so 15 to 20 USD looks like a fair range. His projections help in FT% (about 87% on 6 attempts), AST, PTS and 3PM, but he hurts in TO and a little in FG%, so he fits a punt TO build best. Early in the season, check how much of the usage and the assists he keeps next to Peterson, Markkanen and Jaren Jackson Jr.
+**Note.** The market is split on him. Yahoo values him at 23 USD but his average Yahoo cost is only 12.3 USD, and ESPN values him at 3 USD. Experts treat him as a round 5 category target worth about 20 USD, and our league paid only 2 USD for him last season. He fits punt TO builds best because his FT%, assists and points hold value. Early on, check how much usage he keeps next to Peterson, Markkanen and Jackson, and whether his FG% stays near last season's 45.6%. The projections range from 44.3% to 47.5%.
 
-<sub>13 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>18 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

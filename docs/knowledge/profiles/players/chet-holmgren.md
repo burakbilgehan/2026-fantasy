@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 29 | 30.3 | 31 | 10 | 12.3 | 52 | 32 |
+| 2026-27 | 29 | 26.4 | 31 | 10 | 12.7 | 52 | 32 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -24,34 +24,37 @@
 | REB | 9.0 | +1.6 | +1.2 | - |
 | AST | 2.0 | -0.6 | -0.4 | - |
 | STL | 0.6 | -0.9 | -0.8 | - |
-| BLK | 2.1 | +3.2 | +2.7 | league outlier, strong |
+| BLK | 2.1 | +3.2 | +2.8 | league outlier, strong |
 | TO | 1.6 | +0.0 | -0.1 | - |
 
 </details>
 
 **Current**
-- Experts call him a category league bust at a rank in the 20s. They see him as reasonable in the 40s and would not take him in the first two rounds. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2003), [10-05](https://youtu.be/BiIZsSypx7Y?t=951), [09-14](https://youtu.be/t4n9MAP2_14?t=877), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1109), [09-19](https://youtu.be/uarqbNA2dFk?t=463))
-- An expert does not expect him to get huge minutes this season. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2003))
-- He went for 27 USD in an expert auction mock draft. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1847))
-- Josh would only pay about 21 to 22 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1847))
-- Hartenstein's role looks secure next to him. (verdict, 2026-09-17; [09-17](https://youtu.be/ahNxsoU8Hx4?t=1274))
-- He had a poor playoff series against San Antonio. His coach says nobody on the team is more trusted to improve over the summer. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667))
-- Ryland expects the playoff series to motivate him. He is not yet in his prime and should keep improving. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667), [07-26](https://youtu.be/75Sk_4fkgIM?t=1641))
-- OKC's frontcourt is crowded. Hartenstein, Holmgren and Jaylin Williams form the center rotation, with Al Horford re-signed and Thomas Sorber also on the roster. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1024), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
-- An expert feels good about him keeping his block rate this season. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1904))
+- Experts agree his Yahoo price, a rank and ADP in the low to mid 20s, is too high. They see a rank in the 35 to 50 range as right and would not draft him in rounds 1 or 2. Pick 26 is called too early. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=597), [10-12](https://youtu.be/NhLMyS7Ii5I?t=453), [10-12](https://youtu.be/NhLMyS7Ii5I?t=484), [10-05](https://youtu.be/BiIZsSypx7Y?t=951), [09-19](https://youtu.be/uarqbNA2dFk?t=463), [09-14](https://youtu.be/t4n9MAP2_14?t=877), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1109), [08-19](https://youtu.be/J1Eg3uaAICU?t=697))
+- He is reported to have a hip issue. Yahoo lists him as questionable with a quadriceps issue. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1209), stats)
+- At ESPN's lower price, a rank around 51 or an ADP of 66, he is good value in category leagues. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=577), [09-19](https://youtu.be/uarqbNA2dFk?t=463))
+- His upside this season is more blocks and more three-point volume, around 18 points, 9 rebounds, 2 blocks and 1.7 threes. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=484))
+- He is a projected starter next to Isaiah Hartenstein. The open rotation questions on OKC are in the frontcourt, with Hartenstein, Jaylin Williams and Thomas Sorber also in the mix. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=220), [10-12](https://youtu.be/NhLMyS7Ii5I?t=1746), [06-28](https://youtu.be/RsjGTgJiKyI?t=446))
+- OKC lost Lu Dort, Aaron Wiggins and Isaiah Joe. The team could be one of the lowest-volume three-point teams unless core players, Chet included, shoot more threes. The team is expected to push them to do so. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=98), [10-12](https://youtu.be/NhLMyS7Ii5I?t=104), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- OKC has a league-minimum 13 back-to-backs. Its schedule is good with a March 28 end date. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- He is a category league bust at rank 23. He is reasonable in the 40s, and the expert does not expect huge minutes. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2003))
+- In an auction mock he went for 27 USD. Josh would only pay about 21 to 22 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1847))
+- He had a poor playoff series against San Antonio. His coach says nobody is more trusted to improve over the summer. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667))
+- He is not yet in his prime and should keep improving. The poor playoff series is expected to motivate him. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=1667), [07-26](https://youtu.be/75Sk_4fkgIM?t=1641))
+- OKC is projected to win about 57 to 62 games and to be a top two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
+- He should keep a block rate of about 1.9 per game. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=1904))
 
 **Durable**
-- Blocks are his league outlier category, far above the top 250 pool. (fact, 2026-10-11; stats)
-- His blocks make him look better in plain 9-cat z-score rankings than his real head-to-head worth. (verdict, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=2003), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1109))
-- Experts rate him the second-best rim protector in the NBA, with great positioning. Josh calls him an All-NBA player. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=885), [07-26](https://youtu.be/75Sk_4fkgIM?t=1445))
-- He can shoot a bit from outside and is a decent scorer. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=885))
-- He made 55% of his twos in the season he broke his hip. In the next season he went back to 65%. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1321))
-- The 55% on twos from the broken hip season is probably an outlier. (verdict, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1321))
+- Blocks are his outlier category, far above the top 250 pool. (fact, 2026-10-16; stats)
+- He is an All-NBA level real-life player, an elite defender and one of the two best rim protectors in the league, with great positioning. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=421), [09-14](https://youtu.be/t4n9MAP2_14?t=885), [07-26](https://youtu.be/75Sk_4fkgIM?t=1445))
+- His blocks make him look better in 9-cat z-score rankings than his real fantasy worth. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=421), [10-06](https://youtu.be/eTsjuVu1trk?t=2003), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1109))
+- He gives few assists and few steals, and his three-point volume is modest. He can shoot a bit and is a decent scorer. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=496), [09-14](https://youtu.be/t4n9MAP2_14?t=885))
+- He had a broken hip season. His 55% on twos that season is probably an outlier. He shoots about 65% on twos when healthy. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=1321))
 
 **Tags**
-- Current: `bust candidate` (at a rank in the 20s or about 30 USD (Yahoo); experts see fair value in the 40s, about 21 to 22 USD), `sites disagree on price` (Yahoo value 29 USD, rank 31; ESPN value 10 USD, rank 52), `questionable` (Yahoo status Q, quadriceps), `winning team` (OKC projected for about 57 to 62 wins)
-- Durable: `BLK specialist` (about 2.1 blocks per game projected), `fits every build` (no weak category flagged), `9-cat fluff` (blocks inflate his z-score rank)
+- Current: `bust candidate` (at Yahoo rank and ADP in the low to mid 20s; fair range 35 to 50), `sites disagree on price` (Yahoo value 29 USD, ESPN value 10 USD), `injured now` (hip issue reported; Yahoo lists a quadriceps issue), `questionable` (Yahoo status Q (quadriceps)), `minutes competition` (crowded OKC frontcourt with Hartenstein, Jaylin Williams and Sorber), `winning team` (OKC projected for about 57 to 62 wins), `few back-to-backs` (league-minimum 13), `good playoff schedule` (schedule rated good with a March 28 end)
+- Durable: `BLK specialist` (about 2.1 blocks per game projected), `elite defender` (one of the two best rim protectors in the NBA), `9-cat fluff` (blocks inflate his z-score rank)
 
-**Note.** Our league paid 32 USD for him last season, and Yahoo values him at 29 USD (rank 31). The experts see a rank in the 40s and about 21 to 22 USD as fair, closer to ESPN's rank 52, so let someone else pay 30 USD. He fits any build as an elite shot blocker who helps rebounds and FG% without hurting other categories. Before the draft on 2026-10-18, check his quadriceps status (Yahoo Q). Early in the season, watch his minutes in a crowded OKC frontcourt.
+**Note.** The experts agree that Yahoo prices Chet too high, at a value of 29 USD and an average cost of 26.4 USD. Our league paid 32 USD for him last season. ESPN's 10 USD value and rank 52 are closer to the 35 to 50 range the experts like, so do not pay more than about 21 to 22 USD. He fits builds that want blocks, FG% and rebounds, but he gives little in assists and steals. Check early whether the hip or quad issue costs games, whether his minutes stay near 29 next to Hartenstein, and whether OKC really gets him to take more threes.
 
-<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>26 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

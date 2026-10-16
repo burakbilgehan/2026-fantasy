@@ -8,32 +8,31 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "e455fc912e90",
- "note_count": 26,
- "built_at": "2026-10-11T09:14:23+00:00",
+ "input_sha": "98938d3bc18d",
+ "note_count": 29,
+ "built_at": "2026-10-16T08:48:07+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2076382,
-  "duration_ms": 57460,
+  "cost_usd_list": 0.2881262,
+  "duration_ms": 99181,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie and is projected to start at forward for Memphis next to Ty Jerome, Cedric Coward, Jerami Grant and Zach Edey.",
+   "text": "He is a rookie and is projected to start at forward for Memphis, with Ty Jerome, Cedric Coward, Jerami Grant and Zach Edey.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t4",
     "LcZcvk8s1xQ:t6",
-    "RyzcCGChYgs:t2",
-    "OBwWCxG9SqM:t1"
+    "RyzcCGChYgs:t2"
    ]
   },
   {
-   "text": "Experts project about 30 to 32 minutes a night. Joe sees him as one of only two Grizzlies above 30 minutes. At 33 minutes he could be an easy top 50 player.",
+   "text": "He is projected for about 30 to 32 minutes, one of only two Grizzlies above 30. One expert says 33 minutes would make him an easy top 50 player.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
@@ -44,38 +43,39 @@
    ]
   },
   {
-   "text": "Memphis traded Ja Morant to Portland, and Ty Jerome is expected to start at point guard.",
+   "text": "Ja Morant was traded to Portland. Ty Jerome starts at point guard, and Memphis is giving him a big role.",
    "kind": "fact",
-   "date": "2026-07-17",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "NYTH7uQsPCM:t9",
     "bHA-JoW3reE:p16",
-    "NYTH7uQsPCM:t9"
+    "ENizLoE6pzI:t5",
+    "6DnRWahYrFA:t5"
    ]
   },
   {
-   "text": "With Morant gone, he should take the first or second playmaking role in Memphis, and his assist rate should go up. He could lead the team in assists, but he is not expected to be a 30 usage player.",
+   "text": "With Morant gone, he should take the first or second playmaking role in Memphis, and his assist rate should go up.",
    "kind": "verdict",
-   "date": "2026-09-03",
+   "date": "2026-06-30",
    "until": "",
    "sources": [
     "4GDfg2n2l8o:p7",
-    "bHA-JoW3reE:p16",
-    "OBwWCxG9SqM:p8"
+    "bHA-JoW3reE:p16"
    ]
   },
   {
-   "text": "He averaged 17 points, 7 rebounds, 4 assists, a steal and a three in Summer League on 51% FG, 82% FT and 40% from three. He looked very good in his first preseason game.",
+   "text": "He looked very good in his first preseason game. At Summer League he averaged 17 points, 7 rebounds, 4 assists, a steal and a three on 51% FG, 82% FT and 40% from three.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p20",
-    "lp11OAEpq4Y:p0"
+    "lp11OAEpq4Y:p0",
+    "RyzcCGChYgs:p20"
    ]
   },
   {
-   "text": "Experts expect him to be the best fantasy rookie this season.",
+   "text": "Experts expect him to be the best fantasy rookie this season, with immediate impact because of how the Memphis roster is built.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -83,91 +83,130 @@
     "lp11OAEpq4Y:p0",
     "OBwWCxG9SqM:p9",
     "lOshTzDA4SA:p0",
-    "RsjGTgJiKyI:p1"
+    "RsjGTgJiKyI:p1",
+    "LcZcvk8s1xQ:p6"
    ]
   },
   {
-   "text": "He should start slowly and struggle with efficiency early, probably ranking outside the top 70 at first. He should then play at a top 25 to 35 level in February and March, including the fantasy playoffs.",
+   "text": "He is expected to start slowly, with early efficiency struggles like Cooper Flagg had, and to do more as the season goes on. The newest view has him outside the top 70 at first and top 35 in February and March. Other experts expect a top 25 to 30 level by the fantasy playoffs.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p2",
-    "OBwWCxG9SqM:p7",
-    "OdDkXFhoKsc:p34",
     "lOshTzDA4SA:p1",
     "lOshTzDA4SA:p2",
+    "OdDkXFhoKsc:p34",
+    "OBwWCxG9SqM:p7",
     "OBwWCxG9SqM:t1"
    ]
   },
   {
-   "text": "The newest call puts his fair draft range in the 60s. A Yahoo rank of 51 is a bit high but not terrible.",
+   "text": "In mock drafts he goes almost always around the start of round 5. He went 54th in one mock and for 15 USD in an auction mock.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:p14",
+    "EogBYa24Gto:p14",
+    "Q6YlQDvD-aY:p30"
+   ]
+  },
+  {
+   "text": "His fair draft range is the 50s to 60s. A pick inside the top 50, or his Yahoo rank of 51, is a bit early but not terrible.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p2",
     "lp11OAEpq4Y:p3",
-    "KPdD91Oo8-U:p13"
+    "KPdD91Oo8-U:p13",
+    "OBwWCxG9SqM:p7"
    ]
   },
   {
-   "text": "In an expert auction mock he went for 15 USD, which was exactly Josh's max bid.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "His stock is rising after a strong preseason. One expert pushed him up, another wanted him as a target at pick 54, and one expert's auction max was 15 USD.",
+   "kind": "verdict",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p30"
+    "uI6umXsE7Vk:p33",
+    "EogBYa24Gto:p14",
+    "Q6YlQDvD-aY:p30",
+    "LcZcvk8s1xQ:p7"
    ]
   },
   {
-   "text": "Coach Tuomas Iisalo plays a very high pace with short stints and an 11 or 12 man rotation, which keeps minutes down across the roster.",
+   "text": "Coach Tuomas Iisalo plays at a very high pace, uses short, hard stints and keeps minutes down. Memphis is expected to run an 11 or 12 man rotation.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t1",
-    "LcZcvk8s1xQ:t2",
     "lp11OAEpq4Y:t0",
-    "lp11OAEpq4Y:t2"
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t1",
+    "LcZcvk8s1xQ:t2"
    ]
   },
   {
-   "text": "Memphis plays 4 games in each of weeks 19, 20 and 21 for a March 28 end, and has only 13 back-to-backs, possibly the fewest in the league.",
+   "text": "Memphis has a maxed 4-4-4 schedule in our playoff weeks (season end March 28) and only 13 back-to-backs, possibly the fewest in the league.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t7"
    ]
+  },
+  {
+   "text": "Memphis is expected to be fairly bad, around low to mid 30s wins, but not to tank.",
+   "kind": "verdict",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t1",
+    "lp11OAEpq4Y:t3",
+    "LcZcvk8s1xQ:t4",
+    "OBwWCxG9SqM:t1"
+   ]
+  },
+  {
+   "text": "Memphis has an overcrowded roster and three 2027 first-round picks, which gives it room to make trades, including moving Jerami Grant.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t6",
+    "LcZcvk8s1xQ:t5",
+    "bHA-JoW3reE:t4"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He does nearly everything: scoring, rebounds, assists, steals, solid free throws, good FG% and threes. He is an efficient scorer, an excellent passer and a scalable player.",
+   "text": "He does nearly everything: points, rebounds, assists, steals, solid free throws, good FG% and threes. Experts call him an excellent passer and a scalable player.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
     "OBwWCxG9SqM:p8",
-    "TOn-D1SV7a8:p33",
     "RsjGTgJiKyI:p0",
+    "TOn-D1SV7a8:p33",
     "bHA-JoW3reE:p16"
    ]
   },
   {
-   "text": "He has limits as a rim protector and will likely lack blocks.",
+   "text": "He has limits as a rim protector and is likely to lack blocks.",
    "kind": "verdict",
    "date": "2026-09-03",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:p4",
     "OBwWCxG9SqM:p8",
+    "LcZcvk8s1xQ:p4",
     "lOshTzDA4SA:p1"
    ]
   },
   {
-   "text": "He plays more like a small forward than a center and has point forward potential.",
+   "text": "He plays more like a small forward than a center, with point forward potential.",
    "kind": "verdict",
    "date": "2026-08-17",
    "until": "",
@@ -185,25 +224,21 @@
    ]
   },
   {
-   "text": "Turnovers are his weakest category for a forward. Rebounds are his best category, well above the average forward.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "He is not expected to be a 30 usage player in the NBA.",
+   "kind": "verdict",
+   "date": "2026-09-03",
    "until": "",
    "sources": [
-    "stats"
+    "OBwWCxG9SqM:p8"
    ]
   },
   {
-   "text": "He is the number one dynasty rookie and an easy top 15 dynasty player.",
-   "kind": "verdict",
-   "date": "2026-10-07",
+   "text": "Projections make threes and turnovers his two weakest categories for a forward. Rebounds are his best category. The sites split on threes: Yahoo projects 1.3 per game, ESPN 0.3.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:p1",
-    "TOn-D1SV7a8:p33",
-    "-rgXhs5BHiw:p9",
-    "RsjGTgJiKyI:p1",
-    "HxQjagSTTAM:p0"
+    "stats"
    ]
   }
  ],
@@ -211,24 +246,25 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "No. 1 rookie in fantasy for this season",
+   "detail": "No. 3 pick, projected starter for Memphis",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p0",
-    "OBwWCxG9SqM:p9"
+    "OBwWCxG9SqM:p9",
+    "lOshTzDA4SA:p0"
    ],
    "new_meaning": ""
   },
   {
    "name": "slow start",
    "channel": "current",
-   "detail": "Outside the top 70 early, top 35 level in February and March",
+   "detail": "Outside top 70 at first, top 25 to 35 level by February, March and the playoffs",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p2",
     "lOshTzDA4SA:p2",
     "OdDkXFhoKsc:p34",
-    "OBwWCxG9SqM:p7"
+    "OBwWCxG9SqM:t1"
    ],
    "new_meaning": ""
   },
@@ -238,16 +274,27 @@
    "detail": "Ja Morant traded to Portland; Boozer takes a first or second playmaking role",
    "until": "",
    "sources": [
-    "bHA-JoW3reE:p16",
+    "4GDfg2n2l8o:t2",
     "4GDfg2n2l8o:p7",
-    "lOshTzDA4SA:t0"
+    "NYTH7uQsPCM:t9",
+    "bHA-JoW3reE:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "punt 3PM fit",
+   "channel": "durable",
+   "detail": "Projected 0.8 threes per game; ESPN 0.3, Yahoo 1.3",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "punt TO fit",
    "channel": "durable",
-   "detail": "About 2.5 TO per game projected",
+   "detail": "Projected 2.5 turnovers per game",
    "until": "",
    "sources": [
     "stats"
@@ -255,32 +302,25 @@
    "new_meaning": ""
   },
   {
-   "name": "sites disagree on price",
+   "name": "deep rotation",
    "channel": "current",
-   "detail": "Yahoo value 18 USD and rank 55, ESPN value 4 USD and rank 77",
+   "detail": "Memphis expected to run 11 or 12 players",
    "until": "",
    "sources": [
-    "stats"
+    "lp11OAEpq4Y:t2",
+    "LcZcvk8s1xQ:t2"
    ],
    "new_meaning": ""
   },
   {
-   "name": "good playoff schedule",
+   "name": "low starter minutes",
    "channel": "current",
-   "detail": "4-4-4 in weeks 19 to 21 for a March 28 end",
+   "detail": "Iisalo uses short stints and keeps minutes down; Boozer still projected near 32",
    "until": "",
    "sources": [
-    "lp11OAEpq4Y:t7"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "few back-to-backs",
-   "channel": "current",
-   "detail": "13 back-to-backs, possibly the fewest in the league",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:t7"
+    "LcZcvk8s1xQ:t1",
+    "lp11OAEpq4Y:t0",
+    "LcZcvk8s1xQ:p5"
    ],
    "new_meaning": ""
   },
@@ -295,18 +335,48 @@
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
+   "name": "good playoff schedule",
    "channel": "current",
-   "detail": "11 or 12 man rotation with short stints",
+   "detail": "Maxed 4-4-4 in weeks 19 to 21",
    "until": "",
    "sources": [
-    "LcZcvk8s1xQ:t2",
-    "lp11OAEpq4Y:t2",
-    "lp11OAEpq4Y:t0"
+    "lp11OAEpq4Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "Only 13, possibly the fewest in the league",
+   "until": "",
+   "sources": [
+    "lp11OAEpq4Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "trades likely",
+   "channel": "current",
+   "detail": "Overcrowded roster, three 2027 firsts, Jerami Grant a trade candidate",
+   "until": "",
+   "sources": [
+    "LcZcvk8s1xQ:t5",
+    "bHA-JoW3reE:t4",
+    "lp11OAEpq4Y:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 18 USD and rank 55, ESPN value 4 USD and rank 77",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "The experts' fair range is around rank 60 to 65. Yahoo's average cost of 11.7 USD and the 15 USD mock price fit that better than Yahoo's 18 USD value. ESPN's 4 USD looks too low for a player expected to play at a top 35 level in our weeks 19 to 21. He also has a full 4-4-4 playoff schedule and few back-to-backs. He fits punt TO builds, but check early how many minutes he gets in Iisalo's short-stint rotation and how many threes he takes. Yahoo projects 1.3 threes per game and ESPN only 0.3, and that gap decides whether he helps or hurts your 3PM.",
+ "note": "Boozer is the top rookie, but his value comes late. The experts see him outside the top 70 early and at a top 25 to 35 level by the playoffs, and Memphis has a maxed 4-4-4 playoff schedule. Yahoo's average cost is 10.2 USD, ESPN's is 7.3 USD, and an auction mock went 15 USD, so 10 to 15 USD fits his 50s to 60s fair range. Going higher means paying for a preseason buzz that is still rising. He fits punt TO builds and may fit punt 3PM builds. Early on, check his minutes in Iisalo's short-stint rotation, and see whether his threes look like Yahoo's 1.3 per game or ESPN's 0.3.",
  "rejected": []
 }

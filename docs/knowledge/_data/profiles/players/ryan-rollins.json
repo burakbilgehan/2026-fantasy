@@ -8,105 +8,108 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "b86bc208206d",
- "note_count": 22,
- "built_at": "2026-10-11T09:23:33+00:00",
+ "input_sha": "7e3d99f70add",
+ "note_count": 26,
+ "built_at": "2026-10-16T09:16:27+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2184422,
-  "duration_ms": 61425,
+  "cost_usd_list": 0.2905742,
+  "duration_ms": 93613,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Experts expect him to open the season as a starter next to Tyler Herro, ahead of Kevin Porter Jr. One expert sees him as at worst the second-best guard on the Bucks.",
-   "kind": "verdict",
-   "date": "2026-10-09",
+   "text": "Milwaukee traded Giannis Antetokounmpo to Miami. That removes his 33% usage from the Bucks offense.",
+   "kind": "fact",
+   "date": "2026-06-30",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p27",
+    "nnWX_ObljOE:t0",
+    "4GDfg2n2l8o:t1"
+   ]
+  },
+  {
+   "text": "Taylor Jenkins is the new Bucks head coach. Doc Rivers, who benched Rollins last season, is gone.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p35",
+    "nnWX_ObljOE:t3",
+    "sDzeYdUhJDI:t2"
+   ]
+  },
+  {
+   "text": "The Bucks backcourt is crowded. Tyler Herro, Kevin Porter Jr., Gary Trent Jr., Braden Burries, Kasparas Jakucionis and others all compete for guard minutes.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0",
+    "sTtFUy7IoJI:t8",
+    "BiIZsSypx7Y:p35",
+    "sDzeYdUhJDI:t0"
+   ]
+  },
+  {
+   "text": "Experts project him to open the season as a starter next to Tyler Herro, ahead of Kevin Porter Jr.",
+   "kind": "verdict",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
     "sDzeYdUhJDI:t3",
-    "egRrai3Ax38:p41",
-    "ahNxsoU8Hx4:p27",
-    "g31YlwRe0XQ:p27",
     "owlM6b8oUd0:t2",
+    "egRrai3Ax38:p41",
+    "g31YlwRe0XQ:p27",
+    "ahNxsoU8Hx4:p27",
     "7BllEsdNLoM:p30"
    ]
   },
   {
-   "text": "The Milwaukee backcourt is crowded. Tyler Herro, Kevin Porter Jr., Gary Trent Jr., Braden Burries, Jakucionis, Green and Brandon Boston all compete for guard minutes.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t0",
-    "ZYllcj4o6_A:t4",
-    "BiIZsSypx7Y:p35",
-    "7BllEsdNLoM:t0",
-    "sTtFUy7IoJI:t8",
-    "egRrai3Ax38:p41"
-   ]
-  },
-  {
-   "text": "Experts disagree on how safe his role is. Some worry about his minutes next to Herro, Porter and Kuzma and have low confidence in any Bucks player. Others trust new coach Taylor Jenkins to use him well and see his role as fairly set.",
+   "text": "Most experts see his role as secure, at worst as the second-best guard on the Bucks. Some still say the many guards and Jenkins' unpredictable rotations could cut his minutes.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:p21",
-    "sDzeYdUhJDI:p7",
-    "BiIZsSypx7Y:p35",
+    "DzQXaC2rsac:p10",
+    "OsbUAkSeVB4:p17",
+    "-DN4P92Wp8Y:p27",
+    "uI6umXsE7Vk:p36",
+    "uI6umXsE7Vk:t3",
+    "KqTKVExQGLo:t4",
     "W-R1dzem32s:p26",
-    "7BllEsdNLoM:p30",
-    "Rqb5GdrSweY:p23",
-    "4GDfg2n2l8o:p3"
+    "BiIZsSypx7Y:p35",
+    "WXO8MfQfzo0:p21"
    ]
   },
   {
-   "text": "He finished around 51st in fantasy last season.",
+   "text": "He is on a very cheap contract and is heading for unrestricted free agency.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p5",
+    "sDzeYdUhJDI:p8",
+    "nnWX_ObljOE:p18",
     "4GDfg2n2l8o:p3"
    ]
   },
   {
-   "text": "Experts say the ESPN rank around 105 is far too low. He is probably close to top 50 value, and drafting him in the 60s, or as high as pick 50, is fine.",
+   "text": "The Bucks may not re-sign him and could trade him. Experts think he could bring back one or two first-round picks.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p5",
-    "sDzeYdUhJDI:p6",
-    "6DnRWahYrFA:p36",
-    "ahNxsoU8Hx4:p27"
+    "sDzeYdUhJDI:p8",
+    "sDzeYdUhJDI:t5",
+    "4GDfg2n2l8o:p3",
+    "nnWX_ObljOE:p18"
    ]
   },
   {
-   "text": "He has top 40 upside, but that depends on how Milwaukee uses him.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p7"
-   ]
-  },
-  {
-   "text": "One expert calls him probably the best Bucks player to target in drafts, though team uncertainty limits his confidence.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p9",
-    "-DN4P92Wp8Y:p27"
-   ]
-  },
-  {
-   "text": "One expert expects him to score about 20 points per game under Taylor Jenkins and says he could lead the team in scoring.",
+   "text": "Justin expects him to score about 20 points per game. He could even lead the Bucks in scoring under Jenkins.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
@@ -115,76 +118,75 @@
    ]
   },
   {
-   "text": "He is 24 and on a very cheap contract. He will be an unrestricted free agent after this season.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p8",
-    "owlM6b8oUd0:p5",
-    "nnWX_ObljOE:p18"
-   ]
-  },
-  {
-   "text": "Milwaukee may not re-sign him, so experts see him as a trade candidate. A trade could bring back one or two first-round picks.",
+   "text": "He has top 40 upside, but that depends on how the Bucks use him.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p8",
-    "4GDfg2n2l8o:p3",
-    "nnWX_ObljOE:p18"
+    "sDzeYdUhJDI:p7"
    ]
   },
   {
-   "text": "Taylor Jenkins is the new Bucks coach. He is expected to push a pressure defense that forces turnovers and a faster transition game, and he may use a deep rotation.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t2",
-    "owlM6b8oUd0:t3",
-    "nnWX_ObljOE:t3"
-   ]
-  },
-  {
-   "text": "Experts expect the Bucks to be a bad team and to make more trades to fix a roster that does not fit together.",
+   "text": "Experts say an ESPN rank near 105 is far too low because he finished 51st last season. They draft him between pick 50 and the mid 60s (round 5 in mocks).",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t5",
+    "sDzeYdUhJDI:p5",
+    "sDzeYdUhJDI:p6",
+    "6DnRWahYrFA:p36",
+    "ahNxsoU8Hx4:p27",
+    "egRrai3Ax38:p41",
+    "bd8GYKFOe8A:p21",
+    "uI6umXsE7Vk:p36",
+    "DzQXaC2rsac:p10"
+   ]
+  },
+  {
+   "text": "He is probably the best Bucks player to target in drafts, though the team's uncertainty lowers confidence.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p9",
+    "bd8GYKFOe8A:p21"
+   ]
+  },
+  {
+   "text": "The Bucks are expected to be a bad team, with a win total of 26.5. They do not own their draft pick, so they have no reason to tank.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
     "owlM6b8oUd0:t4",
-    "Rqb5GdrSweY:t0",
     "sfCe7fS9daM:t8",
-    "nnWX_ObljOE:t0"
+    "Rqb5GdrSweY:t0",
+    "-DN4P92Wp8Y:t4"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable for rest.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Strong shooter, solid defender and good passer.",
+   "text": "He is a strong shooter, a solid defender and a good passer. Steals are a standout part of his game.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p4",
-    "owlM6b8oUd0:p5"
+    "4kKINkZhWls:p6"
    ]
   },
   {
-   "text": "Steals are his best category. He averages about 1.5 per game, well above the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p4",
-    "4kKINkZhWls:p6",
-    "stats"
-   ]
-  },
-  {
-   "text": "Best suited as a combo guard but good enough to be a primary point guard. His floor is a low-end NBA starter.",
+   "text": "He fits best as a combo guard but is good enough to be a primary point guard. His floor is a low-end NBA starter.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
@@ -197,7 +199,7 @@
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no weak category flagged; best in STL, AST and 3PM",
+   "detail": "No category flagged weak. Turnovers are his softest category.",
    "until": "",
    "sources": [
     "stats"
@@ -205,9 +207,80 @@
    "new_meaning": ""
   },
   {
+   "name": "minutes competition",
+   "channel": "current",
+   "detail": "Herro, Porter, Trent, Burries and Jakucionis crowd the backcourt",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p35",
+    "uI6umXsE7Vk:p36",
+    "W-R1dzem32s:p26",
+    "ZYllcj4o6_A:t4",
+    "7BllEsdNLoM:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage competition",
+   "channel": "current",
+   "detail": "Shares creation with Tyler Herro and Kevin Porter Jr.",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:t1",
+    "sDzeYdUhJDI:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Giannis and his 33% usage are gone",
+   "until": "",
+   "sources": [
+    "4GDfg2n2l8o:t1",
+    "owlM6b8oUd0:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "new coach",
+   "channel": "current",
+   "detail": "Taylor Jenkins replaces Doc Rivers",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2",
+    "nnWX_ObljOE:t3",
+    "BiIZsSypx7Y:p35"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Experts call the Bucks rotation the hardest to read",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t0",
+    "OdDkXFhoKsc:t1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins might use a deep rotation",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "contract year",
    "channel": "current",
-   "detail": "cheap deal, unrestricted free agent after the season",
+   "detail": "Cheap deal, heading for unrestricted free agency",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p8"
@@ -227,101 +300,9 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
-   "channel": "current",
-   "detail": "Porter, Trent, Burries, Jakucionis and others in a crowded backcourt",
-   "until": "",
-   "sources": [
-    "BiIZsSypx7Y:p35",
-    "W-R1dzem32s:p26",
-    "ZYllcj4o6_A:t4",
-    "sDzeYdUhJDI:t0"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "shares creation with Tyler Herro and Kevin Porter Jr.",
-   "until": "",
-   "sources": [
-    "4GDfg2n2l8o:t1",
-    "4GDfg2n2l8o:p3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "ESPN rank around 105 vs expert view near top 50",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p5",
-    "ahNxsoU8Hx4:p27",
-    "6DnRWahYrFA:p36"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "best Bucks player to target; fine at pick 50 to 60s",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p6",
-    "sDzeYdUhJDI:p9",
-    "-DN4P92Wp8Y:p27"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 17 USD and rank 60 vs ESPN value 2 USD and rank 104",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "new coach",
-   "channel": "current",
-   "detail": "Taylor Jenkins",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t2",
-    "nnWX_ObljOE:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "experts call it the hardest NBA rotation to read; lineup could change by December or March",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t0",
-    "sDzeYdUhJDI:t3",
-    "WXO8MfQfzo0:t0",
-    "OdDkXFhoKsc:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Jenkins might use a deep rotation",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "trades likely",
    "channel": "current",
-   "detail": "roster needs consolidation trades",
+   "detail": "Roster needs consolidation trades",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t5",
@@ -333,26 +314,62 @@
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "win total 26.5",
+   "detail": "Win total 26.5",
    "until": "",
    "sources": [
     "owlM6b8oUd0:t4",
-    "Rqb5GdrSweY:t0",
-    "sfCe7fS9daM:t8"
+    "sfCe7fS9daM:t8",
+    "Rqb5GdrSweY:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "fast pace",
+   "name": "expert target",
    "channel": "current",
-   "detail": "Jenkins expected to push a faster transition game",
+   "detail": "Called the best Bucks player to target, drafted around picks 50 to 65",
    "until": "",
    "sources": [
-    "owlM6b8oUd0:t3"
+    "sDzeYdUhJDI:p9",
+    "sDzeYdUhJDI:p6",
+    "bd8GYKFOe8A:p21",
+    "-DN4P92Wp8Y:p27"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "ESPN rank near 105 against expert value near top 50",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p27",
+    "egRrai3Ax38:p41",
+    "6DnRWahYrFA:p36",
+    "sDzeYdUhJDI:p5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo rank 60 and 17 USD against ESPN rank 104 and 2 USD",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest)",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Rollins is one of the best value plays in the pool. He finished around 51st last season and experts see a top 50 player with top 40 upside, but auction averages are only 2.0 USD on Yahoo and 2.2 USD on ESPN, while Yahoo values him at 17 USD. No category is flagged weak, so he fits any build. He adds steals (1.4), assists (5.2) and threes (2.3), but at 2.5 per game turnovers are his weakest spot. Early in the season, check that he starts next to Herro ahead of Porter and plays about 30 minutes, and watch for trade news before the 2027-03-04 deadline.",
+ "note": "Yahoo values him at 17 USD (rank 60) but ESPN at 2 USD (rank 104), and his average auction cost on both sites is only about 2 to 3 USD. Experts draft him around picks 50 to 65, so a bid in the low to mid teens is fair and anything near market cost is a bargain. His best categories are steals, assists and threes (z +1.3, +1.0, +0.9) and no category is flagged weak, so he fits any build. Early in the season, check whether he keeps the starting job and his minutes ahead of Porter and Burries under Jenkins, and watch for trade news before the 2027-03-04 deadline.",
  "rejected": []
 }

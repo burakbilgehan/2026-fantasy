@@ -8,13 +8,13 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 214 | 0 | 0.1 | 167 | not drafted |
+| 2026-27 | 0 | - | 219 | 0 | 0.1 | 167 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 53.2% | +0.7 | +0.8 | - |
+| FG% | 53.2% | +0.7 | +0.9 | - |
 | FT% | 75.0% | -0.4 | -0.4 | - |
 | 3PM | 0.3 | -1.3 | -1.7 | - |
 | PTS | 9.5 | -0.8 | -0.8 | - |
@@ -27,25 +27,25 @@
 </details>
 
 **Current**
-- Johnson is hurt now. Yahoo lists him as questionable with a lower leg injury. Lively is also hurt. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240), stats)
-- Because Johnson and Lively are hurt, Daniel Gafford is the likely opening night center. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
-- The Dallas frontcourt is crowded. Lively, Gafford, Powell, P.J. Washington and Aldama all compete for big man minutes. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
-- Dusty May is the new head coach. It is unknown how he will split minutes among the centers. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234))
-- Josh makes Johnson his late swing pick over P.J. Washington in standard formats. His upside is 30 minutes a night with about 12 points, 9 rebounds, 1.5 blocks and 1 steal. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1770))
-- Experts see him as a reasonable late flyer. One ranks him around 150 on 25 minutes a night. Josh says his low Fantrax ADP of 209 may mean there is value. (verdict, 2026-09-29; [09-03](https://youtu.be/OBwWCxG9SqM?t=1578), [09-29](https://youtu.be/XSPJL_mlFXo?t=1005))
-- Dallas has a 4-4-4 schedule in the fantasy playoffs, probably the best in the league. It also has a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
-- Johnson is a rookie. Dallas drafted him with a top 10 pick. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=461), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
+- Johnson is hurt, as are Lively and Dharma. That leaves Gafford as the likely opening night center. (fact, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1240))
+- Experts see a path to a starting job, possibly at center while Lively is out. Josh is not sure about this. (verdict, 2026-09-29, until Lively returns; [09-29](https://youtu.be/XSPJL_mlFXo?t=395), [09-29](https://youtu.be/XSPJL_mlFXo?t=358), [07-27](https://youtu.be/0AptxcRW0RE?t=461), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081))
+- The Dallas frontcourt is crowded with Lively, Gafford, Powell, P.J. Washington and Aldama. New head coach Dusty May has not shown how he will split the center minutes. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=234), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578), [08-26](https://youtu.be/sTtFUy7IoJI?t=1733), [06-26](https://youtu.be/CLsUc0Sevos?t=1386))
+- His Yahoo ADP was 116 in late September. Expert rankings put him around 150 to 166. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1005), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
+- Johnson is Josh's late swing pick over Washington in standard formats, and a reasonable late flyer. His upside is 30 minutes a night with about 12 points, 9 rebounds, 1.5 blocks and a steal. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1770), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
+- Dallas has a 4-4-4 schedule in the fantasy playoffs, one of the best, but a league-high 16 back-to-backs. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1910), [08-16](https://youtu.be/gf_6GveiAls?t=953))
+- Johnson is a rookie and was a top 10 pick in the 2026 NBA draft. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=461))
+- Experts expect Dallas to make another move, possibly trading Gafford. (verdict, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=2176), [07-02](https://youtu.be/P6TNP-g0wzY?t=824))
 
 **Durable**
-- Johnson is an undersized, hard-working energy big at 6'9. His motor is his main strength. He fits better as a four than a five. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=611), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [06-23](https://youtu.be/-rgXhs5BHiw?t=568), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
-- He had strong defensive stats at Michigan and in Summer League. He had one of the best lateral quickness measurements at the combine. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
+- Johnson is an undersized 6'9 big. He plays more like a four than a five. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [06-23](https://youtu.be/-rgXhs5BHiw?t=568), [09-03](https://youtu.be/OBwWCxG9SqM?t=1578))
+- Motor is his main strength. He is a hard-working energy big who rebounds, scores mismatches in the post and has strong finishing numbers. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568))
+- His defensive stats at Michigan were very strong. He had one of the best lateral quickness measurements at the combine. (fact, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=636), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081))
 - His shooting is a question. He shot some threes in college and Summer League, but experts do not see him as a real stretch big. It is also unclear whether he can create his own usage. (verdict, 2026-09-29; [09-29](https://youtu.be/XSPJL_mlFXo?t=1028), [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568), [08-02](https://youtu.be/TOn-D1SV7a8?t=1081))
-- He rebounds, finishes well and scores on mismatches in the post. (fact, 2026-07-27; [07-27](https://youtu.be/0AptxcRW0RE?t=611), [06-23](https://youtu.be/-rgXhs5BHiw?t=568))
 
 **Tags**
-- Current: `rookie` (top 10 pick in 2026), `injured now` (lower leg, Yahoo Q; Gafford likely opening night center), `questionable` (Yahoo Q (Lower Leg)), `minutes competition` (Lively, Gafford, Powell, Washington, Aldama), `flyer` (late swing pick; upside 30 minutes with 1.5 blocks), `sleeper` (Josh says Fantrax ADP 209 is far too low), `good playoff schedule` (Dallas 4-4-4 in playoff weeks)
+- Current: `rookie` (Top 10 pick in the 2026 draft), `injured now` (Reported hurt in early October; Yahoo status Q (Rest)), `questionable` (Yahoo Q (Rest)), `minutes competition` (Crowded frontcourt with Lively, Gafford, Powell, Washington and Aldama), `flyer` (Late swing pick; upside of 30 minutes with 1.5 blocks and 9 rebounds), `new coach` (Dusty May; his center rotation is unknown), `deep rotation` (Dallas is overloaded with forwards and bigs), `trades likely` (Possible Gafford trade), `good playoff schedule` (4-4-4 in weeks 19 to 21), `many back-to-backs` (League-high 16 back-to-backs)
 - Durable: none
 
-**Note.** Both sites give him a value of 0 USD (Yahoo rank 208, ESPN rank 166), so he sits at the edge of our 144-player pool. At most he is a 1 USD late flyer for blocks and FG%. The two projections also disagree on his FG% (58.9 vs 49.4). Before the draft on 2026-10-18, check his lower leg injury and the Lively timeline. Early in the season, watch whether Dusty May starts him at center over Gafford. If he gets 25 to 30 minutes, he is worth a waiver pickup, and the Dallas 4-4-4 playoff schedule helps.
+**Note.** Yahoo and ESPN both value him at 0 USD. He ranks 219 on Yahoo and 167 on ESPN, so he sits right around our 144-player cutoff and should cost 1 USD at most, or go undrafted. His projected profile is a modest FG% (53.2%), blocks and low-turnover helper who gives few threes and assists. He makes sense only as a last-round flyer for a big-man build. Early in the season, check his health and whether he or Gafford starts at center while Lively is out. A Gafford trade would open minutes for him.
 
-<sub>10 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>10 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

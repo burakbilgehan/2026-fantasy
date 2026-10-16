@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8eff922cdb73",
- "note_count": 24,
- "built_at": "2026-10-11T09:14:30+00:00",
+ "input_sha": "fdcb7b24bb73",
+ "note_count": 27,
+ "built_at": "2026-10-16T08:47:37+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.22281019999999999,
-  "duration_ms": 66824,
+  "cost_usd_list": 0.23969420000000002,
+  "duration_ms": 73323,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Caleb Wilson is a rookie. The Bulls drafted him with the No. 4 overall pick.",
+   "text": "He is a rookie, taken No. 4 overall by the Bulls.",
    "kind": "fact",
    "date": "2026-08-18",
    "until": "",
@@ -30,7 +30,7 @@
    ]
   },
   {
-   "text": "He is in Chicago's projected starting five with Josh Giddey, Norman Powell, Matas Buzelis and Nic Claxton.",
+   "text": "He is in the projected Bulls starting five with Josh Giddey, Norman Powell, Matas Buzelis and Nic Claxton.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
@@ -40,11 +40,23 @@
    ]
   },
   {
-   "text": "Experts expect him to be the second-best rookie this season.",
-   "kind": "verdict",
-   "date": "2026-09-28",
+   "text": "The Bulls are giving him a lot of usage, while the usage rates of Giddey and Buzelis are down.",
+   "kind": "fact",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
+    "ENizLoE6pzI:p17",
+    "ENizLoE6pzI:t2",
+    "hviT4hzYNME:p26"
+   ]
+  },
+  {
+   "text": "Experts expect him to be the second-best rookie this season.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "DzQXaC2rsac:p12",
     "3Qm5wLjhvTw:p14",
     "OBwWCxG9SqM:p10",
     "FxaSnyk9g90:p23",
@@ -52,24 +64,43 @@
    ]
   },
   {
-   "text": "He is expected to be a low-usage option as a rookie, at about 30 minutes and 20 percent usage or less. Powell, Giddey and Buzelis are expected to use more of the ball, and the Bulls are not expected to push his offensive role.",
+   "text": "Experts call a pick in the 80s a fair price and take him around picks 86 to 89. His ESPN rank in the 50s and 60s is too high.",
    "kind": "verdict",
-   "date": "2026-09-21",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p10",
-    "LM0cRCGoAUQ:p48",
-    "FxaSnyk9g90:p21",
-    "egRrai3Ax38:t2",
-    "W-R1dzem32s:t0",
-    "OBwWCxG9SqM:t2",
-    "TOn-D1SV7a8:p31"
+    "DzQXaC2rsac:p12",
+    "ENizLoE6pzI:p17",
+    "hviT4hzYNME:p26",
+    "BjXP9JODDSg:p45",
+    "3Qm5wLjhvTw:p14",
+    "QbdrhJd7LiA:p39"
    ]
   },
   {
-   "text": "In summer league he averaged 22 points and 7 rebounds on 37 percent usage and shot 42 percent on 8 threes per game, but his shooting fell off as summer league went on.",
+   "text": "Not all experts are comfortable with him. One is uneasy taking him at pick 84 and another has avoided him because of the rookie uncertainty.",
+   "kind": "verdict",
+   "date": "2026-10-05",
+   "until": "",
+   "sources": [
+    "BiIZsSypx7Y:p46"
+   ]
+  },
+  {
+   "text": "Expect rough moments and shaky efficiency early. His early value should come from defensive stats.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "hviT4hzYNME:p26",
+    "-rgXhs5BHiw:p14",
+    "LUTYUdXBG1M:p30"
+   ]
+  },
+  {
+   "text": "In summer league he took many threes, about 8 a game, and averaged 22 points and 7 rebounds on 37% usage. His shooting fell off as summer league went on.",
    "kind": "fact",
-   "date": "2026-07-23",
+   "date": "2026-08-02",
    "until": "",
    "sources": [
     "LUTYUdXBG1M:p30",
@@ -78,49 +109,17 @@
    ]
   },
   {
-   "text": "His summer league shooting is seen as partly fool's gold. He may shoot only about 30 percent from three this season, his early efficiency is expected to be rocky, and his early value should come from defense.",
+   "text": "His summer league shooting is partly fool's gold. He may shoot only about 30 percent from three this season.",
    "kind": "verdict",
    "date": "2026-08-02",
    "until": "",
    "sources": [
     "LUTYUdXBG1M:p30",
-    "TOn-D1SV7a8:p31",
-    "-rgXhs5BHiw:p14"
+    "TOn-D1SV7a8:p31"
    ]
   },
   {
-   "text": "One expert thinks he should take more threes this season.",
-   "kind": "verdict",
-   "date": "2026-09-14",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p48"
-   ]
-  },
-  {
-   "text": "Experts call his ESPN rank (56 to 66) too high. A top 100 season would be a good result, and the 80s is a fair range for him in category leagues.",
-   "kind": "verdict",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p14",
-    "QbdrhJd7LiA:p39",
-    "OBwWCxG9SqM:p10",
-    "LM0cRCGoAUQ:p48"
-   ]
-  },
-  {
-   "text": "Experts disagree on his draft spot in the 80s. One calls pick 89 good value and a perfect spot. Another is uneasy taking him at pick 84, and a third has not drafted him anywhere because of the uncertainty.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "BjXP9JODDSg:p45",
-    "BiIZsSypx7Y:p46"
-   ]
-  },
-  {
-   "text": "Pairing him with Zach Edey takes away much of Wilson's upside.",
+   "text": "Pairing him with Zach Edey on a fantasy roster takes away much of his upside.",
    "kind": "verdict",
    "date": "2026-09-24",
    "until": "",
@@ -129,95 +128,86 @@
    ]
   },
   {
-   "text": "Chicago is projected to be a bad team. One expert predicts 32 wins and another calls it probably a bottom-six team.",
+   "text": "Nikola Vucevic and Coby White have left Chicago, which frees up usage for the young players.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3",
+    "DzQXaC2rsac:t1"
+   ]
+  },
+  {
+   "text": "New head coach Tiago Splitter replaces Billy Donovan and is expected to push young players out of their comfort zones.",
+   "kind": "fact",
+   "date": "2026-09-28",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t2",
+    "3Qm5wLjhvTw:t1"
+   ]
+  },
+  {
+   "text": "The Bulls project as a bad team. The team lacks shooting, and a lineup with Claxton, Wilson and Giddey will have poor spacing.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:t0",
-    "FxaSnyk9g90:t4",
-    "P6TNP-g0wzY:t5"
-   ]
-  },
-  {
-   "text": "Tiago Splitter is Chicago's new head coach. He replaces Billy Donovan and is expected to push young players out of their comfort zones.",
-   "kind": "fact",
-   "date": "2026-09-28",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:t1",
-    "FxaSnyk9g90:t2",
-    "gJUBAJaHzlU:t3"
-   ]
-  },
-  {
-   "text": "The Bulls should play a fast, up-tempo transition style. A lineup with Claxton, Wilson and Giddey is expected to have terrible spacing.",
-   "kind": "verdict",
-   "date": "2026-08-18",
-   "until": "",
-   "sources": [
-    "FxaSnyk9g90:t5",
+    "P6TNP-g0wzY:t5",
     "FxaSnyk9g90:t3",
+    "FxaSnyk9g90:t4",
     "lOshTzDA4SA:t3"
    ]
   },
   {
-   "text": "Chicago has 15 back-to-backs, one below the maximum. Its fantasy playoff schedule is 3-3-4 games (10 total) with our March 28 end date.",
+   "text": "The Bulls should play a fast, up-tempo transition style.",
+   "kind": "verdict",
+   "date": "2026-08-18",
+   "until": "",
+   "sources": [
+    "FxaSnyk9g90:t5"
+   ]
+  },
+  {
+   "text": "The Bulls play 10 games in our fantasy playoff weeks (3-3-4) and have 15 back-to-backs.",
    "kind": "fact",
    "date": "2026-09-28",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t8",
-    "3Qm5wLjhvTw:t7"
+    "3Qm5wLjhvTw:t7",
+    "3Qm5wLjhvTw:t8"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His fantasy value comes from defensive stats and rebounding: blocks, steals and rebounds. Blocks are his best category for a forward.",
+   "text": "His fantasy value comes from rebounds, blocks and steals. Blocks and rebounds are his best categories for a forward.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p15",
     "OBwWCxG9SqM:p11",
-    "lOshTzDA4SA:p8",
     "RsjGTgJiKyI:p8",
+    "lOshTzDA4SA:p8",
     "-rgXhs5BHiw:p13",
     "stats"
    ]
   },
   {
-   "text": "Shooting is his weakness. He is a poor free throw shooter, and his percentages are uncertain.",
+   "text": "Shooting is his weak point. He is a poor free throw shooter, and his three-point shot is a concern.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p15",
-    "OBwWCxG9SqM:p11",
     "RsjGTgJiKyI:p8",
-    "lOshTzDA4SA:p8"
-   ]
-  },
-  {
-   "text": "He was not a high-usage player in college and rarely shot threes there.",
-   "kind": "fact",
-   "date": "2026-09-22",
-   "until": "",
-   "sources": [
+    "lOshTzDA4SA:p8",
+    "-rgXhs5BHiw:p13",
     "OBwWCxG9SqM:p11",
-    "QbdrhJd7LiA:p39",
-    "TOn-D1SV7a8:p31"
-   ]
-  },
-  {
-   "text": "He is not expected to help in assists. One expert worries about tunnel vision and does not think he can pass.",
-   "kind": "verdict",
-   "date": "2026-09-03",
-   "until": "",
-   "sources": [
-    "OBwWCxG9SqM:p11",
-    "LUTYUdXBG1M:p31"
+    "stats"
    ]
   },
   {
@@ -230,7 +220,29 @@
    ]
   },
   {
-   "text": "Over the long term his game probably leans more to defense than offense, though the gap should narrow.",
+   "text": "He is not a passer and has tunnel vision. Assists are not part of his value.",
+   "kind": "verdict",
+   "date": "2026-09-03",
+   "until": "",
+   "sources": [
+    "LUTYUdXBG1M:p31",
+    "OBwWCxG9SqM:p11",
+    "stats"
+   ]
+  },
+  {
+   "text": "He was a low-usage player in college and entered the NBA seen as a defensive prospect.",
+   "kind": "fact",
+   "date": "2026-09-22",
+   "until": "",
+   "sources": [
+    "OBwWCxG9SqM:p11",
+    "QbdrhJd7LiA:p39",
+    "FxaSnyk9g90:p20"
+   ]
+  },
+  {
+   "text": "Long term he should lean more defensive than offensive, though the gap should narrow.",
    "kind": "verdict",
    "date": "2026-08-18",
    "until": "",
@@ -239,14 +251,14 @@
    ]
   },
   {
-   "text": "He is worth more in category leagues than in points leagues because his value comes from defensive stats.",
+   "text": "He is worth more in category leagues than in points leagues, because his defensive stats count less in points formats.",
    "kind": "verdict",
    "date": "2026-09-28",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p14",
-    "OBwWCxG9SqM:p10",
-    "80kfLVnFQ_s:p39"
+    "80kfLVnFQ_s:p39",
+    "OBwWCxG9SqM:p10"
    ]
   }
  ],
@@ -254,69 +266,46 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "No. 4 overall pick, expected second-best rookie",
+   "detail": "No. 4 overall pick, projected starter",
    "until": "",
    "sources": [
     "FxaSnyk9g90:p20",
-    "3Qm5wLjhvTw:p14"
+    "3Qm5wLjhvTw:t3",
+    "DzQXaC2rsac:p12"
    ],
    "new_meaning": ""
   },
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "value from blocks, steals and rebounds",
+   "detail": "value from rebounds, blocks and steals",
    "until": "",
    "sources": [
     "3Qm5wLjhvTw:p14",
-    "OBwWCxG9SqM:p10",
-    "80kfLVnFQ_s:p39"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Powell, Giddey and Buzelis expected to use more of the ball",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p31",
-    "egRrai3Ax38:t2",
-    "W-R1dzem32s:t0",
-    "OBwWCxG9SqM:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "at ESPN rank 56 to 66",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:p14",
-    "QbdrhJd7LiA:p39"
+    "80kfLVnFQ_s:p39",
+    "OBwWCxG9SqM:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 82 vs ESPN rank 57",
+   "detail": "ESPN rank 57 vs Yahoo rank 79; experts call ESPN too high",
    "until": "",
    "sources": [
+    "3Qm5wLjhvTw:p14",
     "stats"
    ],
    "new_meaning": ""
   },
   {
-   "name": "bottom team",
+   "name": "bust candidate",
    "channel": "current",
-   "detail": "about 32 wins projected",
+   "detail": "ESPN rank in the 50s and 60s too high",
    "until": "",
    "sources": [
-    "3Qm5wLjhvTw:t0",
-    "FxaSnyk9g90:t4",
-    "P6TNP-g0wzY:t5"
+    "3Qm5wLjhvTw:p14",
+    "QbdrhJd7LiA:p39"
    ],
    "new_meaning": ""
   },
@@ -332,26 +321,40 @@
    "new_meaning": ""
   },
   {
+   "name": "usage freed",
+   "channel": "current",
+   "detail": "Vucevic and Coby White gone",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t2",
+    "gJUBAJaHzlU:t3",
+    "-rgXhs5BHiw:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bottom team",
+   "channel": "current",
+   "detail": "projected bottom 10, about 32 wins",
+   "until": "",
+   "sources": [
+    "3Qm5wLjhvTw:t0",
+    "P6TNP-g0wzY:t5",
+    "FxaSnyk9g90:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "fast pace",
    "channel": "current",
-   "detail": "up-tempo transition style expected",
+   "detail": "up-tempo transition style",
    "until": "",
    "sources": [
     "FxaSnyk9g90:t5"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "many back-to-backs",
-   "channel": "current",
-   "detail": "15 back-to-backs",
-   "until": "",
-   "sources": [
-    "3Qm5wLjhvTw:t8"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Wilson is a defense-first rookie forward. His blocks (+1.8 z vs forwards) and rebounds (+1.3) carry him, and his FT% (74.8 percent) and threes are mild drags. Experts put him in the 80s overall, which fits a mid-to-late pick in our 144-player draft at about Yahoo's 11 USD value. ESPN's 5.5 USD average cost and rank 57 are seen as too high, and our league did not draft him last season. He suits blocks-and-rebounds builds that can absorb a weak FT%. Early in the season, check his usage next to Powell, Giddey and Buzelis, and whether his summer league three-point volume carries over.",
+ "note": "Experts take him around picks 86 to 89. With 144 players drafted, that makes him a mid-to-late auction target near his Yahoo average cost of 4.0 USD and ESPN's 6.4 USD. Do not chase him at ESPN's rank 57. His rebounds, blocks (z +1.8 vs forwards) and steals help teams that need frontcourt defensive stats, and his weak FT% (74.7%) and assists hurt least in builds that already give those up. Early in the season, check whether the Bulls keep feeding him usage under Splitter, how many threes he takes, and whether his efficiency settles.",
  "rejected": []
 }

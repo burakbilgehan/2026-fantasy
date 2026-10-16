@@ -3,41 +3,49 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Do not price a player off one bad season. If a player lost last season to injury, a lost role or a free throw slump, he is often too cheap now, so bid into the expert ranges rather than the depressed market price. Bounce-backs that rest on steals, field goal percentage or three-point percentage are less certain. Pay less for them, put them in builds that can absorb a miss, and use the first weeks to confirm the recovery.
+**Summary.** One bad season should not set a player's price. The experts say injuries, role changes and shooting slumps often reverse, and drafters fear returning players too much. In our 200 USD auction, the best buys are players the market dropped far below their earlier level, like Jalen Williams, Paul George and Dyson Daniels. Pay for the stats that are stable, and treat a recovery in FG% or three-point shooting as upside, not as part of the price.
 
-## One bad season should not set the price
+## Why one season should not set the price
 
-The experts agree on the core rule. One bad season does not make a player bad. A down year also should not flip a long-term story, such as a player being reliable. Elite skills like steals tend to snap back after a down year, like an elastic band. In our auction, set your price from the expert range for this season. Do not use last season's box score, and do not use what our league paid last October. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2253), [09-25](https://youtu.be/4gw4W4RTolY?t=1108), [08-19](https://youtu.be/J1Eg3uaAICU?t=502))
+The experts agree on the basic rule. One bad season does not make a player bad. Do not value a player on a single season, and do not let one year flip a long-term story such as "injury prone" or "reliable". In our auction, that means you should not anchor on last season's line when you set your maximum bid. ([10-02](https://youtu.be/ZYllcj4o6_A?t=2253), [09-25](https://youtu.be/4gw4W4RTolY?t=1108), [08-19](https://youtu.be/J1Eg3uaAICU?t=502))
 
-The market often overreacts. Dyson Daniels is the clearest case. His Yahoo average cost has collapsed after a down year, but the experts still see a round 3 to 4 value and expect him to go above 20 USD. If you want him, be ready to bid into that range. Waiting for the market price will probably not get him. ([09-25](https://youtu.be/4gw4W4RTolY?t=1108), [Dyson Daniels](../profiles/players/dyson-daniels.md))
+Injuries cause the biggest overreaction. Drafters are too scared of players whose injuries cost them last season, so you can be more confident than their ADPs suggest. Jalen Williams is the clearest case. Experts say the market dropped him too far after an injury-hit year, and they see him as a round three to four player. Paul George is another. Experts agree he is underpriced and see a top 40 per-game player with top 30 upside. ([09-21](https://youtu.be/egRrai3Ax38?t=1258), [Jalen Williams](../profiles/players/jalen-williams.md), [Paul George](../profiles/players/paul-george.md))
 
-Drafters are also too scared of players coming back from injuries that cost them last season. You can be more confident than their ADPs suggest. This applies to Jayson Tatum after the Achilles, Jalen Williams after wrist and hamstring injuries, Domantas Sabonis after an injury-hit season and Jakob Poeltl with a healthy back. Do not overcorrect, though. One clean or one injured season should not rewrite a long injury history in either direction. ([09-21](https://youtu.be/egRrai3Ax38?t=1258), [08-19](https://youtu.be/J1Eg3uaAICU?t=502), [Jayson Tatum](../profiles/players/jayson-tatum.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Jakob Poeltl](../profiles/players/jakob-poeltl.md))
+The same rule cuts both ways. Coby White has now had a fourth calf strain in 12 months. That is a long pattern, not one bad year, so experts moved him from the 60s to 70s into the 90s. Do not treat a repeated injury as bad luck. The bounce-back case is strongest when a player was reliable for years and then had one bad season. ([08-19](https://youtu.be/J1Eg3uaAICU?t=502), [Coby White](../profiles/players/coby-white.md))
 
-## Where a down year comes from
+## Where down years come from
 
-Bounce-back candidates come from three sources: role changes, injuries and shooting slumps. Sort each candidate by source before you bid. The source tells you what to check in the first weeks. ([07-20](https://youtu.be/-KS_AZjZnw4?t=176))
+Bounce-back candidates come from three sources: role changes, injuries and shooting slumps. Each one needs a different check in the first weeks, so know which kind of bounce-back you are buying before you bid. ([07-20](https://youtu.be/-KS_AZjZnw4?t=176))
 
-Role cases depend on minutes. Trae Young needs 33 or more minutes. Zach LaVine needs to keep starting with 30 or more minutes. John Collins needs 30 to 31 minutes. Myles Turner needs close to 30 minutes under a new coach, and Ivica Zubac needs more than 30 minutes against Huff. If the minutes are not there early, the bounce-back is not happening. Cut late flyers rather than wait. ([Trae Young](../profiles/players/trae-young.md), [Zach LaVine](../profiles/players/zach-lavine.md), [John Collins](../profiles/players/john-collins.md), [Myles Turner](../profiles/players/myles-turner.md), [Ivica Zubac](../profiles/players/ivica-zubac.md))
+Role. Zach LaVine finished 115th last season in a spot-up role, and his case rests on getting the ball back in his hands. Jalen Green needs to keep the point guard job and play 30 or more minutes. Coby White needs 30-plus minutes as the starting point guard. Domantas Sabonis needs his minutes to climb back toward 33 and his assists toward 6 with Simmons starting next to him. If the role does not show up, the bounce-back does not happen. ([07-20](https://youtu.be/-KS_AZjZnw4?t=176), [Zach LaVine](../profiles/players/zach-lavine.md), [Jalen Green](../profiles/players/jalen-green.md), [Coby White](../profiles/players/coby-white.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md))
 
-Efficiency can also recover when a player's usage is reduced. Aaron Nesmith's case rests on his FG% getting back from 41% toward 48 to 50% with Haliburton back. Track his FG% and his starting spot on waivers rather than paying for the recovery in advance. ([08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [Aaron Nesmith](../profiles/players/aaron-nesmith.md))
+Injury. Jayson Tatum is coming back from an Achilles injury, and his FG% and rim finishing are expected to recover. Jalen Williams needs his hamstring to hold up. Jakob Poeltl's down year is blamed on his back. Christian Braun needs his 3P% and finishing to come back after an ankle injury. For each of them, check games played and minutes before you judge the box score. ([09-21](https://youtu.be/egRrai3Ax38?t=1258), [Jayson Tatum](../profiles/players/jayson-tatum.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Jakob Poeltl](../profiles/players/jakob-poeltl.md), [Christian Braun](../profiles/players/christian-braun.md))
 
-## Stable and unstable stats
+Usage. One note says lower efficiency can bounce back when a player's usage is reduced. Derrick White shot 39.4% last season and now plays behind Tatum and George. Lower usage could help his FG%, but it could also push his minutes under 34. Trae Young's 42% FG% sits next to an open question about how much usage he keeps next to Davis and Dybantsa. ([08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [Derrick White](../profiles/players/derrick-white.md), [Trae Young](../profiles/players/trae-young.md))
 
-Big free throw drops with no clear reason are a pattern that likely reverts. This makes FT% the safest stat to bet on. It supports Coby White and Jalen Green, whose FT% is expected to recover. The data flags Evan Mobley's FT% recovery as uncertain, so do not build his price on it. Value him as a punt FT% piece. ([07-20](https://youtu.be/-KS_AZjZnw4?t=1071), [Coby White](../profiles/players/coby-white.md), [Jalen Green](../profiles/players/jalen-green.md), [Evan Mobley](../profiles/players/evan-mobley.md))
+## Stable and unstable bounce-backs
 
-Steals swing in both directions. A player whose steals dropped can bounce back, but never pay for a career-high steal rate. Daniels is a steals bounce-back, so check in the first weeks that he stays above two steals per game. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1002), [09-25](https://youtu.be/4gw4W4RTolY?t=1108), [Dyson Daniels](../profiles/players/dyson-daniels.md))
+FT% drops are the safest bet. Several players had big free throw drops for no clear reason, and the notes treat that as a pattern that likely reverts. John Collins, Jalen Green and Coby White all fell below their usual FT% last season. Count on most of that coming back. ([07-20](https://youtu.be/-KS_AZjZnw4?t=1071), [John Collins](../profiles/players/john-collins.md), [Jalen Green](../profiles/players/jalen-green.md), [Coby White](../profiles/players/coby-white.md))
 
-FG% and 3P% slumps are the least certain bounce-backs on this list. Tatum's rim finishing, Bam Adebayo's shooting, Derrick White's FG% and Turner's FG% all have to recover. Most of these players fit punt FG% builds. If you roster several of them, punting FG% means a failed recovery costs you nothing. If you keep FG%, pay toward the low end of their ranges. ([Jayson Tatum](../profiles/players/jayson-tatum.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Derrick White](../profiles/players/derrick-white.md), [Myles Turner](../profiles/players/myles-turner.md), [07-20](https://youtu.be/-KS_AZjZnw4?t=176))
+Steals move in both directions. Do not pay for a career-high steal rate. A player whose steals dropped can bounce back, though, because elite skills like steals tend to snap back after a down year. Dyson Daniels is the key case. He is a steals specialist, and his price should assume his steals climb back toward 2 per game. If they stay low after the first weeks, his value falls a lot. ([09-17](https://youtu.be/ahNxsoU8Hx4?t=1002), [09-25](https://youtu.be/4gw4W4RTolY?t=1108), [Dyson Daniels](../profiles/players/dyson-daniels.md))
+
+FG% and three-point slumps are less certain. The notes say these slumps produce bounce-back candidates, but they only call the FT% drop a likely reversion. So do not pay up front for a recovery in FG% or 3P%. That applies to Daniels from three (18% last season), Tari Eason (41.6% FG after a poor three-point stretch), Derrick White, Paul George (about 44% FG) and Bam Adebayo. Price these players on their counting stats and treat better shooting as upside. ([07-20](https://youtu.be/-KS_AZjZnw4?t=176), [07-20](https://youtu.be/-KS_AZjZnw4?t=1071), [Dyson Daniels](../profiles/players/dyson-daniels.md), [Tari Eason](../profiles/players/tari-eason.md), [Derrick White](../profiles/players/derrick-white.md), [Paul George](../profiles/players/paul-george.md), [Bam Adebayo](../profiles/players/bam-adebayo.md))
+
+Punt builds lower the risk. Derrick White, Bam Adebayo, Trae Young, Myles Turner and Jalen Green all fit punt FG% builds. If you are punting FG%, an FG% recovery that never comes costs you nothing, and you still get their threes, assists, rebounds or blocks. ([Derrick White](../profiles/players/derrick-white.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Trae Young](../profiles/players/trae-young.md), [Myles Turner](../profiles/players/myles-turner.md), [Jalen Green](../profiles/players/jalen-green.md))
 
 ## Where the experts disagree
 
-The notes split on three names. On Zubac, one side tags him a bounce-back, but Josh doubts a return to top 30 form, and the experts cap him at about 14 USD. On Turner, one side blames his poor 2025-26 on Doc Rivers and expects a rebound under a new coach. The other side calls him fine around picks 100 to 120 but not as a top 90 pick. On Christian Braun, Moore predicts a bounce-back, while a newer note expects a better finish and still does not buy him. In each case, bid the cautious side's price. You then capture the upside without paying for it. ([Ivica Zubac](../profiles/players/ivica-zubac.md), [Myles Turner](../profiles/players/myles-turner.md), [Christian Braun](../profiles/players/christian-braun.md))
+The experts split on three bigger names. On Ivica Zubac, one side sees a bounce-back, but Josh doubts he returns to top 30 form, and the group caps him at about 14 USD, rank 60 to 75. On Myles Turner, one expert calls him a strong bounce-back with top 60 upside, while the markets price him near nothing. On Christian Braun, Moore predicts a bounce-back, while others only expect him to finish better than outside the top 200. The markets also split on Trae Young. Yahoo still values him highly, but ESPN values him at only 11 USD and the experts call him a bust at his Yahoo rank of 18. In each case, bid at the cautious side's price. You then get the optimist's upside for free. ([Ivica Zubac](../profiles/players/ivica-zubac.md), [Myles Turner](../profiles/players/myles-turner.md), [Christian Braun](../profiles/players/christian-braun.md), [Trae Young](../profiles/players/trae-young.md))
 
-## How to use this in our league
+## Auction and waiver plan for our league
 
-Our auction drafts 144 players, so the stage of the draft matters. Buy the core injury and role cases at their expert ranges in the early and middle rounds. Take the cheap flyers (Coby White, LaVine, Collins, Green, Poeltl, Turner) at 1 to 5 USD late, where a miss costs almost nothing. Leave Braun and Nesmith on waivers, or take them only as 1 USD last picks, and watch their early box scores with FAB ready. ([09-21](https://youtu.be/egRrai3Ax38?t=1258), [Coby White](../profiles/players/coby-white.md), [Christian Braun](../profiles/players/christian-braun.md), [Aaron Nesmith](../profiles/players/aaron-nesmith.md), [Zach LaVine](../profiles/players/zach-lavine.md))
+Early in the auction, the bounce-backs worth real money are Tatum, Jalen Williams, Sabonis and Adebayo. Tatum is a fair buy in the high 40s to mid 50s USD and fits punt TO best. Williams is a good buy at 20 to 25 USD, but not at 29 USD. Sabonis is fine in the low 30s USD, not at 40 USD. Adebayo is worth up to about 27 USD. Check the Yahoo Q tags on Adebayo (groin) and Sabonis before you bid. ([Jayson Tatum](../profiles/players/jayson-tatum.md), [Jalen Williams](../profiles/players/jalen-williams.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Bam Adebayo](../profiles/players/bam-adebayo.md))
 
-Check the playoff schedule before you pay full price. Miami has only 10 games in our playoff weeks, Indiana plays 3, 4 and 3 games, and Cleveland has a 2-game finals week. A bounce-back that arrives can still be sold to another manager before the 2027-03-04 trade deadline if his team's playoff schedule is weak. ([Bam Adebayo](../profiles/players/bam-adebayo.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [Evan Mobley](../profiles/players/evan-mobley.md))
+Most of the value comes in the middle rounds. Paul George at 10 to 15 USD is the best price gap (Josh would go to 20 USD). Daniels is a buy under 20 USD. Target Derrick White in the 13 to 25 USD range. Bid 10 to 14 USD on Zubac, 5 to 10 USD on Coby White and about 5 to 12 USD on LaVine. Avoid Trae Young unless his price fits a player around pick 26. ([Paul George](../profiles/players/paul-george.md), [Dyson Daniels](../profiles/players/dyson-daniels.md), [Derrick White](../profiles/players/derrick-white.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [Coby White](../profiles/players/coby-white.md), [Zach LaVine](../profiles/players/zach-lavine.md), [Trae Young](../profiles/players/trae-young.md))
+
+At the end of the draft, take bounce-back flyers for 1 to 5 USD: Turner, Collins, Green, Poeltl, Cameron Johnson, Eason and Braun. Aaron Nesmith sits just outside our 144 players, so put him on your waiver watch list unless you need a 1 USD punt AST pick. Waivers run daily on FAB with up to 6 adds a week, so cut a flyer quickly if his minutes or his key stat do not come back in the first weeks. ([Myles Turner](../profiles/players/myles-turner.md), [John Collins](../profiles/players/john-collins.md), [Jalen Green](../profiles/players/jalen-green.md), [Jakob Poeltl](../profiles/players/jakob-poeltl.md), [Cameron Johnson](../profiles/players/cameron-johnson.md), [Tari Eason](../profiles/players/tari-eason.md), [Christian Braun](../profiles/players/christian-braun.md), [Aaron Nesmith](../profiles/players/aaron-nesmith.md))
+
+Check playoff schedules before you pay. Boston (Tatum, George, Derrick White) has 16 back-to-backs, with three in our playoff weeks, so watch who sits. Miami and Houston get only 10 playoff games. Indiana plays 3, 4 and 3 games in weeks 19 to 21. Phoenix's 4-4-4 schedule adds value to Green. ([Jayson Tatum](../profiles/players/jayson-tatum.md), [Paul George](../profiles/players/paul-george.md), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Tari Eason](../profiles/players/tari-eason.md), [Ivica Zubac](../profiles/players/ivica-zubac.md), [Jalen Green](../profiles/players/jalen-green.md))
 
 ## Players
 
@@ -47,37 +55,44 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 51.2 | 7 | 55.5 | not drafted | He is an injury return the market may underrate, but his FG% and rim finishing must recover, so check his knee and his back-to-back usage early. |
-| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 37 | 22.6 | 35 | 19.1 | 35 | His injuries are the only reason for the dip, and with no weak category he fits any build if his hamstrings hold and his minutes climb above 32. |
-| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 14.9 | 18 | 19.8 | 30 | A price near the Yahoo market is a bargain, and his FG% slump hurts least in a punt FG% build. |
-| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 62 | 4.1 | 38 | 10.7 | 28 | His elite steals skill should snap back, but the market undervalues him and the experts expect him to go over 20 USD, so bid into their range. |
-| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.3 | 17 | 27.1 | 26 | He is a shooting-slump bounce-back best used in punt FG% builds; mind Miami's 10 playoff-week games. |
+| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 57.8 | 7 | 56.0 | not drafted | His bounce-back rests on his FG% and rim finishing recovering after the Achilles injury, and his volume makes him a punt TO anchor. |
+| [Jalen Williams](../profiles/players/jalen-williams.md) | OKC | F | 37 | 19.4 | 35 | 19.4 | 35 | Experts say the market overreacted to his injury year, and he has no weak category, so he fits any build if his hamstring holds. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 25.0 | 32 | 37.3 | 41 | His rebounds and high-volume FG% are stable, and his bounce-back depends on minutes and assists returning next to Simmons. |
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 27.4 | 17 | 27.1 | 26 | He is a shooting-slump bounce-back best used in punt FG%, so his counting stats carry the price whether or not the FG% returns. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Evan Mobley](../profiles/players/evan-mobley.md) | CLE | F,C | 27 | 27.1 | 27 | 21.4 | 36 | Pay for his blocks, rebounds and FG% as a punt FT% piece, not for an uncertain FT% recovery. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 26.0 | 32 | 38.7 | 41 | He is an injury bounce-back worth a round 3 price, not the higher ESPN or last-season figure. |
-| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 37.1 | 49 | 33.3 | 44 | His rebound depends on 33 or more minutes, and he is worth a round 3 price only, not the Yahoo value. |
-| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.7 | 75 | 4.8 | 20 | The experts disagree on his ceiling, so pay the cautious cap and let someone else pay last season's price. |
+| [Paul George](../profiles/players/paul-george.md) | BOS | F | 73 | 2.3 | 91 | 4.0 | 9 | Experts agree the market overreacted, and his steals, threes and FT% give him the biggest price gap among the bounce-backs. |
+| [Dyson Daniels](../profiles/players/dyson-daniels.md) | ATL | G,F | 64 | 4.2 | 38 | 11.1 | 28 | He is a steals specialist whose elite skill should snap back, but his 18% three-point shooting is the unstable part of his case. |
+| [Derrick White](../profiles/players/derrick-white.md) | BOS | G | 39 | 13.0 | 18 | 20.2 | 30 | His threes, assists and guard blocks are stable, while his recovery from 39.4% FG may be helped or hurt by lower usage behind Tatum and George. |
+| [Ivica Zubac](../profiles/players/ivica-zubac.md) | IND | C | 54 | 6.6 | 75 | 6.0 | 20 | Experts split on whether he returns to top 30 form, so pay only the cautious price for his elite FG% and rebounds. |
+| [Coby White](../profiles/players/coby-white.md) | CHA | G | 87 | 2.8 | 106 | 2.8 | 15 | His FT% drop should revert, but his repeated calf strains are a pattern, not one bad year. |
+| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 107 | 1.8 | 159 | 1.5 | 12 | He is a role bounce-back who needs the ball back in his hands after finishing 115th in a spot-up role. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Coby White](../profiles/players/coby-white.md) | CHA | G | 86 | 2.5 | 106 | 2.6 | 15 | His FT% should revert, which makes him a single-digit buy, but the calf strain and his minutes ahead of Schroder need checking. |
-| [Zach LaVine](../profiles/players/zach-lavine.md) | SAC | G,F | 103 | 1.2 | 159 | 1.2 | 12 | He is a cheap 3PM, PTS and FT% source with top-80 upside only if he keeps a 30-minute starting role. |
-| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 97 | 1.2 | 96 | 1.5 | 7 | He is a low-upside minutes bounce-back at 1 to 5 USD, and his rebounds should return toward 7 to 8 with more minutes. |
-| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 122 | 1.9 | 103 | 2.0 | 9 | His FT% and 3P% should recover, which makes him a cheap late scorer for punt FG% builds. |
-| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 117 | 1.0 | 117 | 1.0 | 15 | He is a 1 USD bench flyer whose top 70 upside depends on his back holding and his blocks returning. |
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 118 | 1.2 | 95 | 1.4 | 20 | The experts split on why he fell, so take his blocks and threes for a few USD late, not as a top 90 pick. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 119 | 1.1 | 95 | 1.8 | 20 | Experts split on him, and at a near-free price his blocks and threes give top 60 upside for punt FG% teams. |
+| [John Collins](../profiles/players/john-collins.md) | DET | F,C | 97 | 1.4 | 96 | 1.9 | 7 | His FT% and rebound drops look likely to revert, but experts see little upside beyond a cheap frontcourt filler. |
+| [Jalen Green](../profiles/players/jalen-green.md) | PHX | G,F | 122 | 1.6 | 103 | 2.4 | 9 | His FT% should revert, and his points and threes fit punt FG% if he keeps the point guard role. |
+| [Jakob Poeltl](../profiles/players/jakob-poeltl.md) | TOR | C | 118 | 1.0 | 117 | 1.1 | 15 | His down year is blamed on his back, so cheap FG% and rebounds come back if his minutes and blocks return. |
+| [Cameron Johnson](../profiles/players/cameron-johnson.md) | DEN | F | 148 | 1.0 | 140 | 0.3 | 4 | Experts expect a clearly better season, and he is a last-pick source of threes, FT% and low turnovers. |
+| [Tari Eason](../profiles/players/tari-eason.md) | HOU | G,F | 153 | 0.0 | 178 | 0.1 | 2 | His FG% recovery depends on an unstable three-point stretch, so he is a drop candidate if it does not come back early. |
+| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 161 | 0.0 | 210 | 0.1 | 7 | Only Moore predicts a real bounce-back, so take him just as a 1 to 2 USD FG% and TO filler. |
 
 ### Waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Christian Braun](../profiles/players/christian-braun.md) | DEN | G,F | 155 | 0.0 | 210 | 0.1 | 7 | The experts split and he sits at the edge of the 144-player pool, so leave him on waivers or take him only as a 1 USD last pick. |
-| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 156 | 0.0 | 177 | 0.1 | not drafted | His case rests on an unstable FG% recovery next to Haliburton, so watch him on waivers before spending FAB. |
+| [Aaron Nesmith](../profiles/players/aaron-nesmith.md) | IND | G,F | 154 | 0.0 | 177 | 0.1 | not drafted | He sits just outside our 144 players, and his FG% recovery next to Haliburton is a reason to watch him on waivers. |
 
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+### Avoid at price
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Trae Young](../profiles/players/trae-young.md) | WAS | G | 18 | 35.3 | 49 | 31.3 | 44 | His extra minutes after an injury year still come with a 42% FG% and heavy turnovers, and experts call his rank a bust. |
+
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 246 | 0 | 0.0 | 182 | not drafted |
+| 2026-27 | 0 | - | 269 | 0 | 0.0 | 182 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,28 +21,29 @@
 | PTS | 7.1 | -1.2 | -1.0 | - |
 | REB | 5.3 | +0.1 | -0.9 | - |
 | AST | 0.7 | -1.3 | -1.0 | - |
-| STL | 0.5 | -1.5 | -1.3 | weak for his position (punt fit) |
-| BLK | 1.4 | +1.7 | +0.6 | - |
+| STL | 0.5 | -1.5 | -1.2 | weak for his position (punt fit) |
+| BLK | 1.4 | +1.8 | +0.6 | - |
 | TO | 0.9 | +1.0 | +0.9 | - |
 
 </details>
 
 **Current**
-- Moussa Diabaté is the projected starting center in Charlotte. Kalkbrenner competes for center minutes with Diabaté, Steinbach, Kai Jones and the rookie taken 14th. Grant Williams also plays some small-ball five. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/lOshTzDA4SA?t=1097), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
-- Charlotte played better last season with Diabaté starting at center. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315))
-- Charlotte has only 13 back-to-backs, the league minimum. With a March 28 end, the team plays 4, 3 and 4 games in our playoff weeks. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- He is expected to be last in Charlotte's center rotation and to be out of the rotation on many nights. The expert says not to count on him. (verdict, 2026-09-14; [07-21](https://youtu.be/EB1Z_6n56-o?t=1188), [09-14](https://youtu.be/t4n9MAP2_14?t=2230))
+- He is not worth a draft pick in a 12-team league. (verdict, 2026-10-16; stats, [09-14](https://youtu.be/t4n9MAP2_14?t=2230))
+- Moussa Diabaté is projected to start at center. Kalkbrenner competes for backup center minutes with Diabaté, a first-round rookie and Kai Jones. Naz Reid and Grant Williams can also play the five. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=315), [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [06-25](https://youtu.be/lOshTzDA4SA?t=1097), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1939))
+- Charlotte has a deep roster, so minutes for its reserve bigs are spread thin. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1568), [07-21](https://youtu.be/EB1Z_6n56-o?t=2172))
+- With a March 28 end, Charlotte plays 4, 3 and 4 games in our playoff weeks. The team has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- Experts expect him to be last in Charlotte's center rotation and out of the rotation on many nights. Do not count on him. (verdict, 2026-09-14; [07-21](https://youtu.be/EB1Z_6n56-o?t=1188), [09-14](https://youtu.be/t4n9MAP2_14?t=2230))
 
 **Durable**
-- He blocks shots well and is the best rim protector among Charlotte's bigs. In Summer League he blocked 3.7 shots in 27 minutes. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-21](https://youtu.be/EB1Z_6n56-o?t=663), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897))
-- Outside of blocks and rebounds he adds little. He looked slow and scored only 5 points per game in Summer League. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897))
-- He takes no threes. Charlotte does not let him shoot from the perimeter. (fact, 2026-07-23; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), [08-02](https://youtu.be/TOn-D1SV7a8?t=1112), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897), stats)
-- He was very efficient as a starter. His FG% is very high, but on low volume. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), stats)
+- He is a strong shot blocker and the best rim protector among Charlotte's bigs. (verdict, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897), stats)
+- He looks slow and gives little beyond rebounds and blocks. His points, assists and steals are low. (verdict, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=333), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897), stats)
+- He takes no threes. Charlotte does not let him shoot from the perimeter. (fact, 2026-08-02; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), [08-02](https://youtu.be/TOn-D1SV7a8?t=1112), [07-23](https://youtu.be/LUTYUdXBG1M?t=1897), stats)
+- He finishes very efficiently around the rim, but his shot volume is low, so his FG% boost is modest. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=663), stats)
 
 **Tags**
-- Current: `minutes competition` (Competes with Diabaté, Steinbach, Kai Jones and the rookie taken 14th at center), `role down` (Expected to be last in the center rotation and out of it on many nights), `deep rotation` (Deep roster that uses a three-center rotation), `few back-to-backs` (13 back-to-backs, the league minimum)
-- Durable: `no 3PM` (0.0 threes per game. The team does not let him shoot from the perimeter.), `punt 3PM fit`, `punt STL fit`
+- Current: `minutes competition` (Diabaté, a first-round rookie, Kai Jones, Naz Reid and Grant Williams at center), `role down` (expected last in the center rotation), `deep rotation`, `few back-to-backs` (13 back-to-backs, league minimum)
+- Durable: `no 3PM` (team does not let him shoot from the perimeter), `punt 3PM fit`, `punt STL fit`
 
-**Note.** At 0 USD on both sites, rank 246 on Yahoo and 182 on ESPN, he sits well outside our 144-player draft pool. Do not draft him. His only fantasy appeal is blocks and FG% on low volume, which makes him a limited fit for punt 3PM and punt STL builds. Early in the season, watch Charlotte's center minutes. He is worth a waiver pickup only if injuries to Diabaté or the other bigs push him into a regular role.
+**Note.** At 0 USD on both Yahoo and ESPN (rank 269 and 182), he is not one of the 144 players we draft. Last season he blocked 1.5 shots in 21.4 minutes, so his blocks are real, but experts expect him to be the last center in Charlotte's rotation. ESPN's 23.2-minute projection looks too high. Leave him on waivers and pick him up for blocks in a punt 3PM or punt STL build only if Diabaté gets hurt or he wins steady minutes early in the season.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

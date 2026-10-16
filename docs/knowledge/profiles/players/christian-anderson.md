@@ -7,7 +7,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 698 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 706 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,33 +20,28 @@
 | REB | 2.0 | -1.3 | -1.3 | - |
 | AST | 2.9 | -0.2 | -0.5 | - |
 | STL | 0.7 | -0.8 | -1.0 | - |
-| BLK | 0.2 | -0.9 | -0.9 | - |
+| BLK | 0.2 | -0.9 | -1.0 | - |
 | TO | 1.3 | +0.5 | +0.6 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable with an ankle injury. (fact, 2026-10-11; stats)
-- Coby White is out with a calf injury and will probably miss the start of the season. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575))
-- Charlotte plans to space the floor and take a lot of threes. Playmaking will be spread across several players instead of one main creator. (fact, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=401), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306), [09-27](https://youtu.be/CRLSsoGhb2w?t=282))
-- Charlotte has a deep roster. Schröder and Allen are also on the guard bench. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-27](https://youtu.be/CRLSsoGhb2w?t=1568))
-- Charlotte has only 13 back-to-backs, the league minimum. Its playoff schedule for a March 28 end is 4-3-4 games. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- His Summer League was disappointing because of bad shooting, but he took a high volume of threes. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
-- He is a rookie. Charlotte drafted him 18th overall in the 2026 NBA Draft. (fact, 2026-07-21; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
-- He is not yet trusted as Charlotte's backup point guard. The team has no trusted backup point guard on the roster. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1465), [07-21](https://youtu.be/EB1Z_6n56-o?t=1000))
-- Walker calls him a fun archetype rather than a functional player for now. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
-- Coby White is Charlotte's starting guard, so Anderson is not expected to start. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [06-26](https://youtu.be/CLsUc0Sevos?t=1699))
-- One dynasty ranker puts him 16th in the rookie class and really likes him, but says he will not start this season. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1696))
+- Coby White has a calf injury and will probably miss the start of the season. (fact, 2026-10-08; [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-08](https://youtu.be/6DnRWahYrFA?t=1269))
+- His Summer League was disappointing because he shot poorly. His high three-point volume there was a good sign. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
+- Christian Anderson is a rookie. Charlotte took him 18th overall in the 2026 draft. (fact, 2026-07-21; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [07-21](https://youtu.be/EB1Z_6n56-o?t=1465))
+- The team does not yet trust him as the backup point guard. Walker calls him a fun archetype rather than a functional one for now. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1465), [07-21](https://youtu.be/EB1Z_6n56-o?t=1000))
+- He will not start. Coby White is Charlotte's starting guard. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1696), [06-26](https://youtu.be/CLsUc0Sevos?t=1699))
+- One dynasty rookie ranking puts him 16th in the class. The speaker really likes him. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1696))
 
 **Durable**
-- Experts rate him as possibly the best passer and the best shooter in the 2026 draft class. One speaker says he has two outlier skills and rates him above consensus. (verdict, 2026-07-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1372), [06-25](https://youtu.be/lOshTzDA4SA?t=1557), [06-22](https://youtu.be/HxQjagSTTAM?t=413), [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
-- He is undersized for a guard. (fact, 2026-06-26; [06-25](https://youtu.be/lOshTzDA4SA?t=1557), [06-22](https://youtu.be/HxQjagSTTAM?t=413), [06-26](https://youtu.be/CLsUc0Sevos?t=1696))
-- His size and defense are the main concerns about his game. (verdict, 2026-06-22; [06-22](https://youtu.be/HxQjagSTTAM?t=413))
+- Experts see two outlier skills, passing and shooting. He could be the best passer and possibly the best shooter in the 2026 class. (verdict, 2026-07-23; [06-23](https://youtu.be/-rgXhs5BHiw?t=1372), [06-25](https://youtu.be/lOshTzDA4SA?t=1557), [06-22](https://youtu.be/HxQjagSTTAM?t=413), [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
+- He takes a high volume of threes. (fact, 2026-07-23; [07-23](https://youtu.be/LUTYUdXBG1M?t=1931))
+- He is undersized. Experts list his size and his defense as the main concerns. (verdict, 2026-06-26; [06-22](https://youtu.be/HxQjagSTTAM?t=413), [06-25](https://youtu.be/lOshTzDA4SA?t=1557), [06-26](https://youtu.be/CLsUc0Sevos?t=1696))
 
 **Tags**
-- Current: `rookie` (18th overall pick in 2026), `minutes competition` (Coby White starts; Schröder and Allen also on the guard bench; not yet trusted as backup PG), `questionable` (Yahoo Q (ankle)), `injured now` (ankle, Yahoo status Q), `waiver watch` (Yahoo rank 698, value 0 USD; watch for backup PG minutes while Coby White is out), `three-point heavy` (Charlotte is leaning fully into spacing and threes), `shared ball handling` (playmaking spread among White, Knueppel and Miller after the LaMelo Ball trade), `deep rotation` (deep Charlotte roster), `few back-to-backs` (13 back-to-backs, league minimum)
+- Current: `rookie` (18th overall pick in 2026 by Charlotte), `minutes competition` (Not yet trusted as backup point guard; Schröder and Allen are on the bench behind White), `waiver watch` (Yahoo rank 706 and value 0; check whether backup guard minutes open while Coby White is out)
 - Durable: none
 
-**Note.** He is not a draft target in our 144-player auction. Yahoo values him at 0 USD (rank 698), ESPN has no price, and his projected line (8.3 points, 2.9 assists, 1.3 threes) has no strong category. Leave him on waivers. Early in the season, check whether his ankle clears and whether he becomes the backup point guard while Coby White is out with his calf injury. His shooting and passing fit Charlotte's three-heavy plan, but the experts' praise is mostly about his long-term outlook.
+**Note.** Anderson is not a draft target in our league. Yahoo ranks him 706 with a value of 0 USD, and ESPN gives no price. His Yahoo projection of 8.3 points and 2.9 assists comes with no category strength. Leave him on waivers and check early in the season whether Coby White's calf injury gives him backup point guard minutes. His passing and shooting are the skills to watch for.
 
-<sub>6 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

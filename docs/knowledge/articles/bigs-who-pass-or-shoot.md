@@ -3,35 +3,35 @@
 
 <sub>Proposed by the synthesis, not on the user's list.</sub>
 
-**Summary.** Big men who add assists or threes to their rebounds and blocks are worth extra in our 9-cat H2H league, because one roster slot fills categories that usually need two players. Threes from a big usually cost some FG% and some rebounds, so pay full price only when the FG% holds. Otherwise, use stretch bigs in punt FG% builds. Most passing bigs also give up turnovers, so they fit punt TO builds.
+**Summary.** Big men who add assists or threes to rebounds and blocks matter more in our 9-cat H2H league, because they cover categories that usually come from guards. The catch is that threes and FG% pull against each other. A big who drifts out to the arc can lose offensive rebounds and rim finishing, so pay for the combination only when his FG% still holds up.
 
-## Why rare combinations win weeks
+## Why rare combos win weeks
 
-One expert rule is simple. A player who combines categories that do not normally go together, like rebounds and assists, carries extra value. A typical big gives rebounds, blocks and often FG%. Assists and threes usually come from other players. A big who adds one of them covers two groups of categories from one roster slot. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
+The experts say players who combine categories that do not usually go together carry extra value. Rebounds plus assists is the example they give. In our league each week is nine separate contests against one opponent. Most rosters get rebounds and blocks from bigs, and assists and threes from guards. A big who also brings assists or threes covers a category from a slot that normally gives nothing there. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
 
-This matters in our format. Each week you win or lose each of the 9 categories against one opponent. We start 10 players and draft only 12 each. When one big already gives you assists or threes, your guard and wing slots and your remaining budget can go to the categories you still lack. One note calls a big with blocks, threes, rebounds and good FG% a fantasy cheat code. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [06-25](https://youtu.be/lOshTzDA4SA?t=1089))
+That frees the rest of your roster. If your C slot already adds assists or threes, your G and Util slots can chase steals, FT% or low turnovers. With only 12 drafted players per team and 10 starters, one player who covers an extra category is worth more than his raw totals suggest. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
 
-## The cost: threes pull against FG%
+The experts call one version a fantasy cheat code: a big man with blocks, threes, rebounds and a good field goal percentage. Few players give all four, and that is why the profile is worth chasing. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089))
 
-Threes and FG% pull against each other, so adding threes to a big man build is hard. FG% is a team ratio in our league. A big who takes many shots moves it a lot. A stretch big who shoots threes on volume can drag your team FG% down. ([07-15](https://youtu.be/0geFVzSqOnA?t=1031))
+## The price of threes from a big
 
-A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop, while his assists and three-point attempts go up. So a big who moves outside often trades some rebounds and FG% for threes and assists. He does not simply add threes to an unchanged stat line. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
+A center who takes more threes plays farther from the rim. His offensive rebounds and rim finishing tend to drop. His assists and three-point attempts tend to go up. So threes and assists from a big often arrive together, but some rebounds and FG% can leave at the same time. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
 
-The notes pull in different directions here. One side says the full package of blocks, threes, rebounds and good FG% is a cheat code. The other side says threes and FG% work against each other, and more threes means fewer offensive rebounds and fewer rim finishes. Read together, they say the full package exists but is rare. Pay a premium only when the FG% is still good. Treat a big with threes and a weak FG% as a punt FG% piece, not a cheat code. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089), [07-15](https://youtu.be/0geFVzSqOnA?t=1031), [08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
+The experts do not fully agree on how often this works. One view is that a big with blocks, threes, rebounds and good FG% is a cheat code worth building around. The other is that threes and FG% pull against each other, so adding threes to a big man build is hard and often costs you FG%. Both can be true. The full profile is very strong, but it is rare, and most stretch bigs give you the threes with a weaker FG%. ([06-25](https://youtu.be/lOshTzDA4SA?t=1089), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
 
 ## How to use this in our auction
 
-Pick your build before 2026-10-18. Most passing bigs in our pool give back turnovers, and their profiles point to punt TO builds. If you plan to punt TO, the assist bigs are the main targets for you. Their turnovers cost you nothing there, and their frontcourt assists count in full. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [Nikola Jokić](../profiles/players/nikola-jokic.md), [Alperen Sengun](../profiles/players/alperen-sengun.md), [Domantas Sabonis](../profiles/players/domantas-sabonis.md), [Jalen Johnson](../profiles/players/jalen-johnson.md), [Scottie Barnes](../profiles/players/scottie-barnes.md))
+Before you bid on any big, list what he adds beyond rebounds and blocks. Give extra value to assists or threes only if his FG% is still good. FG% is a team ratio, so a high-volume big with a poor percentage hurts it more than a low-volume guard does. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
 
-Many stretch bigs in our pool have FG% as their weak spot. Their profiles point to punt FG% builds. If you plan to punt FG%, these bigs give you threes, rebounds and blocks while their missed shots cost you nothing. If you plan to win FG%, look for stretch bigs whose FG% is not flagged as weak. ([07-15](https://youtu.be/0geFVzSqOnA?t=1031), [Bam Adebayo](../profiles/players/bam-adebayo.md), [Jabari Smith Jr.](../profiles/players/jabari-smith.md), [Myles Turner](../profiles/players/myles-turner.md), [Naz Reid](../profiles/players/naz-reid.md))
+If you buy a big whose threes come with a weak FG%, plan the rest of the roster around it. Either add a high-FG% rim big in a Util slot, or commit to a punt FG% build and stop paying for FG% elsewhere. Do not pay for the threes and then also bid on FG% help you cannot use. ([07-15](https://youtu.be/0geFVzSqOnA?t=1031), [08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
 
-Pay for the combination, not for a tag. Before you bid, check that the player gives a real edge in both groups: rebounds or blocks, plus assists or threes. Several stretch bigs sit at the end of our 144-player pool. They are fine last picks, but they should not pull money away from your core. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382), [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md), [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md), [Draymond Green](../profiles/players/draymond-green.md))
+Assist bigs follow the same logic for guards. If your center gives real assists, you can spend less on pass-first guards and use those dollars on threes or steals. ([07-15](https://youtu.be/0geFVzSqOnA?t=1382))
 
-## What to check after the draft
+## What to check in the first weeks
 
-In the first weeks, watch any big whose three-point attempts rise. Check at the same time whether his rebounds and FG% fall. If his assists and threes go up while his FG% drops, move him toward a punt FG% plan, or trade him to a manager who punts FG%. Do this before the trade deadline on 2027-03-04. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
+For every big you own with threes or assists, track three numbers in the first two to three weeks: three-point attempts, offensive rebounds and FG%. If his three-point attempts climb while his rebounds and FG% slide, that is the pattern the notes describe. Decide early whether his threes and assists still beat what a rim big would give you. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614))
 
-Waivers run daily on FAB, with at most 6 adds per week. Bench bigs who shoot threes sit on waivers and can matter fast when a starter ahead of them misses time. Keep a short watch list. Spend FAB when the minutes open up, not before. ([Bobby Portis Jr.](../profiles/players/bobby-portis.md), [Brook Lopez](../profiles/players/brook-lopez.md))
+Use FAB and your 6 weekly adds to fix whatever the combination costs you. If your stretch big is dragging FG%, pick up a rim-running big. If he is giving you threes and assists as hoped, you can drop a guard who only gave you those same categories. ([08-25](https://youtu.be/H9q2FT3LhNw?t=1614), [07-15](https://youtu.be/0geFVzSqOnA?t=1031))
 
 ## Players
 
@@ -41,62 +41,69 @@ Prices in USD. Yahoo and ESPN: rank and average auction cost for 2026-27.
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 81.6 | 1 | 83.2 | 87 | About 10 assists per game from the center slot is the rarest combination in the pool, and turnovers are his only weak category. |
-| [Victor Wembanyama](../profiles/players/victor-wembanyama.md) | SAS | C | 2 | 79.3 | 2 | 80.0 | 85 | About 2 threes per game on top of elite blocks, rebounds and points, but check that his blocks climb back above last season's 3.1. |
-| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 60.8 | 19 | 64.1 | 62 | Elite FG%, rebounds and about 6 to 7 assists from the frontcourt, in a build that punts FT% and accepts the turnovers. |
+| [Nikola Jokić](../profiles/players/nikola-jokic.md) | DEN | C | 1 | 78.8 | 1 | 85.5 | 87 | He is the clearest rebounds plus assists center, with about 10 assists a game from the C slot, so he covers a guard category on his own. |
+| [Victor Wembanyama](../profiles/players/victor-wembanyama.md) | SAS | C | 2 | 77.4 | 2 | 81.7 | 85 | He comes closest to the cheat code profile: elite blocks and rebounds plus about 2 threes a game as a center, with turnovers his only real cost. |
+| [Giannis Antetokounmpo](../profiles/players/giannis-antetokounmpo.md) | MIA | F,C | 6 | 62.0 | 19 | 64.3 | 62 | He adds about 6 assists to rebounds and FG% from the frontcourt, and may run point in Miami, but his FT% suits a punt FT% build. |
 
-### Forward combos
+### Core targets
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 51.2 | 7 | 55.5 | not drafted | Over 3 threes and about 5.6 assists projected with strong rebounds from a forward, with FG% as the soft spot. |
-| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 12 | 49.5 | 9 | 54.5 | 34 | Elite rebounds plus about 8 assists from a forward, at their best in punt TO, if the assists hold up with McCollum on the floor. |
+| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 47.0 | 13 | 43.0 | 31 | He brings frontcourt assists plus steals and blocks, a rare mix that fits most builds, though his usage next to Leonard needs checking. |
+| [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 43.8 | 21 | 34.8 | 46 | He adds about 1.8 threes and FT% to big-man rebounds, but his weak playoff schedule for a March 28 end trims his value. |
+| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 33.4 | 30 | 32.5 | 36 | He gives about 6 assists from center with rebounds and FG%, so he fits punt FT% and punt TO builds where his 69% FT and turnovers do not hurt. |
+| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 25.0 | 32 | 37.3 | 41 | He has the best rebounds plus assists combination with high-volume FG%, but weak FT%, threes and blocks make him a punt TO piece only. |
+| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 27.4 | 17 | 27.1 | 26 | He adds about 1.9 threes and steals to rebounds, but his FG% is the weak spot, which is the threes-versus-FG% trade-off in action. |
 
 ### Value at price
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Scottie Barnes](../profiles/players/scottie-barnes.md) | TOR | F,C | 15 | 46.3 | 13 | 44.1 | 31 | Assists, steals and blocks together are rare for an F/C, and he fits punt TO and Giannis punt FT% builds. |
-| [Karl-Anthony Towns](../profiles/players/karl-anthony-towns.md) | NYK | F,C | 16 | 41.6 | 21 | 35.4 | 46 | Elite rebounds, threes and a good FT% for a big make him a strong punt TO fit. |
-| [Bam Adebayo](../profiles/players/bam-adebayo.md) | MIA | F,C | 26 | 25.3 | 17 | 27.1 | 26 | Rebounds, points, steals and threes from a big, with FG% as his only weak category, so he suits punt FG%. |
-| [Alperen Sengun](../profiles/players/alperen-sengun.md) | HOU | F,C | 22 | 33.2 | 30 | 33.3 | 36 | About 6 assists from the center spot with strong rebounds and points, but his FT% and turnovers point him to punt FT% or punt TO. |
-| [Domantas Sabonis](../profiles/players/domantas-sabonis.md) | SAC | F,C | 34 | 26.0 | 32 | 38.7 | 41 | His best skill is assists plus rebounds with good FG%, but he gives back turnovers, threes and blocks. |
-| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.7 | 44 | 6.3 | 6 | Threes and steals from a center with no weak category, though experts expect his FG% and blocks to stay at last season's lower level. |
-| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 74 | 3.8 | 46 | 4.1 | 5 | Rebounds, blocks and FG% at little cost, plus some threes that experts doubt will last at 40%. |
-| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 65 | 4.1 | 24 | 10.0 | 2 | About 2.5 threes projected plus blocks from a big, but no FG% help on about 13 shots a game. |
-| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 64 | 6.0 | 64 | 5.3 | 12 | Blocks and threes from the forward spot with no weak category. |
-| [Lauri Markkanen](../profiles/players/lauri-markkanen.md) | UTA | F | 30 | 20.7 | 36 | 13.1 | 16 | About 3 threes plus rebounds and FT% on volume from a forward, if the neck and his health hold. |
-| [Michael Porter Jr.](../profiles/players/michael-porter.md) | BKN | F | 61 | 3.5 | 43 | 10.8 | 10 | Points, threes and rebounds from a forward with no weak category. |
-| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 51 | 12.8 | 76 | 15.4 | 26 | Points, rebounds and about 5.3 assists from a forward, at his best in punt TO or punt FT builds. |
-| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 71 | 5.8 | 84 | 9.3 | 10 | Points, rebounds and guard-like assists from a forward with neutral percentages, at the cost of turnovers. |
+| [Naz Reid](../profiles/players/naz-reid.md) | CHA | F,C | 70 | 4.0 | 24 | 13.0 | 2 | He gives about 2.5 threes plus blocks from a F/C and fits builds that do not need a FG% boost from their bigs. |
+| [Onyeka Okongwu](../profiles/players/onyeka-okongwu.md) | ATL | C | 49 | 7.6 | 44 | 6.7 | 6 | He is a center who adds about 1.9 threes and steals, but his FG% depends on getting rim shots, so check his shot location early. |
+| [Kel'el Ware](../profiles/players/kelel-ware.md) | MIL | C | 72 | 3.2 | 46 | 5.6 | 5 | He gives rebounds, blocks, FG% and some threes, but barely passes, so he suits builds that give up assists. |
+| [Matas Buzelis](../profiles/players/matas-buzelis.md) | CHI | F | 59 | 6.0 | 64 | 5.9 | 12 | He is a forward rather than a true big, but his blocks plus threes and no weak categories make him an easy fit. |
+
+### Forward combos
+
+| Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
+|---|---|---|---|---|---|---|---|---|
+| [Jayson Tatum](../profiles/players/jayson-tatum.md) | BOS | F | 7 | 57.8 | 7 | 56.0 | not drafted | He combines about 3.3 threes, 8.9 rebounds and 5.6 assists from the F slot, with turnovers and FG% as the costs. |
+| [Jalen Johnson](../profiles/players/jalen-johnson.md) | ATL | F | 12 | 50.0 | 9 | 54.5 | 34 | He gives rebounds and about eight assists from a forward, but experts expect his assists and FG% to drop next to McCollum. |
+| [Paolo Banchero](../profiles/players/paolo-banchero.md) | ORL | F | 51 | 17.1 | 76 | 15.9 | 26 | He pairs about 8 rebounds with 5.3 assists as a forward, but 3.1 turnovers and 75% FT point him to punt TO or punt FT builds. |
+| [Julius Randle](../profiles/players/julius-randle.md) | BKN | F | 74 | 5.8 | 84 | 9.2 | 10 | He helps in rebounds and about 5 assists as Brooklyn's main creator, but costs you in turnovers and blocks. |
 
 ### Late flyers
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 154 | 1.0 | 80 | 1.4 | 21 | Threes, blocks and a good FT% from a center as a cheap flyer, if the hamstring holds. |
-| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 118 | 1.2 | 95 | 1.4 | 20 | A cheap source of blocks and threes from a center for punt FG% builds. |
-| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 96 | 1.7 | 111 | 1.2 | 1 | About 2 threes plus rebounds and blocks on heavy minutes, with FG% as the weak spot. |
-| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 129 | 1.0 | - | 0.1 | not drafted | He brings frontcourt threes, but his blocks are low for his position, so he is only a mild fit. |
-| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 152 | 0.0 | 163 | 0.4 | 4 | Frontcourt assists with a small steals edge, but weak points, turnovers and FG% limit him to builds that can absorb them. |
+| [Myles Turner](../profiles/players/myles-turner.md) | MIL | C | 119 | 1.1 | 95 | 1.8 | 20 | He offers blocks and about 2 threes from center, but his FG% fits punt FG% builds only. |
+| [Jabari Smith Jr.](../profiles/players/jabari-smith.md) | HOU | F,C | 96 | 1.9 | 111 | 1.5 | 1 | He gives about 2.1 threes from the frontcourt on steady minutes, but his FG% fits punt FG% builds best. |
+| [Nikola Vučević](../profiles/players/nikola-vucevic.md) | ORL | C | 165 | 1.0 | 102 | 1.3 | 17 | He has rebounds and some threes from center, but only as a backup and handcuff whose value depends on minutes. |
+| [Draymond Green](../profiles/players/draymond-green.md) | GSW | F,C | 151 | 1.0 | 163 | 0.3 | 4 | He brings about 5.4 assists from F/C, but his weak points, FG% and turnovers make him a last-pick option for assist-needy builds only. |
+| [Sandro Mamukelashvili](../profiles/players/sandro-mamukelashvili.md) | LAL | F,C | 133 | 1.6 | - | 0.1 | not drafted | He gives about 1.9 threes from the frontcourt, but his blocks are low for his position and the Lakers' playoff schedule is weak. |
+| [Kristaps Porziņģis](../profiles/players/kristaps-porzingis.md) | GSW | C | 177 | 1.9 | 80 | 1.5 | 21 | He fits the blocks, threes and FT% center profile on paper, but he is out with no return date, so at most he is an IL stash. |
 
 ### Waiver watch
 
 | Player | Team | Pos | Yahoo rank | Yahoo cost | ESPN rank | ESPN cost | Our league 2025-26 | Why |
 |---|---|---|---|---|---|---|---|---|
-| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 171 | 0.0 | 113 | 0.2 | not drafted | Blocks and threes as a center, but he only matters if he reaches about 30 minutes. |
-| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 172 | 0.0 | 172 | 0.1 | 2 | Threes and rebounds as a bench big with no steals or blocks, worth adding fast if Giannis or Adebayo misses time. |
+| [Brook Lopez](../profiles/players/brook-lopez.md) | LAC | C | 175 | 0.0 | 113 | 0.3 | not drafted | He has the blocks plus threes center profile but is not a draft target, so add him from waivers only if he reaches about 30 minutes. |
+| [Bobby Portis Jr.](../profiles/players/bobby-portis.md) | MIA | F,C | 172 | 0.0 | 172 | 0.1 | 2 | He adds a little in threes and rebounds but gives no steals or blocks, so he is a waiver add only if Giannis or Adebayo misses time. |
 
 <details><summary>Left out</summary>
 
-- Brandon Miller: His data shows a wing profile of threes, FT% and points, with no rebound or block edge.
-- Jalen Williams: His value is assists and steals for a forward, and his data shows no rebound or block edge.
-- LeBron James: He is reported to play point guard, and his value is assists, FG% and scoring, not rebounds or blocks.
-- Julian Champagnie: He is a threes, FT% and low-turnover forward with no rebound or block edge, and he is better left on waivers.
-- Royce O'Neale: Threes are his only real category, with no rebound or block edge, and he is undraftable.
-- Sam Hauser: He gives threes and few turnovers but no rebound or block edge, and he sits outside our 144-player pool.
-- Max Strus: He is a threes and low-turnover wing with no rebound or block edge, and he sits outside our 144-player pool.
+- Lauri Markkanen: Scoring forward whose data shows threes, FT% and points, with no rebound or block profile that fits the big-man combo.
+- Brandon Miller: Forward with guard-like three volume and no big-man rebounds or blocks in his data.
+- Jalen Williams: Forward whose value is assists and steals, not rebounds or blocks.
+- Michael Porter Jr.: Shooting forward whose profile is threes, points and FT%, not a big-man combo.
+- LeBron James: Forward playing point guard whose data shows assists but no big-man rebounds or blocks.
+- Cameron Johnson: Shooting forward whose profile is threes, FT% and low turnovers, with no rebounds or blocks.
+- Jerami Grant: Forward whose data shows points, threes and FT% only, and who may not start.
+- Royce O'Neale: Corner three shooter whose only help is threes, with no rebounds or blocks.
+- Sam Hauser: Three-point specialist with no rebounds, blocks or assists value.
+- Max Strus: Wing shooter whose value is threes and low turnovers, not a big-man profile.
 
 </details>
 
-<sub>Built 2026-10-11 with claude-opus-5-5 high.</sub>
+<sub>Built 2026-10-16 with claude-opus-5-5 high.</sub>

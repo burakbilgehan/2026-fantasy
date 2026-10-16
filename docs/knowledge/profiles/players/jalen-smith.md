@@ -11,18 +11,18 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 165 | 0 | 0.0 | 201 | not drafted |
+| 2026-27 | 0 | - | 157 | 0 | 0.0 | 201 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.9% | -0.0 | -0.5 | - |
-| FT% | 76.8% | -0.2 | +0.3 | - |
+| FG% | 47.9% | -0.0 | -0.4 | - |
+| FT% | 76.8% | -0.2 | +0.2 | - |
 | 3PM | 1.4 | -0.1 | +0.3 | - |
 | PTS | 9.6 | -0.8 | -0.7 | - |
 | REB | 6.4 | +0.5 | +0.0 | - |
-| AST | 1.3 | -1.0 | -0.9 | - |
+| AST | 1.3 | -1.0 | -0.8 | - |
 | STL | 0.5 | -1.4 | -1.3 | - |
 | BLK | 0.8 | +0.4 | -0.1 | - |
 | TO | 1.1 | +0.7 | +0.6 | - |
@@ -30,22 +30,23 @@
 </details>
 
 **Current**
-- He is the backup center behind Nick Claxton in Chicago. (fact, 2026-09-28; [06-23](https://youtu.be/9tb1ARBEmQU?t=914), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281))
-- Claxton is about 90% sure to start over him. The expert does not expect Smith to start. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
-- The projected bench order is Tre Jones, then Isaac Okoro, then Jalen Smith, then Buddy Hield. (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
-- If he starts, he becomes a must-roster player because of his shooting and blocks. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
-- He is a late swing pick. He is an easy draft in 16-team leagues and a debatable one in 14-team leagues. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1647))
-- Chicago has enough centers to cover a Claxton absence. Smith is one of the players who would get those minutes. (fact, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=155), [06-23](https://youtu.be/9tb1ARBEmQU?t=829))
-- If Leonard Miller works out, Smith could become expendable and might be traded. (verdict, 2026-08-18; [08-18](https://youtu.be/FxaSnyk9g90?t=1554))
-- His strong March and April numbers from last season should not be trusted for this season. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=914))
+- Experts disagree on his opening-night role. The September 28 preview put Claxton at about 90% to start and did not expect Smith to start. A mock draft on October 14 guessed Smith will start at center on opening night. (verdict, 2026-10-14; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [10-14](https://youtu.be/D4dP5JvX1oo?t=1630))
+- He is a late flyer or swing pick. Experts call him an easy draft in 16-team leagues and debatable in 14-team leagues. One expert took him around pick 157 as an early-season flyer. (verdict, 2026-10-14; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1647), [10-11](https://youtu.be/uI6umXsE7Vk?t=1995), [10-14](https://youtu.be/D4dP5JvX1oo?t=1630))
+- Chicago could make him expendable and trade him if Leonard Miller develops. A later note says Miller is stuck behind Buzelis and Caleb Wilson. (verdict, 2026-10-12; [08-18](https://youtu.be/FxaSnyk9g90?t=1554), [10-12](https://youtu.be/ENizLoE6pzI?t=1610))
+- He has a foot issue now. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1995))
+- He is a backup center behind Nick Claxton, whom Chicago acquired in June. The September team preview listed him third off the bench, after Tre Jones and Isaac Okoro, with Buddy Hield behind him. (fact, 2026-09-28; [06-23](https://youtu.be/9tb1ARBEmQU?t=914), [09-28](https://youtu.be/3Qm5wLjhvTw?t=281), [09-28](https://youtu.be/3Qm5wLjhvTw?t=1383))
+- If he starts, he is a must-roster player because of his shooting and blocks. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
+- Chicago has 10 games in our fantasy playoff weeks 19 to 21 (3-3-4). (fact, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=2024))
+- Do not trust his numbers from March and April of last season. (verdict, 2026-06-23; [06-23](https://youtu.be/9tb1ARBEmQU?t=914))
 
 **Durable**
-- His fantasy appeal comes from his shooting and his blocks. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617))
+- In his career he has tended to get hurt just as more playing time opens up. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=1995))
+- His fantasy appeal is threes and blocks from a big man. His points, assists and steals are low. (verdict, 2026-09-28; [09-28](https://youtu.be/3Qm5wLjhvTw?t=1617), stats)
 
 **Tags**
-- Current: `role down` (Back to a backup center role behind Claxton after 20.6 minutes per game last season), `handcuff` (Backup to Nick Claxton; must roster if he starts), `waiver watch` (Ranked 228 on Yahoo and 200 on ESPN with 0 USD value; only a 14 to 16 team draft), `trade risk` (Could be moved if Leonard Miller works out)
+- Current: `role down` (Back to backup center behind Claxton after 20.6 minutes per game last season), `minutes competition` (Nick Claxton at center; experts disagree on who starts), `handcuff` (Must-roster if he starts in place of Claxton), `injured now` (Foot issue reported October 11; no Yahoo status), `flyer` (Late flyer or swing pick, around pick 157), `waiver watch` (Debatable even in 14-team leagues; watch the opening-night center role), `trade risk` (Could be moved if Leonard Miller develops), `bottom team` (Bulls projected bottom 10, about 32 wins), `new coach` (Tiago Splitter replaces Billy Donovan), `trades likely` (Front office signs veterans on short deals to trade them), `fast pace` (Up-tempo transition style expected)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 228, ESPN rank 200) and nobody drafted him last season. In our 12-team league, where 144 players are drafted, he should not be bought at the auction. He has no category weak enough to make him a punt fit, so he is a fringe streamer whose value depends on minutes. Watch him on waivers early in the season. Check Nick Claxton's health, whether coach Tiago Splitter ever starts Smith, and any trade talk tied to Leonard Miller. If Smith becomes a starter, add him at once.
+**Note.** Both sites give him a 0 USD value. He ranks 157 at Yahoo and 201 at ESPN, outside the 144 players our 12-team auction takes, and experts call him debatable even in 14-team leagues. So do not spend on him at the draft. Watch who starts at center on opening night and how his foot recovers. If he starts or Claxton misses time, his threes and blocks (1.4 3PM and 0.8 BLK projected in about 20 minutes) make him a quick FAB add.
 
-<sub>4 notes. Built 2026-10-04 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>6 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

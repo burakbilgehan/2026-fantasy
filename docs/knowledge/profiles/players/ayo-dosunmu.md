@@ -4,7 +4,7 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 72 | 29.4 | 51.4 (11.3) | 86.8 (2.1) | 1.8 | 15.3 | 3.6 | 3.9 | 0.9 | 0.3 | 1.5 |
-| 2026-27 proj, Yahoo | 71 | - | 49.1 (11.8) | 85.4 (2.0) | 1.7 | 15.1 | 3.6 | 3.7 | 1.0 | 0.4 | 1.5 |
+| 2026-27 proj, Yahoo | 73 | - | 49.1 (11.8) | 85.1 (2.0) | 1.7 | 15.1 | 3.6 | 3.7 | 1.0 | 0.4 | 1.5 |
 | 2025-26 | 69 | 27.3 | 51.7 (10.8) | 87.6 (2.1) | 1.8 | 14.8 | 3.4 | 3.6 | 0.8 | 0.3 | 1.4 |
 | 2024-25 | 46 | 30.3 | 49.2 (9.8) | 78.5 (1.7) | 1.3 | 12.3 | 3.5 | 4.5 | 0.9 | 0.4 | 1.5 |
 | 2023-24 | 76 | 29.1 | 50.1 (9.5) | 81.0 (1.4) | 1.6 | 12.2 | 2.8 | 3.2 | 0.9 | 0.5 | 1.4 |
@@ -18,10 +18,10 @@
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
 | FG% | 50.2% | +0.5 | +1.4 | - |
-| FT% | 86.1% | +0.5 | +0.2 | - |
+| FT% | 86.0% | +0.5 | +0.2 | - |
 | 3PM | 1.8 | +0.3 | -0.1 | - |
 | PTS | 15.2 | +0.2 | +0.1 | - |
-| REB | 3.6 | -0.6 | -0.1 | - |
+| REB | 3.6 | -0.6 | -0.2 | - |
 | AST | 3.8 | +0.3 | -0.0 | - |
 | STL | 0.9 | -0.0 | -0.3 | - |
 | BLK | 0.3 | -0.6 | -0.2 | - |
@@ -30,29 +30,27 @@
 </details>
 
 **Current**
-- His Yahoo status is questionable (rest). (fact, 2026-10-11; stats)
-- He is likely Minnesota's sixth man, a bench scorer projected for about 29 to 30 minutes. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1446), [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
-- He may close games in small lineups instead of Jonathan Kuminga, and he may play more minutes than Josh Green. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1399), [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
-- Experts do not trust his shooting jump and expect it to come back down. His 71% deflection-to-steal conversion is also likely to regress. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1385), [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
-- If his shooting falls back to 49% from the field and 79% from the line, he is roughly a 140 to 180 player. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1385))
-- He is overvalued at his rank of 108 (round 9) and a fade at that price. He is fine as a late pick. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1446))
-- With a March 28 season end, Minnesota plays 4, 2 and 4 games in our playoff weeks. The two-game week starts March 15 and is the semifinal. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
+- He is overvalued at his market rank of about 106 to 108 (round 9) and a fade at that price. He is fine around pick 135 or as a late grab. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=1499), [10-09](https://youtu.be/cFV24VgxyCY?t=1446))
+- Minnesota has a two-game week in the semifinal week of our playoffs (schedule 4, 2, 4 for a March 28 end). (fact, 2026-10-13; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [10-13](https://youtu.be/EogBYa24Gto?t=369), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
+- He is likely Minnesota's sixth man and a scorer off the bench. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1446), [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
+- He might close games in small lineups instead of Jonathan Kuminga. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1399))
+- Experts do not trust his shooting spike and expect his shooting and steal rates to come down. If he falls back to 49% from the field and 79% from the line, he is roughly a 140 to 180 player. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1385), [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
+- Minnesota's bench has little scoring and no ball handlers, so he is the main scorer in the second unit. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=845), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323), [10-09](https://youtu.be/cFV24VgxyCY?t=1446))
 - Minnesota has 13 back-to-backs, the league minimum. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
-- Minnesota plays small, guard-heavy lineups. Its bench unit has no ball handlers and there is little scoring punch off the bench. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=82), [10-02](https://youtu.be/ZYllcj4o6_A?t=2323), [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
-- Minnesota's fifth starting spot is open. Kuminga and Josh Green are the other options for it. (fact, 2026-10-05; [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [08-26](https://youtu.be/sTtFUy7IoJI?t=576), [10-05](https://youtu.be/BiIZsSypx7Y?t=3081), [10-04](https://youtu.be/n4KkK-OJjqA?t=669))
-- He is a tier 8 point guard, and tier 7 in points leagues. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
-- Minnesota should be competitive. One expert predicts 53 wins, so the team will not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
-- LaMelo Ball and Anthony Edwards are Minnesota's lead guards, so he shares the ball with them. (fact, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
-- Even if he starts, he is at best the third offensive option. His usage will probably drop, which caps his fantasy upside. (verdict, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
-- Last season his 3P% rose from 33 to 44 and his FT% rose from about 78 to 88. (fact, 2026-07-16; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838))
+- One September point guard ranking puts him in tier 8. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2118))
+- He is expected to play about 29 to 30 minutes off the bench. He may play more minutes than Josh Green and close games. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=653))
+- Minnesota is expected to compete (one expert predicts 53 wins), so it should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- He shares the ball with LaMelo Ball and Anthony Edwards. Experts see him as the third offensive option at best, and they expect his usage to drop, which caps his upside. (verdict, 2026-07-17; [06-25](https://youtu.be/ya2VYRJ1BN0?t=470), [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
+- Last season his 3P% rose from 33 to 44 and his FT% rose from 78 to 88. He also turned 71% of his deflections into steals. (fact, 2026-07-17; [07-16](https://youtu.be/-y6p5PYLf00?t=383), [07-16](https://youtu.be/-y6p5PYLf00?t=1838), [07-17](https://youtu.be/NYTH7uQsPCM?t=1246))
 
 **Durable**
-- none
+- His projected category line has no weak flag. FG% is his best category compared with other guards. (fact, 2026-10-16; stats)
+- Steals and blocks are weak spots in his game. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1385))
 
 **Tags**
-- Current: `regression risk` (3P% rose from 33 to 44 and FT% from about 78 to 88. His 71% deflection-to-steal conversion is also a regression risk.), `usage competition` (Shares the ball with LaMelo Ball and Anthony Edwards. At best the third option.), `minutes competition` (Competes with Kuminga and Josh Green for the open fifth starter spot and closing minutes.), `bust candidate` (Called overvalued and a fade at rank 108 (round 9).), `questionable` (Yahoo status Q (rest).), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21. The two-game week starts March 15.), `few back-to-backs` (13 back-to-backs, the league minimum.), `small-ball lineups` (Guard-heavy lineups. He may close games in them.), `winning team` (One expert predicts 53 wins.), `low shutdown risk` (Competitive team, no tanking expected.)
-- Durable: none
+- Current: `usage competition` (Third option behind LaMelo Ball and Anthony Edwards), `regression risk` (3P% rose from 33 to 44, FT% from 78 to 88, and 71% deflection-to-steal conversion), `bust candidate` (At his market rank of about 108; experts say worth about 135), `minutes competition` (Sixth man; competes with Kuminga and Josh Green for closing minutes), `bad playoff schedule` (Two-game week in the semifinal week (4, 2, 4)), `few back-to-backs` (13 back-to-backs, the league minimum), `winning team` (One expert predicts 53 wins), `low shutdown risk`, `small-ball lineups` (May close games in small lineups)
+- Durable: `fits every build` (No category flagged weak; steals and blocks are his softest spots)
 
-**Note.** Both sites rank him 108 and average costs are only 1.1 USD (values 4 and 2 USD), so he is a last-dollar guard in our 144-player draft and not worth a bid war. His projected 50% FG and 86% FT on about 15 points help any build. But that line rests on a shooting jump the experts expect to fade, and if it does he drops to about 140 to 180, outside our draft pool. Early in the season, check whether he starts or comes off the bench, whether he closes games ahead of Kuminga, and whether his FT% and 3P% hold. Also remember Minnesota's two-game semifinal week.
+**Note.** Both Yahoo and ESPN rank him 108 with average costs near 1 USD (values 4 and 2 USD), so in our auction he should be a 1 to 3 USD end-of-draft buy and not a target at a ninth-round price. He has no weak category and fits any build, but his value rests on last season's 51.7 FG% and 87.6 FT%; experts see him as a 140 to 180 player if that shooting falls back. Early in the season, check whether he gets 29 to 30 bench minutes and closes games, and whether his three-point and free-throw shooting holds.
 
-<sub>10 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>11 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

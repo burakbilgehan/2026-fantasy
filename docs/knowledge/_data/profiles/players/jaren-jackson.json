@@ -8,26 +8,36 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "96c626e73d88",
+ "input_sha": "6f064d71667b",
  "note_count": 19,
- "built_at": "2026-10-11T09:18:07+00:00",
+ "built_at": "2026-10-16T09:00:16+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1885142,
-  "duration_ms": 47693,
+  "cost_usd_list": 0.2332102,
+  "duration_ms": 68506,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected to start at power forward for Utah and to close some games at center.",
+   "text": "He played only three games for Utah last season, so this is his first full season with the Jazz.",
    "kind": "fact",
    "date": "2026-08-05",
    "until": "",
    "sources": [
+    "CI4k8ofUXXk:p16"
+   ]
+  },
+  {
+   "text": "He is expected to start at power forward next to Jusuf Nurkic and to close games at center.",
+   "kind": "verdict",
+   "date": "2026-10-02",
+   "until": "",
+   "sources": [
     "CI4k8ofUXXk:p17",
-    "CI4k8ofUXXk:t0"
+    "ZYllcj4o6_A:t0",
+    "egRrai3Ax38:t4"
    ]
   },
   {
@@ -40,30 +50,19 @@
    ]
   },
   {
-   "text": "Walker Kessler is gone from Utah.",
-   "kind": "fact",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p21",
-    "LM0cRCGoAUQ:t4",
-    "ZYllcj4o6_A:t0"
-   ]
-  },
-  {
-   "text": "Experts expect more minutes in Utah and a better season than last year. They say his new opportunity matters more than last season's production.",
+   "text": "He should play more minutes in Utah. His usage will likely drop because he shares the ball with Lauri Markkanen, Keyonte George and Darryn Peterson.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "egRrai3Ax38:p37",
     "LM0cRCGoAUQ:p21",
-    "t4n9MAP2_14:p13",
-    "skKXe2CRl8Q:p6"
+    "lOshTzDA4SA:t2",
+    "-rgXhs5BHiw:t1"
    ]
   },
   {
-   "text": "Kessler's exit may help his blocks. Josh does not expect 3 blocks per game, but thinks 2 per game is possible with less offensive usage.",
+   "text": "With Walker Kessler gone, his blocks may rise. Josh thinks 2 blocks per game is possible with less offensive usage, but not a return to 3.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -73,102 +72,88 @@
    ]
   },
   {
-   "text": "His usage will likely drop, because he shares the ball with Lauri Markkanen, Keyonte George and Darryn Peterson. He is not expected to reach his Memphis career-high numbers.",
-   "kind": "verdict",
-   "date": "2026-09-21",
-   "until": "",
-   "sources": [
-    "egRrai3Ax38:p37",
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1",
-    "CI4k8ofUXXk:p22"
-   ]
-  },
-  {
-   "text": "Leaf expects his easiest baskets in years, slipping screens while defenses chase Markkanen.",
+   "text": "The experts disagree on his rebounds. Leaf projects a double-double and his easiest baskets in years from slipping screens, while Josh says 10 rebounds per game would be a huge outcome.",
    "kind": "verdict",
    "date": "2026-08-05",
    "until": "",
    "sources": [
-    "CI4k8ofUXXk:p19"
-   ]
-  },
-  {
-   "text": "The experts disagree on his rebounding upside. Leaf projects a double-double, while Josh says 10 rebounds per game would be a huge outcome.",
-   "kind": "verdict",
-   "date": "2026-08-05",
-   "until": "",
-   "sources": [
+    "CI4k8ofUXXk:p19",
     "CI4k8ofUXXk:p20"
    ]
   },
   {
-   "text": "Utah is trying to win this season and is not expected to tank or shut players down.",
-   "kind": "fact",
-   "date": "2026-09-17",
+   "text": "He is expected to be better than last season, but not to reach his Memphis career highs.",
+   "kind": "verdict",
+   "date": "2026-09-14",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t2",
-    "dlo7L8Ru91A:t2",
-    "J1Eg3uaAICU:t3",
-    "sTtFUy7IoJI:t6",
-    "eTsjuVu1trk:t2"
+    "t4n9MAP2_14:p13",
+    "CI4k8ofUXXk:p22"
    ]
   },
   {
-   "text": "Experts call him undervalued. He is good value at Yahoo ADP 55, too low at ESPN 82, and ranks about 36th in category leagues, so he is a target about two rounds after his ADP.",
+   "text": "Experts call his market price too low. They see a Yahoo ADP around 55 as good value and an ESPN rank of 82 as too low. One expert ranks him 36th in category leagues and calls him a target there about two rounds after that rank.",
    "kind": "verdict",
    "date": "2026-09-21",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:p26",
-    "egRrai3Ax38:p37",
     "t4n9MAP2_14:p13",
+    "egRrai3Ax38:p37",
+    "Alwse2uXzD4:p15",
     "80kfLVnFQ_s:p26",
-    "Alwse2uXzD4:p15"
+    "skKXe2CRl8Q:p6",
+    "WXO8MfQfzo0:p14"
    ]
   },
   {
-   "text": "In a 9-cat mock draft he went in round 4 to a team built around blocks with poor assists.",
-   "kind": "verdict",
+   "text": "In a 9-cat mock draft he went in round 4 to a team building toward blocks with poor assists.",
+   "kind": "fact",
    "date": "2026-09-24",
    "until": "",
    "sources": [
     "_vbAP5y182A:p22"
    ]
-  }
- ],
- "durable": [
+  },
   {
-   "text": "He is one of very few bigs who can block two shots and score 20 points per game.",
+   "text": "Utah is expected to be a good team that tries to win, with about 43 wins and a playoff spot. Experts call fears of tanking and shutdowns misplaced.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p25"
+    "J1Eg3uaAICU:t3",
+    "dlo7L8Ru91A:t2",
+    "ahNxsoU8Hx4:t2",
+    "LM0cRCGoAUQ:t4",
+    "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4",
+    "sTtFUy7IoJI:t6"
    ]
   },
   {
-   "text": "Blocks are his clear outlier category, far above the top 250 pool.",
-   "kind": "fact",
-   "date": "2026-10-11",
+   "text": "Josh expects minutes and usage on the Jazz to be all over the place early in the season.",
+   "kind": "verdict",
+   "date": "2026-10-12",
    "until": "",
    "sources": [
-    "stats"
+    "w66x_I_MaQ8:t2"
    ]
-  },
+  }
+ ],
+ "durable": [
   {
-   "text": "Turnovers are high for a forward or center, so the TO category is his weak spot.",
+   "text": "He is one of very few bigs who can block about two shots and score about 20 points per game. His blocks are far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
+    "ahNxsoU8Hx4:p25",
     "stats"
    ]
   },
   {
    "text": "He is a poor rebounder for a big man.",
-   "kind": "verdict",
+   "kind": "fact",
    "date": "2026-09-17",
    "until": "",
    "sources": [
@@ -178,26 +163,28 @@
    ]
   },
   {
-   "text": "His blocks have been declining over recent seasons.",
-   "kind": "verdict",
+   "text": "His blocks have been declining.",
+   "kind": "fact",
    "date": "2026-09-14",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p22"
+    "LM0cRCGoAUQ:p22",
+    "stats"
    ]
   },
   {
-   "text": "He is not a good passer.",
+   "text": "He is usually worth more in category leagues than in points leagues.",
    "kind": "verdict",
-   "date": "2026-09-17",
+   "date": "2026-08-30",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:t2"
+    "LM0cRCGoAUQ:p22",
+    "Alwse2uXzD4:p15"
    ]
   },
   {
-   "text": "He has not been able to play center over the last 4 to 5 years and plays best next to a big, physical center.",
-   "kind": "verdict",
+   "text": "He has not been able to play center over the last 4 to 5 years. He plays best next to a big, physical center.",
+   "kind": "fact",
    "date": "2026-08-05",
    "until": "",
    "sources": [
@@ -206,13 +193,21 @@
    ]
   },
   {
-   "text": "He is usually worth more in category leagues than in points leagues.",
-   "kind": "verdict",
-   "date": "2026-09-14",
+   "text": "He is not a passer.",
+   "kind": "fact",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
-    "LM0cRCGoAUQ:p22",
-    "Alwse2uXzD4:p15"
+    "ahNxsoU8Hx4:t2"
+   ]
+  },
+  {
+   "text": "His turnovers are high for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -220,11 +215,11 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "about 1.6 blocks per game projected",
+   "detail": "about 1.6 projected blocks with about 20 points",
    "until": "",
    "sources": [
-    "stats",
-    "ahNxsoU8Hx4:p25"
+    "ahNxsoU8Hx4:p25",
+    "stats"
    ],
    "new_meaning": ""
   },
@@ -241,7 +236,7 @@
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "ranked about 36th in categories, outside top 50 in points",
+   "detail": "ranked 36th in cats, ADP leans toward points value",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p22",
@@ -250,14 +245,58 @@
    "new_meaning": ""
   },
   {
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "Leaf projects All-NBA-level defense",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "experts call Yahoo ADP 55 and ESPN rank 82 too low",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p26",
+    "t4n9MAP2_14:p13",
+    "egRrai3Ax38:p37",
+    "Alwse2uXzD4:p15",
+    "80kfLVnFQ_s:p26"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "named in sleeper videos for Yahoo and ESPN",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:p26",
+    "egRrai3Ax38:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 25 USD and rank 40, ESPN value 5 USD and rank 72",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "role up",
    "channel": "current",
-   "detail": "more minutes expected in Utah, Kessler gone",
+   "detail": "more minutes expected in Utah, though usage may drop",
    "until": "",
    "sources": [
     "egRrai3Ax38:p37",
-    "LM0cRCGoAUQ:p21",
-    "t4n9MAP2_14:p13"
+    "LM0cRCGoAUQ:p21"
    ],
    "new_meaning": ""
   },
@@ -274,52 +313,32 @@
    "new_meaning": ""
   },
   {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "Yahoo ADP 55, ESPN ADP 74 to 82",
-   "until": "",
-   "sources": [
-    "ahNxsoU8Hx4:p26",
-    "egRrai3Ax38:p37",
-    "80kfLVnFQ_s:p26"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "expert target",
-   "channel": "current",
-   "detail": "target in category leagues about two rounds after ADP",
-   "until": "",
-   "sources": [
-    "Alwse2uXzD4:p15",
-    "t4n9MAP2_14:p13"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 25 USD (rank 40), ESPN value 5 USD (rank 72)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "injury last season",
    "channel": "current",
-   "detail": "48 games played in 2025-26",
+   "detail": "48 games last season",
    "until": "",
    "sources": [
     "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Leaf projects 43 wins and a 7th or 8th seed",
+   "until": "",
+   "sources": [
+    "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4",
+    "J1Eg3uaAICU:t3",
+    "LM0cRCGoAUQ:t4"
    ],
    "new_meaning": ""
   },
   {
    "name": "low shutdown risk",
    "channel": "current",
-   "detail": "Utah is trying to win, not tank",
+   "detail": "Jazz not tanking this season",
    "until": "",
    "sources": [
     "ahNxsoU8Hx4:t2",
@@ -327,8 +346,18 @@
     "J1Eg3uaAICU:t3"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "minutes and usage expected to be all over the place early",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "He went for 29 USD in our league last season. Yahoo values him at 25 USD but his average cost is only 15.3 USD, and ESPN prices him near 6 USD. Experts rank him about 36th in categories, so anything in the high teens is a strong buy, and up to the mid 20s is fair. He fits blocks-first and punt TO builds, while his weak rebounding and poor passing lean toward punt AST teams. Early in the season, check whether he gets more than 30 minutes, how often he plays center next to Hayes or Nurkic, and whether his blocks climb toward 2 per game.",
+ "note": "The market prices him low, with average costs of 14.6 USD on Yahoo and 7.3 USD on ESPN. That is well below his 25 USD Yahoo value and the 29 USD our league paid last season. The experts rank him about 36th in category formats, so he is a good buy anywhere near his average cost. He fits blocks builds and punt TO builds, and he can help punt AST teams. Early in the season, check three things: whether his minutes go above 30, whether his blocks get back toward 2 per game with Kessler gone, and how much usage he keeps next to Markkanen, George and Peterson.",
  "rejected": []
 }

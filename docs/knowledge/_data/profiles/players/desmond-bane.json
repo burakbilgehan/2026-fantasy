@@ -8,97 +8,96 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3a10cc7ae6bd",
- "note_count": 11,
- "built_at": "2026-10-11T09:15:45+00:00",
+ "input_sha": "ae25ae05675e",
+ "note_count": 17,
+ "built_at": "2026-10-16T08:52:33+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14273819999999998,
-  "duration_ms": 37000,
+  "cost_usd_list": 0.1700822,
+  "duration_ms": 44345,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Bane is a projected starter for Orlando next to Suggs, Franz Wagner, Banchero and Carter.",
+   "text": "Projected to start for Orlando next to Jalen Suggs, Franz Wagner, Paolo Banchero and Wendell Carter Jr.",
    "kind": "fact",
-   "date": "2026-08-01",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
+    "zhXtLr_xYVg:t1",
     "FEcNjVRlj-U:t1"
    ]
   },
   {
-   "text": "Orlando has a new head coach, Sean Sweeney, so player roles may change.",
+   "text": "His usage was under 23% last season, even with Franz Wagner out for most of the year.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:p10"
    ]
   },
   {
-   "text": "Much of his production last season came while Franz Wagner, Paolo Banchero and Jalen Suggs were out for long stretches.",
+   "text": "Expected to be the third option behind Banchero and Wagner, not a primary ball handler. Projected for under 22% usage and about 32 minutes.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p10",
+    "W-R1dzem32s:p21"
+   ]
+  },
+  {
+   "text": "Much of his production last season came while Wagner, Banchero and Suggs missed long stretches. His three point attempt rate also dropped.",
    "kind": "fact",
    "date": "2026-10-06",
    "until": "",
    "sources": [
+    "J1Eg3uaAICU:p48",
+    "dlo7L8Ru91A:p21",
+    "W-R1dzem32s:p21",
+    "uarqbNA2dFk:p39",
     "eTsjuVu1trk:p26",
-    "J1Eg3uaAICU:p48",
-    "dlo7L8Ru91A:p21",
-    "uarqbNA2dFk:p39",
-    "QbdrhJd7LiA:p21",
-    "QbdrhJd7LiA:p22",
-    "W-R1dzem32s:p21"
+    "QbdrhJd7LiA:p22"
    ]
   },
   {
-   "text": "Experts expect less from him with Wagner and Banchero healthy. They see him as a third option, projected under 22% usage and under 32 minutes.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
-    "W-R1dzem32s:p21",
-    "dlo7L8Ru91A:p21",
-    "J1Eg3uaAICU:p48",
-    "eTsjuVu1trk:p26"
-   ]
-  },
-  {
-   "text": "His three-point attempt rate has come down. He started last season badly but shot 41% from three after December 1.",
+   "text": "He started last season badly and then shot 41% from three after December 1.",
    "kind": "fact",
+   "date": "2026-09-19",
+   "until": "",
+   "sources": [
+    "FEcNjVRlj-U:p14",
+    "uarqbNA2dFk:p39"
+   ]
+  },
+  {
+   "text": "If Wagner and Banchero stay healthy, he will not come close to last season's value.",
+   "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p21",
-    "FEcNjVRlj-U:p14"
+    "J1Eg3uaAICU:p48",
+    "dlo7L8Ru91A:p21",
+    "W-R1dzem32s:p21"
    ]
   },
   {
-   "text": "Josh doubts he will play every game again.",
+   "text": "Overpriced and a top fade. His ESPN rank of 41 and Yahoo rank of 48 assume long injuries to other Orlando players. Do not take him inside the top 50.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "BiIZsSypx7Y:p26"
-   ]
-  },
-  {
-   "text": "Experts think his rank is too high on both sites. They say not to take him inside the top 50 and call him a bust at rank 47.",
-   "kind": "verdict",
-   "date": "2026-10-06",
-   "until": "",
-   "sources": [
+    "zhXtLr_xYVg:p11",
     "QbdrhJd7LiA:p21",
     "QbdrhJd7LiA:p22",
-    "uarqbNA2dFk:p39",
-    "eTsjuVu1trk:p26"
+    "uarqbNA2dFk:p39"
    ]
   },
   {
-   "text": "He is in tier five in both the shooting guard and the small forward tier rankings.",
+   "text": "Tier 5 in both the shooting guard and small forward tier rankings.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -108,82 +107,132 @@
    ]
   },
   {
-   "text": "In an auction mock, Josh valued him at about 20 USD but did not want him. He sold for 11 USD.",
+   "text": "Experts avoid him in mocks. Josh would not consider him at pick 59, another speaker says he will never roster him, and Josh valued him at about 20 USD in an auction mock but did not want him there. He went for 11 USD in that mock.",
    "kind": "verdict",
-   "date": "2026-10-05",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "Q6YlQDvD-aY:p66"
+    "w66x_I_MaQ8:p24",
+    "uI6umXsE7Vk:p35",
+    "Q6YlQDvD-aY:p66",
+    "WXO8MfQfzo0:p20",
+    "EogBYa24Gto:p18"
    ]
   },
   {
-   "text": "Orlando is projected to win 47 or 48 games and finish as the 6th seed.",
+   "text": "Played all 82 games last season, the most of his career. Experts doubt he repeats that.",
    "kind": "verdict",
-   "date": "2026-08-01",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t4"
+    "FEcNjVRlj-U:p14",
+    "BiIZsSypx7Y:p26",
+    "zhXtLr_xYVg:p12"
+   ]
+  },
+  {
+   "text": "Orlando has a new head coach, Sean Sweeney. His effect on pace, offense and rotations is unknown, so roles may change.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
+   ]
+  },
+  {
+   "text": "Orlando's schedule is ordinary: 3-4-4 games (11) in our playoff weeks and 14 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "FT% is his best category. He shoots about 90% on about 4 attempts per game, which clearly helps a team's FT%.",
+   "text": "Strong free throw shooter, about 90% on about 4 attempts per game. It is his best category.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
+   ]
+  },
+  {
+   "text": "No category is clearly weak. He gives steady threes, points and assists with a neutral FG%.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "His games played change a lot from year to year.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p12",
+    "stats"
+   ]
+  },
+  {
+   "text": "His defensive stats are not reliable from year to year.",
+   "kind": "verdict",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "zhXtLr_xYVg:p12"
    ]
   }
  ],
  "tags": [
   {
-   "name": "role down",
-   "channel": "current",
-   "detail": "Third option behind healthy Banchero and Wagner; projected under 22% usage and 32 minutes",
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no category flagged weak; FT% is his best category",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p21",
-    "dlo7L8Ru91A:p21",
-    "J1Eg3uaAICU:p48"
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Shares the ball with Banchero and Franz Wagner",
+   "detail": "third option behind Banchero and Wagner, under 22% usage projected",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p21",
-    "FEcNjVRlj-U:t1"
+    "zhXtLr_xYVg:p10",
+    "W-R1dzem32s:p21"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "His best numbers came while Wagner, Banchero and Suggs were out",
+   "name": "role down",
+   "channel": "current",
+   "detail": "last season's value came while Wagner, Banchero and Suggs missed time",
    "until": "",
    "sources": [
-    "W-R1dzem32s:p21",
-    "dlo7L8Ru91A:p21",
     "J1Eg3uaAICU:p48",
-    "uarqbNA2dFk:p39"
+    "dlo7L8Ru91A:p21",
+    "W-R1dzem32s:p21"
    ],
    "new_meaning": ""
   },
   {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "Experts say not inside the top 50 (Yahoo rank 48, ESPN rank 41)",
+   "detail": "ESPN rank 41 and Yahoo rank 48 called too high; do not take inside top 50",
    "until": "",
    "sources": [
+    "zhXtLr_xYVg:p11",
     "QbdrhJd7LiA:p21",
     "QbdrhJd7LiA:p22",
-    "uarqbNA2dFk:p39",
-    "eTsjuVu1trk:p26"
+    "uarqbNA2dFk:p39"
    ],
    "new_meaning": ""
   },
@@ -193,15 +242,15 @@
    "detail": "Sean Sweeney replaces Jamahl Mosley",
    "until": "",
    "sources": [
-    "FEcNjVRlj-U:t0",
-    "6DnRWahYrFA:t3"
+    "zhXtLr_xYVg:t0",
+    "FEcNjVRlj-U:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 47 or 48 wins, 6th seed",
+   "detail": "Phil predicts 47 or 48 wins and the 6th seed",
    "until": "",
    "sources": [
     "FEcNjVRlj-U:t4"
@@ -209,6 +258,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Experts agree that his rank (Yahoo 48, ESPN 41) depends on a role he had while Wagner, Banchero and Suggs were out, so he is a fade at Yahoo's 22 USD value and the 22 USD our league paid last season. The market average costs (9.1 USD on Yahoo, 12.7 USD on ESPN) and the 11 USD mock sale are a fairer range. At that price he fits any build as a source of FT%, points and some threes, and he has no weak category to plan around. Early in the season, check his minutes, usage and three-point volume next to a healthy Banchero and Wagner under the new coach.",
+ "note": "Bane went for 22 USD in our auction last season, and Yahoo values him at 22 USD. The experts agree he is a fade, and the real market (Yahoo average cost 9.1 USD, ESPN 13 USD, 11 USD in one auction mock) prices him much lower, so bid only around 10 to 13 USD. He has no weak category, and his 90% FT%, threes and points fit any build as a mid-round piece. Early in the season, check his usage and minutes under the new coach with Wagner and Banchero healthy.",
  "rejected": []
 }

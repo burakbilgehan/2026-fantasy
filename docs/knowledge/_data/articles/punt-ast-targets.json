@@ -15,12 +15,12 @@
  ],
  "proposed": false,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:44:41+00:00",
+ "built_at": "2026-10-16T12:42:59+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.08612,
-  "duration_ms": 26528,
+  "cost_usd_list": 0.088104,
+  "duration_ms": 27465,
   "turns": 2,
   "denied": 0
  },
@@ -29,23 +29,46 @@
   "khaman-maluach",
   "tari-eason"
  ],
- "summary": "The punt AST target list for our league is very thin. Our data has only three tagged fits: Khaman Maluach, Aaron Nesmith and Tari Eason. All three are 0 to 2 USD end-of-draft or waiver players, so this build has no cheap source of assists to fall back on. If you punt assists, commit on purpose early. Then use these late picks for blocks, rebounds and steals, and check your threes, steals and FT% every week, because the data gives almost no proof that these three help there.",
+ "summary": "The punt AST target list in our notes is very thin: three players, all priced at 1 to 2 USD near or past the 144-player cutoff. Maluach gives cheap blocks, Eason gives steals, and Nesmith is a 1 USD bet that his FG% comes back. The notes give no 3PTM or FT% data for any of them, so you have to cover those categories elsewhere. Assists are scarce late in drafts and very hard to find on waivers, so decide on this punt before the auction, not halfway through it.",
  "sections": [
   {
-   "heading": "How thin the list is",
+   "heading": "What punting assists costs you",
    "paragraphs": [
     {
-     "text": "Only three players in our data are tagged as punt AST fits. None of them is a real core piece. Maluach is valued at 2 USD on Yahoo and 0 USD on ESPN. Nesmith and Eason are valued at 0 USD on both sites. Nesmith and Eason both rank outside the 144 players our league drafts. So the whole target list sits in the last round or on waivers.",
+     "text": "Low-assist players often struggle in threes, steals and FT%. If you punt AST, check those three categories on your roster after every few auction wins. There is one built-in gain: punting assists brings your turnovers down, so TO becomes a category you should win most weeks.",
      "sources": [
-      "player:khaman-maluach",
-      "player:aaron-nesmith",
-      "player:tari-eason"
+      "C4vlgpJ62NI:r10"
      ]
     },
     {
-     "text": "This matters because assists are scarce late. Big assist players are rare late in drafts. Assists are also very hard to find on waivers. If your punt plan fails in week 3, you cannot rebuild assists from the wire. Decide on the punt before the auction or early in it, not halfway through.",
+     "text": "In our 9-cat H2H format, giving up AST means you need to win 5 of the other 8 categories each week. If 3PTM, ST and FT% all slip as well, that path closes fast. So treat those three as the categories your punt AST roster must protect.",
      "sources": [
-      "C4vlgpJ62NI:r19",
+      "C4vlgpJ62NI:r10"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "The list is thin",
+   "paragraphs": [
+    {
+     "text": "Only three players in our data carry a punt AST tag: Khaman Maluach, Tari Eason and Aaron Nesmith. All three are 1 to 2 USD end-of-auction picks. Nesmith may not even be drafted in a 144-player pool. None of them is a core early buy, so they will not build a punt AST roster on their own. Your early, expensive picks have to set the direction.",
+     "sources": [
+      "player:khaman-maluach",
+      "player:tari-eason",
+      "player:aaron-nesmith"
+     ]
+    },
+    {
+     "text": "The notes give no 3PTM or FT% data for any of the three. Only Eason comes with a clear steals case. Do not count on these picks to fix threes or free throws. Get those from players you buy earlier in the auction.",
+     "sources": [
+      "player:tari-eason",
+      "C4vlgpJ62NI:r10"
+     ]
+    },
+    {
+     "text": "Assists are also very hard to find on waivers, and big assist players are rare late in drafts. That cuts both ways. If you punt AST, you will not be able to fix the category later with FAB. If you decide halfway through the draft to stop punting, the assist guys will already be gone.",
+     "sources": [
       "ME-r173X5b0:r8",
       "ME-r173X5b0:r10",
       "E-KmhvyZ2CU:r2"
@@ -54,78 +77,52 @@
    ]
   },
   {
-   "heading": "What punting assists costs you",
-   "paragraphs": [
-    {
-     "text": "Low-assist players often struggle in threes, steals and FT%. When you punt assists, check those three categories on your roster. One category comes free: punting assists brings turnovers down automatically. In our 9-cat H2H that gives you an edge in TO most weeks.",
-     "sources": [
-      "C4vlgpJ62NI:r10"
-     ]
-    },
-    {
-     "text": "FT% is also one of the scarcest categories late in drafts, next to points and assists. A punt AST team that waits on FT% risks losing it as well. If you also want to win FT%, pay for good free throw shooters in the early and middle rounds. The late targets below will not supply it.",
-     "sources": [
-      "C4vlgpJ62NI:r19",
-      "C4vlgpJ62NI:r10"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "The three targets, category by category",
-   "paragraphs": [
-    {
-     "text": "Khaman Maluach is a 1 to 2 USD last-round flyer for blocks and rebounds. Our data shows nothing for him in 3PTM, ST or FT%. Treat him as a blocks pick that does not help the categories a punt AST build usually loses. His value depends on starting at center over Ighodaro and playing minutes in the mid 20s. If Ighodaro keeps the job, cut him or treat him as a waiver-level stash.",
-     "sources": [
-      "player:khaman-maluach"
-     ]
-    },
-    {
-     "text": "Aaron Nesmith projects about 1.6 assists, which is weak for a wing. That is why he fits this build. Our data gives no numbers for his threes, steals or FT%. His case rests on FG% climbing from 41 percent back into the 48 to 50 percent range next to Haliburton. Experts say that could make him a top 100 player. Pay 1 USD at most. Leaving him on waivers and watching him is the better plan.",
-     "sources": [
-      "player:aaron-nesmith"
-     ]
-    },
-    {
-     "text": "Tari Eason averages about 1.5 assists, which is weak for a G/F. He is the only target whose profile mentions steals, along with rebounds from a wing. His three-point shooting and FG% still need to recover, so he is not yet a safe 3PTM source. Our data does not mention his FT%. He cost 2 USD in our auction last season and is a 1 USD pick at most now. His upside needs an injury to Durant or Jabari Smith. He has a weak 10-game schedule in our playoff weeks 19 to 21, so he is a weaker hold into March.",
-     "sources": [
-      "player:tari-eason"
-     ]
-    }
-   ]
-  },
-  {
    "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "The notes pull in two directions on assists. One view says points, assists and FT% are the scarcest categories later in drafts, so if you miss them early, you can simply punt them. The other view says points and assists are very hard to find in good volume late, so you should secure them early. It adds that assists are an important category and nearly impossible to fix on waivers. For our league, the practical answer is to choose at the start. Either buy assists early in the auction or punt them on purpose. Do not end up punting by accident after a low-assist early pick.",
+     "text": "The notes split on when to commit. One view says points, assists and FT% are the scarcest categories later in drafts, so if you miss them early you can just punt them. The other view says points and assists are very hard to find in good volume late, so secure them early, and it warns that drafting a low-assist player early can leave you behind in assists. In practice: if you want to compete in AST, spend on assists in the first big nominations on 2026-10-18. If you are not willing to do that, commit to the punt from the start, and do not drift into it by accident.",
      "sources": [
       "C4vlgpJ62NI:r19",
       "E-KmhvyZ2CU:r2",
-      "ME-r173X5b0:r8",
       "ME-r173X5b0:r10"
      ]
     }
    ]
   },
   {
-   "heading": "What to do and what to check",
+   "heading": "What each target gives",
    "paragraphs": [
     {
-     "text": "On draft day (2026-10-18), spend no more than 1 to 2 USD on any of these three. Use your bigger budget on early players who bring threes, steals and FT%, because these targets do not cover those categories. Maluach and Eason are reasonable last picks. Nesmith can stay on waivers.",
+     "text": "Khaman Maluach is a cheap blocks source with rebounds and FG%. Phoenix's 4-4-4 playoff schedule adds late value. He offers nothing noted in 3PTM, ST or FT%. In the first weeks, check whether he starts at center and plays about 24 minutes. If Ighodaro keeps the job and Maluach stays near 16 minutes, drop him.",
      "sources": [
-      "player:khaman-maluach",
-      "player:aaron-nesmith",
-      "player:tari-eason",
-      "C4vlgpJ62NI:r10"
+      "player:khaman-maluach"
      ]
     },
     {
-     "text": "In the first weeks, check these. For Maluach: who starts at center and whether his minutes reach the mid 20s. For Nesmith: his FG%, whether Oubre takes his starting spot, and whether Carlisle limits Haliburton's minutes. For Eason: whether his threes and FG% recover and whether Houston really cuts Durant's minutes. Before the trade deadline on 2027-03-04, reconsider Eason because of his weak playoff schedule.",
+     "text": "Tari Eason is the only target with a stated steals case. He also adds rebounds, and he has upside if Durant or Jabari Smith gets hurt. His FG% of 41.6 is a risk. Early on, check whether it recovers and whether Houston really cuts Durant's minutes. If neither happens, drop him for a waiver pickup. Houston's 10-game playoff schedule is one more reason not to hold him long.",
      "sources": [
-      "player:khaman-maluach",
-      "player:aaron-nesmith",
       "player:tari-eason"
+     ]
+    },
+    {
+     "text": "Aaron Nesmith is a 1 USD last pick or a waiver watch. Experts value him around picks 160 to 168, just outside our pool. Check his hamstring early. Check whether his FG% climbs back toward 48 to 50 percent next to Haliburton, and whether he keeps his starting job over Oubre. If both go his way, he has top 100 upside.",
+     "sources": [
+      "player:aaron-nesmith"
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "How to run it in our auction",
+   "paragraphs": [
+    {
+     "text": "Before 2026-10-18, decide whether you punt AST. If yes, spend your large budget on players who cover 3PTM, ST and FT%, because these targets will not. Save 1 to 2 USD per slot for Maluach and Eason in the final rounds. Leave Nesmith for 1 USD or for waivers. In the first two weeks, use your 6 weekly acquisitions to replace any of them who fail the minutes or FG% checks above. Do not try to buy assists back on waivers, because they are not there.",
+     "sources": [
+      "C4vlgpJ62NI:r10",
+      "ME-r173X5b0:r8",
+      "player:khaman-maluach",
+      "player:tari-eason",
+      "player:aaron-nesmith"
      ]
     }
    ]
@@ -135,17 +132,17 @@
   {
    "slug": "khaman-maluach",
    "tier": "Late flyers",
-   "line": "He is a 1 to 2 USD last-round pick for blocks and rebounds, but the data shows no help in threes, steals or FT%, and he only matters if he wins the center job over Ighodaro."
+   "line": "Cheap blocks, rebounds and FG% with a good Phoenix playoff schedule, but nothing noted in 3PTM, ST or FT%, and he only keeps value if he reaches about 24 minutes."
   },
   {
    "slug": "tari-eason",
    "tier": "Late flyers",
-   "line": "He is a low-assist wing who brings rebounds and steals at 1 USD, but his threes need to recover and his 10-game playoff schedule makes him a weak March hold."
+   "line": "The one punt AST target who brings steals and rebounds, but his 41.6 FG% and Durant's minutes make him an easy early drop."
   },
   {
    "slug": "aaron-nesmith",
    "tier": "Waiver watch",
-   "line": "He projects about 1.6 assists and fits this build, but his value depends on his FG% returning to 48 to 50 percent, so watch him on waivers rather than draft him."
+   "line": "A 1 USD last pick or waiver watch whose value depends on his hamstring, his FG% recovering, and keeping his starting job over Oubre."
   }
  ],
  "excluded": [],

@@ -8,94 +8,88 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "1c03536c6f63",
+ "input_sha": "b6c48d2b020c",
  "note_count": 2,
- "built_at": "2026-10-11T09:13:47+00:00",
+ "built_at": "2026-10-16T08:46:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1767828,
-  "duration_ms": 34290,
+  "cost_usd_list": 0.21503919999999999,
+  "duration_ms": 44906,
   "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Yahoo lists him as questionable with a hip injury.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He will likely come off the bench this season.",
+   "text": "He is likely to come off the bench. The projected Utah starting lineup is Keyonte George, Darryn Peterson, Lauri Markkanen, Jaren Jackson Jr. and Jusuf Nurkic.",
    "kind": "verdict",
-   "date": "2026-07-14",
+   "date": "2026-08-05",
    "until": "",
    "sources": [
-    "xHRF06_E9HE:p41"
+    "xHRF06_E9HE:p41",
+    "CI4k8ofUXXk:t0"
    ]
   },
   {
-   "text": "His fantasy value is finished after Utah drafted Darryn Peterson.",
-   "kind": "verdict",
-   "date": "2026-06-25",
-   "until": "",
-   "sources": [
-    "lOshTzDA4SA:p20"
-   ]
-  },
-  {
-   "text": "Utah has a crowded group of guards and wings: George, Peterson, Sensabaugh, Bailey, Markkanen and Jackson Jr.",
+   "text": "Utah's roster is crowded at his spots: George, Peterson, Sensabaugh, Ace Bailey, Markkanen and Jackson all need minutes and touches.",
    "kind": "fact",
    "date": "2026-07-16",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:t4"
+    "-y6p5PYLf00:t4",
+    "lOshTzDA4SA:t2"
    ]
   },
   {
-   "text": "Markkanen, Keyonte George, Jaren Jackson Jr. and Peterson take most of the usage, and everyone else will lose touches.",
+   "text": "His fantasy value is seen as finished after Utah's draft moves.",
    "kind": "verdict",
-   "date": "2026-06-25",
+   "date": "2026-07-14",
    "until": "",
    "sources": [
-    "lOshTzDA4SA:t2",
-    "-rgXhs5BHiw:t1"
+    "lOshTzDA4SA:p20",
+    "xHRF06_E9HE:p41"
    ]
   },
   {
-   "text": "Utah plans to win this season and is not tanking. Experts expect a playoff team, so the late-season minutes he got last season will not be there.",
+   "text": "His strong finish to last season came from tank-period minutes. Utah is deeper now and plays to win, so experts expect those late-season minutes to be gone.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
+    "xHRF06_E9HE:p41",
     "xHRF06_E9HE:t4",
-    "CI4k8ofUXXk:t2",
-    "J1Eg3uaAICU:t3",
     "ahNxsoU8Hx4:t2",
-    "dlo7L8Ru91A:t2"
+    "J1Eg3uaAICU:t3"
+   ]
+  },
+  {
+   "text": "Utah is not tanking this season. Experts expect a playoff-level team (Leaf projects 43 wins and a 7th or 8th seed).",
+   "kind": "verdict",
+   "date": "2026-09-17",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
+    "J1Eg3uaAICU:t3",
+    "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4"
+   ]
+  },
+  {
+   "text": "Utah's minutes and usage are expected to be all over the place early in the season.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2"
    ]
   }
  ],
  "durable": [],
  "tags": [
   {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q (hip)",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "role down",
    "channel": "current",
-   "detail": "likely bench role after Utah drafted Peterson and got deeper",
+   "detail": "Likely bench role. Tank-period minutes from last season are gone.",
    "until": "",
    "sources": [
     "xHRF06_E9HE:p41",
@@ -107,17 +101,18 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "crowded with George, Peterson, Bailey, Markkanen and Jackson Jr.",
+   "detail": "Competes with George, Peterson, Bailey and Markkanen for wing minutes",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:t4"
+    "-y6p5PYLf00:t4",
+    "xHRF06_E9HE:p41"
    ],
    "new_meaning": ""
   },
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Markkanen, George, Jackson Jr. and Peterson take the usage",
+   "detail": "Markkanen, George, Jackson and Peterson take most of the usage",
    "until": "",
    "sources": [
     "lOshTzDA4SA:t2",
@@ -128,28 +123,50 @@
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Utah got deeper this offseason",
+   "detail": "Utah is deeper after its offseason moves",
    "until": "",
    "sources": [
     "xHRF06_E9HE:t4",
-    "-y6p5PYLf00:t4"
+    "-y6p5PYLf00:t4",
+    "sTtFUy7IoJI:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Minutes and usage expected to be all over the place early",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Leaf projects 43 wins and a 7th or 8th seed",
+   "detail": "Projected 43 wins, 7th or 8th seed",
    "until": "",
    "sources": [
     "CI4k8ofUXXk:t2",
+    "xHRF06_E9HE:t4",
+    "J1Eg3uaAICU:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "low shutdown risk",
+   "channel": "current",
+   "detail": "Utah not tanking, so no late-season minutes boost for bench players",
+   "until": "",
+   "sources": [
+    "ahNxsoU8Hx4:t2",
     "J1Eg3uaAICU:t3",
-    "LM0cRCGoAUQ:t4",
-    "xHRF06_E9HE:t4"
+    "dlo7L8Ru91A:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD and rank him 228 to 237. That is far outside the 144 players we draft, and the experts say his value is gone now that he will likely come off the bench. Do not draft him. His projected line has no strong category, so he does not fit a particular build. Check his hip status, and look at him on waivers only if injuries to Utah's guards and wings open real minutes.",
+ "note": "Yahoo and ESPN both value him at 0 USD and rank him 238 and 228, far outside the 144 players we draft. The experts say his value is finished now that Utah is deep and trying to win, so do not draft him. His 95th-place finish after the trade deadline came from tank-period minutes that are expected to be gone. His projected line gives only threes, FT% and low turnovers, with little in rebounds, assists, steals or blocks. Early in the season, look at him on waivers only if injuries to Utah's wings or the unsettled early rotation give him starter minutes.",
  "rejected": []
 }

@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | 0.0 | 167 | 2 | 1.3 | 102 | 17 |
+| 2026-27 | 0 | 1.0 | 165 | 2 | 1.3 | 102 | 17 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -21,35 +21,38 @@
 | FT% | 81.4% | +0.1 | +0.8 | - |
 | 3PM | 1.0 | -0.6 | +0.3 | - |
 | PTS | 11.2 | -0.5 | -0.3 | - |
-| REB | 6.2 | +0.5 | -0.6 | - |
+| REB | 6.2 | +0.5 | -0.5 | - |
 | AST | 2.2 | -0.5 | -0.1 | - |
-| STL | 0.5 | -1.4 | -1.2 | weak for his position (punt fit) |
-| BLK | 0.5 | -0.3 | -1.1 | - |
+| STL | 0.5 | -1.4 | -1.1 | weak for his position (punt fit) |
+| BLK | 0.5 | -0.3 | -1.0 | - |
 | TO | 1.0 | +0.9 | +0.8 | - |
 
 </details>
 
 **Current**
-- Wendell Carter Jr. is Orlando's starting center and Vucevic is his backup. Goga Bitadze will also get some center minutes. (fact, 2026-10-08; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=366), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886), [10-08](https://youtu.be/WXO8MfQfzo0?t=2192))
-- Experts agree it is a mistake to draft him as a starter or at his ESPN ADP. At most he is a late flyer, worth a pick only in deep drafts. (verdict, 2026-10-08; [08-26](https://youtu.be/sTtFUy7IoJI?t=1344), [09-19](https://youtu.be/uarqbNA2dFk?t=2610), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886), [09-15](https://youtu.be/KPdD91Oo8-U?t=2638), [10-08](https://youtu.be/WXO8MfQfzo0?t=2192), [07-13](https://youtu.be/Rqb5GdrSweY?t=1798))
-- Orlando has a new head coach, Sean Sweeney, who replaces Jamahl Mosley. Player roles may change. (fact, 2026-10-08; [08-01](https://youtu.be/FEcNjVRlj-U?t=359), [10-08](https://youtu.be/6DnRWahYrFA?t=1672))
-- Experts expect fewer minutes than his 28 last season, but they disagree on how many: one sees 20 to 22 minutes, another sees 15 to 20 and does not expect him to push for a starting role. One expert says he could even be third string. (verdict, 2026-09-22; [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=366), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886))
-- His value rises a lot if Wendell Carter Jr. gets hurt. He could then be a top 100 player. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2638), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459), [10-08](https://youtu.be/WXO8MfQfzo0?t=2192))
-- Orlando added him to fix a bench that ranked 27th or 28th in scoring. He is expected to score 12 to 14 points a game off the bench and to be an upgrade on Mo Wagner. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=433), [08-01](https://youtu.be/FEcNjVRlj-U?t=397))
-- His assists got a lift from luck last season, with a 68% potential assist conversion rate, so they may drop. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1746))
-- He signed a minimum contract to return to Orlando as a backup. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=418), [07-05](https://youtu.be/4kKINkZhWls?t=3135), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
-- Lloyd will not draft him. He says Vucevic is cooked. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
+- Yahoo lists him as questionable (rest). (fact, 2026-10-16; stats)
+- Orlando's projected starting center is Wendell Carter Jr. Vucevic is projected on the bench as the backup center. Goga Bitadze will still get some minutes. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=212), [10-13](https://youtu.be/zhXtLr_xYVg?t=1171), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886), [10-08](https://youtu.be/WXO8MfQfzo0?t=2192), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459), [08-01](https://youtu.be/FEcNjVRlj-U?t=366))
+- Experts expect a reserve role of about 15 to 22 minutes, down from 28 last season. He could even end up third string. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1525), [10-10](https://youtu.be/hviT4hzYNME?t=1878), [08-26](https://youtu.be/sTtFUy7IoJI?t=1307), [08-01](https://youtu.be/FEcNjVRlj-U?t=366), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886))
+- Last season's numbers overrate him. His finish came from starting in Chicago, and his two-point scoring fell off a cliff in Boston, where he looked washed. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1472), [10-11](https://youtu.be/uI6umXsE7Vk?t=1891))
+- He is a late swing pick around rounds 12 to 13. If he gets 23 to 25 minutes, he beats that draft spot. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1525), [10-11](https://youtu.be/uI6umXsE7Vk?t=1891), [10-10](https://youtu.be/hviT4hzYNME?t=1878), [10-08](https://youtu.be/WXO8MfQfzo0?t=2192), [09-15](https://youtu.be/KPdD91Oo8-U?t=2638))
+- Sean Sweeney is Orlando's new head coach, so rotation roles may change. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=103), [08-01](https://youtu.be/FEcNjVRlj-U?t=359))
+- Drafting him at a starter's price in the top 80 to 90 is a mistake. (verdict, 2026-09-22; [08-26](https://youtu.be/sTtFUy7IoJI?t=1344), [09-19](https://youtu.be/uarqbNA2dFk?t=2610), [09-22](https://youtu.be/QbdrhJd7LiA?t=1886))
+- He has more upside if Wendell Carter Jr. gets hurt. In that case he could be top 100. (verdict, 2026-09-15, until Wendell Carter Jr. gets hurt; [09-15](https://youtu.be/KPdD91Oo8-U?t=2638), [08-24](https://youtu.be/g31YlwRe0XQ?t=2459))
+- Orlando added him to fix its bench scoring, which ranked 27th or 28th last season. He can still score 12 to 14 points a game off the bench. (verdict, 2026-08-01; [08-01](https://youtu.be/FEcNjVRlj-U?t=397), [08-01](https://youtu.be/FEcNjVRlj-U?t=433))
+- Some luck helped his assists. He converted 68% of potential assists. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1746))
+- He signed a minimum contract to return to Orlando as a backup. (fact, 2026-07-05; [07-05](https://youtu.be/4kKINkZhWls?t=418), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807), [07-05](https://youtu.be/4kKINkZhWls?t=3135))
 
 **Durable**
-- His steals are weak for a center, so a punt STL team loses little with him. (fact, 2026-10-11; stats)
+- He is 36 years old. (fact, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1486))
+- He shoots threes at decent volume for a big and is a good rebounder. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1486))
+- He gets rebounds without blocks, and he never gets steals. Steals are his weakest category for a center. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1486), [07-15](https://youtu.be/0geFVzSqOnA?t=750), stats)
+- He is a poor defender. (verdict, 2026-10-13; [10-13](https://youtu.be/zhXtLr_xYVg?t=1486), [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
 - He is a pretty good passer for a big man. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1746))
-- He gets rebounds without blocking shots. He is the exception to the rule that rebounders also block shots. (fact, 2026-07-15; [07-15](https://youtu.be/0geFVzSqOnA?t=750))
-- He is a poor defender. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1807))
 
 **Tags**
-- Current: `new team` (Moved from Chicago to Orlando on a minimum deal), `role down` (Backup center, projected 15 to 22 minutes, down from 28), `minutes competition` (Behind Wendell Carter Jr., with Goga Bitadze also getting minutes), `handcuff` (Could be top 100 if Wendell Carter Jr. gets hurt), `flyer` (Late pick only in deep drafts), `bust candidate` (At his ESPN ADP or as a drafted starter), `sites disagree on price` (ESPN rank 102 and ADP far above Yahoo rank 167 and Yahoo ADP 111), `new coach` (Sean Sweeney replaces Jamahl Mosley)
-- Durable: `age decline watch` (Lloyd calls him cooked), `punt STL fit` (Steals weak for a center)
+- Current: `new team` (Signed back with Orlando on a minimum deal), `role down` (Bench role of about 15 to 22 minutes, down from 28), `minutes competition` (Backs up Wendell Carter Jr. Goga Bitadze also gets minutes, and he could be third string), `handcuff` (Upside if Wendell Carter Jr. gets hurt), `flyer` (Late swing in rounds 12 to 13 if he gets 23 to 25 minutes), `regression risk` (Lucky 68% potential assist conversion), `new coach` (Sean Sweeney replaces Jamahl Mosley), `questionable` (Yahoo status Q (rest))
+- Durable: `age decline watch` (36 years old. Experts say he may be washed), `defensive liability` (Cannot defend), `punt STL fit` (Very few steals for a center), `3PM from a big` (Decent-volume three-point shooter for a center)
 
-**Note.** He went for 17 USD in our league last season. Now he is a bench center behind Wendell Carter Jr., with a Yahoo value of 0 USD and an ESPN value of 2 USD, so pay 1 to 2 USD at most, and only as a late flyer or Carter handcuff. If you take him, he fits a punt STL build. Early in the season, check his minutes under new coach Sean Sweeney, how much Goga Bitadze plays, and Carter's health.
+**Note.** Our league paid 17 USD for him last season. The market has dropped to about 1 USD (Yahoo 1.0, ESPN 1.3) now that he is Wendell Carter Jr.'s backup. Treat him as a 1 USD end-of-draft flyer and a Carter handcuff, not a starter: projections of 8.6 to 13.8 points depend on whether he gets about 25 minutes. He fits punt STL builds that want rebounds and some threes from a center. Early in the season, check his minutes against Carter and Bitadze under new coach Sweeney, and drop him fast if he stays near 15 to 20 minutes.
 
-<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>19 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

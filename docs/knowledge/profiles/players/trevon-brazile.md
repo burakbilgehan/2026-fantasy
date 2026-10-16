@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 679 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 687 | - | - | - | not drafted |
 
 **Current**
 - Yahoo lists him as questionable with an undisclosed issue. (fact, 2026-10-04; stats)

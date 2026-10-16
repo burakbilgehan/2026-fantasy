@@ -4,55 +4,53 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 78 | 34.2 | 46.8 (14.5) | 87.6 (3.0) | 3.6 | 19.8 | 5.8 | 3.7 | 0.8 | 0.3 | 2.2 |
-| 2026-27 proj, Yahoo | 79 | - | 47.1 (15.2) | 87.0 (3.2) | 3.7 | 20.8 | 5.3 | 3.8 | 0.8 | 0.2 | 2.3 |
+| 2026-27 proj, Yahoo | 70 | - | 47.2 (14.7) | 87.0 (3.1) | 3.6 | 20.1 | 5.7 | 3.7 | 0.8 | 0.3 | 2.2 |
 | 2025-26 | 81 | 31.5 | 47.5 (13.4) | 86.3 (2.8) | 3.4 | 18.5 | 5.3 | 3.4 | 0.7 | 0.2 | 2.0 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 17 | 9.5 | 63 | 16 | 15.4 | 40 | not drafted |
+| 2026-27 | 16 | 9.5 | 68 | 16 | 14.9 | 40 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 47.0% | -0.3 | -0.0 | - |
-| FT% | 87.3% | +1.0 | +1.0 | - |
-| 3PM | 3.6 | +2.4 | +2.5 | league outlier, strong |
-| PTS | 20.3 | +1.1 | +1.1 | - |
-| REB | 5.6 | +0.2 | +0.6 | - |
-| AST | 3.8 | +0.3 | +0.3 | - |
-| STL | 0.8 | -0.4 | -0.5 | - |
-| BLK | 0.2 | -0.8 | -0.8 | - |
-| TO | 2.2 | -0.8 | -0.8 | - |
+| FG% | 47.0% | -0.2 | -0.0 | - |
+| FT% | 87.3% | +1.0 | +0.9 | - |
+| 3PM | 3.6 | +2.3 | +2.4 | league outlier, strong |
+| PTS | 19.9 | +1.0 | +1.0 | - |
+| REB | 5.7 | +0.3 | +0.7 | - |
+| AST | 3.7 | +0.3 | +0.3 | - |
+| STL | 0.8 | -0.4 | -0.6 | - |
+| BLK | 0.3 | -0.7 | -0.7 | - |
+| TO | 2.2 | -0.7 | -0.7 | - |
 
 </details>
 
 **Current**
-- Coby White is out with a calf injury and will probably miss the start of the season. Ball handling is to be split among White, Knueppel and Miller, with no single lead creator. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=1269), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [09-27](https://youtu.be/CRLSsoGhb2w?t=282), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306))
-- He has a hamstring injury and misses the preseason. He is to be re-evaluated in week one and might miss one or two games, or none. (fact, 2026-10-05, until re-evaluation in week one; [09-27](https://youtu.be/CRLSsoGhb2w?t=535), [10-05](https://youtu.be/BiIZsSypx7Y?t=3147))
-- Experts expect his shooting efficiency to drop without LaMelo Ball setting him up. Several say the gain in usage and assists may be offset by worse efficiency. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=3147), [09-22](https://youtu.be/QbdrhJd7LiA?t=1627), [09-17](https://youtu.be/DubdKKhMWHo?t=974), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [09-04](https://youtu.be/gerS7ibpaJo?t=876), [08-26](https://youtu.be/sTtFUy7IoJI?t=1106), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235), [09-27](https://youtu.be/CRLSsoGhb2w?t=282))
-- Experts agree he is overpriced at a market rank in the 30s and 40s. His right range is the 60s. Do not take him in the top 50 or in rounds 3 or 4. One speaker would take him at a rank around 90. (verdict, 2026-10-05; [09-27](https://youtu.be/CRLSsoGhb2w?t=665), [10-05](https://youtu.be/BiIZsSypx7Y?t=3147), [09-17](https://youtu.be/DubdKKhMWHo?t=974), [09-04](https://youtu.be/gerS7ibpaJo?t=876), [08-26](https://youtu.be/sTtFUy7IoJI?t=1113), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [09-24](https://youtu.be/_vbAP5y182A?t=823), [09-15](https://youtu.be/KPdD91Oo8-U?t=1186), [09-22](https://youtu.be/QbdrhJd7LiA?t=1627), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2755))
-- In an expert mock auction he sold for 13 USD. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2575))
-- Josh would not pay more than 8 USD for him in an auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2575))
-- Projected starters are White, Knueppel, Miller, Reid and Diabaté. Grayson Allen starts while Knueppel is out. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
-- Charlotte plays 4, 3 and 4 games in our playoff weeks 19 to 21, and has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
-- His usage should rise from 22% to about 24 or 25%, with about 32 minutes. He should take more shots and also commit more turnovers. (verdict, 2026-09-10; [08-26](https://youtu.be/sTtFUy7IoJI?t=1083), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1233), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000), [07-07](https://youtu.be/ME-r173X5b0?t=488))
-- He is expected to take on more of the creation load, ahead of Brandon Miller, and his assists may rise. Walker calls him a good passer. (verdict, 2026-09-10; [07-21](https://youtu.be/EB1Z_6n56-o?t=1370), [06-30](https://youtu.be/4GDfg2n2l8o?t=281), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235), [09-04](https://youtu.be/gerS7ibpaJo?t=910))
-- Charlotte traded away LaMelo Ball and Miles Bridges, which opens usage on the team. (fact, 2026-08-26; [08-26](https://youtu.be/sTtFUy7IoJI?t=1075), [06-30](https://youtu.be/4GDfg2n2l8o?t=178), [07-13](https://youtu.be/Rqb5GdrSweY?t=1924), [08-19](https://youtu.be/J1Eg3uaAICU?t=974))
-- Charlotte's two-game week starting March 1 should not factor into decisions about him. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1383), [08-16](https://youtu.be/gf_6GveiAls?t=1343))
+- He has a hamstring injury. He missed the preseason and will be re-evaluated in week one. One note says he might miss one or two games, or none. Yahoo lists him as questionable. (fact, 2026-10-15; [09-27](https://youtu.be/CRLSsoGhb2w?t=535), [10-05](https://youtu.be/BiIZsSypx7Y?t=3147), [10-05](https://youtu.be/BiIZsSypx7Y?t=1575), [10-15](https://youtu.be/bd8GYKFOe8A?t=702), stats)
+- Experts agree he is overvalued at an ADP in the 30s and 40s. They value him in the 60s to 70s and say not to take him in rounds 3 or 4 or in the top 50. One would take him at an ESPN rank near 91. One doubts he will beat last season's category rank. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=702), [10-05](https://youtu.be/BiIZsSypx7Y?t=3147), [09-27](https://youtu.be/CRLSsoGhb2w?t=665), [09-24](https://youtu.be/_vbAP5y182A?t=823), [09-22](https://youtu.be/QbdrhJd7LiA?t=1627), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2755), [09-17](https://youtu.be/DubdKKhMWHo?t=974), [09-15](https://youtu.be/KPdD91Oo8-U?t=1186), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [09-04](https://youtu.be/gerS7ibpaJo?t=876), [08-26](https://youtu.be/sTtFUy7IoJI?t=1113), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000))
+- Experts expect his shooting efficiency to drop without LaMelo Ball setting him up. One thinks people overrate how much Ball's exit helps him. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=3147), [09-22](https://youtu.be/QbdrhJd7LiA?t=1627), [09-17](https://youtu.be/DubdKKhMWHo?t=974), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [09-04](https://youtu.be/gerS7ibpaJo?t=876), [08-26](https://youtu.be/sTtFUy7IoJI?t=1106), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000))
+- In an auction mock draft, Josh would not pay more than 8 USD for him. He went for 13 USD. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2575))
+- Grayson Allen starts in his place while he is out. (fact, 2026-09-27, until Knueppel returns from the hamstring injury; [09-27](https://youtu.be/CRLSsoGhb2w?t=416))
+- LaMelo Ball and Miles Bridges are gone from Charlotte. Knueppel is a projected starter with Coby White, Brandon Miller, Naz Reid and Moussa Diabate. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=416), [09-22](https://youtu.be/QbdrhJd7LiA?t=582), [06-28](https://youtu.be/RsjGTgJiKyI?t=328), [08-26](https://youtu.be/sTtFUy7IoJI?t=1075))
+- He is one of the candidates to take on creation duties. One preview expects him to carry more of the creation load than Brandon Miller. Playmaking should be spread across White, Knueppel and Miller, and how they split it is the big question for their efficiency. (verdict, 2026-09-27; [07-21](https://youtu.be/EB1Z_6n56-o?t=1370), [06-30](https://youtu.be/4GDfg2n2l8o?t=281), [07-21](https://youtu.be/EB1Z_6n56-o?t=1306), [09-27](https://youtu.be/CRLSsoGhb2w?t=282))
+- Charlotte plays 4-3-4 games in our playoff weeks (March 28 end) and has only 13 back-to-backs, the league minimum. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=1781))
+- His usage should rise from 22% to about 24 or 25%, in about 32 minutes. Experts expect more shots, more threes, more assists and more turnovers. (verdict, 2026-09-10; [08-26](https://youtu.be/sTtFUy7IoJI?t=1083), [06-25](https://youtu.be/ya2VYRJ1BN0?t=1233), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000), [09-10](https://youtu.be/W-R1dzem32s?t=1401), [07-07](https://youtu.be/ME-r173X5b0?t=488), [09-10](https://youtu.be/dlo7L8Ru91A?t=1235))
 - Charlotte plans to space the floor and take a lot of threes. (fact, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=401))
 
 **Durable**
-- His game is not friendly to points leagues. He ranked 66th in 9-cat and 89th in points leagues last season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1644), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000))
-- He does little beyond points and threes. He gets few steals and blocks and is not a big rebounder. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1428), [09-04](https://youtu.be/gerS7ibpaJo?t=910), [08-26](https://youtu.be/sTtFUy7IoJI?t=1106), stats)
-- As a rookie he finished 66th in category leagues but fell to 91st over the final two months, a partial rookie wall. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=949))
-- His shooting was strong overall, 48% from the field, but not in games he played without LaMelo Ball. (fact, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=983))
-- Threes are his standout category. He made 3.4 threes a game on 42% from three, and his projected volume is far above the top 250 pool. (fact, 2026-07-07; stats, [07-07](https://youtu.be/ME-r173X5b0?t=488), [08-19](https://youtu.be/J1Eg3uaAICU?t=983))
+- His threes made are a league outlier. He made 3.4 threes a game on 42% as a rookie. FT% is also a clear strength. (fact, 2026-10-16; stats, [07-07](https://youtu.be/ME-r173X5b0?t=488))
+- His game is worth more in category leagues than in points leagues. He was 66th in 9-cat and 89th in points last season. (verdict, 2026-09-22; [09-22](https://youtu.be/QbdrhJd7LiA?t=1644), [08-19](https://youtu.be/J1Eg3uaAICU?t=1000))
+- He does little beyond points and threes. He gets almost no steals or blocks and is not a big rebounder. (verdict, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1428), [09-04](https://youtu.be/gerS7ibpaJo?t=910), [08-26](https://youtu.be/sTtFUy7IoJI?t=1106))
+- As a rookie he had an ADP of 111 and finished 66th in category leagues. He faded over the final two months (91st), a partial rookie wall. (fact, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=949))
+- His shooting was great overall as a rookie (48% FG, 42% from three), but not in the games he played without LaMelo Ball. (fact, 2026-08-19; [08-19](https://youtu.be/J1Eg3uaAICU?t=983))
+- He is a good passer. (verdict, 2026-07-21; [07-21](https://youtu.be/EB1Z_6n56-o?t=1370))
 
 **Tags**
-- Current: `injured now` (hamstring, misses preseason, re-evaluated in week one; until re-evaluation in week one), `questionable` (Yahoo Q (hamstring)), `role up` (usage from 22% to about 25% with Ball and Bridges gone), `regression risk` (shooting efficiency expected to drop without LaMelo Ball), `bust candidate` (market rank in the 30s and 40s, experts value him in the 60s), `sites disagree on price` (Yahoo average cost 9.5 USD, rank 63; ESPN average cost 15.4 USD, rank 40), `usage freed` (LaMelo Ball and Miles Bridges traded), `shared ball handling` (creation split among White, Knueppel and Miller), `three-point heavy`, `few back-to-backs` (13, the league minimum)
-- Durable: `3PM specialist` (about 3.6 threes a game projected, 42% from three last season), `fits every build` (no category flagged weak, though steals, blocks and TO are below average), `category league player` (66th in 9-cat, 89th in points leagues last season), `needs playmaker` (shot worse without LaMelo Ball on the floor)
+- Current: `injured now` (hamstring; missed preseason, re-evaluated in week one), `questionable` (Yahoo Q (Hamstring)), `role up` (usage from 22% to about 24-25% with Ball and Bridges gone), `usage freed` (LaMelo Ball and Miles Bridges traded), `regression risk` (efficiency expected to drop without LaMelo Ball), `bust candidate` (ADP in the 30s and 40s; experts value him in the 60s to 70s), `sites disagree on price` (Yahoo rank 68 and 9.5 USD average cost vs ESPN rank 40 and 14.9 USD), `shared ball handling` (creation split among White, Knueppel and Miller), `three-point heavy` (Charlotte leaning fully into spacing), `few back-to-backs` (13 back-to-backs, league minimum), `good playoff schedule` (4-3-4 games in weeks 19 to 21)
+- Durable: `3PM specialist` (3.6 threes a game projected; 3.4 on 42% as a rookie), `needs playmaker` (shot worse in games without LaMelo Ball), `category league player` (66th in 9-cat vs 89th in points last season)
 
-**Note.** Knueppel is a 3PM specialist with good FT% and points and no weak category. He fits any build that wants threes, but he gives little in steals and blocks. Every expert says his market rank in the 30s and 40s is too high and puts him in the 60s. ESPN has his average cost at 15.4 USD while Yahoo has it at 9.5 USD, and in an expert mock he sold for 13 USD against Josh's limit of 8 USD. So stay around 8 to 12 USD and let others pay more. Early in the season, check his hamstring after the week-one re-evaluation and whether his FG% holds near last season's 47.5% now that he takes more shots without LaMelo Ball.
+**Note.** Experts agree he is overpriced at an ADP in the 30s and 40s and value him in the 60s. Yahoo's 9.5 USD average cost fits that better than ESPN's 14.9 USD (Yahoo values him at 16 USD), and one expert's mock ceiling was 8 USD. He is a clear 3PM and FT% asset for builds that chase threes, but he brings almost no steals or blocks. Early on, check how his hamstring recovers, how his usage grows and whether his 47% FG holds up without LaMelo Ball.
 
-<sub>27 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>28 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

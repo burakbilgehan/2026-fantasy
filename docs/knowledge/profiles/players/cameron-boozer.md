@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 18 | 11.7 | 55 | 4 | 7.0 | 77 | not drafted |
+| 2026-27 | 18 | 10.2 | 55 | 4 | 7.3 | 77 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,37 +20,40 @@
 | PTS | 17.9 | +0.7 | +0.7 | - |
 | REB | 8.2 | +1.3 | +1.5 | - |
 | AST | 3.3 | +0.0 | +0.4 | - |
-| STL | 1.0 | +0.2 | +0.3 | - |
+| STL | 1.0 | +0.3 | +0.3 | - |
 | BLK | 0.7 | +0.2 | +0.4 | - |
 | TO | 2.5 | -1.1 | -1.3 | weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- He is a rookie and is projected to start at forward for Memphis next to Ty Jerome, Cedric Coward, Jerami Grant and Zach Edey. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [07-21](https://youtu.be/RyzcCGChYgs?t=1680), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
-- He averaged 17 points, 7 rebounds, 4 assists, a steal and a three in Summer League on 51% FG, 82% FT and 40% from three. He looked very good in his first preseason game. (fact, 2026-10-07; [07-21](https://youtu.be/RyzcCGChYgs?t=1543), [10-07](https://youtu.be/lp11OAEpq4Y?t=520))
-- Experts expect him to be the best fantasy rookie this season. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=520), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096), [06-25](https://youtu.be/lOshTzDA4SA?t=179), [06-28](https://youtu.be/RsjGTgJiKyI?t=1404))
-- He should start slowly and struggle with efficiency early, probably ranking outside the top 70 at first. He should then play at a top 25 to 35 level in February and March, including the fantasy playoffs. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=556), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [08-11](https://youtu.be/OdDkXFhoKsc?t=1105), [06-25](https://youtu.be/lOshTzDA4SA?t=245), [06-25](https://youtu.be/lOshTzDA4SA?t=283), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
-- The newest call puts his fair draft range in the 60s. A Yahoo rank of 51 is a bit high but not terrible. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=556), [10-07](https://youtu.be/lp11OAEpq4Y?t=1690), [09-15](https://youtu.be/KPdD91Oo8-U?t=1031))
-- Coach Tuomas Iisalo plays a very high pace with short stints and an 11 or 12 man rotation, which keeps minutes down across the roster. (fact, 2026-10-07; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296))
-- Memphis plays 4 games in each of weeks 19, 20 and 21 for a March 28 end, and has only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
-- In an expert auction mock he went for 15 USD, which was exactly Josh's max bid. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1648))
-- Experts project about 30 to 32 minutes a night. Joe sees him as one of only two Grizzlies above 30 minutes. At 33 minutes he could be an easy top 50 player. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1077), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096))
-- With Morant gone, he should take the first or second playmaking role in Memphis, and his assist rate should go up. He could lead the team in assists, but he is not expected to be a 30 usage player. (verdict, 2026-09-03; [06-30](https://youtu.be/4GDfg2n2l8o?t=452), [06-29](https://youtu.be/bHA-JoW3reE?t=682), [09-03](https://youtu.be/OBwWCxG9SqM?t=1059))
-- Memphis traded Ja Morant to Portland, and Ty Jerome is expected to start at point guard. (fact, 2026-07-17; [06-29](https://youtu.be/bHA-JoW3reE?t=682), [07-17](https://youtu.be/NYTH7uQsPCM?t=1672))
+- In mock drafts he goes almost always around the start of round 5. He went 54th in one mock and for 15 USD in an auction mock. (fact, 2026-10-13; [10-12](https://youtu.be/ENizLoE6pzI?t=976), [10-13](https://youtu.be/EogBYa24Gto?t=748), [10-05](https://youtu.be/Q6YlQDvD-aY?t=1648))
+- His stock is rising after a strong preseason. One expert pushed him up, another wanted him as a target at pick 54, and one expert's auction max was 15 USD. (verdict, 2026-10-13; [10-11](https://youtu.be/uI6umXsE7Vk?t=874), [10-13](https://youtu.be/EogBYa24Gto?t=748), [10-05](https://youtu.be/Q6YlQDvD-aY?t=1648), [08-17](https://youtu.be/LcZcvk8s1xQ?t=2081))
+- Ja Morant was traded to Portland. Ty Jerome starts at point guard, and Memphis is giving him a big role. (fact, 2026-10-12; [07-17](https://youtu.be/NYTH7uQsPCM?t=1672), [06-29](https://youtu.be/bHA-JoW3reE?t=682), [10-12](https://youtu.be/ENizLoE6pzI?t=1231), [10-08](https://youtu.be/6DnRWahYrFA?t=1780))
+- He is a rookie and is projected to start at forward for Memphis, with Ty Jerome, Cedric Coward, Jerami Grant and Zach Edey. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=867), [08-17](https://youtu.be/LcZcvk8s1xQ?t=483), [07-21](https://youtu.be/RyzcCGChYgs?t=1680))
+- He looked very good in his first preseason game. At Summer League he averaged 17 points, 7 rebounds, 4 assists, a steal and a three on 51% FG, 82% FT and 40% from three. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=520), [07-21](https://youtu.be/RyzcCGChYgs?t=1543))
+- Experts expect him to be the best fantasy rookie this season, with immediate impact because of how the Memphis roster is built. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=520), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096), [06-25](https://youtu.be/lOshTzDA4SA?t=179), [06-28](https://youtu.be/RsjGTgJiKyI?t=1404), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1886))
+- He is expected to start slowly, with early efficiency struggles like Cooper Flagg had, and to do more as the season goes on. The newest view has him outside the top 70 at first and top 35 in February and March. Other experts expect a top 25 to 30 level by the fantasy playoffs. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=556), [06-25](https://youtu.be/lOshTzDA4SA?t=245), [06-25](https://youtu.be/lOshTzDA4SA?t=283), [08-11](https://youtu.be/OdDkXFhoKsc?t=1105), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
+- His fair draft range is the 50s to 60s. A pick inside the top 50, or his Yahoo rank of 51, is a bit early but not terrible. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=556), [10-07](https://youtu.be/lp11OAEpq4Y?t=1690), [09-15](https://youtu.be/KPdD91Oo8-U?t=1031), [09-03](https://youtu.be/OBwWCxG9SqM?t=1034))
+- Coach Tuomas Iisalo plays at a very high pace, uses short, hard stints and keeps minutes down. Memphis is expected to run an 11 or 12 man rotation. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=146), [10-07](https://youtu.be/lp11OAEpq4Y?t=296), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1033), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159))
+- Memphis has a maxed 4-4-4 schedule in our playoff weeks (season end March 28) and only 13 back-to-backs, possibly the fewest in the league. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1987))
+- Memphis is expected to be fairly bad, around low to mid 30s wins, but not to tank. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=114), [10-07](https://youtu.be/lp11OAEpq4Y?t=274), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1864), [09-03](https://youtu.be/OBwWCxG9SqM?t=1089))
+- Memphis has an overcrowded roster and three 2027 first-round picks, which gives it room to make trades, including moving Jerami Grant. (fact, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=1636), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1472), [06-29](https://youtu.be/bHA-JoW3reE?t=953))
+- He is projected for about 30 to 32 minutes, one of only two Grizzlies above 30. One expert says 33 minutes would make him an easy top 50 player. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=1077), [08-17](https://youtu.be/LcZcvk8s1xQ?t=1159), [09-03](https://youtu.be/OBwWCxG9SqM?t=1096))
+- With Morant gone, he should take the first or second playmaking role in Memphis, and his assist rate should go up. (verdict, 2026-06-30; [06-30](https://youtu.be/4GDfg2n2l8o?t=452), [06-29](https://youtu.be/bHA-JoW3reE?t=682))
 
 **Durable**
-- Turnovers are his weakest category for a forward. Rebounds are his best category, well above the average forward. (fact, 2026-10-11; stats)
-- He is the number one dynasty rookie and an easy top 15 dynasty player. (verdict, 2026-10-07; [10-07](https://youtu.be/lp11OAEpq4Y?t=516), [08-02](https://youtu.be/TOn-D1SV7a8?t=1520), [06-23](https://youtu.be/-rgXhs5BHiw?t=987), [06-28](https://youtu.be/RsjGTgJiKyI?t=1404), [06-22](https://youtu.be/HxQjagSTTAM?t=172))
-- He does nearly everything: scoring, rebounds, assists, steals, solid free throws, good FG% and threes. He is an efficient scorer, an excellent passer and a scalable player. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [08-02](https://youtu.be/TOn-D1SV7a8?t=1520), [06-28](https://youtu.be/RsjGTgJiKyI?t=1379), [06-29](https://youtu.be/bHA-JoW3reE?t=682))
-- He has limits as a rim protector and will likely lack blocks. (verdict, 2026-09-03; [08-17](https://youtu.be/LcZcvk8s1xQ?t=384), [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [06-25](https://youtu.be/lOshTzDA4SA?t=245))
-- He plays more like a small forward than a center and has point forward potential. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=384))
+- Projections make threes and turnovers his two weakest categories for a forward. Rebounds are his best category. The sites split on threes: Yahoo projects 1.3 per game, ESPN 0.3. (fact, 2026-10-16; stats)
+- He does nearly everything: points, rebounds, assists, steals, solid free throws, good FG% and threes. Experts call him an excellent passer and a scalable player. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [06-28](https://youtu.be/RsjGTgJiKyI?t=1379), [08-02](https://youtu.be/TOn-D1SV7a8?t=1520), [06-29](https://youtu.be/bHA-JoW3reE?t=682))
+- He has limits as a rim protector and is likely to lack blocks. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059), [08-17](https://youtu.be/LcZcvk8s1xQ?t=384), [06-25](https://youtu.be/lOshTzDA4SA?t=245))
+- He is not expected to be a 30 usage player in the NBA. (verdict, 2026-09-03; [09-03](https://youtu.be/OBwWCxG9SqM?t=1059))
+- He plays more like a small forward than a center, with point forward potential. (verdict, 2026-08-17; [08-17](https://youtu.be/LcZcvk8s1xQ?t=384))
 - He had a 30 usage rate at Duke with high assist numbers. (fact, 2026-06-25; [06-25](https://youtu.be/lOshTzDA4SA?t=245))
 
 **Tags**
-- Current: `rookie` (No. 1 rookie in fantasy for this season), `slow start` (Outside the top 70 early, top 35 level in February and March), `usage freed` (Ja Morant traded to Portland; Boozer takes a first or second playmaking role), `sites disagree on price` (Yahoo value 18 USD and rank 55, ESPN value 4 USD and rank 77), `good playoff schedule` (4-4-4 in weeks 19 to 21 for a March 28 end), `few back-to-backs` (13 back-to-backs, possibly the fewest in the league), `fast pace` (Iisalo plays at a very high pace), `deep rotation` (11 or 12 man rotation with short stints)
-- Durable: `punt TO fit` (About 2.5 TO per game projected)
+- Current: `rookie` (No. 3 pick, projected starter for Memphis), `slow start` (Outside top 70 at first, top 25 to 35 level by February, March and the playoffs), `usage freed` (Ja Morant traded to Portland; Boozer takes a first or second playmaking role), `deep rotation` (Memphis expected to run 11 or 12 players), `low starter minutes` (Iisalo uses short stints and keeps minutes down; Boozer still projected near 32), `fast pace` (Iisalo plays at a very high pace), `good playoff schedule` (Maxed 4-4-4 in weeks 19 to 21), `few back-to-backs` (Only 13, possibly the fewest in the league), `trades likely` (Overcrowded roster, three 2027 firsts, Jerami Grant a trade candidate), `sites disagree on price` (Yahoo value 18 USD and rank 55, ESPN value 4 USD and rank 77)
+- Durable: `punt 3PM fit` (Projected 0.8 threes per game; ESPN 0.3, Yahoo 1.3), `punt TO fit` (Projected 2.5 turnovers per game)
 
-**Note.** The experts' fair range is around rank 60 to 65. Yahoo's average cost of 11.7 USD and the 15 USD mock price fit that better than Yahoo's 18 USD value. ESPN's 4 USD looks too low for a player expected to play at a top 35 level in our weeks 19 to 21. He also has a full 4-4-4 playoff schedule and few back-to-backs. He fits punt TO builds, but check early how many minutes he gets in Iisalo's short-stint rotation and how many threes he takes. Yahoo projects 1.3 threes per game and ESPN only 0.3, and that gap decides whether he helps or hurts your 3PM.
+**Note.** Boozer is the top rookie, but his value comes late. The experts see him outside the top 70 early and at a top 25 to 35 level by the playoffs, and Memphis has a maxed 4-4-4 playoff schedule. Yahoo's average cost is 10.2 USD, ESPN's is 7.3 USD, and an auction mock went 15 USD, so 10 to 15 USD fits his 50s to 60s fair range. Going higher means paying for a preseason buzz that is still rising. He fits punt TO builds and may fit punt 3PM builds. Early on, check his minutes in Iisalo's short-stint rotation, and see whether his threes look like Yahoo's 1.3 per game or ESPN's 0.3.
 
-<sub>26 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>29 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

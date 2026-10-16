@@ -20,7 +20,7 @@
 | FT% | 100.0% | +0.1 | -0.3 | - |
 | 3PM | 0.6 | -1.1 | -1.5 | - |
 | PTS | 2.3 | -2.0 | -2.0 | league outlier, weak |
-| REB | 0.5 | -1.9 | -2.3 | league outlier, weak |
+| REB | 0.5 | -2.0 | -2.4 | league outlier, weak |
 | AST | 1.3 | -1.0 | -1.3 | - |
 | STL | 0.3 | -1.8 | -2.0 | league outlier, weak |
 | BLK | 0.1 | -1.1 | -1.4 | - |

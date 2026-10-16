@@ -8,14 +8,14 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "717271b7f5f4",
- "note_count": 11,
- "built_at": "2026-10-11T09:17:18+00:00",
+ "input_sha": "734e5dc84c8b",
+ "note_count": 13,
+ "built_at": "2026-10-16T08:57:21+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1567702,
-  "duration_ms": 34383,
+  "cost_usd_list": 0.16914619999999997,
+  "duration_ms": 39447,
   "turns": 2,
   "denied": 0
  },
@@ -27,12 +27,12 @@
    "until": "",
    "sources": [
     "yoCTTlJ_tPQ:p9",
-    "aLP080hxizA:t1",
-    "yoCTTlJ_tPQ:t0"
+    "yoCTTlJ_tPQ:t0",
+    "aLP080hxizA:t1"
    ]
   },
   {
-   "text": "His minutes are stable and higher than Alperen Sengun's. Coach Ime Udoka plays his starters heavy minutes.",
+   "text": "His minutes are stable and higher than Alperen Sengun's. Coach Ime Udoka plays his starters very heavy minutes.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -43,7 +43,7 @@
    ]
   },
   {
-   "text": "Steven Adams is back, so Smith plays more power forward than center.",
+   "text": "With Steven Adams back, he plays more power forward than center.",
    "kind": "fact",
    "date": "2026-07-14",
    "until": "",
@@ -70,18 +70,30 @@
    ]
   },
   {
-   "text": "The experts call him a safe pick with little upside. Drafting him around rank 96 is reasonable, and ESPN's rank of about 120 is a better price. Josh believes he can deliver as a late pick.",
+   "text": "Experts call him too early in the 90s or inside the top 100. They see fair value around pick 115 or later, where he can deliver as a late pick.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p34",
+    "ENizLoE6pzI:p42",
+    "LM0cRCGoAUQ:p59",
+    "aLP080hxizA:p14",
+    "ZYllcj4o6_A:p25"
+   ]
+  },
+  {
+   "text": "He is a rock-solid pick with little upside.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "aLP080hxizA:p14",
-    "ZYllcj4o6_A:p25",
-    "WXO8MfQfzo0:p38"
+    "WXO8MfQfzo0:p38",
+    "ENizLoE6pzI:p42"
    ]
   },
   {
-   "text": "Houston has a weak fantasy playoff schedule for a March 28 end: 3, 3 and 4 games in weeks 19 to 21, so 10 games in total.",
+   "text": "With a March 28 end, the Rockets play 3-3-4 in the fantasy playoff weeks, 10 games over three weeks.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -90,7 +102,16 @@
    ]
   },
   {
-   "text": "Houston has only 14 back-to-backs this season.",
+   "text": "That fantasy playoff schedule is weak.",
+   "kind": "verdict",
+   "date": "2026-10-01",
+   "until": "",
+   "sources": [
+    "aLP080hxizA:t4"
+   ]
+  },
+  {
+   "text": "The Rockets have only 14 back-to-backs this season.",
    "kind": "fact",
    "date": "2026-10-01",
    "until": "",
@@ -99,7 +120,7 @@
    ]
   },
   {
-   "text": "Houston is projected to win about 54 games. The team is expected to stay conservative in the regular season and not chase seeding.",
+   "text": "The Rockets are predicted to win 54 games.",
    "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
@@ -110,45 +131,28 @@
  ],
  "durable": [
   {
-   "text": "He is a 3-and-D role player who is around average in many categories. He will never be a star.",
-   "kind": "verdict",
-   "date": "2026-08-12",
-   "until": "",
-   "sources": [
-    "yoCTTlJ_tPQ:p11"
-   ]
-  },
-  {
-   "text": "He is a boring fantasy pick.",
+   "text": "He is a 3-and-D role player who is around average in many areas. He will never be a star, and he is a boring fantasy pick.",
    "kind": "verdict",
    "date": "2026-10-01",
    "until": "",
    "sources": [
+    "yoCTTlJ_tPQ:p11",
     "OdDkXFhoKsc:p53",
     "aLP080hxizA:p14"
    ]
   },
   {
-   "text": "He makes many threes for a forward or center.",
+   "text": "His interior defense, rim deterrence and weak-side shot blocking have grown a lot. Smaller, quick guards can beat him on the perimeter.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-08-12",
    "until": "",
    "sources": [
-    "stats",
-    "yoCTTlJ_tPQ:p10"
+    "yoCTTlJ_tPQ:p11",
+    "yoCTTlJ_tPQ:p12"
    ]
   },
   {
-   "text": "His FG% is low for a forward or center, and he takes enough shots for it to hurt a team.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He shot only about 35% on open and wide-open threes, which is below league average. He needs to become a more reliable shooter.",
+   "text": "He shot only about 35% on open and wide-open threes, which is below league average.",
    "kind": "fact",
    "date": "2026-08-12",
    "until": "",
@@ -157,13 +161,31 @@
    ]
   },
   {
-   "text": "His interior defense, rim deterrence and weak-side shot blocking have grown a lot. Smaller, quick guards can still beat him on the perimeter.",
-   "kind": "fact",
+   "text": "He needs to become a more reliable shooter.",
+   "kind": "verdict",
    "date": "2026-08-12",
    "until": "",
    "sources": [
-    "yoCTTlJ_tPQ:p11",
-    "yoCTTlJ_tPQ:p12"
+    "yoCTTlJ_tPQ:p13"
+   ]
+  },
+  {
+   "text": "He makes many threes for a forward or center.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats",
+    "yoCTTlJ_tPQ:p10"
+   ]
+  },
+  {
+   "text": "His FG% is weak for his position.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
    ]
   }
  ],
@@ -172,77 +194,77 @@
    "name": "3PM from a big",
    "channel": "durable",
    "detail": "About 2 threes per game as a F,C",
+   "until": "",
    "sources": [
     "stats",
     "yoCTTlJ_tPQ:p10"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "About 45% FG on 11 to 13 attempts, low for a forward or center",
+   "detail": "About 44.8% FG, weak for a F,C",
+   "until": "",
    "sources": [
     "stats"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "heavy starter minutes",
    "channel": "durable",
    "detail": "Udoka plays starters heavy minutes; Smith's minutes are stable",
+   "until": "",
    "sources": [
     "aLP080hxizA:t0",
     "7BllEsdNLoM:t9",
     "aLP080hxizA:p16"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "defense-first",
    "channel": "durable",
-   "detail": "Udoka is a defense-first coach with a basic offense",
+   "detail": "Udoka's defense-first team with a basic offense",
+   "until": "",
    "sources": [
     "yoCTTlJ_tPQ:t2",
     "aLP080hxizA:t0"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-3-4 games in weeks 19 to 21 with a March 28 end",
+   "detail": "3-3-4, 10 games in weeks 19 to 21 with a March 28 end",
+   "until": "",
    "sources": [
     "aLP080hxizA:t4"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "few back-to-backs",
    "channel": "current",
-   "detail": "Only 14 back-to-backs",
+   "detail": "14 back-to-backs",
+   "until": "",
    "sources": [
     "aLP080hxizA:t5"
    ],
-   "until": "",
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "Projected 54 wins",
+   "detail": "Predicted 54 wins",
+   "until": "",
    "sources": [
     "yoCTTlJ_tPQ:t3"
    ],
-   "until": "",
    "new_meaning": ""
   }
  ],
- "note": "He is a stable starter on heavy minutes. He is a cheap, low-upside pick at the end of our 144-player draft. Yahoo values him at 5 USD, but he costs about 1.7 USD there and about 1.2 USD on ESPN, and he went for 1 USD in our league last season. Aim for 1 to 3 USD. His 3PM (+1.3 z vs his position) and his rebounds and blocks help a punt FG% build, since his 44.8% FG on real volume is his weak spot. Early in the season, check that he stays near 35 minutes and that his open-three shooting improves. Also remember that Houston's 3-3-4 playoff schedule makes him less useful in weeks 19 to 21.",
+ "note": "At Yahoo rank 96 (5 USD value, 1.9 USD average cost) and ESPN rank 111 (1.5 USD average cost), he is a 1 to 3 USD late pick in our league, and he went for 1 USD in our last auction. The experts want him around pick 115, not in the 90s. He gives about 2.1 threes from the frontcourt on steady starter minutes and fits punt FG% builds best. Early in the season, check that his 35 minutes hold with Eason and Adams around and whether his three-point shooting improves. Remember the weak 10-game playoff schedule.",
  "rejected": []
 }

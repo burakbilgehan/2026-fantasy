@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 154 | 4 | 1.4 | 80 | 21 |
+| 2026-27 | 4 | 1.9 | 177 | 4 | 1.5 | 80 | 21 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -20,39 +20,36 @@
 | FG% | 48.0% | +0.0 | -0.8 | - |
 | FT% | 84.0% | +0.9 | +1.4 | - |
 | 3PM | 1.9 | +0.5 | +1.6 | - |
-| PTS | 17.8 | +0.6 | +0.8 | - |
-| REB | 5.8 | +0.3 | -0.8 | - |
+| PTS | 17.8 | +0.6 | +0.9 | - |
+| REB | 5.8 | +0.3 | -0.7 | - |
 | AST | 2.3 | -0.5 | -0.0 | - |
 | STL | 0.6 | -0.9 | -0.5 | - |
-| BLK | 1.4 | +1.7 | +0.5 | - |
+| BLK | 1.4 | +1.7 | +0.6 | - |
 | TO | 1.3 | +0.5 | +0.3 | - |
 
 </details>
 
 **Current**
-- Experts call the Warriors a bad team and expect their players to fade as the season goes on. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718), [10-06](https://youtu.be/eTsjuVu1trk?t=481), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2063), [09-30](https://youtu.be/MUbNYdjpUDM?t=212), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- He has a hamstring injury that may cost him the start of the season. He missed media day for a health issue and was set to miss the preseason. When he will be available is unknown. (fact, 2026-10-06; [10-06](https://youtu.be/eTsjuVu1trk?t=816), [09-30](https://youtu.be/MUbNYdjpUDM?t=122))
-- Do not draft him in the top 100. He could be a top 70 player over about 40 games, which makes him worth a look around pick 150. One expert calls him his biggest Warriors fade because of the health uncertainty. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1761), [09-30](https://youtu.be/MUbNYdjpUDM?t=1103), [09-30](https://youtu.be/MUbNYdjpUDM?t=1139), [09-30](https://youtu.be/MUbNYdjpUDM?t=1531))
-- The plan is for him to start at center when healthy. The latest team projection, made while he is out, has Al Horford starting at center. (fact, 2026-09-30; [08-22](https://youtu.be/LXZLrL90crE?t=499), [07-01](https://youtu.be/W3THnI7wWdA?t=1180), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-30](https://youtu.be/MUbNYdjpUDM?t=678))
-- The Warriors have 15 back-to-backs this season, tied for second most. Their schedule is good for playoffs that end March 28. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
-- The Warriors may treat this season as a gap year. They are worried about lottery odds and may rest veterans. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
-- He made the top 100 last season in 24 minutes a game and should play more this season. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1780))
-- Drop him if he keeps missing games. (verdict, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=1780))
-- He re-signed with Golden State for 3 years and about 40 million USD with a player option, with 20 million USD guaranteed. (fact, 2026-08-22; [07-01](https://youtu.be/W3THnI7wWdA?t=1180), [08-22](https://youtu.be/LXZLrL90crE?t=499))
-- He is called the second best player on the Warriors while Jimmy Butler is out. Butler is out for at least half the season. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=472), [07-17](https://youtu.be/NYTH7uQsPCM?t=1876))
-- The Warriors have very poor depth and struggle to field a 10-man rotation, so minutes should go up across the rotation. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- Because he is not expected to play back-to-backs, one note projects him for about 8 games instead of 11 in its playoff window. That is no reason to avoid him at his price. (verdict, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1017), [08-16](https://youtu.be/gf_6GveiAls?t=1802))
+- He is out with a health issue. He missed media day and the preseason. Reports differ on the cause: one note names a hamstring injury, while others say it is unclear what is wrong. (fact, 2026-10-15; [09-30](https://youtu.be/MUbNYdjpUDM?t=122), [10-06](https://youtu.be/eTsjuVu1trk?t=816), [10-15](https://youtu.be/bd8GYKFOe8A?t=1497), stats)
+- The Warriors give no updates on his status, and Steve Kerr keeps saying he does not know. When he will return is unknown. (fact, 2026-10-15; [10-12](https://youtu.be/w66x_I_MaQ8?t=1527), [10-15](https://youtu.be/bd8GYKFOe8A?t=1497), [10-13](https://youtu.be/DzQXaC2rsac?t=1661))
+- Experts now say not to draft him. They do not know if he will play again and expect probably nothing from him. One calls him his biggest Warriors fade and would take him around pick 100 only in stash formats. (verdict, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1497), [10-13](https://youtu.be/DzQXaC2rsac?t=1661), [10-12](https://youtu.be/ENizLoE6pzI?t=1775), [09-30](https://youtu.be/MUbNYdjpUDM?t=1103), [09-30](https://youtu.be/MUbNYdjpUDM?t=1139), [09-30](https://youtu.be/MUbNYdjpUDM?t=1531))
+- While he is out, the Warriors start Draymond Green at center, with Podziemski and Lendeborg also in the lineup. (fact, 2026-10-14; [10-11](https://youtu.be/uI6umXsE7Vk?t=1249), [10-12](https://youtu.be/ENizLoE6pzI?t=1282), [10-14](https://youtu.be/D4dP5JvX1oo?t=1468))
+- In mid-October expert mock drafts he went around picks 137 to 164. (fact, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1527), [10-12](https://youtu.be/ENizLoE6pzI?t=1775))
+- When he plays, experts see his per game value far above his draft spot, somewhere between top 30 and top 70. One sees roughly 40th-ranked per game value, and another sees top 70 value over about 40 games. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1761), [08-16](https://youtu.be/gf_6GveiAls?t=1802), [09-01](https://youtu.be/80kfLVnFQ_s?t=1505), [09-14](https://youtu.be/t4n9MAP2_14?t=2347), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1354), [09-21](https://youtu.be/egRrai3Ax38?t=1780), [09-15](https://youtu.be/KPdD91Oo8-U?t=1659), [08-24](https://youtu.be/g31YlwRe0XQ?t=1695))
+- Golden State has 15 back-to-backs, tied for second most. One expert counts three back-to-backs in the recommended playoff window, so he would likely get 8 games there instead of 11. (fact, 2026-09-30; [08-16](https://youtu.be/gf_6GveiAls?t=991), [08-16](https://youtu.be/gf_6GveiAls?t=1017), [09-30](https://youtu.be/MUbNYdjpUDM?t=1653))
+- The Warriors may treat this as a throwaway or gap year. They worry about lottery odds and may rest veterans. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- He re-signed with Golden State for 3 years and 40 million USD with a player option, with 20 million guaranteed. The plan is for him to start at center when healthy. (fact, 2026-09-03; [07-01](https://youtu.be/W3THnI7wWdA?t=1180), [08-22](https://youtu.be/LXZLrL90crE?t=499), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
 
 **Durable**
-- He is a stretch center. He makes many threes for a center, shoots a strong FT% for his position and adds good blocks. (fact, 2026-10-11; stats)
-- He has a long record of missed games. An ongoing mystery illness caused availability problems last season, and he also has knee and ankle issues. (fact, 2026-09-14; [08-09](https://youtu.be/8d--aL_xxwE?t=892), [08-22](https://youtu.be/LXZLrL90crE?t=472), [09-14](https://youtu.be/t4n9MAP2_14?t=2347), [07-14](https://youtu.be/xHRF06_E9HE?t=1486))
-- He is very good per game when he plays and gets overlooked in fantasy because of his availability. Experts put his per-game value around the top 40 to 60. (verdict, 2026-09-14; [08-22](https://youtu.be/LXZLrL90crE?t=561), [08-16](https://youtu.be/gf_6GveiAls?t=1802), [09-01](https://youtu.be/80kfLVnFQ_s?t=1505), [08-24](https://youtu.be/g31YlwRe0XQ?t=1695), [09-14](https://youtu.be/t4n9MAP2_14?t=2347))
+- He is a stretch center. He gives blocks plus threes and FT% that are well above other centers, with few turnovers. His rebounds are light for a center. (fact, 2026-10-16; stats)
+- He has a long record of missed games. Causes include an ongoing mystery illness plus knee and ankle problems, so experts lower his games-played projection. (fact, 2026-09-14; [08-22](https://youtu.be/LXZLrL90crE?t=472), [08-09](https://youtu.be/8d--aL_xxwE?t=892), [07-14](https://youtu.be/xHRF06_E9HE?t=1486), [09-14](https://youtu.be/t4n9MAP2_14?t=2347))
+- He is very good when he plays. His availability gets him slept on in fantasy. (verdict, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=561))
 - He is not expected to play back-to-backs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=833))
 
 **Tags**
-- Current: `injured now` (Hamstring injury; may miss the start of the season), `questionable` (Yahoo status Q (Undisclosed)), `injury last season` (Illness-based absences last season), `back-to-back risk` (Warriors have 15 back-to-backs), `many back-to-backs` (15 back-to-backs, tied for second most), `flyer` (Worth a look around pick 150; top 70 for about 40 games), `role up` (Played 24 minutes last season and should play more; second best Warrior while Butler is out), `tank risk` (Possible gap year; team may rest veterans), `shutdown risk` (Team worried about lottery odds and may rest veterans), `thin rotation` (Warriors struggle to field a 10-man rotation), `sites disagree on price` (Yahoo rank 154, ESPN rank 80)
-- Durable: `injury prone` (Ongoing mystery illness, plus knee and ankle issues), `load management` (Not expected to play back-to-backs), `3PM from a big` (About 1.9 threes a game as a center), `fits every build`
+- Current: `injured now` (Yahoo status O (Undisclosed). Missed preseason, return date unknown), `injury last season` (32 games in 2025-26, illness-based absences), `back-to-back risk` (expected to sit back-to-backs, including three in the playoff window), `many back-to-backs` (GSW has 15 back-to-backs), `tank risk` (possible gap year. Team may rest veterans for lottery odds), `bust candidate` (experts say do not draft. Our league paid 21 USD last season), `sites disagree on price` (Yahoo rank 177, ESPN rank 80)
+- Durable: `injury prone` (ongoing mystery illness plus knee and ankle problems), `load management` (not expected to play back-to-backs), `3PM from a big` (about 1.9 threes per game as a center), `fits every build`
 
-**Note.** The market has dropped him to almost nothing. He ranks 154 on Yahoo with a 1.0 USD average cost and 80 on ESPN, while our league paid 21 USD for him last season. As a 1 to 3 USD flyer he adds threes from the center spot, blocks and a good FT% for a big, and no category is weak enough to rule out any build. Early in the season, check the hamstring and his Yahoo status (he can only use an IL slot once listed Out or worse), whether he takes back the starting job from Horford, and his minutes. Drop him if the absences keep piling up.
+**Note.** Our league paid 21 USD for him last season. The market now has him at 1.9 USD on Yahoo and 1.5 USD on ESPN, and the newest expert calls say not to draft him because nobody knows when he will play. With his O status and our 4 IL slots, he is at most a 1 USD end-of-draft stash for a team that wants blocks, threes and FT% from a center. The safer play is to leave him on waivers. Early in the season, watch for a real return date, whether he takes the starting center job back from Draymond Green, and his minutes. Back-to-back rest will also cost him games in the playoff weeks.
 
-<sub>21 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>25 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

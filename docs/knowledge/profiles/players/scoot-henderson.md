@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 180 | 0 | 0.1 | 206 | not drafted |
+| 2026-27 | 0 | - | 184 | 0 | 0.1 | 206 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,25 +30,25 @@
 </details>
 
 **Current**
-- Portland's backcourt is crowded. Damian Lillard returns, Ja Morant and Jrue Holiday were added, and Deni Avdija also handles the ball. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [09-10](https://youtu.be/W-R1dzem32s?t=1062))
-- He is healthy and expected to play a full season. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
-- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- He is projected to come off the bench. The projected starting five is Lillard, Morant, Camara, Avdija and Clingan. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
-- Veteran guards keep blocking his path. He projects as a bench player of about 20 minutes with few chances. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1801))
-- Minutes and usage in Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- The August team preview doubts that Portland makes a consolidation trade. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
-- Only 47.3% of his potential assists turned into assists. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949))
-- The low assist conversion is likely due to poor finishing by teammates such as Donovan Clingan, Toumani Camara and Deni Avdija. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
-- He is not expected to play much and is not draftable in fantasy. (verdict, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=323))
-- In late June Portland was rumored to be in trade talks for Jaylen Brown, and Henderson was named a likely outgoing piece. (fact, 2026-06-29; [06-29](https://youtu.be/bHA-JoW3reE?t=286), [06-29](https://youtu.be/bHA-JoW3reE?t=323))
+- Portland's projected starters are Scoot Henderson, Damian Lillard, Toumani Camara, Deni Avdija and Donovan Clingan. Only the fifth spot, his spot, is uncertain. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294), [10-15](https://youtu.be/8paKnhgNbLg?t=1132))
+- The expert has low confidence that he holds the starting job. Jrue Holiday or Henderson should start most nights, and he could lose the spot early to Holiday or Ja Morant. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1132), [10-15](https://youtu.be/8paKnhgNbLg?t=329))
+- He is a late-round swing, not a must-draft. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1132))
+- Portland has a new, first-time head coach. He may mix up the lineup, and minutes and usage are expected to swing from game to game. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland plays 10 games in our playoff weeks 19 to 21, with three back-to-backs in the playoffs. The team has 15 back-to-backs this season. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037))
+- Portland's playoff schedule is weak for a season that ends March 28. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828))
+- Portland's backcourt is crowded. Lillard is back, Holiday and Morant were added, and Avdija also handles the ball, so playmaking and usage are shared. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825), [07-07](https://youtu.be/ME-r173X5b0?t=1091), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
+- He missed most of last season, and Portland expects to have him for a full season this year. (fact, 2026-10-09; stats, [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- Only 47.3% of his potential assists turned into actual assists. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949))
+- The expert links his low assist conversion to poor finishing by teammates such as Clingan and Camara. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=1949), [07-17](https://youtu.be/NYTH7uQsPCM?t=1900))
 
 **Durable**
-- He is an on-ball point guard. (fact, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=836))
+- He has never shot 50% on two-pointers. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1116))
+- Assists are his main standout skill. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1116))
 
 **Tags**
-- Current: `role down` (Projected as a bench guard of about 20 minutes behind Lillard, Morant and Holiday), `minutes competition` (Guard minutes go to Lillard, Morant, Holiday and Avdija first), `usage competition` (Shares the ball with Lillard, Morant and Avdija, all high-usage players), `injury last season` (Played 30 games in 2025-26 and is back for a full season), `new coach` (Portland has a new head coach), `unsettled rotation` (Minutes and usage expected to swing game to game)
+- Current: `minutes competition` (Fifth starter spot contested by Jrue Holiday and Ja Morant), `usage competition` (Shares the ball with Lillard, Morant, Holiday and Avdija), `shared ball handling` (Several guards share Portland's playmaking), `new coach` (First-time head coach in Portland), `unsettled rotation` (Coach may mix up the lineup; minutes and usage expected to swing game to game), `injury last season` (Played 30 games in 2025-26), `bad playoff schedule` (10 games in weeks 19 to 21 with three back-to-backs), `flyer` (Late-round swing if he wins the fifth starter spot)
 - Durable: none
 
-**Note.** Both sites value him at 0 USD (Yahoo rank 180, ESPN rank 206), so he sits outside the 144 players our league drafts. Do not bid on him: he projects as a bench guard of about 20 minutes, and his FG% has never been above 42% on 10 or more shots. Yahoo's 0.7 TO projection looks far too low next to his 2.4 to 3.4 per game history, so use ESPN's 2.7. Keep him on the waiver radar early in the season only if a trade or an injury to Lillard, Morant or Holiday opens real guard minutes.
+**Note.** Both sites value him at 0 USD (Yahoo rank 184, ESPN rank 206), and only 144 players get drafted, so at most he is a 1 USD last-round flyer. More likely he goes undrafted and starts the season on waivers. His projected line has no real strength or weakness: assists are his best skill, but his FG% and rebounds lean slightly negative. In the first weeks, check whether he keeps the starting job over Jrue Holiday and Ja Morant, and how many minutes he gets. Portland's weak 10-game playoff schedule also lowers his value as a long-term hold.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

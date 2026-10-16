@@ -9,7 +9,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 3.4 | 100 | 3 | 2.4 | 89 | not drafted |
+| 2026-27 | 5 | 3.0 | 101 | 3 | 2.6 | 89 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -28,29 +28,31 @@
 </details>
 
 **Current**
-- Jamahl Mosley is the new head coach, and Queen's minutes depend on how he handles the Queen and Zion frontcourt. (fact, 2026-10-09; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [09-04](https://youtu.be/gerS7ibpaJo?t=1168), [08-03](https://youtu.be/5QU-jta-lWM?t=1459), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- Experts expect Queen to come off the bench and share the second unit. They call this bad for his value. (verdict, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1724), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5014), [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-30](https://youtu.be/BjXP9JODDSg?t=1358), [09-24](https://youtu.be/_vbAP5y182A?t=1315))
-- New Orleans has more rotation players than minutes. Murray, Murphy, Jones, Zion, Missi, Fears, Bey, Mathurin and Queen all want playing time. (fact, 2026-10-08; [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1054))
-- Josh moved Queen down his board and calls his draft spot a little early if he comes off the bench. In an auction mock, Josh called a 6 USD price for Queen reasonable. (verdict, 2026-10-05; [09-24](https://youtu.be/_vbAP5y182A?t=1315), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5014))
-- Experts agree that Queen and Zion Williamson fit poorly together, which limits how long they can share the floor. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-24](https://youtu.be/_vbAP5y182A?t=1315), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1033), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047))
-- Experts see real upside if Queen wins the starting center job or Zion misses time. One expert put his ceiling at top 50 in that case. Josh thinks the Pelicans will rest Zion often. (verdict, 2026-10-02; [09-04](https://youtu.be/gerS7ibpaJo?t=1184), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- A Pelicans beat reporter expects Yves Missi to start at center over Queen. (fact, 2026-09-30; [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-30](https://youtu.be/BjXP9JODDSg?t=1097), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
-- Queen is a risky pick. He is fine as a flyer but not as a sure starter. (verdict, 2026-09-15; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [09-15](https://youtu.be/KPdD91Oo8-U?t=1522))
+- He played very badly in his most recent game. One expert says that is part of why he does not get more minutes. (fact, 2026-10-15; [10-15](https://youtu.be/bd8GYKFOe8A?t=1240))
+- Experts disagree on his draft price. One calls him a really good pick at 113. Another calls pick 105 early because he has no confidence in Queen's minutes. (verdict, 2026-10-13; [10-13](https://youtu.be/EogBYa24Gto?t=1306), [10-11](https://youtu.be/uI6umXsE7Vk?t=1453))
+- New Orleans has a crowded rotation and a new head coach, Jamahl Mosley. How his minutes will be split is not clear. (fact, 2026-10-11; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [10-11](https://youtu.be/uI6umXsE7Vk?t=762), [10-08](https://youtu.be/WXO8MfQfzo0?t=1733), [10-10](https://youtu.be/gsx_UDkVPd0?t=191), [10-10](https://youtu.be/gsx_UDkVPd0?t=101), [07-17](https://youtu.be/NYTH7uQsPCM?t=636), [09-04](https://youtu.be/gerS7ibpaJo?t=1477))
+- He is projected to come off the bench. Yves Missi looks set to start at center, and a Pelicans beat reporter expects Missi to start over Queen. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1472), [10-08](https://youtu.be/WXO8MfQfzo0?t=1724), [10-05](https://youtu.be/Q6YlQDvD-aY?t=5014), [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-30](https://youtu.be/BjXP9JODDSg?t=1358), [09-24](https://youtu.be/_vbAP5y182A?t=1141), [09-30](https://youtu.be/BjXP9JODDSg?t=1097))
+- Experts agree he fits poorly next to Zion Williamson, so the two are unlikely to share long stretches on the floor. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1503), [10-02](https://youtu.be/ZYllcj4o6_A?t=1339), [09-24](https://youtu.be/_vbAP5y182A?t=1315), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1033), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1818), [09-17](https://youtu.be/ahNxsoU8Hx4?t=1047))
+- He may be the best per-minute fantasy producer on the Pelicans. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1472))
+- He is a high-upside flyer and the best stash on the team. If Zion Williamson misses time or is traded, or Queen wins the starting job, he could return top 50 value. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1638), [09-14](https://youtu.be/t4n9MAP2_14?t=2042), [09-04](https://youtu.be/gerS7ibpaJo?t=1184), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1808), [10-02](https://youtu.be/ZYllcj4o6_A?t=439))
+- With a March 28 season end, New Orleans plays 4, 4 and 3 games in our playoff weeks, which is a good playoff schedule. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1973))
+- New Orleans has a league-high 16 back-to-backs. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=2032))
+- In a mock auction he went for 6 USD, which the expert called reasonable. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=5014))
+- A bench role hurts his value. If he stays a reserve, his draft spot is a little early. (verdict, 2026-10-02; [09-24](https://youtu.be/_vbAP5y182A?t=1315), [09-30](https://youtu.be/BjXP9JODDSg?t=1358), [10-02](https://youtu.be/ZYllcj4o6_A?t=1339))
 
 **Durable**
-- Queen is a hub big who works from the elbows and the free throw line. He is not a three-point spacer and makes very few threes. (fact, 2026-10-11; [08-03](https://youtu.be/5QU-jta-lWM?t=526), [09-04](https://youtu.be/gerS7ibpaJo?t=1145), stats)
-- He gives a broad counting line for a big: rebounds, assists well above his position, steals and blocks. (fact, 2026-10-11; [09-04](https://youtu.be/gerS7ibpaJo?t=1145), stats)
-- His turnovers are high for a forward or center. (fact, 2026-10-11; stats)
-- He does not give the field goal percentage boost managers usually want from a center. (verdict, 2026-10-11; [09-15](https://youtu.be/KPdD91Oo8-U?t=1522), stats)
-- He is a poor defender and gives little rim protection. (verdict, 2026-09-04; [09-04](https://youtu.be/gerS7ibpaJo?t=1145), [08-03](https://youtu.be/5QU-jta-lWM?t=1037))
-- His production comes in bursts. He has had poor first halves and big fourth-quarter runs. (fact, 2026-08-03; [08-03](https://youtu.be/5QU-jta-lWM?t=1037))
+- Experts disagree on his defense. One calls him a bad defender with little rim protection. Another says he is actually good on defense. (verdict, 2026-10-13; [10-10](https://youtu.be/gsx_UDkVPd0?t=1503), [10-13](https://youtu.be/OsbUAkSeVB4?t=1273), [09-04](https://youtu.be/gerS7ibpaJo?t=1145), [08-03](https://youtu.be/5QU-jta-lWM?t=1037))
+- He is a hub big who works from the elbows and the free throw line. He is not a three-point spacer and has no reliable three. (fact, 2026-10-10; [08-03](https://youtu.be/5QU-jta-lWM?t=526), [10-10](https://youtu.be/gsx_UDkVPd0?t=1503), stats)
+- He fills the stat sheet. For a forward or center he gives strong assists and steals, plus good rebounds. (verdict, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1503), [09-04](https://youtu.be/gerS7ibpaJo?t=1145), stats)
+- He turns the ball over a lot for his position. (fact, 2026-10-10; [10-10](https://youtu.be/gsx_UDkVPd0?t=1503), stats)
+- His FG% gives no real boost for a center, and one expert calls him a poor shooter. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=1522), [09-04](https://youtu.be/gerS7ibpaJo?t=1145), stats)
 
 **Tags**
-- Current: `minutes competition` (Yves Missi expected to start at center; poor fit next to Zion), `flyer` (Upside if he starts or Zion misses time), `deep rotation` (Too many Pelicans for 240 minutes), `unsettled rotation` (Frontcourt starters unclear between Queen, Zion and Missi), `new coach` (Jamahl Mosley)
-- Durable: `punt 3PM fit` (About 0.4 threes per game, weak even for a F/C), `punt TO fit` (About 2.5 turnovers per game, high for his position)
+- Current: `minutes competition` (Yves Missi looks set to start at center; poor fit with Zion Williamson), `flyer` (upside if he starts or Zion misses time), `handcuff` (value rises if Zion Williamson is hurt or traded), `deep rotation` (about eight Pelicans who could start), `unsettled rotation` (frontcourt split between Zion, Missi and Queen unclear), `usage competition` (roster crowded with high-usage players), `new coach` (Jamahl Mosley), `good playoff schedule` (4-4-3 games with a March 28 end), `many back-to-backs` (league-high 16)
+- Durable: `punt 3PM fit` (0.4 threes per game projected, no reliable three), `punt TO fit` (about 2.5 turnovers per game projected)
 
-**Note.** Queen's market price is 3 to 4 USD (Yahoo rank 100, ESPN rank 89). Josh called 6 USD reasonable in a mock auction. He was not drafted in our league last season. As a bench big he is a cheap late buy for punt TO or punt 3PM builds, since he still adds rebounds, assists, steals and blocks from a F/C slot. Early in the season, check whether Missi keeps the starting job, how Mosley splits minutes between Queen and Zion, and whether Queen gets above his 25 minutes of last season.
+**Note.** Queen ranks 101 on Yahoo and 89 on ESPN, with average costs of 3.0 and 2.6 USD. In a 144-player league that makes him a 1 to 5 USD bench flyer, not a starter you count on, and 6 USD is the ceiling one expert called reasonable. He fits punt 3PM and punt TO builds best, giving rebounds, about 4 assists, steals and blocks from a F/C slot. Check early whether Missi holds the starting job, how many minutes Mosley gives him, and whether Zion Williamson stays healthy.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.4 per game); AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
 
-<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

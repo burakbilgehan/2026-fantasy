@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 198 | 0 | 0.0 | 185 | not drafted |
+| 2026-27 | 0 | - | 215 | 0 | 0.0 | 185 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,10 +19,10 @@
 |---|---|---|---|---|
 | FG% | 44.5% | -0.5 | -0.4 | - |
 | FT% | 76.0% | -0.1 | -0.3 | - |
-| 3PM | 1.6 | +0.2 | -0.1 | - |
+| 3PM | 1.6 | +0.1 | -0.1 | - |
 | PTS | 10.2 | -0.7 | -0.7 | - |
 | REB | 3.4 | -0.7 | -0.6 | - |
-| AST | 2.5 | -0.4 | -0.5 | - |
+| AST | 2.5 | -0.3 | -0.4 | - |
 | STL | 0.9 | -0.1 | -0.2 | - |
 | BLK | 0.5 | -0.3 | -0.1 | - |
 | TO | 1.0 | +0.8 | +0.9 | - |
@@ -30,20 +30,19 @@
 </details>
 
 **Current**
-- Experts say coach J.B. Bickerstaff cannot be trusted on what he says about minutes. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=2544), [10-04](https://youtu.be/n4KkK-OJjqA?t=589), [10-03](https://youtu.be/_O9pc_u5vH0?t=304))
-- He is not in Detroit's projected starting five. In the projected bench order, Isaiah Joe is the sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter or Prince gets the last rotation spot. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=374), [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
+- The projected bench order is Isaiah Joe as sixth man, then Ron Holland, Paul Reed and Daniss Jenkins. Huerter and Prince compete for the last rotation spot. (verdict, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1420))
 - Detroit plays 4, 3 and 4 games in our playoff weeks 19 to 21 and has 15 back-to-backs this season. (fact, 2026-10-03; [10-03](https://youtu.be/_O9pc_u5vH0?t=1892))
-- Last season Detroit used a deep 12 to 13 player rotation that limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
-- Signed with Detroit for 3 years and 27 million USD. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
-- An expert does not understand the deal. He thinks Huerter could be used as a shooter next to Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- Detroit used a deep 12 to 13 player rotation last season, which limited everyone's minutes. (fact, 2026-08-12; [08-12](https://youtu.be/p9XE5jFqhvs?t=1386))
+- Signed with Detroit in free agency on a 3-year, 27 million USD deal. (fact, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
+- The expert did not understand the signing. He thinks Huerter could be used as a shooter alongside Isaiah Joe. (verdict, 2026-07-01; [07-01](https://youtu.be/W3THnI7wWdA?t=1160))
 
 **Durable**
 - none
 
 **Tags**
-- Current: `minutes competition` (Competes with Prince for the last spot in Detroit's rotation), `deep rotation` (Detroit used a 12 to 13 player rotation last season)
+- Current: `new team` (Signed with Detroit, 3 years, 27 million USD), `minutes competition` (Competes with Prince for the last spot in Detroit's bench rotation), `deep rotation` (Detroit used a 12 to 13 player rotation last season)
 - Durable: none
 
-**Note.** Yahoo ranks him 198 and ESPN ranks him 185. Both sites give him 0 USD. Only 144 players get drafted in our league, so he is not a draft target. His projected line (10.2 PTS, 1.6 3PM, 44.5% FG) has no strong category, and he is fighting Prince for the last spot in a deep Detroit rotation. Leave him on waivers. Early in the season, watch whether he holds a real bench role and gets minutes as a shooter.
+**Note.** Huerter ranks 215 on Yahoo and 185 on ESPN, both sites value him at 0 USD, and he was not drafted in our league last season. That puts him well outside the 144 players we draft, so he should not be bid on. His projected line (about 10 points, 1.6 threes and 1.0 turnovers in roughly 23 minutes) has no outlier category, and he may not even make Detroit's rotation, where he competes with Prince for the last spot. Early in the season, check whether he wins that spot and gets shooter minutes next to Isaiah Joe before you look at him on waivers.
 
-<sub>1 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>1 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

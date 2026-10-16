@@ -8,7 +8,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 242 | 0 | 0.0 | 226 | not drafted |
+| 2026-27 | 0 | - | 252 | 0 | 0.0 | 226 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -27,26 +27,25 @@
 </details>
 
 **Current**
-- Milwaukee's guard group is crowded. Rollins, Herro, Porter, Jakucionis, Trent and Green all compete for backcourt minutes. He is not in the projected opening starting five of Rollins, Herro, Jaquez, Kuzma and Turner. (fact, 2026-10-09; [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423), [06-28](https://youtu.be/RsjGTgJiKyI?t=493))
-- Rookie. Milwaukee drafted him 10th overall. He is 21 years old. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1690), [10-08](https://youtu.be/sDzeYdUhJDI?t=1752), [08-14](https://youtu.be/owlM6b8oUd0?t=1626))
-- He has no clear path to minutes. Experts do not expect 30 minutes right away and think he may need until year three to be useful in fantasy. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1690), [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [06-28](https://youtu.be/RsjGTgJiKyI?t=501))
-- A rank around 240 is reasonable. His ADP of 113 is too high. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1690))
-- Do not draft him in standard leagues. He is a stash option only in stash formats. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1752))
-- He may get chances in March. The Bucks are expected to focus more on young players as the season goes on, which would cut veteran minutes. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1752), [10-08](https://youtu.be/sDzeYdUhJDI?t=508))
-- Taylor Jenkins is the new head coach. He might use a deep rotation. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [08-14](https://youtu.be/owlM6b8oUd0?t=2132))
-- The Bucks roster needs trades to consolidate, and more moves are possible. That could change the guard minutes. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [08-14](https://youtu.be/owlM6b8oUd0?t=115), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
-- The team views him as its long-term shooting guard. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1626))
-- Experts expect the Bucks to be a bad team. Their win total is 26.5. They do not own their draft pick, so they have no reason to tank. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609))
+- New coach Taylor Jenkins makes the rotation hard to predict. Experts call it the least clear rotation in the league, and he may use a deep rotation. (fact, 2026-10-13; [10-13](https://youtu.be/KqTKVExQGLo?t=254), [10-11](https://youtu.be/uI6umXsE7Vk?t=960), [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=335), [10-08](https://youtu.be/WXO8MfQfzo0?t=1054))
+- Milwaukee is expected to focus more on developing young players as the season goes on, which would cut veteran minutes. The roster also needs trades to consolidate its guards and forwards. (verdict, 2026-10-09; [10-08](https://youtu.be/sDzeYdUhJDI?t=508), [10-08](https://youtu.be/sDzeYdUhJDI?t=1845), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1423), [06-30](https://youtu.be/4GDfg2n2l8o?t=330))
+- Rookie. Milwaukee drafted him 10th overall. He is already 21. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1690), [10-08](https://youtu.be/sDzeYdUhJDI?t=1752), [08-14](https://youtu.be/owlM6b8oUd0?t=1626))
+- Milwaukee's backcourt is crowded. Herro, Rollins, Kevin Porter Jr., Jakucionis, Trent and Green compete with him for guard minutes. The projected opening starters are Rollins, Herro, Jaquez, Kuzma and Turner, so he is not in the starting lineup. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=73), [10-08](https://youtu.be/sDzeYdUhJDI?t=901), [10-02](https://youtu.be/ZYllcj4o6_A?t=2211), [08-26](https://youtu.be/sTtFUy7IoJI?t=1418), [09-09](https://youtu.be/7BllEsdNLoM?t=1772), [06-28](https://youtu.be/RsjGTgJiKyI?t=493))
+- He has no clear path to minutes and is not expected to play 30 minutes right away. A rank around 240 is reasonable, well below his general ADP of 113. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1690), [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [06-28](https://youtu.be/RsjGTgJiKyI?t=501))
+- Do not draft him in standard leagues. He is a stash option only in stash formats and may get chances in March. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1752))
+- Milwaukee views him as its long-term shooting guard. His game translated in summer league. (fact, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=1626))
+- Milwaukee is expected to be a bad team, around 33 wins. It does not own its draft pick. (verdict, 2026-08-14; [08-14](https://youtu.be/owlM6b8oUd0?t=2216), [08-10](https://youtu.be/sfCe7fS9daM?t=1690), [07-13](https://youtu.be/Rqb5GdrSweY?t=1609), [10-08](https://youtu.be/sDzeYdUhJDI?t=167))
 
 **Durable**
-- He is a combo guard without a classic fantasy skill set. He has a flat stat profile with no standout category and is not a big source of steals, blocks or assists. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1704), [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [06-22](https://youtu.be/HxQjagSTTAM?t=408))
-- In summer league he averaged about 19 points, 4 rebounds, 3.5 assists, 1.8 threes and 1.6 steals. He shot poorly from the free throw line. (fact, 2026-10-08; [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [10-08](https://youtu.be/sDzeYdUhJDI?t=1704))
-- His best case is about 80% of Bradley Beal: scoring, decent threes and okay rebounds and assists. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=935))
+- He is a combo guard who plays more like a shooting guard. (fact, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1704), [06-28](https://youtu.be/RsjGTgJiKyI?t=501))
+- He has a flat fantasy profile with no standout skill. He does not bring many defensive stats and is not a passer. Scoring and threes are his main contributions. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=1704), [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [06-22](https://youtu.be/HxQjagSTTAM?t=408), [06-28](https://youtu.be/RsjGTgJiKyI?t=935))
+- In summer league he averaged about 19 points, 4 rebounds, 3.5 assists, 1.8 threes and 1.6 steals. He shot free throws poorly there. (fact, 2026-10-08; [07-23](https://youtu.be/LUTYUdXBG1M?t=954), [10-08](https://youtu.be/sDzeYdUhJDI?t=1704))
+- His best case is about 80% of Bradley Beal. He likely needs until his third season to be useful in fantasy. (verdict, 2026-06-28; [06-28](https://youtu.be/RsjGTgJiKyI?t=501), [06-28](https://youtu.be/RsjGTgJiKyI?t=935))
 
 **Tags**
-- Current: `rookie` (10th overall pick, age 21), `minutes competition` (Crowded Bucks backcourt: Rollins, Herro, Porter, Jakucionis, Trent, Green), `slow start` (May get chances in March as Milwaukee moves toward developing young players), `bust candidate` (At ADP 113. The expert ranks him around 240), `new coach` (Taylor Jenkins), `unsettled rotation` (Experts call it the hardest NBA rotation to read), `trades likely` (17-man roster heavy on guards, needs to consolidate), `bottom team` (Win total 26.5)
+- Current: `rookie` (10th overall pick, already 21), `minutes competition` (crowded guard group: Herro, Rollins, Porter, Jakucionis, Trent, Green), `unsettled rotation` (experts call the Bucks rotation the least clear in the league), `deep rotation` (Jenkins may spread minutes across many guards), `new coach` (Taylor Jenkins), `trades likely` (roster needs consolidation, which could open guard minutes), `bottom team` (about 33 wins expected), `slow start` (no early path to minutes; youth focus grows later and he may get chances in March), `waiver watch` (do not draft in standard leagues; watch for a bigger role later in the season)
 - Durable: none
 
-**Note.** Yahoo ranks him 242 and ESPN 226, both value him at 0 USD, and our league drafts only 144 players, so do not spend auction money on him. The sites cannot agree on what kind of guard he is (Yahoo projects 1.3 threes and 2.4 assists, ESPN 0.4 threes and 4.1 assists), and no category stands out in his profile, so he helps no particular build. Leave him on waivers and check the Bucks guard minutes after the trade deadline (2027-03-04). If Milwaukee shifts minutes to young players, he could be a short-term pickup for the playoff weeks in March.
+**Note.** At Yahoo rank 252 and ESPN rank 226, with a 0 USD value on both sites, he falls well outside the 144 players drafted in our league, and the expert says not to draft him in standard leagues. No category is a strong or weak outlier. The two projections disagree on his game: Yahoo has him at 1.3 threes and 2.4 assists, while ESPN has 0.4 threes, 4.1 assists and 2.1 turnovers. That makes him a waiver name, not a punt-build fit. Track his minutes under Jenkins and any Bucks guard trades, since a youth push could give him a role near our fantasy playoffs in March.
 
-<sub>8 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>8 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

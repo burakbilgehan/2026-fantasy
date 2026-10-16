@@ -8,92 +8,77 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8277e0d097df",
- "note_count": 38,
- "built_at": "2026-10-11T09:19:49+00:00",
+ "input_sha": "d95f50196868",
+ "note_count": 45,
+ "built_at": "2026-10-16T09:04:30+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2177022,
-  "duration_ms": 61914,
+  "cost_usd_list": 0.2150902,
+  "duration_ms": 57134,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He has been traded to Toronto, where he takes Brandon Ingram's spot.",
+   "text": "Toronto acquired him in a trade. He faces no punishment from the league ruling on the investigation.",
    "kind": "fact",
    "date": "2026-09-03",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p0",
     "s28HvC2grAk:p0",
+    "Rqb5GdrSweY:p0",
     "OBwWCxG9SqM:p0"
    ]
   },
   {
-   "text": "He faces no punishment from the league ruling.",
+   "text": "He takes Brandon Ingram's spot and is a projected starter next to Quickley, Barrett, Barnes and Poeltl.",
    "kind": "fact",
-   "date": "2026-09-03",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
-    "OBwWCxG9SqM:p0",
-    "s28HvC2grAk:p0"
-   ]
-  },
-  {
-   "text": "He is a projected starter next to Quickley, Barrett, Barnes and Poeltl, and he is in the expected closing five.",
-   "kind": "fact",
-   "date": "2026-08-20",
-   "until": "",
-   "sources": [
+    "JMSLg6yz-M0:p0",
     "s28HvC2grAk:t0",
-    "s28HvC2grAk:t1"
+    "dlo7L8Ru91A:t5"
    ]
   },
   {
-   "text": "Plenty of Toronto's offense is expected to run through him, with usage moving to him and away from Barrett and Quickley. His numbers should stay similar to his Clippers numbers apart from normal age decline.",
+   "text": "Much of Toronto's offense should run through him, with usage moving to him and away from Barrett and Quickley.",
    "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
    "sources": [
     "s28HvC2grAk:p5",
-    "JMSLg6yz-M0:t0",
-    "JMSLg6yz-M0:p0"
+    "JMSLg6yz-M0:t0"
    ]
   },
   {
-   "text": "He is coming off one of his best and healthiest seasons in years.",
-   "kind": "fact",
-   "date": "2026-08-20",
-   "until": "",
-   "sources": [
-    "s28HvC2grAk:p3"
-   ]
-  },
-  {
-   "text": "Experts project him as a top 10 per-game player. His per-game range is tight: best case 4th, worst case 21st.",
+   "text": "Experts rate him a top 10 per-game player, with a tight per-game range. Games played is the open question.",
    "kind": "verdict",
    "date": "2026-09-17",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:p6",
+    "Rqb5GdrSweY:p2",
     "J1Eg3uaAICU:p20",
-    "Rqb5GdrSweY:p2"
+    "DubdKKhMWHo:p6",
+    "2A2JbUN-kc0:p35"
    ]
   },
   {
-   "text": "He is expected to miss time. One expert projects about 60 to 65 games.",
+   "text": "Experts expect him to miss time, with a projection of about 60 to 65 games. 60 games would count as a win.",
    "kind": "verdict",
-   "date": "2026-08-26",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "s28HvC2grAk:p1",
-    "sTtFUy7IoJI:p24"
+    "bd8GYKFOe8A:p10",
+    "sTtFUy7IoJI:p24",
+    "hviT4hzYNME:p12"
    ]
   },
   {
-   "text": "The Raptors have 15 back-to-backs, three of them in the fantasy playoffs.",
+   "text": "Toronto has 15 back-to-backs, three of them in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
@@ -103,52 +88,39 @@
    ]
   },
   {
-   "text": "Experts disagree on back-to-backs. Some expect him to play some but not all, one expects him to play most unless he gets hurt, and one expects load management in Toronto.",
+   "text": "He should play some or most back-to-backs, but not necessarily all of them. Load management in Toronto is likely.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
    "sources": [
+    "JMSLg6yz-M0:p5",
     "gf_6GveiAls:p5",
     "gf_6GveiAls:p6",
-    "JMSLg6yz-M0:p5",
     "W-R1dzem32s:p24"
    ]
   },
   {
-   "text": "Do not draft him inside the top 40 in head-to-head because of his knee. He becomes a fair pick around 41 to 45, or in round 4 or 5.",
+   "text": "In head-to-head, experts would not draft him inside the top 40. Round 4 or later is fine, around pick 41 to 45.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p10",
+    "EogBYa24Gto:p9",
+    "w66x_I_MaQ8:p13",
+    "uI6umXsE7Vk:p20",
     "6DnRWahYrFA:p7",
     "_vbAP5y182A:p13",
+    "BjXP9JODDSg:p12",
     "ahNxsoU8Hx4:p54",
     "LM0cRCGoAUQ:p23",
     "dlo7L8Ru91A:p13",
-    "DubdKKhMWHo:p5",
-    "2A2JbUN-kc0:p35",
-    "g31YlwRe0XQ:p9",
-    "BjXP9JODDSg:p12",
-    "OdDkXFhoKsc:p18",
-    "W-R1dzem32s:p24",
-    "eTsjuVu1trk:p34"
-   ]
-  },
-  {
-   "text": "Experts say his market price is too high when he goes around picks 20 to 29.",
-   "kind": "verdict",
-   "date": "2026-09-17",
-   "until": "",
-   "sources": [
-    "LM0cRCGoAUQ:p23",
-    "dlo7L8Ru91A:p13",
     "KPdD91Oo8-U:p7",
-    "E-KmhvyZ2CU:p4",
-    "J1Eg3uaAICU:p20"
+    "g31YlwRe0XQ:p9"
    ]
   },
   {
-   "text": "In an auction, one expert would pay no more than 24 USD for him. He went for 20 USD in that mock.",
+   "text": "In an auction, the most an expert would pay is 24 USD. He sold for 20 USD in that mock.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -170,53 +142,46 @@
    ]
   },
   {
-   "text": "Experts do not trust his knee to hold up. Their main worry is injuries and load management.",
+   "text": "Experts do not trust his knees to hold up. Injuries and load management worry them more than his talent does.",
    "kind": "verdict",
-   "date": "2026-08-20",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "bd8GYKFOe8A:p10",
+    "D4dP5JvX1oo:p5",
+    "KqTKVExQGLo:p12",
+    "eTsjuVu1trk:p34",
     "Rqb5GdrSweY:p1",
-    "JMSLg6yz-M0:p3",
     "s28HvC2grAk:p2",
     "8d--aL_xxwE:p9"
    ]
   },
   {
-   "text": "He is a high-usage player, with over 30 percent usage last season.",
+   "text": "He is a high-usage scorer and a good, willing three-point shooter who makes decisions quickly.",
    "kind": "fact",
-   "date": "2026-06-30",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p1"
-   ]
-  },
-  {
-   "text": "He is a good and willing three-point shooter and one of the best free throw shooters in recent memory. He makes decisions quickly.",
-   "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p4",
+    "JMSLg6yz-M0:p1",
+    "s28HvC2grAk:p4"
+   ]
+  },
+  {
+   "text": "He is one of the best free throw shooters in recent memory.",
+   "kind": "verdict",
+   "date": "2026-06-30",
+   "until": "",
+   "sources": [
     "JMSLg6yz-M0:p2"
    ]
   },
   {
-   "text": "Steals are his standout category, far above the pool. Points and FT% are also clearly strong, and no category is weak.",
+   "text": "Steals are his standout category, far above the pool. He also helps in points, FT% and FG%, and he has no weak category.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
-   ]
-  },
-  {
-   "text": "Because he misses games, he is worth a bit more in roto than in head-to-head.",
-   "kind": "verdict",
-   "date": "2026-09-16",
-   "until": "",
-   "sources": [
-    "skKXe2CRl8Q:p1",
-    "2A2JbUN-kc0:p35"
    ]
   }
  ],
@@ -224,17 +189,18 @@
   {
    "name": "STL specialist",
    "channel": "durable",
-   "detail": "1.7 steals projected",
+   "detail": "About 1.7 steals per game projected",
    "until": "",
    "sources": [
-    "stats"
+    "stats",
+    "JMSLg6yz-M0:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "fits every build",
    "channel": "durable",
-   "detail": "no weak category",
+   "detail": "No weak category in the profile",
    "until": "",
    "sources": [
     "stats"
@@ -244,78 +210,57 @@
   {
    "name": "elite per game",
    "channel": "durable",
-   "detail": "top 10 per game; value depends on games played",
+   "detail": "Top 10 per game. Games played is the question.",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p20",
     "Rqb5GdrSweY:p2",
-    "DubdKKhMWHo:p6",
-    "OdDkXFhoKsc:p18"
+    "J1Eg3uaAICU:p20",
+    "2A2JbUN-kc0:p35",
+    "DubdKKhMWHo:p6"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury prone",
    "channel": "durable",
-   "detail": "degenerative knee, repeated meniscus, ACL and quad tendinopathy issues in the same knee",
+   "detail": "Degenerative knee with repeated meniscus, ACL and quad tendinopathy surgeries. Also ankle sprain risk.",
    "until": "",
    "sources": [
     "DubdKKhMWHo:p5",
     "JMSLg6yz-M0:p3",
-    "8d--aL_xxwE:p9"
+    "8d--aL_xxwE:p9",
+    "bd8GYKFOe8A:p10"
    ],
    "new_meaning": ""
   },
   {
    "name": "load management",
    "channel": "durable",
-   "detail": "expected to sit some back-to-backs",
+   "detail": "Likely load management in Toronto",
    "until": "",
    "sources": [
     "s28HvC2grAk:p2",
-    "W-R1dzem32s:p24",
-    "JMSLg6yz-M0:p5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "age decline watch",
-   "channel": "durable",
-   "detail": "normal age decline expected",
-   "until": "",
-   "sources": [
-    "JMSLg6yz-M0:p0"
+    "W-R1dzem32s:p24"
    ],
    "new_meaning": ""
   },
   {
    "name": "back-to-back risk",
    "channel": "current",
-   "detail": "15 Raptors back-to-backs; expected to play some, not all",
+   "detail": "Should play some or most back-to-backs, not necessarily all. Toronto has 3 back-to-backs in the playoffs.",
    "until": "",
    "sources": [
+    "JMSLg6yz-M0:p5",
     "gf_6GveiAls:p5",
     "gf_6GveiAls:p6",
-    "JMSLg6yz-M0:p5",
     "gf_6GveiAls:t5"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "three Raptors back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t5",
-    "gf_6GveiAls:p6"
    ],
    "new_meaning": ""
   },
   {
    "name": "new team",
    "channel": "current",
-   "detail": "traded from the Clippers to Toronto",
+   "detail": "Traded to Toronto",
    "until": "",
    "sources": [
     "JMSLg6yz-M0:p0",
@@ -325,71 +270,41 @@
    "new_meaning": ""
   },
   {
+   "name": "sites disagree on price",
+   "channel": "current",
+   "detail": "Yahoo value 26 USD and rank 36. ESPN value 40 USD and rank 20.",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "bust candidate",
    "channel": "current",
-   "detail": "ADP around 20 to 29 is too high; experts take him only after pick 40",
+   "detail": "At ESPN value 40 USD or rank 20. Experts would not take him inside the top 40 in H2H.",
    "until": "",
    "sources": [
     "LM0cRCGoAUQ:p23",
-    "dlo7L8Ru91A:p13",
-    "KPdD91Oo8-U:p7",
     "E-KmhvyZ2CU:p4",
+    "dlo7L8Ru91A:p13",
+    "EogBYa24Gto:p9",
     "6DnRWahYrFA:p7"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "questionable",
-   "channel": "current",
-   "detail": "Yahoo status Q, not injury related",
-   "until": "",
-   "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sites disagree on price",
-   "channel": "current",
-   "detail": "Yahoo value 26 USD and rank 36; ESPN value 40 USD and rank 20",
-   "until": "",
-   "sources": [
-    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "52 wins projected",
+   "detail": "52 wins predicted. Possibly a top-four team in the East.",
    "until": "",
    "sources": [
-    "s28HvC2grAk:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "solid top seven, little depth after that",
-   "until": "",
-   "sources": [
-    "s28HvC2grAk:t2"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "small-ball lineups",
-   "channel": "current",
-   "detail": "small, switchable closing five",
-   "until": "",
-   "sources": [
-    "s28HvC2grAk:t1",
-    "s28HvC2grAk:t3"
+    "s28HvC2grAk:t4",
+    "JMSLg6yz-M0:t0"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Per game he fits any build: 1.7 steals, 24.7 points, 88 percent FT on 5 attempts and no weak category. His knee and expected rest days make games the real question, and the Raptors have three back-to-backs in our playoff weeks. The ESPN value of 40 USD is too high. Stay near the expert cap of 24 USD, which fits his 20 USD price in our league last season and his 27.9 USD Yahoo average cost. Early in the season, check how many back-to-backs he plays and whether he gets any new knee news.",
+ "note": "Per game he is a top 10 player who fits every build, with standout steals and help in points, FT% and FG%. Experts agree his knee makes him a round 4 or after-pick-40 call in H2H, and the most they would pay is 24 USD. That fits his Yahoo price (26 USD value, 24.9 USD average cost) and the 20 USD he cost in our league last season, but not the ESPN value of 40 USD. Early in the season, check how many of Toronto's back-to-backs he plays and whether the knee holds up. He is a strong buy only near 20 to 24 USD.",
  "rejected": []
 }

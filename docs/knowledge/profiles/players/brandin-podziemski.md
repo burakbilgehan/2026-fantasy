@@ -4,54 +4,62 @@
 | Per game | GP | MIN | FG% (FGA) | FT% (FTA) | 3PM | PTS | REB | AST | STL | BLK | TO |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 2026-27 proj, ESPN | 79 | 30.9 | 45.4 (11.4) | 79.0 (2.9) | 2.0 | 14.7 | 5.6 | 4.0 | 1.2 | 0.2 | 1.7 |
-| 2026-27 proj, Yahoo | 75 | - | 44.9 (10.2) | 77.7 (2.3) | 1.9 | 12.9 | 5.5 | 3.8 | 1.1 | 0.2 | 1.5 |
+| 2026-27 proj, Yahoo | 75 | - | 44.9 (11.0) | 77.5 (2.5) | 2.0 | 13.8 | 5.9 | 4.1 | 1.2 | 0.2 | 1.6 |
 | 2025-26 | 82 | 28.5 | 45.5 (10.6) | 79.7 (2.9) | 1.9 | 13.8 | 5.1 | 3.7 | 1.1 | 0.2 | 1.6 |
 | 2024-25 | 64 | 26.9 | 44.5 (9.8) | 75.8 (1.5) | 1.8 | 11.7 | 5.1 | 3.4 | 1.1 | 0.2 | 1.2 |
 | 2023-24 | 74 | 26.6 | 45.4 (8.1) | 63.3 (1.1) | 1.2 | 9.2 | 5.8 | 3.7 | 0.8 | 0.2 | 1.2 |
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 105 | 6 | 2.6 | 69 | not drafted |
+| 2026-27 | 4 | 1.5 | 99 | 6 | 2.8 | 69 | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 45.1% | -0.5 | -0.2 | - |
-| FT% | 78.4% | -0.1 | -0.6 | - |
-| 3PM | 1.9 | +0.5 | +0.1 | - |
-| PTS | 13.8 | -0.1 | -0.1 | - |
-| REB | 5.5 | +0.2 | +1.2 | - |
-| AST | 3.9 | +0.4 | +0.0 | - |
-| STL | 1.1 | +0.7 | +0.3 | - |
-| BLK | 0.2 | -0.9 | -0.8 | - |
-| TO | 1.6 | +0.1 | +0.3 | - |
+| FG% | 45.1% | -0.6 | -0.2 | - |
+| FT% | 78.3% | -0.1 | -0.6 | - |
+| 3PM | 2.0 | +0.6 | +0.2 | - |
+| PTS | 14.2 | +0.0 | -0.1 | - |
+| REB | 5.7 | +0.3 | +1.3 | - |
+| AST | 4.0 | +0.4 | +0.1 | - |
+| STL | 1.2 | +0.8 | +0.4 | - |
+| BLK | 0.2 | -0.8 | -0.8 | - |
+| TO | 1.6 | +0.0 | +0.2 | - |
 
 </details>
 
 **Current**
-- He is expected to start for Golden State. Steve Kerr likes him. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1725), [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=678), [08-22](https://youtu.be/LXZLrL90crE?t=362), [08-22](https://youtu.be/LXZLrL90crE?t=270), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487), [09-09](https://youtu.be/7BllEsdNLoM?t=2266))
-- His ESPN rank (66 to 74) is too high. Around pick 90 to 100 is fine. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1725), [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=515), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-19](https://youtu.be/uarqbNA2dFk?t=2415))
-- His minutes are expected to rise to 30 or more per game, with about 20% usage. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [08-22](https://youtu.be/LXZLrL90crE?t=1779), [09-10](https://youtu.be/W-R1dzem32s?t=1825))
-- Experts expect a step up and a likely top 100 season, with gains in threes, rebounds, steals, assists and points. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-10](https://youtu.be/W-R1dzem32s?t=1825), [08-22](https://youtu.be/LXZLrL90crE?t=362))
-- He finished 136th last season in limited minutes, but ranked 61st after the All-Star break, when he played about 32 minutes per game. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=475), [07-14](https://youtu.be/xHRF06_E9HE?t=1586))
-- At his Yahoo and Fantrax price (around 116 to 120) he is good value, more so in category leagues. He is called the best Warriors target and a bit underrated, a good last round pick. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=515), [09-30](https://youtu.be/MUbNYdjpUDM?t=1520), [09-09](https://youtu.be/7BllEsdNLoM?t=2266), [10-02](https://youtu.be/ZYllcj4o6_A?t=519))
-- The Warriors' schedule is good for a playoff ending March 28, but they have 15 back-to-backs, tied for second most. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
-- Jimmy Butler is out for at least half the season. Moses Moody is out at the start of the season. (fact, 2026-09-22; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-19](https://youtu.be/uarqbNA2dFk?t=2415), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
+- The Warriors look set to start him next to Steph Curry and Draymond Green. (fact, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1183), [10-14](https://youtu.be/D4dP5JvX1oo?t=1468), [10-12](https://youtu.be/ENizLoE6pzI?t=1320), [10-12](https://youtu.be/ENizLoE6pzI?t=1282), [10-11](https://youtu.be/uI6umXsE7Vk?t=1249), [10-11](https://youtu.be/uI6umXsE7Vk?t=1249))
+- Experts expect him to be a locked-in starter who plays over 30 minutes a game. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1183), [10-10](https://youtu.be/hviT4hzYNME?t=1679), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1725), [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-10](https://youtu.be/W-R1dzem32s?t=1825), [08-22](https://youtu.be/LXZLrL90crE?t=1779))
+- His shooting has been better than expected. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1183))
+- He could finish top 70. Experts call him good value around picks 85 to 95. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1183), [10-12](https://youtu.be/ENizLoE6pzI?t=1320), [10-11](https://youtu.be/uI6umXsE7Vk?t=1249), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1725))
+- Experts call the Warriors a bad team. One expects Warriors players, Podziemski included, to fade as the season goes on. (verdict, 2026-10-12; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651), [10-12](https://youtu.be/w66x_I_MaQ8?t=1508), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1718))
+- It is not clear how the rotation will look once Butler and Moody return. (verdict, 2026-10-12; [10-12](https://youtu.be/w66x_I_MaQ8?t=1508))
+- He signed a contract extension with the Warriors. (fact, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1679))
+- Several experts say his ESPN rank, in the high 60s to low 70s, is too high. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1725), [10-02](https://youtu.be/ZYllcj4o6_A?t=519), [09-30](https://youtu.be/MUbNYdjpUDM?t=515), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-19](https://youtu.be/uarqbNA2dFk?t=2415))
+- He ranked 61st after the All-Star break last season and played about 32 minutes late in the season. (fact, 2026-09-30; [07-14](https://youtu.be/xHRF06_E9HE?t=1586), [09-30](https://youtu.be/MUbNYdjpUDM?t=475))
+- He is one expert's best Warriors target and is called a bit underrated. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1520), [09-09](https://youtu.be/7BllEsdNLoM?t=2266))
+- The Warriors are reported to treat this season as a gap year. They worry about lottery odds and may rest veterans. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=166), [08-22](https://youtu.be/LXZLrL90crE?t=140))
+- The Warriors schedule is good for fantasy playoffs that end March 28, but it has 15 back-to-backs. (fact, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=1653), [08-16](https://youtu.be/gf_6GveiAls?t=991))
+- Jimmy Butler is out for at least half the season, and Moses Moody is out to start the season. (fact, 2026-09-22; [07-17](https://youtu.be/NYTH7uQsPCM?t=1876), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777), [09-19](https://youtu.be/uarqbNA2dFk?t=2415), [09-03](https://youtu.be/OBwWCxG9SqM?t=1487))
+- Experts expect a step up in year four, with about 20% usage and gains in threes, rebounds, steals, assists and points. (verdict, 2026-09-22; [09-10](https://youtu.be/W-R1dzem32s?t=1825), [08-22](https://youtu.be/LXZLrL90crE?t=362), [09-22](https://youtu.be/QbdrhJd7LiA?t=1777))
 - He would gain value if Steph Curry gets hurt. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=2266))
-- He should start the season well, but Warriors players are expected to fade as the season goes on. (verdict, 2026-09-07; [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651), [09-07](https://youtu.be/E-KmhvyZ2CU?t=1651))
-- His role looks secure on a thin roster that struggles to field a 10-man rotation. He does not have to adjust to a new team. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=2000), [08-22](https://youtu.be/LXZLrL90crE?t=953))
-- With Butler out, he could handle the ball more and have a strong early run of assists. His potential assist conversion was only 47%. (verdict, 2026-07-17, until Jimmy Butler returns; [07-17](https://youtu.be/NYTH7uQsPCM?t=1875))
+- His role is seen as secure because the Warriors have very little depth. (verdict, 2026-08-24; [08-24](https://youtu.be/g31YlwRe0XQ?t=2000), [08-22](https://youtu.be/LXZLrL90crE?t=953))
+- Steve Kerr is reported to love him. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=362))
+- With Butler out he could handle the ball more, which could give him a strong early run of assists. (verdict, 2026-07-17, until Jimmy Butler returns; [07-17](https://youtu.be/NYTH7uQsPCM?t=1875))
 
 **Durable**
-- He rebounds well for a guard. No category is a league outlier and none is weak for his position. (fact, 2026-10-11; stats)
+- He is a good rebounder for a guard. (fact, 2026-10-16; [10-14](https://youtu.be/D4dP5JvX1oo?t=1183), stats)
+- His category line has no weak category. Steals and threes are a little above the pool. (fact, 2026-10-16; stats)
 - He sometimes has efficiency problems and lacks defense. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1732))
-- He tends to start seasons slowly and has struggled in the playoffs. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=370))
+- He is worth more in category leagues than in points leagues. (verdict, 2026-09-30; [09-30](https://youtu.be/MUbNYdjpUDM?t=515))
+- He tends to start seasons slowly and has struggled in the NBA playoffs. (fact, 2026-08-22; [08-22](https://youtu.be/LXZLrL90crE?t=370))
 
 **Tags**
-- Current: `role up` (Minutes expected to rise to 30 or more with Butler and Moody out), `breakout` (Year four step up, likely top 100), `sleeper` (Good value at Yahoo rank around 116), `bust candidate` (At ESPN rank 66 to 74), `sites disagree on price` (ESPN ranks him far higher than Yahoo), `early-season value` (Ball handling up while Butler is out; Warriors expected to fade), `thin rotation` (Warriors struggle to field a 10-man rotation), `good playoff schedule` (Good for a March 28 end), `many back-to-backs` (15 back-to-backs)
-- Durable: `category league player`, `fits every build`
+- Current: `role up` (Locked-in starter, expected over 30 minutes, with Butler and Moody out early), `breakout` (136th last season, 61st after the All-Star break; seen as top 100 with top 70 upside), `expert target` (Good value at picks 85 to 95; not at his ESPN rank), `sites disagree on price` (ESPN ranks him much higher than Yahoo; experts side with Yahoo), `early-season value` (More ball handling while Butler is out; Warriors expected to fade later; until Jimmy Butler returns), `tank risk` (Warriors reportedly treat this as a gap year and watch lottery odds), `thin rotation` (Struggle to field a 10-man rotation), `many back-to-backs` (15 back-to-backs), `good playoff schedule` (Good for a March 28 end)
+- Durable: `REB from a guard` (About 5.7 rebounds projected), `fits every build`, `category league player`
 
-**Note.** He is a cheap late auction pick: Yahoo values him at 4 USD (average cost 1.0, rank 105) and ESPN at 6 USD (rank 69). The experts like him at the Yahoo price and call ESPN's top 70 rank too high. His balanced line (5.5 rebounds, 3.9 assists, 1.1 steals, no weak category) fits any build as a 1 to 4 USD guard. Early on, check that he starts and plays 30 or more minutes while Butler is out, and think about selling before Butler returns and the Warriors fade.
+**Note.** At a Yahoo value of 4 USD (average cost 1.5 USD) and a Yahoo rank of 99, he is a cheap late target. He fits any build, since no category is weak and he gives a guard about 5.7 rebounds. Experts think he can top his 136th-place finish from last season (61st after the All-Star break), but pay at Yahoo's level (1 to 5 USD), not at ESPN's rank of 69. In the first weeks, check that he starts, plays 30 or more minutes and gets more assists while Butler is out. Think about selling before Butler returns, because the Warriors may fade late in the season.
 
-<sub>17 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

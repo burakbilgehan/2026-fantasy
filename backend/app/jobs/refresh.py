@@ -100,7 +100,7 @@ JOBS = {j.name: j for j in (
     Job("espn", timedelta(hours=12), _players("espn")),
     Job("fantrax", timedelta(hours=12), _players("fantrax")),
     Job("fanscout", timedelta(hours=24), _players("fanscout")),
-    Job("birthdates", timedelta(days=7), _birthdates),
+    Job("birthdates", timedelta(days=1), _birthdates),  # fetches only for new players without a date
     Job("yahoo", timedelta(days=7), _players("yahoo")),
     Job("nba_rosters", timedelta(days=1), _players("nba")),  # NBA.com: the only team source
     # Own projection (T-025): rebuild the base from the newest sources and apply the stored LLM and

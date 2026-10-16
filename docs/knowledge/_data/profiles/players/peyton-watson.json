@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "ff403f9db39c",
- "note_count": 18,
- "built_at": "2026-10-11T09:22:53+00:00",
+ "input_sha": "3792514b56a7",
+ "note_count": 19,
+ "built_at": "2026-10-16T09:14:16+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2029302,
-  "duration_ms": 57155,
+  "cost_usd_list": 0.24085020000000001,
+  "duration_ms": 72333,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Cleveland acquired Watson from Denver and gave up a first-round pick and money for him.",
+   "text": "Cleveland traded a first-round pick and money to Denver to get Watson.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
@@ -37,37 +37,35 @@
    "until": "",
    "sources": [
     "NmdNvAz08oE:t0",
-    "rnq3118kfhY:t0",
-    "dlo7L8Ru91A:p39"
+    "rnq3118kfhY:t0"
    ]
   },
   {
-   "text": "He should be a locked-in starter at 30 or more minutes. His minutes floor and role look more stable than in Denver.",
+   "text": "Experts expect a locked-in starting job at 30 or more minutes, with a solid minutes floor and a more stable role than in Denver.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
     "rnq3118kfhY:p0",
-    "NmdNvAz08oE:p31",
-    "LM0cRCGoAUQ:p60",
-    "dlo7L8Ru91A:p39"
-   ]
-  },
-  {
-   "text": "His usage should fall from 21% last season to about 19 or 20 next to Mitchell, Harden and Mobley.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "rnq3118kfhY:p0",
-    "NmdNvAz08oE:p31",
-    "LM0cRCGoAUQ:p60",
     "dlo7L8Ru91A:p39",
-    "QbdrhJd7LiA:t1"
+    "LM0cRCGoAUQ:p60",
+    "NmdNvAz08oE:p31"
    ]
   },
   {
-   "text": "He should block fewer shots with Mobley and Allen around him.",
+   "text": "His usage is expected to fall from 21% to about 19 or 20 next to Mitchell, Harden and Mobley.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:p0",
+    "dlo7L8Ru91A:p39",
+    "LM0cRCGoAUQ:p60",
+    "NmdNvAz08oE:p31"
+   ]
+  },
+  {
+   "text": "He is expected to block fewer shots playing next to Mobley and Allen.",
    "kind": "verdict",
    "date": "2026-09-10",
    "until": "",
@@ -76,7 +74,7 @@
    ]
   },
   {
-   "text": "His upside depends mostly on injuries to others. His usage would rise if Harden, Mobley or Mitchell missed games, and his blocks would rise if Allen missed games.",
+   "text": "His upside mostly depends on injuries to others. His usage would rise if Harden, Mobley or Mitchell missed games, and his blocks would rise if Allen missed games.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -87,7 +85,36 @@
    ]
   },
   {
-   "text": "Cleveland may close games with Mobley at center after adding Watson.",
+   "text": "One expert doubts Cleveland paid a first-round pick to use him only as a low-usage corner shooter. He calls Watson his best target on the team and says Watson beats his draft spot if he reaches 23% usage.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p26",
+    "NmdNvAz08oE:p32"
+   ]
+  },
+  {
+   "text": "He is falling in drafts. Experts call him a safe pick with upside around Yahoo rank 120 and good value at pick 135.",
+   "kind": "verdict",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:p48",
+    "6DnRWahYrFA:p37"
+   ]
+  },
+  {
+   "text": "One expert is not convinced his strong three-point shooting from last season is real.",
+   "kind": "verdict",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p30"
+   ]
+  },
+  {
+   "text": "Cleveland may close games with Mobley at center now that Watson is on the team.",
    "kind": "verdict",
    "date": "2026-09-14",
    "until": "",
@@ -96,40 +123,15 @@
    ]
   },
   {
-   "text": "At his Yahoo rank of 120 he is a safe pick with upside.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:p37"
-   ]
-  },
-  {
-   "text": "He is one expert's best target on Cleveland because of his draft price. If he reaches 23% usage, he beats his draft spot.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p32"
-   ]
-  },
-  {
-   "text": "He has no injury concerns now.",
+   "text": "Cleveland lost Max Strus, Dennis Schroder, Keon Ellis and Dean Wade. Behind Mobley and Allen there is little frontcourt depth.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t7"
-   ]
-  },
-  {
-   "text": "Cleveland plays 4, 3 and 2 games in our playoff weeks 19 to 21, so the finals week has only two games.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:t5",
-    "gf_6GveiAls:t15"
+    "rnq3118kfhY:t1",
+    "rnq3118kfhY:t2",
+    "NmdNvAz08oE:t3",
+    "NmdNvAz08oE:t4"
    ]
   },
   {
@@ -141,13 +143,42 @@
     "NmdNvAz08oE:t6",
     "gf_6GveiAls:t2"
    ]
+  },
+  {
+   "text": "With our March 28 end, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks, so finals week has only two games.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
+   ]
+  },
+  {
+   "text": "Cleveland is projected to win about 51 to 53 games.",
+   "kind": "verdict",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4"
+   ]
+  },
+  {
+   "text": "Head coach Kenny Atkinson is reported to be under pressure.",
+   "kind": "fact",
+   "date": "2026-08-24",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "Blocks are his best category. His steals are okay and he is not a great rebounder.",
-   "kind": "verdict",
-   "date": "2026-09-29",
+   "text": "Blocks are his best category. He blocks a lot of shots for a forward, his steals are okay and he is not a great rebounder.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p30",
@@ -155,32 +186,13 @@
    ]
   },
   {
-   "text": "He is a good spot-up three-point shooter, especially from the corners. His 3P% rose every year, from just under 30% to 35% to 41%, and his FT% also rose every year.",
+   "text": "He is a spot-up three-point shooter, best from the corners. His 3P% has risen every year, from just under 30% to 35% to 41%, and his FT% has also climbed every year.",
    "kind": "fact",
    "date": "2026-08-24",
    "until": "",
    "sources": [
     "rnq3118kfhY:p1",
     "keNupMSHp1Y:p2"
-   ]
-  },
-  {
-   "text": "The newest expert view is not convinced that his strong three-point shooting is real.",
-   "kind": "verdict",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p30"
-   ]
-  },
-  {
-   "text": "He handled a bigger role well in Denver when Nikola Jokic and others were out. His usage rose from 21% to 24% with Jokic, Christian Braun and Cam Johnson off the court.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p27",
-    "NmdNvAz08oE:p29"
    ]
   },
   {
@@ -193,7 +205,17 @@
    ]
   },
   {
-   "text": "He has only one really good season so far.",
+   "text": "He handled higher usage well in Denver when Nikola Jokic and others were out. His usage rose from 21% to 24% with Jokic, Christian Braun and Cam Johnson off the court.",
+   "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p27",
+    "NmdNvAz08oE:p29"
+   ]
+  },
+  {
+   "text": "He has only one really good NBA season so far.",
    "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
@@ -202,7 +224,7 @@
    ]
   },
   {
-   "text": "A significant hamstring injury ended his 2025-26 season early.",
+   "text": "A significant hamstring injury ended his 2025-26 season.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
@@ -227,24 +249,36 @@
   {
    "name": "usage competition",
    "channel": "current",
-   "detail": "Usage expected to drop to about 19 or 20 next to Harden, Mitchell and Mobley",
+   "detail": "Usage expected to drop to about 19-20% next to Harden, Mitchell and Mobley",
    "until": "",
    "sources": [
     "rnq3118kfhY:p0",
-    "NmdNvAz08oE:p31",
+    "dlo7L8Ru91A:p39",
     "LM0cRCGoAUQ:p60",
-    "dlo7L8Ru91A:p39"
+    "NmdNvAz08oE:p31"
    ],
    "new_meaning": ""
   },
   {
    "name": "injury last season",
    "channel": "current",
-   "detail": "Hamstring injury ended his season; 54 games played",
+   "detail": "Hamstring injury ended his 2025-26 season",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p28",
-    "keNupMSHp1Y:p1",
+    "keNupMSHp1Y:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "About 1 to 2 USD on Yahoo and ESPN; experts like his price around picks 120 to 135",
+   "until": "",
+   "sources": [
+    "w66x_I_MaQ8:p48",
+    "6DnRWahYrFA:p37",
+    "NmdNvAz08oE:p32",
     "stats"
    ],
    "new_meaning": ""
@@ -252,11 +286,43 @@
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "3P% jumped to 41%; expert not convinced it is real",
+   "detail": "3P% jumped to 41%; one expert doubts it is real",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p30",
     "rnq3118kfhY:p1"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "points league player",
+   "channel": "durable",
+   "detail": "Small forward tier 7 in categories, tier 5 in points; good value at 118 in points but later in category leagues",
+   "until": "",
+   "sources": [
+    "dlo7L8Ru91A:p39",
+    "g31YlwRe0XQ:p40"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "winning team",
+   "channel": "current",
+   "detail": "Cleveland projected for about 51 to 53 wins",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4",
+    "JMSLg6yz-M0:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "coach hot seat",
+   "channel": "current",
+   "detail": "Kenny Atkinson under pressure",
+   "until": "",
+   "sources": [
+    "rnq3118kfhY:t4"
    ],
    "new_meaning": ""
   },
@@ -274,38 +340,29 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 3, 2 games in weeks 19 to 21; two-game finals week",
+   "detail": "4, 3 and 2 games in weeks 19 to 21; two-game finals week",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t5",
-    "gf_6GveiAls:t15"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "winning team",
-   "channel": "current",
-   "detail": "Projected at about 51 to 53 wins",
-   "until": "",
-   "sources": [
-    "rnq3118kfhY:t4"
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "thin rotation",
    "channel": "current",
-   "detail": "Lost Strus, Schroder, Ellis and Wade; thin frontcourt behind Mobley and Allen",
+   "detail": "Cleveland lost Strus, Schroder, Ellis and Wade; little frontcourt depth behind Mobley and Allen",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t3",
-    "NmdNvAz08oE:t4",
     "rnq3118kfhY:t1",
-    "rnq3118kfhY:t2"
+    "rnq3118kfhY:t2",
+    "NmdNvAz08oE:t3",
+    "NmdNvAz08oE:t4"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Watson costs only 1 to 2 USD (Yahoo rank 120, ESPN 105) and was not drafted in our league last season. That puts him near the end of a 144-player draft as a cheap starter with a minutes floor of 30 or more and blocks well above the pool (z +1.5). FT% (z -0.8) and assists are his weakest categories, but neither is flagged. A two-game finals week and the league's most back-to-backs cut into his playoff value. Early in the season, check whether his usage gets near 23%, whether his 41% three-point shooting holds, and whether his blocks drop next to Mobley and Allen.",
+ "note": "Watson costs 1 USD on Yahoo and 2 USD on ESPN, with ranks of 125 and 105. That puts him near the end of our 144-player pool, so he is a last-dollar buy with a secure 30-minute starting job. His standout category is blocks (+1.5 z vs the pool, +2.0 vs forwards). A 72% FT% is only a mild drag, so no build has to avoid him, though a two-game finals week in week 21 lowers his playoff value. Early in the season, check whether his usage gets near the 23% that experts say would make him beat his price, and whether he keeps hitting threes at last season's 41%.",
  "rejected": []
 }

@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 1 | 1.0 | 150 | 5 | 2.6 | 74 | 1 |
+| 2026-27 | 1 | 1.2 | 129 | 5 | 2.8 | 74 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -29,32 +29,28 @@
 </details>
 
 **Current**
-- The Rockets are expected to be cautious with his minutes. Lloyd projects about 32 minutes, starting near 30 and rising to about 34, and another expert says he could reach 35 by the end of the year. (verdict, 2026-10-09; [10-01](https://youtu.be/aLP080hxizA?t=1050), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=818), [09-09](https://youtu.be/7BllEsdNLoM?t=2431), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1215))
-- Experts expect him to sit some back-to-backs, mostly early in the season, and to have days off. (verdict, 2026-10-09; [10-01](https://youtu.be/aLP080hxizA?t=1050), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=818), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1215))
-- Experts agree his ESPN rank of 74 is far too high and that he goes too early in mock drafts. Do not draft him at that price. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=1215), [10-01](https://youtu.be/aLP080hxizA?t=1121), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [09-24](https://youtu.be/_vbAP5y182A?t=1650), [10-08](https://youtu.be/WXO8MfQfzo0?t=1651), [08-24](https://youtu.be/g31YlwRe0XQ?t=1718), [08-11](https://youtu.be/OdDkXFhoKsc?t=1846))
-- He missed all of last season with a torn ACL. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1050), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [09-09](https://youtu.be/7BllEsdNLoM?t=2431), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=410))
-- He has said he does not feel like himself, and his media day comments about his knee were troubling. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1050), [09-24](https://youtu.be/_vbAP5y182A?t=1650))
-- He is projected to start at point guard with Amen Thompson, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [09-09](https://youtu.be/7BllEsdNLoM?t=2431))
-- With many other ball handlers on the team, Lloyd is not banking on high assists from him. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1121))
-- Lloyd ranks him 120 to 135 in category leagues and sees him as a late point guard flyer. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1121), [09-09](https://youtu.be/7BllEsdNLoM?t=2431))
-- With a March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- He is back from the torn ACL that cost him all of last season. He is expected to be ready to start on opening night. (fact, 2026-10-14; [10-01](https://youtu.be/aLP080hxizA?t=1050), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=410), [10-14](https://youtu.be/D4dP5JvX1oo?t=1298))
+- Experts expect the Rockets to limit his minutes early and rest him on some back-to-backs. Lloyd projects about 32 minutes: near 30 at the start, rising to about 34. Another expert says he could reach 35 minutes by the end of the year. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1298), [10-01](https://youtu.be/aLP080hxizA?t=1050), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=818), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1215), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [09-09](https://youtu.be/7BllEsdNLoM?t=2431))
+- Experts put his category league value around picks 107 to 135, about round 10, as a late point guard flyer. His ESPN rank of 74 is too high. Do not take him anywhere near pick 42. (verdict, 2026-10-14; [10-14](https://youtu.be/D4dP5JvX1oo?t=1298), [10-13](https://youtu.be/DzQXaC2rsac?t=1399), [10-01](https://youtu.be/aLP080hxizA?t=1121), [09-19](https://youtu.be/uarqbNA2dFk?t=2674), [09-09](https://youtu.be/7BllEsdNLoM?t=2431), [08-11](https://youtu.be/OdDkXFhoKsc?t=1846), [10-09](https://youtu.be/-DN4P92Wp8Y?t=1215))
+- At media day he made troubling comments about his knee and said he does not feel like himself. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1050), [09-24](https://youtu.be/_vbAP5y182A?t=1650))
+- He is the projected starting point guard. Amen Thompson moves off point guard. If VanVleet has a setback, Marcus Smart would start in his place. (fact, 2026-10-01; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=410), [10-01](https://youtu.be/aLP080hxizA?t=328), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-09](https://youtu.be/7BllEsdNLoM?t=2431))
+- Houston has a crowded guard rotation and many other ball handlers, so Lloyd is not counting on high assists from him. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1121), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090))
+- With our March 28 end date, the Rockets play 3, 3 and 4 games in the fantasy playoff weeks, 10 games in total. That is a weak playoff schedule. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
 - The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- Josh expects missed games and bad shooting stretches after the ACL injury. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1650))
-- The Houston guard rotation is crowded with Amen Thompson, Marcus Smart, Bogdan Bogdanovic and Reed Sheppard. (fact, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- He is expected to be ready for opening night. If he has a setback, Marcus Smart would start in his place. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=410))
-- The Rockets are predicted to win 54 games and to be conservative in the regular season. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- Josh expects missed games and stretches of bad shooting as he comes back from the ACL injury. (verdict, 2026-09-24; [09-24](https://youtu.be/_vbAP5y182A?t=1650))
+- Houston is projected to win 54 games. The team is expected to play it safe in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 
 **Durable**
-- He is a very poor shooter from the field, especially on twos. His FG% clearly hurts a team. (fact, 2026-10-11; [10-01](https://youtu.be/aLP080hxizA?t=1060), [09-09](https://youtu.be/7BllEsdNLoM?t=2436), stats)
-- He gives good steals and assists with fairly low scoring. (fact, 2026-10-11; [09-09](https://youtu.be/7BllEsdNLoM?t=2436), stats)
-- He takes good care of the ball and keeps his turnovers low. (fact, 2026-10-11; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=954), stats)
-- He is a good three-point shooter. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1060), stats)
-- He tore his ACL at an advanced age. (fact, 2026-09-19; [09-19](https://youtu.be/uarqbNA2dFk?t=2674))
+- He has historically been worth more in category leagues than in points leagues. (verdict, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1580))
+- He tore his ACL and missed the full 2025-26 season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1050))
+- He is a very poor shooter from the field, worst on twos. His FG% is a clear weakness on real volume. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1060), [09-09](https://youtu.be/7BllEsdNLoM?t=2436), stats)
+- He is a good three-point shooter and gives good assists and steals, with fairly low scoring. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1060), [09-09](https://youtu.be/7BllEsdNLoM?t=2436), stats)
+- He takes very good care of the ball and keeps his turnovers low. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=954))
 
 **Tags**
-- Current: `injury last season` (missed all of last season with a torn ACL), `minutes limit` (Rockets cautious after ACL, about 30 minutes early, rising to about 34), `back-to-back risk` (expected to sit some back-to-backs early), `slow start` (minutes expected to rise during the season after ACL return), `usage competition` (many ball handlers, assists may be capped), `bust candidate` (at ESPN rank 74), `flyer` (late point guard flyer, Lloyd rank 120 to 135), `sites disagree on price` (Yahoo rank 150 vs ESPN rank 74), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (Rockets have 14 back-to-backs), `winning team` (predicted 54 wins)
-- Durable: `FG% liability` (39.4% projected FG%, very poor on twos), `punt FG fit` (keeps 3PM, AST, STL, FT% and low TO value), `age decline watch` (ACL tear at an advanced age)
+- Current: `injury last season` (Torn ACL, missed all of 2025-26), `minutes limit` (About 30 minutes at the start, rising to about 34), `back-to-back risk` (Expected to sit some back-to-backs, mostly early in the season), `slow start` (Minutes expected to rise from about 30 toward 34 or 35 later in the season), `flyer` (Late point guard flyer around picks 107 to 135), `bust candidate` (At ESPN rank 74), `sites disagree on price` (Yahoo rank 129 and 1 USD, ESPN rank 74 and 5 USD), `shared ball handling` (Many other ball handlers, so his assists are not a sure thing), `bad playoff schedule` (3-3-4, 10 games, with the March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Projected 54 wins)
+- Durable: `FG% liability` (Poor FG%, worst on twos), `punt FG fit` (FG% is his clear weak spot. He still gives threes, assists, steals and FT%), `category league player`, `age decline watch` (Advanced age and coming back from an ACL tear)
 
-**Note.** He is a late pick for us, not a core piece. Lloyd ranks him 120 to 135, which is bench territory in a 144-player draft and fits the Yahoo price (1 USD, rank 150) and our league's 1 USD last auction, not ESPN's rank 74. He fits punt FG% builds best, where his threes, assists, steals, FT% and low turnovers count and his 39% shooting does not hurt. Early in the season, check his minutes (about 30 is expected), whether he sits back-to-backs, and how his knee holds up. Also note the weak 10-game playoff schedule.
+**Note.** Yahoo values him at 1 USD (rank 129) and ESPN at 5 USD (rank 74), and he went for 1 USD in our league last season. Experts rank him around 107 to 135, so in our 144-player draft he is a 1 to 3 USD late guard, mainly for punt FG% builds that want threes, assists and steals plus a decent FT% (84.7%). Early in the season, check whether his minutes climb from about 30 toward 34, how often he sits back-to-backs, and whether his assists hold up next to the other Houston ball handlers. Remember the weak 10-game playoff schedule.
 
-<sub>14 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>17 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,42 +8,39 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "027b6c18bede",
- "note_count": 6,
- "built_at": "2026-10-11T09:14:28+00:00",
+ "input_sha": "5a9f8e791ccc",
+ "note_count": 7,
+ "built_at": "2026-10-16T08:49:13+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.14978219999999998,
-  "duration_ms": 32909,
-  "turns": 2,
+  "cost_usd_list": 0.2588776,
+  "duration_ms": 62000,
+  "turns": 3,
   "denied": 0
  },
  "current": [
   {
-   "text": "Collin Sexton is a bench guard. Luka Doncic and Austin Reaves start ahead of him. The projected starters are Doncic, Reaves, Grimes, Thybulle and Kessler.",
+   "text": "He comes off the bench for the Lakers, behind Luka Doncic and Austin Reaves.",
    "kind": "fact",
    "date": "2026-10-09",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p42",
-    "sFelMKWcqyI:p33",
-    "sFelMKWcqyI:t4"
+    "sFelMKWcqyI:p33"
    ]
   },
   {
-   "text": "The experts say not to draft him. Josh does not expect him to start or to be even a back-end fantasy option. Another expert calls him a stash in deep formats only and says to avoid him at an ESPN rank of 100.",
+   "text": "Experts do not expect him to start.",
    "kind": "verdict",
-   "date": "2026-10-09",
+   "date": "2026-08-04",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:p42",
-    "sFelMKWcqyI:p33",
     "_WjOjp6Qu8E:p19"
    ]
   },
   {
-   "text": "He would only be useful with about 26% usage and 30 minutes a game. That would take injuries in the backcourt, with Doncic or Reaves missing a lot of games.",
+   "text": "He only has fantasy value with about 26% usage and 30 minutes. That would take Doncic or Reaves missing a lot of games. Until then he is at most a stash in deep formats.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
@@ -53,16 +50,26 @@
    ]
   },
   {
-   "text": "His Yahoo injury status is questionable (lower leg).",
+   "text": "Do not draft him at his ESPN rank of 100. He is not expected to be even a back-end fantasy option.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42",
+    "_WjOjp6Qu8E:p19"
+   ]
+  },
+  {
+   "text": "Yahoo lists him as questionable with a lower leg injury.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "The Lakers have the second most back-to-backs in the league. With a March 28 end, their playoff schedule is 3-4-3 games, which is in the bottom half of the league.",
+   "text": "The Lakers have the second most back-to-backs in the league. Their playoff schedule is 3-4-3 games for a March 28 end, which is in the bottom half of the league.",
    "kind": "fact",
    "date": "2026-10-06",
    "until": "",
@@ -74,26 +81,17 @@
  ],
  "durable": [
   {
-   "text": "He is a notoriously bad fantasy player in category leagues.",
-   "kind": "verdict",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "-DN4P92Wp8Y:p43"
-   ]
-  },
-  {
-   "text": "He is a poor passer and has always been a weak assist player.",
+   "text": "He is an undersized guard and a poor passer. He has always been a weak assist player for a guard.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
    "sources": [
-    "sFelMKWcqyI:p32",
-    "P6TNP-g0wzY:p35"
+    "P6TNP-g0wzY:p35",
+    "sFelMKWcqyI:p32"
    ]
   },
   {
-   "text": "He is usually efficient and a good three-point shooter.",
+   "text": "He is usually an efficient scorer and a good three-point shooter.",
    "kind": "verdict",
    "date": "2026-10-06",
    "until": "",
@@ -102,27 +100,26 @@
    ]
   },
   {
-   "text": "He is an undersized guard and a bad defender.",
+   "text": "He is a bad defender.",
    "kind": "verdict",
    "date": "2026-08-04",
    "until": "",
    "sources": [
-    "P6TNP-g0wzY:p35",
-    "_WjOjp6Qu8E:p19"
+    "_WjOjp6Qu8E:p19",
+    "P6TNP-g0wzY:p35"
+   ]
+  },
+  {
+   "text": "He is a notoriously bad fantasy player in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-09",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p43"
    ]
   }
  ],
  "tags": [
-  {
-   "name": "usage dependent",
-   "channel": "durable",
-   "detail": "Needs about 26% usage and 30 minutes to be useful",
-   "until": "",
-   "sources": [
-    "sFelMKWcqyI:p33"
-   ],
-   "new_meaning": ""
-  },
   {
    "name": "usage competition",
    "channel": "current",
@@ -137,18 +134,39 @@
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Gains value only if Doncic or Reaves miss a lot of games",
+   "detail": "Gains value only if Doncic or Reaves misses a lot of games",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p42",
     "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "Needs about 26% usage and 30 minutes to be useful",
+   "until": "",
+   "sources": [
+    "sFelMKWcqyI:p33"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "Undersized guard who does not defend",
+   "until": "",
+   "sources": [
+    "_WjOjp6Qu8E:p19",
+    "P6TNP-g0wzY:p35"
    ],
    "new_meaning": ""
   },
   {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Deep-format stash only; watch if the Lakers backcourt gets hurt",
+   "detail": "Only a stash in deep formats. Watch him if the Lakers backcourt gets hurt",
    "until": "",
    "sources": [
     "-DN4P92Wp8Y:p42",
@@ -157,9 +175,19 @@
    "new_meaning": ""
   },
   {
-   "name": "injured now",
+   "name": "bust candidate",
    "channel": "current",
-   "detail": "Yahoo status Q, lower leg",
+   "detail": "Avoid at ESPN rank 100",
+   "until": "",
+   "sources": [
+    "-DN4P92Wp8Y:p42"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q, lower leg",
    "until": "",
    "sources": [
     "stats"
@@ -167,9 +195,9 @@
    "new_meaning": ""
   },
   {
-   "name": "questionable",
+   "name": "injured now",
    "channel": "current",
-   "detail": "Lower leg",
+   "detail": "Yahoo status Q with a lower leg injury",
    "until": "",
    "sources": [
     "stats"
@@ -189,7 +217,7 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "3-4-3 games in weeks 19 to 21, bottom half of the league",
+   "detail": "3-4-3 games for a March 28 end, bottom half of the league",
    "until": "",
    "sources": [
     "sFelMKWcqyI:t5"
@@ -197,6 +225,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Sexton ranks 205 on Yahoo and 150 on ESPN, and both sites give him 0 value. He is outside the 144 players our auction drafts, so do not spend on him. Early in the season, check his lower leg (Yahoo Q) and whether Doncic or Reaves miss games, since that is the only way he gets the 30 minutes and high usage he needs. He brings some points and FT% but hurts REB, BLK and TO, and he played only 23.7 minutes last season, so he is a waiver pickup at most.",
+ "note": "He is not a draft target in our 12-team league. Both sites value him at 0 USD (Yahoo rank 209, ESPN rank 150), he went undrafted last season, and he sits behind Doncic and Reaves as a bench guard who played only 23.7 minutes last season. His 86% FT% on about 4 attempts and his scoring can help guard-heavy builds in a pinch, but his low rebounds and blocks and 2.4 turnovers per game cap his value. In the first weeks, check his lower leg (Yahoo Q) and watch the waiver wire if Doncic or Reaves misses time, since that is the only path to the 30 minutes he needs.",
  "rejected": []
 }

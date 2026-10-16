@@ -8,37 +8,27 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "57e80426f0a1",
+ "input_sha": "c8e2036682f6",
  "note_count": 4,
- "built_at": "2026-10-11T09:21:58+00:00",
+ "built_at": "2026-10-16T09:11:59+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1542462,
-  "duration_ms": 36746,
+  "cost_usd_list": 0.1438302,
+  "duration_ms": 31415,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected as a bench player. The projected Brooklyn starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe, and Clowney is in the second unit with Keon Ellis, Mo Wagner, Danny Wolf and Nolan Traore.",
+   "text": "He is projected as a bench player in Brooklyn's second unit. He competes with Julius Randle, Josh Minott and Danny Wolf for minutes at the four, in a crowded frontcourt.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t1",
-    "3UGI05PDvrE:t2",
-    "uRsfijpBPok:p15"
-   ]
-  },
-  {
-   "text": "He faces a frontcourt logjam at the four with Julius Randle, Josh Minott and Danny Wolf.",
-   "kind": "fact",
-   "date": "2026-08-21",
-   "until": "",
-   "sources": [
+    "uRsfijpBPok:p15",
     "9tb1ARBEmQU:p8",
-    "uRsfijpBPok:p15"
+    "3UGI05PDvrE:t2"
    ]
   },
   {
@@ -51,7 +41,7 @@
    ]
   },
   {
-   "text": "He is not a draft target. Experts say the Randle trade took away his fantasy value.",
+   "text": "He is not a draft target. The experts say the Randle trade ended his fantasy value.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -61,7 +51,7 @@
    ]
   },
   {
-   "text": "Brooklyn could give more minutes to young players like Clowney and Minott in the second half of the season, and Michael Porter Jr. could be traded.",
+   "text": "The second half of the season is uncertain for Brooklyn. The team could give more minutes to young players, Clowney among them, and Michael Porter Jr. could be traded.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -71,18 +61,19 @@
    ]
   },
   {
-   "text": "Brooklyn does not own its draft pick and is projected to be one of the worst teams, with about 28 wins.",
+   "text": "Brooklyn is projected to be one of the worst teams, at about 28 wins. Houston owns its pick, so the Nets have no reason to tank. They are running a development season.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t8",
+    "uRsfijpBPok:t0",
     "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8",
     "3UGI05PDvrE:t0"
    ]
   },
   {
-   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. Its playoff schedule for a March 28 end is 3-4-3 games in weeks 19 to 21.",
+   "text": "Brooklyn has 16 back-to-backs, tied for the most in the league. In our playoff weeks 19 to 21 the Nets play 3, 4 and 3 games, with only one back-to-back.",
    "kind": "fact",
    "date": "2026-09-26",
    "until": "",
@@ -94,7 +85,7 @@
  ],
  "durable": [
   {
-   "text": "He has been inconsistent, and his jump shot is unreliable. He has not been an efficient three-point shooter, although he has had hot stretches.",
+   "text": "His shot is unreliable. He has not been an efficient three-point shooter so far, even though he has had hot stretches.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -104,16 +95,7 @@
    ]
   },
   {
-   "text": "He shoots about 40% from the field, which is poor for a frontcourt player.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His rebounding, rim protection and defensive stats have been weak and inconsistent for a big.",
+   "text": "His production has been inconsistent, and so have his defensive stats and shot blocking. He needs to improve his rebounding and rim protection.",
    "kind": "verdict",
    "date": "2026-09-26",
    "until": "",
@@ -123,7 +105,7 @@
    ]
   },
   {
-   "text": "He has battled injuries.",
+   "text": "He has battled injuries in his career.",
    "kind": "fact",
    "date": "2026-08-21",
    "until": "",
@@ -136,20 +118,10 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Randle, Minott and Wolf at the four",
+   "detail": "Randle, Minott and Wolf at the four; bench role",
    "until": "",
    "sources": [
-    "9tb1ARBEmQU:p8",
-    "uRsfijpBPok:p15"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "role down",
-   "channel": "current",
-   "detail": "bench role after the Randle trade",
-   "until": "",
-   "sources": [
+    "uRsfijpBPok:p15",
     "9tb1ARBEmQU:p8",
     "3UGI05PDvrE:t2"
    ],
@@ -158,7 +130,7 @@
   {
    "name": "contract year",
    "channel": "current",
-   "detail": "not extended, pivotal season",
+   "detail": "Not extended; pivotal season",
    "until": "",
    "sources": [
     "uRsfijpBPok:p15"
@@ -168,7 +140,7 @@
   {
    "name": "streaky",
    "channel": "durable",
-   "detail": "inconsistent, three-point shooting comes in hot stretches",
+   "detail": "Inconsistent, with hot shooting stretches",
    "until": "",
    "sources": [
     "uRsfijpBPok:p16",
@@ -177,21 +149,9 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Brooklyn may give him more minutes in the second half",
-   "until": "",
-   "sources": [
-    "3UGI05PDvrE:p30",
-    "3UGI05PDvrE:t3",
-    "LM0cRCGoAUQ:t7"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "many young frontcourt players competing for minutes",
+   "detail": "Many young Nets compete for frontcourt and second-unit minutes",
    "until": "",
    "sources": [
     "uRsfijpBPok:t2",
@@ -202,18 +162,18 @@
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "about 28 wins projected",
+   "detail": "About 28 projected wins",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:t8",
-    "uRsfijpBPok:t4"
+    "uRsfijpBPok:t4",
+    "sDzeYdUhJDI:t8"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "16, tied for most in the league",
+   "detail": "16 back-to-backs, tied for most in the league",
    "until": "",
    "sources": [
     "3UGI05PDvrE:t4",
@@ -222,17 +182,18 @@
    "new_meaning": ""
   },
   {
-   "name": "bad playoff schedule",
+   "name": "trades likely",
    "channel": "current",
-   "detail": "3-4-3 for a March 28 end, only 10 games",
+   "detail": "Porter is a trade candidate; a deal could open minutes",
    "until": "",
    "sources": [
-    "3UGI05PDvrE:t4",
-    "gf_6GveiAls:t1"
+    "3UGI05PDvrE:t3",
+    "LM0cRCGoAUQ:t7",
+    "9tb1ARBEmQU:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Both sites value him at 0 USD (Yahoo rank 232, ESPN rank 269), and only 144 players get drafted, so leave him on waivers. He projects for about 40% FG on bench minutes and gives little in rebounds, steals or blocks for a big, so he does not fit any build. Early in the season, watch whether Brooklyn shifts minutes to its young players or trades Porter. A bigger role would make him a short-term waiver pickup for threes.",
+ "note": "Do not draft him. Yahoo ranks him 234 and ESPN ranks him 269, both value him at 0 USD, and our auction takes only 144 players. He projects as a bench forward with a weak shot: 39.6% FG on 9.6 attempts last season, and neither site projects better than about 40% FG. Leave him on waivers and watch for a bigger role later in the season, if Brooklyn trades Porter or moves minutes to its young players.",
  "rejected": []
 }

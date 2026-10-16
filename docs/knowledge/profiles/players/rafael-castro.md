@@ -5,7 +5,7 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 672 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 680 | - | - | - | not drafted |
 
 **Current**
 - Walker Kessler is the Lakers starting center. Backup center is an open question, with Kevon Looney and Mamukelashvili ahead in line for those minutes. (fact, 2026-10-06; [10-06](https://youtu.be/sFelMKWcqyI?t=173), [10-06](https://youtu.be/sFelMKWcqyI?t=1441), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2316), [08-04](https://youtu.be/_WjOjp6Qu8E?t=1701))

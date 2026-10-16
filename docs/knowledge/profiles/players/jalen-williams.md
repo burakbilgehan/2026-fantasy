@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 25 | 22.6 | 37 | 20 | 19.4 | 35 | 35 |
+| 2026-27 | 25 | 19.4 | 37 | 20 | 19.4 | 35 | 35 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,37 +22,39 @@
 | 3PM | 1.4 | -0.1 | -0.1 | - |
 | PTS | 20.4 | +1.1 | +1.2 | - |
 | REB | 5.0 | -0.1 | -0.1 | - |
-| AST | 5.3 | +1.1 | +1.8 | - |
-| STL | 1.4 | +1.4 | +1.5 | - |
+| AST | 5.3 | +1.1 | +1.9 | - |
+| STL | 1.4 | +1.4 | +1.6 | - |
 | BLK | 0.6 | -0.1 | +0.0 | - |
 | TO | 2.0 | -0.5 | -0.7 | - |
 
 </details>
 
 **Current**
-- Yahoo lists him as questionable for rest. (fact, 2026-10-11; stats)
-- Experts value him around picks 35 to 50. Pick 24 is too early for him. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=1645), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749), [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
-- In an auction mock draft he went for 29 USD, which Josh called too high. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=705))
-- Last season was cut short by wrist surgery and then several hamstring injuries. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-20](https://youtu.be/-KS_AZjZnw4?t=1672), [07-26](https://youtu.be/75Sk_4fkgIM?t=164))
-- Several experts think drafters have faded him too hard after last season's injuries and are happy to take him at his lower draft position. (verdict, 2026-09-15; [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
-- OKC traded away Lu Dort, Isaiah Joe and Aaron Wiggins, which opens up usage. He and Alex Caruso are the only wings left who can guard bigger forwards. (fact, 2026-08-30; [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=390), [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [08-30](https://youtu.be/Alwse2uXzD4?t=1728))
-- His wrist is healthy again, and he is expected to be fine coming into the season. (fact, 2026-08-24; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
-- It is too early to call him injury prone, but he has to prove he can stay healthy this season. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=127))
-- The team may push him to take more threes, even if it costs some efficiency. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
-- OKC may lean more on offense, using Shai Gilgeous-Alexander, Ajay Mitchell and Williams together. The team is projected to win about 57 to 62 games. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=903), [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
-- Expecting last season's injuries to repeat would be a mistake. He should get back to top 50 value if he gains about four minutes and his shooting and defensive stats improve. (verdict, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1672), [07-20](https://youtu.be/-KS_AZjZnw4?t=1749))
+- He is a projected starter at the three, next to Shai, Cason Wallace, Chet Holmgren and Isaiah Hartenstein. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=220), [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
+- OKC lost Lu Dort, Aaron Wiggins and Isaiah Joe. Apart from Alex Caruso, he is the only wing left who can guard bigger forwards. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=98), [07-26](https://youtu.be/75Sk_4fkgIM?t=267), [07-26](https://youtu.be/75Sk_4fkgIM?t=390))
+- The team may push him to shoot more threes, for example seven in a game, even if it costs some efficiency. OKC needs more three-point volume from its core players. (verdict, 2026-10-12; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333), [10-12](https://youtu.be/NhLMyS7Ii5I?t=104))
+- Experts agree the market dropped him too far after last season's injuries. He now goes around pick 45, at the back end of his value. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=893), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073), [09-15](https://youtu.be/KPdD91Oo8-U?t=644), [08-11](https://youtu.be/OdDkXFhoKsc?t=1048))
+- Experts differ a little on his price. The newest call ranks him steadily in the 30 to 40 range and takes him in round three without hesitation. Others call the 40s a fine range and say 29 USD in an auction mock was too high. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=893), [10-05](https://youtu.be/BiIZsSypx7Y?t=1645), [10-05](https://youtu.be/Q6YlQDvD-aY?t=705), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1363), [09-10](https://youtu.be/dlo7L8Ru91A?t=1073))
+- OKC has 13 back-to-backs, the league minimum. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- The OKC schedule is pretty good for a March 28 season end. (verdict, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=1990))
+- His wrist is healthy again and he is expected to be fine coming into the season. (fact, 2026-08-24; [07-26](https://youtu.be/75Sk_4fkgIM?t=2299), [08-24](https://youtu.be/g31YlwRe0XQ?t=862))
+- Experts say expecting last season's injuries to repeat would be a mistake, but he still has to prove he can stay healthy. It is too early to call him injury prone. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=127), [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
+- Those departures open up usage, and the team may lean more on offense with SGA, Ajay Mitchell and Williams together. (verdict, 2026-07-26; [07-20](https://youtu.be/-KS_AZjZnw4?t=1705), [07-26](https://youtu.be/75Sk_4fkgIM?t=903))
+- OKC is projected for about 57 to 62 wins and a top-two seed in the West. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=2232))
 
 **Durable**
-- His assists and steals are his best categories and are strong for a forward. He has no weak category. (fact, 2026-10-11; stats)
-- Injury history: wrist surgery and several hamstring injuries in one season. Many of his games that season came at about 20 minutes, and only about 20 were full-speed games. (fact, 2026-09-27; [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-26](https://youtu.be/75Sk_4fkgIM?t=164))
-- Elite defender who can guard positions one through five. Experts call him an All-NBA and All-Defense caliber player. (verdict, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=401))
-- His high block, rebound and field goal rates came when he played center. When OKC is healthy, he plays the three. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
-- He takes very few threes, which has long been a concern. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1734), [07-26](https://youtu.be/75Sk_4fkgIM?t=2333))
+- Assists and steals are his best categories, both well above other forwards. No category is weak. (fact, 2026-10-16; stats)
+- Last season he had wrist surgery that cost him the start of the season, then several hamstring strains after he returned. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=791), [09-27](https://youtu.be/CRLSsoGhb2w?t=627), [07-20](https://youtu.be/-KS_AZjZnw4?t=1672))
+- He takes very few threes. When they do not go in, he stops taking them. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=872), [07-20](https://youtu.be/-KS_AZjZnw4?t=1734))
+- His stats swing a lot from year to year. (fact, 2026-10-12; [10-12](https://youtu.be/NhLMyS7Ii5I?t=872))
+- Many of last season's games came at about 20 minutes while he recovered. Only about 20 were full-speed games. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=164))
+- He is an elite defender who can guard positions one through five, described as All-NBA and All-Defense caliber. (fact, 2026-07-26; [07-26](https://youtu.be/75Sk_4fkgIM?t=401))
+- His high block, rebound and FG% rates came when he played center. On a healthy team he plays the three. (fact, 2026-07-20; [07-20](https://youtu.be/-KS_AZjZnw4?t=1657))
 
 **Tags**
-- Current: `bounce-back` (Wrist and hamstring injuries derailed last season), `injury last season` (Wrist surgery, then repeated hamstring injuries), `questionable` (Yahoo Q (Rest)), `usage freed` (OKC lost Dort, Joe and Wiggins), `winning team` (Projected 57 to 62 wins)
-- Durable: `AST from a big` (About 5.3 assists projected as a forward), `fits every build` (No category flagged weak. Best in AST, STL and PTS)
+- Current: `injury last season` (Wrist surgery, then several hamstring strains), `bounce-back` (Experts say the market overreacted to an injury-hit season), `expert target` (Experts value him at 30 to 45, ADP about 45), `usage freed` (OKC lost Dort, Wiggins and Joe), `winning team` (About 57 to 62 wins projected), `few back-to-backs` (League-minimum 13 back-to-backs), `good playoff schedule` (Pretty good schedule with a March 28 end)
+- Durable: `elite defender` (Guards positions one through five), `fits every build` (No category flagged weak), `AST from a big` (5.3 projected assists, far above forwards)
 
-**Note.** Market ranks (Yahoo 37, ESPN 35) match the experts' pick 35 to 50 range, so he is fairly priced around 20 to 25 USD (Yahoo value 25, ESPN 20). Our league paid 35 USD last season, and Josh called 29 USD in a mock too high. Because he has no weak category, with strong assists and steals for a forward, he fits any build. Early in the season, check whether his hamstrings hold, whether his minutes climb back above 32, and whether OKC really pushes his three-point volume.
+**Note.** He costs about 19.4 USD on both Yahoo and ESPN, with values of 25 and 20 USD and ranks of 35 to 37. He went for 35 USD in our league last season. Experts call him a round three to four player the market dropped too far, so 20 to 25 USD looks like a good buy, but they see 29 USD as too high. Big assists and steals for a forward and no weak category make him fit any build. Early in the season, check that his hamstring holds up, that he plays a full starter's minutes, and whether OKC really gets him to shoot more threes.
 
-<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

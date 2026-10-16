@@ -8,21 +8,34 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "75631dd5be5c",
+ "input_sha": "f2eb3b8bee14",
  "note_count": 10,
- "built_at": "2026-10-11T09:18:44+00:00",
+ "built_at": "2026-10-16T09:00:57+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2865992,
-  "duration_ms": 66241,
-  "turns": 3,
+  "cost_usd_list": 0.17026619999999998,
+  "duration_ms": 41834,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is projected as Cleveland's sixth man. The projected starters are James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen, and the projected bench is Tyson, Merrill, Bryant, Tomlin and Porter.",
+   "text": "Cleveland lost Dennis Schroder, Keon Ellis, Max Strus and Dean Wade this offseason. All were rotation players.",
    "kind": "fact",
+   "date": "2026-09-29",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:p36",
+    "NmdNvAz08oE:t3",
+    "rnq3118kfhY:t1",
+    "rnq3118kfhY:p3",
+    "W-R1dzem32s:p56"
+   ]
+  },
+  {
+   "text": "He is projected as the sixth man behind a starting five of James Harden, Donovan Mitchell, Peyton Watson, Evan Mobley and Jarrett Allen.",
+   "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
@@ -33,21 +46,7 @@
    ]
   },
   {
-   "text": "Cleveland lost Dennis Schroder, Keon Ellis, Max Strus and Dean Wade, all rotation players. The Strus trade partly cleared space for Tyson.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "rnq3118kfhY:p3",
-    "rnq3118kfhY:t1",
-    "NmdNvAz08oE:p36",
-    "NmdNvAz08oE:t3",
-    "W-R1dzem32s:p56",
-    "W-R1dzem32s:t6"
-   ]
-  },
-  {
-   "text": "The experts expect a much bigger role in his third season. His minutes should stay high, and he could play close to starter's minutes off the bench.",
+   "text": "Experts expect his minutes to stay high and his role to grow in year three. He could play close to starter's minutes and cover positions one through three.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -59,40 +58,30 @@
    ]
   },
   {
-   "text": "Harden is in Cleveland for a full season next to Mitchell, so more players need the ball.",
-   "kind": "fact",
-   "date": "2026-10-09",
-   "until": "",
-   "sources": [
-    "QbdrhJd7LiA:t1",
-    "-DN4P92Wp8Y:t1"
-   ]
-  },
-  {
-   "text": "Last season he shot about 45% from three, up from 35% the year before. Over his final 16 games he shot 37%.",
+   "text": "Last season he shot about 45% from three, up from 35% the season before. Over his final 16 games he shot 37%.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
+    "NmdNvAz08oE:p35",
     "-y6p5PYLf00:p3",
-    "rnq3118kfhY:p3",
-    "NmdNvAz08oE:p35"
+    "rnq3118kfhY:p3"
    ]
   },
   {
-   "text": "The experts agree that the 45% three-point shooting will not repeat. Danny thinks above 40% is possible. Josh is not convinced that the minutes will turn into fantasy value, because much of his value came from hot shooting.",
+   "text": "Experts do not expect the 45% three-point shooting to repeat. One thinks above 40% is still possible.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
    "sources": [
+    "NmdNvAz08oE:p35",
     "-y6p5PYLf00:p3",
     "rnq3118kfhY:p3",
-    "NmdNvAz08oE:p35",
     "W-R1dzem32s:p56"
    ]
   },
   {
-   "text": "In a bench role he projects around rank 150 to 170. If a player ahead of him misses about 20 games, he would finish well above that.",
+   "text": "In a bench role he projects around 150 to 170 overall. A 20-game absence by a player ahead of him would push him well past that.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -101,7 +90,7 @@
    ]
   },
   {
-   "text": "He is a late-round swing pick and a flyer if his role grows. He matters more in 14-team and deeper leagues.",
+   "text": "He is a late-round swing pick and a possible flyer if his role grows. He matters more in 14-team and deeper leagues.",
    "kind": "verdict",
    "date": "2026-09-29",
    "until": "",
@@ -112,30 +101,41 @@
    ]
   },
   {
-   "text": "Danny says his next step is to average 15 to 16 points on good efficiency as a secondary creator.",
+   "text": "The experts disagree on his upside. Josh is not convinced the bigger role turns into fantasy value and wants a bigger sample. Danny sees a next step of 15 to 16 points on good efficiency as a secondary creator.",
    "kind": "verdict",
-   "date": "2026-08-24",
+   "date": "2026-09-10",
    "until": "",
    "sources": [
+    "W-R1dzem32s:p56",
+    "rnq3118kfhY:p4",
     "rnq3118kfhY:p5"
    ]
   },
   {
-   "text": "Cleveland has the most back-to-backs in the league. With a March 28 end, they play 4, 3 and 2 games in fantasy playoff weeks 19 to 21, so there is only a two-game week in the finals.",
+   "text": "Cleveland has the most back-to-backs in the league.",
    "kind": "fact",
    "date": "2026-09-29",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t5",
     "NmdNvAz08oE:t6",
-    "gf_6GveiAls:t2",
-    "gf_6GveiAls:t15"
+    "gf_6GveiAls:t2"
+   ]
+  },
+  {
+   "text": "With our March 28 end date, Cleveland plays 4, 3 and then 2 games in the fantasy playoff weeks. The two-game week is the finals week.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "NmdNvAz08oE:t5",
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
    ]
   }
  ],
  "durable": [
   {
-   "text": "His production was strong when teammates such as Strus, Hunter and Wade were out, and it faded when they returned.",
+   "text": "His production was strong when teammates were out and faded when they returned.",
    "kind": "fact",
    "date": "2026-08-24",
    "until": "",
@@ -145,21 +145,12 @@
    ]
   },
   {
-   "text": "He has had a high passing turnover rate and low assist numbers.",
+   "text": "Last season he had a high passing turnover rate and low assist numbers.",
    "kind": "fact",
    "date": "2026-08-24",
    "until": "",
    "sources": [
     "rnq3118kfhY:p4"
-   ]
-  },
-  {
-   "text": "He can cover positions one through three.",
-   "kind": "fact",
-   "date": "2026-09-29",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p36"
    ]
   }
  ],
@@ -167,25 +158,24 @@
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Schroder, Ellis, Strus and Wade are gone; he could play close to starter's minutes as sixth man",
+   "detail": "Schroder, Ellis and Strus gone; projected sixth man with near-starter minutes",
    "until": "",
    "sources": [
-    "rnq3118kfhY:p3",
     "NmdNvAz08oE:p36",
     "W-R1dzem32s:p56",
-    "W-R1dzem32s:t6"
+    "rnq3118kfhY:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "regression risk",
    "channel": "current",
-   "detail": "About 45% from three last season, 37% over his final 16 games",
+   "detail": "45% from three last season, 37% over final 16 games",
    "until": "",
    "sources": [
+    "NmdNvAz08oE:p35",
     "-y6p5PYLf00:p3",
     "rnq3118kfhY:p3",
-    "NmdNvAz08oE:p35",
     "W-R1dzem32s:p56"
    ],
    "new_meaning": ""
@@ -193,7 +183,7 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late-round swing pick if his role grows",
+   "detail": "late swing pick if his role grows",
    "until": "",
    "sources": [
     "gJUBAJaHzlU:p28",
@@ -202,32 +192,9 @@
    "new_meaning": ""
   },
   {
-   "name": "handcuff",
-   "channel": "current",
-   "detail": "Value jumps when Harden, Mitchell or Watson miss time; a 20-game absence would lift him well above rank 150 to 170",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p35",
-    "rnq3118kfhY:p4",
-    "-y6p5PYLf00:p3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "usage competition",
-   "channel": "current",
-   "detail": "Bench role behind Harden and Mitchell, who both need the ball",
-   "until": "",
-   "sources": [
-    "NmdNvAz08oE:p33",
-    "QbdrhJd7LiA:t1"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "waiver watch",
    "channel": "current",
-   "detail": "Experts see him as more relevant in 14-team and deeper leagues",
+   "detail": "experts see him as more relevant in 14-team and deeper leagues",
    "until": "",
    "sources": [
     "NmdNvAz08oE:p36",
@@ -236,20 +203,20 @@
    "new_meaning": ""
   },
   {
-   "name": "thin rotation",
-   "channel": "current",
-   "detail": "Bench lost Schroder, Ellis and Strus",
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "produced when teammates were out, faded when they returned",
    "until": "",
    "sources": [
-    "NmdNvAz08oE:t3",
-    "rnq3118kfhY:t1"
+    "rnq3118kfhY:p4",
+    "-y6p5PYLf00:p3"
    ],
    "new_meaning": ""
   },
   {
    "name": "many back-to-backs",
    "channel": "current",
-   "detail": "Most back-to-backs in the league",
+   "detail": "Cleveland has the most back-to-backs in the league",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t6",
@@ -260,15 +227,16 @@
   {
    "name": "bad playoff schedule",
    "channel": "current",
-   "detail": "4, 3, then 2 games in weeks 19 to 21; two-game finals week",
+   "detail": "4, 3, 2 games in weeks 19 to 21; two-game finals week",
    "until": "",
    "sources": [
     "NmdNvAz08oE:t5",
-    "gf_6GveiAls:t15"
+    "gf_6GveiAls:t15",
+    "EogBYa24Gto:t2"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Tyson is priced at 0 USD on Yahoo (rank 231) and ESPN (rank 191). The experts project him around rank 150 to 170 as a sixth man, which puts him just outside the 144 players our league drafts. He is a last-dollar flyer at most and mainly a waiver watch. His category profile has no outlier: assists are his weakest category, and turnovers stay low. Early in the season, check whether his minutes stay close to a starter's load, whether his three-point shooting holds near 40%, and whether Harden, Mitchell or Watson miss time. His two-game finals week makes him a weak hold for the fantasy playoffs.",
+ "note": "Both sites value him at 0 USD and rank him outside our 144 drafted players (Yahoo 233, ESPN 191). In our 12-team league he is at most a 1 USD last-round flyer, and more likely a waiver add. His projected line is close to neutral in every category, but it brings little in AST, STL or BLK. The 37% three-point shooting over his final 16 games and the expert range of 150 to 170 in a bench role both point to a waiver-level player unless injuries to Harden, Mitchell or Watson open up starter's minutes. Early in the season, check how many minutes he gets as sixth man and whether his three-point percentage stays near 40%. Also keep in mind the two-game finals week and Cleveland's league-high number of back-to-backs.",
  "rejected": []
 }

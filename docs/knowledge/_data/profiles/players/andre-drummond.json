@@ -8,34 +8,38 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "15ae287a4787",
- "note_count": 2,
- "built_at": "2026-10-04T17:22:40+00:00",
+ "input_sha": "67ac2df38def",
+ "note_count": 3,
+ "built_at": "2026-10-16T08:43:00+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.10963819999999999,
-  "duration_ms": 26119
+  "cost_usd_list": 0.1506982,
+  "duration_ms": 35294,
+  "turns": 2,
+  "denied": 0
  },
  "current": [
   {
-   "text": "The Knicks brought in Drummond to replace Mitchell Robinson as their backup center.",
+   "text": "He is the backup center behind Karl-Anthony Towns and takes over the role Mitchell Robinson played.",
    "kind": "fact",
-   "date": "2026-08-13",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "-dulgoyo_wo:p16",
+    "okN3fbHJtlA:p0",
     "okN3fbHJtlA:t0",
-    "okN3fbHJtlA:p0"
+    "-dulgoyo_wo:t0"
    ]
   },
   {
-   "text": "He is expected to play roughly the backup center minutes Robinson played, behind starter Towns. Little double-big lineup use is expected.",
+   "text": "Expected to play about 17 minutes a night as the backup center.",
    "kind": "verdict",
-   "date": "2026-08-13",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:p0",
-    "okN3fbHJtlA:t2"
+    "-dulgoyo_wo:p16",
+    "okN3fbHJtlA:p0"
    ]
   },
   {
@@ -48,39 +52,69 @@
    ]
   },
   {
-   "text": "He can play around 29 minutes if Towns misses time.",
+   "text": "He would be the clear starter if Towns misses time and could play around 29 minutes in that case.",
    "kind": "verdict",
-   "date": "2026-08-13",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
+    "-dulgoyo_wo:p16",
     "okN3fbHJtlA:p0"
    ]
   },
   {
-   "text": "The Knicks brought in James Wiseman, Drew Eubanks and other camp signings for the big man depth behind him. One or two of them are expected to make the roster.",
-   "kind": "fact",
-   "date": "2026-09-17",
+   "text": "The best stash on the Knicks and worth holding in deep leagues. The expert questions his Yahoo ADP of 107.",
+   "kind": "verdict",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "DubdKKhMWHo:t0"
+    "-dulgoyo_wo:p16"
    ]
   },
   {
-   "text": "The Knicks are expected to be cautious over the first 30 or so games, with starters' minutes trimmed and more rest on back-to-backs.",
+   "text": "Knicks big-man depth is very thin, with only Towns and Drummond. Wiseman and Eubanks are in camp, and near the second apron the team will likely add just one of Eubanks, Wiseman or Bradley.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t1",
+    "DubdKKhMWHo:t0",
+    "okN3fbHJtlA:t0"
+   ]
+  },
+  {
+   "text": "Little double-big lineup use is expected, so his minutes come mostly when Towns sits.",
    "kind": "verdict",
-   "date": "2026-09-22",
-   "until": "first 30 or so games",
+   "date": "2026-08-13",
+   "until": "",
+   "sources": [
+    "okN3fbHJtlA:t2"
+   ]
+  },
+  {
+   "text": "Experts disagree on Knicks rest. Earlier notes expect the team to be cautious with starters' minutes and back-to-backs, mostly over the first 30 or so games. The newest preview says a weaker team in a stronger East may not be able to rest players as much.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
    "sources": [
     "okN3fbHJtlA:t1",
+    "QbdrhJd7LiA:t3",
     "LM0cRCGoAUQ:t6",
-    "W-R1dzem32s:t5",
-    "QbdrhJd7LiA:t3"
+    "-dulgoyo_wo:t2"
+   ]
+  },
+  {
+   "text": "The Knicks play a league-minimum 13 back-to-backs, and their fantasy playoff schedule is weak for a season that ends March 28.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is still an elite offensive rebounder, a good defensive playmaker and a good screener.",
+   "text": "Still an elite offensive rebounder, a good defensive playmaker and a good screener.",
    "kind": "verdict",
    "date": "2026-08-13",
    "until": "",
@@ -96,33 +130,44 @@
    "sources": [
     "okN3fbHJtlA:p1"
    ]
+  },
+  {
+   "text": "In a bench role his value is mostly rebounds with few turnovers. Points, threes and assists are well below the pool.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
   }
  ],
  "tags": [
   {
    "name": "handcuff",
    "channel": "current",
-   "detail": "Backup to Towns; around 29 minutes if Towns misses time",
+   "detail": "Clear starter with about 29 minutes if Towns misses time",
    "until": "",
    "sources": [
+    "-dulgoyo_wo:p16",
     "okN3fbHJtlA:p0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "new team",
+   "name": "waiver watch",
    "channel": "current",
-   "detail": "Joined the Knicks to replace Mitchell Robinson",
+   "detail": "Stash only in deep leagues; both sites value him at 0 USD",
    "until": "",
    "sources": [
-    "okN3fbHJtlA:t0"
+    "-dulgoyo_wo:p16",
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "age decline watch",
    "channel": "durable",
-   "detail": "Older, can no longer do some things he once did",
+   "detail": "Older and can no longer do some things he once did",
    "until": "",
    "sources": [
     "okN3fbHJtlA:p1"
@@ -130,17 +175,37 @@
    "new_meaning": ""
   },
   {
-   "name": "waiver watch",
+   "name": "thin rotation",
    "channel": "current",
-   "detail": "Outside the 144 drafted players; pick up if Towns misses time",
+   "detail": "Only Towns and Drummond as bigs; one more big likely added",
    "until": "",
    "sources": [
-    "stats",
-    "okN3fbHJtlA:p0"
+    "-dulgoyo_wo:t1",
+    "okN3fbHJtlA:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "bad playoff schedule",
+   "channel": "current",
+   "detail": "Weak for a March 28 season end",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "League-minimum 13 back-to-backs",
+   "until": "",
+   "sources": [
+    "-dulgoyo_wo:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "Drummond is no draft target for us. Yahoo ranks him 211 and ESPN 251, both sites value him at 0 USD, and his projected line is about 6 points and 8 rebounds in 19 minutes. That is well outside the 144 players we draft. His value is as a handcuff to Towns: if Towns misses time, the backup center role could grow to around 29 minutes, so watch Towns' health and the Knicks' early-season minutes caution. Also check whether Wiseman or Eubanks take any of the backup minutes.",
+ "note": "Both Yahoo and ESPN value him at 0 USD (ranks 220 and 252), and he went undrafted in our league. With about 17 minutes as Towns's backup and only 6.1 points per game projected, he should not be drafted in a 12-team league. Keep him on the waiver watch list as a Towns handcuff: if Towns misses games he should start, play about 29 minutes and help in rebounds. Early in the season, check which extra big the Knicks sign and whether Drummond's minutes stay near 17.",
  "rejected": []
 }

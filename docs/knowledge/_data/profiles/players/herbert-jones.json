@@ -8,61 +8,98 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "23088e3af179",
- "note_count": 4,
- "built_at": "2026-10-11T09:16:55+00:00",
+ "input_sha": "caf2363cc7cd",
+ "note_count": 6,
+ "built_at": "2026-10-16T08:56:05+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1454942,
-  "duration_ms": 31534,
+  "cost_usd_list": 0.1716262,
+  "duration_ms": 39554,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "The last Pelicans starting spot is between Jeremiah Fears and Jones. Dejounte Murray, Trey Murphy and Zion Williamson are locked in, and Yves Missi likely starts.",
+   "text": "The Pelicans roster is crowded, with about eight players who could start, and it is unclear how the 240 minutes will be split.",
    "kind": "fact",
-   "date": "2026-10-04",
+   "date": "2026-10-11",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:t1",
-    "n4KkK-OJjqA:t2"
+    "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1",
+    "WXO8MfQfzo0:t1",
+    "uI6umXsE7Vk:t0"
    ]
   },
   {
-   "text": "A Pelicans beat reporter expects Jeremiah Fears to start over Jones.",
-   "kind": "verdict",
-   "date": "2026-09-24",
+   "text": "He and Jeremiah Fears compete for the last starting spot next to Zion Williamson, Trey Murphy, Dejounte Murray and likely Yves Missi.",
+   "kind": "fact",
+   "date": "2026-10-02",
    "until": "",
    "sources": [
+    "ZYllcj4o6_A:t1",
     "_vbAP5y182A:t0"
    ]
   },
   {
-   "text": "New Orleans has more rotation players than minutes, with about eight players who could start. This minutes crunch makes his role hard to project.",
-   "kind": "fact",
-   "date": "2026-10-08",
+   "text": "Experts disagree on whether he starts. The newest preview projects him as a starter, while a Pelicans beat reporter expects Fears to start over him.",
+   "kind": "verdict",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "gsx_UDkVPd0:p12",
+    "_vbAP5y182A:t0"
    ]
   },
   {
-   "text": "New coach Jamahl Mosley brings a defense-first identity to New Orleans.",
-   "kind": "fact",
-   "date": "2026-10-09",
+   "text": "Even as a starter, he may play under 27 minutes.",
+   "kind": "verdict",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0",
-    "-DN4P92Wp8Y:t2"
+    "gsx_UDkVPd0:p12"
    ]
   },
   {
-   "text": "Experts see the Pelicans as a weak team near the bottom of the West, at about 34 wins.",
+   "text": "The expert is not a big fan, but sees his ranking area as the right place for late-round steals.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "W-R1dzem32s:p49"
+   ]
+  },
+  {
+   "text": "Jamahl Mosley is the new head coach and brings a defense-first identity.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t2",
+    "5QU-jta-lWM:t4"
+   ]
+  },
+  {
+   "text": "With a March 28 end, the Pelicans play 4, 4 and 3 games in our playoff weeks. The expert calls this good.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t5"
+   ]
+  },
+  {
+   "text": "The Pelicans have a league-high 16 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t6"
+   ]
+  },
+  {
+   "text": "Experts see the Pelicans as a weak team. The highest projection is about 34 wins, which would still miss the playoffs.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -70,32 +107,52 @@
     "0AptxcRW0RE:t7",
     "5QU-jta-lWM:t6"
    ]
-  },
-  {
-   "text": "Experts are lukewarm on his draft value. One doubts he is worth drafting in standard category leagues. Another is not a big fan but places him in the right range for late-round steals.",
-   "kind": "verdict",
-   "date": "2026-09-10",
-   "until": "",
-   "sources": [
-    "Alwse2uXzD4:p13",
-    "W-R1dzem32s:p49"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "Steals are his clear best category. He adds some blocks and the occasional three.",
-   "kind": "fact",
-   "date": "2026-08-30",
+   "text": "Steals are his one real fantasy category.",
+   "kind": "verdict",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
+    "gsx_UDkVPd0:p13",
     "Alwse2uXzD4:p13",
     "g31YlwRe0XQ:p50",
     "stats"
    ]
   },
   {
-   "text": "He rarely shoots and scores little, so he is worth more in category leagues than in points leagues.",
+   "text": "He rarely shoots and is not dynamic on offense. He adds little in points, rebounds, threes or assists.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p13",
+    "Alwse2uXzD4:p13",
+    "stats"
+   ]
+  },
+  {
+   "text": "His FG% is low for his position, so he fits teams that punt FG%.",
+   "kind": "verdict",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "He is not a true floor spacer, even though he once shot about 42% from three.",
+   "kind": "verdict",
+   "date": "2026-08-03",
+   "until": "",
+   "sources": [
+    "5QU-jta-lWM:p17"
+   ]
+  },
+  {
+   "text": "He is worth more in category leagues than in points leagues.",
    "kind": "verdict",
    "date": "2026-08-30",
    "until": "",
@@ -103,31 +160,13 @@
     "Alwse2uXzD4:p13",
     "g31YlwRe0XQ:p50"
    ]
-  },
-  {
-   "text": "His projected FG% is weak for his position, which makes him a fit for punt FG% builds.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "He is not a true floor spacer.",
-   "kind": "verdict",
-   "date": "2026-08-03",
-   "until": "",
-   "sources": [
-    "5QU-jta-lWM:p17"
-   ]
   }
  ],
  "tags": [
   {
    "name": "category league player",
    "channel": "durable",
-   "detail": "Value is in steals; scores little and rarely shoots",
+   "detail": "value comes from steals, not a points-league player",
    "until": "",
    "sources": [
     "Alwse2uXzD4:p13",
@@ -138,7 +177,7 @@
   {
    "name": "punt FG fit",
    "channel": "durable",
-   "detail": "Projected FG% about 41% on 8 attempts",
+   "detail": "projected about 41% FG",
    "until": "",
    "sources": [
     "stats"
@@ -148,7 +187,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Competes with Jeremiah Fears for the last starting spot",
+   "detail": "Jeremiah Fears for the last starting spot",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t1",
@@ -159,21 +198,23 @@
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "About eight Pelicans who could start",
+   "detail": "about eight Pelicans who could start",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:t0",
+    "gerS7ibpaJo:t1",
     "WXO8MfQfzo0:t1",
-    "gerS7ibpaJo:t1"
+    "uI6umXsE7Vk:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Pelicans roles hard to project",
+   "detail": "minutes split unclear",
    "until": "",
    "sources": [
+    "uI6umXsE7Vk:t0",
     "WXO8MfQfzo0:t1",
     "OdDkXFhoKsc:t0"
    ],
@@ -185,46 +226,43 @@
    "detail": "Jamahl Mosley",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0",
-    "-DN4P92Wp8Y:t2"
+    "gsx_UDkVPd0:t2",
+    "5QU-jta-lWM:t4"
    ],
    "new_meaning": ""
   },
   {
-   "name": "defense-first",
-   "channel": "durable",
-   "detail": "Mosley brings a defense-first identity",
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-3 games in weeks 19 to 21 with a March 28 end",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t4"
+    "gsx_UDkVPd0:t5"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "league-high 16",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t6"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "About 34 wins projected, bottom of the West",
+   "detail": "about 34 wins projected, weak in the West",
    "until": "",
    "sources": [
     "0AptxcRW0RE:t7",
     "5QU-jta-lWM:t6"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "waiver watch",
-   "channel": "current",
-   "detail": "Ranked outside the 144 drafted players; watch whether he wins the starting spot",
-   "until": "",
-   "sources": [
-    "Alwse2uXzD4:p13",
-    "W-R1dzem32s:p49",
-    "stats"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at 0 USD, at ranks 162 and 196. That puts him outside the 144 players our league drafts, even though he cost 5 USD here last season. He only makes sense as a 1 USD steals add for a punt FG% build, because his projected FG% of about 41% hurts any other team. Early in the season, check whether he or Jeremiah Fears wins the last Pelicans starting spot, and pick him up from waivers if he starts and plays heavy minutes.",
+ "note": "He sits right at the edge of our 144-player draft pool (Yahoo rank 167, ESPN 196, 0 USD value on both sites), so he is a 1 USD final-round steals pick at most. Last season's 5 USD in our league is too much. He mainly fits punt FG% builds that need steals, since his projected 41% FG on about 8 shots hurts and his other counting stats are thin. Early in the season, check whether he starts ahead of Jeremiah Fears and plays more than 27 minutes. If not, leave him on waivers.",
  "rejected": []
 }

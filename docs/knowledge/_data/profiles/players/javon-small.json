@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "9834713257b3",
+ "input_sha": "861a73083f53",
  "note_count": 3,
- "built_at": "2026-10-11T09:18:01+00:00",
+ "built_at": "2026-10-16T08:59:49+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.17132519999999998,
-  "duration_ms": 33906,
-  "turns": 3,
+  "cost_usd_list": 0.1226862,
+  "duration_ms": 22651,
+  "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is on a two-way contract with Memphis.",
+   "text": "Javon Small is on a two-way contract with Memphis.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
@@ -32,22 +32,32 @@
    ]
   },
   {
-   "text": "He sits behind Ty Jerome, Scotty Pippen Jr. and Cam Spencer in the Memphis guard rotation. Ty Jerome has started both preseason games.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "lp11OAEpq4Y:p35",
-    "6DnRWahYrFA:t5"
-   ]
-  },
-  {
-   "text": "Memphis has a crowded guard group and is expected to use a deep rotation of 11 or 12 players.",
+   "text": "He is behind Ty Jerome, Scotty Pippen Jr. and Cam Spencer on the guard depth chart.",
    "kind": "fact",
    "date": "2026-10-07",
    "until": "",
    "sources": [
-    "-y6p5PYLf00:t1",
+    "lp11OAEpq4Y:p35",
+    "-y6p5PYLf00:t1"
+   ]
+  },
+  {
+   "text": "Ty Jerome has started both preseason games at point guard, and Memphis is giving him a big role.",
+   "kind": "fact",
+   "date": "2026-10-12",
+   "until": "",
+   "sources": [
+    "ENizLoE6pzI:t5",
+    "6DnRWahYrFA:t5",
+    "NYTH7uQsPCM:t9"
+   ]
+  },
+  {
+   "text": "Coach Tuomas Iisalo is expected to run an 11 or 12 man rotation, which spreads minutes even thinner for players at the end of the bench.",
+   "kind": "fact",
+   "date": "2026-10-07",
+   "until": "",
+   "sources": [
     "lp11OAEpq4Y:t2",
     "LcZcvk8s1xQ:t2"
    ]
@@ -62,29 +72,11 @@
     "LcZcvk8s1xQ:p28",
     "xHRF06_E9HE:p43"
    ]
-  },
-  {
-   "text": "He ranked 100th in fantasy after last season's trade deadline.",
-   "kind": "fact",
-   "date": "2026-07-14",
-   "until": "",
-   "sources": [
-    "xHRF06_E9HE:p43"
-   ]
-  },
-  {
-   "text": "With so few projected minutes, points, rebounds and steals project as clear weaknesses, and he does not help in any counting category.",
-   "kind": "verdict",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a real NBA player who looks like a rotation-level point guard.",
+   "text": "He has shown he can play as a real NBA rotation point guard.",
    "kind": "verdict",
    "date": "2026-10-07",
    "until": "",
@@ -92,13 +84,22 @@
     "lp11OAEpq4Y:p35",
     "LcZcvk8s1xQ:p28"
    ]
+  },
+  {
+   "text": "He ranked about 100th in fantasy after the trade deadline last season.",
+   "kind": "fact",
+   "date": "2026-07-14",
+   "until": "",
+   "sources": [
+    "xHRF06_E9HE:p43"
+   ]
   }
  ],
  "tags": [
   {
    "name": "two-way contract",
    "channel": "current",
-   "detail": "back on a two-way deal with Memphis",
+   "detail": "Back on a two-way deal with Memphis",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p35",
@@ -110,7 +111,7 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "behind Ty Jerome, Scotty Pippen Jr. and Cam Spencer",
+   "detail": "Behind Ty Jerome, Scotty Pippen Jr. and Cam Spencer at guard",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:p35",
@@ -121,7 +122,7 @@
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Memphis expected to run 11 or 12 players",
+   "detail": "Iisalo runs an 11 or 12 man rotation",
    "until": "",
    "sources": [
     "lp11OAEpq4Y:t2",
@@ -130,6 +131,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Javon Small is not a draft target. Yahoo ranks him 341st with a 0 USD value, ESPN does not price him, and our auction only fills 144 roster spots. He played well last season (100th after the deadline, 9.7 points and 3.7 assists in 20 minutes). But on a two-way deal behind Jerome, Pippen and Spencer, he projects to only 4.7 points a game. Early in the season, only watch whether he gets a standard contract or a Memphis guard gets hurt.",
+ "note": "Do not draft him. Yahoo values him at 0 USD and ranks him 342nd, ESPN does not list him, and the experts say a two-way player behind Jerome, Pippen and Spencer will not play most nights. Last season he scored 9.7 points with 3.7 assists in 20 minutes and finished about 100th after the deadline, so he can produce if he gets minutes. Check early in the season whether he signs a standard contract or an injury hits the Memphis guards, and leave him on waivers until then.",
  "rejected": []
 }

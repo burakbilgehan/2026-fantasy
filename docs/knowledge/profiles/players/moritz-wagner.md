@@ -23,28 +23,28 @@
 | PTS | 9.0 | -0.9 | -0.7 | - |
 | REB | 4.2 | -0.4 | -1.4 | - |
 | AST | 1.1 | -1.1 | -0.8 | - |
-| STL | 0.5 | -1.2 | -1.0 | - |
+| STL | 0.5 | -1.2 | -0.9 | - |
 | BLK | 0.2 | -0.8 | -1.5 | - |
 | TO | 0.7 | +1.3 | +1.2 | - |
 
 </details>
 
 **Current**
-- Brooklyn is projected to be one of the worst teams, at about 28 wins. It does not own its pick, so it has no reason to tank. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-10](https://youtu.be/dlo7L8Ru91A?t=1043))
-- He is projected as the backup center behind Day'Ron Sharpe. The projected bench rotation includes three big men: Wagner, Noah Clowney and Danny Wolf. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- Brooklyn may give more frontcourt minutes to young players like Clowney and Josh Minott in the second half of the season, which makes March minutes for veterans uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276), [08-26](https://youtu.be/sTtFUy7IoJI?t=1170))
-- Brooklyn has 16 back-to-backs, tied for the most in the league. With a March 28 end, its playoff schedule is 3-4-3, so 10 games over weeks 19 to 21, with one playoff back-to-back. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- Brooklyn signed him on a mutual option deal as veteran depth. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
-- Brooklyn's center minutes are expected to be split, mainly with Sharpe and possibly in a messy three-way split that includes Danny Wolf. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
-- Not draftable. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1886))
+- Brooklyn is projected as one of the worst teams in the league, at about 28 wins. (verdict, 2026-10-08; [08-21](https://youtu.be/uRsfijpBPok?t=1754), [10-08](https://youtu.be/sDzeYdUhJDI?t=177))
+- He is projected as Brooklyn's backup center. Day'Ron Sharpe is the projected starter, and three of the five projected bench players are big men. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
+- Brooklyn may give more minutes to young players in the second half, including frontcourt players Noah Clowney and Josh Minott. That makes his late-season role uncertain. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [08-21](https://youtu.be/uRsfijpBPok?t=276), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Brooklyn has 16 back-to-backs, tied with Boston for the most in the league. For a season ending March 28, its playoff schedule is 3-4-3 games, with one back-to-back in the playoff weeks. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- He signed with Brooklyn on a mutual option deal as veteran depth. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226))
+- Brooklyn's center minutes are expected to be split between him, Sharpe and Danny Wolf. (verdict, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=226), [07-02](https://youtu.be/P6TNP-g0wzY?t=1914))
+- He is not draftable. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1886))
 
 **Durable**
-- He is an efficient, high-usage backup big who cannot handle 20-plus minutes a game. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1886))
+- He is an efficient, high-usage backup big who cannot handle 20 or more minutes a game. (verdict, 2026-07-02; [07-02](https://youtu.be/P6TNP-g0wzY?t=1886))
 
 **Tags**
-- Current: `new team` (Signed with Brooklyn in free agency on a mutual option deal), `minutes competition` (Backs up Day'Ron Sharpe and shares center minutes with Sharpe and Danny Wolf), `deep rotation` (Many young Brooklyn players compete for frontcourt and bench minutes), `bottom team` (About 28 projected wins), `many back-to-backs` (16 back-to-backs, tied for most in the league), `bad playoff schedule` (3-4-3, only 10 games in weeks 19 to 21)
+- Current: `minutes competition` (Splits center minutes with Day'Ron Sharpe and Danny Wolf), `deep rotation` (Many young Brooklyn players want frontcourt and second-unit minutes), `bottom team` (Brooklyn projected at about 28 wins), `many back-to-backs` (16 back-to-backs, tied for most in the league)
 - Durable: none
 
-**Note.** Wagner is outside the top 144 on both sites (Yahoo rank 406, ESPN rank 304, 0 USD everywhere). Projections give him only about 9 points and 4 rebounds in roughly 13 minutes, and the experts call him not draftable, so skip him in our auction. Early in the season, check whether Sharpe really starts and how Brooklyn splits center minutes. He only matters as a short-term pickup if Sharpe misses time.
+**Note.** Wagner is not a draft option in our 144-player auction. Yahoo ranks him 406th and ESPN 304th, both value him at 0 USD, and the expert calls him not draftable. ESPN projects only about 13 minutes and 8 points a game for him as Sharpe's backup. He fits no punt build, because none of his categories is flagged. Early in the season, check whether Sharpe keeps the starting job and how Brooklyn splits center minutes between Sharpe, Wagner and Wolf. Only a clear minutes jump would make him worth a waiver look.
 
-<sub>3 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>3 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

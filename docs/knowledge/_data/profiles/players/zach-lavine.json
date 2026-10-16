@@ -8,74 +8,40 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "0b74d3c8bd9f",
- "note_count": 21,
- "built_at": "2026-10-11T09:25:06+00:00",
+ "input_sha": "3444323f409f",
+ "note_count": 30,
+ "built_at": "2026-10-16T09:21:32+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.2118862,
-  "duration_ms": 60677,
+  "cost_usd_list": 0.2668222,
+  "duration_ms": 78009,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He opted into a 1-year, 49 million USD contract after he could not find a new team. This is the final year of his deal, and the Kings have no interest in extending him.",
+   "text": "He opted into a 1-year, 49 million USD contract after he could not find a new team. It is the final year of his deal, and the Kings have no interest in extending him.",
    "kind": "fact",
    "date": "2026-07-31",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p5",
-    "-KS_AZjZnw4:p37",
-    "lOshTzDA4SA:t4"
+    "-KS_AZjZnw4:p37"
    ]
   },
   {
-   "text": "Schroder, Westbrook and DeRozan have left Sacramento. He now shares the ball mainly with Sabonis.",
+   "text": "He is a projected starter, with Acuff, Murray, Simmons and Sabonis.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:p36",
-    "W-R1dzem32s:p40",
-    "ahNxsoU8Hx4:p41",
-    "-KS_AZjZnw4:t4",
-    "6DnRWahYrFA:t0"
+    "PrrgoTEcao4:t1",
+    "oEywzBZfAvY:t1"
    ]
   },
   {
-   "text": "Experts expect more usage and more ball handling for him, and a bigger part in the offense.",
-   "kind": "verdict",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "-KS_AZjZnw4:p36",
-    "oEywzBZfAvY:p7"
-   ]
-  },
-  {
-   "text": "His assists could rise a lot. Better-shooting teammates and better luck should help him convert more potential assists.",
-   "kind": "verdict",
-   "date": "2026-07-17",
-   "until": "",
-   "sources": [
-    "NYTH7uQsPCM:p32"
-   ]
-  },
-  {
-   "text": "He is a projected starter next to Acuff, Hunter, Murray and Sabonis. Coach Ham calls him the Kings' second best player behind Sabonis.",
-   "kind": "fact",
-   "date": "2026-07-31",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t1",
-    "oEywzBZfAvY:p6",
-    "W3THnI7wWdA:t8"
-   ]
-  },
-  {
-   "text": "One expert expects him to start and play 30 or more minutes.",
+   "text": "He is expected to start and play 30+ minutes.",
    "kind": "verdict",
    "date": "2026-09-09",
    "until": "",
@@ -84,75 +50,147 @@
    ]
   },
   {
-   "text": "His role is unclear. The rebuilding Kings could trade him, buy him out, bench him or cut his minutes, and that risk drags his draft value down.",
-   "kind": "verdict",
-   "date": "2026-10-02",
+   "text": "Schroder, Westbrook and DeRozan are gone, so he shares the ball mainly with Sabonis.",
+   "kind": "fact",
+   "date": "2026-09-17",
    "until": "",
    "sources": [
-    "ZYllcj4o6_A:p43",
-    "BjXP9JODDSg:p47",
-    "BjXP9JODDSg:t4",
+    "-KS_AZjZnw4:p36",
+    "W-R1dzem32s:p40",
     "ahNxsoU8Hx4:p41",
-    "dlo7L8Ru91A:p51",
+    "ahNxsoU8Hx4:t4",
+    "-KS_AZjZnw4:t4"
+   ]
+  },
+  {
+   "text": "Ham calls him the Kings' second best player behind Sabonis.",
+   "kind": "fact",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p6"
+   ]
+  },
+  {
+   "text": "Experts expect more usage and ball handling than last season, when he was used as a spot-up shooter. His assists could rise a lot with better shooters around him and better luck.",
+   "kind": "verdict",
+   "date": "2026-07-31",
+   "until": "",
+   "sources": [
+    "-KS_AZjZnw4:p36",
+    "oEywzBZfAvY:p7",
+    "NYTH7uQsPCM:p32"
+   ]
+  },
+  {
+   "text": "A trade or buyout is possible during the season. The Kings could also bench him or cut his minutes because they are focused on the future.",
+   "kind": "verdict",
+   "date": "2026-09-10",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p9",
     "W-R1dzem32s:p40",
     "7BllEsdNLoM:p43",
-    "7BllEsdNLoM:t5",
-    "E-KmhvyZ2CU:p20",
+    "ahNxsoU8Hx4:p41",
     "80kfLVnFQ_s:p44",
-    "oEywzBZfAvY:p9",
-    "oEywzBZfAvY:t8"
+    "E-KmhvyZ2CU:p20",
+    "-KS_AZjZnw4:p37"
    ]
   },
   {
-   "text": "Experts see him as good value at his market price. Without the Kings risk he would rank two tiers higher. He should easily beat his ranking per game, could be a top-80 player, and is a top-50 player when he is firing.",
+   "text": "Experts say the Kings' unpredictable rotations and unclear plans for him hold back his value.",
    "kind": "verdict",
-   "date": "2026-09-30",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "BjXP9JODDSg:p47",
-    "dlo7L8Ru91A:p51",
-    "7BllEsdNLoM:p43",
-    "_vbAP5y182A:p51",
-    "ahNxsoU8Hx4:p41"
+    "PrrgoTEcao4:t0",
+    "uI6umXsE7Vk:p50",
+    "ZYllcj4o6_A:p43",
+    "hviT4hzYNME:p27",
+    "BjXP9JODDSg:t4"
    ]
   },
   {
-   "text": "Experts expect Sacramento near the bottom of the league, but they disagree on how the team will act. Lloyd expects the Kings to trade or sit veterans. Others expect the team to keep trying to win games to stay out of the relegation zone.",
+   "text": "Experts disagree on the Kings' direction. One expects them to trade or sit veterans and finish near the bottom. Others expect them to keep trying to win to stay out of the relegation zone.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8",
     "n4KkK-OJjqA:t5",
-    "-KS_AZjZnw4:t5"
+    "-KS_AZjZnw4:t5",
+    "oEywzBZfAvY:t7"
    ]
   },
   {
-   "text": "Coach Doug Christie is under the most pressure and may lean on veterans to win games.",
+   "text": "Yahoo lists him as questionable (Rest). A note also mentions a finger injury.",
    "kind": "fact",
-   "date": "2026-07-31",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t6"
+    "PrrgoTEcao4:p7",
+    "stats"
+   ]
+  },
+  {
+   "text": "His draft position is rising fast in mock drafts. He went around pick 120 early in draft season and now goes between about 85 and 97.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "bd8GYKFOe8A:p30",
+    "DzQXaC2rsac:p14",
+    "D4dP5JvX1oo:p18",
+    "WXO8MfQfzo0:p30"
+   ]
+  },
+  {
+   "text": "Experts call him one of the best Kings targets and are happy to draft him inside the top 100. They are not worried about the finger injury. He could be a top-80 player and should beat his ranking per game, but the Kings situation makes him risky.",
+   "kind": "verdict",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p7",
+    "PrrgoTEcao4:p8",
+    "BjXP9JODDSg:p47",
+    "dlo7L8Ru91A:p51",
+    "7BllEsdNLoM:p43",
+    "OsbUAkSeVB4:p20"
+   ]
+  },
+  {
+   "text": "Kings playoff schedule for a March 28 end: 4-4-3, 11 games in weeks 19 to 21. The team has 14 back-to-backs this season.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:t4"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is an efficient shooter. He has elite free throw shooting, an elite field goal percentage for his position and a good three-point percentage.",
+   "text": "Threes and points are his best categories.",
    "kind": "fact",
-   "date": "2026-07-20",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Experts call his shooting elite: elite FT%, elite FG% for his position and a good 3P%.",
+   "kind": "verdict",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p35",
-    "stats"
+    "PrrgoTEcao4:p6"
    ]
   },
   {
    "text": "His steals are very poor.",
-   "kind": "fact",
+   "kind": "verdict",
    "date": "2026-07-20",
    "until": "",
    "sources": [
@@ -161,8 +199,17 @@
    ]
   },
   {
-   "text": "He is a poor defender.",
+   "text": "He can add around 4.5 assists when he has the ball. His assists drop when others handle it.",
    "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p6"
+   ]
+  },
+  {
+   "text": "He is a poor defender and is 31.",
+   "kind": "verdict",
    "date": "2026-07-31",
    "until": "",
    "sources": [
@@ -174,7 +221,7 @@
   {
    "name": "contract year",
    "channel": "current",
-   "detail": "Final year of a 1-year, 49 million USD deal. Kings do not plan to extend him.",
+   "detail": "1-year, 49 million USD player option; Kings will not extend him",
    "until": "",
    "sources": [
     "oEywzBZfAvY:p5",
@@ -183,47 +230,68 @@
    "new_meaning": ""
   },
   {
-   "name": "trade risk",
-   "channel": "current",
-   "detail": "Trade, buyout or benching possible on a rebuilding Kings team.",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p43",
-    "ahNxsoU8Hx4:p41",
-    "7BllEsdNLoM:p43",
-    "W-R1dzem32s:p40",
-    "oEywzBZfAvY:p9",
-    "80kfLVnFQ_s:p44"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "role up",
    "channel": "current",
-   "detail": "More usage and ball handling expected with Schroder, Westbrook and DeRozan gone.",
+   "detail": "Schroder, Westbrook and DeRozan gone; more usage and ball handling expected",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p36",
-    "oEywzBZfAvY:p7"
+    "oEywzBZfAvY:p7",
+    "W-R1dzem32s:p40"
    ],
    "new_meaning": ""
   },
   {
-   "name": "usage freed",
+   "name": "trade risk",
    "channel": "current",
-   "detail": "Schroder, Westbrook and DeRozan left Sacramento.",
+   "detail": "trade, buyout or benching possible on a rebuilding Kings team",
    "until": "",
    "sources": [
-    "-KS_AZjZnw4:t4",
-    "6DnRWahYrFA:t0",
-    "ahNxsoU8Hx4:p41"
+    "oEywzBZfAvY:p9",
+    "W-R1dzem32s:p40",
+    "7BllEsdNLoM:p43",
+    "ahNxsoU8Hx4:p41",
+    "80kfLVnFQ_s:p44",
+    "-KS_AZjZnw4:p37"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "shutdown risk",
+   "channel": "current",
+   "detail": "Kings could pull his minutes or sit veterans; experts disagree on whether they will",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p9",
+    "6DnRWahYrFA:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Rest); finger injury mentioned",
+   "until": "",
+   "sources": [
+    "stats",
+    "PrrgoTEcao4:p7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "injury last season",
+   "channel": "current",
+   "detail": "39 games in 2025-26",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   },
   {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "Named a 2026-27 bounce-back candidate.",
+   "detail": "finished 115th last season in a spot-up role",
    "until": "",
    "sources": [
     "-KS_AZjZnw4:p34",
@@ -234,85 +302,91 @@
   {
    "name": "sleeper",
    "channel": "current",
-   "detail": "Goes around picks 103 to 116. Experts see top-80 upside.",
+   "detail": "top-50 when firing; Fantrax ADP 116",
    "until": "",
    "sources": [
-    "ahNxsoU8Hx4:p41",
-    "BjXP9JODDSg:p47",
-    "dlo7L8Ru91A:p51",
-    "_vbAP5y182A:p51"
+    "ahNxsoU8Hx4:p41"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "expert target",
+   "channel": "current",
+   "detail": "drafted inside the top 100; Yahoo rank 107, ESPN rank 159",
+   "until": "",
+   "sources": [
+    "PrrgoTEcao4:p7",
+    "PrrgoTEcao4:p8",
+    "BjXP9JODDSg:p47"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 103 and value 5 USD. ESPN rank 159 and value 0 USD.",
+   "detail": "Yahoo rank 107 vs ESPN rank 159",
    "until": "",
    "sources": [
-    "stats"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "shutdown risk",
-   "channel": "current",
-   "detail": "Lloyd expects the Kings to trade or sit veterans.",
-   "until": "",
-   "sources": [
-    "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:p9"
+    "stats",
+    "PrrgoTEcao4:p7"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Vegas has about 21.5 to 22.5 wins. Hosts predict 26 or 27.",
+   "detail": "Vegas about 21.5 to 22.5 wins",
    "until": "",
    "sources": [
-    "6DnRWahYrFA:t0",
     "oEywzBZfAvY:t7",
-    "0AptxcRW0RE:t8"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "tank risk",
-   "channel": "current",
-   "detail": "The Kings are in a teardown, but they also want to stay out of the relegation zone.",
-   "until": "",
-   "sources": [
-    "oEywzBZfAvY:t0",
     "6DnRWahYrFA:t0",
-    "oEywzBZfAvY:t7"
+    "PrrgoTEcao4:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "Trades of LaVine or Sabonis are possible.",
+   "detail": "Kings in a teardown; LaVine and Sabonis could be moved",
    "until": "",
    "sources": [
+    "oEywzBZfAvY:t0",
     "oEywzBZfAvY:t8",
-    "7BllEsdNLoM:t5",
-    "t4n9MAP2_14:t5",
-    "egRrai3Ax38:t0"
+    "6DnRWahYrFA:t0"
    ],
    "new_meaning": ""
   },
   {
-   "name": "coach hot seat",
-   "channel": "current",
-   "detail": "Doug Christie is under the most pressure.",
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "assists rise to about 4.5 with the ball in his hands and drop when others handle it",
    "until": "",
    "sources": [
-    "oEywzBZfAvY:t6"
+    "PrrgoTEcao4:p6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "defensive liability",
+   "channel": "durable",
+   "detail": "poor defender",
+   "until": "",
+   "sources": [
+    "oEywzBZfAvY:p8"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "fits every build",
+   "channel": "durable",
+   "detail": "no weak category flagged; best in 3PM, PTS and FT%",
+   "until": "",
+   "sources": [
+    "stats"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He costs almost nothing on the market (1.2 USD average cost on both sites, Yahoo value 5 USD, ESPN rank 159), but our league paid 12 USD for him last season. He goes around picks 107 to 114 in 9-cat mocks, and experts see top-80 upside if he keeps his starter role. At 1 to 5 USD he is a cheap source of 3PM, PTS and FT% with a good FG% for a guard, so he fits builds that can live with weak steals, blocks and rebounds. Early in the season, check that he still starts with 30 or more minutes and more usage, and watch for trade, buyout or benching news from Sacramento.",
+ "note": "The sites price him low (Yahoo 4 USD value, 1.8 USD average cost, ESPN 1.5 USD), but his mock draft position has jumped from about 120 to 85-97, and he cost 12 USD in our league last season. Expect to pay around 5 to 12 USD for a scorer who brings threes, points and good percentages with no flagged weak category, so he fits most builds. Early on, check whether his assists and usage rise with the ball in his hands, watch for trade or buyout news, and see if the Kings keep him near 30+ minutes after his 39-game 2025-26 season.",
  "rejected": []
 }

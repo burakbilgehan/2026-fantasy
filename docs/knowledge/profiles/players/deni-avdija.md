@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 24 | 16.1 | 42 | 7 | 21.4 | 60 | 17 |
+| 2026-27 | 24 | 17.0 | 42 | 7 | 21.5 | 60 | 17 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -30,26 +30,32 @@
 </details>
 
 **Current**
-- Portland added Ja Morant and Jrue Holiday, has Damian Lillard back and gets a full season of Scoot Henderson. All are on-ball guards. (fact, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=354), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=990), [06-29](https://youtu.be/bHA-JoW3reE?t=360), [10-09](https://youtu.be/-DN4P92Wp8Y?t=370), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559), [07-13](https://youtu.be/Rqb5GdrSweY?t=1825))
-- Experts see fair value around rank 45 to 60 and about 23 USD in an auction. A pick in the mid-30s is too early, and ESPN's 5th place in its category-league ranking makes no sense. (verdict, 2026-10-09; [10-09](https://youtu.be/-DN4P92Wp8Y?t=354), [10-05](https://youtu.be/Q6YlQDvD-aY?t=2047), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [09-30](https://youtu.be/BjXP9JODDSg?t=662), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2652), [08-11](https://youtu.be/OdDkXFhoKsc?t=968), [06-29](https://youtu.be/bHA-JoW3reE?t=1016))
-- Portland has a new head coach this season. (fact, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
-- Experts agree his usage and assists will drop. He becomes the third distributor in the starting group. Projections put his usage at about 24 to 26% and his scoring at about 20 points per game. (verdict, 2026-10-04; [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=990), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1119), [06-29](https://youtu.be/bHA-JoW3reE?t=360), [08-26](https://youtu.be/sTtFUy7IoJI?t=2194))
-- Experts flag iffy shooting percentages. Lower usage might help his three-point shooting recover. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102))
-- His minutes and starting role are seen as safe even as his usage falls. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=742))
-- Portland has three back-to-backs in the fantasy playoffs. (fact, 2026-08-16; [08-16](https://youtu.be/gf_6GveiAls?t=1037))
-- He is in the projected starting five with Lillard, Morant, Camara and Clingan. Portland is short on forwards, and he and Camara are basically its only forwards. (fact, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=204), [08-11](https://youtu.be/YJk7ZFKFqnI?t=477), [06-29](https://youtu.be/bHA-JoW3reE?t=227))
-- Minutes and usage across Portland's rotation are expected to swing from game to game. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=2022))
+- Portland brought back Damian Lillard, added Ja Morant and Jrue Holiday, and gets a full season of Scoot Henderson. The team also has a new, first-time head coach. (fact, 2026-10-15; [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [10-09](https://youtu.be/-DN4P92Wp8Y?t=354), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [06-29](https://youtu.be/bHA-JoW3reE?t=360), [10-15](https://youtu.be/8paKnhgNbLg?t=329), [10-04](https://youtu.be/n4KkK-OJjqA?t=1559))
+- Experts agree his usage and assists will drop with Lillard, Morant, Holiday and Henderson handling the ball. He is no longer the main point forward and becomes the third distributor in the starting group. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=353), [10-15](https://youtu.be/8paKnhgNbLg?t=408), [08-11](https://youtu.be/YJk7ZFKFqnI?t=990), [06-29](https://youtu.be/bHA-JoW3reE?t=360), [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [09-10](https://youtu.be/dlo7L8Ru91A?t=742), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [08-11](https://youtu.be/OdDkXFhoKsc?t=968), [10-13](https://youtu.be/OsbUAkSeVB4?t=658))
+- He is a projected starter at forward. Portland is short on forwards, and the rotation is thin after the eighth man. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=294), [10-15](https://youtu.be/8paKnhgNbLg?t=1282), [06-29](https://youtu.be/bHA-JoW3reE?t=227), [08-11](https://youtu.be/YJk7ZFKFqnI?t=204))
+- The newest call projects him around 46th. The right spot is round three, more likely round four, and never round two. Mock drafts agree: round 4 or picks 44 to 49 are fair, and pick 34 to 36 is too early. ESPN's rank of 60 is too low. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=512), [10-13](https://youtu.be/OsbUAkSeVB4?t=658), [10-12](https://youtu.be/w66x_I_MaQ8?t=804), [10-10](https://youtu.be/hviT4hzYNME?t=803), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577), [09-30](https://youtu.be/BjXP9JODDSg?t=662), [09-17](https://youtu.be/ahNxsoU8Hx4?t=2652), [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/OdDkXFhoKsc?t=968))
+- Portland plays 10 games in our fantasy playoff weeks, a weak total, with three back-to-backs in those weeks. The team has 15 back-to-backs this season and a five-game week starting February 8. (fact, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=1828), [08-16](https://youtu.be/gf_6GveiAls?t=1037), [08-16](https://youtu.be/gf_6GveiAls?t=1310))
+- Shaedon Sharpe is out. (fact, 2026-10-13; [10-13](https://youtu.be/OsbUAkSeVB4?t=658), [10-13](https://youtu.be/OsbUAkSeVB4?t=658))
+- Sharpe being out should help Avdija, but a full repeat of last season is not expected. (verdict, 2026-10-13, until Shaedon Sharpe returns; [10-13](https://youtu.be/OsbUAkSeVB4?t=658), [10-13](https://youtu.be/OsbUAkSeVB4?t=658))
+- In an auction mock draft, an expert who is lower on him than others bought him for 23 USD and did not see it as an overpay. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=2047))
+- Projections put his usage at about 24 to 26 percent and his scoring at around 20 points per game. His assists should fall below 7 per game. (verdict, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1119), [09-10](https://youtu.be/dlo7L8Ru91A?t=742))
+- His minutes and role are seen as safe even with the drop in usage. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=742))
+- He shot under 32 percent from three last season and got worse late in the season, partly because of a back injury. (fact, 2026-09-10; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [09-10](https://youtu.be/W-R1dzem32s?t=1034))
+- Lower usage might bring his three-point shooting back up. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102))
 
 **Durable**
-- Turnovers are his clear weak category. They are a league outlier, so they fit a punt TO build. (fact, 2026-10-11; stats)
-- His value has depended on huge usage. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=844))
-- He had a back injury late in the 2025-26 season. His play and his three-point shooting dropped after it. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577))
+- Turnovers are his clear weak category, far worse than the league pool and his position. (fact, 2026-10-16; stats)
+- His fantasy profile is assists plus above-average rebounds for a forward. Free throws are not his selling point. (verdict, 2026-10-15; [10-15](https://youtu.be/8paKnhgNbLg?t=496), stats)
+- He had a back injury last season, and he played poorly after it. (fact, 2026-10-04; [09-10](https://youtu.be/W-R1dzem32s?t=1034), [08-11](https://youtu.be/YJk7ZFKFqnI?t=1102), [10-04](https://youtu.be/n4KkK-OJjqA?t=1577))
+- His value depends on high usage. His percentages are iffy, and his line needed a huge on-ball role. (verdict, 2026-09-14; [09-14](https://youtu.be/LM0cRCGoAUQ?t=844), [06-29](https://youtu.be/bHA-JoW3reE?t=360))
 - At his best he is a relentless downhill driver and passer. (verdict, 2026-08-11; [08-11](https://youtu.be/YJk7ZFKFqnI?t=1038))
 
 **Tags**
-- Current: `usage competition` (Morant, Lillard, Holiday and Henderson handle the ball), `role down` (lower usage and fewer assists expected), `bust candidate` (at a mid-30s pick or ESPN's 5th category-league rank), `sites disagree on price` (Yahoo value 24 USD, ESPN value 7 USD), `new coach`, `shared ball handling` (Morant, Lillard, Holiday, Avdija and Henderson share playmaking), `unsettled rotation` (minutes and usage expected to swing from game to game), `small-ball lineups` (guard-heavy roster, short on forwards)
-- Durable: `high TO` (about 3.3 TO per game projected), `punt TO fit`, `usage dependent` (needed huge usage for his value)
+- Current: `role down` (Usage and assists expected to drop with Lillard, Morant, Holiday and Henderson on the roster), `usage competition` (Shares the ball with Lillard, Morant, Holiday and Scoot Henderson), `new coach` (First-time head coach may mix up the lineup), `thin rotation` (Thin after the eighth man, especially at forward), `bad playoff schedule` (10 games in weeks 19 to 21 with three back-to-backs), `sites disagree on price` (Yahoo value 24 USD and rank 42, ESPN value 7 USD and rank 60)
+- Durable: `usage dependent` (Needed huge usage to post last season's line), `high TO` (About 3.3 turnovers per game projected), `punt TO fit`
 
-**Note.** Yahoo values him at 24 USD and ranks him 42nd. ESPN values him at only 7 USD, and he went for 17 USD in our league last season. The experts' price of about 20 to 23 USD, around rank 45 to 60, looks right, so do not chase him into the mid-30s. He fits a punt TO build best: his points, rebounds and assists for a G/F stay useful while his 3.3 projected turnovers hurt. Early in the season, check how much usage and how many assists he keeps next to Morant and Lillard, and whether his shooting recovers now that the back injury is behind him.
+**Note.** Experts agree he loses usage and assists to Lillard, Morant, Holiday and Henderson. The newest call puts him around 46th, a round three to four player, which fits a price near our league's 17 USD from last season and the Yahoo average cost of 17. A mock auction paid 23 USD, and Yahoo's 24 USD value is the ceiling. With about 3.3 turnovers per game he fits punt TO builds best, and he still gives frontcourt assists and rebounds. Early in the season, check his assist and usage numbers next to Lillard and Morant, whether his three-point shooting recovers, and how long Sharpe is out. Portland's weak 10-game playoff schedule is a reason to sell him before the 2027-03-04 deadline if his value holds.
 
-<sub>16 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>Tags removed by the category check: AST from a big (not a F/C with AST z >= +1.5 vs position).</sub>
+
+<sub>23 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

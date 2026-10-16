@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 35 | 29.8 | 20 | 44 | 37.2 | 16 | 38 |
+| 2026-27 | 35 | 30.9 | 20 | 44 | 35.7 | 16 | 38 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,34 +25,37 @@
 | AST | 5.0 | +1.0 | +0.6 | - |
 | STL | 1.6 | +1.9 | +1.5 | - |
 | BLK | 0.8 | +0.4 | +2.0 | - |
-| TO | 2.2 | -0.8 | -0.6 | - |
+| TO | 2.2 | -0.8 | -0.5 | - |
 
 </details>
 
 **Current**
-- In an auction mock, Josh valued him at about 40 USD. He went for 35 USD, which Josh did not call an overpay. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1401))
-- Fred VanVleet is back, so Thompson moves off point guard and plays less of the lead ball handler role. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=552), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012), [08-19](https://youtu.be/J1Eg3uaAICU?t=1215), [09-07](https://youtu.be/gJUBAJaHzlU?t=721), [09-09](https://youtu.be/7BllEsdNLoM?t=1259))
-- He is a projected starter next to VanVleet, Durant, Jabari Smith Jr. and Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- Experts expect the role change to cost him about one assist per game. They expect his blocks to come back toward 0.9, his steals to rise a little and his FG% to reach 55 or 56%. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=552), [09-07](https://youtu.be/gJUBAJaHzlU?t=721), [09-09](https://youtu.be/7BllEsdNLoM?t=1259), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012), [08-19](https://youtu.be/J1Eg3uaAICU?t=1215))
-- Most experts call him a second-round player in category leagues. Lloyd's newest call: mid-to-late second round if his blocks and FG% improve, otherwise a third-round pick around 28 to 30. He calls ESPN's rank of 13 slightly aggressive. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=613), [09-23](https://youtu.be/C4vlgpJ62NI?t=1689), [09-17](https://youtu.be/ahNxsoU8Hx4?t=403), [09-10](https://youtu.be/W-R1dzem32s?t=599), [09-07](https://youtu.be/gJUBAJaHzlU?t=699), [08-19](https://youtu.be/J1Eg3uaAICU?t=1215), [09-01](https://youtu.be/80kfLVnFQ_s?t=602), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012))
+- He is falling in drafts, possibly because of his preseason. (fact, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=462))
+- Josh values him close to 40 USD. In an auction mock he went for 35 USD, which Josh did not call an overpay. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1401))
+- Fred VanVleet is back, so Thompson moves off point guard and plays closer to the rim. (fact, 2026-10-01; [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012), [10-01](https://youtu.be/aLP080hxizA?t=552), [09-09](https://youtu.be/7BllEsdNLoM?t=1259), [09-07](https://youtu.be/gJUBAJaHzlU?t=721))
+- He is in the projected starting five with VanVleet, Kevin Durant, Jabari Smith Jr. and Alperen Sengun. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
+- With less time at point guard, his assists may drop by about one per game. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=552), [09-09](https://youtu.be/7BllEsdNLoM?t=1259), [09-07](https://youtu.be/gJUBAJaHzlU?t=721))
+- Off the ball, his blocks, steals and rebounds should come back. Lloyd hopes for about 0.9 blocks and a field goal percentage of 55 to 56%. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=552), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012), [09-09](https://youtu.be/7BllEsdNLoM?t=1259), [09-07](https://youtu.be/gJUBAJaHzlU?t=721), [08-19](https://youtu.be/J1Eg3uaAICU?t=1215))
+- Lloyd says he is a mid-to-late second-round pick in category leagues if his blocks and field goal percentage improve. If not, he is a third-round pick, around 28 to 30. An ESPN rank of 13 is slightly aggressive. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=613))
 - Ime Udoka plays his starters very heavy minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
-- With our March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- With our March 28 end, the Rockets have a weak 3-3-4 fantasy playoff schedule, 10 games over three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- The Rockets have only 14 back-to-backs. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- Houston is predicted to win 54 games. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 
 **Durable**
-- He is an efficient inside scorer, and his FG% is high for a guard. (fact, 2026-10-11; [09-09](https://youtu.be/7BllEsdNLoM?t=1269), stats)
-- His rebounds, steals and blocks are strong for a guard. Threes are his only clearly weak category. (fact, 2026-10-11; stats)
-- Thompson is an elite athlete who does not make threes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=528), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1716), [09-09](https://youtu.be/7BllEsdNLoM?t=1269), [07-07](https://youtu.be/ME-r173X5b0?t=657), stats)
-- Blocks drive his value. He gives rim deterrence on defense, and he gets fewer blocks when he plays point guard. (verdict, 2026-10-01; [08-19](https://youtu.be/J1Eg3uaAICU?t=1186), [10-01](https://youtu.be/aLP080hxizA?t=471), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1716))
+- He is a highly efficient finisher, with a field goal percentage well above other guards. (fact, 2026-10-16; [09-09](https://youtu.be/7BllEsdNLoM?t=1269), stats)
+- He rebounds and blocks shots far more than other guards. (fact, 2026-10-16; stats)
+- He is an elite athlete who makes almost no threes and is far from a reliable outside shot. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=528), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1716), [09-09](https://youtu.be/7BllEsdNLoM?t=1269), [07-07](https://youtu.be/ME-r173X5b0?t=657), stats)
+- His blocks drive his value. He adds rim deterrence, but his blocks drop when he plays point guard. (fact, 2026-10-01; [08-19](https://youtu.be/J1Eg3uaAICU?t=1186), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1716), [10-01](https://youtu.be/aLP080hxizA?t=471))
 - He is worth clearly more in category leagues than in points leagues. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=613), [09-10](https://youtu.be/W-R1dzem32s?t=599), [09-16](https://youtu.be/2A2JbUN-kc0?t=2012))
-- He is a low scorer for his draft range and is unlikely to average 20 points. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1269), [08-11](https://youtu.be/OdDkXFhoKsc?t=490))
+- He is a low scorer for his draft range and is unlikely to score 20 a game. (verdict, 2026-09-09; [09-09](https://youtu.be/7BllEsdNLoM?t=1269), [08-11](https://youtu.be/OdDkXFhoKsc?t=490))
 
 **Tags**
-- Current: `position change` (Moves off point guard with VanVleet back: fewer assists, more blocks expected), `expert target` (Experts rank him above his Yahoo price; Josh values him at about 40 USD), `sites disagree on price` (Yahoo average cost 29.8 USD vs ESPN 37.4 USD), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with the March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (Predicted 54 wins)
-- Durable: `punt 3PM fit` (Threes are his only weak category), `category league player` (Second round in cats, mid third or tier five in points), `heavy starter minutes` (Udoka plays starters heavy minutes), `defense-first` (Ime Udoka)
+- Current: `position change` (moves off point guard with VanVleet back; fewer assists, more blocks and steals expected), `expert target` (Josh values him near 40 USD; Yahoo average cost is 30.9 USD), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21 with a March 28 end), `few back-to-backs` (14 back-to-backs), `winning team` (predicted 54 wins)
+- Durable: `punt 3PM fit`, `REB from a guard` (about 7.7 rebounds per game), `BLK from a guard` (blocks rise when he plays off the ball), `category league player` (tier five in points leagues, second to third round in cats), `heavy starter minutes` (Ime Udoka), `defense-first` (Ime Udoka)
 
-**Note.** The experts value him at 35 to 40 USD. That is between Yahoo's average cost of 29.8 USD and ESPN's 37.4 USD, and close to the 38 USD he went for in our league last season. Bidding up to the high 30s is fair, but Lloyd says he is a third-round pick (about 28 to 30) if his blocks and FG% do not come back. He fits punt 3PM builds best. He helps in FG%, REB, STL and BLK for a guard, but Houston's 10-game playoff schedule is a drawback. In the first weeks, check whether his blocks get back near 0.9 and his FG% gets near 55% now that he is off point guard. Also check how much his 5 assists drop.
+**Note.** The market prices him at 31 to 36 USD (Yahoo average cost 30.9 USD, ESPN 35.7 USD), below the 38 USD our league paid last season and Josh's value of about 40 USD. Since he is sliding in drafts, 35 to 38 USD is a fair price. He fits punt 3PM builds best: he gives strong FG% on 13 shots a game plus rebounds, steals and blocks from a guard slot. In the first weeks, check whether his blocks get back near 0.9 and his FG% reaches 55% now that he is off the ball. Also keep in mind that Houston's 3-3-4 playoff schedule is weak.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.3 per game).</sub>
 
-<sub>19 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>20 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

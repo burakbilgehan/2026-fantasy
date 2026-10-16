@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 4 | 1.0 | 99 | 4 | 1.6 | 83 | 1 |
+| 2026-27 | 4 | 1.0 | 100 | 4 | 1.7 | 83 | 1 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -22,35 +22,36 @@
 | 3PM | 2.0 | +0.6 | +0.6 | - |
 | PTS | 13.8 | -0.1 | -0.0 | - |
 | REB | 6.1 | +0.4 | +0.5 | - |
-| AST | 1.6 | -0.9 | -0.8 | - |
+| AST | 1.6 | -0.8 | -0.8 | - |
 | STL | 0.9 | -0.1 | -0.0 | - |
 | BLK | 1.0 | +0.9 | +1.2 | - |
-| TO | 0.9 | +1.0 | +0.9 | - |
+| TO | 0.9 | +1.0 | +1.0 | - |
 
 </details>
 
 **Current**
-- DeRozan, Westbrook and Schroder are no longer on the Kings. LaVine and Sabonis remain. (fact, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=407), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [07-20](https://youtu.be/-KS_AZjZnw4?t=1254), [09-17](https://youtu.be/DubdKKhMWHo?t=908))
-- The Kings are projected near the bottom of the league, with Vegas at about 21.5 to 22.5 wins. Experts disagree on whether they will sit veterans or keep trying to win to avoid the relegation zone. (verdict, 2026-10-08; [10-08](https://youtu.be/6DnRWahYrFA?t=407), [07-31](https://youtu.be/oEywzBZfAvY?t=2438), [10-04](https://youtu.be/n4KkK-OJjqA?t=1291), [07-20](https://youtu.be/-KS_AZjZnw4?t=1337))
-- Josh is happy to take him in round 10 and expects about a top 100 season. Pick 93 is too early in a regular draft, and ESPN's rank of 83 is too high. An ADP of about 122 is too late. (verdict, 2026-10-05; [10-05](https://youtu.be/BiIZsSypx7Y?t=3370), [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
-- Experts disagree on his usage. Josh and the power forward rankings expect more usage and big minutes now that the Kings cleared out shots. Lloyd sees him as about the third option behind LaVine and Sabonis, with no big usage jump, no 20 points a game and a heavy defensive load. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [07-31](https://youtu.be/oEywzBZfAvY?t=1955), [09-10](https://youtu.be/dlo7L8Ru91A?t=1648))
-- Experts doubt his 1.6 blocks per game from last season will hold, and doubt his shooting will return. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
-- The Kings may still trade Sabonis or LaVine, the two players who limit his usage. (fact, 2026-09-21; [09-21](https://youtu.be/egRrai3Ax38?t=392), [09-14](https://youtu.be/t4n9MAP2_14?t=976), [09-09](https://youtu.be/7BllEsdNLoM?t=2174), [09-10](https://youtu.be/W-R1dzem32s?t=1760), [09-10](https://youtu.be/dlo7L8Ru91A?t=1648))
-- If he reaches about 20 percent usage and shoots better, he can easily beat his draft spot. (verdict, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
-- He is a projected starter at forward next to Acuff, LaVine, Hunter and Sabonis. Nobody is pushing that group for a starting spot. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=691), [07-01](https://youtu.be/W3THnI7wWdA?t=1324))
-- He is 26 and in the first year of a 5-year, 140 million USD contract. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1894))
-- Ham says this is the season he has to prove himself. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1894))
+- Murray is a projected starter at forward. The projected starting five is Acuff, LaVine, Murray, Simmons and Sabonis. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=315))
+- Experts doubt that his high block rate from last season will hold, especially with Ben Simmons in the starting lineup. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=939), [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056), [09-10](https://youtu.be/dlo7L8Ru91A?t=1672))
+- Draft him around pick 90. His upside is about 60th. (verdict, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=939), [10-12](https://youtu.be/w66x_I_MaQ8?t=1292), [10-05](https://youtu.be/BiIZsSypx7Y?t=3370))
+- The Kings are one of the worst teams in the NBA. Their poor coaching, ownership and front office make the rotation hard to predict. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=68), [10-08](https://youtu.be/6DnRWahYrFA?t=407))
+- With a March 28 end, the Kings play 4, 4 and 3 games in our playoff weeks. That is 11 games. They have 14 back-to-backs this season. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=1824))
+- He has not played in preseason and had ankle issues in camp. (fact, 2026-10-10; [10-10](https://youtu.be/hviT4hzYNME?t=1609))
+- Westbrook, Schroder and DeRozan have left the Kings, which frees usage for Murray. (fact, 2026-10-02; [09-14](https://youtu.be/LM0cRCGoAUQ?t=1326), [10-02](https://youtu.be/ZYllcj4o6_A?t=275))
+- Experts expect more usage and big minutes, enough for about a top 100 season. (verdict, 2026-10-02; [10-02](https://youtu.be/ZYllcj4o6_A?t=275), [09-14](https://youtu.be/LM0cRCGoAUQ?t=2056))
+- LaVine and Sabonis are still on the team and take many of the shots and touches, which limits his usage. (fact, 2026-09-10; [09-10](https://youtu.be/dlo7L8Ru91A?t=1648))
+- He is 26 and in the first year of a 5-year, 140 million USD contract. Coach Ham says this is the year he has to prove himself. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1894))
 
 **Durable**
-- He is a better category league player than points league player. (verdict, 2026-09-01; [08-24](https://youtu.be/g31YlwRe0XQ?t=2062), [09-01](https://youtu.be/80kfLVnFQ_s?t=1611))
-- A finger injury early and an ankle injury late cost him most of the 2025-26 season. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1725))
-- He has made big strides as a defender and rebounder. In a small sample he blocked many shots and defended well. (verdict, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1751), [07-31](https://youtu.be/oEywzBZfAvY?t=1815))
-- The shooting from his rookie season has not come back. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1751))
+- He has shot poorly from three every season since his rookie year. The shooting he showed as a rookie has not come back. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=878), [07-31](https://youtu.be/oEywzBZfAvY?t=1751))
+- His usage rate has never reached 20. (fact, 2026-10-15; [10-15](https://youtu.be/PrrgoTEcao4?t=878))
+- Last season he missed most of the year. A finger injury hurt him early and an ankle injury hurt him late. (fact, 2026-10-10; [07-31](https://youtu.be/oEywzBZfAvY?t=1725), [10-10](https://youtu.be/hviT4hzYNME?t=1609))
+- He is worth more in category leagues than in points leagues. (verdict, 2026-09-01; [08-24](https://youtu.be/g31YlwRe0XQ?t=2062), [09-01](https://youtu.be/80kfLVnFQ_s?t=1611))
+- In a small sample last season he blocked many shots and defended well. Coach Ham says he has made big strides as a defender and rebounder. (fact, 2026-07-31; [07-31](https://youtu.be/oEywzBZfAvY?t=1751), [07-31](https://youtu.be/oEywzBZfAvY?t=1815))
 
 **Tags**
-- Current: `injury last season` (finger and ankle injuries in 2025-26), `regression risk` (1.6 blocks per game in a small 2025-26 sample expected to drop), `sleeper` (round 10 value; ADP around 120 seen as a little late), `usage freed` (DeRozan, Westbrook and Schroder gone), `usage competition` (LaVine and Sabonis; Lloyd sees him as third option), `bottom team` (Vegas about 21.5 to 22.5 wins), `trades likely` (Sabonis or LaVine could be traded)
-- Durable: `fits every build` (no category flagged weak; FG% and AST are his softest spots), `category league player`
+- Current: `role up` (More usage expected after Westbrook, Schroder and DeRozan left), `usage freed` (Westbrook, Schroder and DeRozan gone), `usage competition` (LaVine and Sabonis), `regression risk` (Last season's 1.6 blocks expected to drop, especially with Simmons starting), `injury last season` (Finger and ankle injuries, 23 games), `bottom team`, `unsettled rotation` (Kings rotations are hard to predict)
+- Durable: `fits every build` (No weak category flag. His weakest categories are FG% and AST.), `category league player`
 
-**Note.** Both sites value him at 4 USD, his average cost is only 1.0 to 1.4 USD, and he went for 1 USD in our league last season. With a Yahoo rank of 99 and an ESPN rank of 83, he is a cheap late target worth 1 to 4 USD as a round 10 forward. No category is flagged weak, so he fits any build, with threes, blocks and few turnovers making up for a soft 44 FG% and 1.6 assists. Early in the season, check whether his blocks stay near 1 per game (not the 1.6 he posted in only 23 games last season), whether his FG% gets back to 44 to 45, and whether a Sabonis or LaVine trade gives him more shots.
+**Note.** At Yahoo rank 100 and ESPN rank 83, Murray is a late pick in our 144-player draft. The markets price him at only 1.0 USD (Yahoo) and 1.7 USD (ESPN), and he went for 1 USD in our league last season, so he is a cheap end-of-auction buy with upside to about 60th. He fits every build because no category is weak, and he does not anchor any category either. Check three things early: his ankle (he missed preseason), whether his blocks hold next to Simmons, and whether his usage really goes up now that Westbrook, Schroder and DeRozan are gone.
 
-<sub>12 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>16 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

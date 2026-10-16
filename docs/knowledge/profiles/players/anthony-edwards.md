@@ -11,7 +11,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 50 | 59.1 | 9 | 60 | 60.5 | 5 | 55 |
+| 2026-27 | 50 | 56.8 | 9 | 60 | 60.2 | 5 | 55 |
 
 <details><summary>Category profile (code)</summary>
 
@@ -25,37 +25,37 @@
 | AST | 3.8 | +0.3 | -0.1 | - |
 | STL | 1.3 | +1.1 | +0.8 | - |
 | BLK | 0.8 | +0.3 | +1.7 | - |
-| TO | 3.0 | -1.8 | -1.6 | league outlier, weak, weak for his position (punt fit) |
+| TO | 3.0 | -1.9 | -1.6 | league outlier, weak, weak for his position (punt fit) |
 
 </details>
 
 **Current**
-- Picks 7 to 8 are a fair range for him in 9-cat, with Tatum and Giannis clearly ahead. ESPN's rank of 5 is too high. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=345))
-- Minnesota's two-game week in the middle of the fantasy playoffs drops him to the bottom of his tier, behind Tatum, Giannis and Cade Cunningham. Experts say to move him down in close calls. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1935), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942), [08-16](https://youtu.be/gf_6GveiAls?t=1412), [08-19](https://youtu.be/J1Eg3uaAICU?t=397))
-- With the season ending March 28, Minnesota plays 4, 2 and 4 games in fantasy playoff weeks 19 to 21. The two-game week starts March 15. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928))
-- Minnesota has 13 back-to-backs this season, the league minimum. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
-- Minnesota traded for LaMelo Ball. Julius Randle and Naz Reid are gone, and the team now plays smaller, guard-heavy lineups. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [10-09](https://youtu.be/cFV24VgxyCY?t=82), [06-25](https://youtu.be/ya2VYRJ1BN0?t=333))
-- Next to Ball he should play more off the ball, with more catch-and-shoot threes and fewer assists. (verdict, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=1129), [07-17](https://youtu.be/NYTH7uQsPCM?t=1581), [10-09](https://youtu.be/cFV24VgxyCY?t=359))
-- His usage may still go up, and with the smaller lineups his rebounds could rise to about 5 per game. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=359), [10-09](https://youtu.be/cFV24VgxyCY?t=156))
-- If his free throws recover to 84 to 85%, he is about 11th overall. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=394))
-- Josh values him at 40 USD or more in auctions. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=974))
-- He sold for 45 USD in an expert mock auction. (fact, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=974))
-- He should be more efficient with Ball taking some of the offensive load. He is projected for about 31% usage and 35 minutes. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=523), [09-10](https://youtu.be/W-R1dzem32s?t=289))
+- Minnesota plays 4, 2 and 4 games in our playoff weeks 19 to 21. The two-game week starts March 15, which is our semifinal week. (fact, 2026-10-14; [10-09](https://youtu.be/cFV24VgxyCY?t=1878), [08-16](https://youtu.be/gf_6GveiAls?t=1635), [08-16](https://youtu.be/gf_6GveiAls?t=1412), [08-19](https://youtu.be/2mxpEpGU3H8?t=1928), [10-13](https://youtu.be/EogBYa24Gto?t=369), [08-19](https://youtu.be/J1Eg3uaAICU?t=397), [09-22](https://youtu.be/QbdrhJd7LiA?t=2006), [10-14](https://youtu.be/D4dP5JvX1oo?t=73))
+- The two-game semifinal week drops him to the bottom of his tier, behind Jayson Tatum, Giannis Antetokounmpo and Cade Cunningham. Picks 7 to 10 are reasonable. ESPN's rank of 5 is too high. (verdict, 2026-10-14; [10-09](https://youtu.be/cFV24VgxyCY?t=345), [10-09](https://youtu.be/cFV24VgxyCY?t=1935), [10-14](https://youtu.be/D4dP5JvX1oo?t=73), [10-13](https://youtu.be/EogBYa24Gto?t=369), [08-16](https://youtu.be/gf_6GveiAls?t=1497), [08-19](https://youtu.be/2mxpEpGU3H8?t=1942))
+- Minnesota traded away Julius Randle and Naz Reid and added LaMelo Ball. Ball, Edwards, Jaden McDaniels and Rudy Gobert are set as four of the five starters. (fact, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=236), [08-19](https://youtu.be/2mxpEpGU3H8?t=603), [07-01](https://youtu.be/W3THnI7wWdA?t=828), [10-09](https://youtu.be/cFV24VgxyCY?t=82))
+- With Ball on the team, Edwards is expected to play more off the ball. His catch-and-shoot volume should go up and his assists should go down. (verdict, 2026-10-09; [08-19](https://youtu.be/2mxpEpGU3H8?t=1129), [07-17](https://youtu.be/NYTH7uQsPCM?t=1581), [07-17](https://youtu.be/NYTH7uQsPCM?t=1559), [10-09](https://youtu.be/cFV24VgxyCY?t=359))
+- His usage may go up, and he is expected to be more efficient with Ball taking some of the offensive load. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=359), [09-16](https://youtu.be/2A2JbUN-kc0?t=523))
+- Minnesota plays smaller now and has very thin big man depth. Its starting group may include three guards. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=82), [10-09](https://youtu.be/cFV24VgxyCY?t=1759), [08-19](https://youtu.be/2mxpEpGU3H8?t=845))
+- With the smaller lineups and Randle and Reid gone, his rebounds could rise to about 5 per game. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=359), [10-09](https://youtu.be/cFV24VgxyCY?t=156))
+- Minnesota has 13 back-to-backs, which is the league minimum. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=1878))
+- If his free throws recover to 84 to 85%, he is probably about 11th overall. (verdict, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=394))
+- In auction terms, Josh sees him as a player worth 40 USD or more. He went for 45 USD in an auction mock. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=974))
 - Coach Chris Finch said the team did Edwards a disservice by playing him on the ball so much. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1129))
-- Minnesota is expected to compete, with a 53-win prediction, so resting players to tank is unlikely. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- Minnesota is expected to compete and win about 53 games, so it should not rest players to tank. (verdict, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1830), [07-13](https://youtu.be/Rqb5GdrSweY?t=1051))
+- Ball and Edwards should both be able to keep their three-point volume. (verdict, 2026-07-07; [07-07](https://youtu.be/ME-r173X5b0?t=525), [07-07](https://youtu.be/ME-r173X5b0?t=269))
 
 **Durable**
-- He has never finished as a top 10 fantasy player in any format, even though he is drafted there. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=300))
-- He is normally a good free throw shooter. Last season's mark was below his usual level. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=394))
-- He had an iron man reputation, but he missed enough games last season to fall short of All-NBA eligibility. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=313), [08-09](https://youtu.be/8d--aL_xxwE?t=862))
-- Points and threes are his standout categories, both far above the top 250 pool. He shoots threes at high volume at around 40% and is a strong catch-and-shoot shooter. (fact, 2026-08-19; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=1105))
-- Turnovers are his weak category at about 3 per game, and they have stayed fairly flat over the years. (fact, 2026-08-19; stats, [08-19](https://youtu.be/2mxpEpGU3H8?t=1068))
-- His assist rate has fallen in each of the last three seasons. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1068))
+- Points and threes are his standout categories, both far above the top 250 pool. Turnovers are his clear weakness, even for a guard. (fact, 2026-10-16; stats)
+- He has never been a top 10 fantasy player in any format, even though he is drafted there. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=300))
+- He was a good free throw shooter, around 84%, before last season's drop to under 80%. (fact, 2026-10-09; [10-09](https://youtu.be/cFV24VgxyCY?t=394), stats)
+- He had a reputation for never missing time, with 79 games in each of the two seasons before last. He was hurt a lot last season and missed enough games to miss All-NBA eligibility. (fact, 2026-09-10; [09-10](https://youtu.be/W-R1dzem32s?t=313), [08-09](https://youtu.be/8d--aL_xxwE?t=862), stats)
+- He shoots threes at high volume, at around 40%. Two years ago he was the best catch-and-shoot shooter in the NBA. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1105))
+- His assist rate has fallen in each of the last three years. His turnovers have stayed fairly flat. (fact, 2026-08-19; [08-19](https://youtu.be/2mxpEpGU3H8?t=1068))
 
 **Tags**
-- Current: `questionable` (Yahoo status Q (Rest)), `injury last season` (Played 61 games after a long iron man run), `bad playoff schedule` (4, 2, 4 games in weeks 19 to 21; two-game week starts March 15), `few back-to-backs` (13 back-to-backs, the league minimum), `usage competition` (Shares the ball with LaMelo Ball; fewer assists expected), `small-ball lineups` (Guard-heavy starts could lift his rebounds to about 5), `winning team` (53 wins predicted), `low shutdown risk` (Minnesota is competing and is not expected to tank), `sites disagree on price` (Yahoo value 50 USD and rank 9; ESPN value 60 USD and rank 5)
-- Durable: `3PM specialist` (About 3.6 threes per game at around 40%), `PTS specialist` (About 29 points per game projected), `high TO` (About 3 turnovers per game), `punt TO fit` (Turnovers are his only weak category)
+- Current: `usage competition` (LaMelo Ball takes on-ball time, so assists should drop), `position change` (moves to a more off-ball role next to Ball, with more catch-and-shoot threes), `injury last season` (played 61 games after years of near-full seasons), `bad playoff schedule` (two-game week starting March 15 (week 20, semifinal); 4, 2, 4 games in weeks 19 to 21), `few back-to-backs` (13 back-to-backs, the league minimum), `winning team` (projected for about 53 wins), `low shutdown risk` (competitive team, not expected to tank), `small-ball lineups` (may start three guards; his rebounds could rise to about 5)
+- Durable: `PTS specialist` (about 29 points per game projected), `3PM specialist` (about 3.6 threes per game at high volume), `high TO` (about 3 turnovers per game), `punt TO fit` (turnovers are his only weak category)
 
-**Note.** He costs about 59 USD on both sites and went for 55 USD in our league last season. Experts put him at picks 7 to 8 and about 40 to 45 USD at auction, and the two-game playoff semifinal week pushes him lower, so do not pay ESPN's 60 USD value. He fits a punt TO build best, adding elite points and threes. Early in the season, check whether his FT% gets back to 84 to 85% and how his usage and assists hold up next to LaMelo Ball.
+**Note.** The market puts him near the top of the first round (Yahoo rank 9 at 56.8 USD average cost, ESPN rank 5 at 60 USD, 55 USD in our league last year). The experts put him at picks 7 to 10 and about 40 to 45 USD in auctions, because Minnesota has only two games in our semifinal week. Paying 60 USD is too much. Points and threes are his standout categories and turnovers are his only weak one, so he fits punt TO builds best. Early in the season, check whether his free throws get back toward 84% and how far his assists drop next to LaMelo Ball.
 
-<sub>29 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>31 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

@@ -8,15 +8,15 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "b258c45751f8",
- "note_count": 3,
- "built_at": "2026-10-11T09:20:43+00:00",
+ "input_sha": "2181edaead23",
+ "note_count": 4,
+ "built_at": "2026-10-16T09:07:48+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16994520000000002,
-  "duration_ms": 33129,
-  "turns": 3,
+  "cost_usd_list": 0.1388262,
+  "duration_ms": 27817,
+  "turns": 2,
   "denied": 0
  },
  "current": [
@@ -30,7 +30,17 @@
    ]
   },
   {
-   "text": "Too many guards are ahead of him in Phoenix for him to make a fantasy impact.",
+   "text": "He comes off the bench. The projected starters are Jalen Green, Devin Booker, Dillon Brooks, Miles Bridges and Oso Ighodaro.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t1",
+    "MRzebgip23Y:t2"
+   ]
+  },
+  {
+   "text": "Too many guards are ahead of him in Phoenix for him to make a real fantasy impact.",
    "kind": "verdict",
    "date": "2026-07-02",
    "until": "",
@@ -39,17 +49,17 @@
    ]
   },
   {
-   "text": "Booker, Jalen Green, Miles Bridges and Dillon Brooks are expected to take most of the Suns' minutes and usage, which leaves little room for bench guards.",
+   "text": "Booker, Green, Brooks, Bridges and Gillespie are expected to take most of the Suns' touches, which leaves little usage for bench players.",
    "kind": "verdict",
    "date": "2026-10-09",
    "until": "",
    "sources": [
-    "-DN4P92Wp8Y:t7",
-    "uarqbNA2dFk:t1"
+    "uarqbNA2dFk:t1",
+    "-DN4P92Wp8Y:t7"
    ]
   },
   {
-   "text": "Ben expects him to come off the bench and take about eight threes a game, making about 40 to 41% of them. That would be more volume at a lower percentage than before.",
+   "text": "One expert expects him to shoot about 40 to 41% from three on around eight attempts a game off the bench. That would mean more volume at a lower percentage.",
    "kind": "verdict",
    "date": "2026-08-23",
    "until": "",
@@ -58,27 +68,55 @@
    ]
   },
   {
-   "text": "Ben worries that the Suns' projected starting lineup has no reliable three-point shooting.",
+   "text": "His fantasy role is a three-point streamer who sometimes adds assists.",
    "kind": "verdict",
-   "date": "2026-08-23",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:t2"
+    "MRzebgip23Y:p21"
+   ]
+  },
+  {
+   "text": "His Yahoo status is questionable with a knee issue.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
+    "stats"
+   ]
+  },
+  {
+   "text": "Phoenix has the best fantasy schedule in the league. It plays 4-4-4 games in the playoff weeks and has the fewest back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ]
   }
  ],
  "durable": [
   {
-   "text": "Kennard is a pure three-point shooter. He does not get to the rim and is not a mid-range shooter.",
+   "text": "He made 48% of his threes last season but took only about three a game in about 22 minutes.",
    "kind": "fact",
-   "date": "2026-08-23",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
+    "MRzebgip23Y:p21"
+   ]
+  },
+  {
+   "text": "He is one of the best three-point shooters by percentage ever. He is a pure shooter who has always taken too few threes.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p21",
     "hm5-fiCa5S4:p26"
    ]
   },
   {
-   "text": "He has historically taken too few threes for a shooter of his quality.",
+   "text": "He does not get to the rim and is not a mid-range shooter.",
    "kind": "verdict",
    "date": "2026-08-23",
    "until": "",
@@ -99,18 +137,59 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "usage competition",
    "channel": "current",
-   "detail": "Booker, Jalen Green, Bridges and Brooks are ahead of him; a bench shooting role at best",
+   "detail": "Bench shooter behind Booker, Green, Brooks, Bridges and Gillespie",
    "until": "",
    "sources": [
     "P6TNP-g0wzY:p18",
-    "-DN4P92Wp8Y:t7",
-    "uarqbNA2dFk:t1"
+    "uarqbNA2dFk:t1",
+    "-DN4P92Wp8Y:t7"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "questionable",
+   "channel": "current",
+   "detail": "Yahoo Q (Knee)",
+   "until": "",
+   "sources": [
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "Three-point streamer, not a draft target",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p21",
+    "P6TNP-g0wzY:p18"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "PHX plays 4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "PHX has the fewest back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ],
    "new_meaning": ""
   }
  ],
- "note": "He ranks 259 on Yahoo and 221 on ESPN with a value of 0 USD on both sites, so he falls well outside the 144 players drafted in our league and should not be drafted. His projected line gives efficient FG% on low volume and few turnovers (0.8 per game) but little in PTS, REB, AST, STL or BLK. Yahoo's 67.3% FT% projection does not match his 89 to 91% history, and he takes under one free throw a game anyway. Early in the season, check whether he really gets Ben's projected eight three-point attempts a game off the bench. If he does, he can be a waiver streamer for threes.",
+ "note": "Kennard is ranked 262 on Yahoo and 221 on ESPN, and both sites value him at 0 USD. That puts him well outside our 144-player draft, so do not draft him. He is a bench shooter with few turnovers (0.8 a game) and good FG% on low volume (about 53% on under 6 attempts). The Yahoo FT% projection of 67% clashes with his past rate of about 90%. Watch him on waivers early. Check his knee and whether his three-point attempts rise toward the projected eight a game. If they do, Phoenix's 4-4-4 playoff schedule makes him a useful streamer for threes in weeks 19 to 21.",
  "rejected": []
 }

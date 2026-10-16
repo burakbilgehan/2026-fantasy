@@ -11,17 +11,17 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 32 | 33.2 | 22 | 25 | 33.4 | 30 | 36 |
+| 2026-27 | 32 | 33.4 | 22 | 25 | 32.5 | 30 | 36 |
 
 <details><summary>Category profile (code)</summary>
 
 | Category | Per game | z vs pool | z vs position | Flag |
 |---|---|---|---|---|
-| FG% | 51.4% | +1.0 | +0.5 | - |
+| FG% | 51.4% | +1.0 | +0.6 | - |
 | FT% | 69.1% | -2.2 | -1.7 | league outlier, weak, weak for his position (punt fit) |
-| 3PM | 0.5 | -1.2 | -1.0 | - |
+| 3PM | 0.5 | -1.1 | -1.0 | - |
 | PTS | 20.5 | +1.1 | +1.3 | - |
-| REB | 9.2 | +1.7 | +1.3 | - |
+| REB | 9.2 | +1.8 | +1.3 | - |
 | AST | 5.9 | +1.4 | +2.3 | - |
 | STL | 1.2 | +0.8 | +1.2 | - |
 | BLK | 1.0 | +0.8 | +0.3 | - |
@@ -30,36 +30,37 @@
 </details>
 
 **Current**
-- Josh thinks he is worth about 30 USD in an auction. He went for 29 USD in a mock auction. (verdict, 2026-10-05; [10-05](https://youtu.be/Q6YlQDvD-aY?t=1531))
-- Coach Ime Udoka has blamed Sengun's defense for years and tends to limit his minutes. Other bigs sometimes play over him. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262), [09-07](https://youtu.be/E-KmhvyZ2CU?t=657), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667))
-- Houston has more guard depth now, so his minutes could drop from about 33 to 31 or 32. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275))
-- Fred VanVleet is back as the projected starting point guard. The Rockets also added Marcus Smart and Bogdan Bogdanovic to the guard rotation. (fact, 2026-10-01; [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [10-01](https://youtu.be/aLP080hxizA?t=328))
-- With VanVleet back, his assists will likely fall to 5 to 5.5 per game. Last season was already his best shot-blocking year, so blocks will not make up for the lost assists. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=802))
-- He is the projected starting center next to VanVleet, Amen Thompson, Kevin Durant and Jabari Smith Jr. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
-- Lloyd ranks him 24 to 30 in category leagues and a little higher in points leagues. He calls the ADPs reasonable. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=824))
-- With our March 28 end date, the Rockets play 3, 3 and 4 games in weeks 19 to 21, which is 10 games in total. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- That is a weak fantasy playoff schedule. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
-- The Rockets have only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
-- Houston is predicted to win 54 games. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
+- Experts disagree on his draft cost. Lloyd calls his ADP reasonable and ranks him 24 to 30 in category leagues, and Josh puts his auction value close to 30 USD. Others say drafters take him too early, possibly swayed by a preseason triple-double, and one expert regretted taking him at pick 22. (verdict, 2026-10-12; [10-01](https://youtu.be/aLP080hxizA?t=824), [10-05](https://youtu.be/Q6YlQDvD-aY?t=1531), [10-10](https://youtu.be/hviT4hzYNME?t=543), [10-12](https://youtu.be/ENizLoE6pzI?t=2036), [08-11](https://youtu.be/OdDkXFhoKsc?t=483))
+- He is a projected starter at center, next to VanVleet, Thompson, Durant and Smith. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=328), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=357))
+- Coach Ime Udoka has blamed his defense for years. He sometimes plays other bigs over Sengun, which limits his minutes. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275), [09-07](https://youtu.be/E-KmhvyZ2CU?t=657), [09-07](https://youtu.be/E-KmhvyZ2CU?t=667), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-16](https://youtu.be/2A2JbUN-kc0?t=2262))
+- Houston has more guard depth now, so his minutes could drop from 33 to about 31 or 32. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=275))
+- Fred VanVleet is back. His absence boosted Sengun's assists. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=802), [08-19](https://youtu.be/J1Eg3uaAICU?t=1169), [09-07](https://youtu.be/gJUBAJaHzlU?t=1659))
+- His assists will likely fall to 5 to 5.5 with VanVleet back. He had his best shot-blocking year last season, so blocks have no upside to make up for it. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=802))
+- With our March 28 end, Houston has a weak 3-3-4 fantasy playoff schedule: 10 games over weeks 19 to 21. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Houston has only 14 back-to-backs this season. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=2011))
+- He is alone in tier four of the center rankings. You could reasonably take him ahead of Towns or even Barnes. (verdict, 2026-09-14; [09-14](https://youtu.be/t4n9MAP2_14?t=563), [09-14](https://youtu.be/LM0cRCGoAUQ?t=643))
+- Houston added shooting coach Chip Engelland to its staff. He seemed afraid to shoot threes last season. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1653))
+- Engelland may help his outside shooting. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1653))
+- Houston is projected to win 54 games. The team is expected to play it safe in the regular season and not chase seeding. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1780))
 
 **Durable**
-- His turnovers are high for the league and for his position. (fact, 2026-10-11; stats)
-- He has an unusual line for a center: over six assists plus steals and blocks. His assists are far above his position. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), stats)
-- He is a poor free throw shooter, and on his volume that clearly hurts a team's FT%. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=832), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
-- His weaknesses are defense, finishing at the rim, overall efficiency, too many low-percentage mid-range shots, and complaining to officials. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1600))
+- He commits many turnovers, clearly more than other forwards and centers. (fact, 2026-10-16; stats)
+- He is a poor free throw shooter on real volume. FT% is his worst category. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=502), [10-01](https://youtu.be/aLP080hxizA?t=832), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), stats)
+- He gives guard-like assists from the center spot. Steals and blocks plus over six assists make his stat line unusual. (verdict, 2026-10-11; [10-11](https://youtu.be/uI6umXsE7Vk?t=502), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [10-01](https://youtu.be/aLP080hxizA?t=771), stats)
+- He makes very few threes, and his three-point shot will probably never come around. (verdict, 2026-10-11; [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [10-11](https://youtu.be/uI6umXsE7Vk?t=502))
+- He is not a big shot blocker. Experts differ on his steals, from decent to little help. (verdict, 2026-10-11; [09-16](https://youtu.be/2A2JbUN-kc0?t=2251), [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [10-11](https://youtu.be/uI6umXsE7Vk?t=502))
+- His defense is a concern, and that matters under a defense-first coach who gives little room for error. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=771), [10-01](https://youtu.be/aLP080hxizA?t=275), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152))
 - He is worth more in points leagues than in category leagues. (verdict, 2026-10-01; [09-14](https://youtu.be/LM0cRCGoAUQ?t=643), [08-19](https://youtu.be/J1Eg3uaAICU?t=811), [10-01](https://youtu.be/aLP080hxizA?t=824))
-- He makes very few threes, and his three-point shot will probably never come around. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [09-16](https://youtu.be/2A2JbUN-kc0?t=2251))
-- He gives good FG% and decent steals. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505))
-- He is not a big shot blocker for a center. (verdict, 2026-09-16; [09-16](https://youtu.be/2A2JbUN-kc0?t=2251))
+- He helps FG% on good volume. His weak spots are finishing at the rim, overall efficiency and too many low-percentage mid-range shots. He also complains to officials a lot. (verdict, 2026-09-23; [09-23](https://youtu.be/C4vlgpJ62NI?t=1505), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1600), stats)
 - He is a two-time All-Star who can put up about 20 points, 10 rebounds and 5 assists. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1582))
-- Last season he missed time with back tightness and then an ankle injury. He wore down in the middle of the season after playing EuroBasket. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1469))
+- Last season he missed time with back tightness and then an ankle injury. He wore down in midseason after playing EuroBasket. (fact, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1469))
 
 **Tags**
-- Current: `coach distrust` (Udoka blames his defense and limits his minutes), `role down` (Minutes may drop to 31 or 32 and assists to 5 to 5.5 with VanVleet back), `usage competition` (VanVleet's return cuts his playmaking role), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (14 back-to-backs), `winning team` (Predicted 54 wins)
-- Durable: `AST from a big` (About 6 assists per game as a center), `FT% liability` (About 69% FT on more than 5 attempts per game), `high TO` (About 3 turnovers per game), `punt FT fit`, `punt TO fit`, `points league player`
+- Current: `coach distrust` (Udoka blames his defense and sometimes plays other bigs over him), `role down` (Minutes may drop to 31 or 32, assists to 5 to 5.5 with VanVleet back), `bad playoff schedule` (3-3-4, 10 games in weeks 19 to 21), `few back-to-backs` (14 back-to-backs), `winning team` (Projected 54 wins)
+- Durable: `FT% liability` (About 69% on 5 to 6 attempts a game), `punt FT fit`, `high TO` (About 3 turnovers a game), `punt TO fit`, `AST from a big` (About 6 assists a game as a center), `defensive liability` (Udoka has blamed his defense for years), `points league player` (Experts rate him higher in points leagues than in 9-cat)
 
-**Note.** Yahoo and ESPN average costs are both about 33 USD and our league paid 36 USD last season. Josh puts him near 30 USD and Lloyd ranks him 24 to 30 in category leagues, so do not chase him above about 30 USD. His FT% (z -2.2) and turnovers (z -1.7) drag him down, but he fits punt FT% and punt TO builds well because his assists from the center spot (z +2.3 vs position), rebounds and points stay strong. Early in the season, check whether Udoka keeps him near 33 minutes or cuts him to 31 to 32, and whether his assists hold up with VanVleet back. Also plan around Houston's weak 10-game playoff schedule.
+**Note.** Yahoo values him at 32 USD and ESPN at 25 USD. Both average costs are about 33 USD, and he cost 36 USD in our league last season, so the market pays above the 30 USD that experts and the ESPN value suggest. He fits punt FT% and punt TO builds best, where his assists from center (z +2.3 vs position), rebounds and FG% count fully and his 69% FT and 3 turnovers do not hurt. Early in the season, check whether his minutes slip to 31 or 32 under Udoka and whether his assists fall toward 5 with VanVleet back. Houston's 10-game playoff schedule is also weak.
 
 <sub>Tags removed by the category check: no 3PM (3PM 0.5 per game).</sub>
 
-<sub>18 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>21 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

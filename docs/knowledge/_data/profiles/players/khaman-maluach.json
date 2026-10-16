@@ -8,126 +8,148 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "437b43bd7114",
- "note_count": 12,
- "built_at": "2026-10-11T09:20:13+00:00",
+ "input_sha": "78df7c14f411",
+ "note_count": 15,
+ "built_at": "2026-10-16T09:05:46+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.16753020000000002,
-  "duration_ms": 41529,
+  "cost_usd_list": 0.1782142,
+  "duration_ms": 42061,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Mark Williams is out long term with a torn labrum, with an expected absence of 5 to 6 months.",
+   "text": "Mark Williams is out long term with a torn labrum, which opens center minutes in Phoenix.",
    "kind": "fact",
-   "date": "2026-09-14",
-   "until": "",
+   "date": "2026-10-14",
+   "until": "5 to 6 months from 2026-09-14",
    "sources": [
     "t4n9MAP2_14:t4",
     "LM0cRCGoAUQ:t10",
-    "t4n9MAP2_14:p47"
+    "MRzebgip23Y:t0"
    ]
   },
   {
-   "text": "Oso Ighodaro has started the last two games at center ahead of Maluach. Their minutes are similar.",
+   "text": "The Suns' starting center job is not settled. Oso Ighodaro and Maluach have both started in preseason, and their minutes are similar.",
    "kind": "fact",
-   "date": "2026-10-08",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t0",
+    "WXO8MfQfzo0:t2",
+    "WXO8MfQfzo0:p39"
+   ]
+  },
+  {
+   "text": "The newest projected lineup has Ighodaro starting at center and Maluach on the bench.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t1",
+    "MRzebgip23Y:t2"
+   ]
+  },
+  {
+   "text": "Experts disagree on his role. One sees him as more of a stash who will struggle to reach 24 minutes. Another says he can win the starting job on merit and would draft him over Ighodaro.",
+   "kind": "verdict",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
     "WXO8MfQfzo0:p39",
-    "WXO8MfQfzo0:t2"
+    "MRzebgip23Y:p18"
    ]
   },
   {
-   "text": "Experts expect him to split center minutes with Ighodaro.",
+   "text": "He is projected for about nine extra minutes per game, around 24 a night.",
    "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "t4n9MAP2_14:t4",
-    "BiIZsSypx7Y:p57",
-    "WXO8MfQfzo0:p39"
-   ]
-  },
-  {
-   "text": "The newest call is that he is more of a stash and will struggle to reach 24 minutes a game.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "WXO8MfQfzo0:p39"
-   ]
-  },
-  {
-   "text": "He averaged 18 points, 13 rebounds, 2 blocks and 2 threes in summer league and was a top 10 fantasy player there.",
-   "kind": "fact",
    "date": "2026-08-26",
    "until": "",
    "sources": [
-    "RyzcCGChYgs:p12",
-    "sTtFUy7IoJI:p8"
+    "sTtFUy7IoJI:p9"
    ]
   },
   {
-   "text": "He is a late flyer worth a pick around 120 to 125. Do not take him inside the top 100.",
-   "kind": "verdict",
-   "date": "2026-10-08",
+   "text": "He averaged 18 points and 13 rebounds with 2 blocks and 2 threes in Summer League and was a top 10 fantasy player there.",
+   "kind": "fact",
+   "date": "2026-07-21",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p47",
-    "ZYllcj4o6_A:p14",
-    "WXO8MfQfzo0:p39"
+    "RyzcCGChYgs:p12",
+    "MRzebgip23Y:p17"
    ]
   },
   {
-   "text": "If he wins the starting job, he has top 75 upside.",
+   "text": "The newest expert ranks him around 130 to 155. Experts agree he is a late flyer: do not take him inside the top 100, but round 10 is fine.",
+   "kind": "verdict",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:p16",
+    "ZYllcj4o6_A:p14",
+    "t4n9MAP2_14:p47",
+    "hm5-fiCa5S4:p16",
+    "sTtFUy7IoJI:p9"
+   ]
+  },
+  {
+   "text": "One expert sees top 75 upside if he locks in the starting job.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:p14"
    ]
+  },
+  {
+   "text": "Phoenix has the best fantasy schedule in the league: 4, 4 and 4 games in our playoff weeks and the fewest back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-14",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ]
   }
  ],
  "durable": [
   {
-   "text": "He is a big man who brings rebounds, shot blocking and a good FG%, and he can stretch the floor. Experts call him a strong defender and expect him to be an okay free throw shooter.",
+   "text": "He profiles as a FG%, rebounds and blocks big who can add some threes.",
    "kind": "verdict",
-   "date": "2026-09-14",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p48",
-    "hm5-fiCa5S4:p15"
+    "MRzebgip23Y:p17",
+    "t4n9MAP2_14:p48"
    ]
   },
   {
-   "text": "He turned 31.5% of his rim contests into blocks.",
+   "text": "Shot blocking is his standout skill. He converted 31.5% of rim contests into blocks, and his projected blocks are far above the top 250 pool.",
    "kind": "fact",
-   "date": "2026-07-17",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:p4"
+    "NYTH7uQsPCM:p4",
+    "stats"
    ]
   },
   {
-   "text": "Blocks are his standout category. They are far above the top 250 pool.",
+   "text": "He gives very few steals and assists, even for a center.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
    ]
   },
   {
-   "text": "His steals are very low, even for a center, and his assists are low for his position.",
+   "text": "He has had some bad free throws.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-14",
    "until": "",
    "sources": [
-    "stats"
+    "MRzebgip23Y:p17"
    ]
   }
  ],
@@ -135,7 +157,7 @@
   {
    "name": "BLK specialist",
    "channel": "durable",
-   "detail": "About 2 blocks per game projected",
+   "detail": "about 1.9 blocks projected; 31.5% of rim contests became blocks",
    "until": "",
    "sources": [
     "stats",
@@ -146,7 +168,7 @@
   {
    "name": "punt STL fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "about 0.4 steals projected",
    "until": "",
    "sources": [
     "stats"
@@ -156,7 +178,7 @@
   {
    "name": "punt AST fit",
    "channel": "durable",
-   "detail": "",
+   "detail": "about 0.6 assists projected",
    "until": "",
    "sources": [
     "stats"
@@ -166,24 +188,22 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Oso Ighodaro has started the last two games at center",
+   "detail": "Oso Ighodaro for the starting center job",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:p39",
+    "MRzebgip23Y:t0",
     "WXO8MfQfzo0:t2",
-    "BiIZsSypx7Y:p57",
-    "t4n9MAP2_14:t4"
+    "WXO8MfQfzo0:p39"
    ],
    "new_meaning": ""
   },
   {
    "name": "role up",
    "channel": "current",
-   "detail": "Mark Williams is out long term, and he is projected at about 23 to 25 minutes",
+   "detail": "Mark Williams out long term; projected about 24 minutes after under 9 last season",
    "until": "",
    "sources": [
     "sTtFUy7IoJI:p9",
-    "t4n9MAP2_14:p47",
     "t4n9MAP2_14:t4"
    ],
    "new_meaning": ""
@@ -191,20 +211,50 @@
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "Late pick around 120 to 125",
+   "detail": "round 10 flyer, not inside the top 100",
    "until": "",
    "sources": [
-    "hm5-fiCa5S4:p16",
-    "sTtFUy7IoJI:p9",
+    "MRzebgip23Y:p16",
+    "ZYllcj4o6_A:p14",
     "t4n9MAP2_14:p47",
-    "WXO8MfQfzo0:p39"
+    "hm5-fiCa5S4:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "Suns center rotation split between Ighodaro and Maluach",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-4 in weeks 19 to 21",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "few back-to-backs",
+   "channel": "current",
+   "detail": "fewest back-to-backs in the league",
+   "until": "",
+   "sources": [
+    "MRzebgip23Y:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "sites disagree on price",
    "channel": "current",
-   "detail": "Yahoo rank 113, ESPN rank 202",
+   "detail": "Yahoo rank 114, ESPN rank 202",
    "until": "",
    "sources": [
     "stats"
@@ -212,6 +262,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Yahoo values him at 2 USD (rank 113) and ESPN at 0 USD (rank 202), so in our 144-player draft he is a 1 to 2 USD last-round flyer for blocks. He fits punt STL and punt AST builds that need blocks and rebounds. In the first weeks, check whether he or Ighodaro starts at center and whether his minutes reach the mid 20s. If Ighodaro keeps the job, Maluach is a cut or waiver-level stash.",
+ "note": "He costs almost nothing (Yahoo average cost 1.2 USD at rank 114, ESPN 0.4 USD at rank 202, not drafted in our league), so he is a 1 to 2 USD end-of-auction pick near the 144-player cutoff. His blocks are a real outlier and he adds rebounds and FG%, so he fits punt STL and punt AST builds that need a cheap blocks source, and Phoenix's 4-4-4 playoff schedule adds late value. In the first weeks, check who starts at center and whether his minutes reach about 24. If Ighodaro keeps the job and Maluach stays near 16 minutes, he is easy to drop.",
  "rejected": []
 }

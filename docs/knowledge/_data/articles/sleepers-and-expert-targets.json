@@ -19,16 +19,17 @@
  ],
  "proposed": true,
  "prompt_sha": "12db90749aa2",
- "built_at": "2026-10-11T09:50:28+00:00",
+ "built_at": "2026-10-16T12:49:18+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.4493248000000001,
-  "duration_ms": 127430,
+  "cost_usd_list": 0.4606648000000001,
+  "duration_ms": 130039,
   "turns": 2,
   "denied": 0
  },
  "player_slugs": [
+  "ajay-mitchell",
   "amen-thompson",
   "anthony-davis",
   "ausar-thompson",
@@ -36,120 +37,125 @@
   "bobby-portis",
   "brandin-podziemski",
   "brandon-miller",
+  "cameron-johnson",
   "cj-mccollum",
-  "collin-murray-boyles",
   "damian-lillard",
   "darius-garland",
   "dayron-sharpe",
   "dejounte-murray",
+  "domantas-sabonis",
   "dyson-daniels",
   "egor-demin",
   "giannis-antetokounmpo",
+  "grayson-allen",
   "gui-santos",
   "immanuel-quickley",
   "isaiah-hartenstein",
-  "isaiah-jackson",
   "ivica-zubac",
   "jaden-mcdaniels",
   "jakob-poeltl",
   "jalen-slawson",
   "jalen-suggs",
+  "jalen-williams",
   "jamal-murray",
   "jaren-jackson",
-  "jaylen-brown",
   "jeremiah-fears",
-  "joel-embiid",
-  "julius-randle",
-  "keegan-murray",
   "kevin-durant",
   "keyonte-george",
   "kyrie-irving",
   "lamelo-ball",
   "lauri-markkanen",
+  "lebron-james",
   "matas-buzelis",
   "michael-porter",
-  "morez-johnson",
-  "naz-reid",
   "neemias-queta",
   "nickeil-alexander-walker",
   "norman-powell",
+  "og-anunoby",
   "paul-george",
   "paul-reed",
+  "peyton-watson",
+  "quentin-grimes",
   "ryan-rollins",
-  "scotty-pippen",
+  "trey-murphy",
   "ty-jerome",
-  "yves-missi",
+  "yaxel-lendeborg",
   "zach-edey",
   "zach-lavine"
  ],
- "summary": "The best bargains in our auction sit in the middle of the 144-player pool. That is where experts rank players 15 to 40 spots above their market price: Alexander-Walker, Rollins, Garland, Daniels, the Jazz trio and Ty Jerome. At the top, Murray, Reaves, LaMelo and Amen Thompson are worth only a small premium. Giannis and Durant are fair buys, not discounts. Spend the money you save on the 51 to 100 range. Finish with 1 USD centers and role flyers.",
+ "summary": "The experts' biggest edges sit in the middle of our auction, roughly picks 51 to 100. There, Nickeil Alexander-Walker, Dyson Daniels, Dejounte Murray, Ryan Rollins, Damian Lillard and Paul George sell far below what the experts think they are worth. Bid above the market's average cost but stay under the expert ceiling given in each line, and only chase gaps of 15 spots or more. Most discounts come from three places: Jazz players, starters whose job is in doubt, and injury or age risk that the price already reflects.",
  "sections": [
   {
-   "heading": "How to spot a real bargain",
+   "heading": "Bid between the market and the expert value",
    "paragraphs": [
     {
-     "text": "Rankings and projections tell you how good a player is. ADP and average auction cost tell you what the room will pay. Bid on the gap between them, not on the rank alone. If experts rank a player 30th and the market has him 70th, pay roughly a 50th-pick price, not first-round money.",
+     "text": "Rankings and projections tell you how good a player is. ADP and average cost tell you what the market will pay. The rule is simple: if you rank a player 30th and his ADP is 70th, take him in the 50s. In our auction, that means bidding above the market's average cost but below the expert value. You still get the player, and you keep part of the edge. Nickeil Alexander-Walker shows how this works. Experts call him free money at his market cost, and Josh values him in the mid 20s USD, but the target range is 15 to 20 USD.",
      "sources": [
-      "skKXe2CRl8Q:r7"
+      "skKXe2CRl8Q:r7",
+      "player:nickeil-alexander-walker"
      ]
     },
     {
-     "text": "Chase only large gaps. A gap of a few spots leaves no margin if the player disappoints. A gap of 15 to 20 spots still pays off if he underperforms. Leagues are won by players who finish about 40 spots above their draft position. The widest gaps in our pool belong to Nickeil Alexander-Walker (experts see top 35 to 50, market in the 50s to 60s), Ryan Rollins (experts see top 50, ESPN about 105), Ty Jerome (Lloyd says take him in the 70s or 80s against a Yahoo ADP near 115) and Keyonte George.",
+     "text": "Only chase big gaps. A gap of a few spots leaves no room for error. A gap of 15 to 20 spots still protects you if the player underperforms. Leagues are won by players who jump about 40 spots above where they were drafted. The best value usually sits between picks 51 and 100, where players can beat their ADP by 10 to 40 spots. In our 144-player draft, that is the middle of the auction. Many expert targets sit there: Dejounte Murray (experts say top 50, ADP about 70), Ryan Rollins (picks 50 to 65), Zach Edey (picks 60 to 70) and Ty Jerome (picks 74 to 80).",
      "sources": [
       "n4KkK-OJjqA:r0",
       "J1Eg3uaAICU:r13",
-      "player:nickeil-alexander-walker",
+      "ahNxsoU8Hx4:r8",
+      "player:dejounte-murray",
       "player:ryan-rollins",
-      "player:ty-jerome",
-      "player:keyonte-george"
+      "player:zach-edey",
+      "player:ty-jerome"
      ]
     },
     {
-     "text": "Most of the value sits between picks 51 and 100. There, players can beat their ADP by 10 to 40 spots. In our 12-team league that is roughly rounds 5 to 9 of 12, the middle of the 144 drafted players. Plan the budget so you still hold real money when these players are nominated. Do not spend it all on stars in the first hour.",
+     "text": "Check our own room's history before you bid. Last season our league paid far more than today's market price for Anthony Davis, Domantas Sabonis, Jalen Williams, Dyson Daniels and Ivica Zubac. It paid almost nothing for Nickeil Alexander-Walker, Keyonte George, Zach Edey and Jaden McDaniels. Expect someone to bid on last year's names. Do not follow them past the expert ceiling in each line.",
      "sources": [
-      "ahNxsoU8Hx4:r8"
+      "player:anthony-davis",
+      "player:domantas-sabonis",
+      "player:jalen-williams",
+      "player:dyson-daniels",
+      "player:ivica-zubac",
+      "player:nickeil-alexander-walker",
+      "player:keyonte-george",
+      "player:zach-edey",
+      "player:jaden-mcdaniels"
      ]
     }
    ]
   },
   {
-   "heading": "Why these players are cheap",
+   "heading": "Why they are cheap",
    "paragraphs": [
     {
-     "text": "Overlooked teams. Drafters often skip players on teams nobody watches. Experts say the community is still very skeptical of Jazz players after the tanking years. That points to discounts on Lauri Markkanen, Jaren Jackson Jr. and Keyonte George. Bid on these three with confidence up to the expert ranges in their lines. Rollins on the Bucks and Jerome on Memphis are each called the best target on their team.",
+     "text": "Overlooked team. Players on teams nobody watches often go cheap. The fantasy community is still skeptical of Jazz players after the tanking years, and experts expect that to create big discounts. Three Jazz players are expert targets. Lauri Markkanen gives elite FT% on volume. Jaren Jackson Jr. is ranked about 36th in categories by experts. Keyonte George is worth about 20 USD to experts. All three share one ball, so in the first weeks check how much usage each keeps next to Darryn Peterson.",
      "sources": [
       "CRLSsoGhb2w:r4",
       "CI4k8ofUXXk:r0",
       "player:lauri-markkanen",
       "player:jaren-jackson",
-      "player:keyonte-george",
-      "player:ryan-rollins",
-      "player:ty-jerome"
+      "player:keyonte-george"
      ]
     },
     {
-     "text": "Role fear. A player's price drops when drafters think he may lose his starting job or share minutes. That is value only if you believe he starts. These players are in that spot: Dyson Daniels and Alexander-Walker (Lu Dort's minutes), CJ McCollum (starting over Dort), Day'Ron Sharpe (ahead of Mo Wagner and Danny Wolf), Neemias Queta (over Mitchell Robinson), Yves Missi (over Derik Queen) and Jeremiah Fears (over Herb Jones). Pay full expert value for the ones whose role you trust. Keep the rest at 1 USD.",
+     "text": "Role doubt. When drafters fear a player will lose his starting job or share minutes, his price drops. That is value only if you believe he starts. This applies to CJ McCollum (versus Dort), Ryan Rollins (versus Porter and Burries), Day'Ron Sharpe (needs 24 or more minutes), Neemias Queta (versus Mitchell Robinson) and Quentin Grimes (versus LaRavia). Bid only at the prices in their lines. Check starts and minutes in the first two weeks, and cut quickly if the role is not there.",
      "sources": [
       "egRrai3Ax38:r8",
-      "player:dyson-daniels",
-      "player:nickeil-alexander-walker",
       "player:cj-mccollum",
+      "player:ryan-rollins",
       "player:dayron-sharpe",
       "player:neemias-queta",
-      "player:yves-missi",
-      "player:jeremiah-fears"
+      "player:quentin-grimes"
      ]
     },
     {
-     "text": "Injury and age. A risky player can be good value when the discount is large enough to price in the risk. Kyrie Irving (ACL), Anthony Davis (experts set the bar at about 60 games), Zach Edey (foot and ankle), Paul George (knees) and Jalen Suggs (about 20 missed games) all fit this case. Joel Embiid is the hardest call. His 40 to 50 games leave empty head-to-head weeks, and the Sixers have three back-to-backs in our playoffs. So treat 19 USD as his ceiling, not a target.",
+     "text": "Injury and age risk. These players can be good value when the discount is large, because the price already includes the risk. The market prices in Kyrie Irving's ACL. Anthony Davis is a top-20 per game player who will miss games. Jalen Suggs should be planned for about 20 missed games. Zach Edey carries injury risk. LeBron James will sit some games for rest. Pay the discounted price, not the healthy price. For example, 26 to 30 USD is fair for Davis, but paying near his ESPN value or last season's price in our room is not.",
      "sources": [
       "n4KkK-OJjqA:r2",
       "player:kyrie-irving",
       "player:anthony-davis",
-      "player:zach-edey",
-      "player:paul-george",
       "player:jalen-suggs",
-      "player:joel-embiid"
+      "player:zach-edey",
+      "player:lebron-james"
      ]
     }
    ]
@@ -158,88 +164,74 @@
    "heading": "Where the experts disagree",
    "paragraphs": [
     {
-     "text": "The experts do not agree on every target. On Amen Thompson, Josh values him at about 40 USD. Lloyd calls him a third-round pick, about 28 to 30, if his blocks and FG% do not come back now that he is off point guard. On Zach Edey, one mock buyer paid 20 USD while Josh capped him at 11 USD. On Anthony Davis, one expert gives him 30 USD of per-game value but would buy only at a discount. Our room paid 54 USD for him last season. In each case, bid to the cautious side's number unless the early-season checks have already gone your way.",
-     "sources": [
-      "player:amen-thompson",
-      "player:zach-edey",
-      "player:anthony-davis"
-     ]
-    },
-    {
-     "text": "The markets also split, which is why our own room matters. Durant goes much higher on Yahoo than on ESPN, while experts settle in the low 40s USD. Reaves, Jamal Murray, Brandon Miller and George are all far cheaper on ESPN than on Yahoo. Our league's past prices do not always follow either site. Daniels went for 28 USD last season, while Alexander-Walker went for 1 USD. Expect our room to chase some of these players. Stop at the expert number, not the room's.",
+     "text": "The experts agree on who is underpriced but not always on the ceiling. On Kevin Durant, experts take him late in round one, while Josh found 40 USD too rich. On Zach Edey, Josh caps his bid at 11 USD, while other expert bids go up to 20 USD. On Trey Murphy III, Lloyd is fine taking him at pick 20, while Josh says mid 20s USD because he slid. His profile warns that above 25 USD you pay for a role he had with Murray out. On Lauri Markkanen, the experts grade him round 3 and a mid-20s USD bid fits, but one mock already went to 30 USD. On Ajay Mitchell, one expert calls his ESPN rank laughable and others disagree. When the experts split like this, bid at the lower number and let the room decide whether to go higher.",
      "sources": [
       "player:kevin-durant",
-      "player:austin-reaves",
-      "player:jamal-murray",
-      "player:brandon-miller",
-      "player:keyonte-george",
-      "player:dyson-daniels",
-      "player:nickeil-alexander-walker",
-      "skKXe2CRl8Q:r7"
+      "player:zach-edey",
+      "player:trey-murphy",
+      "player:lauri-markkanen",
+      "player:ajay-mitchell"
      ]
     }
    ]
   },
   {
-   "heading": "Playoff schedule and deadline checks",
+   "heading": "Playoff weeks and the trade deadline",
    "paragraphs": [
     {
-     "text": "Our playoffs are weeks 19 to 21 and end 2027-03-28. Houston plays only 10 games in those weeks, which trims Durant and Amen Thompson. Indiana plays 3, 4 and 3 (Ivica Zubac). Brooklyn has 10 games (Sharpe, Randle-style volume on a thin schedule). Egor Dëmin has a 3-4-3. Memphis's 4-4-4 is a bonus for Jerome. Dallas also plays 4-4-4, but Irving may sit some of the league-high 16 back-to-backs. Jaden McDaniels has a two-game semifinal week, and LaMelo Ball has a two-game week of March 15.",
+     "text": "Strong schedules in weeks 19 to 21 add value. Memphis plays 4-4-4, which helps Zach Edey and Ty Jerome. Dallas also plays 4-4-4, but Kyrie Irving only gains if he does not sit back-to-backs. New Orleans plays 4-4-3, which helps Dejounte Murray and, if he holds a real role, Jeremiah Fears.",
      "sources": [
-      "player:kevin-durant",
-      "player:amen-thompson",
-      "player:ivica-zubac",
-      "player:dayron-sharpe",
-      "player:egor-demin",
+      "player:zach-edey",
       "player:ty-jerome",
       "player:kyrie-irving",
-      "player:jaden-mcdaniels",
-      "player:lamelo-ball"
+      "player:dejounte-murray",
+      "player:jeremiah-fears"
      ]
     },
     {
-     "text": "Watch trade news before the 2027-03-04 deadline. A trade to a contender would gut Norman Powell's value because his case rests on being Chicago's top usage option. Davis, Jamal Murray and Rollins also carry trade talk. If you own any of them in February, decide by the deadline whether to sell.",
-     "sources": [
-      "player:norman-powell",
-      "player:anthony-davis",
-      "player:jamal-murray",
-      "player:ryan-rollins"
-     ]
-    }
-   ]
-  },
-  {
-   "heading": "Bidding plan by stage",
-   "paragraphs": [
-    {
-     "text": "Early. Pay fair prices for the stars and do not chase. Giannis at about 60 to 62 USD only makes sense for a punt FT% build. Durant is fair in the low 40s, and the 50 USD range is a stretch. Among guards, Jamal Murray is the one worth pushing into the mid to high 30s, because experts see a top 12 to 14 finish with no weak category.",
+     "text": "Weak schedules mean a sell plan before the 2027-03-04 deadline. The notes flag a weak schedule for Miami (4-3-3), Houston, Indiana (3-4-3), Portland, the Knicks and Brooklyn. Minnesota has a two-game semifinal week, Cleveland has a two-game finals week, and Philadelphia has three back-to-backs. Golden State may fade late in the season. Draft Damian Lillard, OG Anunoby, Brandin Podziemski and Yaxel Lendeborg as players you may trade before the deadline. Do not pay extra for Amen Thompson, Ivica Zubac or Michael Porter Jr. because of their March value.",
      "sources": [
       "player:giannis-antetokounmpo",
       "player:kevin-durant",
-      "player:jamal-murray"
+      "player:amen-thompson",
+      "player:ivica-zubac",
+      "player:damian-lillard",
+      "player:og-anunoby",
+      "player:michael-porter",
+      "player:lamelo-ball",
+      "player:jaden-mcdaniels",
+      "player:peyton-watson",
+      "player:lebron-james",
+      "player:brandin-podziemski",
+      "player:yaxel-lendeborg"
      ]
-    },
+    }
+   ]
+  },
+  {
+   "heading": "Endgame dollars",
+   "paragraphs": [
     {
-     "text": "Middle. This is where to win the draft. Go to about 20 USD for Alexander-Walker, 20 to 25 USD for Darius Garland and 18 to 24 USD for Daniels. Jackson Jr. is a strong buy in the high teens. Rollins is one of the best value plays in the pool, and auction averages for him are only about 2 USD. Get him before the room notices.",
+     "text": "The last picks of our 144-player draft are where 1 to 2 USD flyers belong. The experts like Peyton Watson, Egor Dëmin, Quentin Grimes, Jeremiah Fears, Yaxel Lendeborg, Ajay Mitchell, Gui Santos, Cameron Johnson, Grayson Allen and Paul Reed there. Do not bid more than 2 USD on any of them. Each one depends on a starting role or a breakout. If the role is not there in the first two weeks, drop him and use FAB instead.",
      "sources": [
-      "ahNxsoU8Hx4:r8",
-      "player:nickeil-alexander-walker",
-      "player:darius-garland",
-      "player:dyson-daniels",
-      "player:jaren-jackson",
-      "player:ryan-rollins"
+      "player:peyton-watson",
+      "player:egor-demin",
+      "player:quentin-grimes",
+      "player:jeremiah-fears",
+      "player:yaxel-lendeborg",
+      "player:ajay-mitchell",
+      "player:gui-santos",
+      "player:cameron-johnson",
+      "player:grayson-allen",
+      "player:paul-reed"
      ]
     },
     {
-     "text": "Late. Fill your last spots with cheap centers and role flyers whose value depends on minutes: Queta, Jakob Poeltl, Isaiah Hartenstein, Missi, Isaiah Jackson and Collin Murray-Boyles. Pay 1 to 5 USD. Check the starting jobs in the first week. Players who lose their role can be cut for waiver adds, and you have up to 6 acquisitions per week.",
+     "text": "Cheap starting centers are the best late value for punt 3PM builds. Neemias Queta, Isaiah Hartenstein and Jakob Poeltl all help FG% and rebounds for a few USD. Our room paid much more for Hartenstein and Poeltl last season, so expect them to cost less this time. Check minutes early: 26 or more for Queta, 28 to 29 for Hartenstein and 28 for Poeltl.",
      "sources": [
       "player:neemias-queta",
-      "player:jakob-poeltl",
       "player:isaiah-hartenstein",
-      "player:yves-missi",
-      "player:isaiah-jackson",
-      "player:collin-murray-boyles",
-      "egRrai3Ax38:r8"
+      "player:jakob-poeltl"
      ]
     }
    ]
@@ -248,264 +240,268 @@
  "players": [
   {
    "slug": "giannis-antetokounmpo",
-   "tier": "Fair-price stars",
-   "line": "Experts see a clear top 5 category pick and call ESPN's rank too low, but he is not a discount, so pay the expected price only for a punt FT% build."
+   "tier": "Premium (40 USD+)",
+   "line": "Experts treat him as a clear number 5 pick, so plan to pay about 60 USD and build punt FT% around him, but Miami's weak 4-3-3 playoff schedule means you should not chase past that."
   },
   {
    "slug": "kevin-durant",
-   "tier": "Fair-price stars",
-   "line": "Experts agree he is a late first-round value whose volume shooting helps both percentages, but the market already prices him there, so stay in the low 40s USD."
-  },
-  {
-   "slug": "jamal-murray",
-   "tier": "Core targets (30 USD and up)",
-   "line": "Experts see a top 12 to 14 finish with no weak category, and his low ESPN price may hold the room back, so he is worth pushing into the mid to high 30s USD."
+   "tier": "Premium (40 USD+)",
+   "line": "Experts take him late in round one, well above his ESPN price, so expect 40 to 46 USD for a clean punt TO forward, though Josh calls 40 USD too rich and Houston's playoff schedule is weak."
   },
   {
    "slug": "lamelo-ball",
-   "tier": "Core targets (30 USD and up)",
-   "line": "A mild target whose threes and assists cost nothing in punt FG% and punt TO builds, fair up to the mid 30s USD but not at ESPN-level prices."
+   "tier": "Early value (25 to 40 USD)",
+   "line": "Experts see a mid 30s USD talent who should go before pick 20, so anything near 30 USD is fair for punt FG% or punt TO teams, keeping Minnesota's two-game semifinal week in mind."
   },
   {
    "slug": "amen-thompson",
-   "tier": "Core targets (30 USD and up)",
-   "line": "Experts value his guard FG%, rebounds, steals and blocks at 35 to 40 USD, but Lloyd sees only a third-rounder if his blocks and FG% do not return, so the high 30s is the ceiling."
+   "tier": "Early value (25 to 40 USD)",
+   "line": "He is sliding below Josh's value of about 40 USD, so 35 to 38 USD is fair for a punt 3PM build that wants FG%, rebounds, steals and blocks from a guard."
+  },
+  {
+   "slug": "jamal-murray",
+   "tier": "Early value (25 to 40 USD)",
+   "line": "Experts see a top 12 to 14 ceiling with no weak category, so 34 to 38 USD is fair and anything below that is a bargain."
   },
   {
    "slug": "austin-reaves",
-   "tier": "Core targets (30 USD and up)",
-   "line": "A cheap ESPN target whose usage should climb without LeBron, giving FT%, points, assists and threes at 30 to 36 USD, while 40 USD is an overpay."
+   "tier": "Early value (25 to 40 USD)",
+   "line": "Experts like him most against ESPN's low price and recent mocks take him at picks 12 to 14, so treat 36 USD as value and 40 USD as the overpay line for punt TO builds."
   },
   {
    "slug": "anthony-davis",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts see a top 20 per-game player in blocks, rebounds and FG% who is discounted for games-played risk, so bid into the mid 20s USD and stop if the room chases."
+   "tier": "Early value (25 to 40 USD)",
+   "line": "A top-20 per game big priced down for missed games, so 26 to 30 USD is fair but last season's price in our room is not."
+  },
+  {
+   "slug": "domantas-sabonis",
+   "tier": "Early value (25 to 40 USD)",
+   "line": "Lloyd calls his Yahoo rank too low and experts see round 3 value, so low 30s USD is fine for punt TO builds but 40 USD is not."
+  },
+  {
+   "slug": "trey-murphy",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "No weak category, but part of his price comes from a role he had while Murray was out, so stay in the low 20s USD and stop at 25 USD."
   },
   {
    "slug": "lauri-markkanen",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Jazz skepticism keeps the price down on a forward with volume FT%, threes and rebounds, and a low to mid 20s USD bid matches the expert rank."
-  },
-  {
-   "slug": "nickeil-alexander-walker",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "One of the widest gaps in the pool: a no-weak-category guard the market treats as a cheap flyer, so bidding up to about 20 USD is supported."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Jazz skepticism and a 42-game season keep him cheap, so bid in the mid 20s USD for elite FT% on volume, knowing one mock already reached 30 USD."
   },
   {
    "slug": "brandon-miller",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts see a third-round value with top 30 upside that ESPN prices far too low, worth up to the mid 20s USD for punt FG% or punt TO builds."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts grade him late round 2 to round 3 while ESPN prices him far lower, so 20 to 26 USD fits punt FG% or punt TO builds that want threes from a forward."
   },
   {
-   "slug": "dyson-daniels",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "A steals outlier with real assists, rebounds and FG% whom the market prices late, but experts expect him to pass 20 USD, so 18 to 24 USD is fair."
+   "slug": "jalen-williams",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts say the market dropped him too far, so 20 to 25 USD is a good buy for forward assists and steals, but 29 USD is too high."
   },
   {
    "slug": "jaren-jackson",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "The Jazz discount applies to a blocks anchor experts rank about 36th, so the high teens USD is a strong buy and the mid 20s is still fair."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "A Jazz discount on a player experts rank about 36th in categories, so he is a good buy anywhere near market cost for blocks and punt TO builds."
   },
   {
    "slug": "kyrie-irving",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "ACL risk has cut his price, but experts see top 20 per-game value in FT%, threes and points, so bid into the high teens USD."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "The market prices in his ACL risk while experts project top 15 to 20 per game, so his 24 USD Yahoo value is the ceiling, and you should watch how many of Dallas's 16 back-to-backs he sits."
+  },
+  {
+   "slug": "lebron-james",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts call his ESPN rank foolish and put the ceiling near 25 USD, so 20 to 25 USD fits a punt TO build that wants rare assists from a forward."
+  },
+  {
+   "slug": "nickeil-alexander-walker",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts call him free money at his market price, with no weak category, so 15 to 20 USD is the target for 3PM and FT% help."
+  },
+  {
+   "slug": "dyson-daniels",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "A steals specialist the market undervalues, and experts say he is worth 20 USD or more, so anything under that is a buy for punt FT% or punt 3PM builds."
   },
   {
    "slug": "keyonte-george",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "The sites split hard on him and experts think the market dropped him too far, so 15 to 20 USD fits a punt TO build."
-  },
-  {
-   "slug": "jaylen-brown",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts say 9-cat rankings undervalue his scoring, rebounds and assists, so about 23 USD is a good price, but only for a punt TO team."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Another Jazz discount, taken in round 5 of category mocks and worth about 20 USD to experts, best for punt TO builds."
   },
   {
    "slug": "darius-garland",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts project a likely top 30 guard that drafts take far later, so about 20 to 25 USD is fair."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts see a top 30 player at a round 3 price, so pay in the high teens with 25 USD as the ceiling for punt TO builds."
   },
   {
    "slug": "dejounte-murray",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts call him a round 4 value for guard steals, assists and rebounds, but expect a bidding war and buy him only for punt TO."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts expect top 50 against an ADP near 70 and an expert mock paid 24 USD, so treat 24 USD as the ceiling for a punt TO guard with a good 4-4-3 playoff schedule, once his toe checks out."
   },
   {
    "slug": "matas-buzelis",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "Experts see a top 50 forward with blocks and threes whom both sites price low, so expect to pay about 15 to 22 USD."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "Experts agree he is a top-50 9-cat player with blocks and threes from a forward, so pay up to about 20 USD but not far past it."
   },
   {
    "slug": "ausar-thompson",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "An underpriced steals anchor with blocks and FG% who is worth about 14 to 18 USD for punt FT% and punt 3PM builds, with upside above that."
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "The best Pistons target for punt FT% builds that want elite steals and blocks, so 15 to 18 USD is fair and 20 USD is the top."
   },
   {
-   "slug": "paul-george",
-   "tier": "Mid-round targets (15 to 29 USD)",
-   "line": "The market treats him as a late flyer while experts project top 40 per game, so 15 to 20 USD still looks fine if his knees check out."
-  },
-  {
-   "slug": "ryan-rollins",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts see a top 50 guard with top 40 upside on an overlooked Bucks team while auction averages sit near the minimum, so bid well above the market."
-  },
-  {
-   "slug": "naz-reid",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts rank him 55 to 75 against a very low market price, so 10 to 14 USD buys threes and blocks from a big, but not FG%."
+   "slug": "og-anunoby",
+   "tier": "Mid-round value (15 to 25 USD)",
+   "line": "A no-weakness forward experts value at about 20 USD in categories, but the Knicks' weak playoff schedule makes him a trade chip before the deadline."
   },
   {
    "slug": "michael-porter",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Expert ranks of 45 to 60 for points, threes and rebounds from a forward far exceed his market price, so around 10 USD is fair."
-  },
-  {
-   "slug": "joel-embiid",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "He offers per-game points and FT% at a steep discount, but 40 to 50 games means empty head-to-head weeks, so stay at or below 19 USD."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts see round 6 value for threes, points and FT%, so 10 to 15 USD is fair, but his FG% and turnovers do not help and Brooklyn's playoff schedule is light."
   },
   {
    "slug": "ivica-zubac",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts cap him near 14 USD for elite FG% and rebounds in punt 3PM builds, so aim for 10 to 14 USD and let others pay 20 USD."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "The best Pacers target for punt 3PM with elite FG% and rebounds, so aim for 10 to 14 USD and let someone else pay 20 USD, since Indiana's 3-4-3 playoff weeks hurt."
   },
   {
-   "slug": "zach-edey",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "A rare FG%, rebounds and blocks anchor whom the market splits on, and about 11 USD prices his upside against his foot and ankle risk."
+   "slug": "ryan-rollins",
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "ESPN barely ranks him while experts draft him around picks 50 to 65, so a low to mid teens USD bid is fair for steals, assists and threes if he keeps the starting job."
   },
   {
    "slug": "damian-lillard",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts value his per-game FT%, threes and assists far above his market price, so 5 to 10 USD is a strong value bid."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts see top 50 with top 30 upside at a deep market discount, so 10 to 17 USD is the range, with a possible sale before the deadline because of Portland's weak playoff schedule."
   },
   {
-   "slug": "julius-randle",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts rank him 55 to 75 for points, rebounds and assists from a forward in punt TO builds, so aim for 10 to 12 USD and stop near 15 USD."
+   "slug": "paul-george",
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts see a top 40 per game player as Boston's number two option, so 10 to 15 USD is good value and Josh would go to 20 USD."
+  },
+  {
+   "slug": "zach-edey",
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts take him around picks 60 to 70 with bids from 11 to 20 USD, so 10 to 15 USD buys FG%, rebounds and blocks upside plus a strong 4-4-4 playoff schedule."
   },
   {
    "slug": "ty-jerome",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Lloyd's best Memphis target has no weak category and a 4-4-4 playoff schedule, so bid up to about 8 USD but do not pay ESPN hype."
-  },
-  {
-   "slug": "cj-mccollum",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts rank him 20 to 30 spots above the market for threes, points and assists, so up to about 8 USD is reasonable if he keeps starting."
-  },
-  {
-   "slug": "norman-powell",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts agree he is worth about 80th overall for points and threes, so anything under 6 to 7 USD is a bargain, but a deadline trade could gut him."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts call his Yahoo ADP nonsense and take him in the 70s, so bid up to about 11 USD for a punt BLK guard with a 4-4-4 playoff schedule."
   },
   {
    "slug": "jaden-mcdaniels",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Experts would take his blocks, steals and good FG% in the 70s, so bid up to about 6 USD, minding his two-game semifinal week."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "He is sliding in drafts while experts would take him in the 70s, so high single digits to about 11 USD is fair (never 25 USD), and plan around Minnesota's two-game semifinal week."
+  },
+  {
+   "slug": "cj-mccollum",
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Experts see 20 to 30 spots of value if he keeps his starting job over Dort, so bid up to about 8 USD for threes, points and some assists."
   },
   {
    "slug": "immanuel-quickley",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Lloyd sees about 15 spots of value for threes and assists, so he is a single-digit buy that fits punt BLK best."
-  },
-  {
-   "slug": "dayron-sharpe",
-   "tier": "Value at price (5 to 14 USD)",
-   "line": "Josh's best category target offers boards, steals and FG% at center, and an expert mock still called 10 USD under value."
-  },
-  {
-   "slug": "brandin-podziemski",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Experts like his balanced line at the Yahoo price but call ESPN's rank too high, so pay 1 to 4 USD only."
-  },
-  {
-   "slug": "keegan-murray",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A round 10 forward with threes, blocks and few turnovers, worth 1 to 4 USD."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Lloyd sees about 15 spots of value over his market rank, so 5 to 10 USD is fair for a punt BLK guard who brings threes and assists."
   },
   {
    "slug": "jalen-suggs",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Experts see top 70 to 80 per game in steals, threes and assists, so low single digits is a good price if you plan around missed games."
-  },
-  {
-   "slug": "collin-murray-boyles",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Buzz is building for an efficient punt 3PM forward with top 70 to 80 upside at 30 minutes, so expect to pay about 2 to 5 USD."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "The market prices him for his injuries while experts see top 70 to 80 per game, so 5 to 9 USD buys steals, assists and threes if you plan for about 20 missed games."
   },
   {
    "slug": "zach-lavine",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Experts see top 80 upside in threes, points and FT% if he keeps his starting role, at 1 to 5 USD."
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "His mock draft position has jumped into the top 100 while the sites price him low, so expect 5 to 12 USD for a scorer with no weak category."
   },
   {
-   "slug": "isaiah-hartenstein",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Experts say he belongs inside the top 100 for rebounds, FG% and assists at center, and 28 minutes would make him top 60."
+   "slug": "dayron-sharpe",
+   "tier": "Value at price (5 to 15 USD)",
+   "line": "Josh's best category target is a starting center the market ignores, so 5 to 8 USD is reasonable, and you should cut him fast if he does not start and play 24 or more minutes."
   },
   {
-   "slug": "egor-demin",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Josh's year-two upside pick for threes is a 1 to 2 USD end-of-draft flyer with real FG% risk."
+   "slug": "norman-powell",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Josh called him a best pick at low prices as Chicago's top usage option, so target 3 to 7 USD for points and threes and do not chase an ESPN-type price."
+  },
+  {
+   "slug": "brandin-podziemski",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts think he can beat last season's finish while Butler is out, so pay 1 to 5 USD, not his ESPN rank, and think about selling before Butler returns."
   },
   {
    "slug": "neemias-queta",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A cheap center with elite FG% and blocks whose value depends on starting over Mitchell Robinson."
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts value him at picks 90 to 110 as a cheap center with elite FG% and blocks, so a few USD is fair for punt 3PM builds if he starts over Mitchell Robinson."
+  },
+  {
+   "slug": "isaiah-hartenstein",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "The best value target on OKC, seen as top 100 by experts, so he is a cheap late center for punt 3PM builds who should cost far less than last season."
   },
   {
    "slug": "jakob-poeltl",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "Both sites price him at the minimum, but experts see top 70 upside for FG% in punt 3PM builds."
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts like him around pick 100 as a starting center for FG% and rebounds, so a bid of a few USD is fair for punt 3PM builds."
+  },
+  {
+   "slug": "peyton-watson",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "A last-dollar buy with a secure 30-minute starting job and standout blocks, though Cleveland's two-game finals week lowers his playoff value."
+  },
+  {
+   "slug": "egor-demin",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Josh's best upside target in all formats, so pay 1 to 2 USD at the end for threes in a punt FG% build."
+  },
+  {
+   "slug": "quentin-grimes",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "A likely 30-minute starter with a top 70 to 80 run if Doncic or Reaves misses time, so he is a 1 to 2 USD last pick."
   },
   {
    "slug": "jeremiah-fears",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 USD flyer and Dejounte Murray handcuff whose value depends on winning a starting job over Herb Jones."
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts call him badly under drafted as an upside flyer for steals and assists, so pay 1 USD, ideally as a handcuff to Dejounte Murray."
   },
   {
-   "slug": "yves-missi",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 to 2 USD blocks source for punt 3PM or punt STL builds if he starts over Derik Queen."
+   "slug": "yaxel-lendeborg",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts now take him around picks 98 to 106 as a starter, so 1 to 2 USD fits a punt 3PM build, with a plan to sell before Butler and Moody return."
   },
   {
-   "slug": "scotty-pippen",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 USD last bench pick for steals and assists in punt FT% builds, and a must-add if he starts."
+   "slug": "ajay-mitchell",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts split on him, so he is a 1 USD final bid for FT% and steals and a handcuff to Gilgeous-Alexander and Jalen Williams."
   },
   {
    "slug": "gui-santos",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 USD bench flyer whose value comes only from minutes, ideally paired with Lendeborg as a role hedge."
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts like him as a late target, but he is filler rather than a category source, so pay 1 USD at most and pair him with Lendeborg."
   },
   {
-   "slug": "morez-johnson",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "At most a 1 USD flyer for blocks and FG%, and only after his lower leg injury and the Lively timeline check out."
+   "slug": "cameron-johnson",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Experts like him as a last-round pick for threes, FT% and low turnovers, so pay 1 to 2 USD and watch for a trade that could shrink his role."
   },
   {
-   "slug": "isaiah-jackson",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 USD end-of-auction flyer for FG% and blocks while he holds the starting center job."
+   "slug": "grayson-allen",
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "One expert ranks him far above the market, but he is a 1 USD end-of-draft pick at most for punt FG% builds, so check his knee first."
   },
   {
    "slug": "paul-reed",
-   "tier": "Late flyers (1 to 5 USD)",
-   "line": "A 1 USD endgame handcuff for a Duren owner or a punt 3PM build, and a quick waiver add if he goes undrafted."
-  },
-  {
-   "slug": "bobby-portis",
-   "tier": "Waiver watch",
-   "line": "He is unlikely to be one of our 144 drafted players, so add him fast on waivers if Giannis or Bam Adebayo misses time."
+   "tier": "Late flyers (1 to 7 USD)",
+   "line": "Josh takes him late in most drafts for steals, blocks and FG% at low turnovers, so 1 to 2 USD is the right price for punt 3PM builds."
   }
  ],
  "excluded": [
   {
+   "slug": "bobby-portis",
+   "reason": "His profile says he is unlikely to be one of our 144 drafted players. He is a waiver add only if Giannis or Bam Adebayo misses time."
+  },
+  {
    "slug": "jalen-slawson",
-   "reason": "His profile says he is not a draft target. He has a two-way placeholder projection and no ESPN price, so he belongs on a waiver watch list, not in a draft value article."
+   "reason": "His profile says he is not a draft target. Pick him up on waivers only if he earns about 20 minutes a night."
   }
  ],
  "rejected": []

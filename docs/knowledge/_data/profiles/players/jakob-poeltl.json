@@ -8,18 +8,53 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "3925a9288c43",
- "note_count": 16,
- "built_at": "2026-10-11T09:17:33+00:00",
+ "input_sha": "0afe2ba486b2",
+ "note_count": 20,
+ "built_at": "2026-10-16T08:58:10+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1542542,
-  "duration_ms": 36718,
+  "cost_usd_list": 0.18180619999999997,
+  "duration_ms": 49630,
   "turns": 2,
   "denied": 0
  },
  "current": [
+  {
+   "text": "His back looks fine for now. He looked good in the early preseason games, and reports said he was in good shape this summer.",
+   "kind": "fact",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "uI6umXsE7Vk:p51",
+    "hviT4hzYNME:p34",
+    "Q6YlQDvD-aY:p90",
+    "BiIZsSypx7Y:p41",
+    "s28HvC2grAk:p22"
+   ]
+  },
+  {
+   "text": "Experts are only worried about the back if it flares up again. One expert says he looks much better than last season.",
+   "kind": "verdict",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p23",
+    "uI6umXsE7Vk:p51",
+    "s28HvC2grAk:p22"
+   ]
+  },
+  {
+   "text": "His back flared up again and again last season. He was effective in only about half of his games. He barely contested shots and blocked very little.",
+   "kind": "fact",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p16",
+    "s28HvC2grAk:p17",
+    "s28HvC2grAk:p21"
+   ]
+  },
   {
    "text": "He is the projected starting center for Toronto and the only seven-footer on the roster.",
    "kind": "fact",
@@ -31,8 +66,8 @@
    ]
   },
   {
-   "text": "The expected closing five is a small, switchable group with Collin Murray-Boyles at center, not Poeltl.",
-   "kind": "verdict",
+   "text": "Toronto's expected closing five is a small, switchable group with Murray-Boyles at center, not Poeltl. That can cut his minutes late in close games.",
+   "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
@@ -40,60 +75,31 @@
    ]
   },
   {
-   "text": "Reports say he is in good shape this summer, and experts said he looked good in early preseason games.",
-   "kind": "fact",
-   "date": "2026-10-05",
+   "text": "Experts see him as good value around pick 100 to 105 (rounds 9 to 10). In other mocks he went around pick 130, which one expert called a great pick, and for 4 USD in an auction mock.",
+   "kind": "verdict",
+   "date": "2026-10-13",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p22",
+    "OsbUAkSeVB4:p25",
+    "EogBYa24Gto:p26",
+    "uI6umXsE7Vk:p51",
+    "hviT4hzYNME:p34",
     "Q6YlQDvD-aY:p90",
     "BiIZsSypx7Y:p41"
    ]
   },
   {
-   "text": "Experts blame his back for last season's drop in blocks and his poor season. They hope the blocks come back and lean optimistic. One speaker is not worried about the back unless it flares up again in training camp.",
+   "text": "If he plays 28 minutes and the back caused his drop in blocks, he is an easy top 70 pick.",
    "kind": "verdict",
    "date": "2026-10-02",
    "until": "",
    "sources": [
-    "t4n9MAP2_14:p37",
-    "s28HvC2grAk:p22",
-    "sTtFUy7IoJI:p23",
-    "ZYllcj4o6_A:p44"
+    "ZYllcj4o6_A:p44",
+    "t4n9MAP2_14:p37"
    ]
   },
   {
-   "text": "Experts call his late price too low. He is a good bench flyer, and taking him around pick 130 is a great pick. He is worth a look outside the top 100 if healthy.",
-   "kind": "verdict",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "J1Eg3uaAICU:p46",
-    "t4n9MAP2_14:p37",
-    "BiIZsSypx7Y:p41",
-    "OdDkXFhoKsc:p55"
-   ]
-  },
-  {
-   "text": "If he plays 28 minutes and the back was the reason his blocks dropped, he is an easy top 70 pick.",
-   "kind": "verdict",
-   "date": "2026-10-02",
-   "until": "",
-   "sources": [
-    "ZYllcj4o6_A:p44"
-   ]
-  },
-  {
-   "text": "He went for 4 USD in an expert auction mock draft.",
-   "kind": "fact",
-   "date": "2026-10-05",
-   "until": "",
-   "sources": [
-    "Q6YlQDvD-aY:p90"
-   ]
-  },
-  {
-   "text": "His 70% field goal shooting last season came on low volume and is not expected to last.",
+   "text": "He shot 70% from the field last season on low volume. An expert does not think that 70% will last.",
    "kind": "verdict",
    "date": "2026-07-07",
    "until": "",
@@ -102,7 +108,7 @@
    ]
   },
   {
-   "text": "He turned only 35% of his deflections into steals last season, so his steals are likely to improve.",
+   "text": "He turned only 35% of his deflections into steals last season, so his steals are likely to go up.",
    "kind": "verdict",
    "date": "2026-07-17",
    "until": "",
@@ -111,28 +117,27 @@
    ]
   },
   {
-   "text": "Toronto has 15 back-to-backs this season and three of them fall in the fantasy playoffs.",
+   "text": "Toronto is projected to win about 52 games, or 56 to 57 if Kawhi Leonard plays 75 games.",
+   "kind": "verdict",
+   "date": "2026-08-20",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:t4"
+   ]
+  },
+  {
+   "text": "Toronto has 15 back-to-backs, and three of them fall in the fantasy playoffs.",
    "kind": "fact",
    "date": "2026-08-16",
    "until": "",
    "sources": [
     "gf_6GveiAls:t5"
    ]
-  },
-  {
-   "text": "Toronto is projected to win about 52 games, with a top defense that should hold or improve.",
-   "kind": "verdict",
-   "date": "2026-08-20",
-   "until": "",
-   "sources": [
-    "s28HvC2grAk:t4",
-    "s28HvC2grAk:t5"
-   ]
   }
  ],
  "durable": [
   {
-   "text": "He is an elite finisher. His FG% on solid volume is a clear league outlier that lifts a team's FG%.",
+   "text": "He is an elite finisher. He makes almost all of his shots at the rim, and his FG% on real volume lifts a team's FG% clearly.",
    "kind": "verdict",
    "date": "2026-08-20",
    "until": "",
@@ -142,21 +147,21 @@
    ]
   },
   {
-   "text": "He makes no threes.",
-   "kind": "fact",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats"
-   ]
-  },
-  {
-   "text": "His free throw shooting has improved steadily. He is no longer a hack target shooting around 52%, but his FT% is still low.",
+   "text": "His free throw shooting has improved steadily from around 52%. It is still low at about 62% and hurts FT%.",
    "kind": "fact",
    "date": "2026-08-20",
    "until": "",
    "sources": [
     "s28HvC2grAk:p19",
+    "stats"
+   ]
+  },
+  {
+   "text": "He makes no threes.",
+   "kind": "fact",
+   "date": "2026-10-16",
+   "until": "",
+   "sources": [
     "stats"
    ]
   },
@@ -170,14 +175,14 @@
    ]
   },
   {
-   "text": "His back flared up repeatedly last season.",
+   "text": "He has a history of back flare-ups and has not played 60 games in any of the last three seasons.",
    "kind": "fact",
-   "date": "2026-09-14",
+   "date": "2026-08-26",
    "until": "",
    "sources": [
-    "s28HvC2grAk:p16",
     "sTtFUy7IoJI:p23",
-    "t4n9MAP2_14:p37"
+    "s28HvC2grAk:p16",
+    "stats"
    ]
   }
  ],
@@ -185,10 +190,21 @@
   {
    "name": "FG% anchor",
    "channel": "durable",
-   "detail": "elite finisher, about 66% projected",
+   "detail": "About 66% FG on 7 to 8 attempts per game",
    "until": "",
    "sources": [
     "s28HvC2grAk:p18",
+    "stats"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "FT% liability",
+   "channel": "durable",
+   "detail": "About 62% FT, improving but still weak",
+   "until": "",
+   "sources": [
+    "s28HvC2grAk:p19",
     "stats"
    ],
    "new_meaning": ""
@@ -214,49 +230,59 @@
    "new_meaning": ""
   },
   {
+   "name": "injury prone",
+   "channel": "durable",
+   "detail": "Repeated back flare-ups",
+   "until": "",
+   "sources": [
+    "sTtFUy7IoJI:p23",
+    "s28HvC2grAk:p16"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "injury last season",
    "channel": "current",
-   "detail": "recurring back flare-ups, 46 games",
+   "detail": "Back flare-ups; effective in only about half his games",
    "until": "",
    "sources": [
     "s28HvC2grAk:p16",
-    "s28HvC2grAk:p21",
-    "sTtFUy7IoJI:p23"
+    "s28HvC2grAk:p21"
    ],
    "new_meaning": ""
   },
   {
    "name": "bounce-back",
    "channel": "current",
-   "detail": "experts hope the blocks return now that the back is healthy",
+   "detail": "Back blamed for the down year; blocks expected to recover",
    "until": "",
    "sources": [
     "t4n9MAP2_14:p37",
-    "s28HvC2grAk:p22",
+    "uI6umXsE7Vk:p51",
     "ZYllcj4o6_A:p44"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "sleeper",
-   "channel": "current",
-   "detail": "1 USD on both sites, experts call that too low",
-   "until": "",
-   "sources": [
-    "J1Eg3uaAICU:p46",
-    "BiIZsSypx7Y:p41",
-    "t4n9MAP2_14:p37"
    ],
    "new_meaning": ""
   },
   {
    "name": "flyer",
    "channel": "current",
-   "detail": "bench-flyer cost with top 70 upside",
+   "detail": "Top 70 upside at a late pick",
    "until": "",
    "sources": [
-    "J1Eg3uaAICU:p46",
-    "ZYllcj4o6_A:p44"
+    "ZYllcj4o6_A:p44",
+    "J1Eg3uaAICU:p46"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "sleeper",
+   "channel": "current",
+   "detail": "Market value 1 to 2 USD; experts like him around pick 100",
+   "until": "",
+   "sources": [
+    "EogBYa24Gto:p26",
+    "uI6umXsE7Vk:p51",
+    "BiIZsSypx7Y:p41"
    ],
    "new_meaning": ""
   },
@@ -273,7 +299,7 @@
   {
    "name": "small-ball lineups",
    "channel": "current",
-   "detail": "expected closing five has Murray-Boyles at center",
+   "detail": "Expected closing five uses Murray-Boyles, not Poeltl",
    "until": "",
    "sources": [
     "s28HvC2grAk:t1"
@@ -283,24 +309,14 @@
   {
    "name": "winning team",
    "channel": "current",
-   "detail": "about 52 wins projected",
+   "detail": "About 52 wins projected",
    "until": "",
    "sources": [
     "s28HvC2grAk:t4"
    ],
    "new_meaning": ""
-  },
-  {
-   "name": "bad playoff schedule",
-   "channel": "current",
-   "detail": "three back-to-backs in the fantasy playoffs",
-   "until": "",
-   "sources": [
-    "gf_6GveiAls:t5"
-   ],
-   "new_meaning": ""
   }
  ],
- "note": "Both Yahoo and ESPN value him at about 1 USD and rank him 117th, well below the 15 USD he cost in our league last season. Experts see a cheap bench flyer with top 70 upside. He fits punt 3PM builds and gives you a big FG% boost, but costs some FT%. Early in the season, check whether he plays about 28 minutes, whether his blocks come back toward the 1.1 to 1.5 range and whether the back holds up.",
+ "note": "Yahoo and ESPN value him at only 1 to 2 USD (rank about 117), while experts take him around pick 100 and our league paid 15 USD last season. He is a cheap starting center who helps FG% and rebounds and fits punt 3PM builds, so a bid of a few USD is fair. In the first weeks, check his minutes (28 is the target), whether his blocks come back toward 1.2 to 1.5 a game, and any new back flare-up.",
  "rejected": []
 }

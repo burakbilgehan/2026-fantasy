@@ -10,7 +10,7 @@
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 317 | - | - | - | not drafted |
+| 2026-27 | 0 | - | 318 | - | - | - | not drafted |
 
 <details><summary>Category profile (code)</summary>
 
@@ -19,7 +19,7 @@
 | FG% | 51.5% | +0.2 | +0.4 | - |
 | FT% | 78.0% | -0.0 | +0.0 | - |
 | 3PM | 0.8 | -0.8 | -1.0 | - |
-| PTS | 5.4 | -1.5 | -1.6 | league outlier, weak |
+| PTS | 5.4 | -1.5 | -1.6 | - |
 | REB | 2.2 | -1.2 | -1.4 | - |
 | AST | 0.5 | -1.4 | -1.5 | - |
 | STL | 0.2 | -2.1 | -2.2 | league outlier, weak |
@@ -29,23 +29,23 @@
 </details>
 
 **Current**
-- His projections assume a small role. That puts his points and steals far below the top 250 pool. (fact, 2026-10-11; stats)
-- Brooklyn is projected to be one of the worst teams, at about 28 wins. With nothing to play for, its March minutes are uncertain. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754), [09-26](https://youtu.be/3UGI05PDvrE?t=143))
-- He played very well after the trade. In his last nine games he played 23 minutes and averaged 14 points, 3 rebounds, 1.4 steals and 1 block. He finished 265th in category leagues last season. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1474), [08-21](https://youtu.be/uRsfijpBPok?t=1611))
-- Brooklyn's projected starters are Mikel Brown Jr., Egor Demin, Michael Porter Jr., Julius Randle and Day'Ron Sharpe. The projected bench is Keon Ellis, Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=313), [09-26](https://youtu.be/3UGI05PDvrE?t=1156), [08-21](https://youtu.be/uRsfijpBPok?t=488))
-- He is left out of the projected 10-man rotation. The crowded Brooklyn frontcourt hurts his chances of earning a role. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1205), [06-23](https://youtu.be/9tb1ARBEmQU?t=707), [08-21](https://youtu.be/uRsfijpBPok?t=276))
-- He is a stash option in case Brooklyn gives its young players minutes late in the season. The second half is open: the Nets could hand minutes to Minott, and Porter could be traded. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1474), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
-- Houston controls Brooklyn's draft pick, so the Nets have no reason to tank. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [07-13](https://youtu.be/Rqb5GdrSweY?t=622), [08-10](https://youtu.be/sfCe7fS9daM?t=1698))
-- Brooklyn plays 3-4-3 games in our playoff weeks, 10 in total, with one back-to-back. The Nets have 16 back-to-backs this season, tied with Boston for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
-- Brooklyn got him from the Celtics in a trade at last season's deadline and recently gave him a contract extension. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1611))
+- Brooklyn is projected to be one of the worst teams, at about 28 wins. (verdict, 2026-10-08; [10-08](https://youtu.be/sDzeYdUhJDI?t=177), [08-21](https://youtu.be/uRsfijpBPok?t=1754))
+- He is left out of the projected 10-man rotation. A crowded Nets frontcourt hurts his chance at a real role. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1205), [06-23](https://youtu.be/9tb1ARBEmQU?t=707))
+- Brooklyn's projected bench rotation is Keon Ellis, Noah Clowney, Mo Wagner, Danny Wolf and Nolan Traore. Three of them are big men. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1156))
+- He is one of Brooklyn's best upside prospects and is a stash option in case the Nets give young players minutes late in the season. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1205), [09-26](https://youtu.be/3UGI05PDvrE?t=1474), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Houston controls Brooklyn's draft pick, so the Nets have no reason to tank. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642), [08-10](https://youtu.be/sfCe7fS9daM?t=1698))
+- The Nets' second half is uncertain. They could hand more minutes to young players like Minott, and Michael Porter Jr. could be traded. (verdict, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=143), [09-26](https://youtu.be/3UGI05PDvrE?t=1628), [09-14](https://youtu.be/LM0cRCGoAUQ?t=1642))
+- Brooklyn plays 3, 4 and 3 games in our playoff weeks 19 to 21, with one back-to-back in that span. It has 16 back-to-backs this season, tied with Boston for the most in the league. (fact, 2026-09-26; [09-26](https://youtu.be/3UGI05PDvrE?t=1585), [08-16](https://youtu.be/gf_6GveiAls?t=923))
+- Brooklyn recently signed him to a contract extension. (fact, 2026-08-21; [08-21](https://youtu.be/uRsfijpBPok?t=1611))
 
 **Durable**
-- He is in the 91st percentile in DARKO and has always made an impact on the court. He needs real minutes to matter in fantasy. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=2012))
+- He rates in the 91st percentile in DARKO. (fact, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=2012))
+- He has always made an impact on the court, but he needs minutes to matter in fantasy. (verdict, 2026-07-17; [07-17](https://youtu.be/NYTH7uQsPCM?t=2012))
 
 **Tags**
-- Current: `minutes competition` (Crowded frontcourt with Randle, Sharpe, Clowney, Wagner and Wolf. Left out of the projected 10-man rotation.), `waiver watch` (Stash option if Brooklyn gives its young players minutes late in the season), `bottom team` (About 28 wins projected), `deep rotation` (Many young players compete for frontcourt and second-unit minutes), `unsettled rotation` (Second-half minutes could shift to Minott, Clowney, Brown and Demin), `trades likely` (Porter is a trade candidate, and a trade could open minutes), `many back-to-backs` (16 back-to-backs, tied for the most in the league), `bad playoff schedule` (3-4-3, only 10 games in weeks 19 to 21, with one back-to-back)
+- Current: `waiver watch` (Stash only if Brooklyn opens minutes for young players late in the season), `minutes competition` (Crowded Nets frontcourt; outside the projected 10-man rotation), `deep rotation` (Many young Nets players have a case for second-unit and frontcourt minutes), `trades likely` (Michael Porter Jr. is a trade candidate; a deal could free minutes), `bottom team` (About 28 projected wins), `many back-to-backs` (16 back-to-backs, tied for most in the league)
 - Durable: none
 
-**Note.** Do not draft him. He ranks 317 on Yahoo with a 0 USD value, has no ESPN price, and falls well outside the 144 players drafted in our league. His projection of 5.4 points and 0.2 steals assumes a small role. In his last nine games he played 23 minutes and averaged 14 points and 1.4 steals, so he is a waiver watch if Brooklyn's minutes open up, for example after a Porter trade or a late-season youth push. Brooklyn's thin 3-4-3 playoff schedule makes him less useful as a pickup for the fantasy playoffs.
+**Note.** He is not a draft target: Yahoo values him at 0 USD and ranks him 318th, well outside the 144 players our league drafts, and he went undrafted in our league last season. The upside case is minutes. In his last nine games last season he played 23 minutes and averaged 14 points, 1.4 steals and a block. Yahoo projects only 0.2 steals, which does not match that stretch. Leave him on waivers and watch for a Porter trade or more young-player minutes after the deadline.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

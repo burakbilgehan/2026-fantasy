@@ -8,49 +8,52 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "4808509ace34",
- "note_count": 6,
- "built_at": "2026-10-11T09:18:00+00:00",
+ "input_sha": "728bf5f0e1d0",
+ "note_count": 8,
+ "built_at": "2026-10-16T09:00:14+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1409302,
-  "duration_ms": 29731,
+  "cost_usd_list": 0.1466542,
+  "duration_ms": 32154,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "He is a rookie recovering from knee surgery. Yahoo lists him as out with a knee injury.",
+   "text": "He is recovering from another knee surgery. Yahoo lists him as out with a knee injury.",
    "kind": "fact",
-   "date": "2026-08-27",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "c-WwNRgVxkI:p29",
     "ZAyie8lKyYc:p0",
     "TOn-D1SV7a8:p8",
     "stats"
    ]
   },
   {
-   "text": "The early recovery timetable was about six months. The Spurs have not ruled him out for the season.",
-   "kind": "fact",
-   "date": "2026-08-27",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:p0"
-   ]
-  },
-  {
-   "text": "He could play at some point this season, but that is uncertain.",
+   "text": "He may not play for the Spurs at all this season.",
    "kind": "verdict",
-   "date": "2026-08-27",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p0"
+    "c-WwNRgVxkI:p29",
+    "CLsUc0Sevos:p20"
    ]
   },
   {
-   "text": "He sits behind Victor Wembanyama, and becoming a starter will take time.",
+   "text": "He is a rookie on the Spurs.",
+   "kind": "fact",
+   "date": "2026-10-15",
+   "until": "",
+   "sources": [
+    "ZAyie8lKyYc:p0",
+    "CLsUc0Sevos:p20"
+   ]
+  },
+  {
+   "text": "When healthy, he sits behind Victor Wembanyama, and becoming a starter will take time.",
    "kind": "verdict",
    "date": "2026-06-26",
    "until": "",
@@ -59,92 +62,53 @@
    ]
   },
   {
-   "text": "The Spurs drafted three centers and have a very deep frontcourt, so minutes for a young big are hard to find.",
-   "kind": "fact",
+   "text": "If he stays healthy, he is projected to become a dominant defensive player.",
+   "kind": "verdict",
    "date": "2026-08-27",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t1",
-    "ZAyie8lKyYc:t4",
-    "ZAyie8lKyYc:t5"
-   ]
-  },
-  {
-   "text": "After the latest knee surgery he dropped to rank 27 in tier six of dynasty rookie ranks.",
-   "kind": "verdict",
-   "date": "2026-08-02",
-   "until": "",
-   "sources": [
-    "TOn-D1SV7a8:p8"
-   ]
-  },
-  {
-   "text": "He is not a draft target in our 12-team redraft auction.",
-   "kind": "verdict",
-   "date": "2026-10-11",
-   "until": "",
-   "sources": [
-    "stats",
-    "ZAyie8lKyYc:p0"
+    "ZAyie8lKyYc:p1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He has had more than one knee surgery.",
+   "text": "He has had repeated knee surgeries.",
    "kind": "fact",
-   "date": "2026-08-02",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
+    "c-WwNRgVxkI:p29",
     "TOn-D1SV7a8:p8",
     "CLsUc0Sevos:p19",
     "HxQjagSTTAM:p15"
    ]
   },
   {
-   "text": "Experts see ongoing knee risk and injury concerns.",
+   "text": "He is an elite defender and a strong shot blocker who runs the rim.",
    "kind": "verdict",
-   "date": "2026-08-02",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "CLsUc0Sevos:p19",
-    "HxQjagSTTAM:p15",
-    "TOn-D1SV7a8:p8"
-   ]
-  },
-  {
-   "text": "He is very young, a strong shot blocker and a big who runs the rim.",
-   "kind": "fact",
-   "date": "2026-06-22",
-   "until": "",
-   "sources": [
+    "c-WwNRgVxkI:p30",
     "HxQjagSTTAM:p15"
    ]
   },
   {
-   "text": "If he stays healthy, he projects to become a dominant defensive player, with top 10 upside in his draft class.",
+   "text": "His free throw shooting is very poor. He could be one of the worst free throw shooters ever.",
    "kind": "verdict",
-   "date": "2026-08-27",
+   "date": "2026-10-15",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:p1",
-    "CLsUc0Sevos:p19"
-   ]
-  },
-  {
-   "text": "His free throw shooting is very poor.",
-   "kind": "fact",
-   "date": "2026-06-22",
-   "until": "",
-   "sources": [
+    "c-WwNRgVxkI:p30",
     "HxQjagSTTAM:p15",
     "stats"
    ]
   },
   {
-   "text": "He makes almost no threes.",
+   "text": "He does not shoot threes.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -153,21 +117,12 @@
  ],
  "tags": [
   {
-   "name": "rookie",
-   "channel": "current",
-   "detail": "2026 draft pick",
-   "until": "",
-   "sources": [
-    "ZAyie8lKyYc:p0"
-   ],
-   "new_meaning": ""
-  },
-  {
    "name": "injured now",
    "channel": "current",
-   "detail": "Recovering from knee surgery, Yahoo status O (Knee), timetable about six months",
+   "detail": "Recovering from another knee surgery. Yahoo status O (Knee). May miss the whole season.",
    "until": "",
    "sources": [
+    "c-WwNRgVxkI:p29",
     "ZAyie8lKyYc:p0",
     "stats"
    ],
@@ -179,6 +134,7 @@
    "detail": "Repeated knee surgeries",
    "until": "",
    "sources": [
+    "c-WwNRgVxkI:p29",
     "TOn-D1SV7a8:p8",
     "CLsUc0Sevos:p19",
     "HxQjagSTTAM:p15"
@@ -186,33 +142,31 @@
    "new_meaning": ""
   },
   {
-   "name": "minutes competition",
+   "name": "rookie",
    "channel": "current",
-   "detail": "Behind Victor Wembanyama in a deep Spurs frontcourt with other young centers",
+   "detail": "",
    "until": "",
    "sources": [
-    "CLsUc0Sevos:p20",
-    "ZAyie8lKyYc:t1",
-    "ZAyie8lKyYc:t4"
+    "ZAyie8lKyYc:p0",
+    "CLsUc0Sevos:p20"
    ],
    "new_meaning": ""
   },
   {
-   "name": "deep rotation",
-   "channel": "current",
-   "detail": "Spurs very deep at forward and center",
+   "name": "elite defender",
+   "channel": "durable",
+   "detail": "Shot blocker",
    "until": "",
    "sources": [
-    "ZAyie8lKyYc:t4",
-    "ZAyie8lKyYc:t5",
-    "P6TNP-g0wzY:t6"
+    "c-WwNRgVxkI:p30",
+    "ZAyie8lKyYc:p1"
    ],
    "new_meaning": ""
   },
   {
    "name": "no 3PM",
    "channel": "durable",
-   "detail": "Projected 0.0 threes per game",
+   "detail": "",
    "until": "",
    "sources": [
     "stats"
@@ -220,6 +174,6 @@
    "new_meaning": ""
   }
  ],
- "note": "He is a pass in our auction. Yahoo values him at 0 USD and ranks him 681st, ESPN has no price, and he is out after another knee surgery with no firm return date. Even healthy, he would sit behind Wembanyama in a deep frontcourt, and his tiny projection (3.8 points, 1.0 block, 50.6% FT) gives nothing beyond a few blocks. Check during the season whether the Spurs clear him to play, and only then think about him as a blocks-only waiver add.",
+ "note": "He should not be drafted in our league. Yahoo values him at 0 USD and ranks him 689th, ESPN does not price him, and the newest note says he may not play at all this season after another knee surgery. If he does return, the Yahoo projection (3.8 points, 1.0 block, 50.6% FT) shows he would help only in blocks and would sit behind Wembanyama on a deep team, so watch for a return timetable only as a deep waiver idea.",
  "rejected": []
 }

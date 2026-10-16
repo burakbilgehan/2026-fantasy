@@ -5,25 +5,25 @@ No NBA stats and no projections in our data.
 
 | Price in USD | Yahoo value | Yahoo average cost | Yahoo rank | ESPN value | ESPN average cost | ESPN rank | Our league 2025-26 |
 |---|---|---|---|---|---|---|---|
-| 2026-27 | 0 | - | 643 | - | 0.0 | - | not drafted |
+| 2026-27 | 0 | - | 649 | - | - | - | not drafted |
 
 **Current**
-- He is a rookie guard. The Rockets took him 31st, the first pick of the second round, after four years of college. (fact, 2026-10-01; [06-26](https://youtu.be/CLsUc0Sevos?t=1117), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [10-01](https://youtu.be/aLP080hxizA?t=1636))
-- Lloyd thinks he might become a real NBA player. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636))
-- Coach Ime Udoka plays his starters very heavy minutes and gives little room for error to players who struggle on defense. This caps the role of a bench rookie. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [09-09](https://youtu.be/7BllEsdNLoM?t=2451), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=1152))
-- The Houston guard rotation is crowded with Fred VanVleet, Amen Thompson, Marcus Smart, Bogdan Bogdanovic and Reed Sheppard. That limits his path to minutes. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
-- He could make some impact from opening night as extra guard depth. (verdict, 2026-08-12; [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [08-02](https://youtu.be/TOn-D1SV7a8?t=346))
-- Dynasty rookie rank 32. (verdict, 2026-08-02; [08-02](https://youtu.be/TOn-D1SV7a8?t=346))
+- He is a rookie guard for the Rockets, taken in the second round. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [06-26](https://youtu.be/CLsUc0Sevos?t=1117))
+- The experts think he can find a rotation role and could help as extra guard depth from opening night. Lloyd thinks he might develop into a real player. (verdict, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825), [08-02](https://youtu.be/TOn-D1SV7a8?t=346))
+- Coach Ime Udoka plays his starters very heavy minutes, and the roster is thin after the top 10 or 11 players. That leaves few minutes for a reserve guard. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=146), [10-01](https://youtu.be/aLP080hxizA?t=1621), [09-09](https://youtu.be/7BllEsdNLoM?t=2451))
+- With our March 28 end date, the Rockets have a weak fantasy playoff schedule: 3, 3 and 4 games, so 10 games over the three weeks. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1970))
+- Houston's guard rotation is crowded. Fred VanVleet, Amen Thompson, Marcus Smart, Reed Sheppard and Bogdan Bogdanovic all compete for guard minutes. (fact, 2026-09-15; [09-07](https://youtu.be/gJUBAJaHzlU?t=1659), [09-15](https://youtu.be/KPdD91Oo8-U?t=2090), [07-14](https://youtu.be/xHRF06_E9HE?t=1091))
 - In Summer League he averaged 16 points, more than 2.5 steals and 4 assists, and shot 41% from three. (fact, 2026-07-21; [07-21](https://youtu.be/RyzcCGChYgs?t=1948))
 
 **Durable**
 - He is undersized for an NBA guard. (fact, 2026-10-01; [10-01](https://youtu.be/aLP080hxizA?t=1636))
-- His shooting numbers are elite across the board. (verdict, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1117))
+- He played four years of college basketball. Houston drafted him 31st, the first pick of the second round. (fact, 2026-08-12; [06-26](https://youtu.be/CLsUc0Sevos?t=1117), [08-12](https://youtu.be/yoCTTlJ_tPQ?t=825))
+- His shooting numbers are elite across the board. (fact, 2026-06-26; [06-26](https://youtu.be/CLsUc0Sevos?t=1117))
 
 **Tags**
-- Current: `rookie` (Second-round pick (31st overall), four years of college), `minutes competition` (Crowded guard rotation: VanVleet, Thompson, Smart, Bogdanovic, Sheppard)
-- Durable: `heavy starter minutes` (Udoka plays starters very heavy minutes, which shrinks bench roles), `defense-first` (Udoka gives little room for error to players who struggle on defense)
+- Current: `rookie` (Second-round pick (31st) after four college seasons), `minutes competition` (Behind VanVleet, Thompson, Smart, Sheppard and Bogdanovic in a crowded guard group), `waiver watch` (Not draftable at Yahoo rank 649. Watch for a guard depth role and his Summer League steals and shooting carrying over), `bad playoff schedule` (Rockets play 3-3-4 (10 games) in weeks 19 to 21 with a March 28 end)
+- Durable: `heavy starter minutes` (Udoka plays his starters heavy minutes, which shrinks bench guard value)
 
-**Note.** Thornton is not a draft target in our 12-team auction. Yahoo values him at 0 USD and ranks him 643, ESPN does not rank him, and he was not drafted in our league last season. He is a bench rookie behind a crowded Houston guard group under a coach who plays his starters heavy minutes. Early in the season, check whether he gets real minutes or whether a guard injury opens a role. His Summer League steals and three-point shooting would only matter if that happens.
+**Note.** Yahoo ranks him 649th with a value of 0 USD, ESPN does not price him, and nobody in our league drafted him last season, so he is far outside the 144 players we draft. Leave him on waivers. In the first weeks, check whether Udoka gives him real minutes in a crowded guard group. Also check whether his Summer League steals and three-point shooting carry over. Only a guard injury in Houston would make him worth a pickup, and the Rockets' 10-game playoff schedule limits his late-season use.
 
-<sub>5 notes. Built 2026-10-11 with claude-opus-5-5 high, prompt v3.</sub>
+<sub>5 notes. Built 2026-10-16 with claude-opus-5-5 high, prompt v3.</sub>

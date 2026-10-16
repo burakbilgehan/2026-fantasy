@@ -8,20 +8,20 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "784b90403dc7",
+ "input_sha": "7851a7a85350",
  "note_count": 8,
- "built_at": "2026-10-11T09:13:31+00:00",
+ "built_at": "2026-10-16T08:46:09+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1772902,
-  "duration_ms": 45943,
+  "cost_usd_list": 0.1880822,
+  "duration_ms": 48385,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "Rookie. Milwaukee drafted him 10th overall. He is 21 years old.",
+   "text": "Rookie. Milwaukee drafted him 10th overall. He is already 21.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
@@ -32,7 +32,7 @@
    ]
   },
   {
-   "text": "The team views him as its long-term shooting guard.",
+   "text": "Milwaukee views him as its long-term shooting guard. His game translated in summer league.",
    "kind": "fact",
    "date": "2026-08-14",
    "until": "",
@@ -41,22 +41,34 @@
    ]
   },
   {
-   "text": "Milwaukee's guard group is crowded. Rollins, Herro, Porter, Jakucionis, Trent and Green all compete for backcourt minutes. He is not in the projected opening starting five of Rollins, Herro, Jaquez, Kuzma and Turner.",
+   "text": "Milwaukee's backcourt is crowded. Herro, Rollins, Kevin Porter Jr., Jakucionis, Trent and Green compete with him for guard minutes. The projected opening starters are Rollins, Herro, Jaquez, Kuzma and Turner, so he is not in the starting lineup.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-08",
    "until": "",
    "sources": [
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t3",
     "ZYllcj4o6_A:t4",
     "sTtFUy7IoJI:t8",
     "7BllEsdNLoM:t0",
-    "sDzeYdUhJDI:t0",
-    "sDzeYdUhJDI:t3",
-    "-DN4P92Wp8Y:t4",
     "RsjGTgJiKyI:t3"
    ]
   },
   {
-   "text": "He has no clear path to minutes. Experts do not expect 30 minutes right away and think he may need until year three to be useful in fantasy.",
+   "text": "New coach Taylor Jenkins makes the rotation hard to predict. Experts call it the least clear rotation in the league, and he may use a deep rotation.",
+   "kind": "fact",
+   "date": "2026-10-13",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t0",
+    "sDzeYdUhJDI:t2",
+    "WXO8MfQfzo0:t0"
+   ]
+  },
+  {
+   "text": "He has no clear path to minutes and is not expected to play 30 minutes right away. A rank around 240 is reasonable, well below his general ADP of 113.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -67,16 +79,19 @@
    ]
   },
   {
-   "text": "A rank around 240 is reasonable. His ADP of 113 is too high.",
+   "text": "Milwaukee is expected to focus more on developing young players as the season goes on, which would cut veteran minutes. The roster also needs trades to consolidate its guards and forwards.",
    "kind": "verdict",
-   "date": "2026-10-08",
+   "date": "2026-10-09",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p31"
+    "sDzeYdUhJDI:t4",
+    "sDzeYdUhJDI:t5",
+    "-DN4P92Wp8Y:t4",
+    "4GDfg2n2l8o:t1"
    ]
   },
   {
-   "text": "Do not draft him in standard leagues. He is a stash option only in stash formats.",
+   "text": "Do not draft him in standard leagues. He is a stash option only in stash formats and may get chances in March.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
@@ -85,62 +100,43 @@
    ]
   },
   {
-   "text": "He may get chances in March. The Bucks are expected to focus more on young players as the season goes on, which would cut veteran minutes.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p33",
-    "sDzeYdUhJDI:t4"
-   ]
-  },
-  {
-   "text": "Taylor Jenkins is the new head coach. He might use a deep rotation.",
-   "kind": "fact",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t2",
-    "owlM6b8oUd0:t3"
-   ]
-  },
-  {
-   "text": "The Bucks roster needs trades to consolidate, and more moves are possible. That could change the guard minutes.",
-   "kind": "verdict",
-   "date": "2026-10-08",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t5",
-    "owlM6b8oUd0:t0",
-    "4GDfg2n2l8o:t1"
-   ]
-  },
-  {
-   "text": "Experts expect the Bucks to be a bad team. Their win total is 26.5. They do not own their draft pick, so they have no reason to tank.",
+   "text": "Milwaukee is expected to be a bad team, around 33 wins. It does not own its draft pick.",
    "kind": "verdict",
    "date": "2026-08-14",
    "until": "",
    "sources": [
     "owlM6b8oUd0:t4",
     "sfCe7fS9daM:t8",
-    "Rqb5GdrSweY:t0"
+    "Rqb5GdrSweY:t0",
+    "sDzeYdUhJDI:t1"
    ]
   }
  ],
  "durable": [
   {
-   "text": "He is a combo guard without a classic fantasy skill set. He has a flat stat profile with no standout category and is not a big source of steals, blocks or assists.",
+   "text": "He is a combo guard who plays more like a shooting guard.",
+   "kind": "fact",
+   "date": "2026-10-08",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p32",
+    "RsjGTgJiKyI:p15"
+   ]
+  },
+  {
+   "text": "He has a flat fantasy profile with no standout skill. He does not bring many defensive stats and is not a passer. Scoring and threes are his main contributions.",
    "kind": "verdict",
    "date": "2026-10-08",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p32",
     "LUTYUdXBG1M:p15",
-    "HxQjagSTTAM:p6"
+    "HxQjagSTTAM:p6",
+    "RsjGTgJiKyI:p16"
    ]
   },
   {
-   "text": "In summer league he averaged about 19 points, 4 rebounds, 3.5 assists, 1.8 threes and 1.6 steals. He shot poorly from the free throw line.",
+   "text": "In summer league he averaged about 19 points, 4 rebounds, 3.5 assists, 1.8 threes and 1.6 steals. He shot free throws poorly there.",
    "kind": "fact",
    "date": "2026-10-08",
    "until": "",
@@ -150,11 +146,12 @@
    ]
   },
   {
-   "text": "His best case is about 80% of Bradley Beal: scoring, decent threes and okay rebounds and assists.",
+   "text": "His best case is about 80% of Bradley Beal. He likely needs until his third season to be useful in fantasy.",
    "kind": "verdict",
    "date": "2026-06-28",
    "until": "",
    "sources": [
+    "RsjGTgJiKyI:p15",
     "RsjGTgJiKyI:p16"
    ]
   }
@@ -163,10 +160,11 @@
   {
    "name": "rookie",
    "channel": "current",
-   "detail": "10th overall pick, age 21",
+   "detail": "10th overall pick, already 21",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:p31",
+    "sDzeYdUhJDI:p33",
     "owlM6b8oUd0:p17"
    ],
    "new_meaning": ""
@@ -174,35 +172,38 @@
   {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "Crowded Bucks backcourt: Rollins, Herro, Porter, Jakucionis, Trent, Green",
+   "detail": "crowded guard group: Herro, Rollins, Porter, Jakucionis, Trent, Green",
    "until": "",
    "sources": [
-    "sDzeYdUhJDI:p31",
+    "sDzeYdUhJDI:t0",
     "ZYllcj4o6_A:t4",
     "sTtFUy7IoJI:t8",
-    "sDzeYdUhJDI:t0",
-    "RsjGTgJiKyI:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "slow start",
-   "channel": "current",
-   "detail": "May get chances in March as Milwaukee moves toward developing young players",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:p33",
-    "sDzeYdUhJDI:t4"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "bust candidate",
-   "channel": "current",
-   "detail": "At ADP 113. The expert ranks him around 240",
-   "until": "",
-   "sources": [
+    "RsjGTgJiKyI:t3",
     "sDzeYdUhJDI:p31"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "unsettled rotation",
+   "channel": "current",
+   "detail": "experts call the Bucks rotation the least clear in the league",
+   "until": "",
+   "sources": [
+    "KqTKVExQGLo:t4",
+    "uI6umXsE7Vk:t3",
+    "sDzeYdUhJDI:t0",
+    "WXO8MfQfzo0:t0"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "deep rotation",
+   "channel": "current",
+   "detail": "Jenkins may spread minutes across many guards",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:t2",
+    "sDzeYdUhJDI:t0"
    ],
    "new_meaning": ""
   },
@@ -213,39 +214,26 @@
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t2",
-    "owlM6b8oUd0:t3"
-   ],
-   "new_meaning": ""
-  },
-  {
-   "name": "unsettled rotation",
-   "channel": "current",
-   "detail": "Experts call it the hardest NBA rotation to read",
-   "until": "",
-   "sources": [
-    "sDzeYdUhJDI:t0",
-    "WXO8MfQfzo0:t0",
-    "OdDkXFhoKsc:t1",
-    "-DN4P92Wp8Y:t4"
+    "uI6umXsE7Vk:t3"
    ],
    "new_meaning": ""
   },
   {
    "name": "trades likely",
    "channel": "current",
-   "detail": "17-man roster heavy on guards, needs to consolidate",
+   "detail": "roster needs consolidation, which could open guard minutes",
    "until": "",
    "sources": [
     "sDzeYdUhJDI:t5",
-    "owlM6b8oUd0:t0",
-    "4GDfg2n2l8o:t1"
+    "4GDfg2n2l8o:t1",
+    "nnWX_ObljOE:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "Win total 26.5",
+   "detail": "about 33 wins expected",
    "until": "",
    "sources": [
     "owlM6b8oUd0:t4",
@@ -253,8 +241,30 @@
     "Rqb5GdrSweY:t0"
    ],
    "new_meaning": ""
+  },
+  {
+   "name": "slow start",
+   "channel": "current",
+   "detail": "no early path to minutes; youth focus grows later and he may get chances in March",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p31",
+    "sDzeYdUhJDI:p33",
+    "sDzeYdUhJDI:t4"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "waiver watch",
+   "channel": "current",
+   "detail": "do not draft in standard leagues; watch for a bigger role later in the season",
+   "until": "",
+   "sources": [
+    "sDzeYdUhJDI:p33"
+   ],
+   "new_meaning": ""
   }
  ],
- "note": "Yahoo ranks him 242 and ESPN 226, both value him at 0 USD, and our league drafts only 144 players, so do not spend auction money on him. The sites cannot agree on what kind of guard he is (Yahoo projects 1.3 threes and 2.4 assists, ESPN 0.4 threes and 4.1 assists), and no category stands out in his profile, so he helps no particular build. Leave him on waivers and check the Bucks guard minutes after the trade deadline (2027-03-04). If Milwaukee shifts minutes to young players, he could be a short-term pickup for the playoff weeks in March.",
+ "note": "At Yahoo rank 252 and ESPN rank 226, with a 0 USD value on both sites, he falls well outside the 144 players drafted in our league, and the expert says not to draft him in standard leagues. No category is a strong or weak outlier. The two projections disagree on his game: Yahoo has him at 1.3 threes and 2.4 assists, while ESPN has 0.4 threes, 4.1 assists and 2.1 turnovers. That makes him a waiver name, not a punt-build fit. Track his minutes under Jenkins and any Bucks guard trades, since a youth push could give him a role near our fantasy playoffs in March.",
  "rejected": []
 }

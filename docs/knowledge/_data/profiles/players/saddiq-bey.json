@@ -8,20 +8,29 @@
  },
  "prompt_version": 3,
  "prompt_sha": "742ab7f0ba5d",
- "input_sha": "8f0bf9b639de",
- "note_count": 2,
- "built_at": "2026-10-11T09:23:04+00:00",
+ "input_sha": "451009903237",
+ "note_count": 4,
+ "built_at": "2026-10-16T09:15:34+00:00",
  "llm": {
   "model": "claude-opus-5-5",
   "effort": "high",
-  "cost_usd_list": 0.1393622,
-  "duration_ms": 32437,
+  "cost_usd_list": 0.1586862,
+  "duration_ms": 35164,
   "turns": 2,
   "denied": 0
  },
  "current": [
   {
-   "text": "There is talk that Bey could start for the Pelicans and close games in lineups with Zion Williamson at center.",
+   "text": "The latest Pelicans preview projects him well below last season, when he finished 108th in category leagues.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p19"
+   ]
+  },
+  {
+   "text": "Some people expect him to start for the Pelicans and maybe close games in lineups with Zion Williamson at center.",
    "kind": "fact",
    "date": "2026-10-05",
    "until": "",
@@ -31,7 +40,7 @@
    ]
   },
   {
-   "text": "Josh thinks there is far too much hype around Bey. He went for 1 USD in an expert auction mock draft. An earlier mock called him a bad pick at 119 because he might be only the seventh or eighth man on the Pelicans.",
+   "text": "Josh thinks there is way too much hype around him and sees him as possibly only the seventh or eighth man on the Pelicans. He called taking him at pick 119 a bad pick.",
    "kind": "verdict",
    "date": "2026-10-05",
    "until": "",
@@ -41,21 +50,30 @@
    ]
   },
   {
-   "text": "New Orleans has a crowded rotation of about eight players who could all start, including Bey. Bennedict Mathurin has also been added. There are too many players for 240 minutes, so roles are hard to project.",
+   "text": "He went for 1 USD in an expert auction mock draft.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-05",
    "until": "",
    "sources": [
-    "NYTH7uQsPCM:t0",
-    "WXO8MfQfzo0:t1",
-    "-DN4P92Wp8Y:t2",
-    "gerS7ibpaJo:t1"
+    "Q6YlQDvD-aY:p94"
    ]
   },
   {
-   "text": "The latest expert lineup projection has Zion Williamson, Trey Murphy, Dejounte Murray and probably Yves Missi starting. The last spot goes to Jeremiah Fears or Herb Jones, not Bey.",
+   "text": "The Pelicans roster is crowded, with about eight players who could start, including him. It is unclear how the 240 minutes will be split.",
    "kind": "fact",
-   "date": "2026-10-02",
+   "date": "2026-10-11",
+   "until": "",
+   "sources": [
+    "NYTH7uQsPCM:t0",
+    "uI6umXsE7Vk:t0",
+    "WXO8MfQfzo0:t1",
+    "gsx_UDkVPd0:t0"
+   ]
+  },
+  {
+   "text": "Recent projected starting lineups do not include him. Dejounte Murray, Trey Murphy and Zion Williamson are seen as locked in, with Yves Missi likely at center and Jeremiah Fears or Herb Jones in the last spot.",
+   "kind": "fact",
+   "date": "2026-10-04",
    "until": "",
    "sources": [
     "ZYllcj4o6_A:t1",
@@ -63,18 +81,35 @@
    ]
   },
   {
-   "text": "The Pelicans have a new head coach, Jamahl Mosley, who brings a defense-first identity.",
+   "text": "Jamahl Mosley is the new head coach and brings a defense-first identity.",
    "kind": "fact",
-   "date": "2026-10-09",
+   "date": "2026-10-10",
    "until": "",
    "sources": [
-    "5QU-jta-lWM:t4",
-    "gerS7ibpaJo:t0",
-    "-DN4P92Wp8Y:t2"
+    "gsx_UDkVPd0:t2",
+    "5QU-jta-lWM:t4"
    ]
   },
   {
-   "text": "Experts see the Pelicans as a weak team near the bottom of the West. One projection is about 34 wins, which would not make the playoffs.",
+   "text": "The Pelicans have a league-high 16 back-to-backs.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t6"
+   ]
+  },
+  {
+   "text": "With a season end of March 28, the Pelicans play 4, 4 and 3 games in the fantasy playoff weeks, which the expert calls good.",
+   "kind": "fact",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t5"
+   ]
+  },
+  {
+   "text": "Experts see the Pelicans as a weak team near the bottom of the West. One projects about 34 wins and no playoffs.",
    "kind": "verdict",
    "date": "2026-08-03",
    "until": "",
@@ -86,9 +121,27 @@
  ],
  "durable": [
   {
-   "text": "He blocks almost no shots, even for a forward, so a punt BLK build loses little with him.",
+   "text": "The expert does not like his archetype. He needs more usage than a good team would give him and does little else.",
+   "kind": "verdict",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p20"
+   ]
+  },
+  {
+   "text": "He has a torn ACL in his injury history and finished strongly after coming back from it.",
    "kind": "fact",
-   "date": "2026-10-11",
+   "date": "2026-10-10",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p20"
+   ]
+  },
+  {
+   "text": "He blocks almost no shots for a forward, so a punt BLK team loses little with him. His FT% and low turnovers are mild positives.",
+   "kind": "fact",
+   "date": "2026-10-16",
    "until": "",
    "sources": [
     "stats"
@@ -97,9 +150,19 @@
  ],
  "tags": [
   {
+   "name": "usage dependent",
+   "channel": "durable",
+   "detail": "needs more usage than a good team would give him and does little else",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p20"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "punt BLK fit",
    "channel": "durable",
-   "detail": "About 0.1 blocks per game, weak for a forward",
+   "detail": "about 0.1 blocks per game as a forward",
    "until": "",
    "sources": [
     "stats"
@@ -107,37 +170,47 @@
    "new_meaning": ""
   },
   {
+   "name": "role down",
+   "channel": "current",
+   "detail": "projected well below last season; may be only the seventh or eighth man",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:p19",
+    "E-KmhvyZ2CU:p23"
+   ],
+   "new_meaning": ""
+  },
+  {
    "name": "minutes competition",
    "channel": "current",
-   "detail": "One of about eight Pelicans who could start. Recent lineup projections leave him out of the starting five.",
+   "detail": "about eight Pelicans who could start; not in recent projected starting fives",
    "until": "",
    "sources": [
     "NYTH7uQsPCM:t0",
     "ZYllcj4o6_A:t1",
-    "E-KmhvyZ2CU:p23",
-    "Q6YlQDvD-aY:p94"
+    "n4KkK-OJjqA:t2"
    ],
    "new_meaning": ""
   },
   {
    "name": "deep rotation",
    "channel": "current",
-   "detail": "Too many Pelicans for 240 minutes, and Mathurin has been added",
+   "detail": "too many Pelicans for 240 minutes",
    "until": "",
    "sources": [
+    "uI6umXsE7Vk:t0",
     "WXO8MfQfzo0:t1",
-    "NYTH7uQsPCM:t0",
-    "gerS7ibpaJo:t1"
+    "NYTH7uQsPCM:t0"
    ],
    "new_meaning": ""
   },
   {
    "name": "unsettled rotation",
    "channel": "current",
-   "detail": "Pelicans roles and starters are hard to project",
+   "detail": "starting frontcourt and guard roles unclear",
    "until": "",
    "sources": [
-    "WXO8MfQfzo0:t1",
+    "uI6umXsE7Vk:t0",
     "OdDkXFhoKsc:t0"
    ],
    "new_meaning": ""
@@ -148,16 +221,34 @@
    "detail": "Jamahl Mosley",
    "until": "",
    "sources": [
-    "gerS7ibpaJo:t0",
-    "5QU-jta-lWM:t4",
-    "-DN4P92Wp8Y:t2"
+    "gsx_UDkVPd0:t2"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "many back-to-backs",
+   "channel": "current",
+   "detail": "league-high 16",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t6"
+   ],
+   "new_meaning": ""
+  },
+  {
+   "name": "good playoff schedule",
+   "channel": "current",
+   "detail": "4-4-3 for a March 28 end",
+   "until": "",
+   "sources": [
+    "gsx_UDkVPd0:t5"
    ],
    "new_meaning": ""
   },
   {
    "name": "bottom team",
    "channel": "current",
-   "detail": "About 34 wins projected, near the bottom of the West",
+   "detail": "about 34 wins projected, bottom of the West",
    "until": "",
    "sources": [
     "0AptxcRW0RE:t7",
@@ -166,6 +257,6 @@
    "new_meaning": ""
   }
  ],
- "note": "Bey sits right at our 144-player cut (Yahoo rank 151, ESPN rank 133), with 0 USD values and average costs of 1.0 USD on Yahoo and 0.2 USD on ESPN, so at most he is a 1 USD last pick. His projected line gives solid FT% and threes with few turnovers, but almost no blocks and a below-average FG%, so he fits punt BLK builds best. Experts doubt the starter hype, so leave him on waivers and watch early in the season whether Mosley starts him or closes games with him.",
+ "note": "Both sites price him at about 1 USD or less (Yahoo rank 150, ESPN 133), and 144 players get drafted, so he sits right at the edge of our player pool. The experts think the hype is too much and that he is a fragile bench piece on a crowded Pelicans roster. Let him go to waivers or take him only as a 1 USD final pick for a punt BLK build. Early in the season, check whether he starts or closes games next to Zion at center: last season's 17.7 points on 13.4 shots came with a bigger role than he is projected to get now.",
  "rejected": []
 }
