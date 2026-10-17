@@ -130,6 +130,8 @@ export type ValuedPlayer = {
   stats: Record<string, number | null>
   usg_pct: number | null // usage rate, fraction; season in settings.usage_season
   age: number | null // age on October 1 of the base season's first year
+  playoff_games: number[] | null // games of the player's NBA team in fantasy playoff weeks 19, 20, 21 (current season)
+  playoff_b2b: number | null // back-to-backs of his team in those weeks
   z: Record<string, number> | null
   total: number | null
   rank: number | null

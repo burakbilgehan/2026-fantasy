@@ -663,3 +663,27 @@ table.rslots td.num { width: 38px; text-align: right; font-variant-numeric: tabu
 table.rslots tr.planned td.pname { font-style: italic; color: var(--muted); }
 table.rslots tr.open td { opacity: 0.6; }
 .rcard footer { margin-top: 6px; }
+
+/* Player lists (lib/playerLists.tsx) */
+.list-marks { font-size: 0.9em; letter-spacing: 1px; white-space: nowrap; }
+.list-btn-wrap { display: inline-flex; }
+.list-btn { border: 1px solid var(--line, #8884); background: transparent; color: var(--muted); border-radius: 4px;
+  width: 18px; height: 18px; padding: 0; line-height: 1; font-size: 13px; cursor: pointer; opacity: 0.45; }
+tbody.player:hover .list-btn, .mrow:hover .list-btn, .list-btn[aria-expanded="true"] { opacity: 1; }
+.list-btn:hover { color: var(--text); }
+.list-menu { position: fixed; z-index: 1000; width: 260px; max-height: 310px; overflow: auto; background: var(--panel);
+  color: var(--text); border: 1px solid var(--line, #8886); border-radius: 8px; padding: 8px; box-shadow: 0 6px 24px #0004;
+  font-size: 0.85rem; font-weight: 400; text-align: left; white-space: normal; }
+.list-item { display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 2px 0; }
+.list-item label { display: flex; align-items: center; gap: 6px; cursor: pointer; flex: 1; }
+.list-sym { font-size: 1.05em; }
+.list-del { border: none; background: transparent; color: var(--muted); cursor: pointer; padding: 0 4px; }
+.list-del.confirm { color: var(--bad); font-weight: 600; }
+.list-new { border-top: 1px solid var(--line, #8884); margin-top: 6px; padding-top: 6px; display: grid; gap: 6px; }
+.list-syms { display: flex; flex-wrap: wrap; gap: 2px; }
+.list-syms button { border: 1px solid transparent; background: transparent; border-radius: 4px; padding: 1px 3px; cursor: pointer; font-size: 1rem; }
+.list-syms button.on { border-color: var(--text); }
+.list-new-row { display: flex; gap: 4px; }
+.list-new-row input { min-width: 0; flex: 1; }
+.list-new-row .list-sym-input { flex: 0 0 38px; text-align: center; }
+.mplayer .list-btn-wrap { margin-left: 6px; }

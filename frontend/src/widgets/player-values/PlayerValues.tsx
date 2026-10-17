@@ -4,6 +4,7 @@ import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
 import { useLiveBoard } from '../../lib/liveBoard'
+import { ListButton, ListMarks, ListsProvider, useLists } from '../../lib/playerLists'
 import { useSynced } from '../../lib/synced'
 import { FocusPanel } from './draft/FocusPanel'
 import { LeagueOverview } from './draft/LeagueOverview'
@@ -44,6 +45,20 @@ const money = (v: number) => `$${v.toFixed(0)}`
 const one = (v: number) => v.toFixed(1)
 
 type UsageScale = { mean: number; sd: number }
+
+// Games in the fantasy playoff weeks 19, 20, 21 (user, 2026-10-17): "4-3-4", tint by a score over the pool's
+// range: the best schedule darkest green, the worst darkest red. Back-to-backs count against it (user: stars
+// rest on one of the two nights). The weight is assumed: one back-to-back = half a game.
+const B2B_COST = 0.5
+const poSum = (p: ValuedPlayer) => (p.playoff_games
+  ? p.playoff_games.reduce((a, b) => a + b, 0) - B2B_COST * (p.playoff_b2b ?? 0) : null)
+
+function playoffScale(players: ValuedPlayer[]): { mid: number; half: number } | null {
+  const xs = players.map(poSum).filter((x): x is number => x != null)
+  if (!xs.length) return null
+  const lo = Math.min(...xs), hi = Math.max(...xs)
+  return hi > lo ? { mid: (lo + hi) / 2, half: (hi - lo) / 2 } : null
+}
 
 /** Mean and spread of usage over the valued pool (players with a rank), for the usage tint. */
 function usageScale(players: ValuedPlayer[]): UsageScale | null {
@@ -87,7 +102,7 @@ function opportunity(p: ValuedPlayer): number | null {
 }
 
 function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usage?: UsageScale | null,
-  sold?: Map<number, string>, fpts?: Map<number, number> | null): Column[] {
+  sold?: Map<number, string>, fpts?: Map<number, number> | null, po?: { mid: number; half: number } | null): Column[] {
   const fluff = (p: ValuedPlayer): number | null => {
     const r = fpts?.get(p.player_id)
     return p.rank == null || r == null ? null : r - p.rank
@@ -137,6 +152,11 @@ function columns(cats: string[], view: 'stats' | 'z', usageSeason?: string, usag
       num: true, value: (p) => (p.usg_pct == null ? null : p.usg_pct * 100), fmt: one,
       // Higher usage = green: more shots and counting stats. Tint vs the valued pool.
       heat: (p) => (p.usg_pct == null || !usage ? null : { z: (p.usg_pct - usage.mean) / usage.sd, full: Z_FULL }) },
+    { key: 'po', label: 'Playoff', group: 'Playing time',
+      title: `Games of his NBA team in the fantasy playoff weeks 19, 20, 21 (Mar 8-14, 15-21, 22-28; Monday to Sunday assumed), and back-to-backs in them. Sort and color: games minus ${B2B_COST} per back-to-back.`,
+      value: (p) => p.playoff_games?.join('-') ?? null, sortValue: poSum,
+      sub: (p) => (p.playoff_b2b ? `${p.playoff_b2b} b2b` : null),
+      heat: (p) => { const n = poSum(p); return n == null || !po ? null : { z: n - po.mid, full: po.half } } },
   ]
   const catCols: Column[] = cats.map((c, i) => ({
     key: view === 'z' ? `z_${c}` : c,
@@ -189,7 +209,8 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
     <td className={cls} rowSpan={rowSpan}>
       {col.render ? col.render(p) : col.key === 'name'
         ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
-          <button className="link" aria-haspopup="dialog" data-open-drawer="1">{text}</button></span>
+          <button className="link" aria-haspopup="dialog" data-open-drawer="1">{text}</button>
+          <ListMarks pk={p.player_id} /><ListButton pk={p.player_id} /></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
@@ -199,7 +220,7 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
 // Wide table, two lines per player (user, 2026-10-05: see everything without side scroll).
 // Left: pairs of columns stacked (top / bottom). Right: the categories, one tall cell each.
 const PAIRS: [string, string | null][] = [
-  ['team', 'pos'], ['gp', 'min'], ['usg', 'age'], ['dollars', 'total'], ['fpts', 'fluff'], ['room_exp', null],
+  ['team', 'pos'], ['gp', 'min'], ['usg', 'age'], ['po', null], ['dollars', 'total'], ['fpts', 'fluff'], ['room_exp', null],
   ['room_opp', null], ['y_cost', 'y_av'], ['e_cost', 'f_adp'],
 ]
 
@@ -305,6 +326,13 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
     return <span className={['musg', h?.cls].filter(Boolean).join(' ')} title="Usage rate"><span style={h?.style}>
       {cellText(usg, p)}% usg</span></span>
   }
+  const poChip = (p: ValuedPlayer) => {
+    const po = byKey.get('po')!
+    if (po.value(p) == null) return null
+    const h = heatOf(po, p)
+    return <span className={['musg', h?.cls].filter(Boolean).join(' ')} title="Games in playoff weeks 19, 20, 21"><span style={h?.style}>
+      PO {cellText(po, p)}{p.playoff_b2b ? ` (${p.playoff_b2b} b2b)` : ''}</span></span>
+  }
   return (
     <div className="mlist">
       <div className="mrow mhead">
@@ -321,8 +349,8 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
             <span className="mrank">{p.rank ?? '-'}</span>
             <Headshot nbaId={p.nba_id} name={p.name} />
             <span className="mname">
-              <span className="mplayer">{p.name}{p.injury && <span className="injury">{p.injury}</span>}</span>
-              <small>{sub(p)} {usgChip(p)}</small>
+              <span className="mplayer">{p.name}<ListMarks pk={p.player_id} />{p.injury && <span className="injury">{p.injury}</span>}<ListButton pk={p.player_id} /></span>
+              <small>{sub(p)} {usgChip(p)} {poChip(p)}</small>
             </span>
             {top.map((c) => {
               const h = heatOf(c, p)
@@ -348,7 +376,11 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
 // across tabs.
 export type View = 'draft' | 'league' | 'player'
 
-export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
+export function PlayerValues(props: { mode?: View }) {
+  return <ListsProvider><PlayerValuesInner {...props} /></ListsProvider>
+}
+
+function PlayerValuesInner({ mode = 'draft' }: { mode?: View }) {
   const [options, setOptions] = useState<ValuationOptions | null>(null)
   const [query, setQuery] = useSynced<ValuationQuery | null>('pv-query', null)
   const [data, setData] = useState<Valuation | null>(null)
@@ -368,6 +400,12 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   const tagged = useMemo(() => (!tag ? null : tagLoaded?.tag === tag ? tagLoaded.ids : new Set<number>()),
     [tag, tagLoaded])
   const narrow = useNarrow()
+  const lists = useLists()
+  const [listId, setListId] = useState('')
+  const inList = useMemo(() => {
+    const l = listId ? lists?.lists.find((x) => x.id === listId) : null
+    return l ? new Set(l.players) : null
+  }, [listId, lists])
   const live = useLiveBoard()
   const board = live.board
   const [onlyUnsold, setOnlyUnsold] = useState(false)
@@ -422,14 +460,15 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   const byId = useMemo(() => new Map((data?.players ?? []).map((p) => [p.player_id, p])), [data])
   const teams = useMemo(() => (board ? buildTeams(board, byId) : []), [board, byId])
   const cols = useMemo(() => columns(cats, view, data?.settings.usage_season, data && usageScale(data.players), sold,
-    data && fptsRanks(data.players, data.settings.basis)), [cats, view, data, sold])
+    data && fptsRanks(data.players, data.settings.basis), data && playoffScale(data.players)), [cats, view, data, sold])
 
   const rows = useMemo(() => {
     if (!data) return []
     const col = cols.find((c) => c.key === sort.key) ?? cols[0]
     const needle = search.trim().toLowerCase()
     const list = data.players.filter((p) => (!needle || p.name.toLowerCase().includes(needle))
-      && (!tagged || tagged.has(p.player_id)) && (!onlyUnsold || !sold?.has(p.player_id)))
+      && (!tagged || tagged.has(p.player_id)) && (!inList || inList.has(p.player_id))
+      && (!onlyUnsold || !sold?.has(p.player_id)))
     return [...list].sort((a, b) => {
       const key = col.sortValue ?? col.value
       const x = key(a), y = key(b)
@@ -438,7 +477,7 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
       const r = typeof x === 'string' ? x.localeCompare(String(y)) : x - (y as number)
       return sort.desc ? -r : r
     })
-  }, [data, cols, sort, search, tagged, onlyUnsold, sold])
+  }, [data, cols, sort, search, tagged, inList, onlyUnsold, sold])
 
   const focusPk = tried && tried.nom === nomKey ? tried.pk : board?.nomination?.player_pk ?? null
   const focusRow = focusPk != null ? byId.get(focusPk) ?? null : null
@@ -520,6 +559,12 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
           <select value={tag} onChange={(e) => setTag(e.target.value)}>
             <option value="">All players</option>
             {tags.map((t) => <option key={t.tag} value={t.tag}>{t.tag} ({t.count})</option>)}
+          </select>
+        </label>
+        <label>List
+          <select value={inList ? listId : ''} onChange={(e) => setListId(e.target.value)}>
+            <option value="">All players</option>
+            {lists?.lists.map((l) => <option key={l.id} value={l.id}>{l.symbol} {l.name} ({l.players.length})</option>)}
           </select>
         </label>
         <input className="search" type="search" placeholder="Find a player" aria-label="Find a player"

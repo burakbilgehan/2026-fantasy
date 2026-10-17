@@ -96,6 +96,28 @@ def _sim_inputs(season: str) -> SimInputs:
     return SimInputs(weeks=weeks, team_games=team_games, team_of=team_of, team_size=_league_shape()[1])
 
 
+@lru_cache(maxsize=4)
+def playoff_games(season: str) -> dict[str, tuple[tuple[int, ...], int]]:
+    """NBA team -> (games in each fantasy playoff week, back-to-backs). Weeks 19, 20, 21: the last three weeks,
+    ending on the last Sunday of March (RULES.md). A back-to-back counts when its second game is in those weeks.
+    Only seasons with an NBA schedule in the DB; else empty."""
+    with SessionLocal() as db:
+        games = db.execute(select(NbaGame.home, NbaGame.away, NbaGame.game_date_et).where(NbaGame.season == season)).all()
+    if not games:
+        return {}
+    weeks = _fantasy_weeks([d for _, _, d in games], season)[-3:]
+    team_dates: dict[str, set[date]] = defaultdict(set)
+    for home, away, d in games:
+        team_dates[home].add(d)
+        team_dates[away].add(d)
+    out = {}
+    for team, ds in team_dates.items():
+        per_week = tuple(sum(1 for d in ds if w <= d <= w + timedelta(days=6)) for w in weeks)
+        b2b = sum(1 for d in ds if weeks[0] <= d <= weeks[-1] + timedelta(days=6) and d - timedelta(days=1) in ds)
+        out[team] = (per_week, b2b)
+    return out
+
+
 @lru_cache(maxsize=8)
 def _g_weights(season: str, roster_size: int = 12) -> tuple[tuple[str, ...], dict[str, float]]:
     """Weights from the two regular seasons before `season`. No earlier logs: the two oldest seasons."""
@@ -287,6 +309,7 @@ def values(
     usage = _usage(base, usg_season)
     nba = nba_ids(base)
     market_price = market_prices() if season == CURRENT_SEASON else {}
+    po = playoff_games(CURRENT_SEASON) if season == CURRENT_SEASON else {}
 
     out = []
     for pk, r in base.items():
@@ -302,6 +325,8 @@ def values(
             "stats": {f: getattr(r, f) for f in (*STAT_FIELDS, "min")},
             "usg_pct": usage.get(pk),
             "age": _age(p, season),
+            "playoff_games": po[p.team][0] if p.team in po else None,
+            "playoff_b2b": po[p.team][1] if p.team in po else None,
             "z": v["z"] if v else None,
             "total": v["total"] if v else None,
             "rank": v["rank"] if v else None,
