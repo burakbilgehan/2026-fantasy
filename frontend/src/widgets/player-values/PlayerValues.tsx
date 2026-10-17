@@ -4,7 +4,7 @@ import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
 import { useLiveBoard } from '../../lib/liveBoard'
-import { ListButton, ListMarks, ListsProvider, useLists } from '../../lib/playerLists'
+import { ListMarks, useLists } from '../../lib/playerLists'
 import { useSynced } from '../../lib/synced'
 import { FocusPanel } from './draft/FocusPanel'
 import { LeagueOverview } from './draft/LeagueOverview'
@@ -210,7 +210,7 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
       {col.render ? col.render(p) : col.key === 'name'
         ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
           <button className="link" aria-haspopup="dialog" data-open-drawer="1">{text}</button>
-          <ListMarks pk={p.player_id} /><ListButton pk={p.player_id} /></span>
+          <ListMarks pk={p.player_id} /></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
     </td>
@@ -349,7 +349,7 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
             <span className="mrank">{p.rank ?? '-'}</span>
             <Headshot nbaId={p.nba_id} name={p.name} />
             <span className="mname">
-              <span className="mplayer">{p.name}<ListMarks pk={p.player_id} />{p.injury && <span className="injury">{p.injury}</span>}<ListButton pk={p.player_id} /></span>
+              <span className="mplayer">{p.name}<ListMarks pk={p.player_id} />{p.injury && <span className="injury">{p.injury}</span>}</span>
               <small>{sub(p)} {usgChip(p)} {poChip(p)}</small>
             </span>
             {top.map((c) => {
@@ -376,11 +376,7 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
 // across tabs.
 export type View = 'draft' | 'league' | 'player'
 
-export function PlayerValues(props: { mode?: View }) {
-  return <ListsProvider><PlayerValuesInner {...props} /></ListsProvider>
-}
-
-function PlayerValuesInner({ mode = 'draft' }: { mode?: View }) {
+export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   const [options, setOptions] = useState<ValuationOptions | null>(null)
   const [query, setQuery] = useSynced<ValuationQuery | null>('pv-query', null)
   const [data, setData] = useState<Valuation | null>(null)

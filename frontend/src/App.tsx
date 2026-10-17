@@ -1,15 +1,17 @@
 import { useEffect, useState } from 'react'
 import { STATIC } from './api/client'
 import { widgets } from './layout/registry'
+import { ListsProvider } from './lib/playerLists'
+import { Lists } from './widgets/lists/Lists'
 import { Assistant } from './widgets/assistant/Assistant'
 import { DraftSim } from './widgets/draft-sim/DraftSim'
 import { PlayerValues, type View } from './widgets/player-values/PlayerValues'
 
 // Views as tabs (user, 2026-10-06). Each has its own address, so two or three can sit side by side in
 // separate browser tabs; every tab polls the backend itself and the selected player is shared.
-type Page = View | 'info' | 'sim' | 'assistant'
+type Page = View | 'info' | 'sim' | 'assistant' | 'lists'
 const PAGES: { key: Page; label: string }[] = [
-  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
+  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'lists', label: 'Lists' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
 ]
 const pageOf = (): Page => (PAGES.find((p) => `#${p.key}` === window.location.hash)?.key ?? 'draft')
 
@@ -61,7 +63,8 @@ export default function App() {
   const page = usePage()
   const title = PAGES.find((p) => p.key === page)!.label
   return (
-    <>
+    // Player lists are shared by every view: symbols next to names, the list filter, the Lists tab.
+    <ListsProvider>
       <header className="topbar">
         <div className="brand">
           <span className="wordmark">Deh Deh</span>
@@ -74,7 +77,13 @@ export default function App() {
         </nav>
         <ThemeSwitch />
       </header>
-      {page === 'assistant' ? (
+      {page === 'lists' ? (
+        <main className="fill">
+          <section className="panel fill" aria-label="Lists">
+            <Lists />
+          </section>
+        </main>
+      ) : page === 'assistant' ? (
         <main className="fill">
           <section className="panel fill scroll" aria-label="Assistant">
             <h2>Draft assistant</h2>
@@ -104,6 +113,6 @@ export default function App() {
           </section>
         </main>
       )}
-    </>
+    </ListsProvider>
   )
 }

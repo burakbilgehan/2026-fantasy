@@ -664,26 +664,46 @@ table.rslots tr.planned td.pname { font-style: italic; color: var(--muted); }
 table.rslots tr.open td { opacity: 0.6; }
 .rcard footer { margin-top: 6px; }
 
-/* Player lists (lib/playerLists.tsx) */
-.list-marks { font-size: 0.9em; letter-spacing: 1px; white-space: nowrap; }
-.list-btn-wrap { display: inline-flex; }
-.list-btn { border: 1px solid var(--line, #8884); background: transparent; color: var(--muted); border-radius: 4px;
-  width: 18px; height: 18px; padding: 0; line-height: 1; font-size: 13px; cursor: pointer; opacity: 0.45; }
-tbody.player:hover .list-btn, .mrow:hover .list-btn, .list-btn[aria-expanded="true"] { opacity: 1; }
-.list-btn:hover { color: var(--text); }
-.list-menu { position: fixed; z-index: 1000; width: 260px; max-height: 310px; overflow: auto; background: var(--panel);
-  color: var(--text); border: 1px solid var(--line, #8886); border-radius: 8px; padding: 8px; box-shadow: 0 6px 24px #0004;
-  font-size: 0.85rem; font-weight: 400; text-align: left; white-space: normal; }
-.list-item { display: flex; align-items: center; justify-content: space-between; gap: 6px; padding: 2px 0; }
-.list-item label { display: flex; align-items: center; gap: 6px; cursor: pointer; flex: 1; }
-.list-sym { font-size: 1.05em; }
-.list-del { border: none; background: transparent; color: var(--muted); cursor: pointer; padding: 0 4px; }
-.list-del.confirm { color: var(--bad); font-weight: 600; }
-.list-new { border-top: 1px solid var(--line, #8884); margin-top: 6px; padding-top: 6px; display: grid; gap: 6px; }
-.list-syms { display: flex; flex-wrap: wrap; gap: 2px; }
-.list-syms button { border: 1px solid transparent; background: transparent; border-radius: 4px; padding: 1px 3px; cursor: pointer; font-size: 1rem; }
-.list-syms button.on { border-color: var(--text); }
-.list-new-row { display: flex; gap: 4px; }
-.list-new-row input { min-width: 0; flex: 1; }
-.list-new-row .list-sym-input { flex: 0 0 38px; text-align: center; }
-.mplayer .list-btn-wrap { margin-left: 6px; }
+
+/* Player lists: marks next to names (lib/playerLists.tsx) and the Lists tab (widgets/lists/) */
+.list-marks { font-size: 0.9em; letter-spacing: 1px; white-space: nowrap; margin-left: 4px; }
+.lists-page { flex: 1; min-height: 0; display: grid; grid-template-columns: minmax(300px, 2fr) 3fr; gap: 16px; }
+.lpool, .llists { min-height: 0; overflow: auto; border-radius: 8px; }
+.lpool { display: flex; flex-direction: column; border: 2px dashed transparent; padding: 4px; }
+.lpool.drop { border-color: var(--bad); }
+.lpool-head, .lnew-row { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.lpool-head h2, .lnew h2 { margin: 0 8px 0 0; }
+.lpool-head input[type="search"] { flex: 1; min-width: 120px; }
+.lpool-rows { flex: 1; min-height: 0; overflow: auto; }
+.lrow { display: grid; grid-template-columns: 30px 28px 1fr auto 40px auto; align-items: center; gap: 8px;
+  padding: 3px 6px; border-bottom: 1px solid var(--line); cursor: grab; background: var(--panel); }
+.lrow:hover { background: color-mix(in oklab, var(--text) 6%, var(--panel)); }
+.lrow:active { cursor: grabbing; }
+.lrank { color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.lname { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lmeta { color: var(--muted); font-size: 0.85em; white-space: nowrap; }
+.lprice { text-align: right; font-variant-numeric: tabular-nums; }
+.ldel { border: none; background: transparent; color: var(--muted); cursor: pointer; font-size: 1.1em; padding: 0 4px; }
+.ldel:hover { color: var(--bad); }
+.llists { display: flex; flex-direction: column; gap: 8px; padding: 4px; }
+.lnew { display: grid; gap: 6px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+.lnew-row input { flex: 1; min-width: 120px; }
+.lsym-big { font-size: 1.4em; }
+.lsyms { display: flex; flex-wrap: wrap; gap: 2px; align-items: center; }
+.lsyms button { border: 1px solid transparent; background: transparent; border-radius: 4px; padding: 1px 4px; cursor: pointer; font-size: 1.1rem; }
+.lsyms button.on { border-color: var(--text); }
+.lsyms input { width: 52px; text-align: center; }
+.lbox { border: 1px solid var(--line); border-radius: 8px; background: var(--panel); }
+.lbox.drop { border-color: var(--good); box-shadow: 0 0 0 2px color-mix(in oklab, var(--good) 50%, transparent); }
+.lhead { display: flex; align-items: center; gap: 6px; padding: 6px 8px; }
+.lchev, .lsym { border: none; background: transparent; cursor: pointer; color: var(--text); font-size: 1.1em; padding: 0 4px; }
+.lsym { font-size: 1.3em; }
+.ltitle { flex: 1; min-width: 0; border: 1px solid transparent; background: transparent; color: var(--text); font-weight: 600; font-size: 1rem; padding: 2px 4px; border-radius: 4px; }
+.ltitle:hover, .ltitle:focus { border-color: var(--line); }
+.lcount { color: var(--muted); font-variant-numeric: tabular-nums; }
+.ldel-list { border: 1px solid var(--line); background: transparent; color: var(--muted); border-radius: 4px; cursor: pointer; font-size: 0.8em; padding: 2px 6px; }
+.ldel-list.confirm { color: var(--bad); border-color: var(--bad); font-weight: 600; }
+.lbox > .lsyms { padding: 0 8px 6px 40px; }
+.lbody { border-top: 1px solid var(--line); padding: 4px 0; }
+.lbody .hint { padding: 6px 10px; margin: 0; }
+@media (max-width: 720px) { .lists-page { grid-template-columns: 1fr; overflow: auto; } .lpool { max-height: 50vh; } }

@@ -8,7 +8,7 @@ import { TagChip } from '../../../components/TagChip'
 import { CAT_LABEL } from '../../../lib/categories'
 import { catRanks, h2h, H2H_CATS } from '../../../lib/h2h'
 import { eligibility, STARTERS, teamLines, type DraftTeam } from './model'
-import { ListButton, ListMarks } from '../../../lib/playerLists'
+import { ListMarks } from '../../../lib/playerLists'
 
 // Tags shown as risk lines in the fit section (names from docs/GLOSSARY.md).
 const RISK = /bust|injur|load management|shutdown|trade risk|minutes risk/i
@@ -123,7 +123,7 @@ export function FocusPanel({ row, name, bid, nominated, teams, query, onOpen, on
         {row && <Headshot nbaId={row.nba_id} name={row.name} size="lg" />}
         <div className="focus-title">
           <span className="focus-kind">{nominated ? 'Nominated' : 'Selected'}</span>
-          <h3>{row?.name ?? name}{row && <> <ListMarks pk={row.player_id} /> <ListButton pk={row.player_id} /></>}</h3>
+          <h3>{row?.name ?? name}{row && <> <ListMarks pk={row.player_id} /></>}</h3>
           {row && <span className="hint">{row.team ?? 'FA'} · {row.positions?.join(',') ?? '-'} · {row.stats.gp?.toFixed(0) ?? '-'} GP{row.injury ? ` · ${row.injury}` : ''}</span>}
         </div>
         {bid && <div className="focus-bid"><small>Current bid</small><strong>${bid.amount}</strong><small>{bid.team}</small></div>}
