@@ -325,7 +325,35 @@ export type RoomResult = {
   log: RoomLog[]
 }
 
+/** Draft plan by build (app/api/assistant.py /builds): best 12 per build at room prices vs dealt average rooms. */
+export type BuildPlayer = { player_id: number; name: string; positions: string[] | null; room_price: number; market_price: number; gscore_dollars: number }
+export type BuildPlan = { build: string; label: string; punts: string[]; match_share: number; forced_match_share: number
+  cat_share: number; per_cat: Record<string, number>; spent: number; roster: BuildPlayer[] }
+export type BuildPlans = { categories: string[]; builds: BuildPlan[]
+  settings: { kind: string; source: string; season: string; basis: string; blend: number; rooms: number; budget: number; slots: number } }
+/** Live draft assistant (app/api/assistant.py /live). Shares in percent. */
+export type AssistPerson = { player_id: number; name: string; positions: string[] | null; live_price: number | null }
+export type AssistBuild = { build: string; label: string; punts: string[]; match: number; cat: number; per_cat: number[]; fill: AssistPerson[]; fill_cost: number }
+export type AssistCandidate = AssistPerson & { price: number; match_delta: number; cat_delta: number; per_cat_delta: number[] }
+export type Assist = {
+  categories: string[]
+  base: { match: number; cat: number; per_cat: number[]; ranks: number[] }
+  my_fill: AssistPerson[]
+  builds: AssistBuild[]
+  candidates: AssistCandidate[]
+  breakeven: (AssistPerson & { price: number }) | null
+  money_left: number
+  open_slots: number
+  unknown_players: number[]
+  positions: Record<number, string[] | null>
+}
+export type AssistBody = { kind: string; source: string; season: string; basis: string; nominated: number | null
+  teams: { team_id: number; players: number[]; money_left: number; open_slots: number; mine: boolean }[] }
+
 export const api = {
+  buildPlans: (q: { kind: string; source: string; season: string; basis: string }) =>
+    request<BuildPlans>(`/api/assistant/builds?${new URLSearchParams(q)}`),
+  assist: (body: AssistBody) => request<Assist>('/api/assistant/live', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }),
   simRoom: (body: { plan: string; seed: number; seasons: number; kind?: string; source?: string; season?: string; basis?: string }) =>
     request<RoomResult>('/api/sim/room', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }),
   whatIf: (body: WhatIfBody) => request<WhatIf>('/api/draft/whatif', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }),

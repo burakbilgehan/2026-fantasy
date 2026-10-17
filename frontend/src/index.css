@@ -492,6 +492,8 @@ body { overflow: hidden; }
 main.scroll { flex: 1; min-height: 0; overflow: auto; }
 main.fill { flex: 1; min-height: 0; padding: 4px 16px 12px; display: flex; }
 .panel.fill { flex: 1; min-width: 0; min-height: 0; display: flex; flex-direction: column; padding: 10px 14px; }
+.panel.fill.scroll { overflow: auto; }
+.panel.fill.scroll > * { flex-shrink: 0; }
 .pv { flex: 1; min-height: 0; display: flex; flex-direction: column; }
 .pv > * { flex-shrink: 0; }
 .pv .controls { margin-bottom: 4px; }
@@ -637,3 +639,27 @@ td.heat .vol { font-size: 0.82em; color: color-mix(in oklab, var(--text) 70%, tr
 .draft-sim .roster-detail th, .draft-sim .roster-detail td { padding: 1px 6px; }
 .draft-sim .auction-log summary { cursor: pointer; margin: 8px 0; }
 .draft-sim .error { color: var(--bad); }
+
+/* Roster cards (user, 2026-10-17): one card per team or build, one row per roster slot. */
+.rgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 12px; margin: 8px 0 16px; }
+.rcard { background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; min-width: 0; }
+.rcard.mine { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent) inset; }
+.rcard header { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; margin-bottom: 8px; }
+.rcard h4 { margin: 0; font-size: 0.95rem; }
+.rcard.mine h4 { color: var(--accent); }
+.rbadge { font-weight: 700; font-size: 1.05rem; padding: 2px 8px; border-radius: 6px; white-space: nowrap; }
+.rbadge.good { background: color-mix(in oklab, var(--good) calc(var(--a) * var(--heat-max)), transparent); }
+.rbadge.bad { background: color-mix(in oklab, var(--bad) calc(var(--a) * var(--heat-max)), transparent); }
+.rcats { display: grid; grid-template-columns: repeat(9, 1fr); gap: 2px; margin-bottom: 8px; }
+.rcat { text-align: center; border-radius: 5px; padding: 2px 0; font-size: 0.78rem; line-height: 1.15; }
+.rcat small { display: block; color: var(--muted); font-size: 0.66rem; }
+.rcat.good { background: color-mix(in oklab, var(--good) calc(var(--a) * var(--heat-max)), transparent); }
+.rcat.bad { background: color-mix(in oklab, var(--bad) calc(var(--a) * var(--heat-max)), transparent); }
+table.rslots { width: 100%; border-collapse: collapse; font-size: 0.84rem; table-layout: fixed; }
+table.rslots td { padding: 3px 4px; border-top: 1px solid color-mix(in oklab, var(--line) 55%, transparent); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+table.rslots td.slot { width: 34px; color: var(--muted); font-size: 0.74rem; }
+table.rslots td.ppos { width: 34px; color: var(--muted); font-size: 0.74rem; }
+table.rslots td.num { width: 38px; text-align: right; font-variant-numeric: tabular-nums; }
+table.rslots tr.planned td.pname { font-style: italic; color: var(--muted); }
+table.rslots tr.open td { opacity: 0.6; }
+.rcard footer { margin-top: 6px; }

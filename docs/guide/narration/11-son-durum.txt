@@ -1,0 +1,129 @@
+Sezon rehberinin on birinci bölümü: draft öncesi son durum. Yedi Ekim'den sonra neyin değiştiğini anlatıyor.
+
+Rehber yedi Ekim'de yazıldı. O günden sonra fiyat modelimiz değişti, uzman notları iki kez yenilendi ve build simülasyonları yapıldı. Bu bölüm sadece değişenleri anlatıyor. Diğer bölümlerdeki kartlar geçerli, bu bölümdeki istisnalar dışında.
+
+Bu bölümü nasıl kullanmalı. Önce birinci ve ikinci kısmı oku: bazı "En fazla" rakamları değişti. Draft günü yedinci kısımdaki adımları uygula. Teklif sırasında asıl araç artık site üzerindeki Asistan sekmesi.
+
+bir. Ne değişti.
+
+Fiyat modeli. Rehber "bizim fiyat" için Minus bir kullanıyordu. Minus bir her oyuncunun en kötü kategorisini siler. Sitenin varsayılan modeli artık G-score. G-score dokuz kategorinin hepsini sayar ve haftadan haftaya çok oynayan kategorilere biraz daha az ağırlık verir.
+
+Projeksiyon. Kendi projeksiyonumuzun LLM katmanı on bir ve on altı Ekim'de yeni uzman notlarıyla yenilendi. Minnesota takası, sakatlıklar ve ilk beşler fiyatlara girdi, çıkarım: katman bu notları okuyor.
+
+Build simülasyonu. Her build için "iki yüz dolara en iyi on iki kişi" arandı. Ayrıca güçlü rakiplerle altmış tam draft ve sezon simüle edildi. Sonuçlar dördüncü kısımda.
+
+Asistan sekmesi. Draft sırasında elindeki oyunculara göre canlı öneri veren yeni bir sekme var. Kullanımı yedinci kısımda.
+
+Piyasa fiyatları neredeyse aynı kaldı. Sadece iki büyük yıldız yükseldi: Jokić yetmiş üçten seksen bire, Wembanyama yetmiş ikiden yetmiş dokuza, piyasa verimiz, yedi ile on yedi Ekim arası.
+
+iki. Tek kategorisi çok kötü olan oyuncular.
+
+Model değişikliği en çok bu grubu etkiliyor. Minus bir bu oyuncuların zayıf kategorisini siliyordu, bu yüzden rehberdeki rakamları yüksekti. G-score o kategoriyi sayıyor. Kural basit: o kategoriyi punt etmiyorsan G-score rakamını kullan. Punt ediyorsan Minus bir rakamına kadar çıkabilirsin, ama rehberdeki "En fazla" rakamını geçme.
+
+Beklenen oda eşittir piyasa çarpı bir virgül yirmi yedi, rehberin kuralı, Bölüm sıfır. Yıldızlar bunun da üstüne çıkabilir.
+
+Ne anlama geliyor. Üstteki dört yıldızın, Giannis, Luka, Edwards, Cade, beklenen oda fiyatı, bizim iki rakamımızın da çok üstünde. Yani bunları büyük ihtimalle başkası alacak. Onları kovalama. Alttaki beş oyuncu ise tam tersi: oda onları ucuza verecek. Bunlar senin için ucuz ribaund, blok ve top çalma kaynağı. Ama ikisinden fazlasını alırsan serbest atış yüzdesi kategorisini kendiliğinden kaybedersin, çıkarım: build sonuçlarındaki punt serbest atış kadroları bu oyuncularla doluyor.
+
+Edwards için ek not. Uzmanlar onu yedi ile onuncu sıra arasına indirdi. Sebep: Minnesota bizim yarı final haftamızda, yirminci hafta, on beş Mart, sadece iki maç oynuyor. Ayrıca LaMelo Ball'un gelişiyle asistleri düşebilir, uzmanlar, dokuz Ekim ve on dört Ekim.
+
+üç. Giannis: modelimiz ile uzmanlar ayrışıyor.
+
+Deneme draft'ında Giannis'i aldın, bu yüzden ayrı bir kısım. Projeksiyonumuza göre maç başına on virgül altı serbest atış deniyor ve yüzde altmış dört virgül dört isabet ediyor. Bu, serbest atış yüzdesi kategorisinde havuzun en büyük negatifi, z değeri eksi beş virgül yedi. serbest atış yüzdesi kategorisini sayan her modelimiz onu otuz ile elli yedinci sıra arasına koyuyor. En kötü kategoriyi silen modeller onu beş veya altıncı sıraya koyuyor. Modellerde bir hata bulmadım; fark tek bir kategoriden geliyor, doğrulandı, on yedi Ekim kontrolü.
+
+Uzmanlar ise onu kategori liginde açık bir beş numara görüyor. ESPN'in yirminci sıra değerlendirmesini "çok yanlış" buluyorlar ve en kötü ihtimalle dokuzuncu diyorlar. Miami'de başka yaratıcı oyuncu az olduğu için asistlerinin artmasını bekliyorlar, uzmanlar, sekiz Ekim ile on iki Ekim. Piyasa da onu yıldız gibi fiyatlıyor: altmış üç dolar.
+
+Üç kaynaktan ikisi, uzmanlar ve piyasa, onu yıldız sayıyor. Bizim model ise sadece punt serbest atış takımında yıldız sayıyor. Bence sonuç şu: Giannis, punt serbest atış yönüne giden bir takımın çapası. Onu aldıysan punt serbest atış doğal yön. Asistan da onu aldıktan sonra punt serbest atış build'ini öne çıkardı. Ama build'ler arasındaki fark küçüktü, yüzde altmış altı ile altmış sekiz arası haftalık maç kazanma. Yani bu bir zorunluluk değil, bir eğilim.
+
+dört. Build sonuçları: punt'a kilitlenme.
+
+İki ayrı test yapıldı. Birincisi: her build için iki yüz dolara en iyi on iki kişiyi bulan bir arama. Oda fiyatı eşittir yarısı piyasa, yarısı G-score doları, varsayım. Rakipler: tier'lara göre dağıtılmış ortalama takımlar, altmış oda, haftalık şans payı dahil. İkincisi: güçlü rakiplerle altmış tam auction draft ve sezon. Bu odada beş G-score, üç z-score ve üç DURANT yöneticisi var.
+
+Galibiyet, yaklaşık on sekiz haftalık normal sezonda ortalama haftalık maç galibiyeti, çıkarım: simülasyon sezonun son üç haftasını playoff sayıyor.
+
+Rakamları nasıl okumalı. Aramadaki yüzdeler gerçek kazanma şansın değil; ortalama takımlara karşı olduğu için şişik. Sadece build'leri birbiriyle karşılaştır. Güçlü odadaki punt planları teklif için punt z-score kullanıyor. Bu zayıf bir teklif yöntemi, bu yüzden punt build'lerinin sonucu olduğundan düşük olabilir, çıkarım.
+
+İki testin ortak sonuçları.
+
+Tek bir punt açıkça kazanmıyor. Arama sonuçları birbirine altı puan içinde.
+
+Oda fiyatlarında orta fiyatlı, derin bir kadro yıldızlı kadroyu geçiyor. Arama hiçbir build'de kırk bir dolardan pahalı oyuncu almadı.
+
+asist kategorisini bırakmak, yıldızsız derin kadronun doğal sonucu. Yani arkadaşının punt asist önerisi bu açıdan tutarlı. Ama güçlü odada zorla punt asist, dengeli plandan iyi değil, on virgül sekiz ile on iki virgül bir.
+
+Bigs ve guards iki testte de alt sırada. Bu ikisini plan olarak seçme. Draft akışı seni oraya iterse, Asistan'ın rakamına bak.
+
+Punt top kaybı güçlü odada en iyisi, aramada ise orta sırada. Pahalı bir yaratıcı oyuncu alırsan, Cade, Luka, Trae, iyi bir yön.
+
+Bu, Josh Lloyd'un yaklaşımıyla da uyumlu: punt'a draft'tan önce karar verme, draft'ın sana verdiğini al, uzmanlar, Bölüm bir. Kategori ilişkileri de buna yardım ediyor. saha içi yüzdesi, ribaund ve blok birlikte hareket ediyor, r sıfır virgül kırk altı ile sıfır virgül altmış bir. serbest atış yüzdesi ve üçlük birlikte hareket ediyor, r sıfır virgül altmış. asist, sayı ile daha yakın, r sıfır virgül elli dört; asist ile serbest atış yüzdesi ilişkisi zayıf, r sıfır virgül yirmi üç, doğrulandı, iki bin yirmi altı ile yirmi yedi projeksiyonu.
+
+beş. Modelin artık daha çok sevdiği ucuz oyuncular.
+
+G-score bu oyunculara rehberdeki "En fazla" rakamının çok üstünde değer veriyor. Rehberdeki rakamlar uzman notları ve risk yüzünden bilerek düşük tutulmuştu. Öneri: rehber rakamını koru. Oda bunları zaten ucuza veriyor, rakama çıkman gerekmeyecek. Sadece uzmanlar da destekliyorsa ve o kategoriye ihtiyacın varsa G-score rakamına doğru çıkabilirsin.
+
+Kısacası en güvenli üç hedef: Alexander-Walker, Buzelis ve McDaniels. Üç kaynağın ikisi aynı şeyi söylüyor. Clingan ve Mikal Bridges'te sadece model hevesli; onları rehber rakamında tut.
+
+altı. Uzman notlarındaki yenilikler, sekiz ile on altı Ekim arası.
+
+Sakatlıklar.
+
+Draft etme: Brandon Ingram, Aşil, Şükran Günü ile Noel arası dönüş, Kristaps Porziņģis, sebebi belirsiz, ne zaman döneceği bilinmiyor, Shaedon Sharpe, menisküs, Mart'a kadar yok, Mark Williams, labrum, Mart sonu, Donte DiVincenzo, Aşil, Jusuf Nurkić, en az dört hafta.
+
+Şüpheli, fiyatı düşür: Coby White, on iki ayda dördüncü baldır sakatlığı, uzmanlar doksanların sonrasına itti, Kon Knueppel, hamstring, sıfır ile iki maç kaçırabilir; uzmanlar zaten ilk ellide pahalı buluyor, Stephen Curry, diz kötüleşiyor; Josh Lloyd en fazla yirmi beş dolar ödeyecek.
+
+Takip et: Chet Holmgren, kalça ve uyluk, şüpheli, Bam Adebayo, kasık, şüpheli, Josh Hart, ayak bileği ve parmak.
+
+Döndü veya hazır: Alex Sarr, Fred VanVleet, Dejounte Murray, sınırsız dakika, Zach Edey, Jalen Brunson, Tyrese Haliburton.
+
+Rol ve kadro değişiklikleri.
+
+Minnesota: Randle ve Naz Reid gitti, LaMelo Ball geldi. İlk beşte Ball, Edwards, McDaniels ve Gobert var. McDaniels'in kullanımı artar, Edwards topsuz oynar.
+
+Sacramento: ilk beş Acuff, LaVine, Murray, Simmons, Sabonis. Sabonis yaklaşık altı asist ve otuz üç dakikaya dönüyor. LaVine, Kings'in en iyi hedefi.
+
+Golden State: Yaxel Lendeborg ilk beşte, Podziemski ve Draymond Green ile. Uzmanlar "onu yukarı al" diyor, doksan sekiz ile yüz altı arası seçiliyor.
+
+Philadelphia: Maxey, Edgecombe, Brown, LeBron, Embiid. New York: Mitchell Robinson Queta'nın önünde başlıyor.
+
+Portland: Henderson, Lillard, Camara, Avdija, Clingan. Henderson'ın yeri kesin değil.
+
+Fiyat görüşleri.
+
+Uzak dur veya rehber rakamının altında kal: Desmond Bane, ilk ellide değil; bir mock'ta on bir dolara gitti, Devin Booker, yirmi yedinci değil otuz beş ile otuz sekizinci sıra, Donovan Mitchell, birinci tur değil, Walker Kessler, altmışıncı sıra civarı adil, Jalen Williams, yirmi dokuz dolar fazla bulundu, Joel Embiid, Josh Lloyd uzak duruyor.
+
+Hedef veya uyuyan değer: Dejounte Murray, favori sleeper, Ty Jerome, yetmiş dört ile seksen arası, yirmi dakikalık yedek değilse, Isaiah Hartenstein, Oklahoma City'nin en iyi değeri, ilk yüz, Austin Reaves, Lakers'ın en iyi hedefi, Anthony Davis, mock'larda yükseldi, yirmi dört ile yirmi yedinci sıra rahat, Cameron Boozer, bir uzmanın sınırı on beş dolar.
+
+Uzman mock auction fiyatları: Mobley yirmi yedi, Duren on dokuz, Keyonte George yirmi, Pritchard altı, Murray-Boyles dokuz, Poeltl dört, Cason Wallace yaklaşık bir, sekiz dolar çok erken.
+
+Kaynak: oyuncu profillerimiz, tarih etiketleri sekiz ile on altı Ekim arası. Takım ve makale dosyaları bu özete girmedi.
+
+yedi. Draft günü: Asistan sekmesi.
+
+Asistan, odadaki bütün kadrolara ve kalan paraya bakar. Her satıştan ve her nominasyondan sonra yeniden hesaplar, yaklaşık bir saniye. Kararı sen verirsin; Asistan sadece rakam gösterir.
+
+Draft'tan önce backend'i ve siteyi aç, make dev.
+
+Değer tablosunda kaynak olarak "own" seç. Asistan aynı kaynağı kullanır.
+
+Asistan sekmesini aç. "Live draft" seçimini "Automatic" bırak.
+
+Bir oyuncu nomine edilince en üstteki satırdaki "worth up to" rakamına bak. Bu, o oyuncunun senin takımına göre başa baş fiyatı. Teklifin bunu geçmesin.
+
+"My team by build" kartlarında hangi build'in önde olduğuna bak. Fark üç puandan küçükse yön henüz belli değil.
+
+"Best buys" tablosunda ilk satırlar, şu an parana göre takımına en çok katkı veren oyunculardır. Nominasyon sırası gelince bunlardan birini değil, rakiplerin pahalıya alacağı birini nomine et, Bölüm iki.
+
+Asistan'ın altındaki "Draft plan by build" draft öncesi plandır. Aldığın oyuncuları görmez. Draft sırasında ona bakma.
+
+Sınırlar. Asistan rakiplerin kalan slotlarını "en iyi G-score ile doldurur" diye varsayar. Gerçek rakipler farklı davranır. Oda fiyatı formülü bir varsayımdır. Yahoo'daki oyuncu bizim veride yoksa, Asistan onu boş slot sayar ve bunu ekranda yazar.
+
+Özet.
+
+Tek kategorisi çok kötü olan oyuncularda rehberin "En fazla" rakamları yüksek. Dengeli takımda G-score rakamını kullan: Giannis yirmi bir, Cade otuz iki, Luka kırk üç, Edwards otuz sekiz.
+
+Bir punt'a kilitlenme. Testlerde hiçbir punt açıkça kazanmadı. Bigs ve guards en zayıf iki plan.
+
+Para orta fiyatlı derinliğe gitsin. En güvenli ucuz hedefler Alexander-Walker, Buzelis ve McDaniels.
+
+Ingram, Porziņģis, Sharpe, Mark Williams, DiVincenzo ve Nurkić'i draft etme. Coby White, Knueppel ve Curry'de fiyatı düşür.
+
+Draft sırasında Asistan'daki "worth up to" rakamını teklif sınırın olarak kullan.

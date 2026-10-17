@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Bölüm 11 · Son Durum</title><link rel="stylesheet" href="guide.css"></head>
+<body><main>
+<header class="ep"><div class="eyebrow">Sezon Rehberi 2026-27 · Bölüm 11</div><h1>Draft Öncesi Son Durum</h1>
+<p class="lede">Rehber 7 Ekim'de yazıldı. O günden sonra fiyat modelimiz değişti, uzman notları iki kez yenilendi ve build simülasyonları yapıldı. Bu bölüm sadece değişenleri anlatıyor. Diğer bölümlerdeki kartlar geçerli, bu bölümdeki istisnalar dışında.</p>
+<div class="meta">Veri: kendi projeksiyonumuz (own, 2026-10-16 LLM katmanı), G-score modeli ve piyasa fiyatı, 2026-10-17. Uzman notları: docs/knowledge, 2026-10-08 ile 2026-10-16 arası. Yeni veri çekilmedi.</div></header>
+<!-- audio --><div class="audio"><span class="eyebrow">Sesli bölüm</span><audio controls preload="none" src="audio/11-son-durum.mp3"></audio></div><!-- /audio -->
+
+
+<section class="prose">
+<div class="note"><b>Bu bölümü nasıl kullanmalı.</b> Önce 1. ve 2. kısmı oku: bazı "En fazla" rakamları değişti. Draft günü 7. kısımdaki adımları uygula. Teklif sırasında asıl araç artık site üzerindeki Asistan sekmesi.</div>
+
+<h2>1. Ne değişti</h2>
+<ul>
+<li><b>Fiyat modeli.</b> Rehber "bizim fiyat" için Minus-1 kullanıyordu. Minus-1 her oyuncunun en kötü kategorisini siler. Sitenin varsayılan modeli artık G-score. G-score dokuz kategorinin hepsini sayar ve haftadan haftaya çok oynayan kategorilere biraz daha az ağırlık verir.</li>
+<li><b>Projeksiyon.</b> Kendi projeksiyonumuzun LLM katmanı 11 ve 16 Ekim'de yeni uzman notlarıyla yenilendi. Minnesota takası, sakatlıklar ve ilk beşler fiyatlara girdi (çıkarım: katman bu notları okuyor).</li>
+<li><b>Build simülasyonu.</b> Her build için "200 dolara en iyi 12 kişi" arandı. Ayrıca güçlü rakiplerle 60 tam draft ve sezon simüle edildi. Sonuçlar 4. kısımda.</li>
+<li><b>Asistan sekmesi.</b> Draft sırasında elindeki oyunculara göre canlı öneri veren yeni bir sekme var. Kullanımı 7. kısımda.</li>
+</ul>
+<p>Piyasa fiyatları neredeyse aynı kaldı. Sadece iki büyük yıldız yükseldi: Jokić 73'ten 81'e, Wembanyama 72'den 79'a (piyasa verimiz, 7 ile 17 Ekim arası).</p>
+</section>
+
+<section class="prose">
+<h2>2. Tek kategorisi çok kötü olan oyuncular</h2>
+<p>Model değişikliği en çok bu grubu etkiliyor. Minus-1 bu oyuncuların zayıf kategorisini siliyordu, bu yüzden rehberdeki rakamları yüksekti. G-score o kategoriyi sayıyor. Kural basit: o kategoriyi punt etmiyorsan G-score rakamını kullan. Punt ediyorsan Minus-1 rakamına kadar çıkabilirsin, ama rehberdeki "En fazla" rakamını geçme.</p>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th>Takım</th><th>Zayıf kategori</th><th class="num">z</th><th class="num">Dengeli takımda (G-score)</th><th class="num">O kategori punt ise (Minus-1)</th><th class="num">Piyasa</th><th class="num">Beklenen oda</th><th class="num">Rehberdeki en fazla</th></tr></thead><tbody>
+<tr><td>Giannis Antetokounmpo</td><td>MIA</td><td>FT%</td><td class="num zn2">-5.7</td><td class="num">$21</td><td class="num">$38</td><td class="num">$63</td><td class="num">$80</td><td class="num">$41</td></tr>
+<tr><td>Luka Dončić</td><td>LAL</td><td>TO</td><td class="num zn2">-2.6</td><td class="num">$43</td><td class="num">$47</td><td class="num">$73</td><td class="num">$92</td><td class="num">$48</td></tr>
+<tr><td>Anthony Edwards</td><td>MIN</td><td>TO</td><td class="num zn2">-2.0</td><td class="num">$38</td><td class="num">$41</td><td class="num">$58</td><td class="num">$74</td><td class="num">$46</td></tr>
+<tr><td>Cade Cunningham</td><td>DET</td><td>TO</td><td class="num zn2">-3.0</td><td class="num">$32</td><td class="num">$37</td><td class="num">$64</td><td class="num">$81</td><td class="num">$35</td></tr>
+<tr><td>Trae Young</td><td>WAS</td><td>TO</td><td class="num zn2">-3.1</td><td class="num">$20</td><td class="num">$26</td><td class="num">$33</td><td class="num">$42</td><td class="num">$19</td></tr>
+<tr><td>Walker Kessler</td><td>LAL</td><td>FT%</td><td class="num zn2">-2.3</td><td class="num">$24</td><td class="num">$28</td><td class="num">$15</td><td class="num">$20</td><td class="num">$18</td></tr>
+<tr><td>Dyson Daniels</td><td>ATL</td><td>FT%</td><td class="num zn2">-1.1</td><td class="num">$24</td><td class="num">$28</td><td class="num">$6</td><td class="num">$8</td><td class="num">$26</td></tr>
+<tr><td>Rudy Gobert</td><td>MIN</td><td>FT%</td><td class="num zn2">-3.2</td><td class="num">$17</td><td class="num">$25</td><td class="num">$5</td><td class="num">$6</td><td class="num">$11</td></tr>
+<tr><td>Jarrett Allen</td><td>CLE</td><td>3PM</td><td class="num zn2">-1.8</td><td class="num">$17</td><td class="num">$21</td><td class="num">$4</td><td class="num">$5</td><td class="num">$11</td></tr>
+<tr><td>Ausar Thompson</td><td>DET</td><td>FT%</td><td class="num zn2">-2.2</td><td class="num">$13</td><td class="num">$21</td><td class="num">$3</td><td class="num">$4</td><td class="num">$15</td></tr>
+</tbody></table></div>
+<p>Beklenen oda = piyasa çarpı 1,27 (rehberin kuralı, Bölüm 00). Yıldızlar bunun da üstüne çıkabilir.</p>
+<p><b>Ne anlama geliyor.</b> Üstteki dört yıldızın (Giannis, Luka, Edwards, Cade) beklenen oda fiyatı, bizim iki rakamımızın da çok üstünde. Yani bunları büyük ihtimalle başkası alacak. Onları kovalama. Alttaki beş oyuncu ise tam tersi: oda onları ucuza verecek. Bunlar senin için ucuz ribaund, blok ve top çalma kaynağı. Ama ikisinden fazlasını alırsan FT% kategorisini kendiliğinden kaybedersin (çıkarım: build sonuçlarındaki punt FT kadroları bu oyuncularla doluyor).</p>
+<p><b>Edwards için ek not.</b> Uzmanlar onu 7 ile 10. sıra arasına indirdi. Sebep: Minnesota bizim yarı final haftamızda (20. hafta, 15 Mart) sadece 2 maç oynuyor. Ayrıca LaMelo Ball'un gelişiyle asistleri düşebilir (uzmanlar, 2026-10-09 ve 10-14).</p>
+</section>
+
+<section class="prose">
+<h2>3. Giannis: modelimiz ile uzmanlar ayrışıyor</h2>
+<p>Deneme draft'ında Giannis'i aldın, bu yüzden ayrı bir kısım. Projeksiyonumuza göre maç başına 10,6 serbest atış deniyor ve %64,4 isabet ediyor. Bu, FT% kategorisinde havuzun en büyük negatifi (z değeri -5,7). FT% kategorisini sayan her modelimiz onu 30 ile 57. sıra arasına koyuyor. En kötü kategoriyi silen modeller onu 5 veya 6. sıraya koyuyor. Modellerde bir hata bulmadım; fark tek bir kategoriden geliyor (doğrulandı, 2026-10-17 kontrolü).</p>
+<p>Uzmanlar ise onu kategori liginde açık bir 5 numara görüyor. ESPN'in 20. sıra değerlendirmesini "çok yanlış" buluyorlar ve en kötü ihtimalle 9. diyorlar. Miami'de başka yaratıcı oyuncu az olduğu için asistlerinin artmasını bekliyorlar (uzmanlar, 2026-10-08 ile 10-12). Piyasa da onu yıldız gibi fiyatlıyor: 63 dolar.</p>
+<p>Üç kaynaktan ikisi (uzmanlar ve piyasa) onu yıldız sayıyor. Bizim model ise sadece punt FT takımında yıldız sayıyor. Bence sonuç şu: Giannis, punt FT yönüne giden bir takımın çapası. Onu aldıysan punt FT doğal yön. Asistan da onu aldıktan sonra punt FT build'ini öne çıkardı. Ama build'ler arasındaki fark küçüktü (yüzde 66 ile 68 arası haftalık maç kazanma). Yani bu bir zorunluluk değil, bir eğilim.</p>
+</section>
+
+<section class="prose">
+<h2>4. Build sonuçları: punt'a kilitlenme</h2>
+<p>İki ayrı test yapıldı. Birincisi: her build için 200 dolara en iyi 12 kişiyi bulan bir arama. Oda fiyatı = yarısı piyasa, yarısı G-score doları (varsayım). Rakipler: tier'lara göre dağıtılmış ortalama takımlar, 60 oda, haftalık şans payı dahil. İkincisi: güçlü rakiplerle 60 tam auction draft ve sezon. Bu odada 5 G-score, 3 z-score ve 3 DURANT yöneticisi var.</p>
+<div class="tbl"><table><thead><tr><th>Build</th><th class="num">Arama: haftalık maç kazanma</th><th class="num">Güçlü oda: ortalama galibiyet</th><th>Aramanın bulduğu kadro (örnek)</th></tr></thead><tbody>
+<tr><td>Serbest (zorla punt yok)</td><td class="num">%80</td><td class="num">12,1 (dengeli plan)</td><td class="wrap">Kendiliğinden AST bırakıyor. Leonard, Markkanen, Clingan, Alexander-Walker, Buzelis, Naz Reid, Ware, Edgecombe, McDaniels, Anunoby. Yıldız yok.</td></tr>
+<tr><td>Punt AST</td><td class="num">%80</td><td class="num">10,8</td><td class="wrap">Serbest ile aynı kadro.</td></tr>
+<tr><td>Punt FG%</td><td class="num">%78</td><td class="num">10,9</td><td class="wrap">Markkanen, D. White, Clingan, Alexander-Walker, D. Daniels, Quickley, Lillard.</td></tr>
+<tr><td>Guards (FG% ve BLK punt)</td><td class="num">%76</td><td class="num">8,1</td><td class="wrap">J. Murray, Markkanen, T. Murphy, Garland, Pritchard, Lillard.</td></tr>
+<tr><td>Punt TO</td><td class="num">%75</td><td class="num">12,7</td><td class="wrap">Reaves, Avdija, Garland, Banchero, Boozer, Gobert, Castle.</td></tr>
+<tr><td>Punt FT%</td><td class="num">%74</td><td class="num">8,6</td><td class="wrap">Amen Thompson, Leonard, Clingan, Kessler, D. Daniels, Ware, Gobert, J. Allen.</td></tr>
+<tr><td>Bigs (FT% ve 3PM punt)</td><td class="num">%74</td><td class="num">5,3</td><td class="wrap">Haliburton, Amen Thompson, Mobley, Clingan, Gobert, J. Allen.</td></tr>
+</tbody></table></div>
+<p>Galibiyet, yaklaşık 18 haftalık normal sezonda ortalama haftalık maç galibiyeti (çıkarım: simülasyon sezonun son 3 haftasını playoff sayıyor).</p>
+<div class="note warn"><b>Rakamları nasıl okumalı.</b> Aramadaki yüzdeler gerçek kazanma şansın değil; ortalama takımlara karşı olduğu için şişik. Sadece build'leri birbiriyle karşılaştır. Güçlü odadaki punt planları teklif için punt z-score kullanıyor. Bu zayıf bir teklif yöntemi, bu yüzden punt build'lerinin sonucu olduğundan düşük olabilir (çıkarım).</div>
+<p><b>İki testin ortak sonuçları.</b></p>
+<ol>
+<li>Tek bir punt açıkça kazanmıyor. Arama sonuçları birbirine 6 puan içinde.</li>
+<li>Oda fiyatlarında orta fiyatlı, derin bir kadro yıldızlı kadroyu geçiyor. Arama hiçbir build'de 41 dolardan pahalı oyuncu almadı.</li>
+<li>AST kategorisini bırakmak, yıldızsız derin kadronun doğal sonucu. Yani arkadaşının punt AST önerisi bu açıdan tutarlı. Ama güçlü odada zorla punt AST, dengeli plandan iyi değil (10,8 ile 12,1).</li>
+<li>Bigs ve guards iki testte de alt sırada. Bu ikisini plan olarak seçme. Draft akışı seni oraya iterse, Asistan'ın rakamına bak.</li>
+<li>Punt TO güçlü odada en iyisi, aramada ise orta sırada. Pahalı bir yaratıcı oyuncu alırsan (Cade, Luka, Trae) iyi bir yön.</li>
+</ol>
+<p>Bu, Josh Lloyd'un yaklaşımıyla da uyumlu: punt'a draft'tan önce karar verme, draft'ın sana verdiğini al (uzmanlar, Bölüm 01). Kategori ilişkileri de buna yardım ediyor. FG%, REB ve BLK birlikte hareket ediyor (r 0,46 ile 0,61). FT% ve 3PM birlikte hareket ediyor (r 0,60). AST, PTS ile daha yakın (r 0,54); AST ile FT% ilişkisi zayıf (r 0,23) (doğrulandı, 2026-27 projeksiyonu).</p>
+</section>
+
+<section class="prose">
+<h2>5. Modelin artık daha çok sevdiği ucuz oyuncular</h2>
+<p>G-score bu oyunculara rehberdeki "En fazla" rakamının çok üstünde değer veriyor. Rehberdeki rakamlar uzman notları ve risk yüzünden bilerek düşük tutulmuştu. Öneri: rehber rakamını koru. Oda bunları zaten ucuza veriyor, rakama çıkman gerekmeyecek. Sadece uzmanlar da destekliyorsa ve o kategoriye ihtiyacın varsa G-score rakamına doğru çıkabilirsin.</p>
+<div class="tbl"><table><thead><tr><th>Oyuncu</th><th class="num">G-score</th><th class="num">Piyasa</th><th class="num">Beklenen oda</th><th class="num">Rehberdeki en fazla</th><th>Uzmanlar (son not)</th></tr></thead><tbody>
+<tr><td>Nickeil Alexander-Walker</td><td class="num">$28</td><td class="num">$7</td><td class="num">$9</td><td class="num">$22</td><td class="wrap">Kategori liginde ilk 50, büyük ihtimalle ilk 40. "Bedava para" (10-08, 10-13). Destekliyor.</td></tr>
+<tr><td>Matas Buzelis</td><td class="num">$27</td><td class="num">$6</td><td class="num">$7</td><td class="num">$21</td><td class="wrap">İlk 50, dakikası 32'ye çıkıyor, piyasa hala düşük değerliyor (10-08, 10-13). Destekliyor.</td></tr>
+<tr><td>Naz Reid</td><td class="num">$25</td><td class="num">$6</td><td class="num">$8</td><td class="num">$14</td><td class="wrap">Artık Charlotte'ta (Minnesota takası). Sıra 55 ile 75 arası, "doğru yerde draft ediliyor" (10-15). Nötr.</td></tr>
+<tr><td>Kel'el Ware</td><td class="num">$22</td><td class="num">$4</td><td class="num">$5</td><td class="num">$12</td><td class="wrap">Kesin ilk beş rolü yok, Turner ile uyumu belirsiz. Sıra 70 ile 80 arası (10-08, 10-15). Kısmen.</td></tr>
+<tr><td>Jaden McDaniels</td><td class="num">$20</td><td class="num">$2</td><td class="num">$3</td><td class="num">$11</td><td class="wrap">Randle ve Reid gidince kullanımı artacak. Uzman mock auction'da 11 dolar; 25 dolar fazla (10-09, 10-14). Destekliyor.</td></tr>
+<tr><td>VJ Edgecombe</td><td class="num">$19</td><td class="num">$4</td><td class="num">$5</td><td class="num">$12</td><td class="wrap">İlk beşte ama üçüncü seçenek. 90'larda al, 60-70'lerde değil (10-13). Desteklemiyor.</td></tr>
+<tr><td>Immanuel Quickley</td><td class="num">$19</td><td class="num">$2</td><td class="num">$2</td><td class="num">$8</td><td class="wrap">96. sıra civarı değerli, Leonard'ın gelişi şut alır (10-08, 10-15). Kısmen.</td></tr>
+<tr><td>Donovan Clingan</td><td class="num">$28</td><td class="num">$12</td><td class="num">$15</td><td class="num">$12</td><td class="wrap">28 dakika tavanı. Üçüncü turda pahalı, adil sıra 60 ile 90, bir uzmana göre yaklaşık 5 dolar (10-15). Desteklemiyor.</td></tr>
+<tr><td>Mikal Bridges</td><td class="num">$20</td><td class="num">$5</td><td class="num">$6</td><td class="num">$5</td><td class="wrap">En pahalı oyunculardan biri; adil değeri 98. sıra civarı (10-11, 10-13). Desteklemiyor.</td></tr>
+</tbody></table></div>
+<p>Kısacası en güvenli üç hedef: Alexander-Walker, Buzelis ve McDaniels. Üç kaynağın ikisi aynı şeyi söylüyor. Clingan ve Mikal Bridges'te sadece model hevesli; onları rehber rakamında tut.</p>
+</section>
+
+<section class="prose">
+<h2>6. Uzman notlarındaki yenilikler (8 ile 16 Ekim arası)</h2>
+<h3>Sakatlıklar</h3>
+<ul>
+<li><b>Draft etme:</b> Brandon Ingram (Aşil, Şükran Günü ile Noel arası dönüş), Kristaps Porziņģis (sebebi belirsiz, ne zaman döneceği bilinmiyor), Shaedon Sharpe (menisküs, Mart'a kadar yok), Mark Williams (labrum, Mart sonu), Donte DiVincenzo (Aşil), Jusuf Nurkić (en az 4 hafta).</li>
+<li><b>Şüpheli, fiyatı düşür:</b> Coby White (12 ayda dördüncü baldır sakatlığı, uzmanlar 90'ların sonrasına itti), Kon Knueppel (hamstring, 0 ile 2 maç kaçırabilir; uzmanlar zaten ilk 50'de pahalı buluyor), Stephen Curry (diz kötüleşiyor; Josh Lloyd en fazla 25 dolar ödeyecek).</li>
+<li><b>Takip et:</b> Chet Holmgren (kalça ve uyluk, şüpheli), Bam Adebayo (kasık, şüpheli), Josh Hart (ayak bileği ve parmak).</li>
+<li><b>Döndü veya hazır:</b> Alex Sarr, Fred VanVleet, Dejounte Murray (sınırsız dakika), Zach Edey, Jalen Brunson, Tyrese Haliburton.</li>
+</ul>
+<h3>Rol ve kadro değişiklikleri</h3>
+<ul>
+<li><b>Minnesota:</b> Randle ve Naz Reid gitti, LaMelo Ball geldi. İlk beşte Ball, Edwards, McDaniels ve Gobert var. McDaniels'in kullanımı artar, Edwards topsuz oynar.</li>
+<li><b>Sacramento:</b> ilk beş Acuff, LaVine, Murray, Simmons, Sabonis. Sabonis yaklaşık 6 asist ve 33 dakikaya dönüyor. LaVine, Kings'in en iyi hedefi.</li>
+<li><b>Golden State:</b> Yaxel Lendeborg ilk beşte, Podziemski ve Draymond Green ile. Uzmanlar "onu yukarı al" diyor (98 ile 106 arası seçiliyor).</li>
+<li><b>Philadelphia:</b> Maxey, Edgecombe, Brown, LeBron, Embiid. New York: Mitchell Robinson Queta'nın önünde başlıyor.</li>
+<li><b>Portland:</b> Henderson, Lillard, Camara, Avdija, Clingan. Henderson'ın yeri kesin değil.</li>
+</ul>
+<h3>Fiyat görüşleri</h3>
+<ul>
+<li><b>Uzak dur veya rehber rakamının altında kal:</b> Desmond Bane (ilk 50'de değil; bir mock'ta 11 dolara gitti), Devin Booker (27. değil 35 ile 38. sıra), Donovan Mitchell (birinci tur değil), Walker Kessler (60. sıra civarı adil), Jalen Williams (29 dolar fazla bulundu), Joel Embiid (Josh Lloyd uzak duruyor).</li>
+<li><b>Hedef veya uyuyan değer:</b> Dejounte Murray (favori sleeper), Ty Jerome (74 ile 80 arası, 20 dakikalık yedek değilse), Isaiah Hartenstein (OKC'nin en iyi değeri, ilk 100), Austin Reaves (Lakers'ın en iyi hedefi), Anthony Davis (mock'larda yükseldi, 24 ile 27. sıra rahat), Cameron Boozer (bir uzmanın sınırı 15 dolar).</li>
+<li><b>Uzman mock auction fiyatları:</b> Mobley 27, Duren 19, Keyonte George 20, Pritchard 6, Murray-Boyles 9, Poeltl 4, Cason Wallace yaklaşık 1 (8 dolar çok erken).</li>
+</ul>
+<p>Kaynak: docs/knowledge/profiles/players, satırlardaki tarih etiketleri 8 ile 16 Ekim arası. Takım ve makale dosyaları bu özete girmedi.</p>
+</section>
+
+<section class="prose">
+<h2>7. Draft günü: Asistan sekmesi</h2>
+<p>Asistan, odadaki bütün kadrolara ve kalan paraya bakar. Her satıştan ve her nominasyondan sonra yeniden hesaplar (yaklaşık bir saniye). Kararı sen verirsin; Asistan sadece rakam gösterir.</p>
+<ol>
+<li>Draft'tan önce backend'i ve siteyi aç (make dev).</li>
+<li>Değer tablosunda kaynak olarak "own" seç. Asistan aynı kaynağı kullanır.</li>
+<li>Asistan sekmesini aç. "Live draft" seçimini "Automatic" bırak.</li>
+<li>Bir oyuncu nomine edilince en üstteki satırdaki "worth up to" rakamına bak. Bu, o oyuncunun senin takımına göre başa baş fiyatı. Teklifin bunu geçmesin.</li>
+<li>"My team by build" kartlarında hangi build'in önde olduğuna bak. Fark 3 puandan küçükse yön henüz belli değil.</li>
+<li>"Best buys" tablosunda ilk satırlar, şu an parana göre takımına en çok katkı veren oyunculardır. Nominasyon sırası gelince bunlardan birini değil, rakiplerin pahalıya alacağı birini nomine et (Bölüm 02).</li>
+<li>Asistan'ın altındaki "Draft plan by build" draft öncesi plandır. Aldığın oyuncuları görmez. Draft sırasında ona bakma.</li>
+</ol>
+<div class="note"><b>Sınırlar.</b> Asistan rakiplerin kalan slotlarını "en iyi G-score ile doldurur" diye varsayar. Gerçek rakipler farklı davranır. Oda fiyatı formülü bir varsayımdır. Yahoo'daki oyuncu bizim veride yoksa, Asistan onu boş slot sayar ve bunu ekranda yazar.</div>
+</section>
+
+<section class="prose">
+<h2>Özet</h2>
+<ol>
+<li>Tek kategorisi çok kötü olan oyuncularda rehberin "En fazla" rakamları yüksek. Dengeli takımda G-score rakamını kullan: Giannis 21, Cade 32, Luka 43, Edwards 38.</li>
+<li>Bir punt'a kilitlenme. Testlerde hiçbir punt açıkça kazanmadı. Bigs ve guards en zayıf iki plan.</li>
+<li>Para orta fiyatlı derinliğe gitsin. En güvenli ucuz hedefler Alexander-Walker, Buzelis ve McDaniels.</li>
+<li>Ingram, Porziņģis, Sharpe, Mark Williams, DiVincenzo ve Nurkić'i draft etme. Coby White, Knueppel ve Curry'de fiyatı düşür.</li>
+<li>Draft sırasında Asistan'daki "worth up to" rakamını teklif sınırın olarak kullan.</li>
+</ol>
+</section>
+</main></body></html>

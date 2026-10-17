@@ -2,8 +2,11 @@
 differently, then a Monte Carlo season on expected weekly lines with week-to-week noise.
 
 Auction: managers nominate in turn (the available player they value most). Every manager with an open slot
-bids his own value for the player times a lognormal noise, capped by the money that leaves 1 USD per open
-slot. The highest bid wins and pays the second-highest bid plus 1 (an English auction), at least 1 USD.
+bids his own value for the player times a lognormal noise, capped by `bid_cap`: the money that leaves his
+reserve per other open slot (`Manager.reserve`, default 1 USD = the old rule; a budget plan sets more, so a
+manager cannot spend himself out of the tier he planned to fill the roster with). A manager with `spend_down`
+also raises his value when his money outgrows his own values of the best players left (`spend_factor`), so
+he does not end with money nobody can use. The highest bid wins and pays the second-highest bid plus 1 (an English auction), at least 1 USD.
 Money left at the end is wasted, as in a real room.
 
 Season: team weekly lines = the roster's expected lines (per game x games that week x availability,
@@ -40,6 +43,31 @@ class Manager:
     stars: set = field(default_factory=set)  # players this manager chases above value (values holds the raised bid)
     max_stars: int = 0  # after this many of them are won, the rest are valued at plain_values
     plain_values: dict = field(default_factory=dict)
+    reserve: float = 1.0  # USD kept back for each other open slot (budget plan); see bid_cap
+    spend_down: bool = False  # raise bids when his money outgrows what is left to buy; see spend_factor
+
+
+def bid_cap(money: int, slots: int, reserve: float, min_bid: int = 1) -> int:
+    """Highest bid a manager may make: his money minus `reserve` for each other open slot. When his money is
+    already below the reserve per slot (the plan is broken), the reserve drops to an even split of what is
+    left, so he can still fill the roster. Never below the hard rule of `min_bid` per other open slot."""
+    if slots <= 0:
+        return 0
+    r = max(float(min_bid), min(float(reserve), money / slots))
+    return int(np.floor(money - (slots - 1) * r + 1e-9))
+
+
+SPEND_MAX = 3.0  # highest spend-down factor
+
+
+def spend_factor(money: int, slots: int, best_left: np.ndarray) -> float:
+    """Spend-down: money left at the end is wasted, so a good drafter whose money is more than his own values of
+    the best `slots` players still available raises his bids by money / that sum (1 to SPEND_MAX)."""
+    top = np.sort(best_left)[-slots:] if slots > 0 else best_left[:0]
+    need = float(top[top > 0].sum())
+    if need <= 0:
+        return SPEND_MAX
+    return min(SPEND_MAX, max(1.0, money / need))
 
 
 def auction(managers: list[Manager], order: list, rng: np.random.Generator, min_bid: int = 1) -> list[dict]:
@@ -49,6 +77,11 @@ def auction(managers: list[Manager], order: list, rng: np.random.Generator, min_
     rank = {p: i for i, p in enumerate(order)}
     log: list[dict] = []
     turn = 0
+    universe = sorted(available, key=lambda q: rank.get(q, 10**9))
+    pos = {q: i for i, q in enumerate(universe)}
+    open_ = np.ones(len(universe), dtype=bool)
+    plain = {id(m): np.array([(m.plain_values or m.values).get(q, 0.0) for q in universe])
+             for m in managers if m.spend_down}
     while any(m.slots > 0 for m in managers) and available:
         nominator = managers[turn % len(managers)]
         turn += 1
@@ -60,10 +93,12 @@ def auction(managers: list[Manager], order: list, rng: np.random.Generator, min_
         for m in managers:
             if m.slots == 0:
                 continue
-            cap = m.money - (m.slots - 1) * min_bid
+            cap = bid_cap(m.money, m.slots, m.reserve, min_bid)
             base_value = m.values.get(p, 0.0)
             if p in m.stars and sum(1 for q in m.roster if q in m.stars) >= m.max_stars:
                 base_value = min(base_value, m.plain_values.get(p, base_value))
+            if m.spend_down:
+                base_value *= spend_factor(m.money, m.slots, plain[id(m)][open_])
             w = int(round(base_value * float(np.exp(rng.normal(0.0, m.noise)))))
             w = min(w, cap)
             if m is nominator:
@@ -79,6 +114,7 @@ def auction(managers: list[Manager], order: list, rng: np.random.Generator, min_
         winner.money -= price
         winner.slots -= 1
         available.discard(p)
+        open_[pos[p]] = False
         log.append({"pick": len(log) + 1, "player": p, "nominator": nominator.name, "winner": winner.name,
                     "price": price, "second": w2, "bidders": len(bids)})
     return log

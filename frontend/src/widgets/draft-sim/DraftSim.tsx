@@ -1,8 +1,29 @@
 // Sim page: one simulated auction room (12 managers with different valuations) and a Monte Carlo season.
 // Shows how every team was built, the auction log and who won (user, 2026-10-13). Backend: app/api/sim.py.
+// Room "strong" (default): 11 good drafters with budget plans; "legacy": the first room. "Compare plans" runs
+// every plan over many seeds, because one seed is noise.
 import { useEffect, useState, type CSSProperties } from 'react'
-import { api, STATIC, type RoomResult, type RoomTeam } from '../../api/client'
+import { STATIC, type RoomResult, type RoomTeam } from '../../api/client'
 import { CAT_LABEL } from '../../lib/categories'
+
+type Room = 'strong' | 'legacy'
+type SimResult = RoomResult & { settings: RoomResult['settings'] & { room: Room; room_rule: string } }
+type PlanScore = { plan: string; label: string; wins: number; wins_se: number; cat_share: number; cat_share_se: number
+  playoffs: number; playoffs_se: number; titles: number; titles_se: number; spent: number; spent_se: number }
+type CompareResult = {
+  settings: { room: Room; seeds: number; seasons: number; games: number; teams: number; market_is_model: boolean; room_rule: string; elapsed_s: number }
+  plans: PlanScore[]
+  opponents: { name: string; style: string; wins: number; spent: number }[]
+}
+
+// The Sim endpoints are not in api/client.ts yet (room field, /compare); same contract as its request().
+async function simFetch<T>(path: string, body?: object): Promise<T> {
+  const res = await fetch(path, body
+    ? { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(body) }
+    : undefined)
+  if (!res.ok) throw new Error(`${res.status} ${await res.text()}`)
+  return res.json() as Promise<T>
+}
 
 const PLANS = [
   { key: 'one_star', label: 'One star + the rest at value' },
@@ -13,6 +34,7 @@ const PLANS = [
 ]
 
 function pct(v: number): string { return `${v.toFixed(0)}%` }
+function pm(v: number, se: number, digits = 1, unit = ''): string { return `${v.toFixed(digits)}${unit} ± ${se.toFixed(digits)}` }
 
 function Heat({ v, mid, full, text }: { v: number; mid: number; full: number; text: string }) {
   const z = (v - mid) / full
@@ -22,18 +44,35 @@ function Heat({ v, mid, full, text }: { v: number; mid: number; full: number; te
 
 export function DraftSim() {
   const [plan, setPlan] = useState('one_star')
+  const [plans, setPlans] = useState(PLANS)
+  const [room, setRoom] = useState<Room>('strong')
   const [seed, setSeed] = useState(1)
-  const [res, setRes] = useState<RoomResult | null>(null)
+  const [res, setRes] = useState<SimResult | null>(null)
   const [busy, setBusy] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [open, setOpen] = useState<number | null>(null)
+  const [cmp, setCmp] = useState<CompareResult | null>(null)
+  const [cmpBusy, setCmpBusy] = useState(false)
+  const [seeds, setSeeds] = useState(20)
 
   const run = () => {
     setBusy(true); setError(null)
-    api.simRoom({ plan, seed, seasons: 300 })
+    simFetch<SimResult>('/api/sim/room', { plan, seed, seasons: 300, room })
       .then((r) => setRes(r)).catch((e: Error) => setError(e.message)).finally(() => setBusy(false))
   }
-  useEffect(() => { if (!STATIC) run() }, []) // eslint-disable-line react-hooks/exhaustive-deps
+  const compare = () => {
+    setCmpBusy(true); setError(null)
+    simFetch<CompareResult>('/api/sim/compare', { room, plans: plans.map((p) => p.key), seeds, seasons: 100 })
+      .then((r) => setCmp(r)).catch((e: Error) => setError(e.message)).finally(() => setCmpBusy(false))
+  }
+  useEffect(() => {
+    if (STATIC) return
+    run()
+    // Plans registered on the backend (PLAN_PROVIDERS) join the list with their backend label.
+    simFetch<{ plans: { key: string; label: string }[] }>('/api/sim/plans')
+      .then((r) => setPlans([...PLANS, ...r.plans.filter((p) => !PLANS.some((q) => q.key === p.key))]))
+      .catch(() => undefined)
+  }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
   if (STATIC) return <p className="hint">The simulation needs the backend. Not available in the static copy.</p>
   const cats = res?.categories ?? []
@@ -43,7 +82,13 @@ export function DraftSim() {
       <div className="controls">
         <label>My plan
           <select value={plan} onChange={(e) => setPlan(e.target.value)}>
-            {PLANS.map((p) => <option key={p.key} value={p.key}>{p.label}</option>)}
+            {plans.map((p) => <option key={p.key} value={p.key}>{p.label}</option>)}
+          </select>
+        </label>
+        <label>Room
+          <select value={room} onChange={(e) => setRoom(e.target.value as Room)}>
+            <option value="strong">Strong (11 good drafters)</option>
+            <option value="legacy">Legacy (first room)</option>
           </select>
         </label>
         <label>Seed <input type="number" value={seed} min={1} max={9999} onChange={(e) => setSeed(Number(e.target.value) || 1)} /></label>
@@ -54,10 +99,10 @@ export function DraftSim() {
         </span>}
       </div>
       {error && <p className="error">{error}</p>}
+      <ComparePlans cmp={cmp} busy={cmpBusy} seeds={seeds} setSeeds={setSeeds} onRun={compare} room={room} />
       {res && me && (
         <p className="hint">
-          Room rule: 4 managers pay the market price, 2 use z-score, 1 Minus-1, 1 DURANT, 1 points-league dollars, 1 chases stars, 1 hunts bargains, and me.
-          A sale goes to the highest bid at the second-highest bid plus 1. The season adds week-to-week noise from the game logs.
+          {res.settings.room_rule} A sale goes to the highest bid at the second-highest bid plus 1. The season adds week-to-week noise from the game logs.
           My team: {me.wins}-{me.losses}, {pct(me.cat_share)} of category matchups, playoffs {pct(me.playoffs)}, title {pct(me.titles)}.
         </p>
       )}
@@ -106,6 +151,49 @@ export function DraftSim() {
         </details>
       )}
     </div>
+  )
+}
+
+function ComparePlans({ cmp, busy, seeds, setSeeds, onRun, room }: {
+  cmp: CompareResult | null; busy: boolean; seeds: number; setSeeds: (n: number) => void; onRun: () => void; room: Room
+}) {
+  const s = cmp?.settings
+  const best = cmp ? Math.max(...cmp.plans.map((p) => p.wins)) : 0
+  return (
+    <details className="compare-plans">
+      <summary>Compare plans (every plan, many seeds)</summary>
+      <div className="controls">
+        <label>Seeds <input type="number" value={seeds} min={2} max={200} onChange={(e) => setSeeds(Number(e.target.value) || 20)} /></label>
+        <button onClick={onRun} disabled={busy}>{busy ? 'Running…' : `Compare in the ${room} room`}</button>
+        {s && <span className="hint">
+          {s.room} room, seeds 1-{s.seeds}, {s.seasons} seasons each, {s.games} regular weeks, {s.elapsed_s} s.
+          Mean ± standard error over seeds. A gap smaller than about two standard errors is noise.
+        </span>}
+      </div>
+      {cmp && (
+        <table className="values">
+          <thead><tr className="cols"><th>Plan</th><th className="num">Wins</th><th className="num">Cat %</th>
+            <th className="num">Playoffs</th><th className="num">Title</th><th className="num">Spent</th></tr></thead>
+          <tbody>
+            {cmp.plans.map((p) => (
+              <tr key={p.plan} className={p.wins === best ? 'mine' : undefined}>
+                <td className="name" title={p.label}>{p.plan.replace('_', ' ')}</td>
+                <td className="num">{pm(p.wins, p.wins_se)}</td>
+                <td className="num">{pm(p.cat_share, p.cat_share_se, 1, '%')}</td>
+                <td className="num">{pm(p.playoffs, p.playoffs_se, 0, '%')}</td>
+                <td className="num">{pm(p.titles, p.titles_se, 1, '%')}</td>
+                <td className="num">${p.spent.toFixed(0)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      )}
+      {cmp && (
+        <p className="hint">
+          Opponents, mean wins: {cmp.opponents.map((o) => `${o.name} (${o.style.replace('_', ' ')}) ${o.wins.toFixed(1)}`).join(', ')}.
+        </p>
+      )}
+    </details>
   )
 }
 
