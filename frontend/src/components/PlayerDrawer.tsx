@@ -468,7 +468,7 @@ export function PlayerDrawer({ playerId, query, onClose, onOpenPlayer, onMinimiz
             : <Status error={card.error} what="articles" />}
         </Section>
 
-        <Section title="Team depth chart" note={depth.data ? `${depth.data.team}, Hashtag Basketball, minutes per game` : undefined}>
+        <Section title="Team depth chart" note={depth.data ? `${depth.data.team}, ${depth.data.source === 'espn_depth' ? 'ESPN (RotoWire)' : 'Hashtag Basketball'} ${depth.data.fetched_at?.slice(0, 10) ?? ''}, minutes per game` : undefined}>
           {!card.data ? <Status error={card.error} what="the team" />
             : !team ? <p className="hint">No NBA team.</p>
               : depth.data ? <DepthChart depth={depth.data} playerId={playerId} onOpenPlayer={onOpenPlayer} />

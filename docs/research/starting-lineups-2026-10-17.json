@@ -1,0 +1,2318 @@
+{
+ "teams": [
+  {
+   "team": "ATL",
+   "starters": [
+    {
+     "name": "CJ McCollum",
+     "status": "very_likely",
+     "evidence": "Yahoo (Oct 15) author 'pretty stunned' if not the opener lineup; TSN says Snyder best served keeping last season's top unit.",
+     "source_url": "https://sports.yahoo.com/articles/atlanta-hawks-opening-night-starting-152532027.html",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "25/41 (ATL)",
+     "last_season_mpg": 28.8,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Nickeil Alexander-Walker",
+     "status": "very_likely",
+     "evidence": "Same projected five in SI, Yahoo, ESPN depth chart; he was the only starter to play in the Oct 14 Pacers game.",
+     "source_url": "https://sports.yahoo.com/articles/atlanta-hawks-rotation-starting-come-210003040.html",
+     "source_date": "2026-10-14",
+     "last_season_gs_of_gp": "71/78",
+     "last_season_mpg": 33.4,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Dyson Daniels",
+     "status": "very_likely",
+     "evidence": "Listed in every projection of last season's top unit.",
+     "source_url": "https://www.si.com/nba/hawks/onsi/projected-atlanta-hawks-starting-lineup-and-rotation-for-2026-27-will-there-be-any-shakeups-01m3htsv5hgq",
+     "source_date": "2026-09-27",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "76/76",
+     "last_season_mpg": 33.2,
+     "role_up": false
+    },
+    {
+     "name": "Jalen Johnson",
+     "status": "very_likely",
+     "evidence": "Franchise player, in every projection.",
+     "source_url": "https://www.si.com/nba/hawks/onsi/projected-atlanta-hawks-starting-lineup-and-rotation-for-2026-27-will-there-be-any-shakeups-01m3htsv5hgq",
+     "source_date": "2026-09-27",
+     "last_season_gs_of_gp": "72/72",
+     "last_season_mpg": 35.2,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Onyeka Okongwu",
+     "status": "very_likely",
+     "evidence": "Projected starting C; no real rival (Landale is backup).",
+     "source_url": "https://www.si.com/nba/hawks/onsi/projected-atlanta-hawks-starting-lineup-and-rotation-for-2026-27-will-there-be-any-shakeups-01m3htsv5hgq",
+     "source_date": "2026-09-27",
+     "last_season_gs_of_gp": "63/74",
+     "last_season_mpg": 31,
+     "last_season_role": "starter",
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Guard slot (McCollum / Alexander-Walker) vs Lu Dort",
+     "candidates": [
+      "Lu Dort",
+      "CJ McCollum",
+      "Nickeil Alexander-Walker"
+     ],
+     "latest_news": "Snyder used multiple preseason starting groups (TSN/ESPN preseason review); Yahoo predicts Dort as closer in place of McCollum, maybe starter later. Final preseason game Oct 16 at DAL, won 135-111; actual starters not found. Local Hashtag depth lists Dort/Wiggins as SF2/SG2 behind the five.",
+     "lean": "No change at opener; Dort is the likeliest reshuffle after a few weeks.",
+     "source_url": "https://www.tsn.ca/nba/article/kawhi-ready-to-star-for-raptors-again-what-nba-preseason-has-revealed-about-every-team-n1-50176718/",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Bench per Yahoo (Oct 14): Dort, Wiggins, Landale top three; rookie Kingston Flemings (No. 8 pick, made 2 preseason starts when starters rested) has a large bench role; Gueye back-up PF (returning from injury, Newell fallback); Kispert, Finney-Smith, Ejiofor, Newell end of rotation. Trae Young, Risacher (to DAL) are gone per SI/Yahoo. Porzingis and Kuminga were not found in any 2026-27 Hawks projection; treat as not on the roster unless checked (assumed). Local Hashtag depth matches. Opener Oct 21 at ORL."
+  },
+  {
+   "team": "BOS",
+   "starters": [
+    {
+     "name": "Jayson Tatum",
+     "status": "confirmed",
+     "evidence": "Started both recent preseason games; has taken the full first-quarter role from Brown, who was traded to PHI (July 6).",
+     "source_url": "https://hardwoodhoudini.com/celtics-starting-lineup-seems-locked-why-jordan-walsh-has-final-spot",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "16/16",
+     "last_season_mpg": 32.6,
+     "last_season_role": "starter (returned from injury late)",
+     "role_up": false
+    },
+    {
+     "name": "Derrick White",
+     "status": "confirmed",
+     "evidence": "Started both recent preseason games with the main group.",
+     "source_url": "https://hardwoodhoudini.com/celtics-starting-lineup-seems-locked-why-jordan-walsh-has-final-spot",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "77/77",
+     "last_season_mpg": 34.1,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Paul George",
+     "status": "confirmed",
+     "evidence": "Acquired in the Jaylen Brown trade; started both recent preseason games.",
+     "source_url": "https://hardwoodhoudini.com/celtics-starting-lineup-seems-locked-why-jordan-walsh-has-final-spot",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "37/37 (PHI)",
+     "last_season_mpg": 30.7,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Mitchell Robinson",
+     "status": "very_likely",
+     "evidence": "Started both recent preseason games as the C; was in the same five, Queta not mentioned as starter.",
+     "source_url": "https://hardwoodhoudini.com/celtics-starting-lineup-seems-locked-why-jordan-walsh-has-final-spot",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "16/60 (NYK)",
+     "last_season_mpg": 19.6,
+     "last_season_role": "backup C",
+     "role_up": true
+    },
+    {
+     "name": "Jordan Walsh",
+     "status": "very_likely",
+     "evidence": "Started the last two preseason games; Mazzulla praised him guarding the best player at the start of games; Hardwood Houdini says he seemed to confirm Walsh starts. Mazzulla also says not to read much into preseason starters.",
+     "source_url": "https://hardwoodhoudini.com/celtics-starting-lineup-seems-locked-why-jordan-walsh-has-final-spot",
+     "source_date": "2026-10-15",
+     "last_season_gs_of_gp": "25/68",
+     "last_season_mpg": 17.8,
+     "last_season_role": "bench wing",
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (wing/forward)",
+     "candidates": [
+      "Jordan Walsh",
+      "Baylor Scheierman",
+      "Payton Pritchard",
+      "Hugo Gonzalez",
+      "Sam Hauser"
+     ],
+     "latest_news": "Walsh started the last two preseason games. Another writer argues Scheierman is more well-rounded. Walsh played the fewest minutes of any starter. Finale at PHI used a developmental group.",
+     "lean": "Walsh, matchup-based (e.g. vs Detroit/Cade Cunningham on opening night Oct 20).",
+     "source_url": "https://www.si.com/nba/celtics/onsi/trying-to-decipher-joe-mazzulla-s-preseason-moves-with-the-boston-celtics-01m52famrcsc",
+     "source_date": "2026-10-16"
+    },
+    {
+     "spot": "Center",
+     "candidates": [
+      "Mitchell Robinson",
+      "Neemias Queta"
+     ],
+     "latest_news": "Queta started 75 of 76 games last season (25.3 mpg) but is not in the preseason starting five; Boston also tried a double-big lineup vs CHA (Boston Globe Oct 14).",
+     "lean": "Robinson starts, Queta first big off the bench; Queta stays a fantasy-relevant 20+ mpg.",
+     "source_url": "https://www.bostonglobe.com/2026/10/14/sports/celtics-hornets-nba-preseason-td-garden/",
+     "source_date": "2026-10-14"
+    }
+   ],
+   "rotation_notes": "Payton Pritchard (50 GS of 79, 32.4 mpg last season) moves to a likely sixth-man role with a larger usage push after the Brown trade (Yahoo/NBC Sports Boston). Bench candidates: Queta, Pritchard, Hauser, Scheierman, Gonzalez, Conley (depth chart PG2), Simons not on local depth chart (assumed gone). Rookie Chris Cenac Jr. started the finale in a developmental group (rookie, role_up false). Opener Oct 20 at DET."
+  },
+  {
+   "team": "BKN",
+   "starters": [
+    {
+     "name": "Egor Demin",
+     "status": "very_likely",
+     "evidence": "Appears in every projection (Yahoo Oct 3, SI Oct 5, Yahoo Oct 14).",
+     "source_url": "https://sports.yahoo.com/articles/nets-heat-preseason-game-preview-113121816.html",
+     "source_date": "2026-10-14",
+     "last_season_gs_of_gp": "45/52",
+     "last_season_mpg": 25.2,
+     "last_season_role": "starter (rookie year)",
+     "role_up": false
+    },
+    {
+     "name": "Michael Porter Jr.",
+     "status": "very_likely",
+     "evidence": "In every projection.",
+     "source_url": "https://sports.yahoo.com/articles/nets-heat-preseason-game-preview-113121816.html",
+     "source_date": "2026-10-14",
+     "last_season_gs_of_gp": "52/52",
+     "last_season_mpg": 32.5,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Julius Randle",
+     "status": "very_likely",
+     "evidence": "In every projection; acquired this offseason (MIN last year).",
+     "source_url": "https://sports.yahoo.com/articles/nets-heat-preseason-game-preview-113121816.html",
+     "source_date": "2026-10-14",
+     "last_season_gs_of_gp": "79/79 (MIN)",
+     "last_season_mpg": 33,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Day'Ron Sharpe",
+     "status": "very_likely",
+     "evidence": "Projected C in all pieces; Nets Daily-linked recap says he was pulled early for foul trouble in the Oct 14 finale at MIA, so he started it.",
+     "source_url": "https://sports.yahoo.com/articles/nets-heat-preseason-game-preview-113121816.html",
+     "source_date": "2026-10-14",
+     "last_season_gs_of_gp": "7/62",
+     "last_season_mpg": 18.7,
+     "last_season_role": "backup C",
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (guard)",
+     "candidates": [
+      "Keon Ellis",
+      "Nolan Traore",
+      "Mikel Brown Jr."
+     ],
+     "latest_news": "ClutchPoints Oct 16: Fernandez says rookie Mikel Brown Jr. comes off the bench with a minutes restriction in the opener ('If you play less than 24 minutes, it's hard to start'); Yahoo Oct 14 projected Ellis in the finale; Lichtenstein expects Brown to replace Ellis once the ankle ramp-up ends. Traore started the preseason opener. Fernandez will not reveal starters until tipoff.",
+     "lean": "Keon Ellis at opener (about 55%), Traore second; Brown takes over in a few weeks.",
+     "source_url": "https://clutchpoints.com/nba/brooklyn-nets/nets-news-why-mikel-brown-jr-will-come-off-bench-start-season",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Keon Ellis last year: 6 GS of 29 for CLE, 24.8 mpg, so role_up true if he starts. Bench: Brown Jr. (rookie, minutes limit), Traore (31/56 GS), Saraf, Wolf, Clowney (60 GS last year, now backup big or Clowney at C per Yahoo), Mann, Powell, Wagner, Chaney Johnson. Claxton left for CHI. Cam Thomas does not appear in any 2026-27 Nets projection (assumed gone). Opener Oct 21 vs CHA."
+  },
+  {
+   "team": "CHA",
+   "starters": [
+    {
+     "name": "Brandon Miller",
+     "status": "very_likely",
+     "evidence": "Every projection; shin contusion Oct 7 was day-to-day, he played the Oct 16 finale (lead of SI preview).",
+     "source_url": "https://fantasyalarm.com/articles/nba/nba-offseason/charlotte-hornets-2026-27-season-preview/197189",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "65/65",
+     "last_season_mpg": 30.3,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Naz Reid",
+     "status": "very_likely",
+     "evidence": "Acquired from MIN in the LaMelo Ball trade; projected starting PF in all pieces and started preseason games.",
+     "source_url": "https://fantasyalarm.com/articles/nba/nba-offseason/charlotte-hornets-2026-27-season-preview/197189",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "3/77 (MIN)",
+     "last_season_mpg": 26.1,
+     "last_season_role": "sixth man",
+     "role_up": true
+    },
+    {
+     "name": "Moussa Diabate",
+     "status": "very_likely",
+     "evidence": "Started in preseason lineups as C; Kalkbrenner is the backup.",
+     "source_url": "https://www.si.com/nba/hornets/onsi/brandon-miller-hornets-round-out-preseason-play-vs-cam-boozer-and-the-grizzlies",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "47/73",
+     "last_season_mpg": 26,
+     "last_season_role": "rotation/part-time starter",
+     "role_up": false
+    },
+    {
+     "name": "Kon Knueppel",
+     "status": "disputed",
+     "evidence": "Left hamstring injury, missed the whole preseason; no update on opener.",
+     "source_url": "https://www.si.com/nba/hornets/onsi/brandon-miller-hornets-round-out-preseason-play-vs-cam-boozer-and-the-grizzlies",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "80/81",
+     "last_season_mpg": 31.5,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Coby White",
+     "status": "disputed",
+     "evidence": "Left calf strain in camp, out the whole preseason; Fantasy Alarm still lists him as starting PG.",
+     "source_url": "https://fantasyalarm.com/articles/nba/nba-offseason/charlotte-hornets-2026-27-season-preview/197189",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "26/29 CHI, 0/21 CHA (26/50 total)",
+     "last_season_mpg": 24.5,
+     "last_season_role": "starter at CHI, bench at CHA",
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "PG",
+     "candidates": [
+      "Coby White",
+      "Dennis Schroder",
+      "Christian Anderson Jr."
+     ],
+     "latest_news": "White out all preseason (calf). Oct 16 SI projection started Schroder. Lee: 'prepared to start in a lot of different ways'.",
+     "lean": "If White is cleared he starts; otherwise Schroder.",
+     "source_url": "https://www.si.com/nba/hornets/onsi/brandon-miller-hornets-round-out-preseason-play-vs-cam-boozer-and-the-grizzlies",
+     "source_date": "2026-10-16"
+    },
+    {
+     "spot": "SG",
+     "candidates": [
+      "Kon Knueppel",
+      "Grayson Allen",
+      "Royce O'Neale"
+     ],
+     "latest_news": "Knueppel out (hamstring). Allen questionable (right knee) on Oct 16; O'Neale projected as starter in finale. Allen last year in PHX is not in our data.",
+     "lean": "Knueppel when healthy, otherwise Allen or O'Neale.",
+     "source_url": "https://sports.yahoo.com/nba/article/charlotte-hornets-season-preview-opening-schedule-win-projection-and-everything-to-know-for-2026-27-141427393.html",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "LaMelo Ball and Josh Green went to MIN, Miles Bridges to PHX; Schroder, Allen, O'Neale, Reid are new. Bench: Schroder/Allen/O'Neale (when healthy), Sion James, Kalkbrenner (31 GS last year), Steinbach (rookie), Anderson Jr. Grant Williams and Boswell injured. Conflict with local notes: depth chart lists Reid PF1, matches. Opener Oct 21 at BKN."
+  },
+  {
+   "team": "CHI",
+   "starters": [
+    {
+     "name": "Josh Giddey",
+     "status": "confirmed",
+     "evidence": "Splitter named him as one of four set starters for preseason game 1; NBA.com preview lists him.",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-training-camp-notes-starting-lineup-set-how-splitter-wants-to-play-more-06",
+     "source_date": "2026-10-05",
+     "last_season_gs_of_gp": "51/54",
+     "last_season_mpg": 32.1,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Norman Powell",
+     "status": "confirmed",
+     "evidence": "Named among four set starters by Splitter; signed this offseason.",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-training-camp-notes-starting-lineup-set-how-splitter-wants-to-play-more-06",
+     "source_date": "2026-10-05",
+     "last_season_gs_of_gp": "52/58 (MIA)",
+     "last_season_mpg": 29.6,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Matas Buzelis",
+     "status": "confirmed",
+     "evidence": "Named among four set starters by Splitter.",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-training-camp-notes-starting-lineup-set-how-splitter-wants-to-play-more-06",
+     "source_date": "2026-10-05",
+     "last_season_gs_of_gp": "77/77",
+     "last_season_mpg": 29.2,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Caleb Wilson",
+     "status": "confirmed",
+     "evidence": "Rookie, No. 4 pick, named among four set starters and started the Oct 16 finale.",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-vs-timberwolves-preseason-finale-starting-lineups-who-is-out-more-16",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "rookie",
+     "last_season_mpg": null,
+     "last_season_role": "rookie",
+     "role_up": false
+    },
+    {
+     "name": "Nic Claxton",
+     "status": "disputed",
+     "evidence": "NBA.com preview (Sep 22) projects him at C, but he is out with a hamstring injury through the finale; Jalen Smith started in his place.",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-vs-timberwolves-preseason-finale-starting-lineups-who-is-out-more-16",
+     "source_date": "2026-10-16",
+     "last_season_gs_of_gp": "68/69 (BKN)",
+     "last_season_mpg": 27.8,
+     "last_season_role": "starter",
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Center",
+     "candidates": [
+      "Nic Claxton",
+      "Jalen Smith",
+      "Zach Collins"
+     ],
+     "latest_news": "Splitter said the fifth starter will be a 'big man'. Claxton out (hamstring) in the last preseason games; Collins has a quad injury (game-time decision Oct 16); Smith started the Bucks and Wolves games.",
+     "lean": "Claxton if healthy, Smith if not (Smith 21 GS of 53, 20.7 mpg last year).",
+     "source_url": "https://www.si.com/nba/bulls/onsi/bulls-training-camp-notes-starting-lineup-set-how-splitter-wants-to-play-more-06",
+     "source_date": "2026-10-05"
+    }
+   ],
+   "rotation_notes": "Head coach is Tiago Splitter, not Donovan. Bench: Tre Jones, Okoro (63 GS last year, knee GTD Oct 16, now bench per depth), Patrick Williams, Leonard Miller, Dillingham, Essengue, Swain (rookie). Coby White and Vucevic are gone. Opener Oct 20 or 21 (date not confirmed)."
+  },
+  {
+   "team": "CLE",
+   "starters": [
+    {
+     "name": "James Harden",
+     "status": "very_likely",
+     "evidence": "In the expected group used vs ORL on Oct 13.",
+     "source_url": "https://www.si.com/nba/cavaliers/onsi/updated-cleveland-cavaliers-starting-lineup-vs-orlando-magic-01m4vkn6r354",
+     "source_date": "2026-10-13",
+     "last_season_gs_of_gp": "26/26 (CLE)",
+     "last_season_mpg": 33.8,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Donovan Mitchell",
+     "status": "very_likely",
+     "evidence": "Same five vs ORL.",
+     "source_url": "https://www.si.com/nba/cavaliers/onsi/updated-cleveland-cavaliers-starting-lineup-vs-orlando-magic-01m4vkn6r354",
+     "source_date": "2026-10-13",
+     "last_season_gs_of_gp": "70/70",
+     "last_season_mpg": 33.5,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Peyton Watson",
+     "status": "very_likely",
+     "evidence": "Sign-and-trade from DEN; started vs ORL. Atkinson said Sep 25 'the starting lineup is not set', but analysts expect Watson.",
+     "source_url": "https://www.si.com/nba/cavaliers/onsi/updated-cleveland-cavaliers-starting-lineup-vs-orlando-magic-01m4vkn6r354",
+     "source_date": "2026-10-13",
+     "last_season_gs_of_gp": "40/54 (DEN)",
+     "last_season_mpg": 29.6,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Evan Mobley",
+     "status": "very_likely",
+     "evidence": "Same five vs ORL.",
+     "source_url": "https://www.si.com/nba/cavaliers/onsi/updated-cleveland-cavaliers-starting-lineup-vs-orlando-magic-01m4vkn6r354",
+     "source_date": "2026-10-13",
+     "last_season_gs_of_gp": "63/65",
+     "last_season_mpg": 31.9,
+     "last_season_role": "starter",
+     "role_up": false
+    },
+    {
+     "name": "Jarrett Allen",
+     "status": "very_likely",
+     "evidence": "Same five vs ORL.",
+     "source_url": "https://www.si.com/nba/cavaliers/onsi/updated-cleveland-cavaliers-starting-lineup-vs-orlando-magic-01m4vkn6r354",
+     "source_date": "2026-10-13",
+     "last_season_gs_of_gp": "56/56",
+     "last_season_mpg": 27.1,
+     "last_season_role": "starter",
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Small forward",
+     "candidates": [
+      "Peyton Watson",
+      "Jaylon Tyson",
+      "Sam Merrill"
+     ],
+     "latest_news": "Atkinson (Sep 25, Cleveland.com via Yahoo): 'The starting lineup is not set.' Merrill (38 GS) out with elbow soreness Oct 13; Tyson (42 GS last year) is the main alternative.",
+     "lean": "Watson.",
+     "source_url": "https://sports.yahoo.com/articles/cavaliers-major-starting-lineup-still-213405091.html",
+     "source_date": "2026-09-25"
+    }
+   ],
+   "rotation_notes": "Garland was traded to LAC in the Harden deal (Feb 4). Bench: Tyson, Merrill, Hezonja (new), Schroder gone to CHA, Ellis gone to BKN, Wade (38 GS) and Hunter not found in 2026-27 projections (assumed off the roster or bench), Proctor, Porter Jr., Tomlin, Bryant. Opener Oct 22 at PHI per SI. Local depth chart matches the five."
+  },
+  {
+   "team": "DAL",
+   "starters": [
+    {
+     "name": "Kyrie Irving",
+     "status": "very_likely",
+     "evidence": "Started preseason game 2 (Oct 11) and the Oct 16 finale vs Atlanta; first start in about 19 months after ACL recovery; May has not named a five.",
+     "source_url": "https://sports.yahoo.com/articles/dusty-mays-mavericks-still-figuring-170038857.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Did not play in 2025-26 (ACL recovery); starter before that",
+     "role_up": false,
+     "last_season_gs_of_gp": "0/0"
+    },
+    {
+     "name": "Cooper Flagg",
+     "status": "very_likely",
+     "evidence": "Started the Oct 9 opener and the Oct 16 finale; rested vs Pelicans Oct 14; centerpiece of roster.",
+     "source_url": "https://sports.yahoo.com/articles/dusty-mays-mavericks-still-figuring-170038857.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter (rookie)",
+     "role_up": false,
+     "last_season_gs_of_gp": "70/70",
+     "last_season_mpg": 33.5
+    },
+    {
+     "name": "P.J. Washington",
+     "status": "very_likely",
+     "evidence": "Started Oct 11, Oct 14 and the Oct 16 finale; missed the first preseason game.",
+     "source_url": "https://sports.yahoo.com/articles/dusty-may-puts-players-unfamiliar-040246473.html",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "53/56",
+     "last_season_mpg": 31
+    },
+    {
+     "name": "Daniel Gafford",
+     "status": "very_likely",
+     "evidence": "Started the Oct 16 finale (Yahoo) and appears at opening tip Oct 11 (photo caption only); rookie Morez Johnson Jr. started game 1 at C. Lively is out indefinitely (foot surgery).",
+     "source_url": "https://sports.yahoo.com/articles/dusty-mays-mavericks-still-figuring-170038857.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starting center, part-time minutes",
+     "role_up": false,
+     "last_season_gs_of_gp": "44/55",
+     "last_season_mpg": 21.7
+    },
+    {
+     "name": "Zaccharie Risacher",
+     "status": "disputed",
+     "evidence": "Started 3 of the 4 known preseason games (Oct 9, 11?, 14, 16); Christie (back for opener) may take his spot; May has not decided. Last-season GS not found for him in the Dallas ESPN table (22.4 mpg in our DB logs).",
+     "source_url": "https://sports.yahoo.com/articles/dusty-mays-mavericks-still-figuring-170038857.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Rotation wing, about 22 mpg (GS unverified)",
+     "role_up": true,
+     "last_season_gs_of_gp": "unknown/67",
+     "last_season_mpg": 22.4
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Wing/fifth starter (Risacher vs Christie vs Marshall)",
+     "candidates": [
+      "Zaccharie Risacher",
+      "Max Christie",
+      "Naji Marshall"
+     ],
+     "latest_news": "Finale starters were Irving, Flagg, Risacher, Washington, Gafford. Yahoo (Oct 17) says Christie returns for the Oct 21 opener at Houston and would likely start in place of Risacher, but May has not decided. Christie started 68 of 77 last season at 29.1 mpg; Marshall started 47 of 74.",
+     "lean": "Christie over Risacher if healthy (about 55/45); Marshall starts when others sit. Treat both Risacher and Christie as unsafe.",
+     "source_url": "https://sports.yahoo.com/articles/dusty-mays-mavericks-still-figuring-170038857.html",
+     "source_date": "2026-10-17"
+    },
+    {
+     "spot": "Center (Gafford vs rookie Morez Johnson Jr.)",
+     "candidates": [
+      "Daniel Gafford",
+      "Morez Johnson Jr.",
+      "Moussa Cisse"
+     ],
+     "latest_news": "Johnson started the Oct 9 opener over Gafford (Smoking Cuban: sign May may start him in season). Gafford started the Oct 16 finale; Johnson played 14 min, May said he 'looked rusty'. Lively out indefinitely. Cisse started Oct 14 then sprained ankle.",
+     "lean": "Gafford, with Johnson as the upside bench big.",
+     "source_url": "https://thesmokingcuban.com/mavericks-first-starting-lineup-hints-dusty-may-is-ready-to-bet-on-morez-johnson-jr",
+     "source_date": "2026-10-09"
+    }
+   ],
+   "rotation_notes": "May on Oct 6: 'I have no idea at this point' about the five; he tests 2 and 3 man combos (Yahoo/Roundtable, Oct 6). Anthony Davis is no longer on the roster (traded last season; not in our depth chart). Santi Aldama (traded from Memphis) is recovering from knee surgery. Marshall (29.5 mpg, 47 GS) and Washington are rotation locks. Rookie Morez Johnson Jr. (No. 9 pick, role_up false because rookie) had shin splints. Lively II out indefinitely. Marcus Sasser is the listed backup PG in Hashtag; Seth Lundy, Caleb Martin, Sergio de Larrea, Tarik Biberovic played second-unit minutes in preseason. Flagg/Irving rested on some nights, so not every preseason lineup is meaningful."
+  },
+  {
+   "team": "DEN",
+   "starters": [
+    {
+     "name": "Nikola Jokic",
+     "status": "confirmed",
+     "evidence": "Jokic at camp: 'The starting unit is the same, but there's a bunch of new guys.'",
+     "source_url": "https://www.eurohoops.net/en/nba-news/2014684/nikola-jokic-talks-denver-nuggets-preseason-nba/",
+     "source_date": "2026-09-30",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "65/65",
+     "last_season_mpg": 34.8
+    },
+    {
+     "name": "Jamal Murray",
+     "status": "confirmed",
+     "evidence": "Missed the Oct 4 opener, then started later games; Adelman wants the starters to play together (SI, Oct 10); played first half vs Clippers Oct 14.",
+     "source_url": "https://www.si.com/nba/nuggets/onsi/what-to-expect-from-nuggets-starters-in-final-three-preseason-games",
+     "source_date": "2026-10-10",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "75/75",
+     "last_season_mpg": 35.4
+    },
+    {
+     "name": "Christian Braun",
+     "status": "confirmed",
+     "evidence": "Part of the same five that started 23 games together last season and is expected to open together.",
+     "source_url": "https://www.si.com/nba/nuggets/onsi/what-to-expect-from-nuggets-starters-in-final-three-preseason-games",
+     "source_date": "2026-10-10",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "44/44",
+     "last_season_mpg": 31.8
+    },
+    {
+     "name": "Cameron Johnson",
+     "status": "confirmed",
+     "evidence": "Same unit per Jokic and SI projection; an August piece said he could lose the spot only if Watson re-signed, and a later report says Watson was traded to Cleveland (single source).",
+     "source_url": "https://www.si.com/nba/nuggets/onsi/what-to-expect-from-nuggets-starters-in-final-three-preseason-games",
+     "source_date": "2026-10-10",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "54/54",
+     "last_season_mpg": 30.5
+    },
+    {
+     "name": "Aaron Gordon",
+     "status": "confirmed",
+     "evidence": "Expected starter; rested for the Oct 16 finale vs Lakers with Trevon Brazile starting in his place (Law Murray, via RotoWire summary; not independently verified).",
+     "source_url": "https://www.si.com/nba/nuggets/onsi/what-to-expect-from-nuggets-starters-in-final-three-preseason-games",
+     "source_date": "2026-10-10",
+     "last_season_role": "Starter, missed many games",
+     "role_up": false,
+     "last_season_gs_of_gp": "33/36",
+     "last_season_mpg": 27.9
+    }
+   ],
+   "disputed_spots": [],
+   "rotation_notes": "Local depth chart agrees. DeMar DeRozan is first man off the bench per Adelman (Mile High Sports quote via search summary); Adelman said he wants a full five-man reserve unit to open the season (Denver Gazette, Oct 14). Marvin Bagley III, Tyus Jones, Julian Strawther, Alpha Diallo, Spencer Jones (37 GS last season, 22.1 mpg), Zeke Nnaji are in the reserve mix. Peyton Watson (40 GS, 29.6 mpg) reportedly left via trade, which is why Spencer Jones and Gordon health matter. Risk is injuries (Gordon 36 games, Murray rest), not the five itself."
+  },
+  {
+   "team": "DET",
+   "starters": [
+    {
+     "name": "Cade Cunningham",
+     "status": "confirmed",
+     "evidence": "Started the Oct 16 finale vs Toronto and all preseason games with the main group.",
+     "source_url": "https://sports.yahoo.com/articles/starters-pace-win-pistons-preseason-015319684.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "64/64",
+     "last_season_mpg": 33.9
+    },
+    {
+     "name": "Jalen Duren",
+     "status": "confirmed",
+     "evidence": "Held out early in preseason; debuted Oct 14 (24 pts in 15 min) and started the finale Oct 16 (14 pts, 20 min).",
+     "source_url": "https://www.nba.com/pistons/news/duren-obliterates-all-concerns-in-sparkling-debut-as-pistons-net-blueprint-win",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "70/70",
+     "last_season_mpg": 28.2
+    },
+    {
+     "name": "Ausar Thompson",
+     "status": "confirmed",
+     "evidence": "Listed among the expected starters in the finale; tried as point forward in preseason.",
+     "source_url": "https://sports.yahoo.com/articles/starters-pace-win-pistons-preseason-015319684.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "72/73",
+     "last_season_mpg": 26
+    },
+    {
+     "name": "John Collins",
+     "status": "confirmed",
+     "evidence": "Replaces Tobias Harris; made preseason starts at PF and started the Oct 16 finale. Last-season GS not found for him; 27.1 mpg in our logs.",
+     "source_url": "https://sports.yahoo.com/articles/starters-pace-win-pistons-preseason-015319684.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starting-level minutes (27 mpg), GS unverified",
+     "role_up": false,
+     "last_season_gs_of_gp": "unknown/69",
+     "last_season_mpg": 27.1
+    },
+    {
+     "name": "Duncan Robinson",
+     "status": "very_likely",
+     "evidence": "A search summary of Oct 16 coverage lists Cunningham, Duren, Thompson, Collins and Robinson as the unchanged preseason five; the Yahoo recap itself only names four and shows Ron Holland early, so Holland is the small doubt.",
+     "source_url": "https://sports.yahoo.com/articles/starters-pace-win-pistons-preseason-015319684.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "77/77",
+     "last_season_mpg": 27.4
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (Robinson vs Holland / Joe)",
+     "candidates": [
+      "Duncan Robinson",
+      "Ron Holland II",
+      "Isaiah Joe"
+     ],
+     "latest_news": "Bickerstaff has not made a formal announcement; Roundtable (Aug 16) said Joe and Robinson could be staggered or overlapped. Holland (5 GS last season, 19.9 mpg) appeared with the first group early in the Oct 16 game per Yahoo, unconfirmed as a starter.",
+     "lean": "Robinson, low-moderate doubt.",
+     "source_url": "https://sports.yahoo.com/articles/starters-pace-win-pistons-preseason-015319684.html",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Bench: Daniss Jenkins (72 GP, 19 GS), Holland, Isaiah Joe, Taurean Prince, Javonte Green, Paul Reed (started Oct 5 while Duren sat), Kevin Huerter (now on our DB as DET), rookie Ebuka Okorie (14 pts in 9 min in finale; role_up false as rookie), Chaz Lanier. Tobias Harris and Isaiah Stewart are gone. Bickerstaff played 18 deep in the finale, so preseason minutes are not a guide."
+  },
+  {
+   "team": "GSW",
+   "starters": [
+    {
+     "name": "Stephen Curry",
+     "status": "confirmed",
+     "evidence": "Kerr named him in the preseason opener five (Oct 2) and every lean for opening night; durability risk, only 43 GP last season.",
+     "source_url": "https://sports.yahoo.com/articles/steve-kerr-reveals-warriors-potential-041043907.html",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "41/43",
+     "last_season_mpg": 30.9
+    },
+    {
+     "name": "Draymond Green",
+     "status": "confirmed",
+     "evidence": "Kerr said Green starts next to Curry; wants Green or Horford on court to anchor defense.",
+     "source_url": "https://sports.yahoo.com/articles/steve-kerr-reveals-warriors-potential-041043907.html",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "68/68",
+     "last_season_mpg": 27.5
+    },
+    {
+     "name": "Brandin Podziemski",
+     "status": "very_likely",
+     "evidence": "In Kerr's 'leaning towards it' opening-night five and the preseason opener five.",
+     "source_url": "https://sports.yahoo.com/articles/steve-kerr-reveals-warriors-potential-041043907.html",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter about half the games, 28.5 mpg",
+     "role_up": false,
+     "last_season_gs_of_gp": "43/82",
+     "last_season_mpg": 28.5
+    },
+    {
+     "name": "Yaxel Lendeborg",
+     "status": "very_likely",
+     "evidence": "Rookie in both of Kerr's lineups (Oct 2 and Oct 12-13); Curry fit praised.",
+     "source_url": "https://clutchpoints.com/nba/golden-state-warriors/warriors-news-steve-kerr-teases-opening-night-starting-five-kristaps-porzingis-absence",
+     "source_date": "2026-10-12",
+     "last_season_role": "Rookie, no NBA season",
+     "role_up": false,
+     "last_season_gs_of_gp": "0/0"
+    },
+    {
+     "name": "Gui Santos",
+     "status": "disputed",
+     "evidence": "Kerr 'leaning towards' Curry, Green, Podziemski, Santos, Lendeborg; Horford 'easier to bring off the bench' at about 20 min but started the Oct 2 preseason opener.",
+     "source_url": "https://clutchpoints.com/nba/golden-state-warriors/warriors-news-steve-kerr-teases-opening-night-starting-five-kristaps-porzingis-absence",
+     "source_date": "2026-10-12",
+     "last_season_role": "Rotation wing, 20.5 mpg, 30 starts",
+     "role_up": true,
+     "last_season_gs_of_gp": "30/68",
+     "last_season_mpg": 20.5
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (Santos vs Horford; Porzingis if healthy)",
+     "candidates": [
+      "Gui Santos",
+      "Al Horford",
+      "Kristaps Porzingis"
+     ],
+     "latest_news": "Kerr (Oct 12): 'I'm leaning towards it' (Santos in, Horford bench). Porzingis is out with an unspecified health issue; his opening-night status is undecided. Jimmy Butler is out with a torn right ACL (return reported January to February 2027) and Moses Moody is also out.",
+     "lean": "Santos, but Horford or Porzingis return would flip it. Check Oct 20 injury report.",
+     "source_url": "https://sports.yahoo.com/articles/steve-kerr-reveals-warriors-potential-041043907.html",
+     "source_date": "2026-10-13"
+    }
+   ],
+   "rotation_notes": "Butler (38 GP, 31 mpg) and Moody (49 GS) both out; that opens minutes for Santos, Will Richard (21 GS), De'Anthony Melton, Brandon Williams, L.J. Cryer, Gary Payton II. Horford about 20 mpg. Porzingis (15 GP last season) is a major swing, since our Hashtag depth lists him as starting C. Local depth chart is out of date on Butler. Note: one early search summary mixed in 2024 'ankle' articles; I discarded them."
+  },
+  {
+   "team": "HOU",
+   "starters": [
+    {
+     "name": "Kevin Durant",
+     "status": "confirmed",
+     "evidence": "Udoka confirmed projected five (paraphrase via Rockets On SI); started Macao game 1.",
+     "source_url": "https://sports.yahoo.com/articles/head-coach-confirms-rockets-projected-120007580.html",
+     "source_date": "2026-09-30",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "78/78",
+     "last_season_mpg": 36.4
+    },
+    {
+     "name": "Alperen Sengun",
+     "status": "confirmed",
+     "evidence": "Same Udoka-confirmed five; started game 1; rested game 2.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-film-study-houston-preseason-160000040.html",
+     "source_date": "2026-10-12",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "72/72",
+     "last_season_mpg": 33.3
+    },
+    {
+     "name": "Amen Thompson",
+     "status": "confirmed",
+     "evidence": "Same five; Udoka wants to cut his and Durant's minutes.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-film-study-houston-preseason-160000040.html",
+     "source_date": "2026-10-12",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "79/79",
+     "last_season_mpg": 37.4
+    },
+    {
+     "name": "Jabari Smith Jr.",
+     "status": "confirmed",
+     "evidence": "Same five; started game 1.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-film-study-houston-preseason-160000040.html",
+     "source_date": "2026-10-12",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "77/77",
+     "last_season_mpg": 35.1
+    },
+    {
+     "name": "Fred VanVleet",
+     "status": "confirmed",
+     "evidence": "Udoka confirmed him in the projected five; started Macao game 1 (first game back from ACL), sat game 2; minutes may be managed.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-film-study-houston-preseason-160000040.html",
+     "source_date": "2026-10-12",
+     "last_season_role": "Missed the whole season (ACL); starter before",
+     "role_up": false,
+     "last_season_gs_of_gp": "0/0"
+    }
+   ],
+   "disputed_spots": [],
+   "rotation_notes": "Marcus Smart started Macao game 2 but is the expected backup PG (not a starter). Reed Sheppard (21 GS of 82, 26.2 mpg) is the sixth man and the first to start if VanVleet sits; Tari Eason (34 GS of 60, 25.8 mpg) is the main forward off the bench. Steven Adams, Clint Capela behind Sengun. Note: Roundtable 'Udoka announces the starting five' is an opinion piece (Sep 30), not a direct announcement; the confirmation rests on a Rockets On SI paraphrase. Hashtag depth shows VanVleet at PG1, consistent."
+  },
+  {
+   "team": "IND",
+   "starters": [
+    {
+     "name": "Tyrese Haliburton",
+     "status": "very_likely",
+     "evidence": "Returned from Achilles tear and started the Oct 7 preseason opener (24 pts, 7 ast) and the OKC game; Carlisle has not formally announced the five.",
+     "source_url": "https://www.indycornrows.com/p/haliburton-ready-for-real-games-as",
+     "source_date": "2026-10-16",
+     "last_season_role": "Missed 2025-26 (Achilles); starter before",
+     "role_up": false,
+     "last_season_gs_of_gp": "0/0"
+    },
+    {
+     "name": "Andrew Nembhard",
+     "status": "very_likely",
+     "evidence": "Starting alongside Haliburton in the Oct 7 game; listed with nagging injuries, may sit the finale.",
+     "source_url": "https://www.indycornrows.com/p/haliburton-ready-for-real-games-as",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "57/57",
+     "last_season_mpg": 31.3
+    },
+    {
+     "name": "Aaron Nesmith",
+     "status": "disputed",
+     "evidence": "Projected starter in all previews (Oct 2, Oct 16) but missed OKC and the Oct 16 finale with a mild hamstring issue; practiced Oct 15 and 'seems ready for next week'. Kelly Oubre Jr. (two-year, $16.5M) is the alternative.",
+     "source_url": "https://sports.yahoo.com/articles/pacers-training-camp-day-8-211515439.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "42/45",
+     "last_season_mpg": 29.7
+    },
+    {
+     "name": "Pascal Siakam",
+     "status": "confirmed",
+     "evidence": "Consistent first-unit projections and practice clips; no rival at PF.",
+     "source_url": "https://sports.yahoo.com/articles/pacers-offer-early-look-rotation-163444368.html",
+     "source_date": "2026-10-02",
+     "last_season_role": "Starter",
+     "role_up": false,
+     "last_season_gs_of_gp": "62/62",
+     "last_season_mpg": 33.2
+    },
+    {
+     "name": "Ivica Zubac",
+     "status": "very_likely",
+     "evidence": "Acquired at the deadline; paired with Haliburton in OKC; Jay Huff and Larry Nance Jr. fight for the backup center job per Carlisle (Oct 15).",
+     "source_url": "https://sports.yahoo.com/articles/pacers-training-camp-day-8-211515439.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "Starter (5 GS in 5 games with IND; about 30 mpg combined in our logs)",
+     "role_up": false,
+     "last_season_gs_of_gp": "5/5 with IND",
+     "last_season_mpg": 30.2
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Small forward (Nesmith vs Oubre)",
+     "candidates": [
+      "Aaron Nesmith",
+      "Kelly Oubre Jr.",
+      "Jarace Walker"
+     ],
+     "latest_news": "Nesmith hamstring, missed the last two preseason games, expected back next week (Oct 15 and Oct 16 reports). No 2026 source shows Oubre starting; Yahoo (Oct 2) puts Oubre, Toppin, Walker and Huff in the second unit. Roundtable (Sep 26, opinion) calls SF the one open debate.",
+     "lean": "Nesmith, if healthy on Oct 21; Oubre starts only if he misses games.",
+     "source_url": "https://sports.yahoo.com/articles/pacers-training-camp-day-8-211515439.html",
+     "source_date": "2026-10-15"
+    }
+   ],
+   "rotation_notes": "Bench: Oubre (31.5 mpg elsewhere last year), Obi Toppin, Jarace Walker (41 GS of 76, 25.7 mpg), Jay Huff (47 GS of 82 last season, now backup C), T.J. McConnell (injured, 'working on it' for opener), Ben Sheppard, Quenton Jackson. Johnny Furphy and Larry Nance Jr. sidelined per Yahoo (Oct 2). Mathurin is gone. Carlisle gave no direct quote on the five; all starter sources are projections and practice clips. Pierce coached the finale in Carlisle's absence per a search summary (unverified)."
+  },
+  {
+   "team": "LAC",
+   "starters": [
+    {
+     "name": "Darius Garland",
+     "status": "very_likely",
+     "evidence": "Every report has him as the starting PG (camp first unit, Dunn story Oct 16 says he starts next to Dunn); no rival.",
+     "source_url": "https://clipperholics.com/kris-dunn-starting-only-make-game-harder-darius-garland",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter: 17 GS in 19 GP with LAC (about 45 GP total with CLE), 29.8 mpg",
+     "last_season_gs_of_gp": "17 of 19 (LAC portion)",
+     "last_season_mpg": 29.8,
+     "role_up": false
+    },
+    {
+     "name": "Kris Dunn",
+     "status": "very_likely",
+     "evidence": "Per Clippers beat reporter Joey Linn (via Clipperholics) Lue settled on opening-night starters and Dunn is one; rookie Keaton Wagler started the Oct 14 preseason game with Dunn resting.",
+     "source_url": "https://clipperholics.com/kris-dunn-starting-only-make-game-harder-darius-garland",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter: 68 GS in 82 GP, 27.2 mpg",
+     "last_season_gs_of_gp": "68 of 82",
+     "last_season_mpg": 27.2,
+     "role_up": false
+    },
+    {
+     "name": "Derrick Jones Jr.",
+     "status": "very_likely",
+     "evidence": "In the camp first unit reported by ESPN (Youngmisuk); SI opening-night projection also has him at SF; Ingram out until at least November.",
+     "source_url": "https://www.si.com/nba/clippers/onsi/clippers-opening-night-starting-lineup-prediction-benefits-injuries-01m4gpzj6rcf",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter: 45 GS in 50 GP, 26.9 mpg",
+     "last_season_gs_of_gp": "45 of 50",
+     "last_season_mpg": 26.9,
+     "role_up": false
+    },
+    {
+     "name": "Rui Hachimura",
+     "status": "very_likely",
+     "evidence": "In the camp first unit (ESPN) and SI projection at PF; no public Lue confirmation, Ingram absence leaves him no rival except Jordan Miller.",
+     "source_url": "https://www.si.com/nba/clippers/onsi/clippers-opening-night-starting-lineup-prediction-benefits-injuries-01m4gpzj6rcf",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter/6th man mix with LAL: 41 GS in 68 GP, 28.3 mpg",
+     "last_season_gs_of_gp": "41 of 68",
+     "last_season_mpg": 28.3,
+     "role_up": false
+    },
+    {
+     "name": "Isaiah Jackson",
+     "status": "confirmed",
+     "evidence": "Lue said Jackson will start at center in the opener (Linn, Oct 17); NBC says he started all preseason, though CBS says Lopez started one game vs TOR. Lopez is the backup.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-17/lue-jackson-to-begin-season-as-starting-center",
+     "source_date": "2026-10-17",
+     "last_season_role": "Reserve big: IND 14 GS in 38 GP (16.8 mpg per Wikipedia), LAC 0 GS in 17 GP (15.9 mpg)",
+     "last_season_gs_of_gp": "about 14 of 55 (IND 14/38 + LAC 0/17)",
+     "last_season_mpg": 16.5,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "SG (Dunn vs Keaton Wagler)",
+     "candidates": [
+      "Kris Dunn",
+      "Keaton Wagler (rookie, No. 5 pick)"
+     ],
+     "latest_news": "Linn reports Lue chose Dunn for opening night, but Wagler started the Oct 14 preseason game (HoopsHype) and the Clipperholics piece expects Lue may change his mind early. Strus (partial plantar fascia tear, re-evaluate in about 4 weeks), Ingram (partially torn Achilles, not before November) and Beal (knee inflammation, no date) are all out for the opener.",
+     "lean": "Dunn on opening night; Wagler is the next man up and may take the spot within weeks.",
+     "source_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/14/keaton-wagler-is-starting-at-the-shooting-guard-spot/92258203007/",
+     "source_date": "2026-10-14"
+    },
+    {
+     "spot": "C (Jackson vs Brook Lopez)",
+     "candidates": [
+      "Isaiah Jackson",
+      "Brook Lopez"
+     ],
+     "latest_news": "Lue confirmed Jackson as starting center on Oct 17; Lopez expected to back him up. Earlier (Oct 1) Lue had said Lopez at C could change things.",
+     "lean": "Jackson (now settled; low dispute).",
+     "source_url": "https://basketnews.com/news-257571-clippers-head-coach-confirms-new-starting-center-for-season-opener.html",
+     "source_date": "2026-10-17"
+    }
+   ],
+   "rotation_notes": "Lue said he 'can't remember' the other four starters, so only Jackson is on the record. Ten-man group is thin: Lopez (21.8 mpg last year) is the backup C; Wagler, Jordan Miller (22 mpg, 1 GS), Kobe Sanders (19.9 mpg), Gradey Dick, Jalen Pickett, Baba Miller (rookie, 15 pts in 21 min off bench Oct 14) and Cam Christie fill the wings. Yanic Konan Niederhauser out (foot surgery). Opening night vs Sacramento Oct 21 per search results. Ingram returns November at earliest and will take a starting spot (likely from Jones/Dunn slot). Keaton Wagler is a rookie (role_up false by rule). Local Hashtag depth lists Lopez at C1 and Wagler at SG1; the web is newer, so Jackson wins. Source caveat: Jackson GS split built from Wikipedia (IND 14/38) and ESPN LAC page (0/17)."
+  },
+  {
+   "team": "LAL",
+   "starters": [
+    {
+     "name": "Luka Doncic",
+     "status": "confirmed",
+     "evidence": "Redick treats Doncic, Reaves and Kessler as set starters; Doncic started the preseason finale.",
+     "source_url": "https://sports.yahoo.com/articles/lakers-reveal-potential-starting-lineup-014351750.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter 64 of 64, 35.8 mpg",
+     "last_season_gs_of_gp": "64 of 64",
+     "last_season_mpg": 35.8,
+     "role_up": false
+    },
+    {
+     "name": "Austin Reaves",
+     "status": "confirmed",
+     "evidence": "Set starter with Doncic and Kessler; started the finale.",
+     "source_url": "https://sports.yahoo.com/articles/lakers-reveal-potential-starting-lineup-014351750.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter 45 of 51, 34.5 mpg",
+     "last_season_gs_of_gp": "45 of 51",
+     "last_season_mpg": 34.5,
+     "role_up": false
+    },
+    {
+     "name": "Walker Kessler",
+     "status": "confirmed",
+     "evidence": "Redick calls him an established starter; started the finale after returning to full practice from injury.",
+     "source_url": "https://sports.yahoo.com/articles/lakers-reveal-potential-starting-lineup-014351750.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Played only 5 games in 2025-26 (injured), 31.0 mpg in those; was a UTA starter before",
+     "last_season_gs_of_gp": "not verified (5 GP)",
+     "last_season_mpg": 31,
+     "role_up": false
+    },
+    {
+     "name": "Ziaire Williams",
+     "status": "very_likely",
+     "evidence": "Started preseason game 1 and the finale after missing three games with a foot contusion; Lakers Nation calls him the ideal fit for the open spot.",
+     "source_url": "https://lakersnation.com/jj-redick-has-yet-to-finalize-lakers-starting-lineup/",
+     "source_date": "2026-10-14",
+     "last_season_role": "BKN rotation player: 13 GS in 56 GP, 22.9 mpg",
+     "last_season_gs_of_gp": "13 of 56",
+     "last_season_mpg": 22.9,
+     "role_up": true
+    },
+    {
+     "name": "Matisse Thybulle",
+     "status": "disputed",
+     "evidence": "Surprise starter in the preseason finale over Quentin Grimes; Redick said he is 'still open to both' on Grimes starting or not.",
+     "source_url": "https://sports.yahoo.com/articles/lakers-reveal-potential-starting-lineup-014351750.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "POR reserve: 0 GS in 30 GP, 16.0 mpg",
+     "last_season_gs_of_gp": "0 of 30",
+     "last_season_mpg": 16,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (wing/forward)",
+     "candidates": [
+      "Matisse Thybulle",
+      "Quentin Grimes",
+      "Jake LaRavia"
+     ],
+     "latest_news": "Grimes started the first four preseason games (12.3 pts) and Lakers Nation (Oct 14) said he had 'essentially claimed' a spot; then Redick started Thybulle in the Oct 16 finale citing lineup balance and Grimes serving as ball-handler off the bench while Collin Sexton is out (right lower leg). Redick expects Grimes to 'start a lot of games'. LaRavia has played well but did not start the finale.",
+     "lean": "Toss-up Grimes vs Thybulle; latest signal (finale) is Thybulle. Grimes likely takes the spot once Sexton returns or Redick wants a second creator.",
+     "source_url": "https://sports.yahoo.com/articles/lakers-reveal-potential-starting-lineup-014351750.html",
+     "source_date": "2026-10-17"
+    },
+    {
+     "spot": "Fourth starter (Williams vs LaRavia)",
+     "candidates": [
+      "Ziaire Williams",
+      "Jake LaRavia"
+     ],
+     "latest_news": "Williams started game 1 and the finale; LaRavia (43 GS in 82 GP last year) praised for confident shooting but not named a starter.",
+     "lean": "Williams.",
+     "source_url": "https://lakersnation.com/jj-redick-has-yet-to-finalize-lakers-starting-lineup/",
+     "source_date": "2026-10-14"
+    }
+   ],
+   "rotation_notes": "Grimes was a PHI 19-GS player (19 of 75, 29.4 mpg) so if he starts he is role_up true; not listed above because Thybulle is the latest starter. LaRavia last year 43 GS of 82, 25.1 mpg (borderline, role_up false). Others: Mamukelashvili (21.9 mpg last year) and Vanderbilt at forward/big, Looney backup C, Sexton injured (nothing firm on return), Hardy, Knecht, Bronny, rookie Cameron Carr and Adou Thiero in the fringe. Opener vs Warriors Wednesday per search results. Local Hashtag depth has Mamukelashvili PF1 and Grimes SF1, which the web contradicts (Williams/Thybulle started the finale). Lakers fantasy: LeBron is gone from this roster (ESPN LAL page shows him as last year only)."
+  },
+  {
+   "team": "MEM",
+   "starters": [
+    {
+     "name": "Ty Jerome",
+     "status": "very_likely",
+     "evidence": "Started the preseason opener at PG and projected PG1 everywhere; no rival named.",
+     "source_url": "https://sports.yahoo.com/articles/learned-memphis-grizzlies-first-preseason-020152093.html",
+     "source_date": "2026-10-10",
+     "last_season_role": "Started all 15 games he played (injury-shortened), 22.6 mpg",
+     "last_season_gs_of_gp": "15 of 15",
+     "last_season_mpg": 22.7,
+     "role_up": false
+    },
+    {
+     "name": "Cedric Coward",
+     "status": "very_likely",
+     "evidence": "In every projected and early-preseason starting group (Roundtable, SI).",
+     "source_url": "https://roundtable.io/sports/nba/grizzlies/news/gg-jackson-ii-s-preseason-numbers-are-getting-hard-to-ignore",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter 47 of 62, 25.8 mpg",
+     "last_season_gs_of_gp": "47 of 62",
+     "last_season_mpg": 25.8,
+     "role_up": false
+    },
+    {
+     "name": "Cameron Boozer",
+     "status": "very_likely",
+     "evidence": "Rookie; kept in the same starting group in every preseason game Edey played and started in the Oct 16 dress rehearsal (19 pts, 7 reb).",
+     "source_url": "https://sports.yahoo.com/articles/grizzlies-vs-hornets-live-score-235108032.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Rookie (college); role_up false by rule",
+     "last_season_gs_of_gp": "rookie",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Zach Edey",
+     "status": "very_likely",
+     "evidence": "Started every preseason game he played after missing the opener; Iisalo kept the same group for continuity.",
+     "source_url": "https://sports.yahoo.com/articles/grizzlies-vs-hornets-live-score-235108032.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter 11 of 11 games played (injury-shortened), 25.8 mpg",
+     "last_season_gs_of_gp": "11 of 11",
+     "last_season_mpg": 25.8,
+     "role_up": false
+    },
+    {
+     "name": "Kris Murray",
+     "status": "disputed",
+     "evidence": "Iisalo moved Murray into the starting five for the Oct 16 finale and Jaylen Wells (who started the first three games) went to the bench.",
+     "source_url": "https://sports.yahoo.com/articles/tuomas-iisalo-credits-grizzlies-second-154406286.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "POR reserve: 15 GS in 57 GP, 23.4 mpg",
+     "last_season_gs_of_gp": "15 of 57",
+     "last_season_mpg": 23.5,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Wing/forward (SF)",
+     "candidates": [
+      "Jaylen Wells",
+      "Kris Murray",
+      "Jerami Grant"
+     ],
+     "latest_news": "Wells started the first three preseason games; Murray started the Oct 16 finale and Wells came off the bench. Yahoo says the move gave staff a longer look at Murray before cuts. SI preseason projection had Wells starting and Grant closing. Grant came off the bench in the reported games. No official Game 1 lineup found.",
+     "lean": "Wells slightly (started 69 of 69 last year and 3 of 4 preseason games), Murray a real threat; Grant for closing minutes.",
+     "source_url": "https://sports.yahoo.com/articles/tuomas-iisalo-credits-grizzlies-second-154406286.html",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Opener Oct 21 vs Utah per search results. Bench: Grant (29.8 mpg last year, 38 of 57 GS at POR, a likely top-3 scorer off bench or starter), Isaiah Stewart (backup C/PF), Cam Spencer, Scotty Pippen Jr., Walter Clayton Jr., Javon Small, GG Jackson II (strong preseason numbers), Karim Lopez, Taylor Hendricks, Quinten Post. Local Hashtag depth has Boozer PF1, Wells SF1 and Ty Jerome PG1, consistent with the web except for the Murray change. Jerome GS taken from the ESPN MEM page. I did not find a Wells GS of 69 of 69 conflict. I found no official opening-night starters."
+  },
+  {
+   "team": "MIA",
+   "starters": [
+    {
+     "name": "Giannis Antetokounmpo",
+     "status": "very_likely",
+     "evidence": "Projected starter in every outlet; rested for the preseason finale and again in other games, not an injury.",
+     "source_url": "https://sports.yahoo.com/articles/heat-thin-roster-meet-nba-154200443.html",
+     "source_date": "2026-10-12",
+     "last_season_role": "Starter 36 of 36 with MIL, 28.9 mpg",
+     "last_season_gs_of_gp": "36 of 36",
+     "last_season_mpg": 28.9,
+     "role_up": false
+    },
+    {
+     "name": "Bam Adebayo",
+     "status": "very_likely",
+     "evidence": "Set starter but missed the last two preseason games with right groin tightness; Spoelstra said 'day-to-day' and is not overly concerned (Oct 15). Opening-night availability unconfirmed.",
+     "source_url": "https://sports.yahoo.com/articles/heat-bam-adebayo-injury-week-000335497.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "Starter 73 of 73, 32.4 mpg",
+     "last_season_gs_of_gp": "73 of 73",
+     "last_season_mpg": 32.4,
+     "role_up": false
+    },
+    {
+     "name": "Andrew Wiggins",
+     "status": "very_likely",
+     "evidence": "Projected SF starter in all reports; started the finale.",
+     "source_url": "https://www.si.com/nba/heat/onsi/is-the-miami-heat-s-starting-lineup-set-01m4s9rh512v",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter 68 of 68, 30.3 mpg",
+     "last_season_gs_of_gp": "68 of 68",
+     "last_season_mpg": 30.4,
+     "role_up": false
+    },
+    {
+     "name": "Davion Mitchell",
+     "status": "very_likely",
+     "evidence": "Projected PG starter; started the finale.",
+     "source_url": "https://www.si.com/nba/heat/onsi/is-the-miami-heat-s-starting-lineup-set-01m4s9rh512v",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter 70 of 70, 28.6 mpg",
+     "last_season_gs_of_gp": "70 of 70",
+     "last_season_mpg": 28.6,
+     "role_up": false
+    },
+    {
+     "name": "Klay Thompson",
+     "status": "disputed",
+     "evidence": "Yahoo and SI project him as the fifth starter and he started the finale (with Portis and Jovic filling in for Bam/Giannis), but SI calls his spot the only one open to debate with Pelle Larsson the main alternative.",
+     "source_url": "https://www.si.com/nba/heat/onsi/is-the-miami-heat-s-starting-lineup-set-01m4s9rh512v",
+     "source_date": "2026-10-13",
+     "last_season_role": "DAL reserve: 8 GS in 69 GP, 21.7 mpg",
+     "last_season_gs_of_gp": "8 of 69",
+     "last_season_mpg": 21.7,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter at SG (Thompson vs Larsson vs Hardaway)",
+     "candidates": [
+      "Klay Thompson",
+      "Pelle Larsson",
+      "Tim Hardaway Jr."
+     ],
+     "latest_news": "Heat finished 3-2 in preseason. Finale lineup (Oct 16) was Portis, Jovic, Wiggins, Mitchell, Thompson because Giannis (rest), Bam (groin), Larsson (illness) and Dru Smith (calf) were out. SI (Oct 13) said Spoelstra is unlikely to deviate for a while and expects Larsson in closing lineups; Hardaway and Portis expected to lead the second unit. Spoelstra said he is 'not stressed out about the rotation' for the opener.",
+     "lean": "Thompson starts; Larsson (54 GS of 70 last year) is the fallback and closer.",
+     "source_url": "https://sports.yahoo.com/articles/no-giannis-no-bam-no-012800951.html",
+     "source_date": "2026-10-17"
+    }
+   ],
+   "rotation_notes": "Opener Oct 21 vs Minnesota per the injury/preview pieces (search results show MIA vs MIN, not the date given in the task). Bench: Portis (24.1 mpg), Hardaway (26.6 mpg last year), Larsson (26.5 mpg), Jovic (1 GS in 47, 17.2 mpg), Fontecchio, Dru Smith (calf), Myron Gardner, Nick Richards. If Bam sits, Portis or Richards start at C. Local Hashtag depth has Hardaway at SG1 and Giannis at PF1, which conflicts with the web on SG; web wins. Sources Yahoo 2026-10-12 piece was not opened directly; it came from search summary."
+  },
+  {
+   "team": "MIL",
+   "starters": [
+    {
+     "name": "Ryan Rollins",
+     "status": "very_likely",
+     "evidence": "Started the opening preseason game and the Oct 16 finale at PG; expected opening-night group per SI/Brew Hoop writers.",
+     "source_url": "https://www.si.com/nba/bucks/onsi/the-ideal-milwaukee-bucks-starting-lineup-to-start-2026-27-01m4ntpe57b2",
+     "source_date": "2026-10-11",
+     "last_season_role": "Starter 67 of 74, 32.1 mpg",
+     "last_season_gs_of_gp": "67 of 74",
+     "last_season_mpg": 32.1,
+     "role_up": false
+    },
+    {
+     "name": "Tyler Herro",
+     "status": "very_likely",
+     "evidence": "Started the opener and finale; missed Oct 14 only with illness (Jenkins: 'a little under the weather'). Writers note possible trade by the deadline.",
+     "source_url": "https://sports.yahoo.com/articles/milwaukee-bucks-chicago-bulls-preview-190005867.html",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter 28 of 33 with MIA, 31.3 mpg",
+     "last_season_gs_of_gp": "28 of 33",
+     "last_season_mpg": 31.2,
+     "role_up": false
+    },
+    {
+     "name": "Jaime Jaquez Jr.",
+     "status": "very_likely",
+     "evidence": "Starter at SF in the opener and finale box scores; Skolnick calls him the only real SF option.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401914126",
+     "source_date": "2026-10-16",
+     "last_season_role": "MIA sixth man: 1 GS in 75 GP, 28.3 mpg",
+     "last_season_gs_of_gp": "1 of 75",
+     "last_season_mpg": 28.3,
+     "role_up": true
+    },
+    {
+     "name": "Myles Turner",
+     "status": "very_likely",
+     "evidence": "Started preseason opener and finale at C; no rival (Jericho Sims is the backup).",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401914126",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter 71 of 71 with IND, 26.9 mpg",
+     "last_season_gs_of_gp": "71 of 71",
+     "last_season_mpg": 26.9,
+     "role_up": false
+    },
+    {
+     "name": "Kyle Kuzma",
+     "status": "disputed",
+     "evidence": "ESPN box score lists Kuzma starting the Oct 16 win over Indiana with Ware on the bench, and he started the opener; some writers (Brew Hoop/Skolnick) argue Ware should start.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401914126",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter-ish: 43 GS in 69 GP, 26.2 mpg",
+     "last_season_gs_of_gp": "43 of 69",
+     "last_season_mpg": 26.2,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "PF (Kuzma vs Kel'el Ware)",
+     "candidates": [
+      "Kyle Kuzma",
+      "Kel'el Ware"
+     ],
+     "latest_news": "Kuzma started the preseason opener and the Oct 16 finale (ESPN box score). Yahoo's Oct 14 preview projected Ware, but the real Oct 14 starters were reserves because regulars sat. Opinion writers (Oct 11) want Ware at PF with Turner and say Kuzma's expiring contract is worth more as a trade asset. No quote from coach Taylor Jenkins on this.",
+     "lean": "Kuzma on opening night; Ware (34 GS of 77, 22.1 mpg, would be role_up true) is the likely replacement or a quick mover, and Kuzma could be traded.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401914126",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Opener vs Bulls moved to Oct 23, 3 pm ET per search (differs from task date). Giannis is traded to Miami; Doc Rivers is no longer coach (Taylor Jenkins is). Nate Ament (rookie) out with ankle injury, aiming for opening night. Bench: Kevin Porter Jr. (36 GS of 38 last year with 33.2 mpg, now a sixth man), AJ Green (68 GS of 78), Gary Trent Jr., Ware, Kuzma-or-Ware, Jericho Sims (backup C), Ousmane Dieng, Caris LeVert, rookies Brayden Burries and Kasparas Jakucionis. Local Hashtag depth lists Ware at PF1, which conflicts with the finale box score; web wins. Rollins/Herro: a Herro trade would open a guard spot for Burries or Jakucionis."
+  },
+  {
+   "team": "MIN",
+   "starters": [
+    {
+     "name": "Anthony Edwards",
+     "status": "confirmed",
+     "evidence": "Starting SG in every preseason lineup; rested with the rest of the starters at Chicago on Oct 16.",
+     "source_url": "https://www.startribune.com/minnesota-timberwolves-chicago-bulls-score-today-anthony-edwards-lamelo-ball-stats-nba-preseason/601899597",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter 60 of 61, 35.0 mpg",
+     "last_season_gs_of_gp": "60 of 61",
+     "last_season_mpg": 35,
+     "role_up": false
+    },
+    {
+     "name": "LaMelo Ball",
+     "status": "very_likely",
+     "evidence": "Starting PG in the preseason and the Oct 14 Pistons game; projected by Yahoo and Bleacher Report.",
+     "source_url": "https://sports.yahoo.com/articles/projecting-timberwolves-starting-lineup-rotation-130005946.html",
+     "source_date": "2026-10-14",
+     "last_season_role": "Starter 69 of 72 with CHA, 28.0 mpg",
+     "last_season_gs_of_gp": "69 of 72",
+     "last_season_mpg": 28,
+     "role_up": false
+    },
+    {
+     "name": "Jaden McDaniels",
+     "status": "confirmed",
+     "evidence": "Starter in every preseason lineup reported, including Oct 14.",
+     "source_url": "https://www.canishoopus.com/timberwolves-game-previews/70680/minnesota-timberwolves-detroit-pistons-recap-jonathan-kuminga",
+     "source_date": "2026-10-15",
+     "last_season_role": "Starter 73 of 73, 31.7 mpg",
+     "last_season_gs_of_gp": "73 of 73",
+     "last_season_mpg": 31.7,
+     "role_up": false
+    },
+    {
+     "name": "Rudy Gobert",
+     "status": "confirmed",
+     "evidence": "Starting C in every reported lineup.",
+     "source_url": "https://www.canishoopus.com/timberwolves-game-previews/70680/minnesota-timberwolves-detroit-pistons-recap-jonathan-kuminga",
+     "source_date": "2026-10-15",
+     "last_season_role": "Starter 76 of 76, 31.3 mpg",
+     "last_season_gs_of_gp": "76 of 76",
+     "last_season_mpg": 31.3,
+     "role_up": false
+    },
+    {
+     "name": "Jonathan Kuminga",
+     "status": "very_likely",
+     "evidence": "Started the preseason opener at PF, returned to the starting five on Oct 14 after two games out with soreness (RotoWire/CBS); Ayo Dosunmu came off the bench.",
+     "source_url": "https://www.cbssports.com/fantasy/basketball/news/timberwolves-jonathan-kuminga-starting-wednesday/",
+     "source_date": "2026-10-14",
+     "last_season_role": "Part-time starter: GSW 13 GS in 20 GP, ATL 1 GS in 16 GP (about 14 of 36), 23.1 mpg",
+     "last_season_gs_of_gp": "about 14 of 36 (GSW 13/20 + ATL 1/16)",
+     "last_season_mpg": 23.1,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (Kuminga vs Ayo Dosunmu)",
+     "candidates": [
+      "Jonathan Kuminga",
+      "Ayo Dosunmu"
+     ],
+     "latest_news": "Kuminga started the opener and the Oct 14 Pistons game; Dosunmu came off the bench. Star Tribune and other commentary argue the best five may feature Dosunmu instead, but no coach statement says so. Starters rested vs Chicago Oct 16.",
+     "lean": "Kuminga; Dosunmu is the first guard/wing off the bench and a chemistry-based swap candidate.",
+     "source_url": "https://www.startribune.com/minnesota-timberwolves-knicks-score-anthony-edwards-mvp-2027-jaden-mcdaniels-stats-nba-preseason/601899506",
+     "source_date": "2026-10-14"
+    }
+   ],
+   "rotation_notes": "Opener at Miami Wednesday Oct 21 per search results (task says Oct 20). Bench: Dosunmu (28.9 mpg at MIN last year, 9 GS in 24 GP), Donte DiVincenzo (30.4 mpg, 82 GS last year, now bench), Naz Reid status in local DB not shown, Bones Hyland, Jaylen Clark, Cody Williams (24.3 mpg), Terrence Shannon Jr., Joan Beringer and Trey Lyles as backup bigs. SI flagged a depth issue after preseason. Local Hashtag depth has Kuminga at SF1 and LaMelo PG1 matching the web. Julius Randle is not on the local MIN roster list and ESPN MIN page shows last year's roster, so verify Randle/Reid status in the app before the draft."
+  },
+  {
+   "team": "NOP",
+   "starters": [
+    {
+     "name": "Zion Williamson",
+     "status": "very_likely",
+     "evidence": "Started the preseason opener and the finale; ESPN's 10-15 preseason roundup lists him with the first group.",
+     "source_url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "55/62",
+     "last_season_mpg": 29.7,
+     "role_up": false
+    },
+    {
+     "name": "Trey Murphy III",
+     "status": "very_likely",
+     "evidence": "Started the opener and the 10-16 finale (21 min); came off the bench only in the Mavericks experiment game.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401906509",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "66/66",
+     "last_season_mpg": 35.5,
+     "role_up": false
+    },
+    {
+     "name": "Herbert Jones",
+     "status": "very_likely",
+     "evidence": "Started the opener and the finale (22 min); no rival reported for the wing spot.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401906509",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "56/56",
+     "last_season_mpg": 28.4,
+     "role_up": false
+    },
+    {
+     "name": "Yves Missi",
+     "status": "very_likely",
+     "evidence": "Started the opener, the Heat game (per ESPN depth) and the 10-16 finale (19 min); ESPN depth chart lists him at C; Queen and Bey are bench rivals.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401906509",
+     "source_date": "2026-10-16",
+     "last_season_role": "bench or spot starter",
+     "last_season_gs_of_gp": "14/66",
+     "last_season_mpg": 19.6,
+     "role_up": true
+    },
+    {
+     "name": "Dejounte Murray",
+     "status": "disputed",
+     "evidence": "Started the opener but was DNP-coach's decision in the 10-16 finale while Fears started; Fears also started when Murray had a toe contusion on 10-8.",
+     "source_url": "https://www.espn.com/nba/boxscore/_/gameId/401906509",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter, only 14 games (returned late)",
+     "last_season_gs_of_gp": "14/14",
+     "last_season_mpg": 27.9,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "PG / fifth starter",
+     "candidates": [
+      "Dejounte Murray",
+      "Jeremiah Fears",
+      "Bennedict Mathurin"
+     ],
+     "latest_news": "Coach Mosley has changed the five every game. Fears started the 10-16 finale with Murray held out (coach's decision, no reason in box score). Mathurin was moved to the bench for the finale (RotoWire 10-16) after starting vs Miami. Mavericks game used Fears, Mathurin, Bey, Matkovic, Missi with Zion and Murphy on the bench.",
+     "lean": "Murray if healthy, but Fears is a real threat; about 55/45. Treat opening night as unknown.",
+     "source_date": "2026-10-16",
+     "source_url": "https://www.cbssports.com/fantasy/basketball/news/pelicans-bennedict-mathurin-not-starting-friday/"
+    },
+    {
+     "spot": "Center vs Queen / Bey",
+     "candidates": [
+      "Yves Missi",
+      "Derik Queen",
+      "Saddiq Bey"
+     ],
+     "latest_news": "Queen and Bey played 17 min each off the bench in the finale; ESPN (10-15) says both 2025 rookies Fears and Queen began the preseason off the bench. Bey started 64 games last season; Fadeaway World (8-27) projected him at PF over Missi.",
+     "lean": "Missi starts; Queen and Bey are 6th and 7th men.",
+     "source_date": "2026-10-15",
+     "source_url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams"
+    }
+   ],
+   "rotation_notes": "New coach Jamahl Mosley (replaced Willie Green). Fears (49 GS of 82, 25.8 mpg) and Queen (48 of 81, 25.0 mpg) lost starter roles in preseason; Fears is the first guard off the bench or a starter. Bey (64 GS, 31.2 mpg last season) is now a bench big/forward; his minutes fall. Mathurin (signed 2yr/$16M) is a 6th/7th man. Poole (8 GS of 39) bench. Local Hashtag depth (Murray PG1, Missi C1, Bey PF2) is consistent with this except it does not show the Fears push. Conflict: ESPN and CBS depth charts list Murray, Murphy, Jones, Zion, Missi, but the finale box score shows Fears over Murray."
+  },
+  {
+   "team": "NYK",
+   "starters": [
+    {
+     "name": "Jalen Brunson",
+     "status": "confirmed",
+     "evidence": "Started the 10-15 preseason finale at PG; 'usual starting five' except Hart per recap.",
+     "source_url": "https://sports.yahoo.com/articles/preseason-game-thread-knicks-vs-230000989.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "74/74",
+     "last_season_mpg": 35.1,
+     "role_up": false
+    },
+    {
+     "name": "Mikal Bridges",
+     "status": "confirmed",
+     "evidence": "Roundtable (10-3) lists the same starting five as last season; part of the usual five in the finale.",
+     "source_url": "https://roundtable.io/sports/nba/knicks/players/mike-brown-gives-insight-into-preseason-approach-for-knicks-starters",
+     "source_date": "2026-10-03",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "82/82",
+     "last_season_mpg": 32.9,
+     "role_up": false
+    },
+    {
+     "name": "OG Anunoby",
+     "status": "confirmed",
+     "evidence": "Same starting five as last season per Roundtable 10-3; no injury or rival reported.",
+     "source_url": "https://roundtable.io/sports/nba/knicks/players/mike-brown-gives-insight-into-preseason-approach-for-knicks-starters",
+     "source_date": "2026-10-03",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "67/67",
+     "last_season_mpg": 33.2,
+     "role_up": false
+    },
+    {
+     "name": "Karl-Anthony Towns",
+     "status": "confirmed",
+     "evidence": "Back from rest in the finale (13 pts, 15 reb, 9 ast in 29 min) with the first group; Robinson left, only Drummond behind him.",
+     "source_url": "https://sports.yahoo.com/articles/preseason-game-thread-knicks-vs-230000989.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "75/75",
+     "last_season_mpg": 30.9,
+     "role_up": false
+    },
+    {
+     "name": "Josh Hart",
+     "status": "very_likely",
+     "evidence": "Scratched from the 10-15 finale with a sore ankle (Diawara started); Mike Brown said it should not affect his status for the Tuesday opener vs PHI.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-15/brown-josh-hart-ankle-status-wont-be-impacted",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter (52 of 66)",
+     "last_season_gs_of_gp": "52/66",
+     "last_season_mpg": 30.2,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Hart's spot if the ankle keeps him out",
+     "candidates": [
+      "Josh Hart",
+      "Mohamed Diawara",
+      "Miles McBride"
+     ],
+     "latest_news": "Diawara started the finale in place of Hart; McBride was moved to the bench and Alvarado was not in the group. Brown expects Hart to play the opener.",
+     "lean": "Hart starts; if out, Diawara or McBride, unknown.",
+     "source_date": "2026-10-15",
+     "source_url": "https://sports.yahoo.com/articles/knicks-face-josh-hart-injury-025658528.html"
+    }
+   ],
+   "rotation_notes": "Mitchell Robinson left for Boston; Andre Drummond is the lone guaranteed backup center (19.6 mpg last year), so Drummond and possibly Wiseman fill 12-20 min. McBride (26.3 mpg, 15 GS of 41), Clarkson (17.8 mpg), Shamet (23 mpg), Alvarado, Kolek and Diawara (9.2 mpg) share bench guard and wing minutes. Hart and Towns contract talks are reportedly paused (ESPN 10-15). Starters were rested heavily in preseason (team went 1-4). No starter is role_up."
+  },
+  {
+   "team": "OKC",
+   "starters": [
+    {
+     "name": "Shai Gilgeous-Alexander",
+     "status": "very_likely",
+     "evidence": "Probable starter in the 10-15 preseason finale preview; no injury reported; Daigneault gave no formal lineup.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-battle-thunder-final-preseason-223000284.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "68/68",
+     "last_season_mpg": 33.3,
+     "role_up": false
+    },
+    {
+     "name": "Jalen Williams",
+     "status": "very_likely",
+     "evidence": "Projected starter on 10-1 (SI) and 10-15 (Yahoo preview); played the Bucks game with the starters.",
+     "source_url": "https://www.si.com/nba/thunder/onsi/projected-okc-thunder-starting-lineup-and-rotation-for-2026-27-what-we-learned-this-week",
+     "source_date": "2026-10-01",
+     "last_season_role": "starter (33 games only)",
+     "last_season_gs_of_gp": "33/33",
+     "last_season_mpg": 28.4,
+     "role_up": false
+    },
+    {
+     "name": "Chet Holmgren",
+     "status": "very_likely",
+     "evidence": "Projected starter at PF/C; listed as game-time/day-to-day in the Yahoo 10-15 preview, so check his health before the 10-20 opener.",
+     "source_url": "https://sports.yahoo.com/articles/rockets-battle-thunder-final-preseason-223000284.html",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "69/69",
+     "last_season_mpg": 28.9,
+     "role_up": false
+    },
+    {
+     "name": "Isaiah Hartenstein",
+     "status": "very_likely",
+     "evidence": "ESPN (10-15) calls him the starting center; Yahoo 10-15 preview lists him as a probable starter.",
+     "source_url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "46/47",
+     "last_season_mpg": 24.3,
+     "role_up": false
+    },
+    {
+     "name": "Cason Wallace",
+     "status": "very_likely",
+     "evidence": "Replaces traded Lu Dort; Daigneault: 'he's started Finals games for us, somebody I trust as much as anybody'; Presti also backed him.",
+     "source_url": "https://www.si.com/nba/thunder/onsi/projected-okc-thunder-starting-lineup-and-rotation-for-2026-27-what-we-learned-this-week",
+     "source_date": "2026-10-01",
+     "last_season_role": "starter (58 of 77)",
+     "last_season_gs_of_gp": "58/77",
+     "last_season_mpg": 26.6,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (Dort's old spot)",
+     "candidates": [
+      "Cason Wallace",
+      "Ajay Mitchell",
+      "Jared McCain",
+      "Alex Caruso"
+     ],
+     "latest_news": "Daigneault has not named a starting five; SI projected Wallace with Caruso also used in the Bucks game. Mitchell and McCain started the preseason opener when the main group sat. Daigneault rotates many players in preseason.",
+     "lean": "Wallace at about 70 percent.",
+     "source_date": "2026-10-07",
+     "source_url": "https://www.si.com/nba/thunder/onsi/okc-thunder-announce-starting-lineup-vs-pelicans-in-preseason-opener-01m49q1r1tyq"
+    },
+    {
+     "spot": "Center (Hartenstein vs Mara / Jaylin Williams)",
+     "candidates": [
+      "Isaiah Hartenstein",
+      "Aday Mara",
+      "Jaylin Williams"
+     ],
+     "latest_news": "Hartenstein misses about 37 percent of games over two seasons (ESPN 10-15), so Mara gets fill-in starts; Mara is a rookie.",
+     "lean": "Hartenstein starts when healthy.",
+     "source_date": "2026-10-15",
+     "source_url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams"
+    }
+   ],
+   "rotation_notes": "Dort, Isaiah Joe and Aaron Wiggins no longer appear in the ESPN-style depth (Dort traded; others not in the local depth). Bench: Mitchell (25.8 mpg last year, 16 GS), McCain, Caruso (18.2 mpg), Jaylin Williams (19.7), Kenrich Williams, Mara (rookie No. 12 pick), Stirtz (rookie), Topic, Sorber. Jaylin Williams, Holmgren, Mitchell, Sorber, Topic were listed day-to-day on 10-15. Starters sat most of preseason. No starter is role_up; Wallace played 26.6 mpg and started 58 games."
+  },
+  {
+   "team": "ORL",
+   "starters": [
+    {
+     "name": "Paolo Banchero",
+     "status": "confirmed",
+     "evidence": "Started the 10-16 preseason finale in both halves under Sean Sweeney.",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "72/72",
+     "last_season_mpg": 34.7,
+     "role_up": false
+    },
+    {
+     "name": "Franz Wagner",
+     "status": "confirmed",
+     "evidence": "Started the finale and the 10-11 Cleveland game; no rival.",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "32/34",
+     "last_season_mpg": 30,
+     "role_up": false
+    },
+    {
+     "name": "Desmond Bane",
+     "status": "very_likely",
+     "evidence": "Started the 10-16 finale; rested (da Silva started) on 10-11 at Cleveland.",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "82/82",
+     "last_season_mpg": 33.6,
+     "role_up": false
+    },
+    {
+     "name": "Wendell Carter Jr.",
+     "status": "confirmed",
+     "evidence": "Started the finale and Cleveland game; Vucevic is the backup (entered after Carter's early fouls).",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "78/78",
+     "last_season_mpg": 29.4,
+     "role_up": false
+    },
+    {
+     "name": "Jalen Suggs",
+     "status": "very_likely",
+     "evidence": "Started the 10-16 finale; was out with illness at Cleveland 10-11, when Jase Richardson started.",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "56/57",
+     "last_season_mpg": 27.5,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "PG (Suggs vs Black)",
+     "candidates": [
+      "Jalen Suggs",
+      "Anthony Black",
+      "Jase Richardson"
+     ],
+     "latest_news": "Sweeney's finale dress rehearsal used Suggs; Black started 40 of 64 games last season (29.8 mpg) and covers if Suggs is hurt. One preview calls Black vs Suggs the biggest positional battle; I found no coach quote.",
+     "lean": "Suggs starts; Black is the sixth man and a fantasy hold.",
+     "source_date": "2026-10-16",
+     "source_url": "https://flteams.com/2026/10/16/orlando-closes-preseason-with-136-115-win-over-miami/"
+    }
+   ],
+   "rotation_notes": "New coach Sean Sweeney (Mosley fired 5-4). Tristan da Silva (34 GS of 77, 24.7 mpg) is the main wing option off the bench and is taking about 10.7 threes per game in preseason (ESPN 10-15). Bench: Black, Vucevic (28.4 mpg last season, now backup C), Bitadze, Jevon Carter, Noah Penda (rookie-year wing), Jase Richardson (10.9 mpg, second year), Isaac (10 mpg). No starter is role_up. Local Hashtag depth matches this."
+  },
+  {
+   "team": "PHI",
+   "starters": [
+    {
+     "name": "Tyrese Maxey",
+     "status": "very_likely",
+     "evidence": "Started the 10-16 finale (22 pts); Yahoo/Sixers Wire 10-1 projects him in the five; Nurse has not named starters.",
+     "source_url": "https://sports.yahoo.com/articles/nick-nurse-gives-insight-rotation-162730172.html",
+     "source_date": "2026-10-01",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "70/70",
+     "last_season_mpg": 38,
+     "role_up": false
+    },
+    {
+     "name": "Joel Embiid",
+     "status": "very_likely",
+     "evidence": "Started the finale and played 29 min (27 pts); health and back-to-back rest are the risk (38 games last season).",
+     "source_url": "https://allphly.com/76ers/sixers-stars-find-their-footing-in-preseason-finale-vs-celtics/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter, 38 games",
+     "last_season_gs_of_gp": "38/38",
+     "last_season_mpg": 31.5,
+     "role_up": false
+    },
+    {
+     "name": "Jaylen Brown",
+     "status": "very_likely",
+     "evidence": "Started the finale (20 pts, 8 reb); Brown was in the Sixers lineup in the early preseason games too.",
+     "source_url": "https://allphly.com/76ers/sixers-stars-find-their-footing-in-preseason-finale-vs-celtics/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "unverified (Boston stats not pulled)",
+     "last_season_mpg": 34.4,
+     "role_up": false
+    },
+    {
+     "name": "LeBron James",
+     "status": "very_likely",
+     "evidence": "Started the finale (8 pts, 8 reb, 7 ast); ESPN 10-15 says he played only 18 min in three games and expects a slow start with back-to-back management.",
+     "source_url": "https://www.espn.com/nba/story/_/id/50176718/nba-preseason-lakers-76ers-celtics-30-teams",
+     "source_date": "2026-10-15",
+     "last_season_role": "starter (Lakers)",
+     "last_season_gs_of_gp": "unverified (Lakers stats not pulled)",
+     "last_season_mpg": 33.1,
+     "role_up": false
+    },
+    {
+     "name": "VJ Edgecombe",
+     "status": "very_likely",
+     "evidence": "Projected starter; rested (not injured) in the finale per Nurse, with Caldwell-Pope starting in his place for that one game.",
+     "source_url": "https://allphly.com/76ers/sixers-stars-find-their-footing-in-preseason-finale-vs-celtics/",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter (rookie)",
+     "last_season_gs_of_gp": "75/75",
+     "last_season_mpg": 35,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter if Edgecombe rests",
+     "candidates": [
+      "VJ Edgecombe",
+      "Kentavious Caldwell-Pope",
+      "Anfernee Simons"
+     ],
+     "latest_news": "KCP started the finale in Edgecombe's place; Simons and Bona were out injured on 10-16. ESPN says Nurse used 10 different starters in three exhibitions, so lineup churn is mostly rest.",
+     "lean": "Edgecombe starts on opening night.",
+     "source_date": "2026-10-16",
+     "source_url": "https://allphly.com/76ers/sixers-stars-find-their-footing-in-preseason-finale-vs-celtics/"
+    }
+   ],
+   "rotation_notes": "Opens against the Knicks on Tuesday. Roster is a new top five (Brown and James arrived; Paul George and Oubre not in the local data). Barlow (59 GS of 71, 23.8 mpg) drops to the bench; Bona (17.4 mpg) and Hukporti back up Embiid; Simons and Bona hurt on 10-16. Dean Wade, Caldwell-Pope, Caleb Love, Justin Edwards, Rupert and Walker are bench wings. LeBron and Embiid get rest on back-to-backs. No starter is role_up."
+  },
+  {
+   "team": "PHX",
+   "starters": [
+    {
+     "name": "Devin Booker",
+     "status": "confirmed",
+     "evidence": "Started the preseason finale with Green; ESPN 10-15 calls Booker and Green the backcourt.",
+     "source_url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-starters-preseason-finale-utah-jazz",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "64/64",
+     "last_season_mpg": 33.6,
+     "role_up": false
+    },
+    {
+     "name": "Jalen Green",
+     "status": "confirmed",
+     "evidence": "Started the finale and the earlier Detroit, Chicago games; Phoenix calls him the point guard.",
+     "source_url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-starters-preseason-finale-utah-jazz",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "27/32",
+     "last_season_mpg": 25.9,
+     "role_up": false
+    },
+    {
+     "name": "Dillon Brooks",
+     "status": "confirmed",
+     "evidence": "Started every reported preseason game including the finale.",
+     "source_url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-starters-preseason-finale-utah-jazz",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter",
+     "last_season_gs_of_gp": "56/56",
+     "last_season_mpg": 30.4,
+     "role_up": false
+    },
+    {
+     "name": "Miles Bridges",
+     "status": "confirmed",
+     "evidence": "Started every reported preseason game including the finale.",
+     "source_url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-starters-preseason-finale-utah-jazz",
+     "source_date": "2026-10-16",
+     "last_season_role": "starter (GS unverified; new to Phoenix)",
+     "last_season_gs_of_gp": "unverified",
+     "last_season_mpg": 31,
+     "role_up": false
+    },
+    {
+     "name": "Oso Ighodaro",
+     "status": "disputed",
+     "evidence": "Started Detroit, Chicago and San Antonio games; sat the 10-15 Spurs game and the finale (hip soreness), where Maluach started; Ott will decide a couple of days before the opener and said he mixes both centers.",
+     "source_url": "https://valleyofthesuns.com/oso-ighodaro-beginning-season-starter-suns-smart-decision",
+     "source_date": "2026-10-15",
+     "last_season_role": "bench/spot starter",
+     "last_season_gs_of_gp": "24/82",
+     "last_season_mpg": 22.1,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Starting center",
+     "candidates": [
+      "Oso Ighodaro",
+      "Khaman Maluach"
+     ],
+     "latest_news": "Mark Williams is out (torn labrum, shoulder surgery, months). Maluach started the 10-16 finale while Ighodaro was out with hip soreness; Valley of the Suns (10-15) infers Ighodaro won the job but Ott has not announced it and said both will be ready for the Oct 21 opener at Portland. Local expert video (10-14) names Ighodaro.",
+     "lean": "Ighodaro about 60 percent, Maluach 40; expect a minutes split either way.",
+     "source_date": "2026-10-16",
+     "source_url": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-edge-starting-center-battle"
+    }
+   ],
+   "rotation_notes": "Phoenix opens Oct 21 at Portland (one day after the NBA's main opening night). Luke Kennard had a knee tendon strain on 10-14 but Ott expects him ready. Bench: Gillespie (58 GS of 80, 28.5 mpg last year, now sixth man), Kennard, Goodwin, Dunn (16 GS of 70), Fleming, Spencer. Maluach (1 GS, 8.9 mpg last year) is a second-year player, not a rookie, so he would be role_up if he starts. The ESPN 10-15 text still calls Williams the starter 'once he returns', which is long term. Hashtag depth lists Williams at C1 and is stale on this."
+  },
+  {
+   "team": "POR",
+   "starters": [
+    {
+     "name": "Deni Avdija",
+     "status": "very_likely",
+     "evidence": "Started preseason opener with Morant, Lillard, Clingan, Camara; no rival at forward.",
+     "source_url": "https://sports.yahoo.com/articles/trail-blazers-preseason-opener-offers-172141750.html",
+     "source_date": "2026-10-08",
+     "last_season_role": "Starter, 66/66 GS, 33.3 mpg",
+     "last_season_gs_of_gp": "66/66",
+     "last_season_mpg": 33.3,
+     "role_up": false
+    },
+    {
+     "name": "Toumani Camara",
+     "status": "very_likely",
+     "evidence": "Started preseason opener; CBS and projections list him as presumed starter.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 82/82 GS",
+     "last_season_gs_of_gp": "82/82",
+     "last_season_mpg": 33.3,
+     "role_up": false
+    },
+    {
+     "name": "Donovan Clingan",
+     "status": "very_likely",
+     "evidence": "Only starting center in every reported lineup (Robert Williams III is the backup).",
+     "source_url": "https://sports.yahoo.com/articles/trail-blazers-preseason-opener-offers-172141750.html",
+     "source_date": "2026-10-08",
+     "last_season_role": "Starter, 77/77 GS",
+     "last_season_gs_of_gp": "77/77",
+     "last_season_mpg": 27.2,
+     "role_up": false
+    },
+    {
+     "name": "Damian Lillard",
+     "status": "very_likely",
+     "evidence": "Started preseason opener (15 pts); CBS calls Lillard and Avdija presumed starters.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16",
+     "last_season_role": "No 2025-26 regular season games in our DB (returning from Achilles); not a bench role",
+     "last_season_gs_of_gp": "0/0 (DB: no games)",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Ja Morant",
+     "status": "disputed",
+     "evidence": "Started preseason opener and replaced Scoot Henderson in the first unit for the Oct 16 finale, but coach Micah Nori said starting Morant with Lillard 'doesn't make sense' and Holiday is the analytic option.",
+     "source_url": "https://rotowire.com/basketball/headlines/scoot-henderson-news-headed-to-bench-534876",
+     "source_date": "2026-10-16",
+     "last_season_role": "Started for MEM (20 GP, 28.4 mpg in our DB; GS not verified)",
+     "last_season_gs_of_gp": "not verified / 20 GP",
+     "last_season_mpg": 28.4,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Second guard next to Lillard (Morant vs Holiday vs Henderson)",
+     "candidates": [
+      "Ja Morant",
+      "Jrue Holiday",
+      "Scoot Henderson"
+     ],
+     "latest_news": "Nori on Oct 2 said the Morant-Lillard start is 'not set in stone, but probably'; he also said the more analytical option is Holiday. Morant started the opener and the finale; Henderson started other preseason games and moved to bench Oct 16. Holiday was out of the finale with right hand soreness. Sharpe is out about 6 months (meniscus), so he is not a candidate. No official opening-night (Oct 21 vs PHX) lineup found.",
+     "lean": "Morant starts, about 65%. Holiday is the flip option if Nori goes defense first or Morant struggles.",
+     "source_url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/02/blazers-head-coach-micah-nori-believes-starting-ja-morant-damian-lillard-together-doesnt-make-sense/92059507007/",
+     "source_date": "2026-10-02"
+    }
+   ],
+   "rotation_notes": "Rookie head coach Micah Nori (hired 2026-06-23). Four-guard crowd: Holiday (51/53 GS last year, 29.4 mpg) and Henderson (10/30 GS, 24.9 mpg) are the main reserves; Henderson averaged 10.5 pts as a preseason reserve (Rotowire Oct 16). Sharpe out ~6 months (Charania via SI). Backups: Robert Williams III (1/59 GS, 17.1 mpg), Sidy Cissoko (26/75), Vit Krejci, Yang Hansen. Local Hashtag depth is stale vs this news (it lists Sharpe and Holiday as starters). Lillard returning from Achilles, so minutes may be managed. Blocked: blazersedge.com (403)."
+  },
+  {
+   "team": "SAC",
+   "starters": [
+    {
+     "name": "Darius Acuff Jr.",
+     "status": "very_likely",
+     "evidence": "Marc Spears (Andscape) reported Simmons stays in the lineup alongside rookie guard Acuff for the Oct 21 opener; SI projects him as the starter.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-12/spears-ben-simmons-expected-to-be-a-starter",
+     "source_date": "2026-10-12",
+     "last_season_role": "Rookie (college 2025-26)",
+     "last_season_gs_of_gp": "n/a",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Zach LaVine",
+     "status": "very_likely",
+     "evidence": "In every projected opening-night five (SI, Oct 17); Monk is out with an ankle problem.",
+     "source_url": "https://www.si.com/nba/kings/onsi/kings-opening-night-starting-lineup-and-rotation-prediction-after-preseason",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter, 37/39 GS, 31.4 mpg",
+     "last_season_gs_of_gp": "37/39",
+     "last_season_mpg": 31.4,
+     "role_up": false
+    },
+    {
+     "name": "Keegan Murray",
+     "status": "very_likely",
+     "evidence": "Started preseason with Simmons; in all projections.",
+     "source_url": "https://www.si.com/nba/kings/onsi/kings-opening-night-starting-lineup-and-rotation-prediction-after-preseason",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter, 22/23 GS, 34.5 mpg (injury-shortened)",
+     "last_season_gs_of_gp": "22/23",
+     "last_season_mpg": 34.5,
+     "role_up": false
+    },
+    {
+     "name": "Ben Simmons",
+     "status": "very_likely",
+     "evidence": "Spears: 'expected to remain in the starting lineup' next to Acuff; started the preseason opener at PF; Doug Christie praised his defense. Official announcement not found.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-12/spears-ben-simmons-expected-to-be-a-starter",
+     "source_date": "2026-10-12",
+     "last_season_role": "Did not play in 2025-26 (2024-25: 24 starts in 51 GP, 22 mpg)",
+     "last_season_gs_of_gp": "0/0",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Domantas Sabonis",
+     "status": "very_likely",
+     "evidence": "Only healthy center: Raynaud (patellar subluxation, out 5-6+ games) and Cardwell (calf) are out. Sabonis himself was a game-time decision with an undisclosed issue and played about 10 preseason minutes.",
+     "source_url": "https://lindyssports.com/nba/kings-center-maxime-raynaud-avoids-worst-case-injury-will-miss-season-opener",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 15/19 GS, 29.7 mpg (injury-shortened)",
+     "last_season_gs_of_gp": "15/19",
+     "last_season_mpg": 29.7,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Power forward (Simmons vs De'Andre Hunter vs Precious Achiuwa)",
+     "candidates": [
+      "Ben Simmons",
+      "De'Andre Hunter",
+      "Precious Achiuwa"
+     ],
+     "latest_news": "Hunter was the expected starter all offseason but is projected to move to the bench after a poor preseason; Simmons is the Spears-reported starter. Earlier (about Oct 1-3) projections had Hunter starting. Achiuwa started 57/73 last year and is a fallback.",
+     "lean": "Simmons, about 75%. Hunter flips if Simmons' conditioning or health fails.",
+     "source_url": "https://sports.yahoo.com/articles/kings-expected-big-change-starting-205721616.html",
+     "source_date": "2026-10-12"
+    },
+    {
+     "spot": "Guard next to Acuff (LaVine vs Monk vs Clifford)",
+     "candidates": [
+      "Zach LaVine",
+      "Malik Monk",
+      "Nique Clifford"
+     ],
+     "latest_news": "Monk missed preseason with left ankle soreness and was out of the Oct 16 finale. ESPN depth chart still lists Simmons at PG, which conflicts with other sources.",
+     "lean": "LaVine and Acuff start; Monk is a bench scorer (3/62 GS last year).",
+     "source_url": "https://www.si.com/nba/kings/onsi/kings-opening-night-starting-lineup-and-rotation-prediction-after-preseason",
+     "source_date": "2026-10-17"
+    }
+   ],
+   "rotation_notes": "Sacramento went 0-5 in preseason. Bench per SI: Monk (when healthy), Nique Clifford (28/75 GS, 25.1 mpg), Alex Karaban, Hunter, Achiuwa; Emanuel Sharp plays if Monk is out. Center depth is a real problem: Raynaud and Cardwell both out, so Sabonis plus Achiuwa small-ball is likely. Our local Hashtag depth (Hunter starting SF) is older than the Simmons news. No direct Christie quote on starters found; his only quotes were on Simmons."
+  },
+  {
+   "team": "SAS",
+   "starters": [
+    {
+     "name": "De'Aaron Fox",
+     "status": "confirmed",
+     "evidence": "Coach Mitch Johnson confirmed the Fox, Castle, Harper, Vassell, Wembanyama group for the Oct 20 opener ('We're planning on starting that same crew'); Fox had undisclosed soreness and missed one preseason game.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/spurs-to-start-fox-castle-harper-vassell-wembanyama",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 72/72 GS",
+     "last_season_gs_of_gp": "72/72",
+     "last_season_mpg": 31,
+     "role_up": false
+    },
+    {
+     "name": "Stephon Castle",
+     "status": "confirmed",
+     "evidence": "Same Johnson confirmation for the opener.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/spurs-to-start-fox-castle-harper-vassell-wembanyama",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 67/68 GS",
+     "last_season_gs_of_gp": "67/68",
+     "last_season_mpg": 30,
+     "role_up": false
+    },
+    {
+     "name": "Dylan Harper",
+     "status": "confirmed",
+     "evidence": "Johnson named Harper the third starting guard for the opener, replacing Julian Champagnie; this is the only change from the old five.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/spurs-to-start-fox-castle-harper-vassell-wembanyama",
+     "source_date": "2026-10-16",
+     "last_season_role": "Rookie-year bench guard, 4/69 GS, 22.6 mpg",
+     "last_season_gs_of_gp": "4/69",
+     "last_season_mpg": 22.6,
+     "role_up": true
+    },
+    {
+     "name": "Devin Vassell",
+     "status": "confirmed",
+     "evidence": "Named in the Johnson-confirmed opener group.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/spurs-to-start-fox-castle-harper-vassell-wembanyama",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 65/67 GS",
+     "last_season_gs_of_gp": "65/67",
+     "last_season_mpg": 30.5,
+     "role_up": false
+    },
+    {
+     "name": "Victor Wembanyama",
+     "status": "confirmed",
+     "evidence": "Named in the Johnson-confirmed opener group.",
+     "source_url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-16/spurs-to-start-fox-castle-harper-vassell-wembanyama",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 55/64 GS",
+     "last_season_gs_of_gp": "55/64",
+     "last_season_mpg": 29.2,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Longevity of the three-guard group after the opener",
+     "candidates": [
+      "Dylan Harper",
+      "Julian Champagnie",
+      "Tobias Harris"
+     ],
+     "latest_news": "CBS (Oct 16) expects Harper to return to the bench over the season; Johnson said the group is 'not the official new lineup' on Oct 9, then confirmed it for the opener on Oct 16. Harris (new signing, left calf strain) was questionable for the opener as of Oct 5.",
+     "lean": "Harper starts the opener, about 90%. Later in the season is open.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Champagnie (68/82 GS last year, 27.6 mpg) moves to bench, a role-down. Keldon Johnson (0/82 GS, 23.3 mpg) is the sixth man. Tobias Harris and Harrison Barnes (52/77 GS) compete for forward minutes; Luke Kornet (25/68 GS) backs up Wembanyama; Carter Bryant (11.5 mpg) is deep bench. Conflict: nbcsports (via Jeff McDonald) says Harris comes off the bench; the Oct 5 injury reports say he was questionable with the calf. Local Hashtag depth lists Harris as PF1 and is older than the news."
+  },
+  {
+   "team": "TOR",
+   "starters": [
+    {
+     "name": "Immanuel Quickley",
+     "status": "very_likely",
+     "evidence": "CBS Sports (Oct 16) expects the Quickley, Barrett, Leonard, Barnes, Poeltl group; Rotowire (Oct 17) lists him expected to play Wednesday after rest.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 70/70 GS",
+     "last_season_gs_of_gp": "70/70",
+     "last_season_mpg": 31.9,
+     "role_up": false
+    },
+    {
+     "name": "RJ Barrett",
+     "status": "very_likely",
+     "evidence": "Same CBS projection; rested in finale only.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 57/57 GS",
+     "last_season_gs_of_gp": "57/57",
+     "last_season_mpg": 30.3,
+     "role_up": false
+    },
+    {
+     "name": "Kawhi Leonard",
+     "status": "very_likely",
+     "evidence": "Rotowire (Oct 17): resting, expected to play the Oct 21 opener vs CHI; sat out the preseason opener (Poeltl started instead), looked rusty vs NYK on Oct 15.",
+     "source_url": "https://www.rotowire.com/basketball/team/toronto-raptors-tor",
+     "source_date": "2026-10-17",
+     "last_season_role": "Starter for LAC, 65/65 GS",
+     "last_season_gs_of_gp": "65/65",
+     "last_season_mpg": 32.1,
+     "role_up": false
+    },
+    {
+     "name": "Scottie Barnes",
+     "status": "very_likely",
+     "evidence": "In every projection; healthy for the Knicks preseason game.",
+     "source_url": "https://raptorsrapture.com/raptors-first-glimpse-of-key-regular-season-rotation-revealed-clear-growing-pains",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 80/80 GS",
+     "last_season_gs_of_gp": "80/80",
+     "last_season_mpg": 33.5,
+     "role_up": false
+    },
+    {
+     "name": "Jakob Poeltl",
+     "status": "very_likely",
+     "evidence": "CBS: Poeltl started over Murray-Boyles last year and is expected to again; Rotowire Oct 17 says he is expected to suit up.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 44/46 GS",
+     "last_season_gs_of_gp": "44/46",
+     "last_season_mpg": 25,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Center and wing long term (Poeltl vs Collin Murray-Boyles; Ja'Kobe Walter)",
+     "candidates": [
+      "Jakob Poeltl",
+      "Collin Murray-Boyles",
+      "Ja'Kobe Walter"
+     ],
+     "latest_news": "CBS says Murray-Boyles (22/57 GS) and Walter (19/72 GS) will likely close games before starting, 'a matter of if more than when'. No coach quote found. Preseason finale used a bench-only group (Graves, Martin, Jackson-Davis, Bradley, Burnett) with all regulars resting, so it is not a signal.",
+     "lean": "Opening-night five is stable at about 85%. Leonard's health is the only real swing.",
+     "source_url": "https://www.cbssports.com/nba/news/nba-biggest-starting-lineup-questions-spurs-lakers-raptors-blazers-pelicans/",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Likely 10-man rotation (Raptors Rapture, Oct 16): starters plus Murray-Boyles, Walter, Jamal Shead (12/82 GS, 22.6 mpg), Kyle Anderson, Jamison Battle. Thin at center: nobody taller than 6-9 besides Poeltl. Note: Brandon Ingram started 77/77 last year; he is not on this roster per current reports and Leonard replaces him (older SI articles still show Ingram, ignore). The Oct 20, 2025 SI article is last season. Leonard is 35 and is expected to be managed."
+  },
+  {
+   "team": "UTA",
+   "starters": [
+    {
+     "name": "Keyonte George",
+     "status": "very_likely",
+     "evidence": "Started preseason games; every report lists him as a lock.",
+     "source_url": "https://sports.yahoo.com/articles/learned-jazzs-final-preseason-game-140445220.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 54/54 GS",
+     "last_season_gs_of_gp": "54/54",
+     "last_season_mpg": 33.1,
+     "role_up": false
+    },
+    {
+     "name": "Darryn Peterson",
+     "status": "very_likely",
+     "evidence": "Rookie started preseason games with George, Markkanen, Jackson; Bailey came off the bench. Will Hardy never started a rookie on opening night in four seasons and said the opener group may not last.",
+     "source_url": "https://sports.yahoo.com/articles/utah-jazz-preseason-starting-lineup-152312301.html",
+     "source_date": "2026-10-05",
+     "last_season_role": "Rookie (no 2025-26 NBA games)",
+     "last_season_gs_of_gp": "n/a",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Lauri Markkanen",
+     "status": "very_likely",
+     "evidence": "Lock in all reports; started the Oct 16 finale.",
+     "source_url": "https://sports.yahoo.com/articles/learned-jazzs-final-preseason-game-140445220.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 42/42 GS",
+     "last_season_gs_of_gp": "42/42",
+     "last_season_mpg": 34.4,
+     "role_up": false
+    },
+    {
+     "name": "Jaren Jackson Jr.",
+     "status": "very_likely",
+     "evidence": "Started the Oct 16 finale and all preseason games reported; moved from MEM, now the power forward/big.",
+     "source_url": "https://sports.yahoo.com/articles/learned-jazzs-final-preseason-game-140445220.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter for MEM (45 GP, 30.7 mpg) and UTA 3/3 GS; MEM GS not verified",
+     "last_season_gs_of_gp": "UTA 3/3; MEM not verified",
+     "last_season_mpg": 30.7,
+     "role_up": false
+    },
+    {
+     "name": "Jaxson Hayes",
+     "status": "disputed",
+     "evidence": "Fifth starter for three straight preseason games since Jusuf Nurkic's toe injury (Oct 4); Yahoo says 'expect Hayes to take Utah's opening tip', but a smaller lineup with Jackson at center and Ace Bailey was also floated.",
+     "source_url": "https://sports.yahoo.com/articles/learned-jazzs-final-preseason-game-140445220.html",
+     "source_date": "2026-10-16",
+     "last_season_role": "Backup center for LAL, 9/66 GS, 18.3 mpg",
+     "last_season_gs_of_gp": "9/66",
+     "last_season_mpg": 18.3,
+     "role_up": true
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter (Hayes vs Ace Bailey vs Nurkic when back)",
+     "candidates": [
+      "Jaxson Hayes",
+      "Ace Bailey",
+      "Jusuf Nurkic"
+     ],
+     "latest_news": "Nurkic (partial torn plantar plate, right second toe) is out since Oct 4, reevaluation in 2-3 weeks (one report says out for the regular season, sources conflict). Hayes started the last three preseason games. Bailey came off the bench in the finale. Hardy gave no direct quote on the opener lineup.",
+     "lean": "Hayes at center for the opener, about 70%; Bailey if Hardy goes small.",
+     "source_url": "https://sports.yahoo.com/articles/hayes-bailey-jazz-run-final-005457287.html",
+     "source_date": "2026-10-16"
+    }
+   ],
+   "rotation_notes": "Bench: Ace Bailey (61/72 GS last year, 27.6 mpg, a role-down), Brice Sensabaugh (22/75), Isaiah Collier (19/59 GS, 25.7 mpg), Kyle Filipowski (41/77 GS; first preseason game back from offseason surgery on Oct 16), Svi Mykhailiuk. Walker Kessler was sign-and-traded to the Lakers on July 1. Hashtag depth lists Nurkic as C1 and is stale. Rookie Peterson is role_up=false by rule. Blocked: ESPN depth pages and slcdunk (403 on one fetch)."
+  },
+  {
+   "team": "WAS",
+   "starters": [
+    {
+     "name": "Trae Young",
+     "status": "very_likely",
+     "evidence": "Started every preseason game per Wiz of Awes (Oct 13) with Dybantsa and George.",
+     "source_url": "https://wizofawes.com/brian-keefe-s-starting-five-uncertainty-speaks-to-how-well-the-wizards-roster-is-built",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter (5 GP WAS, 10 GP ATL, 20.6 and 27.9 mpg; injury-shortened)",
+     "last_season_gs_of_gp": "5/5 WAS; ATL not verified",
+     "last_season_mpg": 20.8,
+     "role_up": false
+    },
+    {
+     "name": "AJ Dybantsa",
+     "status": "disputed",
+     "evidence": "Started every preseason game, but sprained his left ankle on Oct 16 (12 pts in 15 min); Keefe called it a 'mild' ankle sprain taken out 'as a precaution' and said 'We'll look at it more when we get more information'. Opener Oct 21 vs MIL is not confirmed.",
+     "source_url": "https://basketnews.com/news-257524-aj-dybantsa-injury-update-wizards-coach-gives-new-details.html",
+     "source_date": "2026-10-17",
+     "last_season_role": "Rookie (no 2025-26 NBA games)",
+     "last_season_gs_of_gp": "n/a",
+     "last_season_mpg": null,
+     "role_up": false
+    },
+    {
+     "name": "Kyshawn George",
+     "status": "disputed",
+     "evidence": "Started every preseason game (Wiz of Awes), but Keefe said 'those decisions haven't been made yet' and Tre Johnson, Coulibaly and Middleton are in the mix.",
+     "source_url": "https://wizofawes.com/brian-keefe-s-starting-five-uncertainty-speaks-to-how-well-the-wizards-roster-is-built",
+     "source_date": "2026-10-13",
+     "last_season_role": "Starter, 48/48 GS",
+     "last_season_gs_of_gp": "48/48",
+     "last_season_mpg": 29,
+     "role_up": false
+    },
+    {
+     "name": "Anthony Davis",
+     "status": "very_likely",
+     "evidence": "Expected PF starter, but on a minutes restriction and rested in some preseason games, which opened the fifth spot to Ayton.",
+     "source_url": "https://www.tribune242.com/news/2026/oct/16/wizards-ayton-adjusting-to-new-role/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter for DAL (20 GP, 31.3 mpg); GS not verified",
+     "last_season_gs_of_gp": "not verified / 20 GP",
+     "last_season_mpg": 31.3,
+     "role_up": false
+    },
+    {
+     "name": "Alex Sarr",
+     "status": "very_likely",
+     "evidence": "Expected day-one center; returning from a June right foot fracture procedure and likely on a heavy minutes limit; Ayton started when Sarr was out.",
+     "source_url": "https://www.tribune242.com/news/2026/oct/16/wizards-ayton-adjusting-to-new-role/",
+     "source_date": "2026-10-16",
+     "last_season_role": "Starter, 48/48 GS",
+     "last_season_gs_of_gp": "48/48",
+     "last_season_mpg": 27.2,
+     "role_up": false
+    }
+   ],
+   "disputed_spots": [
+    {
+     "spot": "Fifth starter and big man slot (Davis vs Sarr vs Deandre Ayton)",
+     "candidates": [
+      "Anthony Davis",
+      "Alex Sarr",
+      "Deandre Ayton"
+     ],
+     "latest_news": "Wiz of Awes: Young, Dybantsa, George started every preseason game; Davis, Ayton or Sarr filled the fifth spot (Ayton started games 1 and 3). Later reports have Sarr as day-one center with Davis at PF, Ayton mainly off the bench.",
+     "lean": "Davis and Sarr start when healthy, about 70%. Ayton starts on any night one is limited.",
+     "source_url": "https://www.tribune242.com/news/2026/oct/16/wizards-ayton-adjusting-to-new-role/",
+     "source_date": "2026-10-16"
+    },
+    {
+     "spot": "Shooting guard (George vs Tre Johnson) and small forward if Dybantsa is out",
+     "candidates": [
+      "Kyshawn George",
+      "Tre Johnson",
+      "Bilal Coulibaly",
+      "Khris Middleton"
+     ],
+     "latest_news": "Tre Johnson (42/60 GS last year) came off the bench in preseason game 1 and was argued as a starter by Wiz of Awes; ESPN depth and Yahoo/Fadeaway projections disagree on George vs Johnson. Coulibaly is projected behind Dybantsa; Keefe says Middleton is 'trending toward' returning.",
+     "lean": "George starts, about 60%. If Dybantsa misses the opener, Coulibaly or Johnson steps in.",
+     "source_url": "https://wizofawes.com/brian-keefe-s-starting-five-uncertainty-speaks-to-how-well-the-wizards-roster-is-built",
+     "source_date": "2026-10-13"
+    }
+   ],
+   "rotation_notes": "Brian Keefe is still undecided; he said 'we're trying different combinations'. Likely sixth men: Deandre Ayton, Tre Johnson, Bilal Coulibaly (56/56 GS last year, so a role-down if benched). Others: Will Riley (18/74 GS, 22.1 mpg), Bub Carrington (48/82 GS, 27.7 mpg), Middleton (34/34 GS last year, returning), Justin Champagnie, Tristan Vukcevic. Davis and Sarr both carry minutes limits. Hashtag depth (George at SG1, Dybantsa SF1) matches the projection. The SI 'Coulibaly out' article is from the 2025 opener and is ignored. Blocked: ESPN depth pages returned inconsistent dates."
+  }
+ ]
+}

@@ -1,6 +1,7 @@
 """Role sources (T-026): DARKO, FantasyPros, Hashtag depth charts, Vegas win totals, refresh."""
 
 import gzip
+import json
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
@@ -187,3 +188,26 @@ def test_write_minutes_two_rows_one_player(db):
     links = {("nba", "999"): ("nba", "203999")}
     r = sync_roles.write_darko(db, rows + [twin], "2026-27", links=links)
     assert r.how["link"] == 1 and r.rows == 1
+
+
+def _espn_page(abbr: str, slots: dict[str, list[tuple[str, str, list[str]]]]) -> str:
+    return json.dumps({"team": {"abbreviation": abbr}, "depthchart": [{"positions": {
+        k: {"athletes": [{"displayName": n, "id": i, "injuries": [{"status": s} for s in inj]} for n, i, inj in v]}
+        for k, v in slots.items()}}]})
+
+
+def test_espn_depth_parse():
+    from app.sources.roles import espn_depth
+    from app.sources.teams import NBA_TEAMS
+
+    TEAMS = sorted(NBA_TEAMS)
+
+    alias = {"GSW": "GS", "NYK": "NY", "NOP": "NO", "SAS": "SA", "UTA": "UTAH", "WAS": "WSH"}
+    pages = {str(i): _espn_page(alias.get(t, t), {"pg": [("A Guard", f"{i}1", [])], "c": [("B Big", f"{i}2", ["Out"]), ("A Guard", f"{i}1", [])]})
+             for i, t in enumerate(TEAMS)}
+    rows = espn_depth.parse(pages)
+    assert len({r.team for r in rows}) == 30  # ESPN codes GS, NY, UTAH, WSH mapped
+    c = [r for r in rows if r.team == TEAMS[0] and r.slot == "C"]
+    assert [(r.depth, r.name, r.injury) for r in c] == [(1, "B Big", "Out"), (2, "A Guard", None)]
+    with pytest.raises(ValueError):
+        espn_depth.parse({k: v for k, v in list(pages.items())[:29]})

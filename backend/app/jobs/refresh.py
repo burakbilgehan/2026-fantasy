@@ -93,6 +93,7 @@ def _game_logs_current() -> str:
 
 JOBS = {j.name: j for j in (
     Job("hashtag", timedelta(hours=6), _roles("hashtag")),
+    Job("espn_depth", timedelta(hours=6), _roles("espn_depth")),
     Job("darko", timedelta(hours=12), _roles("darko")),
     Job("fantasypros", timedelta(hours=12), _roles("fantasypros")),
     Job("vegas", timedelta(hours=24), _roles("vegas")),
@@ -132,7 +133,7 @@ def _data_tables():
                             PlayerProjection, TeamWinTotal)
 
     return {
-        "hashtag": (DepthChartEntry, "hashtag"), "darko": (PlayerMinutesProjection, "darko"),
+        "hashtag": (DepthChartEntry, "hashtag"), "espn_depth": (DepthChartEntry, "espn_depth"), "darko": (PlayerMinutesProjection, "darko"),
         "fantasypros": (PlayerMinutesProjection, "fantasypros"), "vegas": (TeamWinTotal, None),
         "game_logs_current": (PlayerGameLog, None), "espn": (PlayerProjection, "espn"),
         "fantrax": (PlayerMarketValue, "fantrax"), "fanscout": (PlayerProjection, "fanscout"),

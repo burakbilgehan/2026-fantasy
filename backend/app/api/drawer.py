@@ -8,6 +8,7 @@ import re
 from fastapi import APIRouter, HTTPException
 from sqlalchemy import select
 
+from app.api.depth import depth_source
 from app.api.valuation import nba_ids
 from app.db import SessionLocal
 from app.knowledge import index, stats
@@ -84,13 +85,14 @@ def article(slug: str) -> dict:
 
 @router.get("/teams/{team}/depth")
 def team_depth(team: str) -> dict:
-    """Depth chart (Hashtag) per slot with projected minutes per game from ESPN, DARKO and FantasyPros,
-    and the team profile page. Unmatched depth chart names keep `player_id: null`."""
+    """Depth chart (ESPN, else Hashtag: `depth.depth_source`) per slot with projected minutes per game from
+    ESPN, DARKO and FantasyPros, and the team profile page. Unmatched depth chart names keep `player_id: null`."""
     if not re.fullmatch(r"[A-Z]{2,4}", team):
         raise HTTPException(400, "team must be a team code like DEN")
     with SessionLocal() as db:
+        source = depth_source(db)
         rows = db.scalars(select(DepthChartEntry).where(
-            DepthChartEntry.team == team, DepthChartEntry.season == CURRENT_SEASON)
+            DepthChartEntry.team == team, DepthChartEntry.season == CURRENT_SEASON, DepthChartEntry.source == source)
             .order_by(DepthChartEntry.slot, DepthChartEntry.order)).all()
         pks = {r.player_pk for r in rows if r.player_pk}
         espn = {r.player_pk: r.min / r.gp for r in db.scalars(select(PlayerProjection).where(
@@ -118,7 +120,7 @@ def team_depth(team: str) -> dict:
     page = index.read_page(index.TEAM_MD_DIR / f"{team}.md")
     return {
         "team": team,
-        "source": "hashtag",
+        "source": source,
         "fetched_at": fetched,
         "slots": [{"slot": s, "players": ps} for s, ps in slots.items() if ps],
         "report": index.for_drawer(page, index.player_slugs()) if page else None,

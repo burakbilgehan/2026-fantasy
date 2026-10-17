@@ -49,6 +49,7 @@ def main(out: Path) -> None:
         files += 1
 
     write("league", get("/api/league"))
+    write("depth", get("/api/depth"))
     lives = get("/api/draft/live")
     write("draft/live", lives)
     for d in lives:

@@ -1,6 +1,6 @@
 """Sync role sources (T-026) into the DB: projected minutes, depth charts, win totals.
 
-Usage: python -m app.jobs.sync_roles [darko|fantasypros|hashtag|vegas ...]   (default: all)
+Usage: python -m app.jobs.sync_roles [darko|fantasypros|hashtag|espn_depth|vegas ...]   (default: all)
 
 Links to existing players only, with the sync_players Resolver; never creates a
 player or changes identity. Run `make players-sync` first.
@@ -8,6 +8,8 @@ player or changes identity. Run `make players-sync` first.
 - fantasypros: by FantasyPros id; a name match records it.
 - hashtag: by name (+ team when two players share a name), every run. No id is
   stored: the page has none, and a stored name would block re-matching after a trade.
+- espn_depth: by ESPN athlete id (source "espn", the same ids as the ESPN player source); a name
+  match records the id.
 Each run replaces the source's rows for the season, so it is idempotent.
 """
 
@@ -23,7 +25,7 @@ from app.jobs.sync_players import Resolver, load_links
 from app.models import DepthChartEntry, PlayerMinutesProjection, TeamWinTotal
 from app.seasons import CURRENT_SEASON
 from app.sources.players.base import SourcePlayer
-from app.sources.roles import darko, fantasypros, hashtag, vegas
+from app.sources.roles import darko, espn_depth, fantasypros, hashtag, vegas
 
 
 @dataclass
@@ -104,6 +106,23 @@ def write_hashtag(db: Session, rows: list[hashtag.DepthRow], season: str, links=
     return report
 
 
+def write_espn_depth(db: Session, rows: list[espn_depth.DepthRow], season: str, links=None) -> Report:
+    now, report = datetime.now(UTC), Report(espn_depth.KEY)
+    resolver = Resolver(db, load_links() if links is None else links)
+    db.execute(delete(DepthChartEntry).where(
+        DepthChartEntry.source == espn_depth.KEY, DepthChartEntry.season == season))
+    pks: dict[str, int | None] = {}
+    for r in rows:
+        if r.espn_id not in pks:  # a player listed in several slots counts once
+            player = _link(resolver, report, "espn", _sp(r.espn_id, r.name, r.team))
+            pks[r.espn_id] = player.id if player else None
+        db.add(DepthChartEntry(source=espn_depth.KEY, season=season, team=r.team, slot=r.slot,
+                               depth=r.depth, order=r.order, player_pk=pks[r.espn_id],
+                               player_name=r.name, injury=r.injury, fetched_at=now))
+        report.rows += 1
+    return report
+
+
 def write_vegas(db: Session, rows: list[vegas.WinTotal], season: str) -> Report:
     now, report = datetime.now(UTC), Report(vegas.KEY)
     db.execute(delete(TeamWinTotal).where(TeamWinTotal.source == vegas.KEY, TeamWinTotal.season == season))
@@ -123,6 +142,8 @@ def sync_one(key: str, season: str = CURRENT_SEASON) -> Report:
         rows, writer = fantasypros.parse(fantasypros.fetch()), write_fantasypros
     elif key == hashtag.KEY:
         rows, writer = hashtag.parse(hashtag.fetch()), write_hashtag
+    elif key == espn_depth.KEY:
+        rows, writer = espn_depth.parse(espn_depth.fetch()), write_espn_depth
     elif key in (vegas.KEY, "vegas"):
         rows, writer = vegas.parse(vegas.fetch(), season), write_vegas
     else:
@@ -131,7 +152,7 @@ def sync_one(key: str, season: str = CURRENT_SEASON) -> Report:
         return writer(db, rows, season)
 
 
-KEYS = (darko.KEY, fantasypros.KEY, hashtag.KEY, "vegas")
+KEYS = (darko.KEY, fantasypros.KEY, hashtag.KEY, espn_depth.KEY, "vegas")
 
 
 if __name__ == "__main__":

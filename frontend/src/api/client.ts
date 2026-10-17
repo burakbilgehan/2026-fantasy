@@ -208,6 +208,27 @@ export type TeamDepth = {
   report: string | null
 }
 
+export type LeagueDepthPlayer = {
+  player_id: number | null
+  name: string
+  slots: string[] // "PG1", "SG3": slot and place in the source's list
+  starter_slot: string | null
+  injury: string | null // ESPN status, e.g. "Out"
+  minutes: { own: number | null; espn: number | null; darko: number | null; fantasypros: number | null }
+  own_gp: number | null
+  last: { season: string; gp: number | null; mpg: number | null }
+  research: { status: 'confirmed' | 'very_likely' | 'disputed'; role_up: boolean; evidence: string; source_url: string | null; source_date: string | null } | null
+}
+
+export type LeagueDepth = {
+  source: string
+  fetched_at: string | null
+  season: string
+  research_date: string | null
+  teams: { team: string; players: LeagueDepthPlayer[]; rotation: string | null
+    disputed: { spot: string; candidates: string[]; lean: string; source_url: string | null; source_date: string | null }[] }[]
+}
+
 export type TagCount = { tag: string; kind: string | null; channel: string; count: number }
 export type TagPlayer = { player_pk: number; name: string; team: string | null; tag: string; detail: string | null }
 
@@ -384,6 +405,7 @@ export const api = {
   playerCard: (id: number) => request<PlayerCard>(`/api/players/${id}/card`),
   playerProjection: (id: number) => request<PlayerProjection>(`/api/players/${id}/projection`),
   playerTags: (id: number) => request<PlayerTag[]>(`/api/knowledge/players/${id}/tags`),
+  depth: () => request<LeagueDepth>('/api/depth'),
   teamDepth: (team: string) => request<TeamDepth>(`/api/teams/${team}/depth`),
   tags: () => request<TagCount[]>('/api/knowledge/tags'),
   tagPlayers: (tag: string) => request<TagPlayer[]>(`/api/knowledge/tags/${encodeURIComponent(tag)}`),

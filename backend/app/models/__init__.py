@@ -277,7 +277,7 @@ class DepthChartEntry(Base):
     __table_args__ = (UniqueConstraint("source", "season", "team", "slot", "order"),)
 
     id: Mapped[int] = mapped_column(primary_key=True)
-    source: Mapped[str]  # "hashtag"
+    source: Mapped[str]  # "hashtag", "espn_depth"
     season: Mapped[str]
     team: Mapped[str]  # canonical abbreviation
     slot: Mapped[str]  # PG, SG, SF, PF, C
@@ -285,6 +285,7 @@ class DepthChartEntry(Base):
     order: Mapped[int]
     player_pk: Mapped[int | None] = mapped_column(ForeignKey("players.id", ondelete="SET NULL"), index=True)
     player_name: Mapped[str]  # as the source writes it
+    injury: Mapped[str | None]  # source's injury status ("Out", "Day-To-Day"); ESPN only
     fetched_at: Mapped[datetime]
 
 
