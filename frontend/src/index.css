@@ -675,7 +675,7 @@ table.rslots tr.open td { opacity: 0.6; }
 .lpool-head h2, .lnew h2 { margin: 0 8px 0 0; }
 .lpool-head input[type="search"] { flex: 1; min-width: 120px; }
 .lpool-rows { flex: 1; min-height: 0; overflow: auto; }
-.lrow { display: grid; grid-template-columns: 30px 28px 1fr auto 40px auto; align-items: center; gap: 8px;
+.lrow { display: grid; grid-template-columns: 30px 28px 1fr auto minmax(40px, auto) auto; align-items: center; gap: 8px;
   padding: 3px 6px; border-bottom: 1px solid var(--line); cursor: grab; background: var(--panel); }
 .lrow:hover { background: color-mix(in oklab, var(--text) 6%, var(--panel)); }
 .lrow:active { cursor: grabbing; }
@@ -707,3 +707,5 @@ table.rslots tr.open td { opacity: 0.6; }
 .lbody { border-top: 1px solid var(--line); padding: 4px 0; }
 .lbody .hint { padding: 6px 10px; margin: 0; }
 @media (max-width: 720px) { .lists-page { grid-template-columns: 1fr; overflow: auto; } .lpool { max-height: 50vh; } }
+.lrow.sold .lname, .lrow.sold .lmeta, .lrow.sold .lrank { opacity: 0.4; }
+.lsold { color: var(--muted); font-size: 0.8em; white-space: nowrap; max-width: 120px; overflow: hidden; text-overflow: ellipsis; }

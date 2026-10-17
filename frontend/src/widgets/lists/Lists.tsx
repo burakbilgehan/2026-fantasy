@@ -5,6 +5,7 @@ import { useCallback, useEffect, useMemo, useState, type DragEvent } from 'react
 import { api, type ValuationQuery, type ValuedPlayer } from '../../api/client'
 import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
+import { useLiveBoard } from '../../lib/liveBoard'
 import { ListMarks, SYMBOLS, useLists, type PlayerList } from '../../lib/playerLists'
 import { useSynced } from '../../lib/synced'
 
@@ -17,11 +18,12 @@ const readDrag = (e: DragEvent): Drag | null => {
   try { return JSON.parse(e.dataTransfer.getData(MIME)) as Drag } catch { return null }
 }
 
-function PlayerRow({ p, from, onOpen, onRemove }: {
+function PlayerRow({ p, from, onOpen, onRemove, sold }: {
   p: ValuedPlayer; from: string | null; onOpen: (id: number) => void; onRemove?: () => void
+  sold?: string // "$76 Team name" when the live draft sold him (row in grey)
 }) {
   return (
-    <div className="lrow" draggable
+    <div className={sold ? 'lrow sold' : 'lrow'} title={sold ? `Sold: ${sold}` : undefined} draggable
       onDragStart={(e) => { e.dataTransfer.setData(MIME, JSON.stringify({ pk: p.player_id, from })); e.dataTransfer.effectAllowed = 'copyMove' }}>
       <span className="lrank">{p.rank ?? '-'}</span>
       <Headshot nbaId={p.nba_id} name={p.name} />
@@ -31,7 +33,8 @@ function PlayerRow({ p, from, onOpen, onRemove }: {
         {p.injury && <span className="injury">{p.injury}</span>}
       </span>
       <span className="lmeta">{p.team ?? 'FA'} · {p.positions?.join(',') ?? '-'}</span>
-      <span className="lprice" title="Static price (our model)">{p.dollars != null ? `$${p.dollars.toFixed(0)}` : ''}</span>
+      {sold ? <span className="lsold">{sold}</span>
+        : <span className="lprice" title="Static price (our model)">{p.dollars != null ? `$${p.dollars.toFixed(0)}` : ''}</span>}
       {onRemove && <button className="ldel" title="Take out of the list" onClick={onRemove}>×</button>}
     </div>
   )
@@ -48,8 +51,8 @@ function SymbolPicker({ value, onPick }: { value: string; onPick: (s: string) =>
   )
 }
 
-function ListBox({ list, open, onToggle, byId, onOpen, onDrop, dropping, setDropping }: {
-  list: PlayerList; open: boolean; onToggle: () => void; byId: Map<number, ValuedPlayer>
+function ListBox({ list, open, onToggle, byId, sold, onOpen, onDrop, dropping, setDropping }: {
+  list: PlayerList; open: boolean; onToggle: () => void; byId: Map<number, ValuedPlayer>; sold: Map<number, string>
   onOpen: (id: number) => void; onDrop: (d: Drag) => void; dropping: boolean; setDropping: (v: boolean) => void
 }) {
   const ctx = useLists()!
@@ -80,7 +83,7 @@ function ListBox({ list, open, onToggle, byId, onOpen, onDrop, dropping, setDrop
       {open && (
         <div className="lbody">
           {players.length === 0 && <p className="hint">Drag players here.</p>}
-          {players.map((p) => <PlayerRow key={p.player_id} p={p} from={list.id} onOpen={onOpen}
+          {players.map((p) => <PlayerRow key={p.player_id} p={p} from={list.id} onOpen={onOpen} sold={sold.get(p.player_id)}
             onRemove={() => ctx.drop(list.id, p.player_id)} />)}
           {missing > 0 && <p className="hint">{missing} player(s) not in the current base.</p>}
         </div>
@@ -104,6 +107,13 @@ export function Lists() {
   const [newSym, setNewSym] = useState(SYMBOLS[0])
   const [drawer, setDrawer] = useState<number | null>(null)
   const closeDrawer = useCallback(() => setDrawer(null), [])
+  // Players already sold in the followed live draft: grey rows with price and buyer.
+  const board = useLiveBoard().board
+  const sold = useMemo(() => {
+    if (!board) return new Map<number, string>()
+    const team = new Map(board.teams.map((t) => [t.team_id, t.name ?? `Team ${t.team_id}`]))
+    return new Map(board.picks.filter((x) => x.player_pk != null).map((x) => [x.player_pk!, `$${x.price} ${team.get(x.team_id)}`]))
+  }, [board])
 
   useEffect(() => {
     let alive = true
@@ -148,7 +158,7 @@ export function Lists() {
         <p className="hint">Drag a player onto a list. Drag a player from a list back here to take him out.</p>
         {error && <p className="error">{error}</p>}
         <div className="lpool-rows">
-          {pool.map((p) => <PlayerRow key={p.player_id} p={p} from={null} onOpen={setDrawer} />)}
+          {pool.map((p) => <PlayerRow key={p.player_id} p={p} from={null} onOpen={setDrawer} sold={sold.get(p.player_id)} />)}
         </div>
       </section>
       <section className="llists" aria-label="Lists">
@@ -164,7 +174,7 @@ export function Lists() {
         </div>
         {ctx.lists.length === 0 && <p className="hint">No lists yet. Make one above.</p>}
         {ctx.lists.map((l) => (
-          <ListBox key={l.id} list={l} open={openIds.includes(l.id)} onToggle={() => toggle(l.id)} byId={byId}
+          <ListBox key={l.id} list={l} open={openIds.includes(l.id)} onToggle={() => toggle(l.id)} byId={byId} sold={sold}
             onOpen={setDrawer} dropping={dropOn === l.id} setDropping={(v) => setDropOn(v ? l.id : null)}
             onDrop={(d) => { if (d.from !== l.id) ctx.add(l.id, d.pk) }} />
         ))}
