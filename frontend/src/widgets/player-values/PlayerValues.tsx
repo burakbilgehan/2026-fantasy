@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState, type CSSProperties, type ReactNode } from 'react'
+import { useCallback, useEffect, useLayoutEffect, useMemo, useState, type CSSProperties, type ReactNode } from 'react'
 import { api, type TagCount, type Valuation, type ValuationOptions, type ValuationQuery, type ValuedPlayer } from '../../api/client'
 import { Headshot } from '../../components/Headshot'
 import { PlayerDrawer } from '../../components/PlayerDrawer'
@@ -209,7 +209,7 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
     <td className={cls} rowSpan={rowSpan}>
       {col.render ? col.render(p) : col.key === 'name'
         ? <span className="name-cell"><Headshot nbaId={p.nba_id} name={p.name} />
-          <button className="link" aria-haspopup="dialog" data-open-drawer="1">{text}</button>
+          <button className="link" aria-haspopup="dialog" data-open-drawer="1" title={text}>{text}</button>
           <ListMarks pk={p.player_id} /></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
@@ -224,13 +224,13 @@ const PAIRS: [string, string | null][] = [
   ['room_opp', null], ['y_cost', 'y_av'], ['e_cost', 'f_adp'],
 ]
 
-function SortTh({ c, sort, onSort, rowSpan, extra }: {
+function SortTh({ c, sort, onSort, rowSpan, extra, pair }: {
   c: Column | undefined; sort: { key: string; desc: boolean }; onSort: (k: string) => void
-  rowSpan?: number; extra?: string
+  rowSpan?: number; extra?: string; pair?: string // pair: top key of a PAIRS column, for the width fit
 }) {
-  if (!c) return <th rowSpan={rowSpan} className={extra} />
+  if (!c) return <th rowSpan={rowSpan} className={extra} data-pair={pair} />
   return (
-    <th scope="col" title={c.title} tabIndex={0} rowSpan={rowSpan}
+    <th scope="col" title={c.title} tabIndex={0} rowSpan={rowSpan} data-pair={pair}
       aria-sort={sort.key === c.key ? (sort.desc ? 'descending' : 'ascending') : undefined}
       className={[c.num && 'num', sort.key === c.key && 'sorted', extra].filter(Boolean).join(' ') || undefined}
       onClick={() => onSort(c.key)}
@@ -240,13 +240,13 @@ function SortTh({ c, sort, onSort, rowSpan, extra }: {
   )
 }
 
-function TwoLineTable({ rows, cols, sort, onSort, onOpen, onName, sold }: {
-  rows: ValuedPlayer[]; cols: Column[]; sort: { key: string; desc: boolean }
+function TwoLineTable({ rows, cols, sort, onSort, onOpen, onName, sold, drop }: {
+  rows: ValuedPlayer[]; cols: Column[]; sort: { key: string; desc: boolean }; drop: Set<string>
   onSort: (k: string) => void; onOpen: (id: number) => void; sold?: Map<number, string>
   onName?: (id: number) => void // name click (live draft: the row selects, the name opens the drawer)
 }) {
   const byKey = new Map(cols.map((c) => [c.key, c]))
-  const pairs = PAIRS.filter(([t, b]) => byKey.has(t) || (b && byKey.has(b)))
+  const pairs = PAIRS.filter(([t, b]) => !drop.has(t) && (byKey.has(t) || (b && byKey.has(b))))
   const cats = cols.filter((c) => c.group === 'Categories')
   const rank = byKey.get('rank')!
   const name = byKey.get('name')!
@@ -257,7 +257,7 @@ function TwoLineTable({ rows, cols, sort, onSort, onOpen, onName, sold }: {
         <tr className="top">
           <SortTh c={rank} sort={sort} onSort={onSort} rowSpan={2} />
           <SortTh c={name} sort={sort} onSort={onSort} rowSpan={2} extra="sticky" />
-          {pairs.map(([t, b], i) => <SortTh key={t} c={byKey.get(t)} sort={sort} onSort={onSort} rowSpan={b ? undefined : 2}
+          {pairs.map(([t, b], i) => <SortTh key={t} pair={t} c={byKey.get(t)} sort={sort} onSort={onSort} rowSpan={b ? undefined : 2}
             extra={[i === 0 || t === 'dollars' || t === 'y_cost' ? 'group-start' : '', b ? '' : 'cat'].join(' ').trim() || undefined} />)}
           {cats.map((c, i) => <SortTh key={c.key} c={c} sort={sort} onSort={onSort} rowSpan={2}
             extra={['cat', i === 0 ? 'group-start' : ''].join(' ')} />)}
@@ -287,18 +287,46 @@ function TwoLineTable({ rows, cols, sort, onSort, onOpen, onName, sold }: {
   )
 }
 
-// Narrow screens get a two-line list instead of the wide table: no side scroll.
-const NARROW = '(max-width: 720px)'
+// All categories always visible, no side scroll (user, 2026-10-18: the draft runs in a third of a wide
+// screen). When the table is wider than its box, whole columns go, in this order; categories never go.
+// When even the smallest table does not fit, the two-line list takes over.
+const DROP_ORDER = ['e_cost', 'y_cost', 'fpts', 'gp', 'usg', 'po', 'team', 'room_exp']
+const NO_DROP = new Set<string>()
 
-function useNarrow(): boolean {
-  const [narrow, setNarrow] = useState(() => window.matchMedia(NARROW).matches)
+type Fit = { drop: Set<string>; mobile: boolean; measured: boolean }
+const FULL: Fit = { drop: NO_DROP, mobile: false, measured: false }
+
+/** On every width or content change: render the full table once, measure its columns, drop what does not fit. */
+function useFit(el: HTMLDivElement | null, contentKey: string): Fit {
+  const [width, setWidth] = useState(0)
+  const [fit, setFit] = useState<Fit>(FULL)
   useEffect(() => {
-    const m = window.matchMedia(NARROW)
-    const on = () => setNarrow(m.matches)
-    m.addEventListener('change', on)
-    return () => m.removeEventListener('change', on)
-  }, [])
-  return narrow
+    if (!el) return
+    const on = () => setWidth(el.clientWidth)
+    const ro = new ResizeObserver(on)
+    ro.observe(el)
+    window.addEventListener('resize', on)
+    return () => { ro.disconnect(); window.removeEventListener('resize', on) }
+  }, [el])
+  // A new object each time, so the measure effect runs again.
+  useLayoutEffect(() => setFit({ ...FULL }), [el, width, contentKey])
+  useLayoutEffect(() => {
+    if (fit.measured) return
+    const table = el?.querySelector('table')
+    if (!el || !table) return
+    const avail = el.clientWidth
+    const col = new Map([...table.querySelectorAll<HTMLElement>('thead tr.top th[data-pair]')]
+      .map((th) => [th.dataset.pair!, th.offsetWidth]))
+    let total = table.offsetWidth
+    const drop = new Set<string>()
+    for (const k of DROP_ORDER) {
+      if (total <= avail) break
+      total -= col.get(k) ?? 0
+      drop.add(k)
+    }
+    setFit({ drop, mobile: total > avail, measured: true })
+  }, [fit, el])
+  return fit
 }
 
 const TOP_KEYS = ['dollars', 'total', 'y_cost', 'e_cost'] as const
@@ -395,7 +423,7 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
   // Before the tag's players arrive the list is empty, not unfiltered.
   const tagged = useMemo(() => (!tag ? null : tagLoaded?.tag === tag ? tagLoaded.ids : new Set<number>()),
     [tag, tagLoaded])
-  const narrow = useNarrow()
+  const [wrapEl, setWrapEl] = useState<HTMLDivElement | null>(null)
   const lists = useLists()
   const [listId, setListId] = useState('')
   const inList = useMemo(() => {
@@ -474,6 +502,8 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
       return sort.desc ? -r : r
     })
   }, [data, cols, sort, search, tagged, inList, onlyUnsold, sold])
+
+  const fit = useFit(wrapEl, `${view}|${rows.length}|${data ? JSON.stringify(data.settings) : ''}`)
 
   const focusPk = tried && tried.nom === nomKey ? tried.pk : board?.nomination?.player_pk ?? null
   const focusRow = focusPk != null ? byId.get(focusPk) ?? null : null
@@ -616,14 +646,15 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
         </span>
       </div>
       {error && <p className="error">{error}</p>}
-      {narrow ? (
-        <MobileList rows={rows} cols={cols} cats={cols.filter((c) => c.group === 'Categories')} sort={sort}
-          onSort={clickSort} onOpen={setDrawer} />
-      ) : (
-      <div className="table-wrap">
-        <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={openRow} onName={board ? setDrawer : undefined} sold={sold} />
+      <div className={fit.mobile ? 'table-wrap mwrap' : 'table-wrap'} ref={setWrapEl}>
+        {fit.mobile ? (
+          <MobileList rows={rows} cols={cols} cats={cols.filter((c) => c.group === 'Categories')} sort={sort}
+            onSort={clickSort} onOpen={setDrawer} />
+        ) : (
+          <TwoLineTable rows={rows} cols={cols} sort={sort} onSort={clickSort} onOpen={openRow}
+            onName={board ? setDrawer : undefined} sold={sold} drop={fit.drop} />
+        )}
       </div>
-      )}
       </>}
       {mode === 'league' && board && <LeagueOverview teams={teams} focus={focusRow} pool={data?.players ?? []} sold={sold} />}
       {drawer != null && (

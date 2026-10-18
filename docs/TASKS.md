@@ -50,6 +50,7 @@ Status: 🔴 blocked, 🟡 todo, 🟩 doing, ✅ done. Keep this file current at
 ## P2 (target 2026-10-17)
 | ID | Task | Status | Notes |
 |----|------|--------|-------|
+| T-032 | Draft-day UI and tier simulation (2026-10-18). | ✅ done | Draft table fits its box (columns drop, categories never). League view: standings with category averages, smaller supply, money pressure, live price curve with team filter, H2H matrix at the bottom. Historical tab: price curve over all mocks, sold live players grey. `make tier-sim`: stars/value/flyers mixes vs the strongest mock teams (report data/tier_sim/tier_sim.html, also on Pages as tier-sim.html). User will give feedback on the report. |
 | T-020 | Check if Yahoo mock drafts are visible in the API. Rehearsal with the user. | 🟡 todo | Draft-day checklist: on the morning of the draft, re-run `make players-sync` (fresh Yahoo projections and values). |
 
 ## P3 (target 2026-10-31)

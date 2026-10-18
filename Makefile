@@ -71,6 +71,10 @@ roles-sync:
 refresh:
 	cd backend && uv run python -m app.jobs.refresh $(ARGS)
 
+# Tier simulation (stars / value / flyers mixes vs a strong pool of mock teams): data/tier_sim/tier_sim.html
+tier-sim:
+	cd backend && uv run python scripts/tier_sim.py
+
 # Data flow diagram of the own projection with live freshness: docs/modules/projection-flow.html
 flow:
 	cd backend && uv run python -m app.jobs.flow
@@ -148,6 +152,7 @@ pages:
 	cd backend && uv run python -m app.jobs.export_static $(PAGES_DIR)
 	cd frontend && VITE_STATIC=1 VITE_SNAPSHOT=$$(date +%F) VITE_BUILD=$$(date +%s) npx vite build --outDir $(PAGES_DIR)/site --emptyOutDir
 	mv $(PAGES_DIR)/api $(PAGES_DIR)/site/ && touch $(PAGES_DIR)/site/.nojekyll
+	if [ -f data/tier_sim/tier_sim.html ]; then cp data/tier_sim/tier_sim.html $(PAGES_DIR)/site/tier-sim.html; fi
 	cd $(PAGES_DIR)/site && git init -q -b gh-pages && git add -A && git commit -q -m "Static site snapshot" \
 		&& git push -f -q https://github.com/burakbilgehan/2026-fantasy.git gh-pages
 

@@ -1,0 +1,223 @@
+<title>Draft Tier Simulation</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:wght@400;600;700&family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&display=swap">
+<style>
+/* Layout: answer first (heatmap of tier mixes), then the teams and the players behind it. War room tokens. */
+:root {
+  --bg: #eef0f3; --panel: #f8f9fb; --raised: #ffffff; --line: #dde1e7;
+  --text: #262b33; --muted: #687182; --accent: #4b5bd6; --good: #2f8f57; --bad: #c4473b; --flyer: #b7791f;
+  --ui: 'Atkinson Hyperlegible Next', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --display: 'Bricolage Grotesque', var(--ui);
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #1d2129; --panel: #232833; --raised: #2b313d; --line: #353c4a;
+  --text: #dfe3ea; --muted: #8f98a9; --accent: #9eabff; --good: #6fc18d; --bad: #e8806f; --flyer: #e2b25c; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #1d2129; --panel: #232833; --raised: #2b313d; --line: #353c4a;
+  --text: #dfe3ea; --muted: #8f98a9; --accent: #9eabff; --good: #6fc18d; --bad: #e8806f; --flyer: #e2b25c; color-scheme: dark }
+body { background: var(--bg); color: var(--text); font-family: var(--ui); font-size: 15px; line-height: 1.45; }
+.page { margin: 0 auto; max-width: 1800px; padding-block: 20px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 16px; }
+h1 { font-family: var(--display); font-size: 1.8rem; margin: 0; text-wrap: balance; }
+h2 { font-family: var(--display); font-size: 1.15rem; margin: 0 0 4px; }
+.sub { color: var(--muted); margin: 0 0 10px; font-size: 0.88rem; max-width: 95ch; }
+.lede { color: var(--muted); margin: 4px 0 0; max-width: 90ch; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; min-width: 0; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 560px), 1fr)); gap: 16px; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 28px; font-variant-numeric: tabular-nums; }
+.stats div { display: flex; flex-direction: column; }
+.stats small { color: var(--muted); font-size: 0.72rem; letter-spacing: 0.05em; text-transform: uppercase; }
+.stats strong { font-size: 1.35rem; }
+.answers { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 12px; }
+.answer { background: var(--raised); border: 1px solid var(--line); border-radius: 10px; padding: 10px 14px; }
+.answer small { color: var(--muted); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.answer strong { display: block; font-family: var(--display); font-size: 1.5rem; margin: 2px 0; }
+.answer p { margin: 0; font-size: 0.85rem; color: var(--muted); }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--raised); }
+.seg button { font: inherit; font-size: 0.8rem; border: 0; background: none; color: var(--muted); padding: 3px 11px; border-radius: 999px; cursor: pointer; }
+.seg button[aria-checked="true"] { background: color-mix(in oklab, var(--accent) 22%, transparent); color: var(--text); font-weight: 600; }
+button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; font-size: 0.86rem; }
+th, td { padding: 5px 8px; border-bottom: 1px solid var(--line); text-align: right; white-space: nowrap; }
+th { color: var(--muted); font-weight: 500; }
+th.l, td.l { text-align: left; }
+.heat { border-radius: 6px; padding: 2px 7px; font-weight: 700; display: inline-block; min-width: 3.4em; text-align: center; }
+table.hm { table-layout: fixed; min-width: 640px; }
+table.hm td { padding: 4px; border: 0; }
+table.hm th { padding: 6px 4px; }
+.cell { border-radius: 8px; padding: 8px 6px; text-align: center; line-height: 1.2; }
+.cell b { display: block; font-size: 1.25rem; }
+.cell span { display: block; font-size: 0.72rem; color: var(--muted); }
+.cell.best { outline: 2px solid var(--accent); outline-offset: 1px; }
+.cell.empty { color: var(--muted); }
+.bars { display: grid; grid-template-columns: auto 1fr auto; gap: 6px 10px; align-items: center; font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+.bar { height: 14px; border-radius: 4px; background: var(--line); position: relative; overflow: hidden; }
+.bar i { position: absolute; inset: 0 auto 0 0; border-radius: 4px; }
+.roster { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip { display: inline-flex; align-items: center; gap: 4px; border: 1.5px solid var(--line); border-radius: 999px; padding: 1px 8px 1px 1px; font-size: 0.78rem; white-space: nowrap; background: var(--raised); }
+.chip img, .ph { width: 22px; height: 22px; border-radius: 50%; background: var(--line); object-fit: cover; object-position: top; flex: none; }
+.chip.star { border-color: var(--accent); }
+.chip.value { border-color: var(--good); }
+.chip.flyer { border-color: var(--flyer); }
+.chip em { font-style: normal; color: var(--muted); }
+.tier { display: inline-block; font-size: 0.72rem; padding: 0 6px; border-radius: 4px; font-weight: 700; }
+.tier.star { color: var(--accent); border: 1px solid var(--accent); }
+.tier.value { color: var(--good); border: 1px solid var(--good); }
+.tier.flyer { color: var(--flyer); border: 1px solid var(--flyer); }
+.who { display: inline-flex; align-items: center; gap: 6px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 0.8rem; color: var(--muted); }
+.note { color: var(--muted); font-size: 0.85rem; max-width: 100ch; margin: 0; }
+ul.note { padding-left: 18px; }
+ul.note li { margin: 3px 0; }
+</style>
+
+<div class="page">
+  <header>
+    <h1>Draft tier simulation</h1>
+    <p class="lede">Which mix of stars, value players and flyers builds the strongest $200 team? Every team is built from real mock auction prices and played in 9-cat H2H against the strongest real mock teams.</p>
+  </header>
+  <div class="stats" id="stats"></div>
+  <div class="answers" id="answers"></div>
+
+  <section class="card">
+    <h2>Tier mix: stars by flyers</h2>
+    <p class="sub">Cell = median category win share against the pool. Big number: the best star choice per price draw (a manager who picks good stars). Small: all star combinations. Value players fill the rest of the 12 slots.</p>
+    <div style="margin-bottom:10px"><span class="seg" role="radiogroup" aria-label="Prices" id="mode"></span></div>
+    <div class="scroll"><table class="hm" id="heatmap"></table></div>
+  </section>
+
+  <div class="grid2">
+    <section class="card"><h2>By number of stars</h2><p class="sub">Best cell per star count, median of the best team per draw.</p><div class="bars" id="by-stars"></div></section>
+    <section class="card"><h2>By number of flyers</h2><p class="sub">Best cell per flyer count, median of the best team per draw.</p><div class="bars" id="by-flyers"></div></section>
+  </div>
+
+  <section class="card">
+    <h2>Star combinations</h2>
+    <p class="sub">Every star set used in 5 or more teams. Median and best category share of the teams built around it.</p>
+    <div class="scroll"><table id="pairs"></table></div>
+  </section>
+
+  <section class="card">
+    <h2>Draft list: players in the best 10% of teams</h2>
+    <p class="sub">Share of the top-decile teams that hold the player. This is the list to watch during the draft.</p>
+    <div class="scroll"><table id="freq"></table></div>
+  </section>
+
+  <section class="card">
+    <h2>Best 30 teams</h2>
+    <p class="sub">Prices are the sampled sale prices of that draw. Outline color = tier.</p>
+    <div class="legend" style="margin-bottom:8px"><span><span class="tier star">star</span></span><span><span class="tier value">value</span></span><span><span class="tier flyer">flyer</span></span></div>
+    <div class="scroll"><table id="top"></table></div>
+  </section>
+
+  <div class="grid2">
+    <section class="card"><h2>Tiers</h2><p class="sub" id="tier-rule"></p><div class="scroll" style="max-height:520px;overflow:auto"><table id="tiers"></table></div></section>
+    <section class="card"><h2>Opponent pool</h2><p class="sub" id="pool-rule"></p><div class="scroll"><table id="pool"></table></div>
+      <h2 style="margin-top:14px">Left out</h2><p class="sub">Sold in the mocks but outside every tier.</p><div class="scroll" style="max-height:260px;overflow:auto"><table id="excluded"></table></div></section>
+  </div>
+
+  <section class="card">
+    <h2>How to read this</h2>
+    <ul class="note" id="method"></ul>
+  </section>
+</div>
+
+<script>
+const R = __DATA__;
+const HEADS = R.heads || {};
+const img = (nba, name) => HEADS[nba] ? `<img src="${HEADS[nba]}" alt="">` : `<span class="ph" title="${name}"></span>`;
+const pct = (x) => (x * 100).toFixed(0) + '%';
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+let mode = 'sample';
+
+// Red-green tint around the pool average (50%): 40% full red, 65% full green.
+function tint(x) {
+  const z = (x - 0.5) / 0.15, a = Math.min(Math.abs(z), 1) * 55;
+  return `background:color-mix(in oklab, var(${z >= 0 ? '--good' : '--bad'}) ${a.toFixed(0)}%, transparent)`;
+}
+const heat = (x) => `<span class="heat" style="${tint(x)}">${pct(x)}</span>`;
+
+function render() {
+  const cells = mode === 'sample' ? R.cells : R.cells_p75;
+  const key = mode === 'sample' ? 'smart' : 'median';
+  for (const b of document.getElementById('mode').children) b.setAttribute('aria-checked', b.dataset.v === mode);
+  const best = cells.reduce((a, c) => (c[key] > a[key] ? c : a), cells[0]);
+  const S = [0, 1, 2, 3], F = [0, 1, 2, 3, 4, 5, 6];
+  let h = '<thead><tr><th class="l">Stars \\ Flyers</th>' + F.map((f) => `<th>${f} flyer${f === 1 ? '' : 's'}</th>`).join('') + '</tr></thead><tbody>';
+  for (const s of S) {
+    h += `<tr><th class="l">${s} star${s === 1 ? '' : 's'}</th>`;
+    for (const f of F) {
+      const c = cells.find((x) => x.s === s && x.f === f);
+      if (!c) { h += '<td><div class="cell empty">-</div></td>'; continue; }
+      h += `<td><div class="cell${c === best ? ' best' : ''}" style="${tint(c[key])}" title="${s}-${c.v}-${f}: ${c.n} teams, median cost $${c.cost}, median value $${Math.round(c.value)}">
+        <b>${pct(c[key])}</b><span>${s}-${c.v}-${f} · all ${pct(c.median)}</span><span>${c.n} teams · ${c.wins} of ${R.pool.length} wins</span></div></td>`;
+    }
+    h += '</tr>';
+  }
+  document.getElementById('heatmap').innerHTML = h + '</tbody>';
+
+  const bars = (el, dim, label) => {
+    const groups = {};
+    for (const c of cells) groups[c[dim]] = Math.max(groups[c[dim]] ?? 0, c[key]);
+    const xs = Object.entries(groups).sort((a, b) => a[0] - b[0]);
+    document.getElementById(el).innerHTML = xs.map(([k, v]) => `<span>${k} ${label}${k === '1' ? '' : 's'}</span>
+      <div class="bar"><i style="width:${(v * 100).toFixed(1)}%;${tint(v).replace('background:', 'background:')}"></i></div><strong>${pct(v)}</strong>`).join('');
+  };
+  bars('by-stars', 's', 'star'); bars('by-flyers', 'f', 'flyer');
+}
+
+const seg = document.getElementById('mode');
+seg.innerHTML = [['sample', 'Sampled prices'], ['p75', 'Pessimistic (75th percentile)']].map(([v, l]) => `<button role="radio" data-v="${v}">${l}</button>`).join('');
+seg.addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) { mode = b.dataset.v; render(); } });
+
+// Static sections.
+const bestCell = R.cells.reduce((a, c) => (c.smart > a.smart ? c : a), R.cells[0]);
+const bestP75 = R.cells_p75.reduce((a, c) => (c.median > a.median ? c : a), R.cells_p75[0]);
+const byS = (s) => Math.max(...R.cells.filter((c) => c.s === s).map((c) => c.smart));
+document.getElementById('stats').innerHTML = [['Teams built', R.teams.toLocaleString()], ['Different rosters', R.unique_teams.toLocaleString()],
+  ['Mock drafts', R.drafts], ['Sales used', R.sales], ['Opponent pool', R.pool.length + ' teams'], ['Price draws', R.draws]]
+  .map(([k, v]) => `<div><small>${k}</small><strong>${v}</strong></div>`).join('');
+document.getElementById('answers').innerHTML = [
+  ['Best mix', `${bestCell.s}-${bestCell.v}-${bestCell.f}`, `${bestCell.s} stars, ${bestCell.v} value, ${bestCell.f} flyers: ${pct(bestCell.smart)} median category share.`],
+  ['Stars', [0, 1, 2, 3].map((s) => `${s}:${pct(byS(s))}`).join(' '), 'Best cell per number of stars, sampled prices.'],
+  ['If I must outbid (p75)', `${bestP75.s}-${bestP75.v}-${bestP75.f}`, `Best mix when every player costs his 75th percentile price: ${pct(bestP75.median)}.`],
+  ['Pool strength', pct(R.pool.reduce((a, t) => a + t.rr, 0) / R.pool.length), 'Average category share of the pool teams in their own mock rooms.'],
+].map(([k, v, p]) => `<div class="answer"><small>${k}</small><strong>${v}</strong><p>${p}</p></div>`).join('');
+
+const starInfo = Object.fromEntries(R.tiers.map((t) => [t.name, t]));
+document.getElementById('pairs').innerHTML = '<thead><tr><th class="l">Stars</th><th>Teams</th><th>Median</th><th>Best</th><th>Star cost (avg paid)</th></tr></thead><tbody>' +
+  R.pairs.map((p) => { const names = p.stars.split(' + '); const cost = names.reduce((a, n) => a + (starInfo[n]?.avg ?? 0), 0);
+    return `<tr><td class="l"><span class="roster">${names.map((n) => `<span class="chip star">${img(starInfo[n]?.nba, n)}${esc(n)}</span>`).join('')}</span></td><td>${p.n}</td><td>${heat(p.median)}</td><td>${heat(p.best)}</td><td>$${cost.toFixed(0)}</td></tr>`; }).join('') + '</tbody>';
+
+document.getElementById('freq').innerHTML = '<thead><tr><th class="l">Player</th><th class="l">Tier</th><th>Avg paid</th><th>Our price</th><th>Paid / ours</th><th class="l" style="width:40%">In top 10% of teams</th></tr></thead><tbody>' +
+  R.freq.map((f) => `<tr><td class="l"><span class="who">${img(f.nba, f.name)}${esc(f.name)}</span></td><td class="l"><span class="tier ${f.tier}">${f.tier}</span></td><td>$${f.avg}</td><td>$${f.ours}</td>
+    <td>${heat(Math.min(1, 0.5 + (1 - f.avg / Math.max(f.ours, 1)) * 0.3))}</td><td class="l"><div class="bars" style="grid-template-columns:1fr auto"><div class="bar"><i style="width:${(f.share * 100).toFixed(1)}%;background:var(--accent)"></i></div><strong>${pct(f.share)}</strong></div></td></tr>`).join('') + '</tbody>';
+
+document.getElementById('top').innerHTML = '<thead><tr><th>#</th><th>Mix</th><th>Cat share</th><th>Weekly W-L</th><th>Paid</th><th>Our value</th><th class="l">Roster (price)</th></tr></thead><tbody>' +
+  R.top.map((t, i) => `<tr><td>${i + 1}</td><td>${t.s}-${t.v}-${t.f}</td><td>${heat(t.cat)}</td><td>${t.wl[0]}-${t.wl[1]}</td><td>$${t.cost}</td><td>$${Math.round(t.value)}</td>
+    <td class="l"><span class="roster">${t.players.sort((a, b) => (b[3] ?? 0) - (a[3] ?? 0)).map(([n, nba, tier, pr]) => `<span class="chip ${tier}">${img(nba, n)}${esc(n)} <em>$${pr}</em></span>`).join('')}</span></td></tr>`).join('') + '</tbody>';
+
+const rl = R.rules;
+document.getElementById('tier-rule').textContent = `Assumed thresholds. Star: average paid $${rl.star_min} or more and paid / our price at most ${rl.star_max_ratio}. Value: average paid $${rl.flyer_max + 1}-${rl.star_min - 1} and paid / our price at most ${rl.value_max_ratio}. Flyer: average paid $${rl.flyer_max} or less, or never sold ($1).`;
+document.getElementById('tiers').innerHTML = '<thead><tr><th class="l">Player</th><th class="l">Tier</th><th>Avg paid</th><th>Range</th><th>Sales</th><th>Our price</th><th>Paid / ours</th></tr></thead><tbody>' +
+  R.tiers.map((t) => `<tr><td class="l"><span class="who">${img(t.nba, t.name)}${esc(t.name)}${t.injury ? ` <em class="tier" style="color:var(--bad)">${t.injury}</em>` : ''}</span></td><td class="l"><span class="tier ${t.tier}">${t.tier}</span></td><td>$${t.avg}</td><td>$${t.lo}-${t.hi}</td><td>${t.n}</td><td>$${t.ours}</td><td>${(t.avg / Math.max(t.ours, 0.5)).toFixed(2)}</td></tr>`).join('') + '</tbody>';
+document.getElementById('excluded').innerHTML = '<tbody>' + R.excluded.map((x) => `<tr><td class="l">${esc(x.name)}</td><td class="l" style="color:var(--bad)">${esc(x.why)}</td></tr>`).join('') + '</tbody>';
+document.getElementById('pool-rule').textContent = `The ${R.pool.length} strongest teams not on autopick, from the complete mocks. Each roster = its 12 best players by our price.`;
+document.getElementById('pool').innerHTML = '<thead><tr><th class="l">Team</th><th class="l">Mock</th><th>Own room share</th><th>Paid</th><th>Our value</th></tr></thead><tbody>' +
+  R.pool.map((t) => `<tr><td class="l" title="${esc(t.players.join(', '))}">${esc(t.team)}</td><td class="l">${t.draft}</td><td>${heat(t.rr)}</td><td>$${t.paid}</td><td>$${t.value}</td></tr>`).join('') + '</tbody>';
+
+document.getElementById('method').innerHTML = [
+  `Teams: for every mix and every price draw, every star combination is tried, the best flyers by our price are added, and the value slots are filled to maximize our dollars with at least $${rl.min_spend} spent and a legal G G G F F F C lineup.`,
+  'Prices: each draw takes one sale price per player from the middle half of his real mock sales. The pessimistic view uses his 75th percentile sale.',
+  'Score: the team line as in the war room (counting stats per game over the summed games, FG% and FT% from makes and attempts), 9 categories against every pool team. Weekly win = more than 4.5 categories.',
+  'Circular by design: teams are picked with our prices and judged with our projection. Read the results as a comparison between mixes, not as a forecast of the season.',
+  'Flyers look cheaper than they are: a low-minute player adds little to the summed games, so the per-game line barely notices him. Real weekly totals would feel the empty minutes more.',
+  'Prices come from public Yahoo mock rooms, many of them partly on autopick. Our league managers may not give the same discounts.',
+  `Query: ${Object.entries(R.query).filter(([, v]) => v).map(([k, v]) => k + '=' + v).join(', ')}. Seed ${R.seed}, ${R.draws} draws. Generated ${R.generated} by backend/scripts/tier_sim.py.`,
+].map((x) => `<li>${esc(x)}</li>`).join('');
+
+render();
+</script>

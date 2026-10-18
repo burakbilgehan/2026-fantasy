@@ -3,6 +3,7 @@ import { STATIC } from './api/client'
 import { widgets } from './layout/registry'
 import { ListsProvider } from './lib/playerLists'
 import { Depth } from './widgets/depth/Depth'
+import { Historical } from './widgets/historical/Historical'
 import { Lists } from './widgets/lists/Lists'
 import { Assistant } from './widgets/assistant/Assistant'
 import { DraftSim } from './widgets/draft-sim/DraftSim'
@@ -10,9 +11,9 @@ import { PlayerValues, type View } from './widgets/player-values/PlayerValues'
 
 // Views as tabs (user, 2026-10-06). Each has its own address, so two or three can sit side by side in
 // separate browser tabs; every tab polls the backend itself and the selected player is shared.
-type Page = View | 'info' | 'sim' | 'assistant' | 'lists' | 'depth'
+type Page = View | 'info' | 'sim' | 'assistant' | 'lists' | 'depth' | 'historical'
 const PAGES: { key: Page; label: string }[] = [
-  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'lists', label: 'Lists' }, { key: 'depth', label: 'Depth' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
+  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'lists', label: 'Lists' }, { key: 'depth', label: 'Depth' }, { key: 'historical', label: 'Historical' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
 ]
 const pageOf = (): Page => (PAGES.find((p) => `#${p.key}` === window.location.hash)?.key ?? 'draft')
 
@@ -78,7 +79,14 @@ export default function App() {
         </nav>
         <ThemeSwitch />
       </header>
-      {page === 'depth' ? (
+      {page === 'historical' ? (
+        <main className="fill">
+          <section className="panel fill scroll" aria-label="Historical">
+            <h2>Mock auction price curve</h2>
+            <Historical />
+          </section>
+        </main>
+      ) : page === 'depth' ? (
         <main className="fill">
           <section className="panel fill scroll" aria-label="Depth">
             <Depth />

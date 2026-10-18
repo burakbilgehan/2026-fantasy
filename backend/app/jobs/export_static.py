@@ -54,6 +54,9 @@ def main(out: Path) -> None:
     write("draft/live", lives)
     for d in lives:
         write(f"draft/live/{d['league_id']}", get(f"/api/draft/live/{d['league_id']}"))
+        # Boards feed the Historical tab (price curve over all mocks).
+        if d["picks"]:
+            write(f"draft/live/{d['league_id']}/board", get(f"/api/draft/live/{d['league_id']}/board"))
 
     opts = get("/api/valuation/options")
     write("valuation/options", opts)
