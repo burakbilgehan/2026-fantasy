@@ -84,8 +84,8 @@ ul.note li { margin: 3px 0; }
 
   <section class="card">
     <h2>Tier mix: stars by flyers</h2>
-    <p class="sub">Cell = median category win share against the pool. Big number: the best star choice per price draw (a manager who picks good stars). Small: all star combinations. Value players fill the rest of the 12 slots.</p>
-    <div style="margin-bottom:10px"><span class="seg" role="radiogroup" aria-label="Prices" id="mode"></span></div>
+    <p class="sub">Cell = median category win share against the pool. Big number: the best star choice per price draw (a manager who picks good stars). Small: all star combinations. In the pessimistic view the 0-star row has one team per draw, so read the big numbers. Value players fill the rest of the 12 slots.</p>
+    <div style="margin-bottom:10px;display:flex;gap:10px;flex-wrap:wrap"><span class="seg" role="radiogroup" aria-label="Price source" id="src"></span><span class="seg" role="radiogroup" aria-label="Prices" id="mode"></span></div>
     <div class="scroll"><table class="hm" id="heatmap"></table></div>
   </section>
 
@@ -131,7 +131,7 @@ const HEADS = R.heads || {};
 const img = (nba, name) => HEADS[nba] ? `<img src="${HEADS[nba]}" alt="">` : `<span class="ph" title="${name}"></span>`;
 const pct = (x) => (x * 100).toFixed(0) + '%';
 const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
-let mode = 'sample';
+let mode = 'sample', src = 'yahoo', D = R.sources[src];
 
 // Red-green tint around the pool average (50%): 40% full red, 65% full green.
 function tint(x) {
@@ -141,8 +141,8 @@ function tint(x) {
 const heat = (x) => `<span class="heat" style="${tint(x)}">${pct(x)}</span>`;
 
 function render() {
-  const cells = mode === 'sample' ? R.cells : R.cells_p75;
-  const key = mode === 'sample' ? 'smart' : 'median';
+  const cells = mode === 'sample' ? D.cells : D.cells_p75;
+  const key = 'smart';
   for (const b of document.getElementById('mode').children) b.setAttribute('aria-checked', b.dataset.v === mode);
   const best = cells.reduce((a, c) => (c[key] > a[key] ? c : a), cells[0]);
   const S = [0, 1, 2, 3], F = [0, 1, 2, 3, 4, 5, 6];
@@ -170,54 +170,61 @@ function render() {
 }
 
 const seg = document.getElementById('mode');
-seg.innerHTML = [['sample', 'Sampled prices'], ['p75', 'Pessimistic (75th percentile)']].map(([v, l]) => `<button role="radio" data-v="${v}">${l}</button>`).join('');
+seg.innerHTML = [['sample', 'Sampled prices'], ['p75', 'Pessimistic (I must outbid)']].map(([v, l]) => `<button role="radio" data-v="${v}">${l}</button>`).join('');
 seg.addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) { mode = b.dataset.v; render(); } });
 
-// Static sections.
-const bestCell = R.cells.reduce((a, c) => (c.smart > a.smart ? c : a), R.cells[0]);
-const bestP75 = R.cells_p75.reduce((a, c) => (c.median > a.median ? c : a), R.cells_p75[0]);
-const byS = (s) => Math.max(...R.cells.filter((c) => c.s === s).map((c) => c.smart));
-document.getElementById('stats').innerHTML = [['Teams built', R.teams.toLocaleString()], ['Different rosters', R.unique_teams.toLocaleString()],
+// Sections that follow the price source.
+function renderAll() {
+  D = R.sources[src];
+  for (const b of document.getElementById('src').children) b.setAttribute('aria-checked', b.dataset.v === src);
+const bestCell = D.cells.reduce((a, c) => (c.smart > a.smart ? c : a), D.cells[0]);
+const bestP75 = D.cells_p75.reduce((a, c) => (c.smart > a.smart ? c : a), D.cells_p75[0]);
+const byS = (s) => Math.max(...D.cells.filter((c) => c.s === s).map((c) => c.smart));
+document.getElementById('stats').innerHTML = [['Teams built', D.teams.toLocaleString()], ['Different rosters', D.unique_teams.toLocaleString()],
   ['Mock drafts', R.drafts], ['Sales used', R.sales], ['Opponent pool', R.pool.length + ' teams'], ['Price draws', R.draws]]
   .map(([k, v]) => `<div><small>${k}</small><strong>${v}</strong></div>`).join('');
 document.getElementById('answers').innerHTML = [
   ['Best mix', `${bestCell.s}-${bestCell.v}-${bestCell.f}`, `${bestCell.s} stars, ${bestCell.v} value, ${bestCell.f} flyers: ${pct(bestCell.smart)} median category share.`],
   ['Stars', [0, 1, 2, 3].map((s) => `${s}:${pct(byS(s))}`).join(' '), 'Best cell per number of stars, sampled prices.'],
-  ['If I must outbid (p75)', `${bestP75.s}-${bestP75.v}-${bestP75.f}`, `Best mix when every player costs his 75th percentile price: ${pct(bestP75.median)}.`],
+  ['If I must outbid (p75)', `${bestP75.s}-${bestP75.v}-${bestP75.f}`, `Best mix when every player costs more (75th percentile or +15%): ${pct(bestP75.smart)}.`],
   ['Pool strength', pct(R.pool.reduce((a, t) => a + t.rr, 0) / R.pool.length), 'Average category share of the pool teams in their own mock rooms.'],
 ].map(([k, v, p]) => `<div class="answer"><small>${k}</small><strong>${v}</strong><p>${p}</p></div>`).join('');
 
-const starInfo = Object.fromEntries(R.tiers.map((t) => [t.name, t]));
+const starInfo = Object.fromEntries(D.tiers.map((t) => [t.name, t]));
 document.getElementById('pairs').innerHTML = '<thead><tr><th class="l">Stars</th><th>Teams</th><th>Median</th><th>Best</th><th>Star cost (avg paid)</th></tr></thead><tbody>' +
-  R.pairs.map((p) => { const names = p.stars.split(' + '); const cost = names.reduce((a, n) => a + (starInfo[n]?.avg ?? 0), 0);
+  D.pairs.map((p) => { const names = p.stars.split(' + '); const cost = names.reduce((a, n) => a + (starInfo[n]?.avg ?? 0), 0);
     return `<tr><td class="l"><span class="roster">${names.map((n) => `<span class="chip star">${img(starInfo[n]?.nba, n)}${esc(n)}</span>`).join('')}</span></td><td>${p.n}</td><td>${heat(p.median)}</td><td>${heat(p.best)}</td><td>$${cost.toFixed(0)}</td></tr>`; }).join('') + '</tbody>';
 
 document.getElementById('freq').innerHTML = '<thead><tr><th class="l">Player</th><th class="l">Tier</th><th>Avg paid</th><th>Our price</th><th>Paid / ours</th><th class="l" style="width:40%">In top 10% of teams</th></tr></thead><tbody>' +
-  R.freq.map((f) => `<tr><td class="l"><span class="who">${img(f.nba, f.name)}${esc(f.name)}</span></td><td class="l"><span class="tier ${f.tier}">${f.tier}</span></td><td>$${f.avg}</td><td>$${f.ours}</td>
+  D.freq.map((f) => `<tr><td class="l"><span class="who">${img(f.nba, f.name)}${esc(f.name)}</span></td><td class="l"><span class="tier ${f.tier}">${f.tier}</span></td><td>$${f.avg}</td><td>$${f.ours}</td>
     <td>${heat(Math.min(1, 0.5 + (1 - f.avg / Math.max(f.ours, 1)) * 0.3))}</td><td class="l"><div class="bars" style="grid-template-columns:1fr auto"><div class="bar"><i style="width:${(f.share * 100).toFixed(1)}%;background:var(--accent)"></i></div><strong>${pct(f.share)}</strong></div></td></tr>`).join('') + '</tbody>';
 
 document.getElementById('top').innerHTML = '<thead><tr><th>#</th><th>Mix</th><th>Cat share</th><th>Weekly W-L</th><th>Paid</th><th>Our value</th><th class="l">Roster (price)</th></tr></thead><tbody>' +
-  R.top.map((t, i) => `<tr><td>${i + 1}</td><td>${t.s}-${t.v}-${t.f}</td><td>${heat(t.cat)}</td><td>${t.wl[0]}-${t.wl[1]}</td><td>$${t.cost}</td><td>$${Math.round(t.value)}</td>
+  D.top.map((t, i) => `<tr><td>${i + 1}</td><td>${t.s}-${t.v}-${t.f}</td><td>${heat(t.cat)}</td><td>${t.wl[0]}-${t.wl[1]}</td><td>$${t.cost}</td><td>$${Math.round(t.value)}</td>
     <td class="l"><span class="roster">${t.players.sort((a, b) => (b[3] ?? 0) - (a[3] ?? 0)).map(([n, nba, tier, pr]) => `<span class="chip ${tier}">${img(nba, n)}${esc(n)} <em>$${pr}</em></span>`).join('')}</span></td></tr>`).join('') + '</tbody>';
 
 const rl = R.rules;
 document.getElementById('tier-rule').textContent = `Assumed thresholds. Star: average paid $${rl.star_min} or more and paid / our price at most ${rl.star_max_ratio}. Value: average paid $${rl.flyer_max + 1}-${rl.star_min - 1} and paid / our price at most ${rl.value_max_ratio}. Flyer: average paid $${rl.flyer_max} or less, or never sold ($1).`;
 document.getElementById('tiers').innerHTML = '<thead><tr><th class="l">Player</th><th class="l">Tier</th><th>Avg paid</th><th>Range</th><th>Sales</th><th>Our price</th><th>Paid / ours</th></tr></thead><tbody>' +
-  R.tiers.map((t) => `<tr><td class="l"><span class="who">${img(t.nba, t.name)}${esc(t.name)}${t.injury ? ` <em class="tier" style="color:var(--bad)">${t.injury}</em>` : ''}</span></td><td class="l"><span class="tier ${t.tier}">${t.tier}</span></td><td>$${t.avg}</td><td>$${t.lo}-${t.hi}</td><td>${t.n}</td><td>$${t.ours}</td><td>${(t.avg / Math.max(t.ours, 0.5)).toFixed(2)}</td></tr>`).join('') + '</tbody>';
-document.getElementById('excluded').innerHTML = '<tbody>' + R.excluded.map((x) => `<tr><td class="l">${esc(x.name)}</td><td class="l" style="color:var(--bad)">${esc(x.why)}</td></tr>`).join('') + '</tbody>';
+  D.tiers.map((t) => `<tr><td class="l"><span class="who">${img(t.nba, t.name)}${esc(t.name)}${t.injury ? ` <em class="tier" style="color:var(--bad)">${t.injury}</em>` : ''}</span></td><td class="l"><span class="tier ${t.tier}">${t.tier}</span></td><td>$${t.avg}</td><td>$${t.lo}-${t.hi}</td><td>${t.n}</td><td>$${t.ours}</td><td>${(t.avg / Math.max(t.ours, 0.5)).toFixed(2)}</td></tr>`).join('') + '</tbody>';
+document.getElementById('excluded').innerHTML = '<tbody>' + D.excluded.map((x) => `<tr><td class="l">${esc(x.name)}</td><td class="l" style="color:var(--bad)">${esc(x.why)}</td></tr>`).join('') + '</tbody>';
 document.getElementById('pool-rule').textContent = `The ${R.pool.length} strongest teams not on autopick, from the complete mocks. Each roster = its 12 best players by our price.`;
 document.getElementById('pool').innerHTML = '<thead><tr><th class="l">Team</th><th class="l">Mock</th><th>Own room share</th><th>Paid</th><th>Our value</th></tr></thead><tbody>' +
   R.pool.map((t) => `<tr><td class="l" title="${esc(t.players.join(', '))}">${esc(t.team)}</td><td class="l">${t.draft}</td><td>${heat(t.rr)}</td><td>$${t.paid}</td><td>$${t.value}</td></tr>`).join('') + '</tbody>';
 
 document.getElementById('method').innerHTML = [
   `Teams: for every mix and every price draw, every star combination is tried, the best flyers by our price are added, and the value slots are filled to maximize our dollars with at least $${rl.min_spend} spent and a legal G G G F F F C lineup.`,
-  'Prices: each draw takes one sale price per player from the middle half of his real mock sales. The pessimistic view uses his 75th percentile sale.',
-  'Score: the team line as in the war room (counting stats per game over the summed games, FG% and FT% from makes and attempts), 9 categories against every pool team. Weekly win = more than 4.5 categories.',
+  'Prices, two sources. Yahoo value or higher: the highest of Yahoo auction value, the mock median and the market price, +-10% per draw; pessimistic +15%. Mock sales: one price from the middle half of his real mock sales per draw; pessimistic = his 75th percentile sale.',
+  'Score: season totals of the 12 players (counting stats summed, FG% and FT% from makes and attempts), 9 categories against every pool team. Totals, so a low-minute flyer costs volume. Weekly win = more than 4.5 categories.',
   'Circular by design: teams are picked with our prices and judged with our projection. Read the results as a comparison between mixes, not as a forecast of the season.',
-  'Flyers look cheaper than they are: a low-minute player adds little to the summed games, so the per-game line barely notices him. Real weekly totals would feel the empty minutes more.',
   'Prices come from public Yahoo mock rooms, many of them partly on autopick. Our league managers may not give the same discounts.',
   `Query: ${Object.entries(R.query).filter(([, v]) => v).map(([k, v]) => k + '=' + v).join(', ')}. Seed ${R.seed}, ${R.draws} draws. Generated ${R.generated} by backend/scripts/tier_sim.py.`,
 ].map((x) => `<li>${esc(x)}</li>`).join('');
 
-render();
+  render();
+}
+const srcSeg = document.getElementById('src');
+srcSeg.innerHTML = [['yahoo', 'Prices: Yahoo value or higher'], ['mock', 'Prices: mock sales']].map(([v, l]) => `<button role="radio" data-v="${v}">${l}</button>`).join('');
+srcSeg.addEventListener('click', (e) => { const b = e.target.closest('button'); if (b) { src = b.dataset.v; renderAll(); } });
+renderAll();
 </script>

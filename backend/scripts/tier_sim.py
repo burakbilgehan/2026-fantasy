@@ -7,7 +7,7 @@ tab's query and every followed mock draft. Writes a JSON result and an HTML repo
 Usage: uv run python scripts/tier_sim.py [--draws 40] [--seed 7] [--out DIR]
 
 Method
-- Prices: every sold player's real mock sale prices. Each draw samples one price per player from the middle
+- Prices, two sources: 'yahoo' = max(Yahoo auction value, mock median, market price), +-10% per draw; 'mock' = every sold player's real mock sale prices. Each draw samples one price per player from the middle
   half of his own sales (realistic ranges). A pessimistic pass uses the 75th percentile of his sales ("I must outbid").
 - Tiers (assumed thresholds, printed in the report):
   star   = average paid >= STAR_MIN and paid / our price <= STAR_MAX_RATIO (a small overpay is fine);
@@ -17,8 +17,8 @@ Method
 - Teams: for every cell (stars s, flyers f, value 12 - s - f) and every draw, every star combination is
   tried; the best f flyers by our price are added; the value slots are filled by a knapsack that maximizes
   our dollars under the money left, with a G G G F F F C slot assignment and total spend >= MIN_SPEND.
-- Score: team line as in the app (frontend/src/lib/h2h.ts teamLine: counting totals / summed games, FG%
-  and FT% = makes / attempts) against a fixed pool: the strongest non-autopick teams of the complete mocks.
+- Score: team line from season totals (counting stats summed, FG% and FT% = makes / attempts). Unlike the app's
+  per-game line, so a low-minute flyer costs volume against a fixed pool: the strongest non-autopick teams of the complete mocks.
 """
 import argparse, itertools, json, os, random, statistics as st, sys, urllib.request
 from collections import Counter, defaultdict
@@ -37,14 +37,19 @@ POOL_SIZE = 11
 
 
 def get(path):
-    return json.load(urllib.request.urlopen(API + path))
+    for attempt in range(4):  # the local server sometimes resets a connection under load
+        try:
+            return json.load(urllib.request.urlopen(API + path))
+        except (ConnectionError, OSError):
+            if attempt == 3: raise
+            __import__('time').sleep(1 + attempt)
 
 
 def team_line(players):
     ps = [p for p in players if (p['stats'].get('gp') or 0) > 0]
     s = lambda k: sum(p['stats'].get(k) or 0 for p in ps)
-    games = s('gp')
-    line = {k: s(k) / games for k in COUNT}
+    # Season totals, not per-game averages (user, 2026-10-18): a low-minute flyer must cost the team volume.
+    line = {k: s(k) for k in COUNT}
     line['fg_pct'] = s('fgm') / s('fga') if s('fga') else 0
     line['ft_pct'] = s('ftm') / s('fta') if s('fta') else 0
     return line
@@ -86,7 +91,10 @@ def load():
     return val, by_id, sales, boards
 
 
-def tiers(val, sales):
+def tiers(val, sales, source):
+    """source 'mock': each player's real mock sale prices. 'yahoo': the highest of Yahoo's auction value, the mock
+    median and the market price; experienced managers know Yahoo's values (user, 2026-10-18: Daniels and
+    Knueppel go near Yahoo's $16, not the mock $9), and stars still cost what the mocks paid."""
     star, value, flyer, out = [], [], [], []
     for p in val['players']:
         ours = p['dollars'] or 0
@@ -94,11 +102,15 @@ def tiers(val, sales):
             if p['player_id'] in sales: out.append((p, 'out status ' + p['injury']))
             continue
         xs = sales.get(p['player_id'])
+        if source == 'yahoo':
+            m = p['market']
+            base = max(m.get('yahoo_auction_value') or 0, st.median(xs) if xs else 0, m.get('market_price') or 0)
+            xs = [base] if base >= 1 else None
         if not xs:
             if ours >= 2: flyer.append(dict(p=p, prices=[1], avg=1.0))  # never sold in a mock: a $1 player
             continue
         avg = st.mean(xs)
-        e = dict(p=p, prices=xs, avg=avg, ratio=avg / max(ours, 0.5))
+        e = dict(p=p, prices=xs, avg=avg, ratio=avg / max(ours, 0.5), market=source == 'yahoo')
         if avg >= STAR_MIN:
             (star if e['ratio'] <= STAR_MAX_RATIO else out).append(e if e['ratio'] <= STAR_MAX_RATIO else (p, f'star overpay {e["ratio"]:.2f}x'))
         elif avg > FLYER_MAX:
@@ -164,7 +176,10 @@ def simulate(star, value, flyer, pool, draws, seed, price_mode):
     rnd = random.Random(seed)
     results = []
     for d in range(draws):
-        price = lambda e: quantile(e['prices'], 0.75) if price_mode == 'p75' else middle_draw(e['prices'], rnd)
+        def price(e):
+            if e.get('market'):  # one market price: +-10% per draw, +15% when pessimistic
+                return round(e['avg'] * (1.15 if price_mode == 'p75' else rnd.uniform(0.9, 1.1)))
+            return quantile(e['prices'], 0.75) if price_mode == 'p75' else middle_draw(e['prices'], rnd)
         sp = [(max(1, price(e)), e) for e in star]
         vp = [(max(1, price(e)), e) for e in value]
         fp = sorted(((max(1, price(e)), e) for e in flyer), key=lambda x: -(x[1]['p']['dollars'] or 0))
@@ -244,46 +259,50 @@ def main():
     ap.add_argument('--out', default=os.path.join(os.path.dirname(__file__), '..', '..', 'data', 'tier_sim'))
     a = ap.parse_args()
     val, by_id, sales, boards = load()
-    star, value, flyer, out = tiers(val, sales)
-    for name, xs in (('star', star), ('value', value), ('flyer', flyer)):
-        for e in xs: tier_of[e['p']['player_id']] = name
     pool, all_teams = opponent_pool(boards, by_id)
-    print(f'tiers: {len(star)} stars, {len(value)} value, {len(flyer)} flyers; pool {len(pool)} of {len(all_teams)} mock teams', file=sys.stderr)
-    res = simulate(star, value, flyer, pool, a.draws, a.seed, 'sample')
-    pess = simulate(star, value, flyer, pool, 1, a.seed, 'p75')
-    print(f'teams: {len(res)} sampled, {len(pess)} at p75', file=sys.stderr)
-
-    seen, top = set(), []
-    for r in sorted(res, key=lambda r: -r['cat']):
-        key = tuple(sorted(p[0] for p in r['players']))
-        if key not in seen: seen.add(key); top.append(r)
-    decile = top[:max(1, len(top) // 10)]
-    freq = Counter(p[0] for r in decile for p in r['players'])
-    info = {e['p']['name']: e for e in star + value + flyer}
-    pairs = defaultdict(list)
-    for r in res:
-        if r['s']: pairs[' + '.join(sorted(p[0] for p in r['players'] if p[2] == 'star'))].append(r['cat'])
-    tier_rows = lambda xs, t: [dict(name=e['p']['name'], nba=e['p']['nba_id'], tier=t, avg=round(e['avg'], 1), n=len(e['prices']),
-      lo=min(e['prices']), hi=max(e['prices']), ours=round(e['p']['dollars'] or 0, 1), pos=e['p']['positions'], injury=e['p'].get('injury'))
-      for e in sorted(xs, key=lambda e: -e['avg'])]
+    sections, all_tiers = {}, []
+    for source in ('yahoo', 'mock'):
+        tier_of.clear()
+        star, value, flyer, out = tiers(val, sales, source)
+        for name, xs in (('star', star), ('value', value), ('flyer', flyer)):
+            for e in xs: tier_of[e['p']['player_id']] = name
+        print(f'{source}: {len(star)} stars, {len(value)} value, {len(flyer)} flyers; pool {len(pool)} of {len(all_teams)} mock teams', file=sys.stderr)
+        res = simulate(star, value, flyer, pool, a.draws, a.seed, 'sample')
+        pess = simulate(star, value, flyer, pool, 1 if source == 'mock' else a.draws // 4, a.seed, 'p75')
+        print(f'{source}: {len(res)} teams sampled, {len(pess)} pessimistic', file=sys.stderr)
+        seen, top = set(), []
+        for r in sorted(res, key=lambda r: -r['cat']):
+            key = tuple(sorted(p[0] for p in r['players']))
+            if key not in seen: seen.add(key); top.append(r)
+        decile = top[:max(1, len(top) // 10)]
+        freq = Counter(p[0] for r in decile for p in r['players'])
+        info = {e['p']['name']: e for e in star + value + flyer}
+        pairs = defaultdict(list)
+        for r in res:
+            if r['s']: pairs[' + '.join(sorted(p[0] for p in r['players'] if p[2] == 'star'))].append(r['cat'])
+        tier_rows = lambda xs, t: [dict(name=e['p']['name'], nba=e['p']['nba_id'], tier=t, avg=round(e['avg'], 1), n=len(e['prices']),
+          lo=round(min(e['prices'])), hi=round(max(e['prices'])), ours=round(e['p']['dollars'] or 0, 1), pos=e['p']['positions'], injury=e['p'].get('injury'))
+          for e in sorted(xs, key=lambda e: -e['avg'])]
+        sections[source] = dict(
+          tiers=tier_rows(star, 'star') + tier_rows(value, 'value') + tier_rows(flyer, 'flyer'),
+          excluded=[dict(name=(x[0] if isinstance(x, tuple) else x['p'])['name'], why=x[1] if isinstance(x, tuple) else '') for x in out],
+          cells=summarize(res), cells_p75=summarize(pess), teams=len(res), unique_teams=len(top),
+          top=[{k: v for k, v in r.items() if k != 'line'} for r in top[:30]],
+          freq=[dict(name=n, count=c, share=round(c / len(decile), 3), tier=tier_of.get(info[n]['p']['player_id']) if n in info else None,
+            avg=round(info[n]['avg'], 1) if n in info else None, ours=round(info[n]['p']['dollars'] or 0, 1) if n in info else None,
+            nba=info[n]['p']['nba_id'] if n in info else None) for n, c in freq.most_common(40)],
+          pairs=sorted((dict(stars=k, n=len(v), median=st.median(v), best=max(v)) for k, v in pairs.items() if len(v) >= 5),
+            key=lambda x: -x['median'])[:30])
+        all_tiers += sections[source]['tiers']
     report = dict(
       generated=__import__('datetime').date.today().isoformat(), seed=a.seed, draws=a.draws, query=QUERY,
       rules=dict(budget=BUDGET, roster=ROSTER, min_spend=MIN_SPEND, star_min=STAR_MIN, star_max_ratio=STAR_MAX_RATIO,
         flyer_max=FLYER_MAX, value_max_ratio=VALUE_MAX_RATIO, pool_size=POOL_SIZE),
       drafts=len(boards), sales=sum(len(x) for x in sales.values()),
-      tiers=tier_rows(star, 'star') + tier_rows(value, 'value') + tier_rows(flyer, 'flyer'),
-      excluded=[dict(name=(x[0] if isinstance(x, tuple) else x['p'])['name'], why=x[1] if isinstance(x, tuple) else '') for x in out],
       pool=[dict(draft=t['draft'], team=t['team'], paid=t['paid'], value=round(t['value']), rr=round(t['rr'], 3), players=t['players']) for t in pool],
-      cells=summarize(res), cells_p75=summarize(pess), teams=len(res), unique_teams=len(top),
-      top=[{k: v for k, v in r.items() if k != 'line'} for r in top[:30]],
-      freq=[dict(name=n, count=c, share=round(c / len(decile), 3), tier=tier_of.get(info[n]['p']['player_id']) if n in info else None,
-        avg=round(info[n]['avg'], 1) if n in info else None, ours=round(info[n]['p']['dollars'] or 0, 1) if n in info else None,
-        nba=info[n]['p']['nba_id'] if n in info else None) for n, c in freq.most_common(40)],
-      pairs=sorted((dict(stars=k, n=len(v), median=st.median(v), best=max(v)) for k, v in pairs.items() if len(v) >= 5),
-        key=lambda x: -x['median'])[:30],
-    )
+      sources=sections)
     os.makedirs(a.out, exist_ok=True)
-    report['heads'] = headshots({x['nba'] for x in report['tiers'] if x['nba']}, os.path.join(a.out, 'heads'))
+    report['heads'] = headshots({x['nba'] for x in all_tiers if x['nba']}, os.path.join(a.out, 'heads'))
     path = os.path.join(a.out, 'tier_sim.json')
     json.dump(report, open(path, 'w'), indent=1)
     # HTML report: the template in this folder with the JSON inlined (photos load from the NBA CDN).
