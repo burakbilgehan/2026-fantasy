@@ -872,3 +872,29 @@ table.hist-bands .num { text-align: right; }
 table.hist-bands td.heat span { display: inline-block; padding: 1px 8px; border-radius: 6px; font-weight: 700; }
 table.hist-bands td.heat.good span { background: color-mix(in oklab, var(--good) calc(var(--a) * var(--heat-max)), transparent); }
 table.hist-bands td.heat.bad span { background: color-mix(in oklab, var(--bad) calc(var(--a) * var(--heat-max)), transparent); }
+
+/* Injuries tab (user, 2026-10-18): one box per team. */
+.inj-bar { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; margin-bottom: 4px; }
+.inj-legend { margin: 0 0 10px; }
+.inj-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 620px), 1fr)); gap: 12px; }
+.inj-team { border: 1px solid var(--line); border-radius: 10px; background: var(--raised); padding: 8px 10px; min-width: 0; }
+.inj-team h3 { margin: 0 0 4px; font-family: var(--display); font-size: 1rem; }
+.inj-team table { width: 100%; border-collapse: collapse; font-size: 0.84rem; }
+.inj-team td { padding: 5px 6px; border-top: 1px solid var(--line); vertical-align: top; }
+.inj-team td small { display: block; color: var(--muted); font-size: 0.74rem; }
+.inj-team td.num { text-align: right; white-space: nowrap; }
+.inj-team tr.sold { opacity: 0.4; }
+.inj-who { display: flex; gap: 8px; align-items: center; min-width: 170px; }
+.inj-who strong { display: block; }
+.inj-status { display: inline-block; font-weight: 700; font-size: 0.74rem; padding: 0 6px; border-radius: 4px; }
+.inj-status.out { color: var(--bad); border: 1px solid var(--bad); }
+.inj-status.dtd { color: color-mix(in oklab, var(--bad) 45%, var(--text)); border: 1px solid var(--line); }
+.inj-type { white-space: nowrap; }
+.inj-trust { display: inline-block; font-size: 0.72rem; font-weight: 700; padding: 0 6px; border-radius: 999px; }
+.inj-trust.high { background: color-mix(in oklab, var(--good) 35%, transparent); }
+.inj-trust.medium { background: color-mix(in oklab, var(--accent) 25%, transparent); }
+.inj-trust.low { background: color-mix(in oklab, var(--bad) 35%, transparent); }
+.inj-note { font-size: 0.8rem; min-width: 200px; }
+.inj-badge { margin-left: 6px; font-size: 0.68rem; font-weight: 700; border-radius: 4px; padding: 0 4px; cursor: help; white-space: nowrap; }
+.inj-badge.long { color: var(--raised); background: var(--bad); }
+.inj-badge.camp { color: var(--bad); border: 1px dashed var(--bad); }

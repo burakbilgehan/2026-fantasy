@@ -5,6 +5,7 @@ import { PlayerDrawer } from '../../components/PlayerDrawer'
 import { CAT_LABEL } from '../../lib/categories'
 import { useLiveBoard } from '../../lib/liveBoard'
 import { ListMarks, useLists } from '../../lib/playerLists'
+import { badgeOf, normName, useInjuries } from '../../lib/injuries'
 import { useSynced } from '../../lib/synced'
 import { FocusPanel } from './draft/FocusPanel'
 import { LeagueOverview } from './draft/LeagueOverview'
@@ -213,8 +214,16 @@ function Cell({ col, p, rowSpan, extra }: { col: Column; p: ValuedPlayer; rowSpa
           <ListMarks pk={p.player_id} /></span>
         : text}
       {col.key === 'name' && p.injury && <span className="injury" title="Injury status (Yahoo)">{p.injury}</span>}
+      {col.key === 'name' && <InjuryBadge name={p.name} />}
     </td>
   )
+}
+
+// Long, certain absences and missed training camp (user, 2026-10-18), from ESPN; hover shows the full report.
+function InjuryBadge({ name }: { name: string }) {
+  const { byName } = useInjuries()
+  const b = badgeOf(byName.get(normName(name)))
+  return b ? <span className={`inj-badge ${b.cls}`} title={b.title}>{b.text}</span> : null
 }
 
 // Wide table, two lines per player (user, 2026-10-05: see everything without side scroll).
@@ -377,7 +386,7 @@ function MobileList({ rows, cols, cats, sort, onSort, onOpen }: {
             <span className="mrank">{p.rank ?? '-'}</span>
             <Headshot nbaId={p.nba_id} name={p.name} />
             <span className="mname">
-              <span className="mplayer">{p.name}<ListMarks pk={p.player_id} />{p.injury && <span className="injury">{p.injury}</span>}</span>
+              <span className="mplayer">{p.name}<ListMarks pk={p.player_id} />{p.injury && <span className="injury">{p.injury}</span>}<InjuryBadge name={p.name} /></span>
               <small>{sub(p)} {usgChip(p)} {poChip(p)}</small>
             </span>
             {top.map((c) => {
