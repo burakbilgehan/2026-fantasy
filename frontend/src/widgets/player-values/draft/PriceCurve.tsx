@@ -8,7 +8,7 @@ import type { ValuedPlayer } from '../../../api/client'
 import type { DraftTeam } from './model'
 
 type Ref = 'market' | 'ours'
-type Point = { id: number | string; team: number; name: string; nbaId: string | null; exp: number; paid: number; pct: number }
+type Point = { id: number | string; team: number; mine: boolean; name: string; nbaId: string | null; exp: number; paid: number; pct: number }
 
 // Players expected under this price are left out: a ratio on $0-1 says nothing.
 const MIN_EXPECTED = 2
@@ -25,7 +25,7 @@ function points(teams: DraftTeam[], ref: Ref): { pts: Point[]; skipped: number }
   for (const t of teams) for (const p of t.players) {
     const exp = p.row ? expected(p.row, ref) : null
     if (exp == null || exp < MIN_EXPECTED) { skipped++; continue }
-    pts.push({ id: p.pk ?? p.name, team: t.team_id, name: p.name, nbaId: p.row?.nba_id ?? null, exp, paid: p.price, pct: (p.price / exp) * 100 })
+    pts.push({ id: p.pk ?? p.name, team: t.team_id, mine: t.mine, name: p.name, nbaId: p.row?.nba_id ?? null, exp, paid: p.price, pct: (p.price / exp) * 100 })
   }
   return { pts, skipped }
 }
@@ -85,7 +85,7 @@ function Chart({ pts, all, large }: { pts: Point[]; all: Point[]; large: boolean
         const tone = p.pct > 100 ? 'over' : 'under'
         const tip = `${p.name}: expected $${p.exp.toFixed(0)}, paid $${p.paid} (${p.pct.toFixed(0)}%)`
         return (
-          <g key={p.id} className={`pc-pt ${tone}`} aria-label={tip}
+          <g key={p.id} className={`pc-pt ${tone}${p.mine ? ' mine' : ''}`} aria-label={tip}
             onMouseEnter={() => setHover(p)} onMouseLeave={() => setHover((h) => (h === p ? null : h))}>
             {large && p.nbaId ? (
               <>

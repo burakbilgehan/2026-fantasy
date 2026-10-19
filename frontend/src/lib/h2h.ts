@@ -14,14 +14,18 @@ export type Record3 = { w: number; l: number; t: number }
 
 const COUNTING = ['tpm', 'pts', 'reb', 'ast', 'stl', 'blk', 'tov'] as const
 
+/** How counting stats are shown: per game (games-weighted) or season totals (user, 2026-10-18: games
+ * played decide a lot, so totals sit next to the per-game line). Percentages are the same in both. */
+export type LineMode = 'avg' | 'total'
+
 /** Category line of a team. Players with no games are skipped. */
-export function teamLine(players: Totals[]): TeamLine {
+export function teamLine(players: Totals[], mode: LineMode = 'avg'): TeamLine {
   const ps = players.filter((p) => (p.gp ?? 0) > 0)
   if (!ps.length) return null
   const sum = (k: string) => ps.reduce((a, p) => a + (p[k] ?? 0), 0)
   const games = sum('gp')
   const line = {} as Record<Cat, number>
-  for (const k of COUNTING) line[k] = sum(k) / games
+  for (const k of COUNTING) line[k] = mode === 'total' ? sum(k) : sum(k) / games
   const fga = sum('fga'), fta = sum('fta')
   line.fg_pct = fga ? sum('fgm') / fga : 0
   line.ft_pct = fta ? sum('ftm') / fta : 0

@@ -119,3 +119,31 @@ def parse_draft_results(html: str) -> list[dict]:
             "team_name": _clean(tr.find("td", class_="team-name")["title"]),
         })
     return picks
+
+
+def parse_rosters(html: str) -> list[dict]:
+    """Every team's current roster from the public `startingrosters` page (verified 2026-10-19, no login).
+
+    One table `Tst-team-{team_id}` per team, after a header link with the team name. Rows: roster slot
+    (G, F, C, Util, BN, IL ...), Yahoo player id, name, status (P, Q, O, INJ ...; None when healthy).
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    teams = []
+    for table in soup.find_all("table", id=re.compile(r"^Tst-team-\d+$")):
+        team_id = int(table["id"].rsplit("-", 1)[1])
+        header = table.find_previous("p")
+        name = _clean(header.a.get_text()) if header and header.a else None
+        players = []
+        for tr in table.tbody.find_all("tr"):
+            link = tr.find("a", attrs={"data-ys-playerid": True})
+            if link is None:  # empty slot
+                continue
+            status = tr.find("span", class_="ysf-player-status")
+            players.append({
+                "slot": _clean(tr.find("td", class_="pos").get_text()),
+                "yahoo_player_id": link["data-ys-playerid"],
+                "name": _clean(link.get_text()),
+                "status": (_clean(status.get_text()) or None) if status else None,
+            })
+        teams.append({"team_id": team_id, "name": name, "players": players})
+    return teams

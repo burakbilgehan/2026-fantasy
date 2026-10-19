@@ -665,7 +665,8 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
         )}
       </div>
       </>}
-      {mode === 'league' && board && <LeagueOverview teams={teams} focus={focusRow} pool={data?.players ?? []} sold={sold} />}
+      {mode === 'league' && board && <LeagueOverview teams={teams} focus={focusRow} pool={data?.players ?? []} sold={sold}
+        leagueId={board.league_id} query={query} />}
       {drawer != null && (
         <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer}
           onMinimize={() => setMinimized(true)} />

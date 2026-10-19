@@ -15,16 +15,19 @@ export function useLiveBoard() {
   const [auto, setAuto] = useState('')
 
   useEffect(() => {
-    if (STATIC) return
     const load = () => api.liveDrafts()
       .then((list) => {
         setDrafts(list)
         const now = Date.now()
         const active = list.filter((d) => d.last_event_at && now - Date.parse(d.last_event_at) < ACTIVE_MS)
-        setAuto((active.find((d) => d.kind === 'league') ?? active[0])?.league_id ?? '')
+        // After the draft (user, 2026-10-19): with nothing active, follow our league's finished draft, so the
+        // League view keeps the teams. Mocks still need a manual pick.
+        const league = list.find((d) => d.kind === 'league' && d.picks > 0)
+        setAuto((active.find((d) => d.kind === 'league') ?? active[0] ?? league)?.league_id ?? '')
       })
       .catch(() => { /* no backend feed: no live mode */ })
     load()
+    if (STATIC) return // the static copy is a snapshot: load once
     const timer = setInterval(load, POLL_MS)
     return () => clearInterval(timer)
   }, [])
@@ -38,6 +41,7 @@ export function useLiveBoard() {
       .then((r) => { if (alive) setRoom(r) })
       .catch(() => { /* keep the last board: a failed poll must not blank the views */ })
     load()
+    if (STATIC) return () => { alive = false }
     const timer = setInterval(load, POLL_MS)
     return () => { alive = false; clearInterval(timer) }
   }, [leagueId])

@@ -58,6 +58,16 @@ def main(out: Path) -> None:
         if d["picks"]:
             write(f"draft/live/{d['league_id']}/board", get(f"/api/draft/live/{d['league_id']}/board"))
 
+    # Season sim and trade page of our league (user, 2026-10-19): rosters as last fetched, default base.
+    league_draft = next((d for d in lives if d["kind"] == "league" and d["picks"]), None)
+    if league_draft:
+        lid = league_draft["league_id"]
+        write(f"season/sim/{lid}", get(f"/api/season/sim/{lid}"))
+        for name in ("state", "find"):
+            r = c.post(f"/api/trade/{lid}/{name}", json={})
+            r.raise_for_status()
+            write(f"trade/{lid}/{name}", r.json())
+
     opts = get("/api/valuation/options")
     write("valuation/options", opts)
     pools = [p or 0 for p in opts["pools"]]

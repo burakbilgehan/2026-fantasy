@@ -898,3 +898,60 @@ table.hist-bands td.heat.bad span { background: color-mix(in oklab, var(--bad) c
 .inj-badge { margin-left: 6px; font-size: 0.68rem; font-weight: 700; border-radius: 4px; padding: 0 4px; cursor: help; white-space: nowrap; }
 .inj-badge.long { color: var(--raised); background: var(--bad); }
 .inj-badge.camp { color: var(--bad); border: 1px dashed var(--bad); }
+/* My picks in the price curve (user, 2026-10-18): an accent ring around the dot or photo. */
+.pc-pt.mine .pc-dot { stroke: var(--accent); stroke-width: 3; }
+.pc-pt.mine .pc-ring { stroke: var(--accent); stroke-width: 4; }
+
+/* Standings mode switch and season sim (user, 2026-10-18). */
+.pv-league .segmented.small { margin-left: 10px; vertical-align: middle; }
+.pv-league .segmented.small button { padding: 1px 9px; font-size: 0.78rem; }
+.pv-league table.standings small.sub { display: block; font-size: 0.72em; color: var(--muted); line-height: 1.1; }
+.pv-league .season-sim { margin-top: 14px; grid-column: 1 / -1; }
+.pv-league .season-sim .ss-grid { display: flex; flex-wrap: wrap; gap: 16px; align-items: flex-start; }
+.pv-league .season-sim .ss-grid > table { width: auto; }
+.pv-league .season-sim td.good { color: var(--good); }
+.pv-league .season-sim td.bad { color: var(--bad); }
+
+.pv-league .season-sim th, .pv-league .season-sim td { padding: 2px 6px; }
+
+/* Trade page (user, 2026-10-19). */
+.trade { display: flex; flex-direction: column; gap: 12px; }
+.trade-bar { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px; }
+.trade-bar h2 { margin: 0; }
+.trade table.standings { border-collapse: collapse; font-size: 0.85rem; font-variant-numeric: tabular-nums; }
+.trade table.standings th, .trade table.standings td { padding: 2px 6px; border-bottom: 1px solid var(--line); white-space: nowrap; text-align: left; }
+.trade table.standings th { color: var(--muted); font-weight: 500; }
+.trade table.standings .num { text-align: right; }
+.trade table.standings td.team { max-width: 190px; overflow: hidden; text-overflow: ellipsis; }
+.trade table.standings tr.mine td.team { color: var(--accent); font-weight: 600; }
+.trade table.standings td.heat span { padding: 2px 5px; }
+.trade small.sub { display: block; font-size: 0.72em; color: var(--muted); line-height: 1.1; }
+.trade .good { color: var(--good); }
+.trade .bad { color: var(--bad); }
+.trade-builder { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.3fr) minmax(0, 1fr); gap: 16px; align-items: start; }
+@media (max-width: 1100px) { .trade-builder { grid-template-columns: minmax(0, 1fr); } }
+.trade-roster table { width: 100%; }
+.trade-roster tr { cursor: pointer; }
+.trade-roster tr.picked td { background: color-mix(in srgb, var(--accent) 18%, transparent); }
+.trade-roster .status { color: var(--bad); font-size: 0.75em; font-weight: 700; }
+.trade-mid { display: flex; flex-direction: column; gap: 12px; }
+.trade-deal .kpis { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.trade-deal .kpis > div { display: flex; flex-direction: column; background: var(--raised); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; }
+.trade-deal .kpis b { font-size: 1.05rem; }
+.trade .accept.likely { color: var(--good); }
+.trade .accept.maybe { color: var(--muted); }
+.trade .accept.hard { color: var(--bad); }
+.trade .chips { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; margin-bottom: 6px; }
+.trade .chip { border: 1px solid var(--line); background: var(--raised); color: var(--muted); border-radius: 999px; padding: 1px 8px; font-size: 0.78rem; margin-right: 3px; }
+.trade button.chip.on { background: var(--accent); color: var(--panel); }
+.trade span.chip.good { color: var(--good); }
+.trade span.chip.bad { color: var(--bad); }
+.trade .segmented.small { margin-left: 10px; vertical-align: middle; }
+.trade .segmented.small button { padding: 1px 9px; font-size: 0.78rem; }
+.trade tr.changed td { background: color-mix(in srgb, var(--accent) 8%, transparent); }
+.trade small.flip { color: var(--accent); }
+.trade tr.clickable { cursor: pointer; }
+.trade tr.clickable:hover td { background: var(--raised); }
+.trade-overview, .trade-found { overflow-x: auto; }
+.trade-found .found-scroll { max-height: 60vh; overflow: auto; border: 1px solid var(--line); border-radius: 6px; }
+.trade-found .found-scroll thead th { position: sticky; top: 0; background: var(--panel); z-index: 1; }

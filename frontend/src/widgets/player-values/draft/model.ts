@@ -1,6 +1,6 @@
 // Draft panel data (T-018): teams built so far from the live board, joined with the value table rows.
 import type { BoardTeam, LiveBoard, ValuedPlayer } from '../../../api/client'
-import { teamLine, type TeamLine } from '../../../lib/h2h'
+import { teamLine, type LineMode, type TeamLine } from '../../../lib/h2h'
 
 // Our league's draft slots (docs/RULES.md): G G G F F F C, 3 Util, 2 BN.
 export const STARTERS: Record<string, number> = { G: 3, F: 3, C: 1 }
@@ -20,11 +20,11 @@ export function buildTeams(board: LiveBoard, byId: Map<number, ValuedPlayer>): D
 }
 
 /** Category line per team; `add` puts one more player on a team (the "if I buy him" view). */
-export function teamLines(teams: DraftTeam[], add?: { team: number; row: ValuedPlayer }): Map<number, TeamLine> {
+export function teamLines(teams: DraftTeam[], add?: { team: number; row: ValuedPlayer }, mode: LineMode = 'avg'): Map<number, TeamLine> {
   return new Map(teams.map((t) => {
     const rows = t.players.map((p) => p.row).filter((r): r is ValuedPlayer => !!r)
     if (add && add.team === t.team_id) rows.push(add.row)
-    return [t.team_id, teamLine(rows.map((r) => r.stats))]
+    return [t.team_id, teamLine(rows.map((r) => r.stats), mode)]
   }))
 }
 

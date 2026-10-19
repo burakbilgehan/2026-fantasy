@@ -1,18 +1,20 @@
 // League overview during a live draft (T-018): standings with category averages, category supply, the
 // teams built so far, and the simulated H2H matrix at the bottom. With a focus player, my row shows "before → after" for buying him.
-import type { CSSProperties } from 'react'
-import type { ValuedPlayer } from '../../../api/client'
+import { useState, type CSSProperties } from 'react'
+import type { ValuationQuery, ValuedPlayer } from '../../../api/client'
 import { CAT_LABEL } from '../../../lib/categories'
-import { catRanks, h2h, H2H_CATS, type Record3 } from '../../../lib/h2h'
+import { catRanks, h2h, H2H_CATS, type LineMode, type Record3 } from '../../../lib/h2h'
 import { RosterCard, type CardCat } from '../../../components/RosterCard'
 import { CategorySupply } from './CategorySupply'
 import { DraftSignals } from './DraftSignals'
 import { PriceCurve } from './PriceCurve'
+import { SeasonSim } from './SeasonSim'
 import { eligibility, STARTERS, teamLines, type DraftTeam } from './model'
 
 const rec = (r: Record3) => (r.t ? `${r.w}-${r.l}-${r.t}` : `${r.w}-${r.l}`)
 const tone = (r: Record3) => (r.w > r.l ? 'good' : r.w < r.l ? 'bad' : undefined)
-const fmtCat = (c: string, v: number) => (c.endsWith('pct') ? v.toFixed(3).replace(/^0\./, '.') : v.toFixed(1))
+const fmtCat = (c: string, v: number, mode: LineMode = 'avg') =>
+  c.endsWith('pct') ? v.toFixed(3).replace(/^0\./, '.') : mode === 'total' ? v.toFixed(0) : v.toFixed(1)
 
 // Rank tint: 1 = full green, last = full red.
 function rankStyle(rank: number, n: number): { cls: string; style: CSSProperties } {
@@ -20,13 +22,19 @@ function rankStyle(rank: number, n: number): { cls: string; style: CSSProperties
   return { cls: `heat ${z >= 0 ? 'good' : 'bad'}`, style: { '--a': Math.abs(z).toFixed(3) } as CSSProperties }
 }
 
-export function LeagueOverview({ teams, focus, pool, sold }: {
+export function LeagueOverview({ teams, focus, pool, sold, leagueId, query }: {
   teams: DraftTeam[]; focus: ValuedPlayer | null; pool: ValuedPlayer[]; sold: Map<number, string> | undefined
+  leagueId: string | null; query: ValuationQuery | null
 }) {
+  // Per game or season totals (user, 2026-10-18): the mode orders the table and colors the ranks; each cell
+  // also shows the other mode below it.
+  const [mode, setMode] = useState<LineMode>('avg')
+  const other: LineMode = mode === 'avg' ? 'total' : 'avg'
   const me = teams.find((t) => t.mine)
-  const before = teamLines(teams)
+  const before = teamLines(teams, undefined, mode)
+  const second = teamLines(teams, undefined, other)
   const table = h2h(before)
-  const after = focus && me ? h2h(teamLines(teams, { team: me.team_id, row: focus })) : null
+  const after = focus && me ? h2h(teamLines(teams, { team: me.team_id, row: focus }, mode)) : null
   const order = [...teams].sort((a, b) => table.get(b.team_id)!.wins - table.get(a.team_id)!.wins)
   const ranks = catRanks(before)
   const n = teams.length
@@ -77,7 +85,12 @@ export function LeagueOverview({ teams, focus, pool, sold }: {
   // averages in the cells, colored by rank, so a weak category shows at a glance. The matrix moved down.
   return (
     <div className="league-overview">
-      <h3>Standings <span className="hint">· order: simulated H2H · cells: team average, color by rank</span></h3>
+      <h3>Standings <span className="hint">· order: simulated H2H · cells: {mode === 'avg' ? 'per game (season total below)' : 'season total (per game below)'}, color by rank</span>
+        <span className="segmented small" role="radiogroup" aria-label="Standings mode">
+          <button role="radio" aria-checked={mode === 'avg'} className={mode === 'avg' ? 'on' : undefined} onClick={() => setMode('avg')}>Per game</button>
+          <button role="radio" aria-checked={mode === 'total'} className={mode === 'total' ? 'on' : undefined} onClick={() => setMode('total')}>Season total</button>
+        </span>
+      </h3>
       <div className="table-wrap standings-wrap">
         <table className="standings">
           <thead>
@@ -90,6 +103,7 @@ export function LeagueOverview({ teams, focus, pool, sold }: {
           <tbody>
             {order.map((t, i) => {
               const line = before.get(t.team_id)
+              const line2 = second.get(t.team_id)
               const rk = ranks.get(t.team_id)!
               const row = table.get(t.team_id)!
               return (
@@ -100,7 +114,9 @@ export function LeagueOverview({ teams, focus, pool, sold }: {
                     const h = rankStyle(rk[c], n)
                     return (
                       <td key={c} className={line ? `${h.cls} num` : 'num'} title={`${CAT_LABEL[c]}: rank ${rk[c]} of ${n}`}>
-                        <span style={line ? h.style : undefined}>{line ? fmtCat(c, line[c]) : '-'}</span>
+                        <span style={line ? h.style : undefined}>{line ? fmtCat(c, line[c], mode) : '-'}
+                          {line2 && !c.endsWith('pct') && <small className="sub">{fmtCat(c, line2[c], other)}</small>}
+                        </span>
                       </td>
                     )
                   })}
@@ -117,6 +133,7 @@ export function LeagueOverview({ teams, focus, pool, sold }: {
         <DraftSignals teams={teams} pool={pool} sold={sold} />
       </div>
       <PriceCurve teams={teams} />
+      {leagueId && <SeasonSim leagueId={leagueId} query={query} picks={teams.reduce((a, t) => a + t.players.length, 0)} />}
       <h3>Teams <span className="hint">same order as the standings · category cells: team average, color by rank</span></h3>
       <div className="table-wrap teams-wrap">
         <div className="rgrid">

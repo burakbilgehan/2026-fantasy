@@ -8,13 +8,14 @@ import { Injuries } from './widgets/injuries/Injuries'
 import { Lists } from './widgets/lists/Lists'
 import { Assistant } from './widgets/assistant/Assistant'
 import { DraftSim } from './widgets/draft-sim/DraftSim'
+import { Trade } from './widgets/trade/Trade'
 import { PlayerValues, type View } from './widgets/player-values/PlayerValues'
 
 // Views as tabs (user, 2026-10-06). Each has its own address, so two or three can sit side by side in
 // separate browser tabs; every tab polls the backend itself and the selected player is shared.
-type Page = View | 'info' | 'sim' | 'assistant' | 'lists' | 'depth' | 'historical' | 'injuries'
+type Page = View | 'info' | 'sim' | 'assistant' | 'lists' | 'depth' | 'historical' | 'injuries' | 'trade'
 const PAGES: { key: Page; label: string }[] = [
-  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'lists', label: 'Lists' }, { key: 'depth', label: 'Depth' }, { key: 'injuries', label: 'Injuries' }, { key: 'historical', label: 'Historical' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
+  { key: 'draft', label: 'Draft' }, { key: 'league', label: 'League' }, { key: 'trade', label: 'Trade' }, { key: 'player', label: 'Player' }, { key: 'assistant', label: 'Assistant' }, { key: 'lists', label: 'Lists' }, { key: 'depth', label: 'Depth' }, { key: 'injuries', label: 'Injuries' }, { key: 'historical', label: 'Historical' }, { key: 'sim', label: 'Sim' }, { key: 'info', label: 'Info' },
 ]
 const pageOf = (): Page => (PAGES.find((p) => `#${p.key}` === window.location.hash)?.key ?? 'draft')
 
@@ -111,6 +112,12 @@ export default function App() {
           <section className="panel fill scroll" aria-label="Assistant">
             <h2>Draft assistant</h2>
             <Assistant />
+          </section>
+        </main>
+      ) : page === 'trade' ? (
+        <main className="fill">
+          <section className="panel fill scroll" aria-label="Trade">
+            <Trade />
           </section>
         </main>
       ) : page === 'sim' ? (

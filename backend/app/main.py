@@ -3,7 +3,7 @@ from contextlib import asynccontextmanager
 
 from fastapi import FastAPI
 
-from app.api import assistant, capture, depth, draft, drawer, health, knowledge, league, players, sim, sync, valuation
+from app.api import assistant, capture, depth, draft, drawer, health, knowledge, league, players, season, sim, sync, trade, valuation
 from app.db import init_db
 from app.jobs import refresh
 
@@ -31,3 +31,5 @@ app.include_router(drawer.router)
 app.include_router(depth.router)
 app.include_router(sim.router)
 app.include_router(assistant.router)
+app.include_router(season.router)
+app.include_router(trade.router)

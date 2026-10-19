@@ -373,6 +373,66 @@ export type Assist = {
 export type AssistBody = { kind: string; source: string; season: string; basis: string; nominated: number | null
   teams: { team_id: number; players: number[]; money_left: number; open_slots: number; mine: boolean }[] }
 
+/** Season H2H simulation of the drafted rosters (`app/api/season.py`). Records are category W-L-T. */
+export type SeasonSimTeam = {
+  team_id: number; name: string | null; mine: boolean
+  record: [number, number, number]; allplay: [number, number, number]
+  used: number; available: number; slot_days: number; playoff_used: number
+}
+export type SeasonSimWeek = {
+  week: number; first: string; last: string
+  teams: Record<string, { cats: Record<string, number>; used: number; available: number }>
+  matchups: { week: number; a: number; b: number; cats: number[]; score: [number, number, number] }[]
+}
+export type SeasonSim = {
+  league_id: string; my_team_id: number | null; base: { kind: string; source: string; season: string }
+  teams: SeasonSimTeam[]; weeks: SeasonSimWeek[]; missing: string[]; cats: string[]
+}
+
+/** Trade page (`app/api/trade.py`). */
+export type TradeBase = { kind: string; source: string; season: string; model: string; dollars: string; pool: number }
+export type TradePlayer = {
+  pk: number; name: string; team: string | null; positions: string[] | null; injury: string | null
+  yahoo: number; ours: number; slot: string | null; status: string | null
+}
+export type TradeState = {
+  league_id: string; me: number; fetched_at: string | null; source: string; unmatched: string[]
+  teams: { team_id: number; name: string | null; mine: boolean; players: TradePlayer[] }[]
+}
+export type CatLine = Record<string, number>
+export type SimView = { allplay: number; cats: CatLine; record: [number, number, number]; used: number }
+export type TradeSide = {
+  avg: { before: CatLine; after: CatLine; rank_before: CatLine; rank_after: CatLine }
+  total: { before: CatLine; after: CatLine; rank_before: CatLine; rank_after: CatLine }
+  sim_before: SimView; sim_after: SimView
+}
+export type FixtureWeek = {
+  week: number; first: string; last: string; opponent: number | null; score: [number, number, number] | null
+  cats?: number[]; used: number; opp_used?: number
+}
+export type TradeEval = {
+  partner: number; give: number[]; get: number[]
+  my_drop: number[]; my_add: number[]; their_drop: number[]; their_add: number[]
+  names: Record<string, string>
+  values: {
+    give_yahoo: number; get_yahoo: number; give_ours: number; get_ours: number
+    my_drop_ours: number; my_add_ours: number; their_drop_yahoo: number; their_add_yahoo: number
+    ours_change: number; their_yahoo_change: number
+  }
+  me: TradeSide; them: TradeSide; net_allplay: number; fa_only_allplay: number
+  fixture_before: FixtureWeek[]; fixture_after: FixtureWeek[]; accept: 'likely' | 'maybe' | 'hard'
+}
+export type TradeFound = {
+  partner: number; give: number[]; get: number[]; my_drop: number[]; my_add: number[]
+  net_allplay: number; allplay_after: number; score: number; record_after: [number, number, number]
+  cat_gain: CatLine; their_yahoo_gain: number; their_sim_gain: number; ours_gain: number
+  their_drop: number[]; their_add: number[]; names: Record<string, string>
+  accept: 'likely' | 'maybe' | 'hard'
+}
+export type TradeBody = TradeBase & {
+  give: number[]; get: number[]; partner?: number | null; improve?: string[]; max_size?: number; min_their_yahoo?: number
+}
+
 export const api = {
   buildPlans: (q: { kind: string; source: string; season: string; basis: string }) =>
     request<BuildPlans>(`/api/assistant/builds?${new URLSearchParams(q)}`),
@@ -385,6 +445,19 @@ export const api = {
   liveDrafts: () => request<LiveDraftSummary[]>('/api/draft/live'),
   liveDraft: (leagueId: string) => request<LiveDraft>(`/api/draft/live/${leagueId}`),
   liveBoard: (leagueId: string) => request<LiveBoard>(`/api/draft/live/${leagueId}/board`),
+  // Static copy: the state and the whole-league search are exported with the default base; the rest needs the backend.
+  tradeState: (leagueId: string, b: TradeBase) =>
+    STATIC ? request<TradeState>(`/api/trade/${leagueId}/state`) : request<TradeState>(`/api/trade/${leagueId}/state`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(b) }),
+  tradeRefresh: (leagueId: string, b: TradeBase) => request<TradeState>(`/api/trade/${leagueId}/refresh`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(b) }),
+  tradeEvaluate: (leagueId: string, b: TradeBody) => request<TradeEval>(`/api/trade/${leagueId}/evaluate`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(b) }),
+  tradeFind: (leagueId: string, b: TradeBody) => {
+    if (STATIC && (b.give.length || b.get.length || b.improve?.length || b.partner)) {
+      return Promise.reject(new Error('The static copy has only the whole-league search with default settings. Run the local site for the rest.'))
+    }
+    return STATIC ? request<{ results: TradeFound[] }>(`/api/trade/${leagueId}/find`) : request<{ results: TradeFound[] }>(`/api/trade/${leagueId}/find`, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(b) })
+  },
+  seasonSim: (leagueId: string, q: { kind: string; source: string; season: string }) =>
+    request<SeasonSim>(`/api/season/sim/${leagueId}?${new URLSearchParams(q)}`),
   valuationOptions: () => request<ValuationOptions>('/api/valuation/options'),
   valuation: (q: ValuationQuery) => {
     if (STATIC) return staticValuation(q)

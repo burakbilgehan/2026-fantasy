@@ -57,3 +57,15 @@ def test_parse_draft_results():
     assert len(spent) == 12
     assert all(v <= 200 for v in spent.values())
     assert spent["Bobcats şehir hastaneleri"] == 186
+
+
+def test_parse_rosters():
+    teams = web.parse_rosters(_html("startingrosters"))
+    assert sorted(t["team_id"] for t in teams) == list(range(1, 13))
+    me = next(t for t in teams if t["team_id"] == 12)
+    assert me["name"] == "Phantom Thieves"
+    assert len(me["players"]) == 12
+    flagg = next(p for p in me["players"] if p["name"] == "Cooper Flagg")
+    assert flagg["slot"] in {"G", "F", "Util"}
+    assert flagg["yahoo_player_id"].isdigit()
+    assert sum(len(t["players"]) for t in teams) == 144
