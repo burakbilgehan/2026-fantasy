@@ -15,16 +15,17 @@ export function useLiveBoard() {
   const [auto, setAuto] = useState('')
 
   useEffect(() => {
-    if (STATIC) return
     const load = () => api.liveDrafts()
       .then((list) => {
         setDrafts(list)
-        const now = Date.now()
-        const active = list.filter((d) => d.last_event_at && now - Date.parse(d.last_event_at) < ACTIVE_MS)
+        // Static copy: nothing is live, so follow the league draft, else the newest capture with picks.
+        const active = STATIC ? list.filter((d) => d.picks > 0)
+          : list.filter((d) => d.last_event_at && Date.now() - Date.parse(d.last_event_at) < ACTIVE_MS)
         setAuto((active.find((d) => d.kind === 'league') ?? active[0])?.league_id ?? '')
       })
       .catch(() => { /* no backend feed: no live mode */ })
     load()
+    if (STATIC) return
     const timer = setInterval(load, POLL_MS)
     return () => clearInterval(timer)
   }, [])
@@ -38,7 +39,8 @@ export function useLiveBoard() {
       .then((r) => { if (alive) setRoom(r) })
       .catch(() => { /* keep the last board: a failed poll must not blank the views */ })
     load()
-    const timer = setInterval(load, POLL_MS)
+    // The static copy never changes: one load is enough.
+    const timer = STATIC ? undefined : setInterval(load, POLL_MS)
     return () => { alive = false; clearInterval(timer) }
   }, [leagueId])
 

@@ -898,3 +898,33 @@ table.hist-bands td.heat.bad span { background: color-mix(in oklab, var(--bad) c
 .inj-badge { margin-left: 6px; font-size: 0.68rem; font-weight: 700; border-radius: 4px; padding: 0 4px; cursor: help; white-space: nowrap; }
 .inj-badge.long { color: var(--raised); background: var(--bad); }
 .inj-badge.camp { color: var(--bad); border: 1px dashed var(--bad); }
+
+/* Phone (user, 2026-10-19): the desktop shell locks the page and squeezes every view. On a narrow screen
+   the page scrolls as a whole, the tabs scroll sideways and every block takes its natural height. */
+@media (max-width: 720px) {
+  html, body, #root { height: auto; }
+  body { overflow: auto; }
+  .topbar { flex-wrap: wrap; gap: 6px 12px; padding: 8px 12px 4px; }
+  .brand { flex: 1 1 auto; min-width: 0; gap: 4px 10px; }
+  .brand .season { font-size: 0.8rem; }
+  .tabs { order: 3; flex: 1 0 100%; overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tabs a { flex: none; padding: 6px 12px; }
+  main.fill, main.scroll { display: block; flex: none; min-height: 0; overflow: visible; padding: 4px 8px 16px; }
+  .panel.fill, .panel.fill.scroll { display: block; overflow: visible; padding: 10px; }
+  .pv { display: block; }
+  .pv-draft .focus-panel, .pv-player .focus-panel { height: auto; max-height: none; overflow: visible; }
+  .pv-draft .table-wrap { max-height: none; overflow-x: auto; }
+  .pv-league .league-overview { display: block; overflow: visible; }
+  .pv-league .league-overview > * { overflow-x: auto; max-height: none; }
+  .lists-page { display: block; }
+  .lpool, .llists { overflow: visible; }
+  .lpool { max-height: none; margin-bottom: 12px; }
+  .drawer.floating { min-width: 0; }
+  select { max-width: 100%; }
+  .controls label { min-width: 0; max-width: 100%; }
+  .pv-league .league-overview table, .pv-league .league-overview table.standings, .pv-league .league-overview table.h2h { width: max-content; min-width: 100%; table-layout: auto; }
+  .depth-team, .inj-team { overflow-x: auto; }
+  /* Safety net: a wide block scrolls sideways inside the page, the page itself never gets wider. */
+  main.fill, main.scroll { overflow-x: auto; }
+}

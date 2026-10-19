@@ -665,6 +665,10 @@ export function PlayerValues({ mode = 'draft' }: { mode?: View }) {
         )}
       </div>
       </>}
+      {mode === 'player' && !(board && (focusPk != null || board.nomination)) && (
+        <p className="hint">No player in focus. Click a row in the Draft tab.</p>
+      )}
+      {mode === 'league' && !board && live.drafts.length === 0 && <p className="hint">No draft data yet.</p>}
       {mode === 'league' && board && <LeagueOverview teams={teams} focus={focusRow} pool={data?.players ?? []} sold={sold} />}
       {drawer != null && (
         <PlayerDrawer playerId={drawer} query={query} onClose={closeDrawer} onOpenPlayer={setDrawer}
